@@ -17,9 +17,6 @@
 \usepackage{verbatim} 
 \usepackage{color}
 
-\usepackage{ledmac}
-\usepackage{ledpar}
-
 % ======================================================================
 % some macro machinery for readability of conditions
 
@@ -149,123 +146,37 @@
 % ======================================================================
 
 \newcounter{StanzaCounter}[chapter] % main counter for stanzas, is reset at the start of the chapter
-\newcounter{StanzaCounterCopy} % copy of the counter for right column
 
 % in case you want to change the way stanza number is displayed
 \newcommand{\displaystanzanum}[1]{\textbf{#1}} 
 
-% displays stanza number near the stanza (taken from ledpar documentation)
-\newcommand*{\stanzanum}[2][\stanzaindentbase]{% 
-	\hskip -#1\llap{\displaystanzanum{#2}}\hskip #1\ignorespaces
-}
-
-% taken from ledpar docs too, used to separate two stanzas in single stanza block
-\newcommand{\interstanza}{\par\mbox{}\skipnumbering}
-
-\setstanzaindents{0,0,0,0,0,0,0,0,0,0,0,0} % no indentation for stanza lines
-
-% return footnote style to default
-\newcommand{\setdefaultfootnotestyle}{\renewcommand{\thefootnote}{\arabic{footnote}}}
-\setdefaultfootnotestyle 
-
-% stanza
-\newcommand{\mystanza}[3][\@empty]{
-	
-	\begin{astanza}
-	\stepcounter{StanzaCounter} % increase stanza counter
-
-	% depending on the parameter, set language
-	\ifcase\boolexpr{#2=0}
-		\begin{icelandic}
-	\else
-		\begin{english}
-	\fi
-	
-	
-	\ifcase\boolexpr{#2=0}
-		\stanzanum{\theStanzaCounter}
-	\else
-	\fi
-	% warning: do not leave empty lines here, it will break stanza number alignment
-	#3
-	% close language environment
-	\ifcase\boolexpr{#2=0}
-		\end{icelandic}
-	\else
-		\end{english}
-	\fi
-	\\ \& % empty line after stanza and closing symbol
-	\end{astanza}
-	
-	% display stanza footnote
-	\ifx\@empty#1
-	\else
-		% different marks for left and right columns
-		\ifcase\boolexpr{#2=0}
-			\renewcommand{\thefootnote}{\arabic{footnote}L}
-		\else
-			\renewcommand{\thefootnote}{\arabic{footnote}}
-		\fi
-		
-		% display footnote
-		\footnotetext[\theStanzaCounter]{#1}	
-		
-		% return footnote style to normal
-		\setdefaultfootnotestyle
-	\fi
-}
-
-% wrapper for original stanza
-\newcommand{\originalstanza}[2][\@empty]{
-	\mystanza[#1]{0}{#2}
-}
-
-% wrapper for translated stanza
-\newcommand{\translatedstanza}[2][\@empty]{
-	\mystanza[#1]{1}{#2}
-}
-
-% wrapper for column of original stanzas (left column)
-\newenvironment{myoriginal}
-{
-	\begin{Leftside}
-	\firstlinenum{999} % disable line numbers
-	\beginnumbering
-	
-	% remember stanza counter
-	\setcounter{StanzaCounterCopy}{\value{StanzaCounter}}
-}
-{
-	\endnumbering
-	\end{Leftside}
-}
-
-% wrapper for column of translated stanzas (right column)
-\newenvironment{mytranslated}
-{
-	\begin{Rightside}
-	\firstlinenum{999} % disable line numbers
-	\beginnumbering
-	
-	% restore stanza counter
-	\setcounter{StanzaCounter}{\value{StanzaCounterCopy}}
-}
-{
-	\endnumbering
-	\end{Rightside}
-	\Columns
-}
-
 \newcommand{\mystanzapair}[3][\@empty]{
-	\begin{myoriginal}
-	\originalstanza{#2}
-	\end{myoriginal}
-	\begin{mytranslated}
-	\translatedstanza{#3}
-	\end{mytranslated}
-	
-	#1
-	\\
+
+\stepcounter{StanzaCounter} 
+\vskip 1em
+
+\noindent\begin{tabular*}{\textwidth}{@{} p{2em} @{} p{0.45\textwidth} @{} p{0.5\textwidth}}
+
+\begin{minipage}[t]{0em}
+\displaystanzanum{\theStanzaCounter}
+\end{minipage}
+
+&
+
+\begin{minipage}[t]{0.45\textwidth}
+\texticelandic{#2}
+\end{minipage}
+
+&
+
+\begin{minipage}[t]{0.5\textwidth}
+\textenglish{#3}
+\end{minipage} 
+
+\end{tabular*}
+
+#1
+
 }
 
 % add space between footnote mark and text
@@ -278,10 +189,6 @@
 % separator for half-lines in stanzas
 \definecolor{gray}{cmyk}{0,0,0,0.5}
 \newcommand{\sep}{\textcolor{gray}{~|~}}
-
-\setlength{\Lcolwidth}{0.40\textwidth}
-\setlength{\Rcolwidth}{0.55\textwidth}
-\interfootnotelinepenalty=1000
 
 % Pdf converter settings
 \usepackage{cmap}
