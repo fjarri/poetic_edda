@@ -1,4 +1,4 @@
-import yaml
+import json
 import codecs
 
 
@@ -12,7 +12,7 @@ def sequence(contents, pair_limit=10):
 		number = stanza['number']
 		original = " \\\\\n".join(stanza['original'])
 		translation = " \\\\\n".join(stanza['translation'])
-		comment = stanza['comment']
+		comment = u"\n".join(stanza['comment']) if stanza['comment'] is not None else None
 
 		#if (i + 1) % pair_limit == 0:
 		#	res += u"\\end{pairs}\n\n\\begin{pairs}\n\n"
@@ -24,7 +24,7 @@ def sequence(contents, pair_limit=10):
 	#res += u"\\end{pairs}"
 	return res
 
-voluspo = yaml.load(open("stanzas/voluspo.yaml"))
+voluspo = json.load(open("stanzas/voluspo.json"))
 f = codecs.open("voluspo.tex", "w", "utf-8")
 f.write(sequence(voluspo))
 f.close()
