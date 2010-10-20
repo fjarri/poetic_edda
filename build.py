@@ -10,8 +10,8 @@ def sequence(contents, pair_limit=10):
 
 	for i, stanza in enumerate(contents):
 		number = stanza['number']
-		original = " \\\\\n".join(stanza['original'])
-		translation = " \\\\\n".join(stanza['translation'])
+		original = u" \\\\\n".join(stanza['original'])
+		translation = u" \\\\\n".join(stanza['translation'])
 		comment = u"\n".join(stanza['comment']) if stanza['comment'] is not None else None
 
 		#if (i + 1) % pair_limit == 0:
