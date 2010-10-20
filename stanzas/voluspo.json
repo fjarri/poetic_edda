@@ -1,1388 +1,1418 @@
 [
     {
         "comment": [
-            "A few editors, following Bugge, in an effort to clarify the poem, place stanzas 22, 28 and 30 before stanzas 1\\ndash20, but the arrangement in both manuscripts, followed here, seems logical.", 
-            "In stanza 1 the Volva, or wise-woman, called upon by Othin, answers him and demands a hearing.", 
-            "Evidently she belongs to the race of the giants (cf. stanza 2), and thus speaks to Othin unwillingly, being compelled to do so by his magic power.", 
-            "\\emph{Holy:} omitted in \\emph{Regius;} the phrase ``holy races'' probably means little more than mankind in general.", 
-            "\\emph{Heimdall:} the watchman of the gods; cf. stanza 46 and note.", 
-            "Why mankind should be referred to as Heimdall's sons is uncertain, and the phrase has caused much perplexity.", 
-            "Heimdall seems to have had various at tributes, and in the Rigsthula, wherein a certain Rig appears as the ancestor of the three great classes of men, a fourteenth century annotator identifies Rig with Heimdall, on what authority we do not know, for the Rig of the poem seems much more like Othin (cf. Rigsthula, introductory prose and note). \\emph{Valfather} (``Father of the Slain''): Othin, chief of the gods, so called because the slain warriors were brought to him at Valhall (``Hall of the Slain'') by the Valkyries (``Choosers of the Slain'')."
-        ], 
+            "A few editors, following Bugge, in an effort to clarify the poem, place stanzas 22, 28 and 30 before stanzas 1\\ndash20, but the arrangement in both manuscripts, followed here, seems logical.",
+            "In stanza 1 the Volva, or wise-woman, called upon by Othin, answers him and demands a hearing.",
+            "Evidently she belongs to the race of the giants (cf. stanza 2), and thus speaks to Othin unwillingly, being compelled to do so by his magic power.",
+            "\\emph{Holy:} omitted in \\emph{Regius;} the phrase ``holy races'' probably means little more than mankind in general.",
+            "\\emph{Heimdall:} the watchman of the gods; cf. stanza 46 and note.",
+            "Why mankind should be referred to as Heimdall's sons is uncertain, and the phrase has caused much perplexity.",
+            "Heimdall seems to have had various at tributes, and in the Rigsthula, wherein a certain Rig appears as the ancestor of the three great classes of men, a fourteenth century annotator identifies Rig with Heimdall, on what authority we do not know, for the Rig of the poem seems much more like Othin (cf. Rigsthula, introductory prose and note).",
+            "\\emph{Valfather} (``Father of the Slain''): Othin, chief of the gods, so called because the slain warriors were brought to him at Valhall (``Hall of the Slain'') by the Valkyries (``Choosers of the Slain'')."
+        ],
         "translation": [
-            "Hearing I ask{\\sep}from the holy races,", 
-            "From Heimdall's sons,{\\sep}both high and low;", 
-            "Thou wilt, Valfather,{\\sep}that well I relate", 
+            "Hearing I ask{\\sep}from the holy races,",
+            "From Heimdall's sons,{\\sep}both high and low;",
+            "Thou wilt, Valfather,{\\sep}that well I relate",
             "Old tales I remember{\\sep}of men long ago."
-        ], 
-        "number": 1, 
+        ],
+        "number": 1,
         "original": [
-            "Hljóðs bið ek allar{\\sep}helgar kindir,", 
-            "meiri ok minni{\\sep}mögu Heimdallar;", 
-            "viltu, at ek, Valföðr!{\\sep}vel framtelja", 
+            "Hljóðs bið ek allar{\\sep}helgar kindir,",
+            "meiri ok minni{\\sep}mögu Heimdallar;",
+            "viltu, at ek, Valföðr!{\\sep}vel framtelja",
             "forn spjöll fíra,{\\sep}þau er fremst um man."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Nine worlds:} the worlds of the gods (Asgarth), of the Wanes (Vanaheim, cf. stanza 21 and note), of the elves (Alfheim), of men (Mithgarth), of the giants (Jotunheim), of fire (Muspellsheim, cf. stanza 47 and note), of the dark elves (Svartalfaheim), of the dead (Niflheim), and presumably of the dwarfs (perhaps Nithavellir, cf. stanza 37 and note, but the ninth world is uncertain). \\emph{The tree:} the world-ash Yggdrasil, {[}fp. 4{]} symbolizing the universe; cf. \\emph{Grimnismol,} 29\\ndash35 and notes, wherein Yggdrasil is described at length."
-        ], 
+            "\\emph{Nine worlds:} the worlds of the gods (Asgarth), of the Wanes (Vanaheim, cf. stanza 21 and note), of the elves (Alfheim), of men (Mithgarth), of the giants (Jotunheim), of fire (Muspellsheim, cf. stanza 47 and note), of the dark elves (Svartalfaheim), of the dead (Niflheim), and presumably of the dwarfs (perhaps Nithavellir, cf. stanza 37 and note, but the ninth world is uncertain).",
+            "\\emph{The tree:} the world-ash Yggdrasil, {[}fp. 4{]} symbolizing the universe; cf. \\emph{Grimnismol,} 29\\ndash35 and notes, wherein Yggdrasil is described at length."
+        ],
         "translation": [
-            "I remember yet{\\sep}the giants of yore,", 
-            "Who gave me bread{\\sep}in the days gone by;", 
-            "Nine worlds I knew,{\\sep}the nine in the tree", 
+            "I remember yet{\\sep}the giants of yore,",
+            "Who gave me bread{\\sep}in the days gone by;",
+            "Nine worlds I knew,{\\sep}the nine in the tree",
             "With mighty roots{\\sep}beneath the mold."
-        ], 
-        "number": 2, 
+        ],
+        "number": 2,
         "original": [
-            "Ek man jötna{\\sep}ár um borna,", 
-            "þá er forðum{\\sep}mik fœdda höfðu;", 
-            "níu man ek heima,{\\sep}níu íviði,", 
+            "Ek man jötna{\\sep}ár um borna,",
+            "þá er forðum{\\sep}mik fœdda höfðu;",
+            "níu man ek heima,{\\sep}níu íviði,",
             "mjötvið mœran{\\sep}fyr mold neðan."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\emph{Vafthruthnismol,} 21.", 
-            "in this stanza as quoted in Snorri's Edda the first line runs: ``Of old was the age ere aught there was.'' \\emph{Yawning gap:} this phrase, ``Ginnunga-gap,'' is sometimes used as a proper name."
-        ], 
+            "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\emph{Vafthruthnismol,} 21.",
+            "in this stanza as quoted in Snorri's Edda the first line runs: ``Of old was the age ere aught there was.''",
+            "\\emph{Yawning gap:} this phrase, ``Ginnunga-gap,'' is sometimes used as a proper name."
+        ],
         "translation": [
-            "Of old was the age{\\sep}when Ymir lived;", 
-            "Sea nor cool waves{\\sep}nor sand there were;", 
-            "Earth had not been,{\\sep}nor heaven above,", 
+            "Of old was the age{\\sep}when Ymir lived;",
+            "Sea nor cool waves{\\sep}nor sand there were;",
+            "Earth had not been,{\\sep}nor heaven above,",
             "But a yawning gap,{\\sep}and grass nowhere."
-        ], 
-        "number": 3, 
+        ],
+        "number": 3,
         "original": [
-            "Ár var alda{\\sep}þar er Ýmir bygði,", 
-            "vara sandr né sær{\\sep}né svalar unnir,", 
-            "jörð fannsk æva{\\sep}né upphiminn,", 
+            "Ár var alda{\\sep}þar er Ýmir bygði,",
+            "vara sandr né sær{\\sep}né svalar unnir,",
+            "jörð fannsk æva{\\sep}né upphiminn,",
             "gap var ginnunga,{\\sep}en gras hvergi."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Bur's sons: Othin, Vili, and Ve.", 
-            "Of Bur we know only that his wife was Bestla, daughter of Bolthorn; cf. \\emph{Hovamol,} 141.", 
-            "Vili and Ve are mentioned by name in the Eddic poems only in \\emph{Lokasenna,} 26.", 
-            "\\emph{Mithgarth} (``Middle Dwelling''): the world of men.", 
+            "Bur's sons: Othin, Vili, and Ve.",
+            "Of Bur we know only that his wife was Bestla, daughter of Bolthorn; cf. \\emph{Hovamol,} 141.",
+            "Vili and Ve are mentioned by name in the Eddic poems only in \\emph{Lokasenna,} 26.",
+            "\\emph{Mithgarth} (``Middle Dwelling''): the world of men.",
             "\\emph{Leeks:} the leek was often used as the symbol of fine growth (cf. \\emph{Guthrunarkvitha} I, 17), and it was also supposed to have magic power (cf. \\emph{Sigrdrifumol,} 7)."
-        ], 
+        ],
         "translation": [
-            "Then Bur's sons lifted{\\sep}the level land,", 
-            "Mithgarth the mighty{\\sep}there they made;", 
-            "The sun from the south{\\sep}warmed the stones of earth,", 
+            "Then Bur's sons lifted{\\sep}the level land,",
+            "Mithgarth the mighty{\\sep}there they made;",
+            "The sun from the south{\\sep}warmed the stones of earth,",
             "And green was the ground{\\sep}with growing leeks."
-        ], 
-        "number": 4, 
+        ],
+        "number": 4,
         "original": [
-            "Áðr Burs synir{\\sep}bjöðum um ypðu,", 
-            "þeir er Miðgarð{\\sep}mœran skópu;", 
-            "sól skein sunnan{\\sep}á salar steina,", 
+            "Áðr Burs synir{\\sep}bjöðum um ypðu,",
+            "þeir er Miðgarð{\\sep}mœran skópu;",
+            "sól skein sunnan{\\sep}á salar steina,",
             "þá var grund gróin{\\sep}grœnum lauki."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Various editors have regarded this stanza as interpolated; Hoffory thinks it describes the northern summer night in which the sun does not set.", 
-            "Lines 3\\ndash5 are quoted by Snorri.", 
-            "In the manuscripts line 4 follows line 5.", 
+            "Various editors have regarded this stanza as interpolated; Hoffory thinks it describes the northern summer night in which the sun does not set.",
+            "Lines 3\\ndash5 are quoted by Snorri.",
+            "In the manuscripts line 4 follows line 5.",
             "Regarding the sun and moon {[}fp. 5{]} as daughter and son of Mundilferi, cf. \\emph{Vafthruthnismol,} 23 and note, and \\emph{Grimnismol,} 37 and note."
-        ], 
+        ],
         "translation": [
-            "The sun, the sister{\\sep}of the moon, from the south", 
-            "Her right hand cast{\\sep}over heaven's rim;", 
-            "No knowledge she had{\\sep}where her home should be,", 
-            "The moon knew not{\\sep}what might was his,", 
+            "The sun, the sister{\\sep}of the moon, from the south",
+            "Her right hand cast{\\sep}over heaven's rim;",
+            "No knowledge she had{\\sep}where her home should be,",
+            "The moon knew not{\\sep}what might was his,",
             "The stars knew not{\\sep}where their stations were."
-        ], 
-        "number": 5, 
+        ],
+        "number": 5,
         "original": [
-            "Sól varp sunnan,{\\sep}sinni mána,", 
-            "hendi inni hœgri{\\sep}um himinjódyr;", 
-            "sól þat ne vissi{\\sep}hvar hon sali átti,", 
-            "máni þat ne vissi{\\sep}hvat hann megins átti,", 
+            "Sól varp sunnan,{\\sep}sinni mána,",
+            "hendi inni hœgri{\\sep}um himinjódyr;",
+            "sól þat ne vissi{\\sep}hvar hon sali átti,",
+            "máni þat ne vissi{\\sep}hvat hann megins átti,",
             "stjörnur þat ne vissu{\\sep}hvar þær staði áttu."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Possibly an interpolation, but there seems no strong reason for assuming this.", 
+            "Possibly an interpolation, but there seems no strong reason for assuming this.",
             "Lines 1\\ndash2 are identical with lines 1\\ndash2 of stanza 9, and line 2 may have been inserted here from that later stanza."
-        ], 
+        ],
         "translation": [
-            "Then sought the gods{\\sep}their assembly-seats,", 
-            "The holy ones,{\\sep}and council held;", 
-            "Names then gave they{\\sep}to noon and twilight,", 
-            "Morning they named,{\\sep}and the waning moon,", 
+            "Then sought the gods{\\sep}their assembly-seats,",
+            "The holy ones,{\\sep}and council held;",
+            "Names then gave they{\\sep}to noon and twilight,",
+            "Morning they named,{\\sep}and the waning moon,",
             "Night and evening,{\\sep}the years to number."
-        ], 
-        "number": 6, 
+        ],
+        "number": 6,
         "original": [
-            "Þá gengu regin öll{\\sep}á rökstóla,", 
-            "ginnheilug goð,{\\sep}ok um þat gættusk;", 
-            "nátt ok niðjum{\\sep}nöfn um gáfu,", 
-            "morgin hétu{\\sep}ok miðjan dag,", 
+            "Þá gengu regin öll{\\sep}á rökstóla,",
+            "ginnheilug goð,{\\sep}ok um þat gættusk;",
+            "nátt ok niðjum{\\sep}nöfn um gáfu,",
+            "morgin hétu{\\sep}ok miðjan dag,",
             "undorn ok aptan,{\\sep}árum at telja."
         ]
-    }, 
+    },
     {
         "comment": [
             "\\emph{Ithavoll} (``Field of Deeds''?): mentioned only here and in stanza 60 as the meeting-place of the gods; it appears in no other connection."
-        ], 
+        ],
         "translation": [
-            "At Ithavoll met{\\sep}the mighty gods,", 
-            "Shrines and temples{\\sep}they timbered high;", 
-            "Forges they set, and{\\sep}they smithied ore,", 
+            "At Ithavoll met{\\sep}the mighty gods,",
+            "Shrines and temples{\\sep}they timbered high;",
+            "Forges they set, and{\\sep}they smithied ore,",
             "Tongs they wrought,{\\sep}and tools they fashioned."
-        ], 
-        "number": 7, 
+        ],
+        "number": 7,
         "original": [
-            "Hittusk æsir{\\sep}á Iðavelli,", 
-            "þeir er hörg ok hof{\\sep}hátimbruðu,", 
-            "afla lögðu,{\\sep}auð smíðuðu,", 
+            "Hittusk æsir{\\sep}á Iðavelli,",
+            "þeir er hörg ok hof{\\sep}hátimbruðu,",
+            "afla lögðu,{\\sep}auð smíðuðu,",
             "tangir skópu{\\sep}ok tól görðu."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Tables:} the exact nature of this game, and whether it more closely resembled chess or checkers, has been made the subject of a 400-page treatise, Willard Fiske's ``Chess in Iceland.'' \\emph{Giant-maids:} perhaps the three great Norns, corresponding to the three fates; cf. stanza 20, and note.", 
-            "Possibly, however, something has been lost after this stanza, and the missing passage, replaced by the catalogue of the dwarfs (stanzas 9\\ndash16), may have explained the ``giant-maids'' otherwise than as Norns.", 
-            "In \\emph{Vafthruthnismol,} 49, the Norms (this time ``three throngs'' in stead of simply ``three'') are spoken of as giant-maidens; {[}fp. 6{]} \\emph{Fafnismol,} 13, indicates the existence of many lesser Norns, belonging to various races.", 
+            "\\emph{Tables:} the exact nature of this game, and whether it more closely resembled chess or checkers, has been made the subject of a 400-page treatise, Willard Fiske's ``Chess in Iceland.''",
+            "\\emph{Giant-maids:} perhaps the three great Norns, corresponding to the three fates; cf. stanza 20, and note.",
+            "Possibly, however, something has been lost after this stanza, and the missing passage, replaced by the catalogue of the dwarfs (stanzas 9\\ndash16), may have explained the ``giant-maids'' otherwise than as Norns.",
+            "In \\emph{Vafthruthnismol,} 49, the Norms (this time ``three throngs'' in stead of simply ``three'') are spoken of as giant-maidens; {[}fp. 6{]} \\emph{Fafnismol,} 13, indicates the existence of many lesser Norns, belonging to various races.",
             "\\emph{Jotunheim:} the world of the giants."
-        ], 
+        ],
         "translation": [
-            "In their dwellings at peace{\\sep}they played at tables,", 
-            "Of gold no lack{\\sep}did the gods then know,{\\commamdash}", 
-            "Till thither came{\\sep}up giant-maids three,", 
+            "In their dwellings at peace{\\sep}they played at tables,",
+            "Of gold no lack{\\sep}did the gods then know,{\\commamdash}",
+            "Till thither came{\\sep}up giant-maids three,",
             "Huge of might,{\\sep}out of Jotunheim."
-        ], 
-        "number": 8, 
+        ],
+        "number": 8,
         "original": [
-            "Tefldu í túni,{\\sep}teitir váru,", 
-            "var þeim vettugis{\\sep}vant ór gulli;", 
-            "unz þrjár kvámu{\\sep}þursa meyjar", 
+            "Tefldu í túni,{\\sep}teitir váru,",
+            "var þeim vettugis{\\sep}vant ór gulli;",
+            "unz þrjár kvámu{\\sep}þursa meyjar",
             "ámátkar mjök{\\sep}ór jötunheimum."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Here apparently begins the interpolated catalogue of the dwarfs, running through stanza 16; possibly, however, the interpolated section does not begin before stanza 11.", 
-            "Snorri quotes practically the entire section, the names appearing in a some what changed order.", 
-            "\\emph{Brimir} and \\emph{Blain:} nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza 3). Brimir, however, appears in stanza 37 in connection with the home of the dwarfs.", 
+            "Here apparently begins the interpolated catalogue of the dwarfs, running through stanza 16; possibly, however, the interpolated section does not begin before stanza 11.",
+            "Snorri quotes practically the entire section, the names appearing in a some what changed order.",
+            "\\emph{Brimir} and \\emph{Blain:} nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza 3).",
+            "Brimir, however, appears in stanza 37 in connection with the home of the dwarfs.",
             "Some editors treat the words as common rather than proper nouns, Brimir meaning ``the bloody moisture'' and Blain being of uncertain significance."
-        ], 
+        ],
         "translation": [
-            "Then sought the gods{\\sep}their assembly-seats,", 
-            "The holy ones,{\\sep}and council held,", 
-            "To find who should raise{\\sep}the race of dwarfs", 
+            "Then sought the gods{\\sep}their assembly-seats,",
+            "The holy ones,{\\sep}and council held,",
+            "To find who should raise{\\sep}the race of dwarfs",
             "Out of Brimir's blood{\\sep}and the legs of Blain."
-        ], 
-        "number": 9, 
+        ],
+        "number": 9,
         "original": [
-            "Þá gengu regin öll{\\sep}á rökstóla,", 
-            "ginnheilug goð,{\\sep}ok um þat gættusk:", 
-            "hverr skyldi dverga{\\sep}drótt um skepja", 
+            "Þá gengu regin öll{\\sep}á rökstóla,",
+            "ginnheilug goð,{\\sep}ok um þat gættusk:",
+            "hverr skyldi dverga{\\sep}drótt um skepja",
             "ór brimi blóðgu{\\sep}ok ór Bláins leggjum."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Very few of the dwarfs named in this and the following stanzas are mentioned elsewhere.", 
-            "It is not clear why Durin should have been singled out as authority for the list.", 
-            "The occasional repetitions suggest that not all the stanzas of the catalogue came from the same source.", 
+            "Very few of the dwarfs named in this and the following stanzas are mentioned elsewhere.",
+            "It is not clear why Durin should have been singled out as authority for the list.",
+            "The occasional repetitions suggest that not all the stanzas of the catalogue came from the same source.",
             "Most of the names presumably had some definite significance, as Northri, Suthri, Austri, and Vestri (``North,'' ``South,'' ``East,'' and ``West''), {[}fp. 7{]} Althjof (``Mighty Thief''), Mjothvitnir (``Mead-Wolf''), Gandalf (``Magic Elf''), Vindalf (``Wind Elf''), Rathwith (``Swift in Counsel''), Eikinskjaldi (``Oak Shield''), etc., but in many cases the interpretations are sheer guesswork."
-        ], 
+        ],
         "translation": [
-            "There was Motsognir{\\sep}the mightiest made", 
-            "Of all the dwarfs,{\\sep}and Durin next;", 
-            "Many a likeness{\\sep}of men they made,", 
+            "There was Motsognir{\\sep}the mightiest made",
+            "Of all the dwarfs,{\\sep}and Durin next;",
+            "Many a likeness{\\sep}of men they made,",
             "The dwarfs in the earth,{\\sep}as Durin said."
-        ], 
-        "number": 10, 
+        ],
+        "number": 10,
         "original": [
-            "Þar var Móðsognir{\\sep}mæztr um orðinn", 
-            "dverga allra,{\\sep}en Durinn annarr;", 
-            "þeir mannlíkun{\\sep}mörg um görðu", 
+            "Þar var Móðsognir{\\sep}mæztr um orðinn",
+            "dverga allra,{\\sep}en Durinn annarr;",
+            "þeir mannlíkun{\\sep}mörg um görðu",
             "dvergar í jörðu,{\\sep}sem Durinn sagði."
         ]
-    }, 
+    },
     {
-        "comment": null, 
+        "comment": null,
         "translation": [
-            "Nyi and Nithi,{\\sep}Northri and Suthri,", 
-            "Austri and Vestri,{\\sep}Althjof, Dvalin,", 
-            "Nar and Nain,{\\sep}Niping, Dain,", 
-            "Bifur, Bofur,{\\sep}Bombur, Nori,", 
+            "Nyi and Nithi,{\\sep}Northri and Suthri,",
+            "Austri and Vestri,{\\sep}Althjof, Dvalin,",
+            "Nar and Nain,{\\sep}Niping, Dain,",
+            "Bifur, Bofur,{\\sep}Bombur, Nori,",
             "An and Onar,{\\sep}Ai, Mjothvitnir."
-        ], 
-        "number": 11, 
+        ],
+        "number": 11,
         "original": [
-            "Nýi, Niði,{\\sep}Norðri, Suðri,", 
-            "Austri, Vestri,{\\sep}Alþjófr, Dvalinn,", 
-            "Nár ok Náinn,{\\sep}Nípingr, Dáinn,", 
-            "Bifurr, Bafurr,{\\sep}Bömburr, Nori,", 
+            "Nýi, Niði,{\\sep}Norðri, Suðri,",
+            "Austri, Vestri,{\\sep}Alþjófr, Dvalinn,",
+            "Nár ok Náinn,{\\sep}Nípingr, Dáinn,",
+            "Bifurr, Bafurr,{\\sep}Bömburr, Nori,",
             "Ánn ok Ánarr,{\\sep}Óinn, Mjöðvitnir."
         ]
-    }, 
+    },
     {
         "comment": [
-            "The order of the lines in this and the succeeding four stanzas varies greatly in the manuscripts and editions, and the names likewise appear in many forms.", 
+            "The order of the lines in this and the succeeding four stanzas varies greatly in the manuscripts and editions, and the names likewise appear in many forms.",
             "\\emph{Regin:} probably not identical with Regin the son of Hreithmar, who plays an important part in the \\emph{Reginsmol} and \\emph{Fafnismol,} but cf. note on \\emph{Reginsmol,} introductory prose."
-        ], 
+        ],
         "translation": [
-            "Vigg and Gandalf,{\\sep}Vindalf, Thrain,", 
-            "Thekk and Thorin,{\\sep}Thror, Vit and Lit,", 
-            "Nyr and Nyrath,{\\commamdash}\\sep now have I told{\\mdash}", 
+            "Vigg and Gandalf,{\\sep}Vindalf, Thrain,",
+            "Thekk and Thorin,{\\sep}Thror, Vit and Lit,",
+            "Nyr and Nyrath,{\\commamdash}\\sep now have I told{\\mdash}",
             "Regin and Rathsvith{\\mdash}\\sep the list aright."
-        ], 
-        "number": 12, 
+        ],
+        "number": 12,
         "original": [
-            "Veggr ok Gandálfr,{\\sep}Vindálfr, Þorinn,", 
-            "Þrár ok Þráinn,{\\sep}Þekkr, Litr ok Vitr,", 
-            "Nýr ok Nýráðr,{\\sep}nú hefi ek dverga,", 
+            "Veggr ok Gandálfr,{\\sep}Vindálfr, Þorinn,",
+            "Þrár ok Þráinn,{\\sep}Þekkr, Litr ok Vitr,",
+            "Nýr ok Nýráðr,{\\sep}nú hefi ek dverga,",
             "Reginn ok Ráðsviðr,{\\sep}rétt um talða."
         ]
-    }, 
+    },
     {
-        "comment": null, 
+        "comment": null,
         "translation": [
-            "Fili, Kili,{\\sep}Fundin, Nali,", 
-            "Heptifili,{\\sep}Hannar, Sviur,", 
-            "Frar, Hornbori,{\\sep}Fræg and Loni,", 
+            "Fili, Kili,{\\sep}Fundin, Nali,",
+            "Heptifili,{\\sep}Hannar, Sviur,",
+            "Frar, Hornbori,{\\sep}Fræg and Loni,",
             "Aurvang, Jari,{\\sep}Eikinskjaldi."
-        ], 
-        "number": 13, 
+        ],
+        "number": 13,
         "original": [
-            "Fili, Kili,{\\sep}Fundinn, Nali,", 
-            "Hepti, Vili,{\\sep}Hanarr, Svíurr,", 
-            "Billingr, Brúni,{\\sep}Bildr ok Buri,", 
-            "Frár, Hornbori,{\\sep}Frægr ok Lóni,", 
+            "Fili, Kili,{\\sep}Fundinn, Nali,",
+            "Hepti, Vili,{\\sep}Hanarr, Svíurr,",
+            "Billingr, Brúni,{\\sep}Bildr ok Buri,",
+            "Frár, Hornbori,{\\sep}Frægr ok Lóni,",
             "Aurvangr, Jari,{\\sep}Eikinskjaldi."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Dvalin:} in Hovamol, 144, Dvalin seems to have given magic runes to the dwarfs, probably accounting for their skill in craftsmanship, while in \\emph{Fafnismol,} 13, he is mentioned as the father of some of the lesser Norns.", 
+            "\\emph{Dvalin:} in Hovamol, 144, Dvalin seems to have given magic runes to the dwarfs, probably accounting for their skill in craftsmanship, while in \\emph{Fafnismol,} 13, he is mentioned as the father of some of the lesser Norns.",
             "The story that some of the dwarfs left the rocks and mountains to find a new home on the sands is mentioned, but unexplained, in Snorri's Edda; of \\emph{Lofar} we know only that he was descended from these wanderers."
-        ], 
+        ],
         "translation": [
-            "The race of the dwarfs{\\sep}in Dvalin's throng", 
-            "Down to Lofar{\\sep}the list must I tell;", 
-            "The rocks they left,{\\sep}and through wet lands", 
+            "The race of the dwarfs{\\sep}in Dvalin's throng",
+            "Down to Lofar{\\sep}the list must I tell;",
+            "The rocks they left,{\\sep}and through wet lands",
             "They sought a home{\\sep}in the fields of sand."
-        ], 
-        "number": 14, 
+        ],
+        "number": 14,
         "original": [
-            "Mál er dverga{\\sep}í Dvalins liði", 
-            "ljóna kindum{\\sep}til Lofars telja,", 
-            "þeir er sóttu{\\sep}frá salar steini", 
+            "Mál er dverga{\\sep}í Dvalins liði",
+            "ljóna kindum{\\sep}til Lofars telja,",
+            "þeir er sóttu{\\sep}frá salar steini",
             "Aurvanga sjöt{\\sep}til Jöruvalla."
         ]
-    }, 
+    },
     {
         "comment": [
             "\\emph{Andvari:} this dwarf appears prominently in the \\emph{Reginsmol,} which tells how the god Loki treacherously robbed him of his wealth; the curse which he laid on his treasure brought about the deaths of Sigurth, Gunnar, Atli, and many others."
-        ], 
+        ],
         "translation": [
-            "There were Draupnir{\\sep}and Dolgthrasir,", 
-            "Hor, Haugspori,{\\sep}Hlevang, Gloin,", 
-            "Dori, Ori,{\\sep}Duf, Andvari,", 
+            "There were Draupnir{\\sep}and Dolgthrasir,",
+            "Hor, Haugspori,{\\sep}Hlevang, Gloin,",
+            "Dori, Ori,{\\sep}Duf, Andvari,",
             "Skirfir, Virfir,{\\sep}Skafith, Ai."
-        ], 
-        "number": 15, 
+        ],
+        "number": 15,
         "original": [
-            "Þar var Draupnir{\\sep}ok Dólgþrasir,", 
-            "Hár, Haugspori,{\\sep}Hlévangr, Glóinn,", 
-            "Dori, Ori,{\\sep}Dúfr, Andvari,", 
+            "Þar var Draupnir{\\sep}ok Dólgþrasir,",
+            "Hár, Haugspori,{\\sep}Hlévangr, Glóinn,",
+            "Dori, Ori,{\\sep}Dúfr, Andvari,",
             "Skirfir, Virfir,{\\sep}Skafiðr, Ai."
         ]
-    }, 
+    },
     {
-        "comment": null, 
+        "comment": null,
         "translation": [
-            "Alf and Yngvi,{\\sep}Eikinskjaldi,", 
-            "Fjalar and Frosti,{\\sep}Fith and Ginnar;", 
-            "So for all time{\\sep}shall the tale be known,", 
+            "Alf and Yngvi,{\\sep}Eikinskjaldi,",
+            "Fjalar and Frosti,{\\sep}Fith and Ginnar;",
+            "So for all time{\\sep}shall the tale be known,",
             "The list of all{\\sep}the forbears of Lofar."
-        ], 
-        "number": 16, 
+        ],
+        "number": 16,
         "original": [
-            "Álfr ok Yngvi,{\\sep}Eikinskjaldi,", 
-            "Fjalarr ok Frosti,{\\sep}Finnr ok Ginnarr;", 
-            "þat man æ uppi,{\\sep}meðan öld lifir,", 
+            "Álfr ok Yngvi,{\\sep}Eikinskjaldi,",
+            "Fjalarr ok Frosti,{\\sep}Finnr ok Ginnarr;",
+            "þat man æ uppi,{\\sep}meðan öld lifir,",
             "langniðja tal{\\sep}Lofars hafat."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Here the poem resumes its course after the interpolated section.", 
-            "Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza 8 and the three gods, Othin, Hönir and Lothur, who in stanza 17 go forth to create man and woman.", 
-            "The word ``three'' in stanzas 9 and 17 very likely confused some early reciter, or perhaps the compiler himself.", 
+            "Here the poem resumes its course after the interpolated section.",
+            "Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza 8 and the three gods, Othin, Hönir and Lothur, who in stanza 17 go forth to create man and woman.",
+            "The word ``three'' in stanzas 9 and 17 very likely confused some early reciter, or perhaps the compiler himself.",
             "\\emph{Ask} and \\emph{Embla:} ash and elm; Snorri gives them simply as the names of the first man and woman, but says that the gods made this pair out of trees."
-        ], 
+        ],
         "translation": [
-            "Then from the throng{\\sep}did three come forth,", 
-            "From the home of the gods,{\\sep}the mighty and gracious;", 
-            "Two without fate{\\sep}on the land they found,", 
+            "Then from the throng{\\sep}did three come forth,",
+            "From the home of the gods,{\\sep}the mighty and gracious;",
+            "Two without fate{\\sep}on the land they found,",
             "Ask and Embla,{\\sep}empty of might."
-        ], 
-        "number": 17, 
+        ],
+        "number": 17,
         "original": [
-            "Unz þrír kvámu{\\sep}ór því liði", 
-            "öflgir ok ástkir{\\sep}æsir at húsi,", 
-            "fundu á landi{\\sep}lítt megandi", 
+            "Unz þrír kvámu{\\sep}ór því liði",
+            "öflgir ok ástkir{\\sep}æsir at húsi,",
+            "fundu á landi{\\sep}lítt megandi",
             "Ask ok Emblu{\\sep}örlöglausa."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Hönir:} little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and {[}fp. 9{]} that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza 63). He was given by the gods as a hostage to the Wanes after their war, in exchange for Njorth (cf. stanza 21 and note). \\emph{Lothur:} apparently an older name for Loki, the treacherous but ingenious son of Laufey, whose divinity Snorri regards as somewhat doubtful.", 
-            "He was adopted by Othin, who subsequently had good reason to regret it.", 
+            "\\emph{Hönir:} little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and {[}fp. 9{]} that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza 63).",
+            "He was given by the gods as a hostage to the Wanes after their war, in exchange for Njorth (cf. stanza 21 and note).",
+            "\\emph{Lothur:} apparently an older name for Loki, the treacherous but ingenious son of Laufey, whose divinity Snorri regards as somewhat doubtful.",
+            "He was adopted by Othin, who subsequently had good reason to regret it.",
             "Loki probably represents the blending of two originally distinct figures, one of them an old fire-god, hence his gift of heat to the newly created pair."
-        ], 
+        ],
         "translation": [
-            "Soul they had not,{\\sep}sense they had not,", 
-            "Heat nor motion,{\\sep}nor goodly hue;", 
-            "Soul gave Othin,{\\sep}sense gave Hönir,", 
+            "Soul they had not,{\\sep}sense they had not,",
+            "Heat nor motion,{\\sep}nor goodly hue;",
+            "Soul gave Othin,{\\sep}sense gave Hönir,",
             "Heat gave Lothur{\\sep}and goodly hue."
-        ], 
-        "number": 18, 
+        ],
+        "number": 18,
         "original": [
-            "Önd þau ne áttu,{\\sep}óð þau ne höfðu,", 
-            "lá né læti{\\sep}né litu góða;", 
-            "önd gaf Óðinn,{\\sep}óð gaf Hœnir,", 
+            "Önd þau ne áttu,{\\sep}óð þau ne höfðu,",
+            "lá né læti{\\sep}né litu góða;",
+            "önd gaf Óðinn,{\\sep}óð gaf Hœnir,",
             "lá gaf Lóðurr{\\sep}ok litu góða."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Yggdrasil:} cf. stanza 2 and note, and \\emph{Grimnismol,} 29\\ndash35 and notes.", 
-            "Urth (``The Past''): one of the three great Norns.", 
+            "\\emph{Yggdrasil:} cf. stanza 2 and note, and \\emph{Grimnismol,} 29\\ndash35 and notes.",
+            "Urth (``The Past''): one of the three great Norns.",
             "The world-ash is kept green by being sprinkled with the marvelous healing water from her well."
-        ], 
+        ],
         "translation": [
-            "An ash I know,{\\sep}Yggdrasil its name,", 
-            "With water white{\\sep}is the great tree wet;", 
-            "Thence come the dews{\\sep}that fall in the dales,", 
+            "An ash I know,{\\sep}Yggdrasil its name,",
+            "With water white{\\sep}is the great tree wet;",
+            "Thence come the dews{\\sep}that fall in the dales,",
             "Green by Urth's well{\\sep}does it ever grow."
-        ], 
-        "number": 19, 
+        ],
+        "number": 19,
         "original": [
-            "Ask veit ek standa,{\\sep}heitir Yggdrasill", 
-            "hár baðmr, ausinn{\\sep}hvíta auri;", 
-            "þaðan koma döggvar{\\sep}þærs í dala falla;", 
+            "Ask veit ek standa,{\\sep}heitir Yggdrasill",
+            "hár baðmr, ausinn{\\sep}hvíta auri;",
+            "þaðan koma döggvar{\\sep}þærs í dala falla;",
             "stendr æ yfir grœnn{\\sep}Urðar brunni."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{The maidens:} the three Norns; possibly this stanza should follow stanza 8.", 
-            "\\emph{Dwelling:} \\emph{Regius} has ``sæ'' (sea) instead of ``sal'' (hall, home), and many editors have followed this reading, although Snorri's prose paraphrase indicates ``sal.'' \\emph{Urth, Verthandi and Skuld:} ``Past,'' ``Present'' and ``Future.'' Wood, etc.: the magic signs (runes) controlling the destinies of men were cut on pieces of wood.", 
+            "\\emph{The maidens:} the three Norns; possibly this stanza should follow stanza 8.",
+            "\\emph{Dwelling:} \\emph{Regius} has ``sæ'' (sea) instead of ``sal'' (hall, home), and many editors have followed this reading, although Snorri's prose paraphrase indicates ``sal.''",
+            "\\emph{Urth, Verthandi and Skuld:} ``Past,'' ``Present'' and ``Future.'' Wood, etc.: the magic signs (runes) controlling the destinies of men were cut on pieces of wood.",
             "Lines 3\\ndash4 are probably interpolations from some other account of the Norns."
-        ], 
+        ],
         "translation": [
-            "Thence come the maidens{\\sep}mighty in wisdom,", 
-            "Three from the dwelling{\\sep}down 'neath the tree;", 
-            "Urth is one named,{\\sep}Verthandi the next,{\\commamdash}", 
-            "On the wood they scored,{\\commamdash}{\\sep}and Skuld the third.", 
-            "Laws they made there,{\\sep}and life allotted", 
+            "Thence come the maidens{\\sep}mighty in wisdom,",
+            "Three from the dwelling{\\sep}down 'neath the tree;",
+            "Urth is one named,{\\sep}Verthandi the next,{\\commamdash}",
+            "On the wood they scored,{\\commamdash}{\\sep}and Skuld the third.",
+            "Laws they made there,{\\sep}and life allotted",
             "To the sons of men,{\\sep}and set their fates."
-        ], 
-        "number": 20, 
+        ],
+        "number": 20,
         "original": [
-            "Þaðan koma meyjar{\\sep}margs vitandi", 
-            "þrjár, ór þeim sal{\\sep}er und þolli stendr;", 
-            "Urð hétu eina,{\\sep}aðra Verðandi,", 
-            "skáru á skíði,{\\sep}Skuld ina þriðju;", 
-            "þær lög lögðu,{\\sep}þær líf kuru", 
+            "Þaðan koma meyjar{\\sep}margs vitandi",
+            "þrjár, ór þeim sal{\\sep}er und þolli stendr;",
+            "Urð hétu eina,{\\sep}aðra Verðandi,",
+            "skáru á skíði,{\\sep}Skuld ina þriðju;",
+            "þær lög lögðu,{\\sep}þær líf kuru",
             "alda börnum,{\\sep}örlög seggja."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This follows stanza 20 in \\emph{Regius;} in the \\emph{Hauksbok} version stanzas 25, 26, 27, 40, and 41 come between stanzas 20 and 21.", 
-            "Editors have attempted all sorts of rearrangements.", 
-            "The war: the first war was that between the gods and the Wanes.", 
-            "The cult of the Wanes (Vanir) seems to have originated among the seafaring folk of the Baltic and the southern shores of the North Sea, and to have spread thence into Norway in opposition to the worship of the older gods; hence the ``war.'' Finally the two types of divinities were worshipped in common; hence the treaty which ended the war with the exchange of hostages.", 
-            "Chief among the Wanes were Njorth and his children, Freyr and Freyja, all of whom became conspicuous among the gods.", 
-            "Beyond this we know little of the Wanes, who seem originally to have been water-deities.", 
-            "\\emph{I remember:} the manuscripts have ``she remembers,'' but the Volva is apparently still speaking of her own memories, as in stanza 2.", 
-            "\\emph{Gollveig} (``Gold-Might''): apparently the first of the Wanes to come among the gods, her ill treatment being the immediate cause of the war.", 
-            "Müllenhoff maintains that Gollveig is another name for Freyja.", 
-            "Lines 5\\ndash6, one or both of them probably interpolated, seem to symbolize the refining of gold by fire.", 
+            "This follows stanza 20 in \\emph{Regius;} in the \\emph{Hauksbok} version stanzas 25, 26, 27, 40, and 41 come between stanzas 20 and 21.",
+            "Editors have attempted all sorts of rearrangements.",
+            "The war: the first war was that between the gods and the Wanes.",
+            "The cult of the Wanes (Vanir) seems to have originated among the seafaring folk of the Baltic and the southern shores of the North Sea, and to have spread thence into Norway in opposition to the worship of the older gods; hence the ``war.''",
+            "Finally the two types of divinities were worshipped in common; hence the treaty which ended the war with the exchange of hostages.",
+            "Chief among the Wanes were Njorth and his children, Freyr and Freyja, all of whom became conspicuous among the gods.",
+            "Beyond this we know little of the Wanes, who seem originally to have been water-deities.",
+            "\\emph{I remember:} the manuscripts have ``she remembers,'' but the Volva is apparently still speaking of her own memories, as in stanza 2.",
+            "\\emph{Gollveig} (``Gold-Might''): apparently the first of the Wanes to come among the gods, her ill treatment being the immediate cause of the war.",
+            "Müllenhoff maintains that Gollveig is another name for Freyja.",
+            "Lines 5\\ndash6, one or both of them probably interpolated, seem to symbolize the refining of gold by fire.",
             "\\emph{Hor} (``The High One''): Othin."
-        ], 
+        ],
         "translation": [
-            "The war I remember,{\\sep}the first in the world,", 
-            "When the gods with spears{\\sep}had smitten Gollveig,", 
-            "And in the hall{\\sep}of Hor had burned her,", 
-            "Three times burned,{\\sep}and three times born,", 
+            "The war I remember,{\\sep}the first in the world,",
+            "When the gods with spears{\\sep}had smitten Gollveig,",
+            "And in the hall{\\sep}of Hor had burned her,",
+            "Three times burned,{\\sep}and three times born,",
             "Oft and again,{\\sep}yet ever she lives."
-        ], 
-        "number": 21, 
+        ],
+        "number": 21,
         "original": [
-            "Þat man hon fólkvíg{\\sep}fyrst í heimi,", 
-            "er Gullveig{\\sep}geirum studdu", 
-            "ok í höll Hárs{\\sep}hana brendu;", 
-            "þrysvar brendu{\\sep}þrysvar borna,", 
+            "Þat man hon fólkvíg{\\sep}fyrst í heimi,",
+            "er Gullveig{\\sep}geirum studdu",
+            "ok í höll Hárs{\\sep}hana brendu;",
+            "þrysvar brendu{\\sep}þrysvar borna,",
             "opt, ósjaldan,{\\sep}þó hon enn lifir."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Heith} (``Shining One''?): a name often applied to wise women and prophetesses.", 
-            "The application of this stanza to Gollveig is far from clear, though the reference may be to the {[}fp. 11{]} magic and destructive power of gold.", 
-            "It is also possible that the stanza is an interpolation.", 
-            "Bugge maintains that it applies to the Volva who is reciting the poem, and makes it the opening stanza, following it with stanzas 28 and 30, and then going on with stanzas I ff.", 
+            "\\emph{Heith} (``Shining One''?): a name often applied to wise women and prophetesses.",
+            "The application of this stanza to Gollveig is far from clear, though the reference may be to the {[}fp. 11{]} magic and destructive power of gold.",
+            "It is also possible that the stanza is an interpolation.",
+            "Bugge maintains that it applies to the Volva who is reciting the poem, and makes it the opening stanza, following it with stanzas 28 and 30, and then going on with stanzas I ff.",
             "The text of line 2 is obscure, and has been variously emended."
-        ], 
+        ],
         "translation": [
-            "Heith they named her{\\sep}who sought their home,", 
-            "The wide-seeing witch,{\\sep}in magic wise;", 
-            "Minds she bewitched{\\sep}that were moved by her magic,", 
+            "Heith they named her{\\sep}who sought their home,",
+            "The wide-seeing witch,{\\sep}in magic wise;",
+            "Minds she bewitched{\\sep}that were moved by her magic,",
             "To evil women{\\sep}a joy she was."
-        ], 
-        "number": 22, 
+        ],
+        "number": 22,
         "original": [
-            "Heiði hana hétu,{\\sep}hvars til húsa kom,", 
-            "völu velspá,{\\sep}vitti hon ganda,", 
-            "seið hon hvars hon kunni,{\\sep}seið hon hugleikin,", 
+            "Heiði hana hétu,{\\sep}hvars til húsa kom,",
+            "völu velspá,{\\sep}vitti hon ganda,",
+            "seið hon hvars hon kunni,{\\sep}seið hon hugleikin,",
             "æ var hon angan{\\sep}illrar brúðar."
         ]
-    }, 
+    },
     {
         "comment": [
             "This stanza and stanza 24 have been transposed from the order in the manuscripts, for the former describes the battle and the victory of the Wanes, after which the gods took council, debating whether to pay tribute to the victors, or to admit them, as was finally done, to equal rights of worship."
-        ], 
+        ],
         "translation": [
-            "On the host his spear{\\sep}did Othin hurl,", 
-            "Then in the world{\\sep}did war first come;", 
-            "The wall that girdled{\\sep}the gods was broken,", 
+            "On the host his spear{\\sep}did Othin hurl,",
+            "Then in the world{\\sep}did war first come;",
+            "The wall that girdled{\\sep}the gods was broken,",
             "And the field by the warlike{\\sep}Wanes was trodden."
-        ], 
-        "number": 23, 
+        ],
+        "number": 23,
         "original": [
-            "Þá gengu regin öll{\\sep}á rökstóla,", 
-            "ginnheilug goð,{\\sep}ok um þat gættusk:", 
-            "hvárt skyldu æsir{\\sep}afráð gjalda", 
+            "Þá gengu regin öll{\\sep}á rökstóla,",
+            "ginnheilug goð,{\\sep}ok um þat gættusk:",
+            "hvárt skyldu æsir{\\sep}afráð gjalda",
             "eða skyldu goðin öll{\\sep}gildi eiga."
         ]
-    }, 
+    },
     {
-        "comment": null, 
+        "comment": null,
         "translation": [
-            "Then sought the gods{\\sep}their assembly-seats,", 
-            "The holy ones,{\\sep}and council held,", 
-            "Whether the gods{\\sep}should tribute give,", 
+            "Then sought the gods{\\sep}their assembly-seats,",
+            "The holy ones,{\\sep}and council held,",
+            "Whether the gods{\\sep}should tribute give,",
             "Or to all alike{\\sep}should worship belong."
-        ], 
-        "number": 24, 
+        ],
+        "number": 24,
         "original": [
-            "Fleygði Óðinn{\\sep}ok í fólk um skaut,", 
-            "þat var enn fólkvíg{\\sep}fyrst í heimi;", 
-            "brotinn var borðveggr{\\sep}borgar ása,", 
+            "Fleygði Óðinn{\\sep}ok í fólk um skaut,",
+            "þat var enn fólkvíg{\\sep}fyrst í heimi;",
+            "brotinn var borðveggr{\\sep}borgar ása,",
             "knáttu vanir vígská{\\sep}völlu sporna."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Possibly, as Finn Magnusen long ago suggested, there is something lost after stanza 24, but it was not the custom of the Eddic poets to supply transitions which their hearers could generally be counted on to understand.", 
-            "The story referred to in stanzas 25\\ndash26 (both quoted by Snorri) is that of the rebuilding of Asgarth after its destruction by the Wanes.", 
-            "The gods employed a giant as builder, who demanded as his reward the sun and moon, and the goddess Freyja for his wife.", 
-            "The gods, terrified by the rapid progress of the work, forced Loki, who had advised the bargain, to delay the giant by a trick, so that the {[}fp. 12{]} work was not finished in the stipulated time (cf. \\emph{Grimnismol,} 44, note). The enraged giant then threatened the gods, whereupon Thor slew him.", 
+            "Possibly, as Finn Magnusen long ago suggested, there is something lost after stanza 24, but it was not the custom of the Eddic poets to supply transitions which their hearers could generally be counted on to understand.",
+            "The story referred to in stanzas 25\\ndash26 (both quoted by Snorri) is that of the rebuilding of Asgarth after its destruction by the Wanes.",
+            "The gods employed a giant as builder, who demanded as his reward the sun and moon, and the goddess Freyja for his wife.",
+            "The gods, terrified by the rapid progress of the work, forced Loki, who had advised the bargain, to delay the giant by a trick, so that the {[}fp. 12{]} work was not finished in the stipulated time (cf. \\emph{Grimnismol,} 44, note).",
+            "The enraged giant then threatened the gods, whereupon Thor slew him.",
             "\\emph{Oth's bride:} Freyja; of Oth little is known beyond the fact that Snorri refers to him as a man who ``went away on long journeys.''"
-        ], 
+        ],
         "translation": [
-            "Then sought the gods{\\sep}their assembly-seats,", 
-            "The holy ones,{\\sep}and council held,", 
-            "To find who with venom{\\sep}the air had filled,", 
+            "Then sought the gods{\\sep}their assembly-seats,",
+            "The holy ones,{\\sep}and council held,",
+            "To find who with venom{\\sep}the air had filled,",
             "Or had given Oth's bride{\\sep}to the giants' brood."
-        ], 
-        "number": 25, 
+        ],
+        "number": 25,
         "original": [
-            "Þá gengu regin öll{\\sep}á rökstóla,", 
-            "ginnheilug goð,{\\sep}ok um þat gættusk:", 
-            "hverr hefði lopt allt{\\sep}lævi blandit", 
+            "Þá gengu regin öll{\\sep}á rökstóla,",
+            "ginnheilug goð,{\\sep}ok um þat gættusk:",
+            "hverr hefði lopt allt{\\sep}lævi blandit",
             "eða ætt jötuns{\\sep}Óðs mey gefna."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Thor:} the thunder-god, son of Othin and Jorth (Earth) cf. particularly Harbarthsljoth and Thrymskvitha, passim.", 
+            "\\emph{Thor:} the thunder-god, son of Othin and Jorth (Earth) cf. particularly Harbarthsljoth and Thrymskvitha, passim.",
             "Oaths, etc.: the gods, by violating their oaths to the giant who rebuilt Asgarth, aroused the undying hatred of the giants' race, and thus the giants were among their enemies in the final battle."
-        ], 
+        ],
         "translation": [
-            "In swelling rage{\\sep}then rose up Thor,{\\commamdash}", 
-            "Seldom he sits{\\sep}when he such things hears,{\\commamdash}", 
-            "And the oaths were broken,{\\sep}the words and bonds,", 
+            "In swelling rage{\\sep}then rose up Thor,{\\commamdash}",
+            "Seldom he sits{\\sep}when he such things hears,{\\commamdash}",
+            "And the oaths were broken,{\\sep}the words and bonds,",
             "The mighty pledges{\\sep}between them made."
-        ], 
-        "number": 26, 
+        ],
+        "number": 26,
         "original": [
-            "Þórr einn þar vá{\\sep}þrunginn móði,", 
-            "hann sjaldan sitr{\\sep}er hann slíkt um fregn;", 
-            "á gengust eiðar,{\\sep}orð ok sœri,", 
+            "Þórr einn þar vá{\\sep}þrunginn móði,",
+            "hann sjaldan sitr{\\sep}er hann slíkt um fregn;",
+            "á gengust eiðar,{\\sep}orð ok sœri,",
             "mál öll meginlig{\\sep}er á meðal fóru."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Here the Volva turns from her memories of the past to a statement of some of Othin's own secrets in his eternal search for knowledge (stanzas 27\\ndash29). Bugge puts this stanza after stanza 29.", 
-            "\\emph{The horn of Heimdall:} the Gjallarhorn (``Shrieking Horn''), with which Heimdall, watchman of the gods, will summon them to the last battle.", 
-            "Till that time the horn is buried under Yggdrasil.", 
-            "\\emph{Valfather's pledge:} Othin's eye (the sun?), which he gave to the water-spirit Mimir (or Mim) in exchange for the latter's wisdom.", 
-            "It appears here and in stanza 29 as a drinking-vessel, from which Mimir drinks the magic mead, and from which he pours water on the ash Yggdrasil.", 
-            "Othin's sacrifice of his eye in order to gain knowledge of his final doom is one of the series of disasters leading up to the destruction of the gods.", 
-            "There were several differing versions of the story of Othin's relations with Mimir; another one, quite incompatible with this, appears in stanza 47.", 
+            "Here the Volva turns from her memories of the past to a statement of some of Othin's own secrets in his eternal search for knowledge (stanzas 27\\ndash29). Bugge puts this stanza after stanza 29.",
+            "\\emph{The horn of Heimdall:} the Gjallarhorn (``Shrieking Horn''), with which Heimdall, watchman of the gods, will summon them to the last battle.",
+            "Till that time the horn is buried under Yggdrasil.",
+            "\\emph{Valfather's pledge:} Othin's eye (the sun?), which he gave to the water-spirit Mimir (or Mim) in exchange for the latter's wisdom.",
+            "It appears here and in stanza 29 as a drinking-vessel, from which Mimir drinks the magic mead, and from which he pours water on the ash Yggdrasil.",
+            "Othin's sacrifice of his eye in order to gain knowledge of his final doom is one of the series of disasters leading up to the destruction of the gods.",
+            "There were several differing versions of the story of Othin's relations with Mimir; another one, quite incompatible with this, appears in stanza 47.",
             "In the manuscripts \\emph{I know} and \\emph{I see} appear as ``she knows'' and ``she sees'' (cf. note on 21)."
-        ], 
+        ],
         "translation": [
-            "I know of the horn{\\sep}of Heimdall, hidden", 
-            "Under the high-reaching{\\sep}holy tree;", 
-            "On it there pours{\\sep}from Valfather's pledge", 
+            "I know of the horn{\\sep}of Heimdall, hidden",
+            "Under the high-reaching{\\sep}holy tree;",
+            "On it there pours{\\sep}from Valfather's pledge",
             "A mighty stream:{\\sep}would you know yet more?"
-        ], 
-        "number": 27, 
+        ],
+        "number": 27,
         "original": [
-            "Veit hon Heimdallar{\\sep}hljóð um fólgit", 
-            "undir heiðvönum{\\sep}helgum baðmi;", 
-            "á sér hon ausask{\\sep}aurgum forsi", 
+            "Veit hon Heimdallar{\\sep}hljóð um fólgit",
+            "undir heiðvönum{\\sep}helgum baðmi;",
+            "á sér hon ausask{\\sep}aurgum forsi",
             "af veði Valföðrs.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "The \\emph{Hauksbok} version omits all of stanzas 28\\ndash34, stanza 27 being there followed by stanzas 40 and 41.", 
-            "\\emph{Regius} indicates stanzas 28 and 29 as a single stanza.", 
-            "Bugge puts stanza 28 after stanza 22, as the second stanza of his reconstructed poem.", 
-            "The Volva here addresses Othin directly, intimating that, although he has not told her, she knows why he has come to her, and what he has already suffered in his search for knowledge regarding his doom.", 
-            "Her reiterated ``would you know yet more?'' seems to mean: ``I have proved my wisdom by telling of the past and of your own secrets; is it your will that I tell likewise of the fate in store for you?'' \\emph{The Old One:} Othin."
-        ], 
+            "The \\emph{Hauksbok} version omits all of stanzas 28\\ndash34, stanza 27 being there followed by stanzas 40 and 41.",
+            "\\emph{Regius} indicates stanzas 28 and 29 as a single stanza.",
+            "Bugge puts stanza 28 after stanza 22, as the second stanza of his reconstructed poem.",
+            "The Volva here addresses Othin directly, intimating that, although he has not told her, she knows why he has come to her, and what he has already suffered in his search for knowledge regarding his doom.",
+            "Her reiterated ``would you know yet more?'' seems to mean: ``I have proved my wisdom by telling of the past and of your own secrets; is it your will that I tell likewise of the fate in store for you?''",
+            "\\emph{The Old One:} Othin."
+        ],
         "translation": [
-            "Alone I sat{\\sep}when the Old One sought me,", 
-            "The terror of gods,{\\sep}and gazed in mine eyes:", 
-            "``What hast thou to ask?{\\sep}why comest thou hither?", 
+            "Alone I sat{\\sep}when the Old One sought me,",
+            "The terror of gods,{\\sep}and gazed in mine eyes:",
+            "``What hast thou to ask?{\\sep}why comest thou hither?",
             "Othin, I know{\\sep}where thine eye is hidden.''"
-        ], 
-        "number": 28, 
+        ],
+        "number": 28,
         "original": [
-            "Ein sat hon úti,{\\sep}þá er inn aldni kom", 
-            "yggjungr ása{\\sep}ok í augu leit.", 
-            "Hvers fregnið mik?{\\sep}hví freistið mín?", 
-            "alt veit ek, Óðinn!{\\sep}hvar þú auga falt:", 
-            "í inum mœra{\\sep}Mímis brunni;", 
-            "drekkr mjöð Mímir{\\sep}morgin hverjan", 
+            "Ein sat hon úti,{\\sep}þá er inn aldni kom",
+            "yggjungr ása{\\sep}ok í augu leit.",
+            "Hvers fregnið mik?{\\sep}hví freistið mín?",
+            "alt veit ek, Óðinn!{\\sep}hvar þú auga falt:",
+            "í inum mœra{\\sep}Mímis brunni;",
+            "drekkr mjöð Mímir{\\sep}morgin hverjan",
             "af veði Valföðrs.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "The first line, not in either manuscript, is a conjectural emendation based on Snorri's paraphrase.", 
+            "The first line, not in either manuscript, is a conjectural emendation based on Snorri's paraphrase.",
             "Bugge puts this stanza after stanza 20."
-        ], 
+        ],
         "translation": [
-            "I know where Othin's{\\sep}eye is hidden,", 
-            "Deep in the wide-famed{\\sep}well of Mimir;", 
-            "Mead from the pledge{\\sep}of Othin each mom", 
+            "I know where Othin's{\\sep}eye is hidden,",
+            "Deep in the wide-famed{\\sep}well of Mimir;",
+            "Mead from the pledge{\\sep}of Othin each mom",
             "Does Mimir drink:{\\sep}would you know yet more?"
-        ], 
-        "number": 29, 
+        ],
+        "number": 29,
         "original": [
-            "Valði henni Herföðr{\\sep}hringa ok men,", 
-            "féspjöll spaklig{\\sep}ok spáganda;", 
+            "Valði henni Herföðr{\\sep}hringa ok men,",
+            "féspjöll spaklig{\\sep}ok spáganda;",
             "sá hon vítt ok um vítt{\\sep}of veröld hverja."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This is apparently the transitional stanza, in which the Volva, rewarded by Othin for her knowledge of the past (stanzas 1\\ndash29), is induced to proceed with her real prophecy (stanzas 31\\ndash66). Some editors turn the stanza into the third person, making it a narrative link.", 
-            "Bugge, on the other hand, puts it {[}fp. 14{]} after stanza 28 as the third stanza of the poem.", 
-            "No lacuna is indicated in the manuscripts, and editors have attempted various emendations.", 
+            "This is apparently the transitional stanza, in which the Volva, rewarded by Othin for her knowledge of the past (stanzas 1\\ndash29), is induced to proceed with her real prophecy (stanzas 31\\ndash66).",
+            "Some editors turn the stanza into the third person, making it a narrative link.",
+            "Bugge, on the other hand, puts it {[}fp. 14{]} after stanza 28 as the third stanza of the poem.",
+            "No lacuna is indicated in the manuscripts, and editors have attempted various emendations.",
             "\\emph{Heerfather} (``Father of the Host''): Othin."
-        ], 
+        ],
         "translation": [
-            "Necklaces had I{\\sep}and rings from Heerfather,", 
-            "Wise was my speech{\\sep}and my magic wisdom;", 
+            "Necklaces had I{\\sep}and rings from Heerfather,",
+            "Wise was my speech{\\sep}and my magic wisdom;",
             ".    .    .    .    .        .    .    .    .    .\nWidely I saw{\\sep}over all the worlds."
-        ], 
-        "number": 30, 
+        ],
+        "number": 30,
         "original": [
-            "Sá hon valkyrjur{\\sep}vítt um komnar", 
-            "görvar at ríða{\\sep}til Goðþjóðar:", 
-            "Skuld hélt skildi,{\\sep}en Skögul önnur,", 
-            "Gunnr, Hildr, Göndul{\\sep}ok Geirskögul;", 
-            "nú eru talðar{\\sep}nönnur Herjans,", 
+            "Sá hon valkyrjur{\\sep}vítt um komnar",
+            "görvar at ríða{\\sep}til Goðþjóðar:",
+            "Skuld hélt skildi,{\\sep}en Skögul önnur,",
+            "Gunnr, Hildr, Göndul{\\sep}ok Geirskögul;",
+            "nú eru talðar{\\sep}nönnur Herjans,",
             "görvar at ríða{\\sep}grund valkyrjur."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Valkyries:} these ``Choosers of the Slain'' (cf. stanza 1, note) bring the bravest warriors killed in battle to Valhall, in order to re-enforce the gods for their final struggle.", 
-            "They are also called ``Wish-Maidens,'' as the fulfillers of Othin's wishes.", 
-            "The conception of the supernatural warrior-maiden was presumably brought to Scandinavia in very early times from the South-Germanic races, and later it was interwoven with the likewise South-Germanic tradition of the swan-maiden.", 
-            "A third complication developed when the originally quite human women of the hero-legends were endowed with the qualities of both Valkyries and swan-maidens, as in the cases of Brynhild (cf. \\emph{Gripisspo,} introductory note), \\emph{Svava} (cf. \\emph{Helgakvitha Hjorvarthssonar,} prose after stanza 5 and note) and Sigrun (cf. \\emph{Helgakvitha Hundingsbana} I, 17 and note). The list of names here given may be an interpolation; a quite different list is given in \\emph{Grimnismol,} 36.", 
-            "\\emph{Ranks of the gods:} some editors regard the word thus translated as a specific place name.", 
-            "\\emph{Herjan} (``Leader of Hosts''): Othin.", 
+            "\\emph{Valkyries:} these ``Choosers of the Slain'' (cf. stanza 1, note) bring the bravest warriors killed in battle to Valhall, in order to re-enforce the gods for their final struggle.",
+            "They are also called ``Wish-Maidens,'' as the fulfillers of Othin's wishes.",
+            "The conception of the supernatural warrior-maiden was presumably brought to Scandinavia in very early times from the South-Germanic races, and later it was interwoven with the likewise South-Germanic tradition of the swan-maiden.",
+            "A third complication developed when the originally quite human women of the hero-legends were endowed with the qualities of both Valkyries and swan-maidens, as in the cases of Brynhild (cf. \\emph{Gripisspo,} introductory note), \\emph{Svava} (cf. \\emph{Helgakvitha Hjorvarthssonar,} prose after stanza 5 and note) and Sigrun (cf. \\emph{Helgakvitha Hundingsbana} I, 17 and note).",
+            "The list of names here given may be an interpolation; a quite different list is given in \\emph{Grimnismol,} 36.",
+            "\\emph{Ranks of the gods:} some editors regard the word thus translated as a specific place name.",
+            "\\emph{Herjan} (``Leader of Hosts''): Othin.",
             "It is worth noting that the name \\emph{Hild} (``Warrior'') is the basis of Bryn-hild (``Warrior in Mail Coat'')."
-        ], 
+        ],
         "translation": [
-            "On all sides saw I{\\sep}Valkyries assemble,\nReady to ride{\\sep}to the ranks of the gods;\nSkuld bore the shield,{\\sep}and Skogul rode next,\nGuth, Hild, Gondul,{\\sep}and Geirskogul.\nOf Herjan's maidens{\\sep}the list have ye heard,\nValkyries ready{\\sep}to ride o'er the earth."
-        ], 
-        "number": 31, 
+            "On all sides saw I{\\sep}Valkyries assemble,",
+            "Ready to ride{\\sep}to the ranks of the gods;",
+            "Skuld bore the shield,{\\sep}and Skogul rode next,",
+            "Guth, Hild, Gondul,{\\sep}and Geirskogul.",
+            "Of Herjan's maidens{\\sep}the list have ye heard,",
+            "Valkyries ready{\\sep}to ride o'er the earth."
+        ],
+        "number": 31,
         "original": [
-            "Ek sá Baldri,{\\sep}blóðgum tívur,", 
-            "Óðins barni{\\sep}örlög fólgin:", 
-            "stóð um vaxinn{\\sep}völlum hæri", 
+            "Ek sá Baldri,{\\sep}blóðgum tívur,",
+            "Óðins barni{\\sep}örlög fólgin:",
+            "stóð um vaxinn{\\sep}völlum hæri",
             "mjór ok mjök fagr{\\sep}mistilteinn."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Baldr:} The death of Baldr, the son of Othin and Frigg, was the first of the great disasters to the gods.", 
-            "The story is fully told by Snorri.", 
-            "Frigg had demanded of all created things, saving only the mistletoe, which she thought too weak to be worth troubling {[}fp. 15{]} about, an oath that they would not harm Baldr.", 
-            "Thus it came to he a sport for the gods to hurl weapons at Baldr, who, of course, was totally unharmed thereby.", 
-            "Loki, the trouble-maker, brought the mistletoe to Baldr's blind brother, Hoth, and guided his hand in hurling the twig.", 
-            "Baldr was slain, and grief came upon all the gods.", 
-            "Cf.", 
-            "\\emph{Baldrs Draumar.}"
-        ], 
+            "\\emph{Baldr:} The death of Baldr, the son of Othin and Frigg, was the first of the great disasters to the gods.",
+            "The story is fully told by Snorri.",
+            "Frigg had demanded of all created things, saving only the mistletoe, which she thought too weak to be worth troubling {[}fp. 15{]} about, an oath that they would not harm Baldr.",
+            "Thus it came to he a sport for the gods to hurl weapons at Baldr, who, of course, was totally unharmed thereby.",
+            "Loki, the trouble-maker, brought the mistletoe to Baldr's blind brother, Hoth, and guided his hand in hurling the twig.",
+            "Baldr was slain, and grief came upon all the gods.",
+            "Cf. \\emph{Baldrs Draumar.}"
+        ],
         "translation": [
-            "I saw for Baldr,{\\sep}the bleeding god,", 
-            "The son of Othin,{\\sep}his destiny set:", 
-            "Famous and fair{\\sep}in the lofty fields,", 
+            "I saw for Baldr,{\\sep}the bleeding god,",
+            "The son of Othin,{\\sep}his destiny set:",
+            "Famous and fair{\\sep}in the lofty fields,",
             "Full grown in strength{\\sep}the mistletoe stood."
-        ], 
-        "number": 32, 
+        ],
+        "number": 32,
         "original": [
-            "Varð af þeim meiði,{\\sep}er mér sýndisk,", 
-            "harmflaug hættlig,{\\sep}Höðr nam skjóta.", 
-            "Baldrs bróðir{\\sep}var of borinn snemma,", 
+            "Varð af þeim meiði,{\\sep}er mér sýndisk,",
+            "harmflaug hættlig,{\\sep}Höðr nam skjóta.",
+            "Baldrs bróðir{\\sep}var of borinn snemma,",
             "sá nam Óðins sonr{\\sep}einnættr vega."
         ]
-    }, 
+    },
     {
         "comment": [
-            "The lines in this and the following stanza have been combined in various ways by editors, lacunae having been freely conjectured, but the manuscript version seems clear enough.", 
-            "\\emph{The brother of Baldr:} Vali, whom Othin begot expressly to avenge Baldr's death.", 
+            "The lines in this and the following stanza have been combined in various ways by editors, lacunae having been freely conjectured, but the manuscript version seems clear enough.",
+            "\\emph{The brother of Baldr:} Vali, whom Othin begot expressly to avenge Baldr's death.",
             "The day after his birth he fought and slew Hoth."
-        ], 
+        ],
         "translation": [
-            "From the branch which seemed{\\sep}so slender and fair", 
-            "Came a harmful shaft{\\sep}that Hoth should hurl;", 
-            "But the brother of Baldr{\\sep}was born ere long,", 
+            "From the branch which seemed{\\sep}so slender and fair",
+            "Came a harmful shaft{\\sep}that Hoth should hurl;",
+            "But the brother of Baldr{\\sep}was born ere long,",
             "And one night old{\\sep}fought Othin's son."
-        ], 
-        "number": 33, 
+        ],
+        "number": 33,
         "original": [
-            "Þó hann æva hendr{\\sep}né höfuð kembði,", 
-            "áðr á bál um bar{\\sep}Baldrs andskota.", 
-            "En Frigg um grét{\\sep}í Fensölum", 
+            "Þó hann æva hendr{\\sep}né höfuð kembði,",
+            "áðr á bál um bar{\\sep}Baldrs andskota.",
+            "En Frigg um grét{\\sep}í Fensölum",
             "vá Valhallar.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Frigg:} Othin's wife.", 
+            "\\emph{Frigg:} Othin's wife.",
             "Some scholars have regarded her as a solar myth, calling her the sun-goddess, and pointing out that her home in \\emph{Fensalir} (``the sea-halls'') symbolizes the daily setting of the sun beneath the ocean horizon."
-        ], 
+        ],
         "translation": [
-            "His hands he washed not,{\\sep}his hair he combed not,", 
-            "Till he bore to the bale-blaze{\\sep}Baldr's foe.", 
-            "But in Fensalir{\\sep}did Frigg weep sore", 
+            "His hands he washed not,{\\sep}his hair he combed not,",
+            "Till he bore to the bale-blaze{\\sep}Baldr's foe.",
+            "But in Fensalir{\\sep}did Frigg weep sore",
             "For Valhall's need:{\\sep}would you know yet more?"
-        ], 
-        "number": 34, 
+        ],
+        "number": 34,
         "original": [
-            ". . . .{\\sep}. . . . . .", 
-            ". . . . . .{\\sep}. . . . . .", 
-            "Þá kná Vala{\\sep}vígbönd snúa,", 
+            ". . . .{\\sep}. . . . . .",
+            ". . . . . .{\\sep}. . . . . .",
+            "Þá kná Vala{\\sep}vígbönd snúa,",
             "heldr váru harðgör{\\sep}höpt ór þörmum."
         ]
-    }, 
+    },
     {
         "comment": [
-            "The translation here follows the \\emph{Regius} version.", 
-            "The \\emph{Hauksbok} has the same final two lines, but in place of the first {[}fp. 16{]} pair has, ``I know that Vali{\\sep}his brother gnawed, / With his bowels then{\\sep}was Loki bound.'' Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from \\emph{Regius.} After the murder of Baldr, the gods took Loki and bound him to a rock with the bowels of his son Narfi, who had just been torn to pieces by Loki's other son, Vali.", 
-            "A serpent was fastened above Loki's head, and the venom fell upon his face.", 
-            "Loki's wife, Sigyn, sat by him with a basin to catch the venom, but whenever the basin was full, and she went away to empty it, then the venom fell on Loki again, till the earth shook with his struggles.", 
-            "``And there he lies bound till the end.'' Cf.", 
-            "\\emph{Lokasenna,} concluding prose."
-        ], 
+            "The translation here follows the \\emph{Regius} version.",
+            "The \\emph{Hauksbok} has the same final two lines, but in place of the first {[}fp. 16{]} pair has, ``I know that Vali{\\sep}his brother gnawed, / With his bowels then{\\sep}was Loki bound.''",
+            "Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from \\emph{Regius.}",
+            "After the murder of Baldr, the gods took Loki and bound him to a rock with the bowels of his son Narfi, who had just been torn to pieces by Loki's other son, Vali.",
+            "A serpent was fastened above Loki's head, and the venom fell upon his face.",
+            "Loki's wife, Sigyn, sat by him with a basin to catch the venom, but whenever the basin was full, and she went away to empty it, then the venom fell on Loki again, till the earth shook with his struggles.",
+            "``And there he lies bound till the end.''",
+            " Cf. \\emph{Lokasenna,} concluding prose."
+        ],
         "translation": [
-            "One did I see{\\sep}in the wet woods bound,", 
-            "A lover of ill,{\\sep}and to Loki like;", 
-            "By his side does Sigyn{\\sep}sit, nor is glad", 
+            "One did I see{\\sep}in the wet woods bound,",
+            "A lover of ill,{\\sep}and to Loki like;",
+            "By his side does Sigyn{\\sep}sit, nor is glad",
             "To see her mate:{\\sep}would you know yet more?"
-        ], 
-        "number": 35, 
+        ],
+        "number": 35,
         "original": [
-            "Hapt sá hon liggja{\\sep}undir hvera lundi", 
-            "lægjarnlíki{\\sep}Loka áþekkjan;", 
-            "þar sitr Sigyn{\\sep}þeygi um sínum", 
+            "Hapt sá hon liggja{\\sep}undir hvera lundi",
+            "lægjarnlíki{\\sep}Loka áþekkjan;",
+            "þar sitr Sigyn{\\sep}þeygi um sínum",
             "ver vel glýjuð.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "Stanzas 36\\ndash39 describe the homes of the enemies of the gods: the giants (36), the dwarfs (37), and the dead in the land of the goddess Hel (38\\ndash39). The \\emph{Hauksbok} version omits stanzas 36 and 37.", 
-            "\\emph{Regius} unites 36 with 37, but most editors have assumed a lacuna.", 
-            "\\emph{Slith} (``the Fearful''): a river in the giants' home.", 
+            "Stanzas 36\\ndash39 describe the homes of the enemies of the gods: the giants (36), the dwarfs (37), and the dead in the land of the goddess Hel (38\\ndash39).",
+            "The \\emph{Hauksbok} version omits stanzas 36 and 37.",
+            "\\emph{Regius} unites 36 with 37, but most editors have assumed a lacuna.",
+            "\\emph{Slith} (``the Fearful''): a river in the giants' home.",
             "The ``swords and daggers'' may represent the icy cold."
-        ], 
+        ],
         "translation": [
-            "From the east there pours{\\sep}through poisoned vales", 
-            "With swords and daggers{\\sep}the river Slith.", 
-            ".    .    .    .    .        .    .    .    .    .", 
+            "From the east there pours{\\sep}through poisoned vales",
+            "With swords and daggers{\\sep}the river Slith.",
+            ".    .    .    .    .        .    .    .    .    .",
             ".    .    .    .    .        .    .    .    .    ."
-        ], 
-        "number": 36, 
+        ],
+        "number": 36,
         "original": [
-            "Á fellr austan{\\sep}um eitrdala", 
+            "Á fellr austan{\\sep}um eitrdala",
             "söxum ok sverðum,{\\sep}Slíðr heitir sú."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Nithavellir} (``the Dark Fields''): a home of the dwarfs.", 
-            "Perhaps the word should be ``Nithafjoll'' (``the Dark Crags''). \\emph{Sindri:} the great worker in gold among the dwarfs.", 
-            "\\emph{Okolnir} {[}fp. 17{]} (``the Not Cold''): possibly a volcano.", 
+            "\\emph{Nithavellir} (``the Dark Fields''): a home of the dwarfs.",
+            "Perhaps the word should be ``Nithafjoll'' (``the Dark Crags'').",
+            "\\emph{Sindri:} the great worker in gold among the dwarfs.",
+            "\\emph{Okolnir} {[}fp. 17{]} (``the Not Cold''): possibly a volcano.",
             "\\emph{Brimir:} the giant (possibly Ymir) out of whose blood, according to stanza 9, the dwarfs were made; the name here appears to mean simply the leader of the dwarfs."
-        ], 
+        ],
         "translation": [
-            "Northward a hall{\\sep}in Nithavellir", 
-            "Of gold there rose{\\sep}for Sindri's race;", 
-            "And in Okolnir{\\sep}another stood,", 
+            "Northward a hall{\\sep}in Nithavellir",
+            "Of gold there rose{\\sep}for Sindri's race;",
+            "And in Okolnir{\\sep}another stood,",
             "Where the giant Brimir{\\sep}his beer-hall had."
-        ], 
-        "number": 37, 
+        ],
+        "number": 37,
         "original": [
-            "Stóð fyr norðan{\\sep}á Niðavöllum", 
-            "salr ór gulli{\\sep}Sindra ættar;", 
-            "en annarr stóð{\\sep}á Ókólni,", 
+            "Stóð fyr norðan{\\sep}á Niðavöllum",
+            "salr ór gulli{\\sep}Sindra ættar;",
+            "en annarr stóð{\\sep}á Ókólni,",
             "bjórsalr jötuns,{\\sep}en sá Brímir heitir."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Stanzas 38 and 39 follow stanza 43 in the \\emph{Hauksbok} version.", 
-            "Snorri quotes stanzas 39, 39, 40 and 41, though not consecutively.", 
-            "\\emph{Nastrond} (``Corpse-Strand''): the land of the dead, ruled by the goddess Hel.", 
-            "Here the wicked undergo tortures.", 
+            "Stanzas 38 and 39 follow stanza 43 in the \\emph{Hauksbok} version.",
+            "Snorri quotes stanzas 39, 39, 40 and 41, though not consecutively.",
+            "\\emph{Nastrond} (``Corpse-Strand''): the land of the dead, ruled by the goddess Hel.",
+            "Here the wicked undergo tortures.",
             "\\emph{Smoke vent:} the phrase gives a picture of the Icelandic house, with its opening in the roof serving instead of a chimney."
-        ], 
+        ],
         "translation": [
-            "A hall I saw,{\\sep}far from the sun,", 
-            "On Nastrond it stands,{\\sep}and the doors face north,", 
-            "Venom drops{\\sep}through the smoke-vent down,", 
+            "A hall I saw,{\\sep}far from the sun,",
+            "On Nastrond it stands,{\\sep}and the doors face north,",
+            "Venom drops{\\sep}through the smoke-vent down,",
             "For around the walls{\\sep}do serpents wind."
-        ], 
-        "number": 38, 
+        ],
+        "number": 38,
         "original": [
-            "Sal sá hon standa{\\sep}sólu fjarri", 
-            "Náströndu á,{\\sep}norðr horfa dyrr;", 
-            "féllu eitrdropar{\\sep}inn um ljóra,", 
+            "Sal sá hon standa{\\sep}sólu fjarri",
+            "Náströndu á,{\\sep}norðr horfa dyrr;",
+            "féllu eitrdropar{\\sep}inn um ljóra,",
             "sá er undinn salr{\\sep}orma hryggjum."
         ]
-    }, 
+    },
     {
         "comment": [
-            "The stanza is almost certainly in corrupt form.", 
-            "The third line is presumably an interpolation, and is lacking in most of the late, paper manuscripts.", 
-            "Some editors, however, have called lines 1\\ndash3 the remains of a full.", 
-            "stanza, with the fourth line lacking, and lines 4\\ndash5 the remains of another.", 
-            "The stanza depicts the torments of the two worst classes of criminals known to Old Norse morality{\\mdash}oath-breakers and murderers.", 
-            "\\emph{Nithhogg} (``the Dread Biter''): the dragon that lies beneath the ash Yggdrasil and gnaws at its roots, thus symbolizing the destructive elements in the universe; cf. \\emph{Grimnismol,} 32, 35.", 
-            "\\emph{The wolf:} presumably the wolf Fenrir, one of the children of Loki and the giantess Angrbotha (the others being Mithgarthsorm and the goddess Hel), who was chained by the gods with the marvelous chain Gleipnir, fashioned by a dwarf ``out of six things: the {[}fp. 18{]} noise of a cat's step, the beards of women, the roots of mountains, the nerves of bears, the breath of fishes, and the spittle of birds.'' The chaining of Fenrir cost the god Tyr his right hand; cf. stanza 44."
-        ], 
+            "The stanza is almost certainly in corrupt form.",
+            "The third line is presumably an interpolation, and is lacking in most of the late, paper manuscripts.",
+            "Some editors, however, have called lines 1\\ndash3 the remains of a full.",
+            "stanza, with the fourth line lacking, and lines 4\\ndash5 the remains of another.",
+            "The stanza depicts the torments of the two worst classes of criminals known to Old Norse morality{\\mdash}oath-breakers and murderers.",
+            "\\emph{Nithhogg} (``the Dread Biter''): the dragon that lies beneath the ash Yggdrasil and gnaws at its roots, thus symbolizing the destructive elements in the universe; cf. \\emph{Grimnismol,} 32, 35.",
+            "\\emph{The wolf:} presumably the wolf Fenrir, one of the children of Loki and the giantess Angrbotha (the others being Mithgarthsorm and the goddess Hel), who was chained by the gods with the marvelous chain Gleipnir, fashioned by a dwarf ``out of six things: the {[}fp. 18{]} noise of a cat's step, the beards of women, the roots of mountains, the nerves of bears, the breath of fishes, and the spittle of birds.''",
+            "The chaining of Fenrir cost the god Tyr his right hand; cf. stanza 44."
+        ],
         "translation": [
-            "I saw there wading{\\sep}through rivers wild", 
-            "Treacherous men{\\sep}and murderers too,", 
-            "And workers of ill{\\sep}with the wives of men;", 
-            "There Nithhogg sucked{\\sep}the blood of the slain,", 
+            "I saw there wading{\\sep}through rivers wild",
+            "Treacherous men{\\sep}and murderers too,",
+            "And workers of ill{\\sep}with the wives of men;",
+            "There Nithhogg sucked{\\sep}the blood of the slain,",
             "And the wolf tore men;{\\sep}would you know yet more?"
-        ], 
-        "number": 39, 
+        ],
+        "number": 39,
         "original": [
-            "Sá hon þar vaða{\\sep}þunga strauma", 
-            "menn meinsvara{\\sep}ok morðvarga", 
-            "ok þanns annars glepr{\\sep}eyrarúnu;", 
-            "þar saug Níðhöggr{\\sep}nái framgengna,", 
+            "Sá hon þar vaða{\\sep}þunga strauma",
+            "menn meinsvara{\\sep}ok morðvarga",
+            "ok þanns annars glepr{\\sep}eyrarúnu;",
+            "þar saug Níðhöggr{\\sep}nái framgengna,",
             "sleit vargr vera.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "The \\emph{Hauksbok} version inserts after stanza 39 the refrain stanza (44), and puts stanzas 40 and 41 between 27 and 21.", 
-            "With this stanza begins the account of the final struggle itself.", 
-            "\\emph{The giantess:} her name is nowhere stated, and the only other reference to Ironwood is in \\emph{Grimnismol,} 39, in this same connection.", 
-            "The children of this giantess and the wolf Fenrir are the wolves Skoll and Hati, the first of whom steals the sun, the second the moon.", 
+            "The \\emph{Hauksbok} version inserts after stanza 39 the refrain stanza (44), and puts stanzas 40 and 41 between 27 and 21.",
+            "With this stanza begins the account of the final struggle itself.",
+            "\\emph{The giantess:} her name is nowhere stated, and the only other reference to Ironwood is in \\emph{Grimnismol,} 39, in this same connection.",
+            "The children of this giantess and the wolf Fenrir are the wolves Skoll and Hati, the first of whom steals the sun, the second the moon.",
             "Some scholars naturally see here an eclipse myth."
-        ], 
+        ],
         "translation": [
-            "The giantess old{\\sep}in Ironwood sat,", 
-            "In the east, and bore{\\sep}the brood of Fenrir;", 
-            "Among these one{\\sep}in monster's guise", 
+            "The giantess old{\\sep}in Ironwood sat,",
+            "In the east, and bore{\\sep}the brood of Fenrir;",
+            "Among these one{\\sep}in monster's guise",
             "Was soon to steal{\\sep}the sun from the sky."
-        ], 
-        "number": 40, 
+        ],
+        "number": 40,
         "original": [
-            "Austr sat in aldna{\\sep}í Járnviði", 
-            "ok fœddi þar{\\sep}Fenris kindir;", 
-            "verðr af þeim öllum{\\sep}einna nökkurr", 
+            "Austr sat in aldna{\\sep}í Járnviði",
+            "ok fœddi þar{\\sep}Fenris kindir;",
+            "verðr af þeim öllum{\\sep}einna nökkurr",
             "tungls tjúgari{\\sep}í trolls hami."
         ]
-    }, 
+    },
     {
         "comment": [
-            "In the third line many editors omit the comma after ``sun,'' and put one after ``soon,'' making the two lines run: ``Dark grows the sun{\\sep}in summer soon, / Mighty storms{\\mdash}'' etc.", 
+            "In the third line many editors omit the comma after ``sun,'' and put one after ``soon,'' making the two lines run: ``Dark grows the sun{\\sep}in summer soon, / Mighty storms{\\mdash}'' etc.",
             "Either phenomenon in summer would be sufficiently striking."
-        ], 
+        ],
         "translation": [
-            "There feeds he full{\\sep}on the flesh of the dead,", 
-            "And the home of the gods{\\sep}he reddens with gore;", 
-            "Dark grows the sun,{\\sep}and in summer soon", 
+            "There feeds he full{\\sep}on the flesh of the dead,",
+            "And the home of the gods{\\sep}he reddens with gore;",
+            "Dark grows the sun,{\\sep}and in summer soon",
             "Come mighty storms:{\\sep}would you know yet more?"
-        ], 
-        "number": 41, 
+        ],
+        "number": 41,
         "original": [
-            "Fyllisk fjörvi{\\sep}feigra manna,", 
-            "rýðr ragna sjöt{\\sep}rauðum dreyra;", 
-            "svört verða sólskin{\\sep}um sumur eptir,", 
+            "Fyllisk fjörvi{\\sep}feigra manna,",
+            "rýðr ragna sjöt{\\sep}rauðum dreyra;",
+            "svört verða sólskin{\\sep}um sumur eptir,",
             "veðr öll válynd.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "In the \\emph{Hauksbok} version stanzas 42 and 43 stand between stanzas 44 and 38.", 
-            "\\emph{Eggther:} this giant, who seems to be the watchman of the giants, as Heimdall is that of the gods and Surt of the dwellers in the fire-world, is not mentioned elsewhere in {[}fp. 19{]} the poems.", 
+            "In the \\emph{Hauksbok} version stanzas 42 and 43 stand between stanzas 44 and 38.",
+            "\\emph{Eggther:} this giant, who seems to be the watchman of the giants, as Heimdall is that of the gods and Surt of the dwellers in the fire-world, is not mentioned elsewhere in {[}fp. 19{]} the poems.",
             "\\emph{Fjalar,} the cock whose crowing wakes the giants for the final struggle."
-        ], 
+        ],
         "translation": [
-            "On a hill there sat,{\\sep}and smote on his harp,", 
-            "Eggther the joyous,{\\sep}the giants' warder;", 
-            "Above him the cock{\\sep}in the bird-wood crowed,", 
+            "On a hill there sat,{\\sep}and smote on his harp,",
+            "Eggther the joyous,{\\sep}the giants' warder;",
+            "Above him the cock{\\sep}in the bird-wood crowed,",
             "Fair and red{\\sep}did Fjalar stand."
-        ], 
-        "number": 42, 
+        ],
+        "number": 42,
         "original": [
-            "Sat þar á haugi{\\sep}ok sló hörpu", 
-            "gýgjar hirðir{\\sep}glaðr Egðir;", 
-            "gól um hánum{\\sep}í gaglviði", 
+            "Sat þar á haugi{\\sep}ok sló hörpu",
+            "gýgjar hirðir{\\sep}glaðr Egðir;",
+            "gól um hánum{\\sep}í gaglviði",
             "fagrrauðr hani,{\\sep}sá er Fjalarr heitir."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Gollinkambi} (``Gold-Comb''): the cock who wakes the gods and heroes, as Fjalar does the giants.", 
+            "\\emph{Gollinkambi} (``Gold-Comb''): the cock who wakes the gods and heroes, as Fjalar does the giants.",
             "\\emph{The rust-red bird:} the name of this bird, who wakes the people of Hel's domain, is nowhere stated."
-        ], 
+        ],
         "translation": [
-            "Then to the gods{\\sep}crowed Gollinkambi,", 
-            "He wakes the heroes{\\sep}in Othin's hall;", 
-            "And beneath the earth{\\sep}does another crow,", 
+            "Then to the gods{\\sep}crowed Gollinkambi,",
+            "He wakes the heroes{\\sep}in Othin's hall;",
+            "And beneath the earth{\\sep}does another crow,",
             "The rust-red bird{\\sep}at the bars of Hel."
-        ], 
-        "number": 43, 
+        ],
+        "number": 43,
         "original": [
-            "Gól um ásum{\\sep}Gullinkambi,", 
-            "sá vekr hölða{\\sep}at Herjaföðrs;", 
-            "en annarr gelr{\\sep}fyr jörð neðan", 
+            "Gól um ásum{\\sep}Gullinkambi,",
+            "sá vekr hölða{\\sep}at Herjaföðrs;",
+            "en annarr gelr{\\sep}fyr jörð neðan",
             "sótrauðr hani{\\sep}at sölum Heljar."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This is a refrain-stanza.", 
-            "In \\emph{Regius} it appears in full only at this point, but is repeated in abbreviated form before stanzas 50 and 59.", 
-            "In the \\emph{Hauksbok} version the full stanza comes first between stanzas 35 and 42, then, in abbreviated form, it occurs four times: before stanzas 45, 50, 55, and 59.", 
-            "In the \\emph{Hauksbok} line 3 runs: ``Farther I see and more can say.'' \\emph{Garm:} the dog who guards the gates of Hel's kingdom; cf. Baldrs Draumar, 2 ff., and \\emph{Grimnismol,} 44.", 
-            "\\emph{Gniparhellir} (``the Cliff-Cave''): the entrance to the world of the dead.", 
+            "This is a refrain-stanza.",
+            "In \\emph{Regius} it appears in full only at this point, but is repeated in abbreviated form before stanzas 50 and 59.",
+            "In the \\emph{Hauksbok} version the full stanza comes first between stanzas 35 and 42, then, in abbreviated form, it occurs four times: before stanzas 45, 50, 55, and 59.",
+            "In the \\emph{Hauksbok} line 3 runs: ``Farther I see and more can say.''",
+            "\\emph{Garm:} the dog who guards the gates of Hel's kingdom; cf. Baldrs Draumar, 2 ff., and \\emph{Grimnismol,} 44.",
+            "\\emph{Gniparhellir} (``the Cliff-Cave''): the entrance to the world of the dead.",
             "\\emph{The wolf:} Fenrir; cf. stanza 39 and note."
-        ], 
+        ],
         "translation": [
-            "Now Garm howls loud{\\sep}before Gnipahellir,", 
-            "The fetters will burst,{\\sep}and the wolf run free;", 
-            "Much do I know,{\\sep}and more can see", 
+            "Now Garm howls loud{\\sep}before Gnipahellir,",
+            "The fetters will burst,{\\sep}and the wolf run free;",
+            "Much do I know,{\\sep}and more can see",
             "Of the fate of the gods,{\\sep}the mighty in fight."
-        ], 
-        "number": 44, 
+        ],
+        "number": 44,
         "original": [
-            "Geyr Garmr mjök{\\sep}fyr Gnípahelli;", 
-            "festr man slitna,{\\sep}en freki renna.", 
-            "Fjöld veit hon frœða,{\\sep}fram sé ek lengra,", 
+            "Geyr Garmr mjök{\\sep}fyr Gnípahelli;",
+            "festr man slitna,{\\sep}en freki renna.",
+            "Fjöld veit hon frœða,{\\sep}fram sé ek lengra,",
             "um ragnarök{\\sep}römm sigtíva."
         ]
-    }, 
+    },
     {
         "comment": [
-            "From this point on through stanza 57 the poem is quoted by Snorri, stanza 49 alone being omitted.", 
-            "There has been much discussion as to the status of stanza 45.", 
-            "Lines 4 and 5 look like an interpolation.", 
-            "After line 5 the \\emph{Hauksbok} has a line running: ``The world resounds, the witch is flying.'' Editors have arranged these seven lines in various ways, with lacunae freely indicated.", 
+            "From this point on through stanza 57 the poem is quoted by Snorri, stanza 49 alone being omitted.",
+            "There has been much discussion as to the status of stanza 45.",
+            "Lines 4 and 5 look like an interpolation.",
+            "After line 5 the \\emph{Hauksbok} has a line running: ``The world resounds, the witch is flying.''",
+            "Editors have arranged these seven lines in various ways, with lacunae freely indicated.",
             "\\emph{Sisters' sons:} in all Germanic countries the relations between uncle and nephew were felt to be particularly close."
-        ], 
+        ],
         "translation": [
-            "Brothers shall fight{\\sep}and fell each other,", 
-            "And sisters' sons{\\sep}shall kinship stain;", 
-            "Hard is it on earth,{\\sep}with mighty whoredom;", 
-            "Axe-time, sword-time,{\\sep}shields are sundered,", 
-            "Wind-time, wolf-time,{\\sep}ere the world falls;", 
+            "Brothers shall fight{\\sep}and fell each other,",
+            "And sisters' sons{\\sep}shall kinship stain;",
+            "Hard is it on earth,{\\sep}with mighty whoredom;",
+            "Axe-time, sword-time,{\\sep}shields are sundered,",
+            "Wind-time, wolf-time,{\\sep}ere the world falls;",
             "Nor ever shall men{\\sep}each other spare."
-        ], 
-        "number": 45, 
+        ],
+        "number": 45,
         "original": [
-            "Brœðr munu berjask{\\sep}ok at bönum verðask,", 
-            "munu systrungar{\\sep}sifjum spilla;", 
-            "hart er í heimi,{\\sep}hórdómr mikill,", 
-            "skeggjöld, skálmöld,{\\sep}skildir 'ru klofnir,", 
-            "vindöld, vargöld,{\\sep}áðr veröld steypisk;", 
+            "Brœðr munu berjask{\\sep}ok at bönum verðask,",
+            "munu systrungar{\\sep}sifjum spilla;",
+            "hart er í heimi,{\\sep}hórdómr mikill,",
+            "skeggjöld, skálmöld,{\\sep}skildir 'ru klofnir,",
+            "vindöld, vargöld,{\\sep}áðr veröld steypisk;",
             "man engi maðr{\\sep}öðrum þyrma."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Regius} combines the first three lines of this stanza with lines 3, 2, and I of stanza 47 as a single stanza.", 
-            "Line 4, not found in \\emph{Regius,} is introduced from the \\emph{Hauksbok} version, where it follows line 2 of stanza 47.", 
-            "\\emph{The sons of Mim:} the spirits of the water.", 
-            "On Mini (or Mimir) cf. stanza 27 and note.", 
+            "\\emph{Regius} combines the first three lines of this stanza with lines 3, 2, and I of stanza 47 as a single stanza.",
+            "Line 4, not found in \\emph{Regius,} is introduced from the \\emph{Hauksbok} version, where it follows line 2 of stanza 47.",
+            "\\emph{The sons of Mim:} the spirits of the water.",
+            "On Mini (or Mimir) cf. stanza 27 and note.",
             "Gjallarhorn: the ``Shrieking Horn'' with which Heimdall, the watchman of the gods, calls them to the last battle."
-        ], 
+        ],
         "translation": [
-            "Fast move the sons{\\sep}of Mim, and fate", 
-            "Is heard in the note{\\sep}of the Gjallarhorn;", 
-            "Loud blows Heimdall,{\\sep}the horn is aloft,", 
+            "Fast move the sons{\\sep}of Mim, and fate",
+            "Is heard in the note{\\sep}of the Gjallarhorn;",
+            "Loud blows Heimdall,{\\sep}the horn is aloft,",
             "In fear quake all{\\sep}who on Hel-roads are."
-        ], 
-        "number": 46, 
+        ],
+        "number": 46,
         "original": [
-            "Leika Míms synir,{\\sep}en mjötuðr kyndisk,", 
-            "at inu gamla{\\sep}Gjallarhorni;", 
-            "hátt blæss Heimdallr,{\\sep}horn er á lopti;", 
+            "Leika Míms synir,{\\sep}en mjötuðr kyndisk,",
+            "at inu gamla{\\sep}Gjallarhorni;",
+            "hátt blæss Heimdallr,{\\sep}horn er á lopti;",
             "mælir Óðinn{\\sep}við Míms höfuð."
         ]
-    }, 
+    },
     {
         "comment": [
-            "In \\emph{Regius} lines 3, 2, and I, in that order, follow stanza 46 without separation.", 
-            "Line 4 is not found in \\emph{Regius,} but is introduced from the \\emph{Hauksbok} version.", 
-            "\\emph{Yggdrasil:} cf. stanza 19 and note, and Grimnismol, 29\\ndash35.", 
-            "\\emph{The giant:} Fenrir.", 
-            "\\emph{The head of Mim:} various myths were current about Mimir.", 
-            "This stanza refers to the story that he was sent by the gods with Hönir as a hostage to the Wanes after their war (cf. stanza 21 and note), and that the Wanes cut off his head and returned it to the gods.", 
-            "Othin embalmed the head, and by magic gave it the power of speech, thus making Mimir's noted wisdom always available.", 
-            "of course this story does not fit with that underlying the references to Mimir in stanzas 27 and 29.", 
-            "\\emph{The kinsman of Surt:} the wolf {[}fp. 21{]} Fenrir, who slays Othin in the final struggle; cf. stanza 53.", 
+            "In \\emph{Regius} lines 3, 2, and I, in that order, follow stanza 46 without separation.",
+            "Line 4 is not found in \\emph{Regius,} but is introduced from the \\emph{Hauksbok} version.",
+            "\\emph{Yggdrasil:} cf. stanza 19 and note, and Grimnismol, 29\\ndash35.",
+            "\\emph{The giant:} Fenrir.",
+            "\\emph{The head of Mim:} various myths were current about Mimir.",
+            "This stanza refers to the story that he was sent by the gods with Hönir as a hostage to the Wanes after their war (cf. stanza 21 and note), and that the Wanes cut off his head and returned it to the gods.",
+            "Othin embalmed the head, and by magic gave it the power of speech, thus making Mimir's noted wisdom always available.",
+            "Of course this story does not fit with that underlying the references to Mimir in stanzas 27 and 29.",
+            "\\emph{The kinsman of Surt:} the wolf {[}fp. 21{]} Fenrir, who slays Othin in the final struggle; cf. stanza 53.",
             "Surt is the giant who rules the fire-world, Muspellsheim; cf. stanza 52."
-        ], 
+        ],
         "translation": [
-            "Yggdrasil shakes,{\\sep}and shiver on high", 
-            "The ancient limbs,{\\sep}and the giant is loose;", 
-            "To the head of Mim{\\sep}does Othin give heed,", 
+            "Yggdrasil shakes,{\\sep}and shiver on high",
+            "The ancient limbs,{\\sep}and the giant is loose;",
+            "To the head of Mim{\\sep}does Othin give heed,",
             "But the kinsman of Surt{\\sep}shall slay him soon."
-        ], 
-        "number": 47, 
+        ],
+        "number": 47,
         "original": [
-            "Skelfr Yggdrasils{\\sep}askr standandi,", 
-            "ymr it aldna tré,{\\sep}en jötunn losnar;", 
-            "hræðask allir{\\sep}á helvegum,", 
+            "Skelfr Yggdrasils{\\sep}askr standandi,",
+            "ymr it aldna tré,{\\sep}en jötunn losnar;",
+            "hræðask allir{\\sep}á helvegum,",
             "áðr Surtar þann{\\sep}sefi of gleypir."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This stanza in \\emph{Regius} follows stanza 51; in the \\emph{Hauksbok} it stands, as here, after 47.", 
+            "This stanza in \\emph{Regius} follows stanza 51; in the \\emph{Hauksbok} it stands, as here, after 47.",
             "\\emph{Jotunheim:} the land of the giants."
-        ], 
+        ],
         "translation": [
-            "How fare the gods?{\\sep}how fare the elves?", 
-            "All Jotunheim groans,{\\sep}the gods are at council;", 
-            "Loud roar the dwarfs{\\sep}by the doors of stone,", 
+            "How fare the gods?{\\sep}how fare the elves?",
+            "All Jotunheim groans,{\\sep}the gods are at council;",
+            "Loud roar the dwarfs{\\sep}by the doors of stone,",
             "The masters of the rocks:{\\sep}would you know yet more?"
-        ], 
-        "number": 48, 
+        ],
+        "number": 48,
         "original": [
-            "Hvat er með ásum?{\\sep}hvat er með álfum?", 
-            "gnýr allr jötunheimr,{\\sep}æsir 'ru á þingi;", 
-            "stynja dvergar{\\sep}fyr steindurum", 
+            "Hvat er með ásum?{\\sep}hvat er með álfum?",
+            "gnýr allr jötunheimr,{\\sep}æsir 'ru á þingi;",
+            "stynja dvergar{\\sep}fyr steindurum",
             "veggbergs vísir.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "Identical with stanza 44.", 
+            "Identical with stanza 44.",
             "In the manuscripts it is here abbreviated."
-        ], 
+        ],
         "translation": [
-            "Now Garm howls loud{\\sep}before Gnipahellir,", 
-            "The fetters will burst,{\\sep}and the wolf run free", 
-            "Much do I know,{\\sep}and more can see", 
+            "Now Garm howls loud{\\sep}before Gnipahellir,",
+            "The fetters will burst,{\\sep}and the wolf run free",
+            "Much do I know,{\\sep}and more can see",
             "Of the fate of the gods,{\\sep}the mighty in fight."
-        ], 
-        "number": 49, 
+        ],
+        "number": 49,
         "original": [
-            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;", 
+            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;",
             "festr man slitna,{\\sep}en freki renna."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Hrym:} the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). \\emph{The serpent:} Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza 39, note). The serpent was cast into the sea, where he completely encircles the land; cf. especially \\emph{Hymiskvitha, passim.} \\emph{The eagle:} the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. \\emph{Vafthruthnismol,} 37, and \\emph{Skirnismol,} 27.", 
+            "\\emph{Hrym:} the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). \\emph{The serpent:} Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza 39, note).",
+            "The serpent was cast into the sea, where he completely encircles the land; cf. especially \\emph{Hymiskvitha, passim.}",
+            "\\emph{The eagle:} the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. \\emph{Vafthruthnismol,} 37, and \\emph{Skirnismol,} 27.",
             "\\emph{Naglfar:} the ship which was made out of dead men's nails to carry the giants to battle."
-        ], 
+        ],
         "translation": [
-            "From the east comes Hrym{\\sep}with shield held high;", 
-            "In giant-wrath{\\sep}does the serpent writhe;", 
-            "O'er the waves he twists,{\\sep}and the tawny eagle", 
+            "From the east comes Hrym{\\sep}with shield held high;",
+            "In giant-wrath{\\sep}does the serpent writhe;",
+            "O'er the waves he twists,{\\sep}and the tawny eagle",
             "Gnaws corpses screaming;{\\sep}Naglfar is loose."
-        ], 
-        "number": 50, 
+        ],
+        "number": 50,
         "original": [
-            "Hrymr ekr austan,{\\sep}hefisk lind fyrir.", 
-            "Snýsk jörmungandr{\\sep}í jötunmóði:", 
-            "ormr knýr unnir,{\\sep}en ari hlakkar,", 
+            "Hrymr ekr austan,{\\sep}hefisk lind fyrir.",
+            "Snýsk jörmungandr{\\sep}í jötunmóði:",
+            "ormr knýr unnir,{\\sep}en ari hlakkar,",
             "slítr nái niðfölr.{\\sep}Naglfar losnar."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{North:} a guess; the manuscripts have ``east,'' but there seems to be a confusion with stanza 50, line 1.", 
-            "\\emph{People of Hel:} the manuscripts have ``people of Muspell,'' but these came over the bridge Bifrost (the rainbow), which broke beneath them, whereas the people of Hel came in a ship steered by Loki.", 
-            "\\emph{The wolf:} Fenrir.", 
-            "\\emph{The brother of Byleist:} Loki.", 
+            "\\emph{North:} a guess; the manuscripts have ``east,'' but there seems to be a confusion with stanza 50, line 1.",
+            "\\emph{People of Hel:} the manuscripts have ``people of Muspell,'' but these came over the bridge Bifrost (the rainbow), which broke beneath them, whereas the people of Hel came in a ship steered by Loki.",
+            "\\emph{The wolf:} Fenrir.",
+            "\\emph{The brother of Byleist:} Loki.",
             "Of Byleist (or Byleipt) no more is known."
-        ], 
+        ],
         "translation": [
-            "O'er the sea from the north{\\sep}there sails a ship", 
-            "With the people of Hel,{\\sep}at the helm stands Loki;", 
-            "After the wolf{\\sep}do wild men follow,", 
+            "O'er the sea from the north{\\sep}there sails a ship",
+            "With the people of Hel,{\\sep}at the helm stands Loki;",
+            "After the wolf{\\sep}do wild men follow,",
             "And with them the brother{\\sep}of Byleist goes."
-        ], 
-        "number": 51, 
+        ],
+        "number": 51,
         "original": [
-            "Kjóll ferr austan,{\\sep}koma munu Muspells", 
-            "um lög lýðir,{\\sep}en Loki stýrir;", 
-            "fara fíflmegir{\\sep}með freka allir,", 
+            "Kjóll ferr austan,{\\sep}koma munu Muspells",
+            "um lög lýðir,{\\sep}en Loki stýrir;",
+            "fara fíflmegir{\\sep}með freka allir,",
             "þeim er bróðir{\\sep}Byleists í för."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Surt:} the ruler of the fire-world.", 
-            "\\emph{The scourge of branches:} fire.", 
+            "\\emph{Surt:} the ruler of the fire-world.",
+            "\\emph{The scourge of branches:} fire.",
             "This is one of the relatively rare instances in the Eddic poems of the type of poetic diction which characterizes the skaldic verse."
-        ], 
+        ],
         "translation": [
-            "Surt fares from the south{\\sep}with the scourge of branches,", 
-            "The sun of the battle-gods{\\sep}shone from his sword;", 
-            "The crags are sundered,{\\sep}the giant-women sink,", 
+            "Surt fares from the south{\\sep}with the scourge of branches,",
+            "The sun of the battle-gods{\\sep}shone from his sword;",
+            "The crags are sundered,{\\sep}the giant-women sink,",
             "The dead throng Hel-way,{\\sep}and heaven is cloven."
-        ], 
-        "number": 52, 
+        ],
+        "number": 52,
         "original": [
-            "Surtr ferr sunnan{\\sep}með sviga lævi,", 
-            "skínn af sverði{\\sep}sól valtíva.", 
-            "Grjótbjörg gnata,{\\sep}en gífr hrata;", 
+            "Surtr ferr sunnan{\\sep}með sviga lævi,",
+            "skínn af sverði{\\sep}sól valtíva.",
+            "Grjótbjörg gnata,{\\sep}en gífr hrata;",
             "troða halir helveg,{\\sep}en himinn klofnar."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Hlin:} apparently another name for Frigg, Othin's wife.", 
-            "After losing her son Baldr, she is fated now to see Othin slain by the wolf Fenrir.", 
-            "\\emph{Beli's slayer:} the god Freyr, who killed the giant Beli with his fist; cf. \\emph{Skirnismol,} 16 and note.", 
-            "On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially \\emph{Skirnismol, passim.} \\emph{The Joy of Frigg:} Othin."
-        ], 
+            "\\emph{Hlin:} apparently another name for Frigg, Othin's wife.",
+            "After losing her son Baldr, she is fated now to see Othin slain by the wolf Fenrir.",
+            "\\emph{Beli's slayer:} the god Freyr, who killed the giant Beli with his fist; cf. \\emph{Skirnismol,} 16 and note.",
+            "On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially \\emph{Skirnismol, passim.}",
+            "\\emph{The Joy of Frigg:} Othin."
+        ],
         "translation": [
-            "Now comes to Hlin{\\sep}yet another hurt,", 
-            "When Othin fares{\\sep}to fight with the wolf,", 
-            "And Beli's fair slayer{\\sep}seeks out Surt,", 
+            "Now comes to Hlin{\\sep}yet another hurt,",
+            "When Othin fares{\\sep}to fight with the wolf,",
+            "And Beli's fair slayer{\\sep}seeks out Surt,",
             "For there must fall{\\sep}the joy of Frigg."
-        ], 
-        "number": 53, 
+        ],
+        "number": 53,
         "original": [
-            "Þá kemr Hlínar{\\sep}harmr annarr fram,", 
-            "er Óðinn ferr{\\sep}við úlf vega,", 
-            "en bani Belja{\\sep}bjartr at Surti;", 
+            "Þá kemr Hlínar{\\sep}harmr annarr fram,",
+            "er Óðinn ferr{\\sep}við úlf vega,",
+            "en bani Belja{\\sep}bjartr at Surti;",
             "þar man Friggjar{\\sep}falla angan."
         ]
-    }, 
+    },
     {
         "comment": [
-            "As quoted by Snorri the first line of this stanza runs: ``Fares Othin's son{\\sep}to fight with the wolf.'' \\emph{Sigfather} (``Father of Victory''): Othin.", 
-            "His son, Vithar, is the silent god, famed chiefly for his great shield, and his strength, which is little less than Thor's.", 
-            "He survives the destruction.", 
+            "As quoted by Snorri the first line of this stanza runs: ``Fares Othin's son{\\sep}to fight with the wolf.''",
+            "\\emph{Sigfather} (``Father of Victory''): Othin.",
+            "His son, Vithar, is the silent god, famed chiefly for his great shield, and his strength, which is little less than Thor's.",
+            "He survives the destruction.",
             "\\emph{The giant's son:} Fenrir."
-        ], 
+        ],
         "translation": [
-            "Then comes Sigfather's{\\sep}mighty son,", 
-            "Vithar, to fight{\\sep}with the foaming wolf;", 
-            "In the giant's son{\\sep}does he thrust his sword", 
+            "Then comes Sigfather's{\\sep}mighty son,",
+            "Vithar, to fight{\\sep}with the foaming wolf;",
+            "In the giant's son{\\sep}does he thrust his sword",
             "Full to the heart:{\\sep}his father is avenged."
-        ], 
-        "number": 54, 
+        ],
+        "number": 54,
         "original": [
-            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;", 
+            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;",
             "festr man slitna,{\\sep}en freki renna."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This and the following stanza are clearly in bad shape.", 
-            "In \\emph{Regius} only lines I and 4 are found, combined with stanza 56 as a single stanza.", 
-            "Line I does not appear in the \\emph{Hauksbok} version, the stanza there beginning with line 2.", 
-            "Snorri, in quoting these two stanzas, omits 55, 2\\ndash4, and 56, 3, making a single stanza out of 55, I, and 56, 4, 2, I, in that order.", 
-            "Moreover, the \\emph{Hauksbok} manuscript at this point is practically illegible.", 
-            "The lacuna (line 3) is, of course, purely conjectural, and all sorts of arrangements of the lines have been attempted by editors.", 
-            "\\emph{Hlothyn:} another name for Jorth (``Earth''), Thor's mother; his father was Othin.", 
-            "\\emph{The snake:} Mithgarthsorm; cf. stanza 5c and note.", 
-            "\\emph{Othin's son:} Thor.", 
+            "This and the following stanza are clearly in bad shape.",
+            "In \\emph{Regius} only lines I and 4 are found, combined with stanza 56 as a single stanza.",
+            "Line I does not appear in the \\emph{Hauksbok} version, the stanza there beginning with line 2.",
+            "Snorri, in quoting these two stanzas, omits 55, 2\\ndash4, and 56, 3, making a single stanza out of 55, I, and 56, 4, 2, I, in that order.",
+            "Moreover, the \\emph{Hauksbok} manuscript at this point is practically illegible.",
+            "The lacuna (line 3) is, of course, purely conjectural, and all sorts of arrangements of the lines have been attempted by editors.",
+            "\\emph{Hlothyn:} another name for Jorth (``Earth''), Thor's mother; his father was Othin.",
+            "\\emph{The snake:} Mithgarthsorm; cf. stanza 5c and note.",
+            "\\emph{Othin's son:} Thor.",
             "The fourth line in Regius reads ``against the wolf,'' but if this line refers to Thor at all, and not to Vithar, the \\emph{Hauksbok} reading, ``serpent,'' is correct."
-        ], 
+        ],
         "translation": [
-            "Hither there comes{\\sep}the son of Hlothyn,", 
-            "The bright snake gapes{\\sep}to heaven above;", 
-            ".    .    .    .    .        .    .    .    .    .", 
+            "Hither there comes{\\sep}the son of Hlothyn,",
+            "The bright snake gapes{\\sep}to heaven above;",
+            ".    .    .    .    .        .    .    .    .    .",
             "Against the serpent{\\sep}goes Othin's son."
-        ], 
-        "number": 55, 
+        ],
+        "number": 55,
         "original": [
-            "Þá kemr inn mikli{\\sep}mögr Sigföður", 
-            "Viðarr vega{\\sep}at valdýri;", 
-            "lætr hann megi hveðrungs{\\sep}mund um standa", 
+            "Þá kemr inn mikli{\\sep}mögr Sigföður",
+            "Viðarr vega{\\sep}at valdýri;",
+            "lætr hann megi hveðrungs{\\sep}mund um standa",
             "hjör til hjarta;{\\sep}þá er hefnt föður."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{The warder of earth:} Thor.", 
-            "\\emph{The son of Fjorgyn:} again {[}fp. 24{]} Thor, who, after slaying the serpent, is overcome by his venomous breath, and dies.", 
-            "Fjorgyn appears in both a masculine and a feminine form.", 
+            "\\emph{The warder of earth:} Thor.",
+            "\\emph{The son of Fjorgyn:} again {[}fp. 24{]} Thor, who, after slaying the serpent, is overcome by his venomous breath, and dies.",
+            "Fjorgyn appears in both a masculine and a feminine form.",
             "in the masculine 1t is a name for Othin; in the feminine, as here and in \\emph{Harbarthsljoth,} 56, it apparently refers to Jorth."
-        ], 
+        ],
         "translation": [
-            "In anger smites{\\sep}the warder of earth,{\\commamdash}", 
-            "Forth from their homes{\\sep}must all men flee;", 
-            "Nine paces fares{\\sep}the son of Fjorgyn,", 
+            "In anger smites{\\sep}the warder of earth,{\\commamdash}",
+            "Forth from their homes{\\sep}must all men flee;",
+            "Nine paces fares{\\sep}the son of Fjorgyn,",
             "And, slain by the serpent,{\\sep}fearless he sinks."
-        ], 
-        "number": 56, 
+        ],
+        "number": 56,
         "original": [
-            "Þá kemr inn mœri{\\sep}mögr Hlóðynjar,", 
-            "gengr Óðins sonr{\\sep}við orm vega;", 
-            "drepr hann af móði{\\sep}Miðgarðs véurr;", 
-            "munu halir allir{\\sep}heimstöð ryðja;", 
-            "gengr fet níu{\\sep}Fjörgynjar burr", 
+            "Þá kemr inn mœri{\\sep}mögr Hlóðynjar,",
+            "gengr Óðins sonr{\\sep}við orm vega;",
+            "drepr hann af móði{\\sep}Miðgarðs véurr;",
+            "munu halir allir{\\sep}heimstöð ryðja;",
+            "gengr fet níu{\\sep}Fjörgynjar burr",
             "neppr frá naðri{\\sep}níðs ókvíðnum."
         ]
-    }, 
+    },
     {
         "comment": [
             "With this stanza ends the account of the destruction."
-        ], 
+        ],
         "translation": [
-            "The sun turns black,{\\sep}earth sinks in the sea,", 
-            "The hot stars down{\\sep}from heaven are whirled;", 
-            "Fierce grows the steam{\\sep}and the life-feeding flame,", 
+            "The sun turns black,{\\sep}earth sinks in the sea,",
+            "The hot stars down{\\sep}from heaven are whirled;",
+            "Fierce grows the steam{\\sep}and the life-feeding flame,",
             "Till fire leaps high{\\sep}about heaven itself."
-        ], 
-        "number": 57, 
+        ],
+        "number": 57,
         "original": [
-            "Sól tér sortna,{\\sep}sígr fold í mar,", 
-            "hverfa af himni{\\sep}heiðar stjörnur;", 
-            "geisar eimi{\\sep}ok aldrnari,", 
+            "Sól tér sortna,{\\sep}sígr fold í mar,",
+            "hverfa af himni{\\sep}heiðar stjörnur;",
+            "geisar eimi{\\sep}ok aldrnari,",
             "leikr hár hiti{\\sep}við himin sjálfan."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Again the refrain-stanza (cf. stanza 44 and note), abbreviated in both manuscripts, as in the case of stanza 49.", 
+            "Again the refrain-stanza (cf. stanza 44 and note), abbreviated in both manuscripts, as in the case of stanza 49.",
             "It is probably misplaced here."
-        ], 
+        ],
         "translation": [
-            "Now Garm howls loud{\\sep}before Gnipahellir,", 
-            "The fetters will burst,{\\sep}and the wolf run free;", 
-            "Much do I know,{\\sep}and more can see", 
+            "Now Garm howls loud{\\sep}before Gnipahellir,",
+            "The fetters will burst,{\\sep}and the wolf run free;",
+            "Much do I know,{\\sep}and more can see",
             "Of the fate of the gods,{\\sep}the mighty in fight."
-        ], 
-        "number": 58, 
+        ],
+        "number": 58,
         "original": [
-            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;", 
+            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;",
             "festr man slitna,{\\sep}en freki renna."
         ]
-    }, 
+    },
     {
         "comment": [
-            "Here begins the description of the new world which is to rise out of the wreck of the old one.", 
+            "Here begins the description of the new world which is to rise out of the wreck of the old one.",
             "It is on this passage that a few critics have sought to base their argument that the poem is later than the introduction of Christianity (circa 1000), but this theory has never seemed convincing (cf. introductory note)."
-        ], 
+        ],
         "translation": [
-            "Now do I see{\\sep}the earth anew", 
-            "Rise all green{\\sep}from the waves again;", 
-            "The cataracts fall,{\\sep}and the eagle flies,", 
+            "Now do I see{\\sep}the earth anew",
+            "Rise all green{\\sep}from the waves again;",
+            "The cataracts fall,{\\sep}and the eagle flies,",
             "And fish he catches{\\sep}beneath the cliffs."
-        ], 
-        "number": 59, 
+        ],
+        "number": 59,
         "original": [
-            "Sér hon upp koma{\\sep}öðru sinni", 
-            "jörð ór œgi{\\sep}iðjagrœna;", 
-            "falla forsar,{\\sep}flýgr örn yfir,", 
+            "Sér hon upp koma{\\sep}öðru sinni",
+            "jörð ór œgi{\\sep}iðjagrœna;",
+            "falla forsar,{\\sep}flýgr örn yfir,",
             "sá er á fjalli{\\sep}fiska veiðir."
         ]
-    }, 
+    },
     {
         "comment": [
-            "The third line of this stanza is not found in \\emph{Regius.} \\emph{Ithavoll:} cf. stanza 7 and note.", 
-            "\\emph{The girdler of earth:} Mithgarthsorm: {[}fp. 25{]}, who, lying in the sea, surrounded the land.", 
-            "\\emph{The Ruler of Gods:} Othin.", 
+            "The third line of this stanza is not found in \\emph{Regius.}",
+            "\\emph{Ithavoll:} cf. stanza 7 and note.",
+            "\\emph{The girdler of earth:} Mithgarthsorm: {[}fp. 25{]}, who, lying in the sea, surrounded the land.",
+            "\\emph{The Ruler of Gods:} Othin.",
             "The runes were both magic signs, generally carved on wood, and sung or spoken charms."
-        ], 
+        ],
         "translation": [
-            "The gods in Ithavoll{\\sep}meet together,", 
-            "Of the terrible girdler{\\sep}of earth they talk,", 
-            "And the mighty past{\\sep}they call to mind,", 
+            "The gods in Ithavoll{\\sep}meet together,",
+            "Of the terrible girdler{\\sep}of earth they talk,",
+            "And the mighty past{\\sep}they call to mind,",
             "And the ancient runes{\\sep}of the Ruler of Gods."
-        ], 
-        "number": 60, 
+        ],
+        "number": 60,
         "original": [
-            "Finnask æsir{\\sep}á Iðavelli", 
-            "ok um moldþinur{\\sep}mátkan dœma", 
-            "ok minnask þar{\\sep}á megindóma", 
+            "Finnask æsir{\\sep}á Iðavelli",
+            "ok um moldþinur{\\sep}mátkan dœma",
+            "ok minnask þar{\\sep}á megindóma",
             "ok á Fimbultýs{\\sep}fornar rúnar."
         ]
-    }, 
+    },
     {
         "comment": [
-            "The \\emph{Hauksbok} version of the first two lines runs:", 
-            "", 
-            "``The gods shall find there,{\\sep}wondrous fair,", 
-            "The golden tables{\\sep}amid the grass.''", 
-            "", 
-            "No lacuna (line 4) is indicated in the manuscripts.", 
+            "The \\emph{Hauksbok} version of the first two lines runs:",
+            "",
+            "``The gods shall find there,{\\sep}wondrous fair,",
+            "The golden tables{\\sep}amid the grass.''",
+            "",
+            "No lacuna (line 4) is indicated in the manuscripts.",
             "\\emph{Golden tables:} cf. stanza 8 and note."
-        ], 
+        ],
         "translation": [
-            "In wondrous beauty{\\sep}once again", 
-            "Shall the golden tables{\\sep}stand mid the grass,", 
-            "Which the gods had owned{\\sep}in the days of old,", 
+            "In wondrous beauty{\\sep}once again",
+            "Shall the golden tables{\\sep}stand mid the grass,",
+            "Which the gods had owned{\\sep}in the days of old,",
             ".    .    .    .    .        .    .    .    .    ."
-        ], 
-        "number": 61, 
+        ],
+        "number": 61,
         "original": [
-            "Þar munu eptir{\\sep}undrsamligar", 
-            "gullnar töflur{\\sep}í grasi finnask,", 
+            "Þar munu eptir{\\sep}undrsamligar",
+            "gullnar töflur{\\sep}í grasi finnask,",
             "þærs í árdaga{\\sep}áttar höfðu."
         ]
-    }, 
+    },
     {
         "comment": [
-            "\\emph{Baldr:} cf. stanza 32 and note.", 
-            "Baldr and his brother, Hoth, who unwittingly slew him at Loki's instigation, return together, their union being a symbol of the new age of peace.", 
-            "\\emph{Hropt:} another name for Othin.", 
+            "\\emph{Baldr:} cf. stanza 32 and note.",
+            "Baldr and his brother, Hoth, who unwittingly slew him at Loki's instigation, return together, their union being a symbol of the new age of peace.",
+            "\\emph{Hropt:} another name for Othin.",
             "His ``battle-hall'' is Valhall."
-        ], 
+        ],
         "translation": [
-            "Then fields unsowed{\\sep}bear ripened fruit,", 
-            "All ills grow better,{\\sep}and Baldr comes back;", 
-            "Baldr and Hoth dwell{\\sep}in Hropt's battle-hall,", 
+            "Then fields unsowed{\\sep}bear ripened fruit,",
+            "All ills grow better,{\\sep}and Baldr comes back;",
+            "Baldr and Hoth dwell{\\sep}in Hropt's battle-hall,",
             "And the mighty gods:{\\sep}would you know yet more?"
-        ], 
-        "number": 62, 
+        ],
+        "number": 62,
         "original": [
-            "Munu ósánir{\\sep}akrar vaxa,", 
-            "böls man alls batna,{\\sep}Baldr man koma;", 
-            "búa þeir Höðr ok Baldr{\\sep}Hropts sigtoptir", 
+            "Munu ósánir{\\sep}akrar vaxa,",
+            "böls man alls batna,{\\sep}Baldr man koma;",
+            "búa þeir Höðr ok Baldr{\\sep}Hropts sigtoptir",
             "vel valtívar.{\\sep}Vituð ér enn eða hvat?"
         ]
-    }, 
+    },
     {
         "comment": [
-            "No lacuna (line 2) indicated in the manuscripts.", 
-            "\\emph{Hönir:} cf. stanza 18 and note.", 
-            "In this new age he has the gift of foretelling the future.", 
-            "\\emph{Tveggi} (``The Twofold''): another name for {[}fp. 26{]} Othin.", 
-            "His brothers are Vili and Ve (cf. \\emph{Lokasenna,} 26, and note). Little is known of them, and nothing, beyond this reference, of their sons.", 
+            "No lacuna (line 2) indicated in the manuscripts.",
+            "\\emph{Hönir:} cf. stanza 18 and note.",
+            "In this new age he has the gift of foretelling the future.",
+            "\\emph{Tveggi} (``The Twofold''): another name for {[}fp. 26{]} Othin.",
+            "His brothers are Vili and Ve (cf. \\emph{Lokasenna,} 26, and note).",
+            "Little is known of them, and nothing, beyond this reference, of their sons.",
             "\\emph{Vindheim} (``Home of the Wind''): heaven."
-        ], 
+        ],
         "translation": [
-            "Then Hönir wins{\\sep}the prophetic wand,", 
-            ".    .    .    .    .        .    .    .    .    .", 
-            "And the sons of the brothers{\\sep}of Tveggi abide", 
+            "Then Hönir wins{\\sep}the prophetic wand,",
+            ".    .    .    .    .        .    .    .    .    .",
+            "And the sons of the brothers{\\sep}of Tveggi abide",
             "In Vindheim now:{\\sep}would you know yet more?"
-        ], 
-        "number": 63, 
+        ],
+        "number": 63,
         "original": [
-            "Þá kná Hœnir{\\sep}hlut við kjósa", 
-            "ok burir byggja{\\sep}brœðra tveggja", 
+            "Þá kná Hœnir{\\sep}hlut við kjósa",
+            "ok burir byggja{\\sep}brœðra tveggja",
             "vindheim víðan.{\\sep}Vituð ér enn eða hvat."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This stanza is quoted by Snorri.", 
-            "\\emph{Gimle:} Snorri makes this the name of the hall itself, while here it appears to refer to a mountain on which the hall stands.", 
-            "It is the home of the happy, as opposed to another hall, not here mentioned, for the dead.", 
+            "This stanza is quoted by Snorri.",
+            "\\emph{Gimle:} Snorri makes this the name of the hall itself, while here it appears to refer to a mountain on which the hall stands.",
+            "It is the home of the happy, as opposed to another hall, not here mentioned, for the dead.",
             "Snorri's description of this second hall is based on \\emph{Voluspo,} 38, which he quotes, and perhaps that stanza properly belongs after 64."
-        ], 
+        ],
         "translation": [
-            "More fair than the sun,{\\sep}a hall I see,", 
-            "Roofed with gold,{\\sep}on Gimle it stands;", 
-            "There shall the righteous{\\sep}rulers dwell,", 
+            "More fair than the sun,{\\sep}a hall I see,",
+            "Roofed with gold,{\\sep}on Gimle it stands;",
+            "There shall the righteous{\\sep}rulers dwell,",
             "And happiness ever{\\sep}there shall they have."
-        ], 
-        "number": 64, 
+        ],
+        "number": 64,
         "original": [
-            "Sal sér hon standa{\\sep}sólu fegra", 
-            "gulli þakðan{\\sep}á Gimlé;", 
-            "þar skulu dyggvar{\\sep}dróttir byggja", 
+            "Sal sér hon standa{\\sep}sólu fegra",
+            "gulli þakðan{\\sep}á Gimlé;",
+            "þar skulu dyggvar{\\sep}dróttir byggja",
             "ok um aldrdaga{\\sep}ynðis njóta."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This stanza is not found in \\emph{Regius,} and is probably spurious.", 
-            "No lacuna is indicated in the \\emph{Hauksbok} version, but late paper manuscripts add two lines, running:", 
-            "", 
-            "``Rule he orders,{\\sep}and rights he fixes,", 
-            "Laws he ordains{\\sep}that ever shall live.''", 
-            "", 
-            "The name of this new ruler is nowhere given, and of course the suggestion of Christianity is unavoidable.", 
+            "This stanza is not found in \\emph{Regius,} and is probably spurious.",
+            "No lacuna is indicated in the \\emph{Hauksbok} version, but late paper manuscripts add two lines, running:",
+            "",
+            "``Rule he orders,{\\sep}and rights he fixes,",
+            "Laws he ordains{\\sep}that ever shall live.''",
+            "",
+            "The name of this new ruler is nowhere given, and of course the suggestion of Christianity is unavoidable.",
             "It is not certain, how ever, that even this stanza refers to Christianity, and if it does, it may have been interpolated long after the rest of the poem was composed."
-        ], 
+        ],
         "translation": [
-            "There comes on high,{\\sep}all power to hold,", 
-            "A mighty lord,{\\sep}all lands he rules.", 
-            ".    .    .    .    .        .    .    .    .    .", 
+            "There comes on high,{\\sep}all power to hold,",
+            "A mighty lord,{\\sep}all lands he rules.",
+            ".    .    .    .    .        .    .    .    .    .",
             ".    .    .    .    .        .    .    .    .    ."
-        ], 
-        "number": 65, 
+        ],
+        "number": 65,
         "original": [
-            "Þá kemr inn ríki{\\sep}at regindómi", 
+            "Þá kemr inn ríki{\\sep}at regindómi",
             "öflugr ofan,{\\sep}sá er öllu ræðr."
         ]
-    }, 
+    },
     {
         "comment": [
-            "This stanza, which fits so badly with the preceding ones, {[}fp. 27{]} may well have been interpolated.", 
-            "It has been suggested that the dragon, making a last attempt to rise, is destroyed, this event marking the end of evil in the world.", 
-            "But in both manuscripts the final half-line does not refer to the dragon, but, as the gender shows, to the Volva herself, who sinks into the earth; a sort of conclusion to the entire prophecy.", 
-            "Presumably the stanza (barring the last half-line, which was probably intended as the conclusion of the poem) belongs somewhere in the description of the great struggle.", 
-            "\\emph{Nithhogg:} the dragon at the roots of Yggdrasil; cf. stanza 39 and note.", 
-            "\\emph{Nithafjoll} (``the Dark Crags''); nowhere else mentioned.", 
+            "This stanza, which fits so badly with the preceding ones, {[}fp. 27{]} may well have been interpolated.",
+            "It has been suggested that the dragon, making a last attempt to rise, is destroyed, this event marking the end of evil in the world.",
+            "But in both manuscripts the final half-line does not refer to the dragon, but, as the gender shows, to the Volva herself, who sinks into the earth; a sort of conclusion to the entire prophecy.",
+            "Presumably the stanza (barring the last half-line, which was probably intended as the conclusion of the poem) belongs somewhere in the description of the great struggle.",
+            "\\emph{Nithhogg:} the dragon at the roots of Yggdrasil; cf. stanza 39 and note.",
+            "\\emph{Nithafjoll} (``the Dark Crags''); nowhere else mentioned.",
             "\\emph{Must I:} the manuscripts have ``must she.''"
-        ], 
+        ],
         "translation": [
-            "From below the dragon{\\sep}dark comes forth,", 
-            "Nithhogg flying{\\sep}from Nithafjoll;", 
-            "The bodies of men on{\\sep}his wings he bears,", 
+            "From below the dragon{\\sep}dark comes forth,",
+            "Nithhogg flying{\\sep}from Nithafjoll;",
+            "The bodies of men on{\\sep}his wings he bears,",
             "The serpent bright:{\\sep}but now must I sink."
-        ], 
-        "number": 66, 
+        ],
+        "number": 66,
         "original": [
-            "Þar kemr inn dimmi{\\sep}dreki fljúgandi,", 
-            "naðr fránn neðan{\\sep}frá Niðafjöllum;", 
-            "berr sér í fjöðrum{\\sep}{\\mdash}flýgr völl yfir{\\mdash}", 
+            "Þar kemr inn dimmi{\\sep}dreki fljúgandi,",
+            "naðr fránn neðan{\\sep}frá Niðafjöllum;",
+            "berr sér í fjöðrum{\\sep}{\\mdash}flýgr völl yfir{\\mdash}",
             "Niðhöggr nái.{\\sep}Nú man hon sökkvask."
         ]
     }
