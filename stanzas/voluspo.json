@@ -19,9 +19,9 @@
         "number": 1,
         "original": [
             "Hljóðs bið ek allar{\\sep}helgar kindir,",
-            "meiri ok minni{\\sep}mögu Heimdallar;",
-            "viltu, at ek, Valföðr!{\\sep}vel framtelja",
-            "forn spjöll fíra,{\\sep}þau er fremst um man."
+            "meiri ok minni,{\\sep}mögu Heimdallar.",
+            "Vildu at ek, Valföðr,{\\sep}vel fyr telja",
+            "forn spjöll fira,{\\sep}þau er fremst um man."
         ]
     },
     {
@@ -38,15 +38,15 @@
         "number": 2,
         "original": [
             "Ek man jötna{\\sep}ár um borna,",
-            "þá er forðum{\\sep}mik fœdda höfðu;",
-            "níu man ek heima,{\\sep}níu íviði,",
-            "mjötvið mœran{\\sep}fyr mold neðan."
+            "þá er forðum mik{\\sep}fœdda höfðu.",
+            "Níu man ek heima,{\\sep}níu íviðjur,",
+            "mjötvið mæran,{\\sep}fyr mold neðan."
         ]
     },
     {
         "comment": [
             "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\emph{Vafthruthnismol,} 21.",
-            "in this stanza as quoted in Snorri's Edda the first line runs: ``Of old was the age ere aught there was.''",
+            "In this stanza as quoted in Snorri's Edda the first line runs: ``Of old was the age ere aught there was.''",
             "\\emph{Yawning gap:} this phrase, ``Ginnunga-gap,'' is sometimes used as a proper name."
         ],
         "translation": [
@@ -57,15 +57,15 @@
         ],
         "number": 3,
         "original": [
-            "Ár var alda{\\sep}þar er Ýmir bygði,",
-            "vara sandr né sær{\\sep}né svalar unnir,",
-            "jörð fannsk æva{\\sep}né upphiminn,",
+            "Ár var alda{\\sep}þar er Ymir byggði,",
+            "vara sandr né sær{\\sep}né svalar unnir.",
+            "Jörð fannsk æva{\\sep}né upphiminn,",
             "gap var ginnunga,{\\sep}en gras hvergi."
         ]
     },
     {
         "comment": [
-            "Bur's sons: Othin, Vili, and Ve.",
+            "\\emph{Bur's sons:} Othin, Vili, and Ve.",
             "Of Bur we know only that his wife was Bestla, daughter of Bolthorn; cf. \\emph{Hovamol,} 141.",
             "Vili and Ve are mentioned by name in the Eddic poems only in \\emph{Lokasenna,} 26.",
             "\\emph{Mithgarth} (``Middle Dwelling''): the world of men.",
@@ -79,9 +79,9 @@
         ],
         "number": 4,
         "original": [
-            "Áðr Burs synir{\\sep}bjöðum um ypðu,",
-            "þeir er Miðgarð{\\sep}mœran skópu;",
-            "sól skein sunnan{\\sep}á salar steina,",
+            "Áðr Burs synir{\\sep}bjöðum um yppðu,",
+            "þeir er Miðgarð{\\sep}mæran skópu.",
+            "Sól skein sunnan{\\sep}á salar steina,",
             "þá var grund gróin{\\sep}grœnum lauki."
         ]
     },
@@ -102,10 +102,10 @@
         "number": 5,
         "original": [
             "Sól varp sunnan,{\\sep}sinni mána,",
-            "hendi inni hœgri{\\sep}um himinjódyr;",
-            "sól þat ne vissi{\\sep}hvar hon sali átti,",
-            "máni þat ne vissi{\\sep}hvat hann megins átti,",
-            "stjörnur þat ne vissu{\\sep}hvar þær staði áttu."
+            "hendi inni hœgri{\\sep}um himinjódyr.",
+            "Sól þat né vissi{\\sep}hvar hon sali átti,",
+            "Máni þat né vissi{\\sep}hvat hann megins átti,",
+            "stjörnur þat né vissu{\\sep}hvar þær staði áttu."
         ]
     },
     {
@@ -123,8 +123,8 @@
         "number": 6,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
-            "ginnheilug goð,{\\sep}ok um þat gættusk;",
-            "nátt ok niðjum{\\sep}nöfn um gáfu,",
+            "ginnheilög goð,{\\sep}ok um þat gættusk:",
+            "nótt ok niðjum{\\sep}nöfn um gáfu,",
             "morgin hétu{\\sep}ok miðjan dag,",
             "undorn ok aptan,{\\sep}árum at telja."
         ]
@@ -144,7 +144,7 @@
             "Hittusk æsir{\\sep}á Iðavelli,",
             "þeir er hörg ok hof{\\sep}hátimbruðu,",
             "afla lögðu,{\\sep}auð smíðuðu,",
-            "tangir skópu{\\sep}ok tól görðu."
+            "tangir skópu,{\\sep}ok tól gørðu."
         ]
     },
     {
@@ -163,10 +163,10 @@
         ],
         "number": 8,
         "original": [
-            "Tefldu í túni,{\\sep}teitir váru,",
-            "var þeim vettugis{\\sep}vant ór gulli;",
-            "unz þrjár kvámu{\\sep}þursa meyjar",
-            "ámátkar mjök{\\sep}ór jötunheimum."
+            "Teflðu í túni,{\\sep}teitir váru,",
+            "var þeim vettergis{\\sep}vant ór gulli,",
+            "unz þrjár kvámu{\\sep}þursa meyjar,",
+            "ámáttkar mjök,{\\sep}ór Jötunheimum."
         ]
     },
     {
@@ -186,9 +186,9 @@
         "number": 9,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
-            "ginnheilug goð,{\\sep}ok um þat gættusk:",
-            "hverr skyldi dverga{\\sep}drótt um skepja",
-            "ór brimi blóðgu{\\sep}ok ór Bláins leggjum."
+            "ginnheilög goð,{\\sep}ok um þat gættusk,",
+            "hverr skyldi dverga{\\sep}dróttir skepja,",
+            "ór Brimis blóði{\\sep}ok ór Bláins leggjum."
         ]
     },
     {
@@ -206,10 +206,10 @@
         ],
         "number": 10,
         "original": [
-            "Þar var Móðsognir{\\sep}mæztr um orðinn",
-            "dverga allra,{\\sep}en Durinn annarr;",
-            "þeir mannlíkun{\\sep}mörg um görðu",
-            "dvergar í jörðu,{\\sep}sem Durinn sagði."
+            "Þar var Mótsognir{\\sep}mæztr um orðinn",
+            "dverga allra,{\\sep}en Durinn annarr.",
+            "Þeir mannlíkön{\\sep}mörg um gørðu,",
+            "dvergar, ór jörðu,{\\sep}sem Durinn sagði."
         ]
     },
     {
@@ -223,11 +223,11 @@
         ],
         "number": 11,
         "original": [
-            "Nýi, Niði,{\\sep}Norðri, Suðri,",
-            "Austri, Vestri,{\\sep}Alþjófr, Dvalinn,",
+            "Nýi ok Niði,{\\sep}Norðri ok Suðri,",
+            "Austri ok Vestri,{\\sep}Alþjófr, Dvalinn,",
             "Nár ok Náinn,{\\sep}Nípingr, Dáinn,",
-            "Bifurr, Bafurr,{\\sep}Bömburr, Nori,",
-            "Ánn ok Ánarr,{\\sep}Óinn, Mjöðvitnir."
+            "Bífurr, Báfurr,{\\sep}Bömburr, Nóri,",
+            "Án ok Ánarr,{\\sep}Ái, Mjöðvitnir."
         ]
     },
     {
@@ -243,9 +243,9 @@
         ],
         "number": 12,
         "original": [
-            "Veggr ok Gandálfr,{\\sep}Vindálfr, Þorinn,",
-            "Þrár ok Þráinn,{\\sep}Þekkr, Litr ok Vitr,",
-            "Nýr ok Nýráðr,{\\sep}nú hefi ek dverga,",
+            "Veigr ok Gandalfr,{\\sep}Vindalfr, Þráinn,",
+            "Þekkr ok Þorinn,{\\sep}Þrór, Litr ok Vitr,",
+            "Nár ok Nýráðr,{\\sep}nú hefi ek dverga,",
             "Reginn ok Ráðsviðr,{\\sep}rétt um talða."
         ]
     },
@@ -259,9 +259,8 @@
         ],
         "number": 13,
         "original": [
-            "Fili, Kili,{\\sep}Fundinn, Nali,",
-            "Hepti, Vili,{\\sep}Hanarr, Svíurr,",
-            "Billingr, Brúni,{\\sep}Bildr ok Buri,",
+            "Fíli, Kíli,{\\sep}Fundinn, Náli,",
+            "Heptifili,{\\sep}Hanarr, Svíorr,",
             "Frár, Hornbori,{\\sep}Frægr ok Lóni,",
             "Aurvangr, Jari,{\\sep}Eikinskjaldi."
         ]
@@ -297,10 +296,10 @@
         ],
         "number": 15,
         "original": [
-            "Þar var Draupnir{\\sep}ok Dólgþrasir,",
+            "Þar var Draupnir{\\sep}ok Dolgþrasir,",
             "Hár, Haugspori,{\\sep}Hlévangr, Glóinn,",
-            "Dori, Ori,{\\sep}Dúfr, Andvari,",
-            "Skirfir, Virfir,{\\sep}Skafiðr, Ai."
+            "Dóri, Óri,{\\sep}Dúfr, Andvari,",
+            "Skirvir, Virvir,{\\sep}Skáfiðr, Ái."
         ]
     },
     {
@@ -314,8 +313,8 @@
         "number": 16,
         "original": [
             "Álfr ok Yngvi,{\\sep}Eikinskjaldi,",
-            "Fjalarr ok Frosti,{\\sep}Finnr ok Ginnarr;",
-            "þat man æ uppi,{\\sep}meðan öld lifir,",
+            "Fjalarr ok Frosti,{\\sep}Finnr ok Ginnarr.",
+            "Þat mun uppi,{\\sep}meðan öld lifir,",
             "langniðja tal{\\sep}Lofars hafat."
         ]
     },
@@ -335,9 +334,9 @@
         "number": 17,
         "original": [
             "Unz þrír kvámu{\\sep}ór því liði",
-            "öflgir ok ástkir{\\sep}æsir at húsi,",
+            "öflgir ok ástgir{\\sep}æsir at húsi,",
             "fundu á landi{\\sep}lítt megandi",
-            "Ask ok Emblu{\\sep}örlöglausa."
+            "Ask ok Emblu{\\sep}ørlöglausa."
         ]
     },
     {
@@ -356,16 +355,16 @@
         ],
         "number": 18,
         "original": [
-            "Önd þau ne áttu,{\\sep}óð þau ne höfðu,",
-            "lá né læti{\\sep}né litu góða;",
-            "önd gaf Óðinn,{\\sep}óð gaf Hœnir,",
-            "lá gaf Lóðurr{\\sep}ok litu góða."
+            "Önd þau né áttu,{\\sep}óð þau né höfðu,",
+            "lá né læti{\\sep}né litu goða.",
+            "Önd gaf Óðinn,{\\sep}óð gaf Hœnir,",
+            "lá gaf Lóðurr{\\sep}ok litu goða."
         ]
     },
     {
         "comment": [
             "\\emph{Yggdrasil:} cf. stanza 2 and note, and \\emph{Grimnismol,} 29\\ndash35 and notes.",
-            "Urth (``The Past''): one of the three great Norns.",
+            "\\emph{Urth} (``The Past''): one of the three great Norns.",
             "The world-ash is kept green by being sprinkled with the marvelous healing water from her well."
         ],
         "translation": [
@@ -376,10 +375,10 @@
         ],
         "number": 19,
         "original": [
-            "Ask veit ek standa,{\\sep}heitir Yggdrasill",
-            "hár baðmr, ausinn{\\sep}hvíta auri;",
-            "þaðan koma döggvar{\\sep}þærs í dala falla;",
-            "stendr æ yfir grœnn{\\sep}Urðar brunni."
+            "Ask veit ek standa,{\\sep}heitir Yggdrasill,",
+            "hár baðmr ausinn{\\sep}hvítaauri,",
+            "þaðan koma döggvar{\\sep}þærs í dala falla,",
+            "stendr æ yfir grœnn{\\sep}Urðarbrunni."
         ]
     },
     {
@@ -399,19 +398,19 @@
         ],
         "number": 20,
         "original": [
-            "Þaðan koma meyjar{\\sep}margs vitandi",
-            "þrjár, ór þeim sal{\\sep}er und þolli stendr;",
+            "Þaðan koma meyjar,{\\sep}margs vitandi,",
+            "þrjár ór þeim sæ{\\sep}er und þolli stendr.",
             "Urð hétu eina,{\\sep}aðra Verðandi,",
-            "skáru á skíði,{\\sep}Skuld ina þriðju;",
-            "þær lög lögðu,{\\sep}þær líf kuru",
-            "alda börnum,{\\sep}örlög seggja."
+            "{\\mdash}skáru á skíði{\\mdash}{\\sep}Skuld ina þriðju.",
+            "Þær lög lögðu,{\\sep}þær líf kuru",
+            "alda börnum,{\\sep}ørlög seggja."
         ]
     },
     {
         "comment": [
             "This follows stanza 20 in \\emph{Regius;} in the \\emph{Hauksbok} version stanzas 25, 26, 27, 40, and 41 come between stanzas 20 and 21.",
             "Editors have attempted all sorts of rearrangements.",
-            "The war: the first war was that between the gods and the Wanes.",
+            "\\emph{The war:} the first war was that between the gods and the Wanes.",
             "The cult of the Wanes (Vanir) seems to have originated among the seafaring folk of the Baltic and the southern shores of the North Sea, and to have spread thence into Norway in opposition to the worship of the older gods; hence the ``war.''",
             "Finally the two types of divinities were worshipped in common; hence the treaty which ended the war with the exchange of hostages.",
             "Chief among the Wanes were Njorth and his children, Freyr and Freyja, all of whom became conspicuous among the gods.",
@@ -431,11 +430,11 @@
         ],
         "number": 21,
         "original": [
-            "Þat man hon fólkvíg{\\sep}fyrst í heimi,",
-            "er Gullveig{\\sep}geirum studdu",
-            "ok í höll Hárs{\\sep}hana brendu;",
-            "þrysvar brendu{\\sep}þrysvar borna,",
-            "opt, ósjaldan,{\\sep}þó hon enn lifir."
+            "Þat man hon folkvíg{\\sep}fyrst í heimi,",
+            "er Gullveigu{\\sep}geirum studdu",
+            "ok í höll Hárs{\\sep}hana brenndu{\\mdash}",
+            "þrysvar brenndu{\\sep}þrysvar borna,",
+            "opt, ósjaldan{\\mdash}{\\sep}þó hon enn lifir."
         ]
     },
     {
@@ -454,10 +453,10 @@
         ],
         "number": 22,
         "original": [
-            "Heiði hana hétu,{\\sep}hvars til húsa kom,",
-            "völu velspá,{\\sep}vitti hon ganda,",
-            "seið hon hvars hon kunni,{\\sep}seið hon hugleikin,",
-            "æ var hon angan{\\sep}illrar brúðar."
+            "Heiði hana hétu{\\sep}hvars til húsa kom,",
+            "völu vel spá,{\\sep}vitti hon ganda.",
+            "Seið hon kunni,{\\sep}seið hon leikin,",
+            "æ var hon angan{\\sep}illrar þjóðar."
         ]
     },
     {
@@ -472,10 +471,10 @@
         ],
         "number": 23,
         "original": [
-            "Þá gengu regin öll{\\sep}á rökstóla,",
-            "ginnheilug goð,{\\sep}ok um þat gættusk:",
-            "hvárt skyldu æsir{\\sep}afráð gjalda",
-            "eða skyldu goðin öll{\\sep}gildi eiga."
+            "Fleygði Óðinn{\\sep}ok í folk um skaut,",
+            "þat var enn folkvíg{\\sep}fyrst í heimi.",
+            "Brotinn var borðveggr{\\sep}borgar ása,",
+            "knáttu vanir vígspá{\\sep}völlu sporna."
         ]
     },
     {
@@ -488,10 +487,10 @@
         ],
         "number": 24,
         "original": [
-            "Fleygði Óðinn{\\sep}ok í fólk um skaut,",
-            "þat var enn fólkvíg{\\sep}fyrst í heimi;",
-            "brotinn var borðveggr{\\sep}borgar ása,",
-            "knáttu vanir vígská{\\sep}völlu sporna."
+            "Þá gengu regin öll{\\sep}á rökstóla,",
+            "ginnheilög goð,{\\sep}ok um þat gættusk,",
+            "hvárt skyldu æsir{\\sep}afráð gjalda",
+            "eða skyldu goðin öll{\\sep}gildi eiga."
         ]
     },
     {
@@ -512,7 +511,7 @@
         "number": 25,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
-            "ginnheilug goð,{\\sep}ok um þat gættusk:",
+            "ginnheilög goð,{\\sep}ok um þat gættusk,",
             "hverr hefði lopt allt{\\sep}lævi blandit",
             "eða ætt jötuns{\\sep}Óðs mey gefna."
         ]
@@ -520,7 +519,7 @@
     {
         "comment": [
             "\\emph{Thor:} the thunder-god, son of Othin and Jorth (Earth) cf. particularly Harbarthsljoth and Thrymskvitha, passim.",
-            "Oaths, etc.: the gods, by violating their oaths to the giant who rebuilt Asgarth, aroused the undying hatred of the giants' race, and thus the giants were among their enemies in the final battle."
+            "\\emph{Oaths, etc.:} the gods, by violating their oaths to the giant who rebuilt Asgarth, aroused the undying hatred of the giants' race, and thus the giants were among their enemies in the final battle."
         ],
         "translation": [
             "In swelling rage{\\sep}then rose up Thor,{\\commamdash}",
@@ -530,10 +529,10 @@
         ],
         "number": 26,
         "original": [
-            "Þórr einn þar vá{\\sep}þrunginn móði,",
-            "hann sjaldan sitr{\\sep}er hann slíkt um fregn;",
-            "á gengust eiðar,{\\sep}orð ok sœri,",
-            "mál öll meginlig{\\sep}er á meðal fóru."
+            "Þórr einn þar vá,{\\sep}þrunginn móði,",
+            "hann sjaldan sitr{\\sep}er hann slíkt um fregn.",
+            "Á gengusk eiðar,{\\sep}orð ok sœri,",
+            "mál öll meginlig,{\\sep}er á meðal fóru."
         ]
     },
     {
@@ -556,9 +555,9 @@
         "number": 27,
         "original": [
             "Veit hon Heimdallar{\\sep}hljóð um fólgit",
-            "undir heiðvönum{\\sep}helgum baðmi;",
-            "á sér hon ausask{\\sep}aurgum forsi",
-            "af veði Valföðrs.{\\sep}Vituð ér enn eða hvat?"
+            "undir heiðvönum{\\sep}helgum baðmi.",
+            "Á sér hon ausask{\\sep}aurgum forsi",
+            "af veði Valföðrs{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -573,18 +572,15 @@
         "translation": [
             "Alone I sat{\\sep}when the Old One sought me,",
             "The terror of gods,{\\sep}and gazed in mine eyes:",
-            "``What hast thou to ask?{\\sep}why comest thou hither?",
-            "Othin, I know{\\sep}where thine eye is hidden.''"
+            "``What hast thou to ask?{\\sep}why comest thou hither?''",
+            "Othin, I know{\\sep}where thine eye is hidden."
         ],
         "number": 28,
         "original": [
-            "Ein sat hon úti,{\\sep}þá er inn aldni kom",
-            "yggjungr ása{\\sep}ok í augu leit.",
-            "Hvers fregnið mik?{\\sep}hví freistið mín?",
-            "alt veit ek, Óðinn!{\\sep}hvar þú auga falt:",
-            "í inum mœra{\\sep}Mímis brunni;",
-            "drekkr mjöð Mímir{\\sep}morgin hverjan",
-            "af veði Valföðrs.{\\sep}Vituð ér enn eða hvat?"
+            "Ein sat hon úti,{\\sep}þá er inn aldni kom,",
+            "yggjungr ása{\\sep}ok í augu leit:",
+            "``Hvers fregnið mik?{\\sep}Hví freistið mín?''",
+            "Allt veit ek, Óðinn,{\\sep}hvar þú auga falt:"
         ]
     },
     {
@@ -600,9 +596,10 @@
         ],
         "number": 29,
         "original": [
-            "Valði henni Herföðr{\\sep}hringa ok men,",
-            "féspjöll spaklig{\\sep}ok spáganda;",
-            "sá hon vítt ok um vítt{\\sep}of veröld hverja."
+            "{\\lacuna}",
+            "í inum mæra{\\sep}Mímis brunni!",
+            "Drekkr mjöð Mímir{\\sep}morgin hverjan",
+            "af veði Valföðrs!{\\sep}Vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -616,16 +613,15 @@
         "translation": [
             "Necklaces had I{\\sep}and rings from Heerfather,",
             "Wise was my speech{\\sep}and my magic wisdom;",
-            ".    .    .    .    .        .    .    .    .    .\nWidely I saw{\\sep}over all the worlds."
+            "{\\lacuna}",
+            "Widely I saw{\\sep}over all the worlds."
         ],
         "number": 30,
         "original": [
-            "Sá hon valkyrjur{\\sep}vítt um komnar",
-            "görvar at ríða{\\sep}til Goðþjóðar:",
-            "Skuld hélt skildi,{\\sep}en Skögul önnur,",
-            "Gunnr, Hildr, Göndul{\\sep}ok Geirskögul;",
-            "nú eru talðar{\\sep}nönnur Herjans,",
-            "görvar at ríða{\\sep}grund valkyrjur."
+            "Valði henni Herföðr{\\sep}hringa ok men,",
+            "fé, spjöll spaklig{\\sep}ok spáganda:",
+            "{\\lacuna}",
+            "sá hon vítt ok um vítt{\\sep}of veröld hverja."
         ]
     },
     {
@@ -649,10 +645,12 @@
         ],
         "number": 31,
         "original": [
-            "Ek sá Baldri,{\\sep}blóðgum tívur,",
-            "Óðins barni{\\sep}örlög fólgin:",
-            "stóð um vaxinn{\\sep}völlum hæri",
-            "mjór ok mjök fagr{\\sep}mistilteinn."
+            "Sá hon valkyrjur{\\sep}vítt um komnar,",
+            "görvar at ríða{\\sep}til Goðþjóðar.",
+            "Skuld helt skildi,{\\sep}en Skögul önnur,",
+            "Gunnr, Hildr, Göndul{\\sep}ok Geirskögul.",
+            "Nú eru talðar{\\sep}nönnur Herjans,",
+            "görvar at ríða{\\sep}grund, valkyrjur."
         ]
     },
     {
@@ -673,10 +671,10 @@
         ],
         "number": 32,
         "original": [
-            "Varð af þeim meiði,{\\sep}er mér sýndisk,",
-            "harmflaug hættlig,{\\sep}Höðr nam skjóta.",
-            "Baldrs bróðir{\\sep}var of borinn snemma,",
-            "sá nam Óðins sonr{\\sep}einnættr vega."
+            "Ek sá Baldri,{\\sep}blóðgom tívur,",
+            "Óðins barni,{\\sep}ørlög fólgin:",
+            "stóð um vaxinn{\\sep}völlum hærri",
+            "mjór ok mjök fagr{\\sep}mistilteinn."
         ]
     },
     {
@@ -693,10 +691,10 @@
         ],
         "number": 33,
         "original": [
-            "Þó hann æva hendr{\\sep}né höfuð kembði,",
-            "áðr á bál um bar{\\sep}Baldrs andskota.",
-            "En Frigg um grét{\\sep}í Fensölum",
-            "vá Valhallar.{\\sep}Vituð ér enn eða hvat?"
+            "Varð af þeim meiði,{\\sep}er mær sýndisk,",
+            "harmflaug hættlig:{\\sep}Höðr nam skjóta.",
+            "Baldrs bróðir var{\\sep}of borinn snemma,",
+            "sá nam, Óðins sonr,{\\sep}einnættr vega."
         ]
     },
     {
@@ -712,22 +710,22 @@
         ],
         "number": 34,
         "original": [
-            ". . . .{\\sep}. . . . . .",
-            ". . . . . .{\\sep}. . . . . .",
-            "Þá kná Vala{\\sep}vígbönd snúa,",
-            "heldr váru harðgör{\\sep}höpt ór þörmum."
+            "Þó hann æva hendr{\\sep}né höfuð kembði,",
+            "áðr á bál um bar{\\sep}Baldrs andskota.",
+            "En Frigg um grét{\\sep}í Fensölum",
+            "vá Valhallar{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
         "comment": [
             "The translation here follows the \\emph{Regius} version.",
-            "The \\emph{Hauksbok} has the same final two lines, but in place of the first {[}fp. 16{]} pair has, ``I know that Vali{\\sep}his brother gnawed, / With his bowels then{\\sep}was Loki bound.''",
+            "The \\emph{Hauksbok} has the same final two lines, but in place of the first {[}fp. 16{]} pair has, ``I know that Vali{\\sep}his brother gnawed, / With his bowels then{\\sep}was Loki bound.'' (``Þá kná Vála{\\sep}vígbönd snúa, / heldr váru harðgör{\\sep}höpt, ór þörmum.'')",
             "Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from \\emph{Regius.}",
             "After the murder of Baldr, the gods took Loki and bound him to a rock with the bowels of his son Narfi, who had just been torn to pieces by Loki's other son, Vali.",
             "A serpent was fastened above Loki's head, and the venom fell upon his face.",
             "Loki's wife, Sigyn, sat by him with a basin to catch the venom, but whenever the basin was full, and she went away to empty it, then the venom fell on Loki again, till the earth shook with his struggles.",
             "``And there he lies bound till the end.''",
-            " Cf. \\emph{Lokasenna,} concluding prose."
+            "Cf. \\emph{Lokasenna,} concluding prose."
         ],
         "translation": [
             "One did I see{\\sep}in the wet woods bound,",
@@ -737,10 +735,10 @@
         ],
         "number": 35,
         "original": [
-            "Hapt sá hon liggja{\\sep}undir hvera lundi",
-            "lægjarnlíki{\\sep}Loka áþekkjan;",
-            "þar sitr Sigyn{\\sep}þeygi um sínum",
-            "ver vel glýjuð.{\\sep}Vituð ér enn eða hvat?"
+            "Hapt sá hon liggja{\\sep}undir hvera lundi,",
+            "lægjarns líki{\\sep}Loka áþekkjan.",
+            "Þar sitr Sigyn,{\\sep}þeygi um sínum",
+            "ver velglýjuð{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -754,13 +752,15 @@
         "translation": [
             "From the east there pours{\\sep}through poisoned vales",
             "With swords and daggers{\\sep}the river Slith.",
-            ".    .    .    .    .        .    .    .    .    .",
-            ".    .    .    .    .        .    .    .    .    ."
+            "{\\lacuna}",
+            "{\\lacuna}"
         ],
         "number": 36,
         "original": [
             "Á fellr austan{\\sep}um eitrdala",
-            "söxum ok sverðum,{\\sep}Slíðr heitir sú."
+            "söxum ok sverðum:{\\sep}Slíðr heitir sú.",
+            "{\\lacuna}",
+            "{\\lacuna}"
         ]
     },
     {
@@ -779,10 +779,10 @@
         ],
         "number": 37,
         "original": [
-            "Stóð fyr norðan{\\sep}á Niðavöllum",
-            "salr ór gulli{\\sep}Sindra ættar;",
+            "Stóð fyr norðan,{\\sep}á Niðavöllum,",
+            "salr ór gulli{\\sep}Sindra ættar,",
             "en annarr stóð{\\sep}á Ókólni,",
-            "bjórsalr jötuns,{\\sep}en sá Brímir heitir."
+            "bjórsalr jötuns,{\\sep}en sá Brimir heitir."
         ]
     },
     {
@@ -802,8 +802,8 @@
         "number": 38,
         "original": [
             "Sal sá hon standa{\\sep}sólu fjarri",
-            "Náströndu á,{\\sep}norðr horfa dyrr;",
-            "féllu eitrdropar{\\sep}inn um ljóra,",
+            "Náströndu á,{\\sep}norðr horfa dyrr.",
+            "Fellu eitrdropar{\\sep}inn um ljóra,",
             "sá er undinn salr{\\sep}orma hryggjum."
         ]
     },
@@ -811,8 +811,7 @@
         "comment": [
             "The stanza is almost certainly in corrupt form.",
             "The third line is presumably an interpolation, and is lacking in most of the late, paper manuscripts.",
-            "Some editors, however, have called lines 1\\ndash3 the remains of a full.",
-            "stanza, with the fourth line lacking, and lines 4\\ndash5 the remains of another.",
+            "Some editors, however, have called lines 1\\ndash3 the remains of a full stanza, with the fourth line lacking, and lines 4\\ndash5 the remains of another.",
             "The stanza depicts the torments of the two worst classes of criminals known to Old Norse morality{\\mdash}oath-breakers and murderers.",
             "\\emph{Nithhogg} (``the Dread Biter''): the dragon that lies beneath the ash Yggdrasil and gnaws at its roots, thus symbolizing the destructive elements in the universe; cf. \\emph{Grimnismol,} 32, 35.",
             "\\emph{The wolf:} presumably the wolf Fenrir, one of the children of Loki and the giantess Angrbotha (the others being Mithgarthsorm and the goddess Hel), who was chained by the gods with the marvelous chain Gleipnir, fashioned by a dwarf ``out of six things: the {[}fp. 18{]} noise of a cat's step, the beards of women, the roots of mountains, the nerves of bears, the breath of fishes, and the spittle of birds.''",
@@ -829,9 +828,9 @@
         "original": [
             "Sá hon þar vaða{\\sep}þunga strauma",
             "menn meinsvara{\\sep}ok morðvarga",
-            "ok þanns annars glepr{\\sep}eyrarúnu;",
-            "þar saug Níðhöggr{\\sep}nái framgengna,",
-            "sleit vargr vera.{\\sep}Vituð ér enn eða hvat?"
+            "ok þanns annars glepr{\\sep}eyrarúnu.",
+            "Þar saug Niðhöggr{\\sep}nái framgengna,",
+            "sleit vargr vera{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -846,13 +845,13 @@
             "The giantess old{\\sep}in Ironwood sat,",
             "In the east, and bore{\\sep}the brood of Fenrir;",
             "Among these one{\\sep}in monster's guise",
-            "Was soon to steal{\\sep}the sun from the sky."
+            "Was soon to steal{\\sep}the moon from the sky."
         ],
         "number": 40,
         "original": [
             "Austr sat in aldna{\\sep}í Járnviði",
-            "ok fœddi þar{\\sep}Fenris kindir;",
-            "verðr af þeim öllum{\\sep}einna nökkurr",
+            "ok fœddi þar{\\sep}Fenris kindir.",
+            "Verðr af þeim öllum{\\sep}einna nøkkurr",
             "tungls tjúgari{\\sep}í trolls hami."
         ]
     },
@@ -870,9 +869,9 @@
         "number": 41,
         "original": [
             "Fyllisk fjörvi{\\sep}feigra manna,",
-            "rýðr ragna sjöt{\\sep}rauðum dreyra;",
-            "svört verða sólskin{\\sep}um sumur eptir,",
-            "veðr öll válynd.{\\sep}Vituð ér enn eða hvat?"
+            "rýðr ragna sjöt{\\sep}rauðum dreyra.",
+            "Svört verða sólskin,{\\sep}of sumur eptir",
+            "veðr öll válynd{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -890,8 +889,8 @@
         "number": 42,
         "original": [
             "Sat þar á haugi{\\sep}ok sló hörpu",
-            "gýgjar hirðir{\\sep}glaðr Egðir;",
-            "gól um hánum{\\sep}í gaglviði",
+            "gýgjar hirðir,{\\sep}glaðr Eggþér.",
+            "Gól um hánum{\\sep}í Gaglviði",
             "fagrrauðr hani,{\\sep}sá er Fjalarr heitir."
         ]
     },
@@ -909,9 +908,9 @@
         "number": 43,
         "original": [
             "Gól um ásum{\\sep}Gullinkambi,",
-            "sá vekr hölða{\\sep}at Herjaföðrs;",
-            "en annarr gelr{\\sep}fyr jörð neðan",
-            "sótrauðr hani{\\sep}at sölum Heljar."
+            "sá vekr hölða{\\sep}at Herjaföðrs,",
+            "en annarr gelr{\\sep}fyr jörð neðan,",
+            "sótrauðr hani,{\\sep}at sölum Heljar."
         ]
     },
     {
@@ -932,10 +931,10 @@
         ],
         "number": 44,
         "original": [
-            "Geyr Garmr mjök{\\sep}fyr Gnípahelli;",
-            "festr man slitna,{\\sep}en freki renna.",
-            "Fjöld veit hon frœða,{\\sep}fram sé ek lengra,",
-            "um ragnarök{\\sep}römm sigtíva."
+            "Geyr Garmr mjök{\\sep}fyr Gnipahelli,",
+            "festr mun slitna,{\\sep}en freki renna.",
+            "Fram sé ek lengra{\\sep}fjölð kann ek segja,",
+            "um ragna rök{\\sep}röm sigtíva."
         ]
     },
     {
@@ -957,12 +956,12 @@
         ],
         "number": 45,
         "original": [
-            "Brœðr munu berjask{\\sep}ok at bönum verðask,",
-            "munu systrungar{\\sep}sifjum spilla;",
-            "hart er í heimi,{\\sep}hórdómr mikill,",
-            "skeggjöld, skálmöld,{\\sep}skildir 'ru klofnir,",
-            "vindöld, vargöld,{\\sep}áðr veröld steypisk;",
-            "man engi maðr{\\sep}öðrum þyrma."
+            "Brœðr munu berjask{\\sep}ok at bönom verðask,",
+            "munu systrungar{\\sep}sifjum spilla.",
+            "Hart er í heimi,{\\sep}hórdómr mikill,",
+            "skeggöld, skálmöld,{\\sep}skildir ro klofnir,",
+            "vindöld, vargöld{\\sep}áðr veröld steypisk,",
+            "mun engi maðr{\\sep}öðrum þyrma."
         ]
     },
     {
@@ -970,8 +969,8 @@
             "\\emph{Regius} combines the first three lines of this stanza with lines 3, 2, and I of stanza 47 as a single stanza.",
             "Line 4, not found in \\emph{Regius,} is introduced from the \\emph{Hauksbok} version, where it follows line 2 of stanza 47.",
             "\\emph{The sons of Mim:} the spirits of the water.",
-            "On Mini (or Mimir) cf. stanza 27 and note.",
-            "Gjallarhorn: the ``Shrieking Horn'' with which Heimdall, the watchman of the gods, calls them to the last battle."
+            "On Mim (or Mimir) cf. stanza 27 and note.",
+            "\\emph{Gjallarhorn:} the ``Shrieking Horn'' with which Heimdall, the watchman of the gods, calls them to the last battle."
         ],
         "translation": [
             "Fast move the sons{\\sep}of Mim, and fate",
@@ -981,9 +980,9 @@
         ],
         "number": 46,
         "original": [
-            "Leika Míms synir,{\\sep}en mjötuðr kyndisk,",
-            "at inu gamla{\\sep}Gjallarhorni;",
-            "hátt blæss Heimdallr,{\\sep}horn er á lopti;",
+            "Leika Míms synir,{\\sep}en mjötuðr kyndisk",
+            "at inu galla{\\sep}Gjallarhorni.",
+            "Hátt blæss Heimdallr,{\\sep}horn er á lopti,",
             "mælir Óðinn{\\sep}við Míms höfuð."
         ]
     },
@@ -1009,8 +1008,8 @@
         "number": 47,
         "original": [
             "Skelfr Yggdrasils{\\sep}askr standandi,",
-            "ymr it aldna tré,{\\sep}en jötunn losnar;",
-            "hræðask allir{\\sep}á helvegum,",
+            "ymr it aldna tré,{\\sep}en jötunn losnar.",
+            "Hræðask allir{\\sep}á helvegum,",
             "áðr Surtar þann{\\sep}sefi of gleypir."
         ]
     },
@@ -1027,10 +1026,10 @@
         ],
         "number": 48,
         "original": [
-            "Hvat er með ásum?{\\sep}hvat er með álfum?",
-            "gnýr allr jötunheimr,{\\sep}æsir 'ru á þingi;",
-            "stynja dvergar{\\sep}fyr steindurum",
-            "veggbergs vísir.{\\sep}Vituð ér enn eða hvat?"
+            "Hvat er með ásum?{\\sep}Hvat er með álfum?",
+            "Gnýr allr Jötunheimr,{\\sep}æsir ro á þingi,",
+            "stynja dvergar{\\sep}fyr steindurum,",
+            "veggbergs vísir{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -1046,8 +1045,10 @@
         ],
         "number": 49,
         "original": [
-            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;",
-            "festr man slitna,{\\sep}en freki renna."
+            "Geyr garmr mjök{\\sep}fyr Gnipahelli,",
+            "festr mun slitna,{\\sep}en freki renna.",
+            "Fiölð veit hon frœða,{\\sep}fram sé ek lengra",
+            "um ragna rök{\\sep}röm sigtíva."
         ]
     },
     {
@@ -1065,10 +1066,10 @@
         ],
         "number": 50,
         "original": [
-            "Hrymr ekr austan,{\\sep}hefisk lind fyrir.",
-            "Snýsk jörmungandr{\\sep}í jötunmóði:",
-            "ormr knýr unnir,{\\sep}en ari hlakkar,",
-            "slítr nái niðfölr.{\\sep}Naglfar losnar."
+            "Hrymr ekr austan,{\\sep}hefisk lind fyrir,",
+            "snýsk Jörmungandr{\\sep}í jötunmóði.",
+            "Ormr knýr unnir,{\\sep}en ari hlakkar,",
+            "slítr nái Niðfölr,{\\sep}Naglfar losnar."
         ]
     },
     {
@@ -1088,9 +1089,9 @@
         "number": 51,
         "original": [
             "Kjóll ferr austan,{\\sep}koma munu Muspells",
-            "um lög lýðir,{\\sep}en Loki stýrir;",
-            "fara fíflmegir{\\sep}með freka allir,",
-            "þeim er bróðir{\\sep}Byleists í för."
+            "um lög lýðir,{\\sep}en Loki stýrir.",
+            "Fara fífls megir{\\sep}með freka allir,",
+            "þeim er bróðir{\\sep}Býleipts í för."
         ]
     },
     {
@@ -1109,7 +1110,7 @@
         "original": [
             "Surtr ferr sunnan{\\sep}með sviga lævi,",
             "skínn af sverði{\\sep}sól valtíva.",
-            "Grjótbjörg gnata,{\\sep}en gífr hrata;",
+            "Griótbjörg gnata,{\\sep}en gífr rata,",
             "troða halir helveg,{\\sep}en himinn klofnar."
         ]
     },
@@ -1129,10 +1130,10 @@
         ],
         "number": 53,
         "original": [
-            "Þá kemr Hlínar{\\sep}harmr annarr fram,",
+            "Þá kømr Hlínar{\\sep}harmr annarr fram,",
             "er Óðinn ferr{\\sep}við úlf vega,",
-            "en bani Belja{\\sep}bjartr at Surti;",
-            "þar man Friggjar{\\sep}falla angan."
+            "en bani Belja{\\sep}bjartr at Surti,",
+            "þá mun Friggjar{\\sep}falla angan."
         ]
     },
     {
@@ -1151,35 +1152,37 @@
         ],
         "number": 54,
         "original": [
-            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;",
-            "festr man slitna,{\\sep}en freki renna."
+            "Þá kømr inn mikli{\\sep}mögr Sigföður,",
+            "Víðarr, vega{\\sep}at valdýri.",
+            "Lætr hann megi Hveðrungs{\\sep}mund um standa",
+            "hjör til hjarta:{\\sep}þá er hefnt föður."
         ]
     },
     {
         "comment": [
             "This and the following stanza are clearly in bad shape.",
             "In \\emph{Regius} only lines I and 4 are found, combined with stanza 56 as a single stanza.",
-            "Line I does not appear in the \\emph{Hauksbok} version, the stanza there beginning with line 2.",
-            "Snorri, in quoting these two stanzas, omits 55, 2\\ndash4, and 56, 3, making a single stanza out of 55, I, and 56, 4, 2, I, in that order.",
+            "Line 1 does not appear in the \\emph{Hauksbok} version, the stanza there beginning with line 2.",
+            "Snorri, in quoting these two stanzas, omits 55, 2\\ndash4, and 56, 3, making a single stanza out of 55, 1, and 56, 4, 2, 1, in that order.",
             "Moreover, the \\emph{Hauksbok} manuscript at this point is practically illegible.",
             "The lacuna (line 3) is, of course, purely conjectural, and all sorts of arrangements of the lines have been attempted by editors.",
             "\\emph{Hlothyn:} another name for Jorth (``Earth''), Thor's mother; his father was Othin.",
-            "\\emph{The snake:} Mithgarthsorm; cf. stanza 5c and note.",
+            "\\emph{The snake:} Mithgarthsorm; cf. stanza 50 and note.",
             "\\emph{Othin's son:} Thor.",
             "The fourth line in Regius reads ``against the wolf,'' but if this line refers to Thor at all, and not to Vithar, the \\emph{Hauksbok} reading, ``serpent,'' is correct."
         ],
         "translation": [
             "Hither there comes{\\sep}the son of Hlothyn,",
             "The bright snake gapes{\\sep}to heaven above;",
-            ".    .    .    .    .        .    .    .    .    .",
+            "{\\lacuna}",
             "Against the serpent{\\sep}goes Othin's son."
         ],
         "number": 55,
         "original": [
-            "Þá kemr inn mikli{\\sep}mögr Sigföður",
-            "Viðarr vega{\\sep}at valdýri;",
-            "lætr hann megi hveðrungs{\\sep}mund um standa",
-            "hjör til hjarta;{\\sep}þá er hefnt föður."
+            "Þá kømr inn mæri{\\sep}mögr Hlöðynjar,",
+            "gapa ýgs kjaptar{\\sep}orms í hæðum.",
+            "{\\lacuna}",
+            "gengr Óðins sonr{\\sep}við orm vega."
         ]
     },
     {
@@ -1187,7 +1190,7 @@
             "\\emph{The warder of earth:} Thor.",
             "\\emph{The son of Fjorgyn:} again {[}fp. 24{]} Thor, who, after slaying the serpent, is overcome by his venomous breath, and dies.",
             "Fjorgyn appears in both a masculine and a feminine form.",
-            "in the masculine 1t is a name for Othin; in the feminine, as here and in \\emph{Harbarthsljoth,} 56, it apparently refers to Jorth."
+            "In the masculine it is a name for Othin; in the feminine, as here and in \\emph{Harbarthsljoth,} 56, it apparently refers to Jorth."
         ],
         "translation": [
             "In anger smites{\\sep}the warder of earth,{\\commamdash}",
@@ -1197,10 +1200,8 @@
         ],
         "number": 56,
         "original": [
-            "Þá kemr inn mœri{\\sep}mögr Hlóðynjar,",
-            "gengr Óðins sonr{\\sep}við orm vega;",
-            "drepr hann af móði{\\sep}Miðgarðs véurr;",
-            "munu halir allir{\\sep}heimstöð ryðja;",
+            "Drepr hann af móði{\\sep}Miðgarðs véur,",
+            "{\\mdash}munu halir allir{\\sep}heimstöð ryðja{\\mdash}",
             "gengr fet níu{\\sep}Fjörgynjar burr",
             "neppr frá naðri{\\sep}níðs ókvíðnum."
         ]
@@ -1218,8 +1219,8 @@
         "number": 57,
         "original": [
             "Sól tér sortna,{\\sep}sígr fold í mar,",
-            "hverfa af himni{\\sep}heiðar stjörnur;",
-            "geisar eimi{\\sep}ok aldrnari,",
+            "hverfa af himni{\\sep}heiðar stjörnur,",
+            "geisar eimi{\\sep}við aldrnara,",
             "leikr hár hiti{\\sep}við himin sjálfan."
         ]
     },
@@ -1236,8 +1237,10 @@
         ],
         "number": 58,
         "original": [
-            "Geyr nú Garmr mjök{\\sep}fyr Gnípahelli;",
-            "festr man slitna,{\\sep}en freki renna."
+            "Geyr garmr mjök{\\sep}fyr Gnipahelli,",
+            "festr mun slitna,{\\sep}en freki renna.",
+            "Fiölð veit hon frœða,{\\sep}fram sé ek lengra",
+            "um ragna rök{\\sep}röm sigtíva."
         ]
     },
     {
@@ -1254,8 +1257,8 @@
         "number": 59,
         "original": [
             "Sér hon upp koma{\\sep}öðru sinni",
-            "jörð ór œgi{\\sep}iðjagrœna;",
-            "falla forsar,{\\sep}flýgr örn yfir,",
+            "jörð ór ægi{\\sep}iðjagrœna.",
+            "Falla forsar,{\\sep}flýgr örn yfir,",
             "sá er á fjalli{\\sep}fiska veiðir."
         ]
     },
@@ -1276,7 +1279,7 @@
         "number": 60,
         "original": [
             "Finnask æsir{\\sep}á Iðavelli",
-            "ok um moldþinur{\\sep}mátkan dœma",
+            "ok um moldþinur{\\sep}máttkan dœma",
             "ok minnask þar{\\sep}á megindóma",
             "ok á Fimbultýs{\\sep}fornar rúnar."
         ]
@@ -1295,13 +1298,14 @@
             "In wondrous beauty{\\sep}once again",
             "Shall the golden tables{\\sep}stand mid the grass,",
             "Which the gods had owned{\\sep}in the days of old,",
-            ".    .    .    .    .        .    .    .    .    ."
+            "{\\lacuna}"
         ],
         "number": 61,
         "original": [
             "Þar munu eptir{\\sep}undrsamligar",
             "gullnar töflur{\\sep}í grasi finnask,",
-            "þærs í árdaga{\\sep}áttar höfðu."
+            "þærs í árdaga{\\sep}áttar höfðu.",
+            "{\\lacuna}"
         ]
     },
     {
@@ -1320,9 +1324,9 @@
         "number": 62,
         "original": [
             "Munu ósánir{\\sep}akrar vaxa,",
-            "böls man alls batna,{\\sep}Baldr man koma;",
-            "búa þeir Höðr ok Baldr{\\sep}Hropts sigtoptir",
-            "vel valtívar.{\\sep}Vituð ér enn eða hvat?"
+            "böls mun alls batna,{\\sep}Baldr mun koma.",
+            "Búa þeir Höðr ok Baldr{\\sep}Hropts sigtóptir",
+            "vel, valtívar{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -1337,15 +1341,16 @@
         ],
         "translation": [
             "Then Hönir wins{\\sep}the prophetic wand,",
-            ".    .    .    .    .        .    .    .    .    .",
+            "{\\lacuna}",
             "And the sons of the brothers{\\sep}of Tveggi abide",
             "In Vindheim now:{\\sep}would you know yet more?"
         ],
         "number": 63,
         "original": [
-            "Þá kná Hœnir{\\sep}hlut við kjósa",
-            "ok burir byggja{\\sep}brœðra tveggja",
-            "vindheim víðan.{\\sep}Vituð ér enn eða hvat."
+            "Þá kná Hœnir{\\sep}hlautvið kjósa,",
+            "{\\lacuna}",
+            "ok burir byggja{\\sep}brœðra Tveggja",
+            "Vindheim víðan{\\mdash}{\\sep}vituð ér enn, eða hvat?"
         ]
     },
     {
@@ -1363,10 +1368,10 @@
         ],
         "number": 64,
         "original": [
-            "Sal sér hon standa{\\sep}sólu fegra",
-            "gulli þakðan{\\sep}á Gimlé;",
+            "Sal sér hon standa{\\sep}sólu fegra,",
+            "gulli þakðan,{\\sep}á Gimléi:",
             "þar skulu dyggvar{\\sep}dróttir byggja",
-            "ok um aldrdaga{\\sep}ynðis njóta."
+            "ok um aldrdaga{\\sep}yndis njóta."
         ]
     },
     {
@@ -1383,13 +1388,15 @@
         "translation": [
             "There comes on high,{\\sep}all power to hold,",
             "A mighty lord,{\\sep}all lands he rules.",
-            ".    .    .    .    .        .    .    .    .    .",
-            ".    .    .    .    .        .    .    .    .    ."
+            "{\\lacuna}",
+            "{\\lacuna}"
         ],
         "number": 65,
         "original": [
-            "Þá kemr inn ríki{\\sep}at regindómi",
-            "öflugr ofan,{\\sep}sá er öllu ræðr."
+            "Þá kømr inn ríki{\\sep}at regindómi",
+            "öflugr ofan,{\\sep}sá er öllu ræðr.",
+            "{\\lacuna}",
+            "{\\lacuna}"
         ]
     },
     {
@@ -1410,10 +1417,10 @@
         ],
         "number": 66,
         "original": [
-            "Þar kemr inn dimmi{\\sep}dreki fljúgandi,",
-            "naðr fránn neðan{\\sep}frá Niðafjöllum;",
-            "berr sér í fjöðrum{\\sep}{\\mdash}flýgr völl yfir{\\mdash}",
-            "Niðhöggr nái.{\\sep}Nú man hon sökkvask."
+            "Þar kømr inn dimmi{\\sep}dreki fljúgandi,",
+            "naðr fránn, neðan{\\sep}frá Niðafjöllum.",
+            "Berr sér í fjöðrum{\\sep}{\\mdash}flýgr völl yfir{\\mdash}",
+            "Níðhöggr nái{\\mdash}{\\sep}nú mun hon søkkvask. "
         ]
     }
 ]
