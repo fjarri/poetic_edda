@@ -151,15 +151,15 @@
 \stepcounter{StanzaCounter} 
 \vskip 1em
 
-\noindent\begin{tabular*}{\textwidth}{@{} p{2em} @{} p{0.45\textwidth} @{} p{0.5\textwidth}}
+\hskip -2\parindent %
+%\noindent
+\begin{tabular}{@{} p{\parindent} @{} p{0.5\textwidth} @{} p{0.5\textwidth}}
 
-\begin{minipage}[t]{0em}
 \displaystanzanum{\theStanzaCounter}
-\end{minipage}
 
 &
 
-\begin{minipage}[t]{0.45\textwidth}
+\begin{minipage}[t]{0.48\textwidth}
 \texticelandic{#2}
 \end{minipage}
 
@@ -169,9 +169,15 @@
 \textenglish{#3}
 \end{minipage} 
 
-\end{tabular*}
+\end{tabular}
 
+\ifx\@empty#1
+\else
+\vskip 1em
 #1
+\vskip 1em
+
+\fi
 
 }
 
