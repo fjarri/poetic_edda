@@ -1,11 +1,11 @@
 [
     {
         "comment": [
-            "A few editors, following Bugge, in an effort to clarify the poem, place stanzas 22, 28 and 30 before stanzas 1\\ndash20, but the arrangement in both manuscripts, followed here, seems logical.",
-            "In stanza 1 the Volva, or wise-woman, called upon by Othin, answers him and demands a hearing.",
-            "Evidently she belongs to the race of the giants (cf. stanza 2), and thus speaks to Othin unwillingly, being compelled to do so by his magic power.",
+            "A few editors, following Bugge, in an effort to clarify the poem, place stanzas \\stanzaref{22}, \\stanzaref{28} and \\stanzaref{30} before stanzas \\stanzarangeref{1}{20}, but the arrangement in both manuscripts, followed here, seems logical.",
+            "In stanza \\stanzaref{1} the Volva, or wise-woman, called upon by Othin, answers him and demands a hearing.",
+            "Evidently she belongs to the race of the giants (cf. stanza \\stanzaref{2}), and thus speaks to Othin unwillingly, being compelled to do so by his magic power.",
             "\\emph{Holy:} omitted in \\emph{Regius;} the phrase ``holy races'' probably means little more than mankind in general.",
-            "\\emph{Heimdall:} the watchman of the gods; cf. stanza 46 and note.",
+            "\\emph{Heimdall:} the watchman of the gods; cf. stanza \\stanzaref{46} and note.",
             "Why mankind should be referred to as Heimdall's sons is uncertain, and the phrase has caused much perplexity.",
             "Heimdall seems to have had various at tributes, and in the Rigsthula, wherein a certain Rig appears as the ancestor of the three great classes of men, a fourteenth century annotator identifies Rig with Heimdall, on what authority we do not know, for the Rig of the poem seems much more like Othin (cf. Rigsthula, introductory prose and note).",
             "\\emph{Valfather} (``Father of the Slain''): Othin, chief of the gods, so called because the slain warriors were brought to him at Valhall (``Hall of the Slain'') by the Valkyries (``Choosers of the Slain'')."
@@ -26,8 +26,8 @@
     },
     {
         "comment": [
-            "\\emph{Nine worlds:} the worlds of the gods (Asgarth), of the Wanes (Vanaheim, cf. stanza 21 and note), of the elves (Alfheim), of men (Mithgarth), of the giants (Jotunheim), of fire (Muspellsheim, cf. stanza 47 and note), of the dark elves (Svartalfaheim), of the dead (Niflheim), and presumably of the dwarfs (perhaps Nithavellir, cf. stanza 37 and note, but the ninth world is uncertain).",
-            "\\emph{The tree:} the world-ash Yggdrasil, {[}fp. 4{]} symbolizing the universe; cf. \\emph{Grimnismol,} 29\\ndash35 and notes, wherein Yggdrasil is described at length."
+            "\\emph{Nine worlds:} the worlds of the gods (Asgarth), of the Wanes (Vanaheim, cf. stanza \\stanzaref{21} and note), of the elves (Alfheim), of men (Mithgarth), of the giants (Jotunheim), of fire (Muspellsheim, cf. stanza \\stanzaref{47} and note), of the dark elves (Svartalfaheim), of the dead (Niflheim), and presumably of the dwarfs (perhaps Nithavellir, cf. stanza \\stanzaref{37} and note, but the ninth world is uncertain).",
+            "\\emph{The tree:} the world-ash Yggdrasil, {[}fp. 4{]} symbolizing the universe; cf. \\combinedrangeref{Grimnismol}{29}{35} and notes, wherein Yggdrasil is described at length."
         ],
         "translation": [
             "I remember yet{\\sep}the giants of yore,",
@@ -45,7 +45,7 @@
     },
     {
         "comment": [
-            "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\emph{Vafthruthnismol,} 21.",
+            "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\combinedref{Vafthruthnismol}{21}.",
             "In this stanza as quoted in Snorri's Edda the first line runs: ``Of old was the age ere aught there was.''",
             "\\emph{Yawning gap:} this phrase, ``Ginnunga-gap,'' is sometimes used as a proper name."
         ],
@@ -66,10 +66,10 @@
     {
         "comment": [
             "\\emph{Bur's sons:} Othin, Vili, and Ve.",
-            "Of Bur we know only that his wife was Bestla, daughter of Bolthorn; cf. \\emph{Hovamol,} 141.",
-            "Vili and Ve are mentioned by name in the Eddic poems only in \\emph{Lokasenna,} 26.",
+            "Of Bur we know only that his wife was Bestla, daughter of Bolthorn; cf. \\combinedref{Hovamol}{141}.",
+            "Vili and Ve are mentioned by name in the Eddic poems only in \\combinedref{Lokasenna}{26}.",
             "\\emph{Mithgarth} (``Middle Dwelling''): the world of men.",
-            "\\emph{Leeks:} the leek was often used as the symbol of fine growth (cf. \\emph{Guthrunarkvitha} I, 17), and it was also supposed to have magic power (cf. \\emph{Sigrdrifumol,} 7)."
+            "\\emph{Leeks:} the leek was often used as the symbol of fine growth (cf. \\combinedref{Guthrunarkvitha I}{17}), and it was also supposed to have magic power (cf. \\combinedref{Sigrdrifumol}{7})."
         ],
         "translation": [
             "Then Bur's sons lifted{\\sep}the level land,",
@@ -90,7 +90,7 @@
             "Various editors have regarded this stanza as interpolated; Hoffory thinks it describes the northern summer night in which the sun does not set.",
             "Lines 3\\ndash5 are quoted by Snorri.",
             "In the manuscripts line 4 follows line 5.",
-            "Regarding the sun and moon {[}fp. 5{]} as daughter and son of Mundilferi, cf. \\emph{Vafthruthnismol,} 23 and note, and \\emph{Grimnismol,} 37 and note."
+            "Regarding the sun and moon {[}fp. 5{]} as daughter and son of Mundilferi, cf. \\combinedref{Vafthruthnismol}{23} and note, and \\combinedref{Grimnismol}{37} and note."
         ],
         "translation": [
             "The sun, the sister{\\sep}of the moon, from the south",
@@ -111,7 +111,7 @@
     {
         "comment": [
             "Possibly an interpolation, but there seems no strong reason for assuming this.",
-            "Lines 1\\ndash2 are identical with lines 1\\ndash2 of stanza 9, and line 2 may have been inserted here from that later stanza."
+            "Lines 1\\ndash2 are identical with lines 1\\ndash2 of stanza \\stanzaref{9}, and line 2 may have been inserted here from that later stanza."
         ],
         "translation": [
             "Then sought the gods{\\sep}their assembly-seats,",
@@ -131,7 +131,7 @@
     },
     {
         "comment": [
-            "\\emph{Ithavoll} (``Field of Deeds''?): mentioned only here and in stanza 60 as the meeting-place of the gods; it appears in no other connection."
+            "\\emph{Ithavoll} (``Field of Deeds''?): mentioned only here and in stanza \\stanzaref{60} as the meeting-place of the gods; it appears in no other connection."
         ],
         "translation": [
             "At Ithavoll met{\\sep}the mighty gods,",
@@ -150,9 +150,9 @@
     {
         "comment": [
             "\\emph{Tables:} the exact nature of this game, and whether it more closely resembled chess or checkers, has been made the subject of a 400-page treatise, Willard Fiske's ``Chess in Iceland.''",
-            "\\emph{Giant-maids:} perhaps the three great Norns, corresponding to the three fates; cf. stanza 20, and note.",
-            "Possibly, however, something has been lost after this stanza, and the missing passage, replaced by the catalogue of the dwarfs (stanzas 9\\ndash16), may have explained the ``giant-maids'' otherwise than as Norns.",
-            "In \\emph{Vafthruthnismol,} 49, the Norms (this time ``three throngs'' in stead of simply ``three'') are spoken of as giant-maidens; {[}fp. 6{]} \\emph{Fafnismol,} 13, indicates the existence of many lesser Norns, belonging to various races.",
+            "\\emph{Giant-maids:} perhaps the three great Norns, corresponding to the three fates; cf. stanza \\stanzaref{20}, and note.",
+            "Possibly, however, something has been lost after this stanza, and the missing passage, replaced by the catalogue of the dwarfs (stanzas \\stanzarangeref{9}{16}), may have explained the ``giant-maids'' otherwise than as Norns.",
+            "In \\combinedref{Vafthruthnismol}{49}, the Norms (this time ``three throngs'' in stead of simply ``three'') are spoken of as giant-maidens; {[}fp. 6{]} \\combinedref{Fafnismol}{13}, indicates the existence of many lesser Norns, belonging to various races.",
             "\\emph{Jotunheim:} the world of the giants."
         ],
         "translation": [
@@ -171,10 +171,10 @@
     },
     {
         "comment": [
-            "Here apparently begins the interpolated catalogue of the dwarfs, running through stanza 16; possibly, however, the interpolated section does not begin before stanza 11.",
+            "Here apparently begins the interpolated catalogue of the dwarfs, running through stanza \\stanzaref{16}; possibly, however, the interpolated section does not begin before stanza \\stanzaref{11}.",
             "Snorri quotes practically the entire section, the names appearing in a some what changed order.",
-            "\\emph{Brimir} and \\emph{Blain:} nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza 3).",
-            "Brimir, however, appears in stanza 37 in connection with the home of the dwarfs.",
+            "\\emph{Brimir} and \\emph{Blain:} nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza \\stanzaref{3}).",
+            "Brimir, however, appears in stanza \\stanzaref{37} in connection with the home of the dwarfs.",
             "Some editors treat the words as common rather than proper nouns, Brimir meaning ``the bloody moisture'' and Blain being of uncertain significance."
         ],
         "translation": [
@@ -267,7 +267,7 @@
     },
     {
         "comment": [
-            "\\emph{Dvalin:} in Hovamol, 144, Dvalin seems to have given magic runes to the dwarfs, probably accounting for their skill in craftsmanship, while in \\emph{Fafnismol,} 13, he is mentioned as the father of some of the lesser Norns.",
+            "\\emph{Dvalin:} in \\combinedref{Hovamol}{144}, Dvalin seems to have given magic runes to the dwarfs, probably accounting for their skill in craftsmanship, while in \\combinedref{Fafnismol}{13}, he is mentioned as the father of some of the lesser Norns.",
             "The story that some of the dwarfs left the rocks and mountains to find a new home on the sands is mentioned, but unexplained, in Snorri's Edda; of \\emph{Lofar} we know only that he was descended from these wanderers."
         ],
         "translation": [
@@ -286,7 +286,7 @@
     },
     {
         "comment": [
-            "\\emph{Andvari:} this dwarf appears prominently in the \\emph{Reginsmol,} which tells how the god Loki treacherously robbed him of his wealth; the curse which he laid on his treasure brought about the deaths of Sigurth, Gunnar, Atli, and many others."
+            "\\emph{Andvari:} this dwarf appears prominently in the \\chapterref{Reginsmol,} which tells how the god Loki treacherously robbed him of his wealth; the curse which he laid on his treasure brought about the deaths of Sigurth, Gunnar, Atli, and many others."
         ],
         "translation": [
             "There were Draupnir{\\sep}and Dolgthrasir,",
@@ -321,8 +321,8 @@
     {
         "comment": [
             "Here the poem resumes its course after the interpolated section.",
-            "Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza 8 and the three gods, Othin, Hönir and Lothur, who in stanza 17 go forth to create man and woman.",
-            "The word ``three'' in stanzas 9 and 17 very likely confused some early reciter, or perhaps the compiler himself.",
+            "Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza \\stanzaref{8} and the three gods, Othin, Hönir and Lothur, who in stanza \\stanzaref{17} go forth to create man and woman.",
+            "The word ``three'' in stanzas \\stanzaref{9} and \\stanzaref{17} very likely confused some early reciter, or perhaps the compiler himself.",
             "\\emph{Ask} and \\emph{Embla:} ash and elm; Snorri gives them simply as the names of the first man and woman, but says that the gods made this pair out of trees."
         ],
         "translation": [
@@ -341,8 +341,8 @@
     },
     {
         "comment": [
-            "\\emph{Hönir:} little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and {[}fp. 9{]} that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza 63).",
-            "He was given by the gods as a hostage to the Wanes after their war, in exchange for Njorth (cf. stanza 21 and note).",
+            "\\emph{Hönir:} little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and {[}fp. 9{]} that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza \\stanzaref{63}).",
+            "He was given by the gods as a hostage to the Wanes after their war, in exchange for Njorth (cf. stanza \\stanzaref{21} and note).",
             "\\emph{Lothur:} apparently an older name for Loki, the treacherous but ingenious son of Laufey, whose divinity Snorri regards as somewhat doubtful.",
             "He was adopted by Othin, who subsequently had good reason to regret it.",
             "Loki probably represents the blending of two originally distinct figures, one of them an old fire-god, hence his gift of heat to the newly created pair."
@@ -363,7 +363,7 @@
     },
     {
         "comment": [
-            "\\emph{Yggdrasil:} cf. stanza 2 and note, and \\emph{Grimnismol,} 29\\ndash35 and notes.",
+            "\\emph{Yggdrasil:} cf. stanza \\stanzaref{2} and note, and \\combinedrangeref{Grimnismol}{29}{35} and notes.",
             "\\emph{Urth} (``The Past''): one of the three great Norns.",
             "The world-ash is kept green by being sprinkled with the marvelous healing water from her well."
         ],
@@ -383,7 +383,7 @@
     },
     {
         "comment": [
-            "\\emph{The maidens:} the three Norns; possibly this stanza should follow stanza 8.",
+            "\\emph{The maidens:} the three Norns; possibly this stanza should follow stanza \\stanzaref{8}.",
             "\\emph{Dwelling:} \\emph{Regius} has ``sæ'' (sea) instead of ``sal'' (hall, home), and many editors have followed this reading, although Snorri's prose paraphrase indicates ``sal.''",
             "\\emph{Urth, Verthandi and Skuld:} ``Past,'' ``Present'' and ``Future.'' Wood, etc.: the magic signs (runes) controlling the destinies of men were cut on pieces of wood.",
             "Lines 3\\ndash4 are probably interpolations from some other account of the Norns."
@@ -408,14 +408,14 @@
     },
     {
         "comment": [
-            "This follows stanza 20 in \\emph{Regius;} in the \\emph{Hauksbok} version stanzas 25, 26, 27, 40, and 41 come between stanzas 20 and 21.",
+            "This follows stanza \\stanzaref{20} in \\emph{Regius;} in the \\emph{Hauksbok} version stanzas \\stanzaref{25}, \\stanzaref{26}, \\stanzaref{27}, \\stanzaref{40}, and \\stanzaref{41} come between stanzas \\stanzaref{20} and \\stanzaref{21}.",
             "Editors have attempted all sorts of rearrangements.",
             "\\emph{The war:} the first war was that between the gods and the Wanes.",
             "The cult of the Wanes (Vanir) seems to have originated among the seafaring folk of the Baltic and the southern shores of the North Sea, and to have spread thence into Norway in opposition to the worship of the older gods; hence the ``war.''",
             "Finally the two types of divinities were worshipped in common; hence the treaty which ended the war with the exchange of hostages.",
             "Chief among the Wanes were Njorth and his children, Freyr and Freyja, all of whom became conspicuous among the gods.",
             "Beyond this we know little of the Wanes, who seem originally to have been water-deities.",
-            "\\emph{I remember:} the manuscripts have ``she remembers,'' but the Volva is apparently still speaking of her own memories, as in stanza 2.",
+            "\\emph{I remember:} the manuscripts have ``she remembers,'' but the Volva is apparently still speaking of her own memories, as in stanza \\stanzaref{2}.",
             "\\emph{Gollveig} (``Gold-Might''): apparently the first of the Wanes to come among the gods, her ill treatment being the immediate cause of the war.",
             "Müllenhoff maintains that Gollveig is another name for Freyja.",
             "Lines 5\\ndash6, one or both of them probably interpolated, seem to symbolize the refining of gold by fire.",
@@ -442,7 +442,7 @@
             "\\emph{Heith} (``Shining One''?): a name often applied to wise women and prophetesses.",
             "The application of this stanza to Gollveig is far from clear, though the reference may be to the {[}fp. 11{]} magic and destructive power of gold.",
             "It is also possible that the stanza is an interpolation.",
-            "Bugge maintains that it applies to the Volva who is reciting the poem, and makes it the opening stanza, following it with stanzas 28 and 30, and then going on with stanzas I ff.",
+            "Bugge maintains that it applies to the Volva who is reciting the poem, and makes it the opening stanza, following it with stanzas \\stanzaref{28} and \\stanzaref{30}, and then going on with stanzas \\stanzaref{1} ff.",
             "The text of line 2 is obscure, and has been variously emended."
         ],
         "translation": [
@@ -461,7 +461,7 @@
     },
     {
         "comment": [
-            "This stanza and stanza 24 have been transposed from the order in the manuscripts, for the former describes the battle and the victory of the Wanes, after which the gods took council, debating whether to pay tribute to the victors, or to admit them, as was finally done, to equal rights of worship."
+            "This stanza and stanza \\stanzaref{24} have been transposed from the order in the manuscripts, for the former describes the battle and the victory of the Wanes, after which the gods took council, debating whether to pay tribute to the victors, or to admit them, as was finally done, to equal rights of worship."
         ],
         "translation": [
             "On the host his spear{\\sep}did Othin hurl,",
@@ -495,10 +495,10 @@
     },
     {
         "comment": [
-            "Possibly, as Finn Magnusen long ago suggested, there is something lost after stanza 24, but it was not the custom of the Eddic poets to supply transitions which their hearers could generally be counted on to understand.",
-            "The story referred to in stanzas 25\\ndash26 (both quoted by Snorri) is that of the rebuilding of Asgarth after its destruction by the Wanes.",
+            "Possibly, as Finn Magnusen long ago suggested, there is something lost after stanza \\stanzaref{24}, but it was not the custom of the Eddic poets to supply transitions which their hearers could generally be counted on to understand.",
+            "The story referred to in stanzas \\stanzarangeref{25}{26} (both quoted by Snorri) is that of the rebuilding of Asgarth after its destruction by the Wanes.",
             "The gods employed a giant as builder, who demanded as his reward the sun and moon, and the goddess Freyja for his wife.",
-            "The gods, terrified by the rapid progress of the work, forced Loki, who had advised the bargain, to delay the giant by a trick, so that the {[}fp. 12{]} work was not finished in the stipulated time (cf. \\emph{Grimnismol,} 44, note).",
+            "The gods, terrified by the rapid progress of the work, forced Loki, who had advised the bargain, to delay the giant by a trick, so that the {[}fp. 12{]} work was not finished in the stipulated time (cf. \\combinedref{Grimnismol}{44}, note).",
             "The enraged giant then threatened the gods, whereupon Thor slew him.",
             "\\emph{Oth's bride:} Freyja; of Oth little is known beyond the fact that Snorri refers to him as a man who ``went away on long journeys.''"
         ],
@@ -537,14 +537,14 @@
     },
     {
         "comment": [
-            "Here the Volva turns from her memories of the past to a statement of some of Othin's own secrets in his eternal search for knowledge (stanzas 27\\ndash29). Bugge puts this stanza after stanza 29.",
+            "Here the Volva turns from her memories of the past to a statement of some of Othin's own secrets in his eternal search for knowledge (stanzas \\stanzarangeref{27}{29}). Bugge puts this stanza after stanza \\stanzaref{29}.",
             "\\emph{The horn of Heimdall:} the Gjallarhorn (``Shrieking Horn''), with which Heimdall, watchman of the gods, will summon them to the last battle.",
             "Till that time the horn is buried under Yggdrasil.",
             "\\emph{Valfather's pledge:} Othin's eye (the sun?), which he gave to the water-spirit Mimir (or Mim) in exchange for the latter's wisdom.",
-            "It appears here and in stanza 29 as a drinking-vessel, from which Mimir drinks the magic mead, and from which he pours water on the ash Yggdrasil.",
+            "It appears here and in stanza \\stanzaref{29} as a drinking-vessel, from which Mimir drinks the magic mead, and from which he pours water on the ash Yggdrasil.",
             "Othin's sacrifice of his eye in order to gain knowledge of his final doom is one of the series of disasters leading up to the destruction of the gods.",
-            "There were several differing versions of the story of Othin's relations with Mimir; another one, quite incompatible with this, appears in stanza 47.",
-            "In the manuscripts \\emph{I know} and \\emph{I see} appear as ``she knows'' and ``she sees'' (cf. note on 21)."
+            "There were several differing versions of the story of Othin's relations with Mimir; another one, quite incompatible with this, appears in stanza \\stanzaref{47}.",
+            "In the manuscripts \\emph{I know} and \\emph{I see} appear as ``she knows'' and ``she sees'' (cf. note on \\stanzaref{21})."
         ],
         "translation": [
             "I know of the horn{\\sep}of Heimdall, hidden",
@@ -562,9 +562,9 @@
     },
     {
         "comment": [
-            "The \\emph{Hauksbok} version omits all of stanzas 28\\ndash34, stanza 27 being there followed by stanzas 40 and 41.",
-            "\\emph{Regius} indicates stanzas 28 and 29 as a single stanza.",
-            "Bugge puts stanza 28 after stanza 22, as the second stanza of his reconstructed poem.",
+            "The \\emph{Hauksbok} version omits all of stanzas \\stanzarangeref{28}{34}, stanza \\stanzaref{27} being there followed by stanzas \\stanzaref{40} and \\stanzaref{41}.",
+            "\\emph{Regius} indicates stanzas \\stanzaref{28} and \\stanzaref{29} as a single stanza.",
+            "Bugge puts stanza \\stanzaref{28} after stanza \\stanzaref{22}, as the second stanza of his reconstructed poem.",
             "The Volva here addresses Othin directly, intimating that, although he has not told her, she knows why he has come to her, and what he has already suffered in his search for knowledge regarding his doom.",
             "Her reiterated ``would you know yet more?'' seems to mean: ``I have proved my wisdom by telling of the past and of your own secrets; is it your will that I tell likewise of the fate in store for you?''",
             "\\emph{The Old One:} Othin."
@@ -586,7 +586,7 @@
     {
         "comment": [
             "The first line, not in either manuscript, is a conjectural emendation based on Snorri's paraphrase.",
-            "Bugge puts this stanza after stanza 20."
+            "Bugge puts this stanza after stanza \\stanzaref{20}."
         ],
         "translation": [
             "I know where Othin's{\\sep}eye is hidden,",
@@ -604,9 +604,9 @@
     },
     {
         "comment": [
-            "This is apparently the transitional stanza, in which the Volva, rewarded by Othin for her knowledge of the past (stanzas 1\\ndash29), is induced to proceed with her real prophecy (stanzas 31\\ndash66).",
+            "This is apparently the transitional stanza, in which the Volva, rewarded by Othin for her knowledge of the past (stanzas \\stanzarangeref{1}{29}), is induced to proceed with her real prophecy (stanzas \\stanzarangeref{31}{66}).",
             "Some editors turn the stanza into the third person, making it a narrative link.",
-            "Bugge, on the other hand, puts it {[}fp. 14{]} after stanza 28 as the third stanza of the poem.",
+            "Bugge, on the other hand, puts it {[}fp. 14{]} after stanza \\stanzaref{28} as the third stanza of the poem.",
             "No lacuna is indicated in the manuscripts, and editors have attempted various emendations.",
             "\\emph{Heerfather} (``Father of the Host''): Othin."
         ],
@@ -626,11 +626,11 @@
     },
     {
         "comment": [
-            "\\emph{Valkyries:} these ``Choosers of the Slain'' (cf. stanza 1, note) bring the bravest warriors killed in battle to Valhall, in order to re-enforce the gods for their final struggle.",
+            "\\emph{Valkyries:} these ``Choosers of the Slain'' (cf. stanza \\stanzaref{1}, note) bring the bravest warriors killed in battle to Valhall, in order to re-enforce the gods for their final struggle.",
             "They are also called ``Wish-Maidens,'' as the fulfillers of Othin's wishes.",
             "The conception of the supernatural warrior-maiden was presumably brought to Scandinavia in very early times from the South-Germanic races, and later it was interwoven with the likewise South-Germanic tradition of the swan-maiden.",
-            "A third complication developed when the originally quite human women of the hero-legends were endowed with the qualities of both Valkyries and swan-maidens, as in the cases of Brynhild (cf. \\emph{Gripisspo,} introductory note), \\emph{Svava} (cf. \\emph{Helgakvitha Hjorvarthssonar,} prose after stanza 5 and note) and Sigrun (cf. \\emph{Helgakvitha Hundingsbana} I, 17 and note).",
-            "The list of names here given may be an interpolation; a quite different list is given in \\emph{Grimnismol,} 36.",
+            "A third complication developed when the originally quite human women of the hero-legends were endowed with the qualities of both Valkyries and swan-maidens, as in the cases of \\emph{Brynhild} (cf. \\chapterref{Gripisspo,} introductory note), \\emph{Svava} (cf. \\chapterref{Helgakvitha Hjorvarthssonar,} prose after stanza {\\stanzaref[Helgakvitha Hjorvarthssonar]{5}} and note) and \\emph{Sigrun} (cf. \\combinedref{Helgakvitha Hundingsbana I}{17} and note).",
+            "The list of names here given may be an interpolation; a quite different list is given in \\combinedref{Grimnismol}{36}.",
             "\\emph{Ranks of the gods:} some editors regard the word thus translated as a specific place name.",
             "\\emph{Herjan} (``Leader of Hosts''): Othin.",
             "It is worth noting that the name \\emph{Hild} (``Warrior'') is the basis of Bryn-hild (``Warrior in Mail Coat'')."
@@ -725,7 +725,7 @@
             "A serpent was fastened above Loki's head, and the venom fell upon his face.",
             "Loki's wife, Sigyn, sat by him with a basin to catch the venom, but whenever the basin was full, and she went away to empty it, then the venom fell on Loki again, till the earth shook with his struggles.",
             "``And there he lies bound till the end.''",
-            "Cf. \\emph{Lokasenna,} concluding prose."
+            "Cf. \\chapterref{Lokasenna,} concluding prose."
         ],
         "translation": [
             "One did I see{\\sep}in the wet woods bound,",
@@ -743,9 +743,9 @@
     },
     {
         "comment": [
-            "Stanzas 36\\ndash39 describe the homes of the enemies of the gods: the giants (36), the dwarfs (37), and the dead in the land of the goddess Hel (38\\ndash39).",
-            "The \\emph{Hauksbok} version omits stanzas 36 and 37.",
-            "\\emph{Regius} unites 36 with 37, but most editors have assumed a lacuna.",
+            "Stanzas \\stanzarangeref{36}{39} describe the homes of the enemies of the gods: the giants (\\stanzaref{36}), the dwarfs (\\stanzaref{37}), and the dead in the land of the goddess Hel (\\stanzarangeref{38}{39}).",
+            "The \\emph{Hauksbok} version omits stanzas \\stanzaref{36} and \\stanzaref{37}.",
+            "\\emph{Regius} unites \\stanzaref{36} with \\stanzaref{37}, but most editors have assumed a lacuna.",
             "\\emph{Slith} (``the Fearful''): a river in the giants' home.",
             "The ``swords and daggers'' may represent the icy cold."
         ],
@@ -769,7 +769,7 @@
             "Perhaps the word should be ``Nithafjoll'' (``the Dark Crags'').",
             "\\emph{Sindri:} the great worker in gold among the dwarfs.",
             "\\emph{Okolnir} {[}fp. 17{]} (``the Not Cold''): possibly a volcano.",
-            "\\emph{Brimir:} the giant (possibly Ymir) out of whose blood, according to stanza 9, the dwarfs were made; the name here appears to mean simply the leader of the dwarfs."
+            "\\emph{Brimir:} the giant (possibly Ymir) out of whose blood, according to stanza \\stanzaref{9}, the dwarfs were made; the name here appears to mean simply the leader of the dwarfs."
         ],
         "translation": [
             "Northward a hall{\\sep}in Nithavellir",
@@ -787,8 +787,8 @@
     },
     {
         "comment": [
-            "Stanzas 38 and 39 follow stanza 43 in the \\emph{Hauksbok} version.",
-            "Snorri quotes stanzas 39, 39, 40 and 41, though not consecutively.",
+            "Stanzas \\stanzaref{38} and \\stanzaref{39} follow stanza \\stanzaref{43} in the \\emph{Hauksbok} version.",
+            "Snorri quotes stanzas \\stanzaref{38}, \\stanzaref{39}, \\stanzaref{40} and \\stanzaref{41}, though not consecutively.",
             "\\emph{Nastrond} (``Corpse-Strand''): the land of the dead, ruled by the goddess Hel.",
             "Here the wicked undergo tortures.",
             "\\emph{Smoke vent:} the phrase gives a picture of the Icelandic house, with its opening in the roof serving instead of a chimney."
@@ -813,9 +813,9 @@
             "The third line is presumably an interpolation, and is lacking in most of the late, paper manuscripts.",
             "Some editors, however, have called lines 1\\ndash3 the remains of a full stanza, with the fourth line lacking, and lines 4\\ndash5 the remains of another.",
             "The stanza depicts the torments of the two worst classes of criminals known to Old Norse morality{\\mdash}oath-breakers and murderers.",
-            "\\emph{Nithhogg} (``the Dread Biter''): the dragon that lies beneath the ash Yggdrasil and gnaws at its roots, thus symbolizing the destructive elements in the universe; cf. \\emph{Grimnismol,} 32, 35.",
+            "\\emph{Nithhogg} (``the Dread Biter''): the dragon that lies beneath the ash Yggdrasil and gnaws at its roots, thus symbolizing the destructive elements in the universe; cf. \\chapterref{Grimnismol,} {\\stanzaref[Grimnismol]{32}}, {\\stanzaref[Grimnismol]{35}}.",
             "\\emph{The wolf:} presumably the wolf Fenrir, one of the children of Loki and the giantess Angrbotha (the others being Mithgarthsorm and the goddess Hel), who was chained by the gods with the marvelous chain Gleipnir, fashioned by a dwarf ``out of six things: the {[}fp. 18{]} noise of a cat's step, the beards of women, the roots of mountains, the nerves of bears, the breath of fishes, and the spittle of birds.''",
-            "The chaining of Fenrir cost the god Tyr his right hand; cf. stanza 44."
+            "The chaining of Fenrir cost the god Tyr his right hand; cf. stanza \\stanzaref{44}."
         ],
         "translation": [
             "I saw there wading{\\sep}through rivers wild",
@@ -835,9 +835,9 @@
     },
     {
         "comment": [
-            "The \\emph{Hauksbok} version inserts after stanza 39 the refrain stanza (44), and puts stanzas 40 and 41 between 27 and 21.",
+            "The \\emph{Hauksbok} version inserts after stanza \\stanzaref{39} the refrain stanza \\stanzaref{44}, and puts stanzas \\stanzaref{40} and \\stanzaref{41} between \\stanzaref{27} and \\stanzaref{21}.",
             "With this stanza begins the account of the final struggle itself.",
-            "\\emph{The giantess:} her name is nowhere stated, and the only other reference to Ironwood is in \\emph{Grimnismol,} 39, in this same connection.",
+            "\\emph{The giantess:} her name is nowhere stated, and the only other reference to Ironwood is in \\combinedref{Grimnismol}{39}, in this same connection.",
             "The children of this giantess and the wolf Fenrir are the wolves Skoll and Hati, the first of whom steals the sun, the second the moon.",
             "Some scholars naturally see here an eclipse myth."
         ],
@@ -876,7 +876,7 @@
     },
     {
         "comment": [
-            "In the \\emph{Hauksbok} version stanzas 42 and 43 stand between stanzas 44 and 38.",
+            "In the \\emph{Hauksbok} version stanzas \\stanzaref{42} and \\stanzaref{43} stand between stanzas \\stanzaref{44} and \\stanzaref{38}.",
             "\\emph{Eggther:} this giant, who seems to be the watchman of the giants, as Heimdall is that of the gods and Surt of the dwellers in the fire-world, is not mentioned elsewhere in {[}fp. 19{]} the poems.",
             "\\emph{Fjalar,} the cock whose crowing wakes the giants for the final struggle."
         ],
@@ -916,12 +916,12 @@
     {
         "comment": [
             "This is a refrain-stanza.",
-            "In \\emph{Regius} it appears in full only at this point, but is repeated in abbreviated form before stanzas 50 and 59.",
-            "In the \\emph{Hauksbok} version the full stanza comes first between stanzas 35 and 42, then, in abbreviated form, it occurs four times: before stanzas 45, 50, 55, and 59.",
+            "In \\emph{Regius} it appears in full only at this point, but is repeated in abbreviated form before stanzas \\stanzaref{50} and \\stanzaref{59}.",
+            "In the \\emph{Hauksbok} version the full stanza comes first between stanzas \\stanzaref{35} and \\stanzaref{42}, then, in abbreviated form, it occurs four times: before stanzas \\stanzaref{45}, \\stanzaref{50}, \\stanzaref{55}, and \\stanzaref{59}.",
             "In the \\emph{Hauksbok} line 3 runs: ``Farther I see and more can say.''",
-            "\\emph{Garm:} the dog who guards the gates of Hel's kingdom; cf. Baldrs Draumar, 2 ff., and \\emph{Grimnismol,} 44.",
+            "\\emph{Garm:} the dog who guards the gates of Hel's kingdom; cf. \\combinedref{Baldrs Draumar}{2} ff., and \\combinedref{Grimnismol}{44}.",
             "\\emph{Gniparhellir} (``the Cliff-Cave''): the entrance to the world of the dead.",
-            "\\emph{The wolf:} Fenrir; cf. stanza 39 and note."
+            "\\emph{The wolf:} Fenrir; cf. stanza \\stanzaref{39} and note."
         ],
         "translation": [
             "Now Garm howls loud{\\sep}before Gnipahellir,",
@@ -939,8 +939,8 @@
     },
     {
         "comment": [
-            "From this point on through stanza 57 the poem is quoted by Snorri, stanza 49 alone being omitted.",
-            "There has been much discussion as to the status of stanza 45.",
+            "From this point on through stanza \\stanzaref{57} the poem is quoted by Snorri, stanza \\stanzaref{49} alone being omitted.",
+            "There has been much discussion as to the status of stanza \\stanzaref{45}.",
             "Lines 4 and 5 look like an interpolation.",
             "After line 5 the \\emph{Hauksbok} has a line running: ``The world resounds, the witch is flying.''",
             "Editors have arranged these seven lines in various ways, with lacunae freely indicated.",
@@ -966,10 +966,10 @@
     },
     {
         "comment": [
-            "\\emph{Regius} combines the first three lines of this stanza with lines 3, 2, and I of stanza 47 as a single stanza.",
-            "Line 4, not found in \\emph{Regius,} is introduced from the \\emph{Hauksbok} version, where it follows line 2 of stanza 47.",
+            "\\emph{Regius} combines the first three lines of this stanza with lines 3, 2, and 1 of stanza \\stanzaref{47} as a single stanza.",
+            "Line 4, not found in \\emph{Regius,} is introduced from the \\emph{Hauksbok} version, where it follows line 2 of stanza \\stanzaref{47}.",
             "\\emph{The sons of Mim:} the spirits of the water.",
-            "On Mim (or Mimir) cf. stanza 27 and note.",
+            "On Mim (or Mimir) cf. stanza \\stanzaref{27} and note.",
             "\\emph{Gjallarhorn:} the ``Shrieking Horn'' with which Heimdall, the watchman of the gods, calls them to the last battle."
         ],
         "translation": [
@@ -988,16 +988,16 @@
     },
     {
         "comment": [
-            "In \\emph{Regius} lines 3, 2, and I, in that order, follow stanza 46 without separation.",
+            "In \\emph{Regius} lines 3, 2, and 1, in that order, follow stanza \\stanzaref{46} without separation.",
             "Line 4 is not found in \\emph{Regius,} but is introduced from the \\emph{Hauksbok} version.",
-            "\\emph{Yggdrasil:} cf. stanza 19 and note, and Grimnismol, 29\\ndash35.",
+            "\\emph{Yggdrasil:} cf. stanza \\stanzaref{19} and note, and \\combinedrangeref{Grimnismol}{29}{35}.",
             "\\emph{The giant:} Fenrir.",
             "\\emph{The head of Mim:} various myths were current about Mimir.",
-            "This stanza refers to the story that he was sent by the gods with Hönir as a hostage to the Wanes after their war (cf. stanza 21 and note), and that the Wanes cut off his head and returned it to the gods.",
+            "This stanza refers to the story that he was sent by the gods with Hönir as a hostage to the Wanes after their war (cf. stanza \\stanzaref{21} and note), and that the Wanes cut off his head and returned it to the gods.",
             "Othin embalmed the head, and by magic gave it the power of speech, thus making Mimir's noted wisdom always available.",
-            "Of course this story does not fit with that underlying the references to Mimir in stanzas 27 and 29.",
-            "\\emph{The kinsman of Surt:} the wolf {[}fp. 21{]} Fenrir, who slays Othin in the final struggle; cf. stanza 53.",
-            "Surt is the giant who rules the fire-world, Muspellsheim; cf. stanza 52."
+            "Of course this story does not fit with that underlying the references to Mimir in stanzas \\stanzaref{27} and \\stanzaref{29}.",
+            "\\emph{The kinsman of Surt:} the wolf {[}fp. 21{]} Fenrir, who slays Othin in the final struggle; cf. stanza \\stanzaref{53}.",
+            "Surt is the giant who rules the fire-world, Muspellsheim; cf. stanza \\stanzaref{52}."
         ],
         "translation": [
             "Yggdrasil shakes,{\\sep}and shiver on high",
@@ -1015,7 +1015,7 @@
     },
     {
         "comment": [
-            "This stanza in \\emph{Regius} follows stanza 51; in the \\emph{Hauksbok} it stands, as here, after 47.",
+            "This stanza in \\emph{Regius} follows stanza \\stanzaref{51}; in the \\emph{Hauksbok} it stands, as here, after \\stanzaref{47}.",
             "\\emph{Jotunheim:} the land of the giants."
         ],
         "translation": [
@@ -1034,7 +1034,7 @@
     },
     {
         "comment": [
-            "Identical with stanza 44.",
+            "Identical with stanza \\stanzaref{44}.",
             "In the manuscripts it is here abbreviated."
         ],
         "translation": [
@@ -1053,9 +1053,9 @@
     },
     {
         "comment": [
-            "\\emph{Hrym:} the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). \\emph{The serpent:} Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza 39, note).",
-            "The serpent was cast into the sea, where he completely encircles the land; cf. especially \\emph{Hymiskvitha, passim.}",
-            "\\emph{The eagle:} the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. \\emph{Vafthruthnismol,} 37, and \\emph{Skirnismol,} 27.",
+            "\\emph{Hrym:} the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). \\emph{The serpent:} Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza \\stanzaref{39}, note).",
+            "The serpent was cast into the sea, where he completely encircles the land; cf. especially \\combinedref{Hymiskvitha}, passim.",
+            "\\emph{The eagle:} the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. \\combinedref{Vafthruthnismol}{37}, and \\combinedref{Skirnismol}{27}.",
             "\\emph{Naglfar:} the ship which was made out of dead men's nails to carry the giants to battle."
         ],
         "translation": [
@@ -1074,7 +1074,7 @@
     },
     {
         "comment": [
-            "\\emph{North:} a guess; the manuscripts have ``east,'' but there seems to be a confusion with stanza 50, line 1.",
+            "\\emph{North:} a guess; the manuscripts have ``east,'' but there seems to be a confusion with stanza \\stanzaref{50}, line 1.",
             "\\emph{People of Hel:} the manuscripts have ``people of Muspell,'' but these came over the bridge Bifrost (the rainbow), which broke beneath them, whereas the people of Hel came in a ship steered by Loki.",
             "\\emph{The wolf:} Fenrir.",
             "\\emph{The brother of Byleist:} Loki.",
@@ -1118,8 +1118,8 @@
         "comment": [
             "\\emph{Hlin:} apparently another name for Frigg, Othin's wife.",
             "After losing her son Baldr, she is fated now to see Othin slain by the wolf Fenrir.",
-            "\\emph{Beli's slayer:} the god Freyr, who killed the giant Beli with his fist; cf. \\emph{Skirnismol,} 16 and note.",
-            "On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially \\emph{Skirnismol, passim.}",
+            "\\emph{Beli's slayer:} the god Freyr, who killed the giant Beli with his fist; cf. \\combinedref{Skirnismol}{16} and note.",
+            "On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially \\combinedref{Skirnismol,} passim.",
             "\\emph{The Joy of Frigg:} Othin."
         ],
         "translation": [
@@ -1161,13 +1161,13 @@
     {
         "comment": [
             "This and the following stanza are clearly in bad shape.",
-            "In \\emph{Regius} only lines I and 4 are found, combined with stanza 56 as a single stanza.",
+            "In \\emph{Regius} only lines I and 4 are found, combined with stanza \\stanzaref{56} as a single stanza.",
             "Line 1 does not appear in the \\emph{Hauksbok} version, the stanza there beginning with line 2.",
-            "Snorri, in quoting these two stanzas, omits 55, 2\\ndash4, and 56, 3, making a single stanza out of 55, 1, and 56, 4, 2, 1, in that order.",
+            "Snorri, in quoting these two stanzas, omits \\stanzaref{55}, 2\\ndash4, and \\stanzaref{56}, 3, making a single stanza out of \\stanzaref{55}, 1, and \\stanzaref{56}, 4, 2, 1, in that order.",
             "Moreover, the \\emph{Hauksbok} manuscript at this point is practically illegible.",
             "The lacuna (line 3) is, of course, purely conjectural, and all sorts of arrangements of the lines have been attempted by editors.",
             "\\emph{Hlothyn:} another name for Jorth (``Earth''), Thor's mother; his father was Othin.",
-            "\\emph{The snake:} Mithgarthsorm; cf. stanza 50 and note.",
+            "\\emph{The snake:} Mithgarthsorm; cf. stanza \\stanzaref{50} and note.",
             "\\emph{Othin's son:} Thor.",
             "The fourth line in Regius reads ``against the wolf,'' but if this line refers to Thor at all, and not to Vithar, the \\emph{Hauksbok} reading, ``serpent,'' is correct."
         ],
@@ -1190,7 +1190,7 @@
             "\\emph{The warder of earth:} Thor.",
             "\\emph{The son of Fjorgyn:} again {[}fp. 24{]} Thor, who, after slaying the serpent, is overcome by his venomous breath, and dies.",
             "Fjorgyn appears in both a masculine and a feminine form.",
-            "In the masculine it is a name for Othin; in the feminine, as here and in \\emph{Harbarthsljoth,} 56, it apparently refers to Jorth."
+            "In the masculine it is a name for Othin; in the feminine, as here and in \\combinedref{Harbarthsljoth}{56}, it apparently refers to Jorth."
         ],
         "translation": [
             "In anger smites{\\sep}the warder of earth,{\\commamdash}",
@@ -1226,7 +1226,7 @@
     },
     {
         "comment": [
-            "Again the refrain-stanza (cf. stanza 44 and note), abbreviated in both manuscripts, as in the case of stanza 49.",
+            "Again the refrain-stanza (cf. stanza \\stanzaref{44} and note), abbreviated in both manuscripts, as in the case of stanza \\stanzaref{49}.",
             "It is probably misplaced here."
         ],
         "translation": [
@@ -1246,7 +1246,7 @@
     {
         "comment": [
             "Here begins the description of the new world which is to rise out of the wreck of the old one.",
-            "It is on this passage that a few critics have sought to base their argument that the poem is later than the introduction of Christianity (circa 1000), but this theory has never seemed convincing (cf. introductory note)."
+            "It is on this passage that a few critics have sought to base their argument that the poem is later than the introduction of Christianity (circa 1000), but this theory has never seemed convincing (cf. {\\hyperref[\\thischapterlabel]{introductory note}})."
         ],
         "translation": [
             "Now do I see{\\sep}the earth anew",
@@ -1265,7 +1265,7 @@
     {
         "comment": [
             "The third line of this stanza is not found in \\emph{Regius.}",
-            "\\emph{Ithavoll:} cf. stanza 7 and note.",
+            "\\emph{Ithavoll:} cf. stanza \\stanzaref{7} and note.",
             "\\emph{The girdler of earth:} Mithgarthsorm: {[}fp. 25{]}, who, lying in the sea, surrounded the land.",
             "\\emph{The Ruler of Gods:} Othin.",
             "The runes were both magic signs, generally carved on wood, and sung or spoken charms."
@@ -1292,7 +1292,7 @@
             "The golden tables{\\sep}amid the grass.''",
             "",
             "No lacuna (line 4) is indicated in the manuscripts.",
-            "\\emph{Golden tables:} cf. stanza 8 and note."
+            "\\emph{Golden tables:} cf. stanza \\stanzaref{8} and note."
         ],
         "translation": [
             "In wondrous beauty{\\sep}once again",
@@ -1310,7 +1310,7 @@
     },
     {
         "comment": [
-            "\\emph{Baldr:} cf. stanza 32 and note.",
+            "\\emph{Baldr:} cf. stanza \\stanzaref{32} and note.",
             "Baldr and his brother, Hoth, who unwittingly slew him at Loki's instigation, return together, their union being a symbol of the new age of peace.",
             "\\emph{Hropt:} another name for Othin.",
             "His ``battle-hall'' is Valhall."
@@ -1332,10 +1332,10 @@
     {
         "comment": [
             "No lacuna (line 2) indicated in the manuscripts.",
-            "\\emph{Hönir:} cf. stanza 18 and note.",
+            "\\emph{Hönir:} cf. stanza \\stanzaref{18} and note.",
             "In this new age he has the gift of foretelling the future.",
             "\\emph{Tveggi} (``The Twofold''): another name for {[}fp. 26{]} Othin.",
-            "His brothers are Vili and Ve (cf. \\emph{Lokasenna,} 26, and note).",
+            "His brothers are Vili and Ve (cf. \\combinedref{Lokasenna}{26}, and note).",
             "Little is known of them, and nothing, beyond this reference, of their sons.",
             "\\emph{Vindheim} (``Home of the Wind''): heaven."
         ],
@@ -1358,7 +1358,7 @@
             "This stanza is quoted by Snorri.",
             "\\emph{Gimle:} Snorri makes this the name of the hall itself, while here it appears to refer to a mountain on which the hall stands.",
             "It is the home of the happy, as opposed to another hall, not here mentioned, for the dead.",
-            "Snorri's description of this second hall is based on \\emph{Voluspo,} 38, which he quotes, and perhaps that stanza properly belongs after 64."
+            "Snorri's description of this second hall is based on \\combinedref{Voluspo}{38}, which he quotes, and perhaps that stanza properly belongs after \\stanzaref{64}."
         ],
         "translation": [
             "More fair than the sun,{\\sep}a hall I see,",
@@ -1405,7 +1405,7 @@
             "It has been suggested that the dragon, making a last attempt to rise, is destroyed, this event marking the end of evil in the world.",
             "But in both manuscripts the final half-line does not refer to the dragon, but, as the gender shows, to the Volva herself, who sinks into the earth; a sort of conclusion to the entire prophecy.",
             "Presumably the stanza (barring the last half-line, which was probably intended as the conclusion of the poem) belongs somewhere in the description of the great struggle.",
-            "\\emph{Nithhogg:} the dragon at the roots of Yggdrasil; cf. stanza 39 and note.",
+            "\\emph{Nithhogg:} the dragon at the roots of Yggdrasil; cf. stanza \\stanzaref{39} and note.",
             "\\emph{Nithafjoll} (``the Dark Crags''); nowhere else mentioned.",
             "\\emph{Must I:} the manuscripts have ``must she.''"
         ],
