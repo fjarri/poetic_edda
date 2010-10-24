@@ -14,6 +14,7 @@ def sequence(contents):
 
 		res += u"\\mystanzapair % Stanza " + unicode(number) + u"\n" + \
 			(u"[" + comment + u"]\n" if comment is not None else u"") + \
+			u"{" + unicode(number) + u"}" + \
 			u"{\n" + original + u"}\n{\n" + translation + u"}\n\n"
 
 	return res

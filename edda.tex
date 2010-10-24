@@ -141,32 +141,29 @@
 % Stanza magic
 % ======================================================================
 
-\newcounter{StanzaCounter}[chapter] % main counter for stanzas, is reset at the start of the chapter
-
 % in case you want to change the way stanza number is displayed
 \newcommand{\displaystanzanum}[1]{{\large\textbf{#1}}}
 
-\newcommand{\mystanzapair}[3][\@empty]{
+\newcommand{\mystanzapair}[4][\@empty]{
 
-\stepcounter{StanzaCounter} 
 \vskip 1em
 
 \hskip -2\parindent %
 %\noindent
 \begin{tabular}{@{} p{\parindent} @{} p{0.5\textwidth} @{} p{0.5\textwidth}}
 
-\displaystanzanum{\theStanzaCounter}
+\displaystanzanum{#2}
 
 &
 
 \begin{minipage}[t]{0.48\textwidth}
-\texticelandic{#2}
+\texticelandic{#3}
 \end{minipage}
 
 &
 
 \begin{minipage}[t]{0.5\textwidth}
-\textenglish{#3}
+\textenglish{#4}
 \end{minipage} 
 
 \end{tabular}
@@ -185,8 +182,9 @@
 \let\myfootnotetext\footnotetext
 \renewcommand{\footnotetext}[2][\thefootnote]{\myfootnotetext[#1]{~#2}}
 
-\newcommand{\eddachapter}[2]{
-	\addchap{\texticelandic{#1} (#2)}}
+\newcommand{\eddachapter}[3]{
+	\addchap{#1 (#3)}
+}
 	
 \newcommand{\lacuna}{. . .}
 
@@ -333,7 +331,7 @@ The forms in which the proper names appear in this translation will undoubtedly 
 
 That this translation may be of some value to those who can read the poems of the \emph{Edda} in the original language I earnestly hope. Still more do I wish that it may lead a few who hitherto have given little thought to the Old Norse language and literature to master the tongue for themselves. But far above either of these I place the hope that this English version may give to some, who have known little of the ancient traditions of what is after all their own race, a clearer insight into the glories of that extraordinary past, and that I may through this medium be able to bring to others a small part of the delight which I myself have found in the poems of the \emph{Poetic Edda.}
 
-\eddachapter{Völuspá}{The Wise-Woman's Prophecy}
+\eddachapter{Völuspá}{Voluspo}{The Wise-Woman's Prophecy}
 
 At the beginning of the collection in the \emph{Codex Regius} stands the Voluspo, the most famous and important, as it is likewise the most debated, of all the Eddic poems. Another version of it is found in a huge miscellaneous compilation of about the year 1300, the \emph{Hauksbok,} and many stanzas are included in the \emph{Prose Edda} of Snorri Sturluson. The order of the stanzas in the \emph{Hauksbok} version differs materially from that in the \emph{Codex Regius,} and in the published editions many experiments have been attempted in further rearrangements. On the whole, how ever, and allowing for certain interpolations, the order of the stanzas in the \emph{Codex Regius} seems more logical than any of the wholesale ``improvements'' which have been undertaken.
 
