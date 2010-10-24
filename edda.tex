@@ -235,6 +235,26 @@
 
 \maketitle
 
+\frontmatter
+
+\clearpage
+\begingroup
+
+	% Disable page numbers
+	\pagestyle{empty}
+	\renewcommand*{\chapterpagestyle}{empty}
+	\tocloftpagestyle{empty} % due to tocloft package, ToC is not affected by common page style
+
+	\renewcommand{\@pnumwidth}{\tocnumwidth}
+	\renewcommand{\@tocrmarg}{\tocmarginwidth plus1fil} % make ToC flushed to the left
+
+	\begin{spacing}{\tocspacing}
+	\tableofcontents
+	\end{spacing}
+
+\clearpage
+\endgroup
+
 \mainmatter
 
 \addchap{General Introduction}
