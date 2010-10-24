@@ -185,7 +185,9 @@
 \renewcommand{\footnotetext}[2][\thefootnote]{\myfootnotetext[#1]{~#2}}
 
 \newcommand{\eddachapter}[3]{
-	\addchap{#1 (#3)}
+	\addchap[#1 (#3)]{#1}
+	{\Large #3}
+	\vskip 1em
 	\newcommand{\thischapterlabel}{cha:#2}
 	\label{\thischapterlabel}
 
