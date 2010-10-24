@@ -5,4 +5,5 @@
 *.out
 *.gz
 *.gz(busy)
+*.toc
 
