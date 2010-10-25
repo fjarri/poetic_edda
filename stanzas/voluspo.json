@@ -233,7 +233,7 @@
     {
         "comment": [
             "The order of the lines in this and the succeeding four stanzas varies greatly in the manuscripts and editions, and the names likewise appear in many forms.",
-            "\\emph{Regin:} probably not identical with Regin the son of Hreithmar, who plays an important part in the \\emph{Reginsmol} and \\emph{Fafnismol,} but cf. note on \\emph{Reginsmol,} introductory prose."
+            "\\emph{Regin:} probably not identical with Regin the son of Hreithmar, who plays an important part in the \\chapterref{Reginsmol} and \\chapterref{Fafnismol,} but cf. note on \\chapterref{Reginsmol,} introductory prose."
         ],
         "translation": [
             "Vigg and Gandalf,{\\sep}Vindalf, Thrain,",
