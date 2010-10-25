@@ -146,13 +146,14 @@
 
 \newcommand{\mystanzapair}[4][\@empty]{
 
-\vskip 1em
-\hskip -2\parindent
-\begin{tabular}{@{} p{\parindent} @{} p{0.5\textwidth} @{} p{0.5\textwidth}}
-
-\displaystanzanum{#2}
 \phantomsection
 \label{\thischapterlabel:#2}
+
+\vskip 1em
+\hskip -3\parindent
+\begin{tabular}{@{} r @{} p{0.5\textwidth} @{} p{0.5\textwidth}}
+
+\makebox[2\parindent][r]{\displaystanzanum{#2}\,}
 
 &
 
