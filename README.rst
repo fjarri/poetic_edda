@@ -19,20 +19,27 @@ This will help if I ever decide to start using ``ledmac`` and ``ledpar`` package
 Release history
 ---------------
 
+~~~~~~~~~~~~~~~~~~~~~
+Voluspo (26 Oct 2010)
+~~~~~~~~~~~~~~~~~~~~~
+
+* Created base structure of the document;
+* Only A4 format is supported;
+* Added introduction and Voluspo chapter.
+
 ~~~~~~~~~~~~~~~~~
-Voluspo (planned)
+Hovamol (planned)
 ~~~~~~~~~~~~~~~~~
 
-* Create base structure of the document (select fonts, write macros, build script etc);
-* Support only A4 format
-* Add introduction and Voluspo chapter.
+* Add Hovamol chapter and pronounciation guide;
+* Generalize build script;
+* Try to find better font combination.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add all remaining chapters;
-* Add pronounciation guide;
 * Add support for different paper sizes (in particular, try to typeset a proper book);
-* Try to use footnotes instead of normal text for comments.
-
+* Try to use footnotes instead of normal text for comments;
+* Probably make build script run xelatex too?
