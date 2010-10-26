@@ -4,7 +4,7 @@ Poetic Edda diglot
 
 This project aims at producing the book with parallel Icelandic and English texts of Poetic Edda.
 I am using the translation by Henry Adams Bellows,
-because it is considered to be quite accurate and has detailed comments. 
+because it is considered to be quite accurate and has detailed comments.
 As for the original text, at the moment of writing this I am using
 `this page <http://notendur.hi.is/eybjorn/>`_ as a primary source,
 and `Saemunar Edda <http://etext.old.no/Bugge/>`_ by Sophus Bugge as a secondary one
@@ -14,6 +14,13 @@ if this is the case, do not hesitate to tell me about it).
 This book is built by XeLaTeX, with most of the .tex files produced
 from JSON data in ``stanzas`` directory by ``build.py`` script.
 This will help if I ever decide to start using ``ledmac`` and ``ledpar`` packages again.
+
+------------------
+Sources by chapter
+------------------
+
+* Voluspo: http://notendur.hi.is/eybjorn/ugm/voluspa/vsp3.html
+* Hovamol:
 
 ---------------
 Release history
