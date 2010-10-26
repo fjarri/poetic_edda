@@ -146,7 +146,7 @@
 % ======================================================================
 
 % in case you want to change the way stanza number is displayed
-\newcommand{\displaystanzanum}[1]{{\large\textbf{#1.}}}
+\newcommand{\displaystanzanum}[1]{{\numberfont\large\textbf{#1.}}}
 
 \newcommand{\mystanzapair}[4][\@empty]{
 
@@ -162,13 +162,13 @@
 &
 
 \begin{minipage}[t]{0.48\textwidth}
-\texticelandic{#3}
+\texticelandic{\stanzafont#3}
 \end{minipage}
 
 &
 
 \begin{minipage}[t]{0.5\textwidth}
-\textenglish{#4}
+\textenglish{\stanzafont#4}
 \end{minipage} 
 
 \end{tabular}
@@ -176,7 +176,7 @@
 \ifx\@empty#1
 \else
 \vskip 1em
-\noindent#1
+\commentfont\noindent#1
 \vskip 1em
 
 \fi
