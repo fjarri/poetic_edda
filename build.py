@@ -1,26 +1,39 @@
 import json
 import codecs
+import os, os.path
 
 
-def sequence(contents):
+def printStanzaPair(block):
 
-	res = u""
+	number = block['number']
+	original = u" \\\\\n".join(block['original'])
+	translation = u" \\\\\n".join(block['translation'])
+	comment = u"\n".join(block['comment']) if block['comment'] is not None else None
 
-	for i, stanza in enumerate(contents):
-		number = stanza['number']
-		original = u" \\\\\n".join(stanza['original'])
-		translation = u" \\\\\n".join(stanza['translation'])
-		comment = u"\n".join(stanza['comment']) if stanza['comment'] is not None else None
+	return u"\\mystanzapair % Stanza " + unicode(number) + u"\n" + \
+		(u"[" + comment + u"]\n" if comment is not None else u"") + \
+		u"{" + unicode(number) + u"}" + \
+		u"{\n" + original + u"}\n{\n" + translation + u"}"
 
-		res += u"\\mystanzapair % Stanza " + unicode(number) + u"\n" + \
-			(u"[" + comment + u"]\n" if comment is not None else u"") + \
-			u"{" + unicode(number) + u"}" + \
-			u"{\n" + original + u"}\n{\n" + translation + u"}\n\n"
+def printText(block):
+	return block['text']
 
-	return res
+handlers = {
+	'stanza pair': printStanzaPair,
+	'text': printText
+}
 
-voluspo = json.load(open("stanzas/voluspo.json"))
-f = codecs.open("voluspo.tex", "w", "utf-8")
-f.write(sequence(voluspo))
-f.close()
+filenames = os.listdir('stanzas')
+
+for filename in filenames:
+	name, ext = os.path.splitext(filename)
+	if ext != '.json':
+		continue
+
+	blocks = json.load(codecs.open("stanzas/" + filename, "r", "utf-8"))
+	res = u"\n\n".join([handlers[block['type']](block) for block in blocks])
+
+	f = codecs.open(name + ".tex", "w", "utf-8")
+	f.write(res)
+	f.close()
 
