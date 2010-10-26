@@ -1,40 +1,42 @@
 [
     {
-	"text": [
-		"\\eddachapter{Hávamál}{Hovamol}{The Ballad of the High One}",
-		"",
-		"This poem follows the \\chapterref{Voluspo} in the \\emph{Codex Regius,} but is preserved in no other manuscript.",
-		"The first stanza is quoted by Snorri, and two lines of stanza \\stanzaref{84} appear in one of the sagas.",
-		"",
-		"In its present shape it involves the critic of the text in more puzzles than any other of the Eddic poems.",
-		"Without going in detail into the various theories, what happened seems to have been somewhat as follows.",
-		"There existed from very early times a collection of proverbs and wise counsels, which were attributed to Othin just as the Biblical proverbs were to Solomon.",
-		"This collection, which presumably was always elastic in extent, was known as ``The High One's Words,'' and forms the basis of the present poem.",
-		"To it, however, were added other poems and fragments dealing with wisdom which seemed by their nature to imply that the speaker was Othin.",
-		"Thus a catalogue of runes, or charms, was tacked on, and also a set of proverbs, differing essentially in form from those comprising the main collection.",
-		"Here and there bits of verse more nearly narrative crept in; and of course the loose structure of the poem made it easy for any reciter to insert new stanzas almost at will.",
-		"This curious miscellany is what we now have as the \\chapterref{Hovamol.}",
-		"",
-		"Five separate elements are pretty clearly recognizable: (1) the \\emph{Hovamol} proper (stanzas \\stanzarangeref{1}{80}), a collection of proverbs and counsels for the conduct of life; (2) the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}), a collection somewhat similar to the first, but specific ally addressed to a certain Loddfafnir; (3) the \\emph{Ljothatal} (stanzas \\stanzarangeref{147}{165}), a collection of charms; (4) the love-story of Othin and Billing's daughter (stanzas \\stanzarangeref{96}{102}), with an introductory dissertation on the faithlessness of women in general (stanzas \\stanzarangeref{81}{95}), which probably crept into the poem first, and then pulled the story, as an apt illustration, after it; (5) the story of how Othin got the mead of poetry{\\mdash}the draught which gave him the gift of tongues{\\mdash}from the maiden Gunnloth (stanzas \\stanzarangeref{103}{110}).",
-		"There is also a brief passage (stanzas \\stanzarangeref{139}{146}) telling how Othin won the runes, this passage being a natural introduction to the \\emph{Ljothatal,} and doubtless brought into the poem for that reason.",
-		"",
-		"It is idle to discuss the authorship or date of such a series of accretions as this.",
-		"Parts of it are doubtless among the oldest relics of ancient Germanic poetry; parts of it may have originated at a relatively late period.",
-		"Probably, however, most of its component elements go pretty far back, although we have no way of telling how or when they first became associated.",
-		"",
-		"It seems all but meaningless to talk about ``interpolations'' in a poem which has developed almost solely through the process of piecing together originally unrelated odds and ends.",
-		"The notes, therefore, make only such suggestions as are needed to keep the main divisions of the poem distinct.",
-		"",
-		"Few gnomic collections in the world's literary history present sounder wisdom more tersely expressed than the \\chapterref{Hovamol.}",
-		"Like the Book of Proverbs it occasionally rises to lofty heights of poetry.",
-		"If it presents the worldly wisdom of a violent race, it also shows noble ideals of loyalty, truth, and unfaltering courage.",
-		"",
-		"\\sepline"
-	],
-	"type": "text"
+        "text": [
+            "\\eddachapter{Hávamál}{Hovamol}{The Ballad of the High One}",
+            "",
+            "This poem follows the \\chapterref{Voluspo} in the \\emph{Codex Regius,} but is preserved in no other manuscript.",
+            "The first stanza is quoted by Snorri, and two lines of stanza \\stanzaref{84} appear in one of the sagas.",
+            "",
+            "In its present shape it involves the critic of the text in more puzzles than any other of the Eddic poems.",
+            "Without going in detail into the various theories, what happened seems to have been somewhat as follows.",
+            "There existed from very early times a collection of proverbs and wise counsels, which were attributed to Othin just as the Biblical proverbs were to Solomon.",
+            "This collection, which presumably was always elastic in extent, was known as ``The High One's Words,'' and forms the basis of the present poem.",
+            "To it, however, were added other poems and fragments dealing with wisdom which seemed by their nature to imply that the speaker was Othin.",
+            "Thus a catalogue of runes, or charms, was tacked on, and also a set of proverbs, differing essentially in form from those comprising the main collection.",
+            "Here and there bits of verse more nearly narrative crept in; and of course the loose structure of the poem made it easy for any reciter to insert new stanzas almost at will.",
+            "This curious miscellany is what we now have as the \\chapterref{Hovamol.}",
+            "",
+            "Five separate elements are pretty clearly recognizable: (1) the \\emph{Hovamol} proper (stanzas \\stanzarangeref{1}{80}), a collection of proverbs and counsels for the conduct of life; (2) the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}), a collection somewhat similar to the first, but specific ally addressed to a certain Loddfafnir; (3) the \\emph{Ljothatal} (stanzas \\stanzarangeref{147}{165}), a collection of charms; (4) the love-story of Othin and Billing's daughter (stanzas \\stanzarangeref{96}{102}), with an introductory dissertation on the faithlessness of women in general (stanzas \\stanzarangeref{81}{95}), which probably crept into the poem first, and then pulled the story, as an apt illustration, after it; (5) the story of how Othin got the mead of poetry{\\mdash}the draught which gave him the gift of tongues{\\mdash}from the maiden Gunnloth (stanzas \\stanzarangeref{103}{110}).",
+            "There is also a brief passage (stanzas \\stanzarangeref{139}{146}) telling how Othin won the runes, this passage being a natural introduction to the \\emph{Ljothatal,} and doubtless brought into the poem for that reason.",
+            "",
+            "It is idle to discuss the authorship or date of such a series of accretions as this.",
+            "Parts of it are doubtless among the oldest relics of ancient Germanic poetry; parts of it may have originated at a relatively late period.",
+            "Probably, however, most of its component elements go pretty far back, although we have no way of telling how or when they first became associated.",
+            "",
+            "It seems all but meaningless to talk about ``interpolations'' in a poem which has developed almost solely through the process of piecing together originally unrelated odds and ends.",
+            "The notes, therefore, make only such suggestions as are needed to keep the main divisions of the poem distinct.",
+            "",
+            "Few gnomic collections in the world's literary history present sounder wisdom more tersely expressed than the \\chapterref{Hovamol.}",
+            "Like the Book of Proverbs it occasionally rises to lofty heights of poetry.",
+            "If it presents the worldly wisdom of a violent race, it also shows noble ideals of loyalty, truth, and unfaltering courage.",
+            "",
+            "\\sepline"
+        ],
+        "type": "text"
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza is quoted by Snorri, the second line being omitted in most of the \\emph{Prose Edda manuscripts.}"
+        ],
         "translation": [
             "Within the gates{\\sep}ere a man shall go,",
             "(Full warily let him watch,)",
@@ -47,7 +49,9 @@
         "number": 1
     },
     {
-        "comment": null,
+        "comment": [
+            "Probably the first and second lines had originally nothing to do with the third and fourth, the last two not referring to host or guest, but to the general danger of backing one's views with the sword."
+        ],
         "translation": [
             "Hail to the giver!{\\sep}a guest has come;",
             "Where shall the stranger sit?",
@@ -95,7 +99,9 @@
         "number": 5
     },
     {
-        "comment": null,
+        "comment": [
+            "Lines 5 and 6 appear to have been added to the stanza."
+        ],
         "translation": [
             "A man shall not boast{\\sep}of his keenness of mind,",
             "But keep it close in his breast;",
@@ -169,7 +175,9 @@
         "number": 11
     },
     {
-        "comment": null,
+        "comment": [
+            "Some editors have combined this stanza in various ways with the last two lines of stanza it, as in the manuscript the first two lines of the latter are abbreviated, and, if they belong there at all, are presumably identical with the first two lines of stanza \\stanzaref{10}."
+        ],
         "translation": [
             "Less good there lies{\\sep}than most believe",
             "In ale for mortal men;",
@@ -181,7 +189,11 @@
         "number": 12
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{The heron:} the bird of forgetfulness, referred to in line 1.",
+            "\\emph{Gunnloth:} the daughter of the giant Suttung, from whom Othin won the mead of poetry.",
+            "For this episode see stanzas \\stanzarangeref{104}{110}."
+        ],
         "translation": [
             "Over beer the bird{\\sep}of forgetfulness broods,",
             "And steals the minds of men;",
@@ -193,7 +205,10 @@
         "number": 13
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Fjalar:} apparently another name for Suttung.",
+            "This stanza, and probably \\stanzaref{13}, seem to have been inserted as illustrative."
+        ],
         "translation": [
             "Drunk I was,{\\sep}I was dead-drunk,",
             "When with Fjalar wise I was;",
@@ -325,7 +340,9 @@
         "number": 24
     },
     {
-        "comment": null,
+        "comment": [
+            "The first two lines are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza \\stanzaref{24}."
+        ],
         "translation": [
             "The foolish man{\\sep}for friends all those",
             "Who laugh at him will hold;",
@@ -349,7 +366,9 @@
         "number": 26
     },
     {
-        "comment": null,
+        "comment": [
+            "The last two lines were probably added as a commentary on lines 3 and 4."
+        ],
         "translation": [
             "A witless man,{\\sep}when he meets with men,",
             "Had best in silence abide;",
@@ -459,7 +478,9 @@
         "number": 35
     },
     {
-        "comment": null,
+        "comment": [
+            "The manuscript has ``little'' in place of ``a hut'' in line 1, but this involves an error in the initial-rhymes, and the emendation has been generally accepted."
+        ],
         "translation": [
             "Better a house,{\\sep}though a hut it be,",
             "A man is master at home;",
@@ -471,7 +492,9 @@
         "number": 36
     },
     {
-        "comment": null,
+        "comment": [
+            "Lines 1 and 2 are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza \\stanzaref{56}."
+        ],
         "translation": [
             "Better a house,{\\sep}though a hut it be,",
             "A man is master at home;",
@@ -495,7 +518,9 @@
         "number": 38
     },
     {
-        "comment": null,
+        "comment": [
+            "In the manuscript this stanza follows stanza \\stanzaref{40}."
+        ],
         "translation": [
             "If wealth a man{\\sep}has won for himself,",
             "Let him never suffer in need;",
@@ -507,7 +532,9 @@
         "number": 39
     },
     {
-        "comment": null,
+        "comment": [
+            "The key-word in line 3 is missing in the manuscript, but editors have agreed in inserting a word meaning ``generous.''"
+        ],
         "translation": [
             "None so free with gifts{\\sep}or food have I found",
             "That gladly he took not a gift,",
@@ -519,7 +546,9 @@
         "number": 40
     },
     {
-        "comment": null,
+        "comment": [
+            "In line 3 the manuscript adds ``givers again'' to ``gift-givers.''"
+        ],
         "translation": [
             "Friends shall gladden each other{\\sep}with arms and garments,",
             "As each for himself can see;",
@@ -631,7 +660,7 @@
         "translation": [
             "On the hillside drear{\\sep}the fir-tree dies,",
             "All bootless its needles and bark;",
-            "It is like a man{\\sep}whom no one loves,--",
+            "It is like a man{\\sep}whom no one loves,{\\commamdash}",
             "Why should his life be long?"
         ],
         "type": "stanza pair",
@@ -687,7 +716,9 @@
         "number": 54
     },
     {
-        "comment": null,
+        "comment": [
+            "Here and in stanza \\stanzaref{56}, the first pairs of lines are abbreviated in the manuscript."
+        ],
         "translation": [
             "A measure of wisdom{\\sep}each man shall have,",
             "But never too much let him know;",
@@ -759,7 +790,9 @@
         "number": 60
     },
     {
-        "comment": null,
+        "comment": [
+            "The fifth line is probably a spurious addition."
+        ],
         "translation": [
             "Washed and fed{\\sep}to the council fare,",
             "But care not too much for thy clothes;",
@@ -772,7 +805,9 @@
         "number": 61
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza follows stanza \\stanzaref{63} in the manuscript, but there are marks therein indicating the transposition."
+        ],
         "translation": [
             "When the eagle comes{\\sep}to the ancient sea,",
             "He snaps and hangs his head;",
@@ -788,7 +823,7 @@
         "translation": [
             "To question and answer{\\sep}must all be ready",
             "Who wish to be known as wise;",
-            "Tell one thy thoughts,{\\sep}but beware of two,--",
+            "Tell one thy thoughts,{\\sep}but beware of two,{\\commamdash}",
             "All know what is known to three."
         ],
         "type": "stanza pair",
@@ -808,10 +843,15 @@
         "number": 64
     },
     {
-        "comment": null,
+        "comment": [
+            "The manuscript indicates no lacuna (lines 1 and 2).",
+            "Many editors have filled out the stanza with two lines from late paper manuscripts, the passage running:",
+            "\\myverse{A man must be watchful | and wary as well, \\\\",
+            "And fearful of trusting a friend.}"
+        ],
         "translation": [
-            "    .    .    .    .    .    .    .    .    .",
-            ".    .    .    .    .    .    .    .    .    .",
+            "\\lacuna",
+            "\\lacuna",
             "Oft for the words{\\sep}that to others one speaks",
             "He will get but an evil gift."
         ],
@@ -868,7 +908,9 @@
         "number": 69
     },
     {
-        "comment": null,
+        "comment": [
+            "The manuscript has ``and a worthy life'' in place of ``than to lie a corpse'' in line 1, but Rask suggested the emendation as early as 1818, and most editors have followed him."
+        ],
         "translation": [
             "It is better to live{\\sep}than to lie a corpse,",
             "The live man catches the cow;",
@@ -914,7 +956,12 @@
         "number": 73
     },
     {
-        "comment": null,
+        "comment": [
+            "These (\\stanzarangeref{73}{74}) seven lines are obviously a jumble.",
+            "The two lines of stanza \\stanzaref{73} not only appear out of place, but the verse form is unlike that of the surrounding stanzas.",
+            "In \\stanzaref{74}, the second line is clearly interpolated, and line I has little enough connection with lines 3, 4 and 5.",
+            "It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place."
+        ],
         "translation": [
             "He welcomes the night{\\sep}whose fare is enough,",
             "(Short are the yards of a ship,)",
@@ -927,7 +974,10 @@
         "number": 74
     },
     {
-        "comment": null,
+        "comment": [
+            "The word ``gold'' in line 2 is more or less conjectural, the manuscript being obscure.",
+            "The reading in line 4 is also doubtful."
+        ],
         "translation": [
             "A man knows not,{\\sep}if nothing he knows,",
             "That gold oft apes begets;",
@@ -939,9 +989,12 @@
         "number": 75
     },
     {
-        "comment": null,
+        "comment": [
+            "in the manuscript this stanza follows \\stanzaref{79}, the order being: \\stanzaref{77}, \\stanzaref{78}, \\stanzaref{76}, \\stanzaref{80}, \\stanzaref{79}, \\stanzaref{81}.",
+            "\\emph{Fitjung} (``the Nourisher''): Earth."
+        ],
         "translation": [
-            "Among Fitjung's sons{\\sep}saw I well-stocked folds,--",
+            "Among Fitjung's sons{\\sep}saw I well-stocked folds,{\\commamdash}",
             "Now bear they the beggar's staff;",
             "Wealth is as swift{\\sep}as a winking eye,",
             "Of friends the falsest it is."
@@ -975,13 +1028,20 @@
         "number": 78
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza is certainly in bad shape, and probably out of place here.",
+            "Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the \\emph{Ljothatal} (stanzas \\stanzarangeref{147}{165}).",
+            "The stanza-form is so irregular as to show either that something has been lost or that there have been interpolations.",
+            "The manuscript indicates no lacuna; Gering fills out the assumed gap as follows:",
+            "\\myverse{Certain is that which is sought from runes, \\\\",
+            "The runes{\\mdash}, etc.}"
+        ],
         "translation": [
             "Certain is that{\\sep}which is sought from runes,",
             "That the gods so great have made,",
             "And the Master-Poet painted;",
-            ".    .    .    .    .    .    .    .    .    .",
-            ".    .    .    .    .     of the race of gods:",
+            "\\lacuna",
+            "\\lacuna{\\sep}of the race of gods:",
             "Silence is safest and best."
         ],
         "type": "stanza pair",
@@ -1007,7 +1067,16 @@
         "type": "text"
     },
     {
-        "comment": null,
+        "comment": [
+            "With this stanza the verse-form, as indicated in the translation, abruptly changes to Malahattr.",
+            "What has happened seems to have been something like this.",
+            "Stanza \\stanzaref{80} introduces the idea of man's love for woman.",
+            "Consequently some reciter or compiler (or possibly even a copyist) took occasion to insert at this point certain stanzas concerning the ways of women.",
+            "Thus stanza \\stanzaref{80} would account for the introduction of stanzas \\stanzaref{81} and \\stanzaref{82}, which, in turn, apparently drew stanza \\stanzaref{83} in with them.",
+            "Stanza \\stanzaref{84} suggests the fickleness of women, and is immediately followed{\\mdash}again with a change of verse-form{\\mdash}by a list of things equally untrustworthy (stanzas \\stanzarangeref{85}{90}).",
+            "Then, after a few more stanzas on love in the regular measure of the \\chapterref{Hovamol} (stanza \\stanzarangeref{91}{95}), is introduced, by way of illustration, Othin's story of his adventure with Billing's daughter (stanzas \\stanzarangeref{96}{102}).",
+            "Some such process of growth, whatever its specific stages may have been, must be assumed to account for the curious chaos of the whole passage from stanza \\stanzaref{81} to stanza \\stanzaref{102}."
+        ],
         "translation": [
             "Give praise to the day at evening,{\\sep}to a woman on her pyre,",
             "To a weapon which is tried,{\\sep}to a maid at wed lock,",
@@ -1047,7 +1116,9 @@
         "type": "text"
     },
     {
-        "comment": null,
+        "comment": [
+            "Lines 3 and 4 are quoted in the \\emph{Fostbræthrasaga.}"
+        ],
         "translation": [
             "A man shall trust not{\\sep}the oath of a maid,",
             "Nor the word a woman speaks;",
@@ -1059,7 +1130,9 @@
         "number": 84
     },
     {
-        "comment": null,
+        "comment": [
+            "Stanzas \\stanzarangeref{85}{88} and go are in Fornyrthislag, and clearly come from a different source from the rest of the \\chapterref{Hovamol.}"
+        ],
         "translation": [
             "In a breaking bow{\\sep}or a burning flame,",
             "A ravening wolf{\\sep}or a croaking raven,",
@@ -1083,7 +1156,12 @@
         "number": 86
     },
     {
-        "comment": null,
+        "comment": [
+            "The stanza is doubtless incomplete.",
+            "Some editors add from a late paper manuscript two lines running:",
+            "\\myverse{In a light, clear sky{\\sep}or a laughing throng, \\\\",
+            "In the bowl of a dog{\\sep}or a harlot's grief!}"
+        ],
         "translation": [
             "In a calf that is sick{\\sep}or a stubborn thrall,",
             "A flattering witch{\\sep}or a foe new slain."
@@ -1093,11 +1171,14 @@
         "number": 87
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza follows stanza \\stanzaref{89} in the manuscript.",
+            "Many editors have changed the order, for while stanza \\stanzaref{89} is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between \\stanzaref{87} and \\stanzaref{88}."
+        ],
         "translation": [
             "In a brother's slayer,{\\sep}if thou meet him abroad,",
-            "In a half-burned house,{\\sep}in a horse full swift--",
-            "One leg is hurt{\\sep}and the horse is useless--",
+            "In a half-burned house,{\\sep}in a horse full swift{\\mdash}",
+            "One leg is hurt{\\sep}and the horse is useless{\\mdash}",
             "None had ever such faith{\\sep}as to trust in them all."
         ],
         "type": "stanza pair",
@@ -1202,7 +1283,10 @@
         "number": 95
     },
     {
-        "comment": null,
+        "comment": [
+            "Here begins the passage (stanzas \\stanzarangeref{96}{102}) illustrating the falseness of woman by the story of Othin's unsuccessful love affair with Billing's daughter.",
+            "Of this person we know nothing beyond what is here told, but the story needs little comment."
+        ],
         "translation": [
             "This found I myself,{\\sep}when I sat in the reeds,",
             "And long my love awaited;",
@@ -1418,7 +1502,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,---",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Rise not at night,{\\sep}save if news thou seekest,",
@@ -1431,7 +1515,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Beware of sleep{\\sep}on a witch's bosom,",
@@ -1456,7 +1540,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Seek never to win{\\sep}the wife of another,",
@@ -1469,7 +1553,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "If o'er mountains or gulfs{\\sep}thou fain wouldst go,",
@@ -1482,7 +1566,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "An evil man{\\sep}thou must not let",
@@ -1509,7 +1593,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "If a friend thou hast{\\sep}whom thou fully wilt trust,",
@@ -1524,7 +1608,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "A good man find{\\sep}to hold in friendship,",
@@ -1552,7 +1636,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Exchange of words{\\sep}with a witless ape",
@@ -1589,7 +1673,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "With a worse man speak not{\\sep}three words in dispute,",
@@ -1618,7 +1702,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "If evil thou knowest,{\\sep}as evil proclaim it,",
@@ -1631,7 +1715,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "In evil never{\\sep}joy shalt thou know,",
@@ -1644,11 +1728,11 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
-            "Look not up{\\sep}when the battle is on,--",
-            "(Like madmen the sons{\\sep}of men become,--)",
+            "Look not up{\\sep}when the battle is on,{\\commamdash}",
+            "(Like madmen the sons{\\sep}of men become,{\\commamdash})",
             "Lest men bewitch thy wits."
         ],
         "type": "stanza pair",
@@ -1712,7 +1796,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Scorn not ever{\\sep}the gray-haired singer,",
@@ -1731,7 +1815,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Curse not thy guest,{\\sep}nor show him thy gate,",
@@ -1756,7 +1840,7 @@
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "When ale thou drinkest){\\sep}seek might of earth,",
@@ -1883,7 +1967,7 @@
             "Better no prayer{\\sep}than too big an offering,",
             "By thy getting measure thy gift;",
             "Better is none{\\sep}than too big a sacrifice,",
-            ".    .    .    .    .    .    .    .    .    .",
+            "\\lacuna",
             "So Thund of old wrote{\\sep}ere man's race began,",
             "Where he rose on high{\\sep}when home he came."
         ],
@@ -1914,8 +1998,8 @@
         "translation": [
             "A second I know,{\\sep}that men shall need",
             "Who leechcraft long to use;",
-            ".    .    .    .    .    .    .    .    .    .",
-            ".    .    .    .    .    .    .    .    .    ."
+            "\\lacuna",
+            "\\lacuna"
         ],
         "type": "stanza pair",
         "original": "",
@@ -2099,8 +2183,8 @@
         "translation": [
             "A seventeenth I know,{\\sep}so that seldom shall go",
             "A maiden young from me;",
-            ".    .    .    .    .    .    .    .    .    .",
-            ".    .    .    .    .    .    .    .    .    ."
+            "\\lacuna",
+            "\\lacuna"
         ],
         "type": "stanza pair",
         "original": "",
@@ -2123,9 +2207,9 @@
         "comment": null,
         "translation": [
             "An eighteenth I know,{\\sep}that ne'er will I tell",
-            "To maiden or wife of man,--",
+            "To maiden or wife of man,{\\commamdash}",
             "The best is what none{\\sep}but one's self doth know,",
-            "So comes the end of the songs,--",
+            "So comes the end of the songs,{\\commamdash}",
             "Save only to her{\\sep}in whose arms I lie,",
             "Or who else my sister is."
         ],
