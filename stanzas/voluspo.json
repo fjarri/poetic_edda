@@ -16,6 +16,7 @@
             "Thou wilt, Valfather,{\\sep}that well I relate",
             "Old tales I remember{\\sep}of men long ago."
         ],
+        "type": "stanza pair",
         "number": 1,
         "original": [
             "Hljóðs bið ek allar{\\sep}helgar kindir,",
@@ -35,6 +36,7 @@
             "Nine worlds I knew,{\\sep}the nine in the tree",
             "With mighty roots{\\sep}beneath the mold."
         ],
+        "type": "stanza pair",
         "number": 2,
         "original": [
             "Ek man jötna{\\sep}ár um borna,",
@@ -55,6 +57,7 @@
             "Earth had not been,{\\sep}nor heaven above,",
             "But a yawning gap,{\\sep}and grass nowhere."
         ],
+        "type": "stanza pair",
         "number": 3,
         "original": [
             "Ár var alda{\\sep}þar er Ymir byggði,",
@@ -77,6 +80,7 @@
             "The sun from the south{\\sep}warmed the stones of earth,",
             "And green was the ground{\\sep}with growing leeks."
         ],
+        "type": "stanza pair",
         "number": 4,
         "original": [
             "Áðr Burs synir{\\sep}bjöðum um yppðu,",
@@ -99,6 +103,7 @@
             "The moon knew not{\\sep}what might was his,",
             "The stars knew not{\\sep}where their stations were."
         ],
+        "type": "stanza pair",
         "number": 5,
         "original": [
             "Sól varp sunnan,{\\sep}sinni mána,",
@@ -120,6 +125,7 @@
             "Morning they named,{\\sep}and the waning moon,",
             "Night and evening,{\\sep}the years to number."
         ],
+        "type": "stanza pair",
         "number": 6,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
@@ -139,6 +145,7 @@
             "Forges they set, and{\\sep}they smithied ore,",
             "Tongs they wrought,{\\sep}and tools they fashioned."
         ],
+        "type": "stanza pair",
         "number": 7,
         "original": [
             "Hittusk æsir{\\sep}á Iðavelli,",
@@ -161,6 +168,7 @@
             "Till thither came{\\sep}up giant-maids three,",
             "Huge of might,{\\sep}out of Jotunheim."
         ],
+        "type": "stanza pair",
         "number": 8,
         "original": [
             "Teflðu í túni,{\\sep}teitir váru,",
@@ -183,6 +191,7 @@
             "To find who should raise{\\sep}the race of dwarfs",
             "Out of Brimir's blood{\\sep}and the legs of Blain."
         ],
+        "type": "stanza pair",
         "number": 9,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
@@ -204,6 +213,7 @@
             "Many a likeness{\\sep}of men they made,",
             "The dwarfs in the earth,{\\sep}as Durin said."
         ],
+        "type": "stanza pair",
         "number": 10,
         "original": [
             "Þar var Mótsognir{\\sep}mæztr um orðinn",
@@ -221,6 +231,7 @@
             "Bifur, Bofur,{\\sep}Bombur, Nori,",
             "An and Onar,{\\sep}Ai, Mjothvitnir."
         ],
+        "type": "stanza pair",
         "number": 11,
         "original": [
             "Nýi ok Niði,{\\sep}Norðri ok Suðri,",
@@ -241,6 +252,7 @@
             "Nyr and Nyrath,{\\commamdash}\\sep now have I told{\\mdash}",
             "Regin and Rathsvith{\\mdash}\\sep the list aright."
         ],
+        "type": "stanza pair",
         "number": 12,
         "original": [
             "Veigr ok Gandalfr,{\\sep}Vindalfr, Þráinn,",
@@ -257,6 +269,7 @@
             "Frar, Hornbori,{\\sep}Fræg and Loni,",
             "Aurvang, Jari,{\\sep}Eikinskjaldi."
         ],
+        "type": "stanza pair",
         "number": 13,
         "original": [
             "Fíli, Kíli,{\\sep}Fundinn, Náli,",
@@ -276,6 +289,7 @@
             "The rocks they left,{\\sep}and through wet lands",
             "They sought a home{\\sep}in the fields of sand."
         ],
+        "type": "stanza pair",
         "number": 14,
         "original": [
             "Mál er dverga{\\sep}í Dvalins liði",
@@ -294,6 +308,7 @@
             "Dori, Ori,{\\sep}Duf, Andvari,",
             "Skirfir, Virfir,{\\sep}Skafith, Ai."
         ],
+        "type": "stanza pair",
         "number": 15,
         "original": [
             "Þar var Draupnir{\\sep}ok Dolgþrasir,",
@@ -310,6 +325,7 @@
             "So for all time{\\sep}shall the tale be known,",
             "The list of all{\\sep}the forbears of Lofar."
         ],
+        "type": "stanza pair",
         "number": 16,
         "original": [
             "Álfr ok Yngvi,{\\sep}Eikinskjaldi,",
@@ -331,6 +347,7 @@
             "Two without fate{\\sep}on the land they found,",
             "Ask and Embla,{\\sep}empty of might."
         ],
+        "type": "stanza pair",
         "number": 17,
         "original": [
             "Unz þrír kvámu{\\sep}ór því liði",
@@ -353,6 +370,7 @@
             "Soul gave Othin,{\\sep}sense gave Hönir,",
             "Heat gave Lothur{\\sep}and goodly hue."
         ],
+        "type": "stanza pair",
         "number": 18,
         "original": [
             "Önd þau né áttu,{\\sep}óð þau né höfðu,",
@@ -373,6 +391,7 @@
             "Thence come the dews{\\sep}that fall in the dales,",
             "Green by Urth's well{\\sep}does it ever grow."
         ],
+        "type": "stanza pair",
         "number": 19,
         "original": [
             "Ask veit ek standa,{\\sep}heitir Yggdrasill,",
@@ -397,6 +416,7 @@
             "Laws they made there,{\\sep}and life allotted",
             "To the sons of men,{\\sep}and set their fates."
         ],
+        "type": "stanza pair",
         "number": 20,
         "original": [
             "Þaðan koma meyjar,{\\sep}margs vitandi,",
@@ -429,6 +449,7 @@
             "Three times burned,{\\sep}and three times born,",
             "Oft and again,{\\sep}yet ever she lives."
         ],
+        "type": "stanza pair",
         "number": 21,
         "original": [
             "Þat man hon folkvíg{\\sep}fyrst í heimi,",
@@ -452,6 +473,7 @@
             "Minds she bewitched{\\sep}that were moved by her magic,",
             "To evil women{\\sep}a joy she was."
         ],
+        "type": "stanza pair",
         "number": 22,
         "original": [
             "Heiði hana hétu{\\sep}hvars til húsa kom,",
@@ -470,6 +492,7 @@
             "The wall that girdled{\\sep}the gods was broken,",
             "And the field by the warlike{\\sep}Wanes was trodden."
         ],
+        "type": "stanza pair",
         "number": 23,
         "original": [
             "Fleygði Óðinn{\\sep}ok í folk um skaut,",
@@ -486,6 +509,7 @@
             "Whether the gods{\\sep}should tribute give,",
             "Or to all alike{\\sep}should worship belong."
         ],
+        "type": "stanza pair",
         "number": 24,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
@@ -509,6 +533,7 @@
             "To find who with venom{\\sep}the air had filled,",
             "Or had given Oth's bride{\\sep}to the giants' brood."
         ],
+        "type": "stanza pair",
         "number": 25,
         "original": [
             "Þá gengu regin öll{\\sep}á rökstóla,",
@@ -528,6 +553,7 @@
             "And the oaths were broken,{\\sep}the words and bonds,",
             "The mighty pledges{\\sep}between them made."
         ],
+        "type": "stanza pair",
         "number": 26,
         "original": [
             "Þórr einn þar vá,{\\sep}þrunginn móði,",
@@ -553,6 +579,7 @@
             "On it there pours{\\sep}from Valfather's pledge",
             "A mighty stream:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 27,
         "original": [
             "Veit hon Heimdallar{\\sep}hljóð um fólgit",
@@ -576,6 +603,7 @@
             "``What hast thou to ask?{\\sep}why comest thou hither?''",
             "Othin, I know{\\sep}where thine eye is hidden."
         ],
+        "type": "stanza pair",
         "number": 28,
         "original": [
             "Ein sat hon úti,{\\sep}þá er inn aldni kom,",
@@ -595,6 +623,7 @@
             "Mead from the pledge{\\sep}of Othin each mom",
             "Does Mimir drink:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 29,
         "original": [
             "{\\lacuna}",
@@ -617,6 +646,7 @@
             "{\\lacuna}",
             "Widely I saw{\\sep}over all the worlds."
         ],
+        "type": "stanza pair",
         "number": 30,
         "original": [
             "Valði henni Herföðr{\\sep}hringa ok men,",
@@ -644,6 +674,7 @@
             "Of Herjan's maidens{\\sep}the list have ye heard,",
             "Valkyries ready{\\sep}to ride o'er the earth."
         ],
+        "type": "stanza pair",
         "number": 31,
         "original": [
             "Sá hon valkyrjur{\\sep}vítt um komnar,",
@@ -670,6 +701,7 @@
             "Famous and fair{\\sep}in the lofty fields,",
             "Full grown in strength{\\sep}the mistletoe stood."
         ],
+        "type": "stanza pair",
         "number": 32,
         "original": [
             "Ek sá Baldri,{\\sep}blóðgom tívur,",
@@ -690,6 +722,7 @@
             "But the brother of Baldr{\\sep}was born ere long,",
             "And one night old{\\sep}fought Othin's son."
         ],
+        "type": "stanza pair",
         "number": 33,
         "original": [
             "Varð af þeim meiði,{\\sep}er mær sýndisk,",
@@ -709,6 +742,7 @@
             "But in Fensalir{\\sep}did Frigg weep sore",
             "For Valhall's need:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 34,
         "original": [
             "Þó hann æva hendr{\\sep}né höfuð kembði,",
@@ -738,6 +772,7 @@
             "By his side does Sigyn{\\sep}sit, nor is glad",
             "To see her mate:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 35,
         "original": [
             "Hapt sá hon liggja{\\sep}undir hvera lundi,",
@@ -760,6 +795,7 @@
             "{\\lacuna}",
             "{\\lacuna}"
         ],
+        "type": "stanza pair",
         "number": 36,
         "original": [
             "Á fellr austan{\\sep}um eitrdala",
@@ -782,6 +818,7 @@
             "And in Okolnir{\\sep}another stood,",
             "Where the giant Brimir{\\sep}his beer-hall had."
         ],
+        "type": "stanza pair",
         "number": 37,
         "original": [
             "Stóð fyr norðan,{\\sep}á Niðavöllum,",
@@ -804,6 +841,7 @@
             "Venom drops{\\sep}through the smoke-vent down,",
             "For around the walls{\\sep}do serpents wind."
         ],
+        "type": "stanza pair",
         "number": 38,
         "original": [
             "Sal sá hon standa{\\sep}sólu fjarri",
@@ -829,6 +867,7 @@
             "There Nithhogg sucked{\\sep}the blood of the slain,",
             "And the wolf tore men;{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 39,
         "original": [
             "Sá hon þar vaða{\\sep}þunga strauma",
@@ -852,6 +891,7 @@
             "Among these one{\\sep}in monster's guise",
             "Was soon to steal{\\sep}the moon from the sky."
         ],
+        "type": "stanza pair",
         "number": 40,
         "original": [
             "Austr sat in aldna{\\sep}í Járnviði",
@@ -873,6 +913,7 @@
             "Dark grows the sun,{\\sep}and in summer soon",
             "Come mighty storms:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 41,
         "original": [
             "Fyllisk fjörvi{\\sep}feigra manna,",
@@ -893,6 +934,7 @@
             "Above him the cock{\\sep}in the bird-wood crowed,",
             "Fair and red{\\sep}did Fjalar stand."
         ],
+        "type": "stanza pair",
         "number": 42,
         "original": [
             "Sat þar á haugi{\\sep}ok sló hörpu",
@@ -912,6 +954,7 @@
             "And beneath the earth{\\sep}does another crow,",
             "The rust-red bird{\\sep}at the bars of Hel."
         ],
+        "type": "stanza pair",
         "number": 43,
         "original": [
             "Gól um ásum{\\sep}Gullinkambi,",
@@ -936,6 +979,7 @@
             "Much do I know,{\\sep}and more can see",
             "Of the fate of the gods,{\\sep}the mighty in fight."
         ],
+        "type": "stanza pair",
         "number": 44,
         "original": [
             "Geyr Garmr mjök{\\sep}fyr Gnipahelli,",
@@ -961,6 +1005,7 @@
             "Wind-time, wolf-time,{\\sep}ere the world falls;",
             "Nor ever shall men{\\sep}each other spare."
         ],
+        "type": "stanza pair",
         "number": 45,
         "original": [
             "Brœðr munu berjask{\\sep}ok at bönom verðask,",
@@ -985,6 +1030,7 @@
             "Loud blows Heimdall,{\\sep}the horn is aloft,",
             "In fear quake all{\\sep}who on Hel-roads are."
         ],
+        "type": "stanza pair",
         "number": 46,
         "original": [
             "Leika Míms synir,{\\sep}en mjötuðr kyndisk",
@@ -1012,6 +1058,7 @@
             "To the head of Mim{\\sep}does Othin give heed,",
             "But the kinsman of Surt{\\sep}shall slay him soon."
         ],
+        "type": "stanza pair",
         "number": 47,
         "original": [
             "Skelfr Yggdrasils{\\sep}askr standandi,",
@@ -1031,6 +1078,7 @@
             "Loud roar the dwarfs{\\sep}by the doors of stone,",
             "The masters of the rocks:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 48,
         "original": [
             "Hvat er með ásum?{\\sep}Hvat er með álfum?",
@@ -1050,6 +1098,7 @@
             "Much do I know,{\\sep}and more can see",
             "Of the fate of the gods,{\\sep}the mighty in fight."
         ],
+        "type": "stanza pair",
         "number": 49,
         "original": [
             "Geyr garmr mjök{\\sep}fyr Gnipahelli,",
@@ -1071,6 +1120,7 @@
             "O'er the waves he twists,{\\sep}and the tawny eagle",
             "Gnaws corpses screaming;{\\sep}Naglfar is loose."
         ],
+        "type": "stanza pair",
         "number": 50,
         "original": [
             "Hrymr ekr austan,{\\sep}hefisk lind fyrir,",
@@ -1093,6 +1143,7 @@
             "After the wolf{\\sep}do wild men follow,",
             "And with them the brother{\\sep}of Byleist goes."
         ],
+        "type": "stanza pair",
         "number": 51,
         "original": [
             "Kjóll ferr austan,{\\sep}koma munu Muspells",
@@ -1113,6 +1164,7 @@
             "The crags are sundered,{\\sep}the giant-women sink,",
             "The dead throng Hel-way,{\\sep}and heaven is cloven."
         ],
+        "type": "stanza pair",
         "number": 52,
         "original": [
             "Surtr ferr sunnan{\\sep}með sviga lævi,",
@@ -1135,6 +1187,7 @@
             "And Beli's fair slayer{\\sep}seeks out Surt,",
             "For there must fall{\\sep}the joy of Frigg."
         ],
+        "type": "stanza pair",
         "number": 53,
         "original": [
             "Þá kømr Hlínar{\\sep}harmr annarr fram,",
@@ -1157,6 +1210,7 @@
             "In the giant's son{\\sep}does he thrust his sword",
             "Full to the heart:{\\sep}his father is avenged."
         ],
+        "type": "stanza pair",
         "number": 54,
         "original": [
             "Þá kømr inn mikli{\\sep}mögr Sigföður,",
@@ -1184,6 +1238,7 @@
             "{\\lacuna}",
             "Against the serpent{\\sep}goes Othin's son."
         ],
+        "type": "stanza pair",
         "number": 55,
         "original": [
             "Þá kømr inn mæri{\\sep}mögr Hlöðynjar,",
@@ -1205,6 +1260,7 @@
             "Nine paces fares{\\sep}the son of Fjorgyn,",
             "And, slain by the serpent,{\\sep}fearless he sinks."
         ],
+        "type": "stanza pair",
         "number": 56,
         "original": [
             "Drepr hann af móði{\\sep}Miðgarðs véur,",
@@ -1223,6 +1279,7 @@
             "Fierce grows the steam{\\sep}and the life-feeding flame,",
             "Till fire leaps high{\\sep}about heaven itself."
         ],
+        "type": "stanza pair",
         "number": 57,
         "original": [
             "Sól tér sortna,{\\sep}sígr fold í mar,",
@@ -1242,6 +1299,7 @@
             "Much do I know,{\\sep}and more can see",
             "Of the fate of the gods,{\\sep}the mighty in fight."
         ],
+        "type": "stanza pair",
         "number": 58,
         "original": [
             "Geyr garmr mjök{\\sep}fyr Gnipahelli,",
@@ -1261,6 +1319,7 @@
             "The cataracts fall,{\\sep}and the eagle flies,",
             "And fish he catches{\\sep}beneath the cliffs."
         ],
+        "type": "stanza pair",
         "number": 59,
         "original": [
             "Sér hon upp koma{\\sep}öðru sinni",
@@ -1283,6 +1342,7 @@
             "And the mighty past{\\sep}they call to mind,",
             "And the ancient runes{\\sep}of the Ruler of Gods."
         ],
+        "type": "stanza pair",
         "number": 60,
         "original": [
             "Finnask æsir{\\sep}á Iðavelli",
@@ -1305,6 +1365,7 @@
             "Which the gods had owned{\\sep}in the days of old,",
             "{\\lacuna}"
         ],
+        "type": "stanza pair",
         "number": 61,
         "original": [
             "Þar munu eptir{\\sep}undrsamligar",
@@ -1326,6 +1387,7 @@
             "Baldr and Hoth dwell{\\sep}in Hropt's battle-hall,",
             "And the mighty gods:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 62,
         "original": [
             "Munu ósánir{\\sep}akrar vaxa,",
@@ -1350,6 +1412,7 @@
             "And the sons of the brothers{\\sep}of Tveggi abide",
             "In Vindheim now:{\\sep}would you know yet more?"
         ],
+        "type": "stanza pair",
         "number": 63,
         "original": [
             "Þá kná Hœnir{\\sep}hlautvið kjósa,",
@@ -1371,6 +1434,7 @@
             "There shall the righteous{\\sep}rulers dwell,",
             "And happiness ever{\\sep}there shall they have."
         ],
+        "type": "stanza pair",
         "number": 64,
         "original": [
             "Sal sér hon standa{\\sep}sólu fegra,",
@@ -1394,6 +1458,7 @@
             "{\\lacuna}",
             "{\\lacuna}"
         ],
+        "type": "stanza pair",
         "number": 65,
         "original": [
             "Þá kømr inn ríki{\\sep}at regindómi",
@@ -1418,6 +1483,7 @@
             "The bodies of men on{\\sep}his wings he bears,",
             "The serpent bright:{\\sep}but now must I sink."
         ],
+        "type": "stanza pair",
         "number": 66,
         "original": [
             "Þar kømr inn dimmi{\\sep}dreki fljúgandi,",
