@@ -12,7 +12,7 @@ and `Saemunar Edda <http://etext.old.no/Bugge/>`_ by Sophus Bugge as a secondary
 if this is the case, do not hesitate to tell me about it).
 
 This book is built by XeLaTeX, with most of the .tex files produced
-from JSON data in ``stanzas`` directory by ``build.py`` script.
+from JSON data in ``chapters`` directory by ``build.py`` script.
 This will help if I ever decide to start using ``ledmac`` and ``ledpar`` packages again.
 
 ------------------

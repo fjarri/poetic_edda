@@ -23,14 +23,14 @@ handlers = {
 	'text': printText
 }
 
-filenames = os.listdir('stanzas')
+filenames = os.listdir('chapters')
 
 for filename in filenames:
 	name, ext = os.path.splitext(filename)
 	if ext != '.json':
 		continue
 
-	blocks = json.load(codecs.open("stanzas/" + filename, "r", "utf-8"))
+	blocks = json.load(codecs.open("chapters/" + filename, "r", "utf-8"))
 	res = u"\n\n".join([handlers[block['type']](block) for block in blocks])
 
 	f = codecs.open(name + ".tex", "w", "utf-8")
