@@ -519,7 +519,7 @@
     },
     {
         "comment": [
-            "\\emph{Thor:} the thunder-god, son of Othin and Jorth (Earth) cf. particularly Harbarthsljoth and Thrymskvitha, passim.",
+            "\\emph{Thor:} the thunder-god, son of Othin and Jorth (Earth) cf. particularly \\chapterref{Harbarthsljoth} and \\chapterref{Thrymskvitha,} passim.",
             "\\emph{Oaths, etc.:} the gods, by violating their oaths to the giant who rebuilt Asgarth, aroused the undying hatred of the giants' race, and thus the giants were among their enemies in the final battle."
         ],
         "translation": [
@@ -1055,7 +1055,7 @@
     {
         "comment": [
             "\\emph{Hrym:} the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). \\emph{The serpent:} Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza \\stanzaref{39}, note).",
-            "The serpent was cast into the sea, where he completely encircles the land; cf. especially \\combinedref{Hymiskvitha}, passim.",
+            "The serpent was cast into the sea, where he completely encircles the land; cf. especially \\chapterref{Hymiskvitha,} passim.",
             "\\emph{The eagle:} the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. \\combinedref{Vafthruthnismol}{37}, and \\combinedref{Skirnismol}{27}.",
             "\\emph{Naglfar:} the ship which was made out of dead men's nails to carry the giants to battle."
         ],
@@ -1120,7 +1120,7 @@
             "\\emph{Hlin:} apparently another name for Frigg, Othin's wife.",
             "After losing her son Baldr, she is fated now to see Othin slain by the wolf Fenrir.",
             "\\emph{Beli's slayer:} the god Freyr, who killed the giant Beli with his fist; cf. \\combinedref{Skirnismol}{16} and note.",
-            "On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially \\combinedref{Skirnismol,} passim.",
+            "On Freyr, who belonged to the race of the Wanes, and was the brother of Freyja, see especially \\chapterref{Skirnismol,} passim.",
             "\\emph{The Joy of Frigg:} Othin."
         ],
         "translation": [
