@@ -153,7 +153,6 @@
 \phantomsection
 \label{\thischapterlabel:#2}
 
-\vskip 1em
 \hskip -3\parindent
 \begin{tabular}{@{} r @{} p{0.48\textwidth} @{} p{0.5\textwidth}}
 
@@ -175,11 +174,10 @@
 
 \ifx\@empty#1
 \else
-\vskip 1em
-\commentfont\noindent#1
-\vskip 1em
-
+\vskip \baselineskip
+\commentfont#1
 \fi
+\vskip 2\baselineskip
 
 }
 
