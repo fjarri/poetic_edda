@@ -19,6 +19,12 @@
 \usepackage{microtype}
 
 % ======================================================================
+% macro for switching between draft/release modes
+\newcounter{draftcounter}
+\newcommand{\isDraft}{\boolexpr{\value{draftcounter} = 1}}
+\newcommand{\DraftMode}{\setcounter{draftcounter}{1}}
+
+% ======================================================================
 % some macro machinery for readability of conditions
 
 \newcounter{bookformatcounter}
@@ -42,6 +48,9 @@
 
 \newcommand{\isSevenInches}{\boolexpr{\value{bookformat} = \value{bfSevenInches}}}
 
+% ======================================================================
+% select mode here
+\DraftMode
 
 % ======================================================================
 % select book format here
@@ -212,12 +221,14 @@
 
 % No spaces in these macros, because TeX considers them to be significant
 
-% Debug stubs. Disables cross-references, in order to avoid warnings about not yet existing chapters
-\newcommand{\chapterref}[1]{\emph{#1}}
-\newcommand{\stanzaref}[2][\@empty]{#2}
+\ifcase\isDraft
+	\newcommand{\chapterref}[1]{\textcolor{red}{\emph{#1}}}
+	\newcommand{\stanzaref}[2][\@empty]{\textcolor{red}{#2}}
+\else
+	\newcommand{\chapterref}[1]{\hyperref[cha:#1]{\emph{#1}}}
+	\newcommand{\stanzaref}[2][\@empty]{\ifx\@empty#1\hyperref[\thischapterlabel:#2]{#2}\else\hyperref[cha:#1:#2]{#2}\fi}
+\fi
 
-%\newcommand{\chapterref}[1]{\hyperref[cha:#1]{\emph{#1}}}
-%\newcommand{\stanzaref}[2][\@empty]{\ifx\@empty#1\hyperref[\thischapterlabel:#2]{#2}\else\hyperref[cha:#1:#2]{#2}\fi}
 \newcommand{\stanzarangeref}[3][\@empty]{\stanzaref[#1]{#2}\ndash\stanzaref[#1]{#3}}
 \newcommand{\combinedref}[2]{\chapterref{#1,} \stanzaref[#1]{#2}}
 \newcommand{\combinedrangeref}[3]{\chapterref{#1,} \stanzarangeref[#1]{#2}{#3}}
