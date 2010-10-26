@@ -212,8 +212,13 @@
 }
 
 % No spaces in these macros, because TeX considers them to be significant
-\newcommand{\chapterref}[1]{\hyperref[cha:#1]{\emph{#1}}}
-\newcommand{\stanzaref}[2][\@empty]{\ifx\@empty#1\hyperref[\thischapterlabel:#2]{#2}\else\hyperref[cha:#1:#2]{#2}\fi}
+
+% Debug stubs. Disables cross-references, in order to avoid warnings about not yet existing chapters
+\newcommand{\chapterref}[1]{\emph{#1}}
+\newcommand{\stanzaref}[2][\@empty]{#2}
+
+%\newcommand{\chapterref}[1]{\hyperref[cha:#1]{\emph{#1}}}
+%\newcommand{\stanzaref}[2][\@empty]{\ifx\@empty#1\hyperref[\thischapterlabel:#2]{#2}\else\hyperref[cha:#1:#2]{#2}\fi}
 \newcommand{\stanzarangeref}[3][\@empty]{\stanzaref[#1]{#2}\ndash\stanzaref[#1]{#3}}
 \newcommand{\combinedref}[2]{\chapterref{#1,} \stanzaref[#1]{#2}}
 \newcommand{\combinedrangeref}[3]{\chapterref{#1,} \stanzarangeref[#1]{#2}{#3}}
