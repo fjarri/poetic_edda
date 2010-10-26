@@ -16,7 +16,7 @@ def printStanzaPair(block):
 		u"{\n" + original + u"}\n{\n" + translation + u"}"
 
 def printText(block):
-	return block['text']
+	return u"\n".join(block['text'])
 
 handlers = {
 	'stanza pair': printStanzaPair,

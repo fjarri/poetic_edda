@@ -1,5 +1,36 @@
 [
     {
+        "text": [
+                "\\eddachapter{Völuspá}{Voluspo}{The Wise-Woman's Prophecy}",
+                "",
+                "At the beginning of the collection in the \\emph{Codex Regius} stands the Voluspo, the most famous and important, as it is likewise the most debated, of all the Eddic poems.",
+                "Another version of it is found in a huge miscellaneous compilation of about the year 1300, the \\emph{Hauksbok,} and many stanzas are included in the \\emph{Prose Edda} of Snorri Sturluson.",
+                "The order of the stanzas in the \\emph{Hauksbok} version differs materially from that in the \\emph{Codex Regius,} and in the published editions many experiments have been attempted in further rearrangements. On the whole, how ever, and allowing for certain interpolations, the order of the stanzas in the \\emph{Codex Regius} seems more logical than any of the wholesale ``improvements'' which have been undertaken.",
+                "",
+                "The general plan of the \\chapterref{Voluspo} is fairly clear. Othin, chief of the gods, always conscious of impending disaster and eager for knowledge, calls on a certain ``Volva,'' or wise-woman, presumably bidding her rise from the grave.",
+                "She first tells him of the past, of the creation of the world, the beginning of years, the origin of the dwarfs (at this point there is a clearly interpolated catalogue of dwarfs' names, stanzas \\stanzarangeref{10}{16}), of the first man and woman, of the world-ash Yggdrasil, and of the first war, between the gods and the Vanir, or, in Anglicized form, the Wanes.",
+                "Then, in stanzas \\stanzarangeref{27}{29}, as a further proof of her wisdom, she discloses some of Othin's own secrets and the details of his search for knowledge.",
+                "Rewarded by Othin for what she has thus far told (stanza \\stanzaref{30}), she then turns to the real prophesy, the disclosure of the final destruction of the gods.",
+                "This final battle, in which fire and flood overwhelm heaven and earth as the gods fight with their enemies, is the great fact in Norse mythology; the phrase describing it, \\emph{ragna rök,} ``the fate of the gods,'' has become familiar, by confusion with the word rökkr, ``twilight,'' in the German \\emph{Göterdämmerung.}",
+                "The wise-woman tells of the Valkyries who bring the slain warriors to support Othin and the other gods in the battle, of the slaying of Baldr, best and fairest of the gods, through the wiles of Loki, of the enemies of the gods, of the summons to battle on both sides, and of the mighty struggle, till Othin is slain, and ``fire leaps high about heaven itself'' (stanzas \\stanzarangeref{31}{58}).",
+                "But this is not all. A new and beautiful world is to rise on the ruins of the old; Baldr comes back, and ``fields unsowed bear ripened fruit'' (stanzas \\stanzarangeref{59}{66}).",
+                "",
+                "This final passage, in particular, has caused wide differences of opinion as to the date and character of the poem.",
+                "That the poet was heathen and not Christian seems almost beyond dispute; there is an intensity and vividness in almost every stanza which no archaizing Christian could possibly have achieved.",
+                "On the other hand, the evidences of Christian influence are sufficiently striking to outweigh the arguments of Finnur Jonsson, Müllenhoff and others who maintain that the \\chapterref{Voluspo} is purely a product of heathendom.",
+                "The roving Norsemen of the tenth century, very few of whom had as yet accepted Christianity, were nevertheless in close contact with Celtic races which had already been converted, and in many ways the Celtic influence was strongly felt.",
+                "It seems likely, then, that the \\chapterref{Voluspo} was the work of a poet living chiefly in Iceland, though possibly in the ``Western Isles,'' in the middle of the tenth century, a vigorous believer in the old gods, and yet with an imagination active enough to be touched by the vague tales of a different religion emanating from his neighbor Celts.",
+                "",
+                "How much the poem was altered during the two hundred years between its composition and its first being committed to writing is largely a matter of guesswork, but, allowing for such an obvious interpolation as the catalogue of dwarfs, and for occasional lesser errors, it seems quite needless to assume such great changes as many editors do.",
+                "The poem was certainly not composed to tell a story with which its early hearers were quite familiar; the lack of continuity which baffles modern readers presumably did not trouble them in the least.",
+                "It is, in effect, a series of gigantic pictures, put into words with a directness and sureness which bespeak the poet of genius.",
+                "It is only after the reader, with the help of the many notes, has familiarized him self with the names and incidents involved that he can begin to understand the effect which this magnificent poem must have produced on those who not only understood but believed it.",
+                "",
+                "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
         "comment": [
             "A few editors, following Bugge, in an effort to clarify the poem, place stanzas \\stanzaref{22}, \\stanzaref{28} and \\stanzaref{30} before stanzas \\stanzarangeref{1}{20}, but the arrangement in both manuscripts, followed here, seems logical.",
             "In stanza \\stanzaref{1} the Volva, or wise-woman, called upon by Othin, answers him and demands a hearing.",
