@@ -862,7 +862,9 @@
     },
     {
         "comment": [
-            "In the third line many editors omit the comma after ``sun,'' and put one after ``soon,'' making the two lines run: ``Dark grows the sun{\\sep}in summer soon, / Mighty storms{\\mdash}'' etc.",
+            "In the third line many editors omit the comma after ``sun,'' and put one after ``soon,'' making the two lines run:",
+            "\\myverse{Dark grows the sun{\\sep}in summer soon, \\\\",
+            "Mighty storms{\\mdash} etc.}",
             "Either phenomenon in summer would be sufficiently striking."
         ],
         "translation": [
