@@ -720,7 +720,11 @@
     {
         "comment": [
             "The translation here follows the \\emph{Regius} version.",
-            "The \\emph{Hauksbok} has the same final two lines, but in place of the first pair has, ``I know that Vali{\\sep}his brother gnawed, / With his bowels then{\\sep}was Loki bound.'' (``Þá kná Vála{\\sep}vígbönd snúa, / heldr váru harðgör{\\sep}höpt, ór þörmum.'')",
+            "The \\emph{Hauksbok} has the same final two lines, but in place of the first pair has,",
+            "\\myverse{I know that Vali{\\sep}his brother gnawed, \\\\",
+            "With his bowels then{\\sep}was Loki bound.}",
+            "\\myverse{(Þá kná Vála{\\sep}vígbönd snúa, \\\\",
+            "heldr váru harðgör{\\sep}höpt, ór þörmum.)}",
             "Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from \\emph{Regius.}",
             "After the murder of Baldr, the gods took Loki and bound him to a rock with the bowels of his son Narfi, who had just been torn to pieces by Loki's other son, Vali.",
             "A serpent was fastened above Loki's head, and the venom fell upon his face.",
@@ -1288,10 +1292,8 @@
     {
         "comment": [
             "The \\emph{Hauksbok} version of the first two lines runs:",
-            "",
-            "``The gods shall find there,{\\sep}wondrous fair,",
-            "The golden tables{\\sep}amid the grass.''",
-            "",
+            "\\myverse{The gods shall find there,{\\sep}wondrous fair, \\\\",
+            "The golden tables{\\sep}amid the grass.}",
             "No lacuna (line 4) is indicated in the manuscripts.",
             "\\emph{Golden tables:} cf. stanza \\stanzaref{8} and note."
         ],
@@ -1379,10 +1381,8 @@
         "comment": [
             "This stanza is not found in \\emph{Regius,} and is probably spurious.",
             "No lacuna is indicated in the \\emph{Hauksbok} version, but late paper manuscripts add two lines, running:",
-            "",
-            "``Rule he orders,{\\sep}and rights he fixes,",
-            "Laws he ordains{\\sep}that ever shall live.''",
-            "",
+            "\\myverse{Rule he orders,{\\sep}and rights he fixes, \\\\",
+            "Laws he ordains{\\sep}that ever shall live.}",
             "The name of this new ruler is nowhere given, and of course the suggestion of Christianity is unavoidable.",
             "It is not certain, how ever, that even this stanza refers to Christianity, and if it does, it may have been interpolated long after the rest of the poem was composed."
         ],
