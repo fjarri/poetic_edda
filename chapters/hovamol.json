@@ -32,5 +32,2105 @@
 		"\\sepline"
 	],
 	"type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Within the gates{\\sep}ere a man shall go,",
+            "(Full warily let him watch,)",
+            "Full long let him look about him;",
+            "For little he knows{\\sep}where a foe may lurk,",
+            "And sit in the seats within."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 1
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hail to the giver!{\\sep}a guest has come;",
+            "Where shall the stranger sit?",
+            "Swift shall he be who,{\\sep}with swords shall try",
+            "The proof of his might to make."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 2
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Fire he needs{\\sep}who with frozen knees",
+            "Has come from the cold without;",
+            "Food and clothes{\\sep}must the farer have,",
+            "The man from the mountains come."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 3
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Water and towels{\\sep}and welcoming speech",
+            "Should he find who comes, to the feast;",
+            "If renown he would get,{\\sep}and again be greeted,",
+            "Wisely and well must he act."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 4
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Wits must he have{\\sep}who wanders wide,",
+            "But all is easy at home;",
+            "At the witless man{\\sep}the wise shall wink",
+            "When among such men he sits."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 5
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A man shall not boast{\\sep}of his keenness of mind,",
+            "But keep it close in his breast;",
+            "To the silent and wise{\\sep}does ill come seldom",
+            "When he goes as guest to a house;",
+            "(For a faster friend{\\sep}one never finds",
+            "Than wisdom tried and true.)"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 6
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The knowing guest{\\sep}who goes to the feast,",
+            "In silent attention sits;",
+            "With his ears he hears,{\\sep}with his eyes he watches,",
+            "Thus wary are wise men all."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 7
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Happy the one{\\sep}who wins for himself",
+            "Favor and praises fair;",
+            "Less safe by far{\\sep}is the wisdom found",
+            "That is hid in another's heart."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 8
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Happy the man{\\sep}who has while he lives",
+            "Wisdom and praise as well,",
+            "For evil counsel{\\sep}a man full oft",
+            "Has from another's heart."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 9
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A better burden{\\sep}may no man bear",
+            "For wanderings wide than wisdom;",
+            "It is better than wealth{\\sep}on unknown ways,",
+            "And in grief a refuge it gives."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 10
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A better burden{\\sep}may no man bear",
+            "For wanderings wide than wisdom;",
+            "Worse food for the journey{\\sep}he brings not afield",
+            "Than an over-drinking of ale."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 11
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Less good there lies{\\sep}than most believe",
+            "In ale for mortal men;",
+            "For the more he drinks{\\sep}the less does man",
+            "Of his mind the mastery hold."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 12
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Over beer the bird{\\sep}of forgetfulness broods,",
+            "And steals the minds of men;",
+            "With the heron's feathers{\\sep}fettered I lay",
+            "And in Gunnloth's house was held."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 13
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Drunk I was,{\\sep}I was dead-drunk,",
+            "When with Fjalar wise I was;",
+            "'Tis the best of drinking{\\sep}if back one brings",
+            "His wisdom with him home."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 14
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The son of a king{\\sep}shall be silent and wise,",
+            "And bold in battle as well;",
+            "Bravely and gladly{\\sep}a man shall go,",
+            "Till the day of his death is come."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 15
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The sluggard believes{\\sep}he shall live forever,",
+            "If the fight he faces not;",
+            "But age shall not grant him{\\sep}the gift of peace,",
+            "Though spears may spare his life."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 16
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The fool is agape{\\sep}when he comes to the feast,",
+            "He stammers or else is still;",
+            "But soon if he gets{\\sep}a drink is it seen",
+            "What the mind of the man is like."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 17
+    },
+    {
+        "comment": null,
+        "translation": [
+            "He alone is aware{\\sep}who has wandered wide,",
+            "And far abroad has fared,",
+            "How great a mind{\\sep}is guided by him",
+            "That wealth of wisdom has."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 18
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Shun not the mead,{\\sep}but drink in measure;",
+            "Speak to the point or be still;",
+            "For rudeness none{\\sep}shall rightly blame thee",
+            "If soon thy bed thou seekest."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 19
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The greedy man,{\\sep}if his mind be vague,",
+            "Will eat till sick he is;",
+            "The vulgar man,{\\sep}when among the wise,",
+            "To scorn by his belly is brought."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 20
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The herds know well{\\sep}when home they shall fare,",
+            "And then from the grass they go;",
+            "But the foolish man{\\sep}his belly's measure",
+            "Shall never know aright."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 21
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A paltry man{\\sep}and poor of mind",
+            "At all things ever mocks;",
+            "For never he knows,{\\sep}what he ought to know,",
+            "That he is not free from faults."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 22
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The witless man{\\sep}is awake all night,",
+            "Thinking of many things;",
+            "Care-worn he is{\\sep}when the morning comes,",
+            "And his woe is just as it was."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 23
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The foolish man{\\sep}for friends all those",
+            "Who laugh at him will hold;",
+            "When among the wise{\\sep}he marks it not",
+            "Though hatred of him they speak."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 24
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The foolish man{\\sep}for friends all those",
+            "Who laugh at him will hold;",
+            "But the truth when he comes{\\sep}to the council he learns,",
+            "That few in his favor will speak."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 25
+    },
+    {
+        "comment": null,
+        "translation": [
+            "An ignorant man{\\sep}thinks that all he knows,",
+            "When he sits by himself in a corner;",
+            "But never what answer{\\sep}to make he knows,",
+            "When others with questions come."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 26
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A witless man,{\\sep}when he meets with men,",
+            "Had best in silence abide;",
+            "For no one shall find{\\sep}that nothing he knows,",
+            "If his mouth is not open too much.",
+            "(But a man knows not,{\\sep}if nothing he knows,",
+            "When his mouth has been open too much.)"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 27
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Wise shall he seem{\\sep}who well can question,",
+            "And also answer well;",
+            "Nought is concealed{\\sep}that men may say",
+            "Among the sons of men."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 28
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Often he speaks{\\sep}who never is still",
+            "With words that win no faith;",
+            "The babbling tongue,{\\sep}if a bridle it find not,",
+            "Oft for itself sings ill."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 29
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In mockery no one{\\sep}a man shall hold,",
+            "Although he fare to the feast;",
+            "Wise seems one oft,{\\sep}if nought he is asked,",
+            "And safely he sits dry-skinned."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 30
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Wise a guest holds it{\\sep}to take to his heels,",
+            "When mock of another he makes;",
+            "But little he knows{\\sep}who laughs at the feast,",
+            "Though he mocks in the midst of his foes."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 31
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Friendly of mind{\\sep}are many men,",
+            "Till feasting they mock at their friends;",
+            "To mankind a bane{\\sep}must it ever be",
+            "When guests together strive."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 32
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Oft should one make{\\sep}an early meal,",
+            "Nor fasting come to the feast;",
+            "Else he sits and chews{\\sep}as if he would choke,",
+            "And little is able to ask."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 33
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Crooked and far{\\sep}is the road to a foe,",
+            "Though his house on the highway be;",
+            "But wide and straight{\\sep}is the way to a friend,",
+            "Though far away he fare."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 34
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Forth shall one go,{\\sep}nor stay as a guest",
+            "In a single spot forever;",
+            "Love becomes loathing{\\sep}if long one sits",
+            "By the hearth in another's home."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 35
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Better a house,{\\sep}though a hut it be,",
+            "A man is master at home;",
+            "A pair of goats{\\sep}and a patched-up roof",
+            "Are better far than begging."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 36
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Better a house,{\\sep}though a hut it be,",
+            "A man is master at home;",
+            "His heart is bleeding{\\sep}who needs must beg",
+            "When food he fain would have."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 37
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Away from his arms{\\sep}in the open field",
+            "A man should fare not a foot;",
+            "For never he knows{\\sep}when the need for a spear",
+            "Shall arise on the distant road."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 38
+    },
+    {
+        "comment": null,
+        "translation": [
+            "If wealth a man{\\sep}has won for himself,",
+            "Let him never suffer in need;",
+            "Oft he saves for a foe{\\sep}what he plans for a friend,",
+            "For much goes worse than we wish."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 39
+    },
+    {
+        "comment": null,
+        "translation": [
+            "None so free with gifts{\\sep}or food have I found",
+            "That gladly he took not a gift,",
+            "Nor one who so widely{\\sep}scattered his wealth",
+            "That of recompense hatred he had."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 40
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Friends shall gladden each other{\\sep}with arms and garments,",
+            "As each for himself can see;",
+            "Gift-givers' friendships{\\sep}are longest found,",
+            "If fair their fates may be."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 41
+    },
+    {
+        "comment": null,
+        "translation": [
+            "To his friend a man{\\sep}a friend shall prove,",
+            "And gifts with gifts requite;",
+            "But men shall mocking{\\sep}with mockery answer,",
+            "And fraud with falsehood meet."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 42
+    },
+    {
+        "comment": null,
+        "translation": [
+            "To his friend a man{\\sep}a friend shall prove,",
+            "To him and the friend of his friend;",
+            "But never a man{\\sep}shall friendship make",
+            "With one of his foeman's friends."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 43
+    },
+    {
+        "comment": null,
+        "translation": [
+            "If a friend thou hast{\\sep}whom thou fully wilt trust,",
+            "And good from him wouldst get,",
+            "Thy thoughts with his mingle,{\\sep}and gifts shalt thou make,",
+            "And fare to find him oft."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 44
+    },
+    {
+        "comment": null,
+        "translation": [
+            "If another thou hast{\\sep}whom thou hardly wilt trust,",
+            "Yet good from him wouldst get,",
+            "Thou shalt speak him fair,{\\sep}but falsely think,",
+            "And fraud with falsehood requite."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 45
+    },
+    {
+        "comment": null,
+        "translation": [
+            "So is it with him{\\sep}whom thou hardly wilt trust,",
+            "And whose mind thou mayst not know;",
+            "Laugh with him mayst thou,{\\sep}but speak not thy mind,",
+            "Like gifts to his shalt thou give."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 46
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Young was I once,{\\sep}and wandered alone,",
+            "And nought of the road I knew;",
+            "Rich did I feel{\\sep}when a comrade I found,",
+            "For man is man's delight."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 47
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The lives of the brave{\\sep}and noble are best,",
+            "Sorrows they seldom feed;",
+            "But the coward fear{\\sep}of all things feels,",
+            "And not gladly the niggard gives."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 48
+    },
+    {
+        "comment": null,
+        "translation": [
+            "My garments once{\\sep}in a field I gave",
+            "To a pair of carven poles;",
+            "Heroes they seemed{\\sep}when clothes they had,",
+            "But the naked man is nought."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 49
+    },
+    {
+        "comment": null,
+        "translation": [
+            "On the hillside drear{\\sep}the fir-tree dies,",
+            "All bootless its needles and bark;",
+            "It is like a man{\\sep}whom no one loves,--",
+            "Why should his life be long?"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 50
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hotter than fire{\\sep}between false friends",
+            "Does friendship five days burn;",
+            "When the sixth day comes{\\sep}the fire cools,",
+            "And ended is all the love."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 51
+    },
+    {
+        "comment": null,
+        "translation": [
+            "No great thing needs{\\sep}a man to give,",
+            "Oft little will purchase praise;",
+            "With half a loaf{\\sep}and a half-filled cup",
+            "A friend full fast I made."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 52
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A little sand{\\sep}has a little sea,",
+            "And small are the minds of men;",
+            "Though all men are not{\\sep}equal in wisdom,",
+            "Yet half-wise only are all."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 53
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A measure of wisdom{\\sep}each man shall have,",
+            "But never too much let him know;",
+            "The fairest lives{\\sep}do those men live",
+            "Whose wisdom wide has grown."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 54
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A measure of wisdom{\\sep}each man shall have,",
+            "But never too much let him know;",
+            "For the wise man's heart{\\sep}is seldom happy,",
+            "If wisdom too great he has won."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 55
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A measure of wisdom{\\sep}each man shall have,",
+            "But never too much let him know;",
+            "Let no man the fate{\\sep}before him see,",
+            "For so is he freest from sorrow."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 56
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A brand from a brand{\\sep}is kindled and burned,",
+            "And fire from fire begotten;",
+            "And man by his speech{\\sep}is known to men,",
+            "And the stupid by their stillness."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 57
+    },
+    {
+        "comment": null,
+        "translation": [
+            "He must early go forth{\\sep}who fain the blood",
+            "Or the goods of another would get;",
+            "The wolf that lies idle{\\sep}shall win little meat,",
+            "Or the sleeping man success."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 58
+    },
+    {
+        "comment": null,
+        "translation": [
+            "He must early go forth{\\sep}whose workers are few,",
+            "Himself his work to seek;",
+            "Much remains undone{\\sep}for the morning-sleeper,",
+            "For the swift is wealth half won."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 59
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Of seasoned shingles{\\sep}and strips of bark",
+            "For the thatch let one know his need,",
+            "And how much of wood{\\sep}he must have for a month,",
+            "Or in half a year he will use."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 60
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Washed and fed{\\sep}to the council fare,",
+            "But care not too much for thy clothes;",
+            "Let none be ashamed{\\sep}of his shoes and hose,",
+            "Less still of the steed he rides,",
+            "(Though poor be the horse he has.)"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 61
+    },
+    {
+        "comment": null,
+        "translation": [
+            "When the eagle comes{\\sep}to the ancient sea,",
+            "He snaps and hangs his head;",
+            "So is a man{\\sep}in the midst of a throng,",
+            "Who few to speak for him finds."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 62
+    },
+    {
+        "comment": null,
+        "translation": [
+            "To question and answer{\\sep}must all be ready",
+            "Who wish to be known as wise;",
+            "Tell one thy thoughts,{\\sep}but beware of two,--",
+            "All know what is known to three."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 63
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The man who is prudent{\\sep}a measured use",
+            "Of the might he has will make;",
+            "He finds when among{\\sep}the brave he fares",
+            "That the boldest he may not be."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 64
+    },
+    {
+        "comment": null,
+        "translation": [
+            "    .    .    .    .    .    .    .    .    .",
+            ".    .    .    .    .    .    .    .    .    .",
+            "Oft for the words{\\sep}that to others one speaks",
+            "He will get but an evil gift."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 65
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Too early to many{\\sep}a meeting I came,",
+            "And some too late have I sought;",
+            "The beer was all drunk,{\\sep}or not yet brewed;",
+            "Little the loathed man finds."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 66
+    },
+    {
+        "comment": null,
+        "translation": [
+            "To their homes men would bid{\\sep}me hither and yon,",
+            "If at meal-time I needed no meat,",
+            "Or would hang two hams{\\sep}in my true friend's house,",
+            "Where only one I had eaten."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 67
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Fire for men{\\sep}is the fairest gift,",
+            "And power to see the sun;",
+            "Health as well,{\\sep}if a man may have it,",
+            "And a life not stained with sin."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 68
+    },
+    {
+        "comment": null,
+        "translation": [
+            "All wretched is no man,{\\sep}though never so sick;",
+            "Some from their sons have joy,",
+            "Some win it from kinsmen,{\\sep}and some from their wealth,",
+            "And some from worthy works."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 69
+    },
+    {
+        "comment": null,
+        "translation": [
+            "It is better to live{\\sep}than to lie a corpse,",
+            "The live man catches the cow;",
+            "I saw flames rise{\\sep}for the rich man's pyre,",
+            "And before his door he lay dead."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 70
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The lame rides a horse,{\\sep}the handless is herdsman,",
+            "The deaf in battle is bold;",
+            "The blind man is better{\\sep}than one that is burned,",
+            "No good can come of a corpse."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 71
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A son is better,{\\sep}though late he be born,",
+            "And his father to death have fared;",
+            "Memory-stones{\\sep}seldom stand by the road",
+            "Save when kinsman honors his kin."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 72
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Two make a battle,{\\sep}the tongue slays the head;",
+            "In each furry coat{\\sep}a fist I look for."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 73
+    },
+    {
+        "comment": null,
+        "translation": [
+            "He welcomes the night{\\sep}whose fare is enough,",
+            "(Short are the yards of a ship,)",
+            "Uneasy are autumn nights;",
+            "Full oft does the weather{\\sep}change in a week,",
+            "And more in a month's time."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 74
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A man knows not,{\\sep}if nothing he knows,",
+            "That gold oft apes begets;",
+            "One man is wealthy{\\sep}and one is poor,",
+            "Yet scorn for him none should know."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 75
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Among Fitjung's sons{\\sep}saw I well-stocked folds,--",
+            "Now bear they the beggar's staff;",
+            "Wealth is as swift{\\sep}as a winking eye,",
+            "Of friends the falsest it is."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 76
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Cattle die,{\\sep}and kinsmen die,",
+            "And so one dies one's self;",
+            "But a noble name{\\sep}will never die,",
+            "If good renown one gets."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 77
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Cattle die,{\\sep}and kinsmen die,",
+            "And so one dies one's self;",
+            "One thing now{\\sep}that never dies,",
+            "The fame of a dead man's deeds."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 78
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Certain is that{\\sep}which is sought from runes,",
+            "That the gods so great have made,",
+            "And the Master-Poet painted;",
+            ".    .    .    .    .    .    .    .    .    .",
+            ".    .    .    .    .     of the race of gods:",
+            "Silence is safest and best."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 79
+    },
+    {
+        "comment": null,
+        "translation": [
+            "An unwise man,{\\sep}if a maiden's love",
+            "Or wealth he chances to win,",
+            "His pride will wax, but his wisdom never,",
+            "Straight forward he fares in conceit."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 80
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Give praise to the day at evening,{\\sep}to a woman on her pyre,",
+            "To a weapon which is tried,{\\sep}to a maid at wed lock,",
+            "To ice when it is crossed,{\\sep}to ale that is drunk."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 81
+    },
+    {
+        "comment": null,
+        "translation": [
+            "When the gale blows hew wood,{\\sep}in fair winds seek the water;",
+            "Sport with maidens at dusk,{\\sep}for day's eyes are many;",
+            "From the ship seek swiftness,{\\sep}from the shield protection,",
+            "Cuts from the sword,{\\sep}from the maiden kisses."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 82
+    },
+    {
+        "comment": null,
+        "translation": [
+            "By the fire drink ale,{\\sep}over ice go on skates;",
+            "Buy a steed that is lean,{\\sep}and a sword when tarnished,",
+            "The horse at home fatten,{\\sep}the hound in thy dwelling."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 83
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A man shall trust not{\\sep}the oath of a maid,",
+            "Nor the word a woman speaks;",
+            "For their hearts on a whirling{\\sep}wheel were fashioned,",
+            "And fickle their breasts were formed."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 84
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In a breaking bow{\\sep}or a burning flame,",
+            "A ravening wolf{\\sep}or a croaking raven,",
+            "In a grunting boar,{\\sep}a tree with roots broken,",
+            "In billowy seas{\\sep}or a bubbling kettle,"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 85
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In a flying arrow{\\sep}or falling waters,",
+            "In ice new formed{\\sep}or the serpent's folds,",
+            "In a bride's bed-speech{\\sep}or a broken sword,",
+            "In the sport of bears{\\sep}or in sons of kings,"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 86
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In a calf that is sick{\\sep}or a stubborn thrall,",
+            "A flattering witch{\\sep}or a foe new slain."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 87
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In a brother's slayer,{\\sep}if thou meet him abroad,",
+            "In a half-burned house,{\\sep}in a horse full swift--",
+            "One leg is hurt{\\sep}and the horse is useless--",
+            "None had ever such faith{\\sep}as to trust in them all."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 88
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hope not too surely{\\sep}for early harvest,",
+            "Nor trust too soon in thy son;",
+            "The field needs good weather,{\\sep}the son needs wisdom,",
+            "And oft is either denied."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 89
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The love of women{\\sep}fickle of will",
+            "Is like starting o'er ice{\\sep}with a steed unshod,",
+            "A two-year-old restive{\\sep}and little tamed,",
+            "Or steering a rudderless{\\sep}ship in a storm,",
+            "Or, lame, hunting reindeer{\\sep}on slippery rocks."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 90
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Clear now will I speak,{\\sep}for I know them both,",
+            "Men false to women are found;",
+            "When fairest we speak,{\\sep}then falsest we think,",
+            "Against wisdom we work with deceit."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 91
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Soft words shall he speak{\\sep}and wealth shall he offer",
+            "Who longs for a maiden's love,",
+            "And the beauty praise{\\sep}of the maiden bright;",
+            "He wins whose wooing is best."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 92
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Fault for loving{\\sep}let no man find",
+            "Ever with any other;",
+            "Oft the wise are fettered,{\\sep}where fools go free,",
+            "By beauty that breeds desire."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 93
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Fault with another{\\sep}let no man find",
+            "For what touches many a man;",
+            "Wise men oft{\\sep}into witless fools",
+            "Are made by mighty love."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 94
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The head alone knows{\\sep}what dwells near the heart,",
+            "A man knows his mind alone;",
+            "No sickness is worse{\\sep}to one who is wise",
+            "Than to lack the longed-for joy."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 95
+    },
+    {
+        "comment": null,
+        "translation": [
+            "This found I myself,{\\sep}when I sat in the reeds,",
+            "And long my love awaited;",
+            "As my life the maiden{\\sep}wise I loved,",
+            "Yet her I never had."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 96
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Billing's daughter{\\sep}I found on her bed,",
+            "In slumber bright as the sun;",
+            "Empty appeared{\\sep}an earl's estate",
+            "Without that form so fair."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 97
+    },
+    {
+        "comment": null,
+        "translation": [
+            "\"Othin, again{\\sep}at evening come,",
+            "If a woman thou wouldst win;",
+            "Evil it were{\\sep}if others than we",
+            "Should know of such a sin.\""
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 98
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Away I hastened,{\\sep}hoping for joy,",
+            "And careless of counsel wise;",
+            "Well I believed{\\sep}that soon I should win",
+            "Measureless joy with the maid."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 99
+    },
+    {
+        "comment": null,
+        "translation": [
+            "So came I next{\\sep}when night it was,",
+            "The warriors all were awake;",
+            "With burning lights{\\sep}and waving brands",
+            "I learned my luckess way."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 100
+    },
+    {
+        "comment": null,
+        "translation": [
+            "At morning then,{\\sep}when once more I came,",
+            "And all were sleeping still,",
+            "A dog found{\\sep}in the fair one's place,",
+            "Bound there upon her bed."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 101
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Many fair maids,{\\sep}if a man but tries them,",
+            "False to a lover are found;",
+            "That did I learn{\\sep}when I longed to gain",
+            "With wiles the maiden wise;",
+            "Foul scorn was my meed{\\sep}from the crafty maid,",
+            "And nought from the woman I won."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 102
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Though glad at home,{\\sep}and merry with guests,",
+            "A man shall be wary and wise;",
+            "The sage and shrewd,{\\sep}wide wisdom seeking,",
+            "Must see that his speech be fair;",
+            "A fool is he named{\\sep}who nought can say,",
+            "For such is the way of the witless."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 103
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I found the old giant,{\\sep}now back have I fared,",
+            "Small gain from silence I got;",
+            "Full many a word,{\\sep}my will to get,",
+            "I spoke in Suttung's hall."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 104
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The mouth of Rati{\\sep}made room for my passage,",
+            "And space in the stone he gnawed;",
+            "Above and below{\\sep}the giants' paths lay,",
+            "So rashly I risked my head."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 105
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Gunnloth gave{\\sep}on a golden stool",
+            "A drink of the marvelous mead;",
+            "A harsh reward{\\sep}did I let her have",
+            "For her heroic heart,",
+            "And her spirit troubled sore."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 106
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The well-earned beauty{\\sep}well I enjoyed,",
+            "Little the wise man lacks;",
+            "So Othrörir now{\\sep}has up been brought",
+            "To the midst of the men of earth."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 107
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hardly, methinks,{\\sep}would I home have come,",
+            "And left the giants' land,",
+            "Had not Gunnloth helped me,{\\sep}the maiden good,",
+            "Whose arms about me had been."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 108
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The day that followed,{\\sep}the frost-giants came,",
+            "Some word of Hor to win,",
+            "(And into the hall of Hor;)",
+            "Of Bolverk they asked,{\\sep}were he back midst the gods,",
+            "Or had Suttung slain him there?"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 109
+    },
+    {
+        "comment": null,
+        "translation": [
+            "On his ring swore Othin{\\sep}the oath, methinks;",
+            "Who now his troth shall trust?",
+            "Suttung's betrayal{\\sep}he sought with drink,",
+            "And Gunnloth to grief he left."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 110
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "It is time to chant{\\sep}from the chanter's stool;",
+            "By the wells of Urth I was,",
+            "I saw and was silent,{\\sep}I saw and thought,",
+            "And heard the speech of Hor.",
+            "(Of runes heard I words,{\\sep}nor were counsels wanting,",
+            "At the hall of Hor,",
+            "In the hall of Hor;",
+            "Such was the speech I heard.)"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 111
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,---",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Rise not at night,{\\sep}save if news thou seekest,",
+            "Or fain to the outhouse wouldst fare."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 112
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Beware of sleep{\\sep}on a witch's bosom,",
+            "Nor let her limbs ensnare thee."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 113
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Such is her might{\\sep}that thou hast no mind",
+            "For the council or meeting of men;",
+            "Meat thou hatest,{\\sep}joy thou hast not,",
+            "And sadly to slumber thou farest."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 114
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Seek never to win{\\sep}the wife of another,",
+            "Or long for her secret love."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 115
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "If o'er mountains or gulfs{\\sep}thou fain wouldst go,",
+            "Look well to thy food for the way."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 116
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "An evil man{\\sep}thou must not let",
+            "Bring aught of ill to thee;",
+            "For an evil man{\\sep}will never make",
+            "Reward for a worthy thought."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 117
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I saw a man{\\sep}who was wounded sore",
+            "By an evil woman's word;",
+            "A lying tongue{\\sep}his death-blow launched,",
+            "And no word of truth there was."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 118
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "If a friend thou hast{\\sep}whom thou fully wilt trust,",
+            "Then fare to find him oft;",
+            "For brambles grow{\\sep}and waving grass",
+            "On the rarely trodden road."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 119
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "A good man find{\\sep}to hold in friendship,",
+            "And give heed to his healing charms."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 120
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Be never the first{\\sep}to break with thy friend",
+            "The bond that holds you both;",
+            "Care eats the heart{\\sep}if thou canst not speak",
+            "To another all thy thought."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 121
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Exchange of words{\\sep}with a witless ape",
+            "Thou must not ever make."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 122
+    },
+    {
+        "comment": null,
+        "translation": [
+            "For never thou mayst{\\sep}from an evil man",
+            "A good requital get;",
+            "But a good man oft{\\sep}the greatest love",
+            "Through words of praise will win thee."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 123
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Mingled is love{\\sep}when a man can speak",
+            "To another all his thought;",
+            "Nought is so bad{\\sep}as false to be,",
+            "No friend speaks only fair."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 124
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "With a worse man speak not{\\sep}three words in dispute,",
+            "Ill fares the better oft",
+            "When the worse man wields a sword."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 125
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "A shoemaker be,{\\sep}or a maker of shafts,",
+            "For only thy single self;",
+            "If the shoe is ill made,{\\sep}or the shaft prove false,",
+            "Then evil of thee men think."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 126
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "If evil thou knowest,{\\sep}as evil proclaim it,",
+            "And make no friendship with foes."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 127
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "In evil never{\\sep}joy shalt thou know,",
+            "But glad the good shall make thee."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 128
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Look not up{\\sep}when the battle is on,--",
+            "(Like madmen the sons{\\sep}of men become,--)",
+            "Lest men bewitch thy wits."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 129
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "If thou fain wouldst win{\\sep}a woman's love,",
+            "And gladness get from her,",
+            "Fair be thy promise{\\sep}and well fulfilled;",
+            "None loathes what good he gets."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 130
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "I bid thee be wary,{\\sep}but be not fearful;",
+            "(Beware most with ale or another's wife,",
+            "And third beware{\\sep}lest a thief outwit thee.)"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 131
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Scorn or mocking{\\sep}ne'er shalt thou make",
+            "Of a guest or a journey-goer."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 132
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Oft scarcely he knows{\\sep}who sits in the house",
+            "What kind is the man who comes;",
+            "None so good is found{\\sep}that faults he has not,",
+            "Nor so wicked that nought he is worth."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 133
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Scorn not ever{\\sep}the gray-haired singer,",
+            "Oft do the old speak good;",
+            "(Oft from shrivelled skin{\\sep}come skillful counsels,",
+            "Though it hang with the hides,",
+            "And flap with the pelts,",
+            "And is blown with the bellies.)",
+            "\"Evil and good{\\sep}do men's sons ever",
+            "\"Mingled bear in their breasts.\""
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 134
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "Curse not thy guest,{\\sep}nor show him thy gate,",
+            "Deal well with a man in want."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 135
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Strong is the beam{\\sep}that raised must be",
+            "To give an entrance to all;",
+            "Give it a ring,{\\sep}or grim will be",
+            "The wish it would work on thee."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 136
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,--",
+            "Profit thou hast if thou hearest,",
+            "Great thy gain if thou learnest:",
+            "When ale thou drinkest){\\sep}seek might of earth,",
+            "(For earth cures drink,{\\sep}and fire cures ills,",
+            "The oak cures tightness,{\\sep}the ear cures magic,",
+            "Rye cures rupture,{\\sep}the moon cures rage,",
+            "Grass cures the scab,{\\sep}and runes the sword-cut;)",
+            "The field absorbs the flood."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 137
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Now are Hor's words{\\sep}spoken in the hall,",
+            "Kind for the kindred of men,",
+            "Cursed for the kindred of giants:",
+            "Hail to the speaker,{\\sep}and to him who learns!",
+            "Profit be his who has them!",
+            "Hail to them who hearken!"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 138
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I ween that I hung{\\sep}on the windy tree,",
+            "Hung there for nights full nine;",
+            "With the spear I was wounded,{\\sep}and offered I was",
+            "To Othin, myself to myself,",
+            "On the tree that none{\\sep}may ever know",
+            "What root beneath it runs."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 139
+    },
+    {
+        "comment": null,
+        "translation": [
+            "None made me happy{\\sep}with loaf or horn,",
+            "And there below I looked;",
+            "I took up the runes,{\\sep}shrieking I took them,",
+            "And forthwith back I fell."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 140
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Nine mighty songs{\\sep}I got from the son",
+            "Of Bolthorn, Bestla's father;",
+            "And a drink I got{\\sep}of the goodly mead",
+            "Poured out from Othrörir."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 141
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Then began I to thrive,{\\sep}and wisdom to get,",
+            "I grew and well I was;",
+            "Each word led me on{\\sep}to another word,",
+            "Each deed to another deed."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 142
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Runes shalt thou find,{\\sep}and fateful signs,",
+            "That the king of singers colored,",
+            "And the mighty gods have made;",
+            "Full strong the signs,{\\sep}full mighty the signs",
+            "That the ruler of gods doth write."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 143
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Othin for the gods,{\\sep}Dain for the elves,",
+            "And Dvalin for the dwarfs,",
+            "Alsvith for giants{\\sep}and all mankind,",
+            "And some myself I wrote."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 144
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Knowest how one shall write,{\\sep}knowest how one shall rede?",
+            "Knowest how one shall tint,{\\sep}knowest how one makes trial?",
+            "Knowest how one shall ask,{\\sep}knowest how one shall offer?",
+            "Knowest how one shall send,{\\sep}knowest how one shall sacrifice?"
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 145
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Better no prayer{\\sep}than too big an offering,",
+            "By thy getting measure thy gift;",
+            "Better is none{\\sep}than too big a sacrifice,",
+            ".    .    .    .    .    .    .    .    .    .",
+            "So Thund of old wrote{\\sep}ere man's race began,",
+            "Where he rose on high{\\sep}when home he came."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 146
+    },
+    {
+        "text": [
+            "\\sepline"
+        ],
+        "type": "text"
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The songs I know{\\sep}that king's wives know not,",
+            "Nor men that are sons of men;",
+            "The first is called help,{\\sep}and help it can bring thee",
+            "In sorrow and pain and sickness."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 147
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A second I know,{\\sep}that men shall need",
+            "Who leechcraft long to use;",
+            ".    .    .    .    .    .    .    .    .    .",
+            ".    .    .    .    .    .    .    .    .    ."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 148
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A third I know,{\\sep}if great is my need",
+            "Of fetters to hold my foe;",
+            "Blunt do I make{\\sep}mine enemy's blade,",
+            "Nor bites his sword or staff."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 149
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A fourth I know,{\\sep}if men shall fasten",
+            "Bonds on my bended legs;",
+            "So great is the charm{\\sep}that forth I may go,",
+            "The fetters spring from my feet,",
+            "Broken the bonds from my hands."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 150
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A fifth I know,{\\sep}if I see from afar",
+            "An arrow fly 'gainst the folk;",
+            "It flies not so swift{\\sep}that I stop it not,",
+            "If ever my eyes behold it."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 152
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A sixth I know,{\\sep}if harm one seeks",
+            "With a sapling's roots to send me;",
+            "The hero himself{\\sep}who wreaks his hate",
+            "Shall taste the ill ere I."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 152
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A seventh I know,{\\sep}if I see in flames",
+            "The hall o'er my comrades' heads;",
+            "It burns not so wide{\\sep}that I will not quench it,",
+            "I know that song to sing."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 153
+    },
+    {
+        "comment": null,
+        "translation": [
+            "An eighth I know,{\\sep}that is to all",
+            "Of greatest good to learn;",
+            "When hatred grows{\\sep}among heroes' sons,",
+            "I soon can set it right."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 154
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A ninth I know,{\\sep}if need there comes",
+            "To shelter my ship on the flood;",
+            "The wind I calm{\\sep}upon the waves,",
+            "And the sea I put to sleep."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 155
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A tenth I know,{\\sep}what time I see",
+            "House-riders flying on high;",
+            "So can I work{\\sep}that wildly they go,",
+            "Showing their true shapes,",
+            "Hence to their own homes."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 156
+    },
+    {
+        "comment": null,
+        "translation": [
+            "An eleventh I know,{\\sep}if needs I must lead",
+            "To the fight my long-loved friends;",
+            "I sing in the shields,{\\sep}and in strength they go",
+            "Whole to the field of fight,",
+            "Whole from the field of fight,",
+            "And whole they come thence home."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 157
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A twelfth I know,{\\sep}if high on a tree",
+            "I see a hanged man swing;",
+            "So do I write{\\sep}and color the runes",
+            "That forth he fares,",
+            "And to me talks."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 158
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A thirteenth I know,{\\sep}if a thane full young",
+            "With water I sprinkle well;",
+            "He shall not fall,{\\sep}though he fares mid the host,",
+            "Nor sink beneath the swords."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 159
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A fourteenth I know,{\\sep}if fain I would name",
+            "To men the mighty gods;",
+            "All know I well{\\sep}of the gods and elves,",
+            "Few be the fools know this."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 160
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A fifteenth I know,{\\sep}that before the doors",
+            "Of Delling sang Thjothrörir the dwarf;",
+            "Might he sang for the gods,{\\sep}and glory for elves,",
+            "And wisdom for Hroptatyr wise."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 161
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A sixteenth I know,{\\sep}if I seek delight",
+            "To win from a maiden wise;",
+            "The mind I turn{\\sep}of the white-armed maid,",
+            "And thus change all her thoughts."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 162
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A seventeenth I know,{\\sep}so that seldom shall go",
+            "A maiden young from me;",
+            ".    .    .    .    .    .    .    .    .    .",
+            ".    .    .    .    .    .    .    .    .    ."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 163
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Long these songs{\\sep}thou shalt, Loddfafnir,",
+            "Seek in vain to sing;",
+            "Yet good it were{\\sep}if thou mightest get them,",
+            "Well, if thou wouldst them learn,",
+            "Help, if thou hadst them."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 164
+    },
+    {
+        "comment": null,
+        "translation": [
+            "An eighteenth I know,{\\sep}that ne'er will I tell",
+            "To maiden or wife of man,--",
+            "The best is what none{\\sep}but one's self doth know,",
+            "So comes the end of the songs,--",
+            "Save only to her{\\sep}in whose arms I lie,",
+            "Or who else my sister is."
+        ],
+        "type": "stanza pair",
+        "original": "",
+        "number": 165
     }
 ]
