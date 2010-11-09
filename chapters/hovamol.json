@@ -45,7 +45,13 @@
             "And sit in the seats within."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+		"Ga`ttir allar,{\\sep}a`þr gangi fram,",
+		"umb skoþask skyli,",
+		"umb skygansk skyli;",
+		"þvi`t o`vist es,{\\sep}hvar o`vinir",
+		"sitja a` fleti fyrir."
+	],
         "number": 1
     },
     {
@@ -59,7 +65,12 @@
             "The proof of his might to make."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+		"Gefendr heilir!{\\sep}gestr's inn kominn;",
+		"hvar skal sitja sja`?",
+		"mjo~k es bra`þr{\\sep}sa`s a` bro~ndum skal",
+		"si`ns of freista frama."
+	],
         "number": 2
     },
     {
