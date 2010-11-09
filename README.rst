@@ -19,8 +19,10 @@ This will help if I ever decide to start using ``ledmac`` and ``ledpar`` package
 Sources by chapter
 ------------------
 
-* Voluspo: http://notendur.hi.is/eybjorn/ugm/voluspa/vsp3.html
-* Hovamol:
+Sources: **Gering** ("Die Lieder der Šlteren Edda" by by Karl Hildebrand and Hugo Gering)
+
+* Voluspo: Gering,
+* Hovamol: Gering.
 
 ---------------
 Release history
@@ -40,7 +42,8 @@ Hovamol (planned)
 
 * Add Hovamol chapter and pronounciation guide;
 * Generalize build script;
-* Try to find better font combination.
+* Try to find better font combination. (kind of done)
+* Use Gering's book as source for Voluspo (done)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
