@@ -46,12 +46,12 @@
         ],
         "type": "stanza pair",
         "original": [
-		"Ga`ttir allar,{\\sep}a`þr gangi fram,",
-		"umb skoþask skyli,",
-		"umb skygansk skyli;",
-		"þvi`t o`vist es,{\\sep}hvar o`vinir",
-		"sitja a` fleti fyrir."
-	],
+            "Ga`ttir allar,{\\sep}a`þr gangi fram,",
+            "umb skoþask skyli,",
+            "umb skygansk skyli;",
+            "þvi`t o`vist es,{\\sep}hvar o`vinir",
+            "sitja a` fleti fyrir."
+        ],
         "number": 1
     },
     {
@@ -66,11 +66,11 @@
         ],
         "type": "stanza pair",
         "original": [
-		"Gefendr heilir!{\\sep}gestr's inn kominn;",
-		"hvar skal sitja sja`?",
-		"mjo~k es bra`þr{\\sep}sa`s a` bro~ndum skal",
-		"si`ns of freista frama."
-	],
+            "Gefendr heilir!{\\sep}gestr's inn kominn;",
+            "hvar skal sitja sja`?",
+            "mjo~k es bra`þr{\\sep}sa`s a` bro~ndum skal",
+            "si`ns of freista frama."
+        ],
         "number": 2
     },
     {
@@ -82,7 +82,12 @@
             "The man from the mountains come."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 3
     },
     {
@@ -94,7 +99,12 @@
             "Wisely and well must he act."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 4
     },
     {
@@ -106,7 +116,12 @@
             "When among such men he sits."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 5
     },
     {
@@ -122,7 +137,12 @@
             "Than wisdom tried and true.)"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 6
     },
     {
@@ -134,7 +154,12 @@
             "Thus wary are wise men all."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 7
     },
     {
@@ -146,7 +171,12 @@
             "That is hid in another's heart."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 8
     },
     {
@@ -158,7 +188,12 @@
             "Has from another's heart."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 9
     },
     {
@@ -170,7 +205,12 @@
             "And in grief a refuge it gives."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 10
     },
     {
@@ -182,7 +222,12 @@
             "Than an over-drinking of ale."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 11
     },
     {
@@ -196,7 +241,12 @@
             "Of his mind the mastery hold."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 12
     },
     {
@@ -212,7 +262,12 @@
             "And in Gunnloth's house was held."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 13
     },
     {
@@ -227,7 +282,12 @@
             "His wisdom with him home."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 14
     },
     {
@@ -239,7 +299,12 @@
             "Till the day of his death is come."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 15
     },
     {
@@ -251,7 +316,12 @@
             "Though spears may spare his life."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 16
     },
     {
@@ -263,7 +333,12 @@
             "What the mind of the man is like."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 17
     },
     {
@@ -275,7 +350,12 @@
             "That wealth of wisdom has."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 18
     },
     {
@@ -287,7 +367,12 @@
             "If soon thy bed thou seekest."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 19
     },
     {
@@ -299,7 +384,12 @@
             "To scorn by his belly is brought."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 20
     },
     {
@@ -311,7 +401,12 @@
             "Shall never know aright."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 21
     },
     {
@@ -323,7 +418,12 @@
             "That he is not free from faults."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 22
     },
     {
@@ -335,7 +435,12 @@
             "And his woe is just as it was."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 23
     },
     {
@@ -347,7 +452,12 @@
             "Though hatred of him they speak."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 24
     },
     {
@@ -361,7 +471,12 @@
             "That few in his favor will speak."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 25
     },
     {
@@ -373,7 +488,12 @@
             "When others with questions come."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 26
     },
     {
@@ -389,7 +509,12 @@
             "When his mouth has been open too much.)"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 27
     },
     {
@@ -401,7 +526,12 @@
             "Among the sons of men."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 28
     },
     {
@@ -413,7 +543,12 @@
             "Oft for itself sings ill."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 29
     },
     {
@@ -425,7 +560,12 @@
             "And safely he sits dry-skinned."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 30
     },
     {
@@ -437,7 +577,12 @@
             "Though he mocks in the midst of his foes."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 31
     },
     {
@@ -449,7 +594,12 @@
             "When guests together strive."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 32
     },
     {
@@ -461,7 +611,12 @@
             "And little is able to ask."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 33
     },
     {
@@ -473,7 +628,12 @@
             "Though far away he fare."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 34
     },
     {
@@ -485,7 +645,12 @@
             "By the hearth in another's home."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 35
     },
     {
@@ -499,7 +664,12 @@
             "Are better far than begging."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 36
     },
     {
@@ -513,7 +683,12 @@
             "When food he fain would have."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 37
     },
     {
@@ -525,7 +700,12 @@
             "Shall arise on the distant road."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 38
     },
     {
@@ -539,7 +719,12 @@
             "For much goes worse than we wish."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 39
     },
     {
@@ -553,7 +738,12 @@
             "That of recompense hatred he had."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 40
     },
     {
@@ -567,7 +757,12 @@
             "If fair their fates may be."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 41
     },
     {
@@ -579,7 +774,12 @@
             "And fraud with falsehood meet."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 42
     },
     {
@@ -591,7 +791,12 @@
             "With one of his foeman's friends."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 43
     },
     {
@@ -603,7 +808,12 @@
             "And fare to find him oft."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 44
     },
     {
@@ -615,7 +825,12 @@
             "And fraud with falsehood requite."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 45
     },
     {
@@ -627,7 +842,12 @@
             "Like gifts to his shalt thou give."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 46
     },
     {
@@ -639,7 +859,12 @@
             "For man is man's delight."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 47
     },
     {
@@ -651,7 +876,12 @@
             "And not gladly the niggard gives."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 48
     },
     {
@@ -663,7 +893,12 @@
             "But the naked man is nought."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 49
     },
     {
@@ -675,7 +910,12 @@
             "Why should his life be long?"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 50
     },
     {
@@ -687,7 +927,12 @@
             "And ended is all the love."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 51
     },
     {
@@ -699,7 +944,12 @@
             "A friend full fast I made."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 52
     },
     {
@@ -711,7 +961,12 @@
             "Yet half-wise only are all."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 53
     },
     {
@@ -723,7 +978,12 @@
             "Whose wisdom wide has grown."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 54
     },
     {
@@ -737,7 +997,12 @@
             "If wisdom too great he has won."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 55
     },
     {
@@ -749,7 +1014,12 @@
             "For so is he freest from sorrow."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 56
     },
     {
@@ -761,7 +1031,12 @@
             "And the stupid by their stillness."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 57
     },
     {
@@ -773,7 +1048,12 @@
             "Or the sleeping man success."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 58
     },
     {
@@ -785,7 +1065,12 @@
             "For the swift is wealth half won."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 59
     },
     {
@@ -797,7 +1082,12 @@
             "Or in half a year he will use."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 60
     },
     {
@@ -812,7 +1102,12 @@
             "(Though poor be the horse he has.)"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 61
     },
     {
@@ -826,7 +1121,12 @@
             "Who few to speak for him finds."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 62
     },
     {
@@ -838,7 +1138,12 @@
             "All know what is known to three."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 63
     },
     {
@@ -850,7 +1155,12 @@
             "That the boldest he may not be."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 64
     },
     {
@@ -867,7 +1177,12 @@
             "He will get but an evil gift."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 65
     },
     {
@@ -879,7 +1194,12 @@
             "Little the loathed man finds."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 66
     },
     {
@@ -891,7 +1211,12 @@
             "Where only one I had eaten."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 67
     },
     {
@@ -903,7 +1228,12 @@
             "And a life not stained with sin."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 68
     },
     {
@@ -915,7 +1245,12 @@
             "And some from worthy works."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 69
     },
     {
@@ -929,7 +1264,12 @@
             "And before his door he lay dead."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 70
     },
     {
@@ -941,7 +1281,12 @@
             "No good can come of a corpse."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 71
     },
     {
@@ -953,7 +1298,12 @@
             "Save when kinsman honors his kin."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 72
     },
     {
@@ -963,7 +1313,12 @@
             "In each furry coat{\\sep}a fist I look for."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 73
     },
     {
@@ -981,7 +1336,12 @@
             "And more in a month's time."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 74
     },
     {
@@ -996,7 +1356,12 @@
             "Yet scorn for him none should know."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 75
     },
     {
@@ -1011,7 +1376,12 @@
             "Of friends the falsest it is."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 76
     },
     {
@@ -1023,7 +1393,12 @@
             "If good renown one gets."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 77
     },
     {
@@ -1035,7 +1410,12 @@
             "The fame of a dead man's deeds."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 78
     },
     {
@@ -1056,7 +1436,12 @@
             "Silence is safest and best."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 79
     },
     {
@@ -1068,7 +1453,12 @@
             "Straight forward he fares in conceit."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 80
     },
     {
@@ -1094,7 +1484,12 @@
             "To ice when it is crossed,{\\sep}to ale that is drunk."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 81
     },
     {
@@ -1106,7 +1501,12 @@
             "Cuts from the sword,{\\sep}from the maiden kisses."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 82
     },
     {
@@ -1117,7 +1517,12 @@
             "The horse at home fatten,{\\sep}the hound in thy dwelling."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 83
     },
     {
@@ -1137,7 +1542,12 @@
             "And fickle their breasts were formed."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 84
     },
     {
@@ -1151,7 +1561,12 @@
             "In billowy seas{\\sep}or a bubbling kettle,"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 85
     },
     {
@@ -1163,7 +1578,12 @@
             "In the sport of bears{\\sep}or in sons of kings,"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 86
     },
     {
@@ -1178,7 +1598,12 @@
             "A flattering witch{\\sep}or a foe new slain."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 87
     },
     {
@@ -1193,7 +1618,12 @@
             "None had ever such faith{\\sep}as to trust in them all."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 88
     },
     {
@@ -1205,7 +1635,12 @@
             "And oft is either denied."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 89
     },
     {
@@ -1224,7 +1659,12 @@
             "Or, lame, hunting reindeer{\\sep}on slippery rocks."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 90
     },
     {
@@ -1242,7 +1682,12 @@
             "Against wisdom we work with deceit."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 91
     },
     {
@@ -1254,7 +1699,12 @@
             "He wins whose wooing is best."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 92
     },
     {
@@ -1266,7 +1716,12 @@
             "By beauty that breeds desire."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 93
     },
     {
@@ -1278,7 +1733,12 @@
             "Are made by mighty love."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 94
     },
     {
@@ -1290,7 +1750,12 @@
             "Than to lack the longed-for joy."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 95
     },
     {
@@ -1305,7 +1770,12 @@
             "Yet her I never had."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 96
     },
     {
@@ -1317,7 +1787,12 @@
             "Without that form so fair."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 97
     },
     {
@@ -1329,7 +1804,12 @@
             "Should know of such a sin.''"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 98
     },
     {
@@ -1341,7 +1821,12 @@
             "Measureless joy with the maid."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 99
     },
     {
@@ -1353,7 +1838,12 @@
             "I learned my luckess way."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 100
     },
     {
@@ -1365,15 +1855,20 @@
             "Bound there upon her bed."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 101
     },
     {
         "comment": [
-                "Rask adds at the beginning of this stanza two lines from a late paper manuscript, running:",
-                "\\myverse{Few are so good{\\sep}that false they are never \\\\",
-                "To cheat the mind of a man.}",
-                "He makes these two lines plus lines 1 and 2 a full stanza, and line 3, 4, 5, and 6 a second stanza."
+            "Rask adds at the beginning of this stanza two lines from a late paper manuscript, running:",
+            "\\myverse{Few are so good{\\sep}that false they are never \\\\",
+            "To cheat the mind of a man.}",
+            "He makes these two lines plus lines 1 and 2 a full stanza, and line 3, 4, 5, and 6 a second stanza."
         ],
         "translation": [
             "Many fair maids,{\\sep}if a man but tries them,",
@@ -1384,7 +1879,12 @@
             "And nought from the woman I won."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 102
     },
     {
@@ -1395,7 +1895,7 @@
     },
     {
         "comment": [
-                "With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas \\stanzarangeref{104}{110})."
+            "With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas \\stanzarangeref{104}{110})."
         ],
         "translation": [
             "Though glad at home,{\\sep}and merry with guests,",
@@ -1406,15 +1906,20 @@
             "For such is the way of the witless."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 103
     },
     {
         "comment": [
-                "The giant \\emph{Suttung} (``the old giant'') possessed the magic mead, a draught of which conferred the gift of poetry.",
-                "Othin, desiring to obtain it, changed himself into a snake, bored his way through a mountain into Suttung's home, made love to the giant's daughter, Gunnloth, and by her connivance drank up all the mead.",
-                "Then he flew away in the form of an eagle, leaving Gunnloth to her fate.",
-                "While with Suttung he assumed the name of Bolverk (``the Evil-Doer'')."
+            "The giant \\emph{Suttung} (``the old giant'') possessed the magic mead, a draught of which conferred the gift of poetry.",
+            "Othin, desiring to obtain it, changed himself into a snake, bored his way through a mountain into Suttung's home, made love to the giant's daughter, Gunnloth, and by her connivance drank up all the mead.",
+            "Then he flew away in the form of an eagle, leaving Gunnloth to her fate.",
+            "While with Suttung he assumed the name of Bolverk (``the Evil-Doer'')."
         ],
         "translation": [
             "I found the old giant,{\\sep}now back have I fared,",
@@ -1423,12 +1928,17 @@
             "I spoke in Suttung's hall."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 104
     },
     {
         "comment": [
-                "\\emph{Rati} (``the Traveller''): the gimlet with which Othin bored through the mountain to reach Suttung's home."
+            "\\emph{Rati} (``the Traveller''): the gimlet with which Othin bored through the mountain to reach Suttung's home."
         ],
         "translation": [
             "The mouth of Rati{\\sep}made room for my passage,",
@@ -1437,12 +1947,17 @@
             "So rashly I risked my head."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 105
     },
     {
         "comment": [
-                "Probably either the fourth or the fifth line is a spurious addition."
+            "Probably either the fourth or the fifth line is a spurious addition."
         ],
         "translation": [
             "Gunnloth gave{\\sep}on a golden stool",
@@ -1452,13 +1967,18 @@
             "And her spirit troubled sore."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 106
     },
     {
         "comment": [
-                "\\emph{Othrörir:} here the name of the magic mead itself, whereas in stanza \\stanzaref{141} it is the name of the vessel containing it.",
-                "Othin had no intention of bestowing any of the precious mead upon men, but as he was flying over the earth, hotly pursued by Suttung, he spilled some of it out of his mouth, and in this way mankind also won the gift of poetry."
+            "\\emph{Othrörir:} here the name of the magic mead itself, whereas in stanza \\stanzaref{141} it is the name of the vessel containing it.",
+            "Othin had no intention of bestowing any of the precious mead upon men, but as he was flying over the earth, hotly pursued by Suttung, he spilled some of it out of his mouth, and in this way mankind also won the gift of poetry."
         ],
         "translation": [
             "The well-earned beauty{\\sep}well I enjoyed,",
@@ -1467,14 +1987,19 @@
             "To the midst of the men of earth."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 107
     },
     {
         "comment": [
-                "\\emph{Hor:} Othin (``the High One'').",
-                "The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza \\stanzaref{110} to was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.",
-                "The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring."
+            "\\emph{Hor:} Othin (``the High One'').",
+            "The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza \\stanzaref{110} to was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.",
+            "The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring."
         ],
         "translation": [
             "Hardly, methinks,{\\sep}would I home have come,",
@@ -1483,7 +2008,12 @@
             "Whose arms about me had been."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 108
     },
     {
@@ -1496,7 +2026,12 @@
             "Or had Suttung slain him there?"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 109
     },
     {
@@ -1508,7 +2043,12 @@
             "And Gunnloth to grief he left."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 110
     },
     {
@@ -1519,13 +2059,13 @@
     },
     {
         "comment": [
-                "With this stanza begins the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}).",
-                "Loddfafnir is apparently a wandering singer, who, from his ``chanter's stool,'' recites the verses which he claims to have received from Othin.",
-                "\\emph{Wells of Urth:} cf. \\combinedref{Voluspo}{19} and note.",
-                "\\emph{Urth} (``the Past'') is one of the three Norns.",
-                "This stanza is apparently in corrupt form, and editors have tried many experiments with it, both in rejecting lines as spurious and in rear ranging the words and punctuation.",
-                "It looks rather as though the first four lines formed a complete stanza, and the last four had crept in later.",
-                "The phrase translated ``the speech of Hor'' is ``Hova mol,'' later used as the title for the entire poem."
+            "With this stanza begins the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}).",
+            "Loddfafnir is apparently a wandering singer, who, from his ``chanter's stool,'' recites the verses which he claims to have received from Othin.",
+            "\\emph{Wells of Urth:} cf. \\combinedref{Voluspo}{19} and note.",
+            "\\emph{Urth} (``the Past'') is one of the three Norns.",
+            "This stanza is apparently in corrupt form, and editors have tried many experiments with it, both in rejecting lines as spurious and in rear ranging the words and punctuation.",
+            "It looks rather as though the first four lines formed a complete stanza, and the last four had crept in later.",
+            "The phrase translated ``the speech of Hor'' is ``Hova mol,'' later used as the title for the entire poem."
         ],
         "translation": [
             "It is time to chant{\\sep}from the chanter's stool;",
@@ -1538,14 +2078,19 @@
             "Such was the speech I heard.)"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 111
     },
     {
         "comment": [
-                "Lines 1\\ndash3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas \\stanzaref{111} and \\stanzaref{138}, Loddfafnir represents himself as simply quoting Othin's words.",
-                "The material is closely analogous to that contained in the first eighty stanzas of the poem.",
-                "In some cases (e. g., stanzas \\stanzaref{117}, \\stanzaref{119}, \\stanzaref{121}, \\stanzaref{126} and \\stanzaref{130}) the formula precedes a full four-line stanza instead of two (or three) lines."
+            "Lines 1\\ndash3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas \\stanzaref{111} and \\stanzaref{138}, Loddfafnir represents himself as simply quoting Othin's words.",
+            "The material is closely analogous to that contained in the first eighty stanzas of the poem.",
+            "In some cases (e. g., stanzas \\stanzaref{117}, \\stanzaref{119}, \\stanzaref{121}, \\stanzaref{126} and \\stanzaref{130}) the formula precedes a full four-line stanza instead of two (or three) lines."
         ],
         "translation": [
             "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
@@ -1555,7 +2100,12 @@
             "Or fain to the outhouse wouldst fare."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 112
     },
     {
@@ -1568,7 +2118,12 @@
             "Nor let her limbs ensnare thee."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 113
     },
     {
@@ -1580,7 +2135,12 @@
             "And sadly to slumber thou farest."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 114
     },
     {
@@ -1593,7 +2153,12 @@
             "Or long for her secret love."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 115
     },
     {
@@ -1606,7 +2171,12 @@
             "Look well to thy food for the way."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 116
     },
     {
@@ -1621,7 +2191,12 @@
             "Reward for a worthy thought."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 117
     },
     {
@@ -1633,7 +2208,12 @@
             "And no word of truth there was."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 118
     },
     {
@@ -1648,7 +2228,12 @@
             "On the rarely trodden road."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 119
     },
     {
@@ -1661,7 +2246,12 @@
             "And give heed to his healing charms."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 120
     },
     {
@@ -1676,7 +2266,12 @@
             "To another all thy thought."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 121
     },
     {
@@ -1689,7 +2284,12 @@
             "Thou must not ever make."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 122
     },
     {
@@ -1701,7 +2301,12 @@
             "Through words of praise will win thee."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 123
     },
     {
@@ -1713,7 +2318,12 @@
             "No friend speaks only fair."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 124
     },
     {
@@ -1727,7 +2337,12 @@
             "When the worse man wields a sword."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 125
     },
     {
@@ -1742,7 +2357,12 @@
             "Then evil of thee men think."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 126
     },
     {
@@ -1755,7 +2375,12 @@
             "And make no friendship with foes."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 127
     },
     {
@@ -1768,12 +2393,17 @@
             "But glad the good shall make thee."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 128
     },
     {
         "comment": [
-                "Line 5 is apparently interpolated."
+            "Line 5 is apparently interpolated."
         ],
         "translation": [
             "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
@@ -1784,7 +2414,12 @@
             "Lest men bewitch thy wits."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 129
     },
     {
@@ -1799,12 +2434,17 @@
             "None loathes what good he gets."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 130
     },
     {
         "comment": [
-                "Lines 5\\ndash6 probably were inserted from a different poem."
+            "Lines 5\\ndash6 probably were inserted from a different poem."
         ],
         "translation": [
             "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
@@ -1815,7 +2455,12 @@
             "And third beware{\\sep}lest a thief outwit thee.)"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 131
     },
     {
@@ -1828,15 +2473,20 @@
             "Of a guest or a journey-goer."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 132
     },
     {
         "comment": [
-                "Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza.",
-                "Others, attaching lines 3 and 4 to stanza \\stanzaref{132}, insert as the first two lines of stanza \\stanzaref{133} two lines from a late paper manuscript, running:",
-                "\\myverse{Evil and good{\\sep}do men's sons ever \\\\",
-                "Mingled bear in their breasts.}"
+            "Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza.",
+            "Others, attaching lines 3 and 4 to stanza \\stanzaref{132}, insert as the first two lines of stanza \\stanzaref{133} two lines from a late paper manuscript, running:",
+            "\\myverse{Evil and good{\\sep}do men's sons ever \\\\",
+            "Mingled bear in their breasts.}"
         ],
         "translation": [
             "Oft scarcely he knows{\\sep}who sits in the house",
@@ -1845,13 +2495,18 @@
             "Nor so wicked that nought he is worth."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 133
     },
     {
         "comment": [
-                "Presumably the last four lines have been added to this stanza, for the parallelism in the last three makes it probable that they belong together.",
-                "The wrinkled skin of the old man is compared with the dried skins and bellies of animals kept for various purposes hanging in an Icelandic house."
+            "Presumably the last four lines have been added to this stanza, for the parallelism in the last three makes it probable that they belong together.",
+            "The wrinkled skin of the old man is compared with the dried skins and bellies of animals kept for various purposes hanging in an Icelandic house."
         ],
         "translation": [
             "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
@@ -1865,7 +2520,12 @@
             "And is blown with the bellies.)"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 134
     },
     {
@@ -1878,14 +2538,19 @@
             "Deal well with a man in want."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 135
     },
     {
         "comment": [
-                "This stanza suggests the dangers of too much hospitality.",
-                "The beam (bolt) which is ever being raised to admit guests be comes weak thereby.",
-                "It needs a ring to help it in keeping the door closed, and without the ability at times to ward off guests a man becomes the victim of his own generosity."
+            "This stanza suggests the dangers of too much hospitality.",
+            "The beam (bolt) which is ever being raised to admit guests be comes weak thereby.",
+            "It needs a ring to help it in keeping the door closed, and without the ability at times to ward off guests a man becomes the victim of his own generosity."
         ],
         "translation": [
             "Strong is the beam{\\sep}that raised must be",
@@ -1894,13 +2559,18 @@
             "The wish it would work on thee."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 136
     },
     {
         "comment": [
-                "The list of ``household remedies'' in this stanza is doubtless interpolated.",
-                "Their nature needs no comment here."
+            "The list of ``household remedies'' in this stanza is doubtless interpolated.",
+            "Their nature needs no comment here."
         ],
         "translation": [
             "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
@@ -1914,13 +2584,18 @@
             "The field absorbs the flood."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 137
     },
     {
         "comment": [
-                "In the manuscript this stanza comes at the end of the entire poem, following stanza \\stanzaref{165}.",
-                "Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza \\stanzaref{111}."
+            "In the manuscript this stanza comes at the end of the entire poem, following stanza \\stanzaref{165}.",
+            "Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza \\stanzaref{111}."
         ],
         "translation": [
             "Now are Hor's words{\\sep}spoken in the hall,",
@@ -1931,7 +2606,12 @@
             "Hail to them who hearken!"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 138
     },
     {
@@ -1942,12 +2622,12 @@
     },
     {
         "comment": [
-                "With this stanza begins the most confusing part of the \\chapterref{Hovamol:} the group of eight stanzas leading up to the Ljothatal, or list of charms.",
-                "Certain paper manuscripts have before this stanza a title: ``Othin's Tale of the Runes.''",
-                "Apparently stanzas \\stanzaref{139}, \\stanzaref{140} and \\stanzaref{142} are fragments of an account of how Othin obtained the runes; \\stanzaref{141} is erroneously inserted from some version of the magic mead story (cf. stanzas \\stanzarangeref{104}{110}); and stanzas \\stanzaref{143}, \\stanzaref{144}, \\stanzaref{145}, and \\stanzaref{146} are from miscellaneous sources, all, however, dealing with the general subject of runes.",
-                "With stanza \\stanzaref{147} a clearly continuous passage begins once more.",
-                "\\emph{The windy tree:} the ash Yggdrasil (literally ``the Horse of Othin,'' so called because of this story), on which Othin, in order to win the magic runes, hanged himself as an offering to himself, and wounded himself with his own spear.",
-                "Lines 5 and 6 have presumably been borrowed from \\combinedref{Svipdagsmol}{30}."
+            "With this stanza begins the most confusing part of the \\chapterref{Hovamol:} the group of eight stanzas leading up to the Ljothatal, or list of charms.",
+            "Certain paper manuscripts have before this stanza a title: ``Othin's Tale of the Runes.''",
+            "Apparently stanzas \\stanzaref{139}, \\stanzaref{140} and \\stanzaref{142} are fragments of an account of how Othin obtained the runes; \\stanzaref{141} is erroneously inserted from some version of the magic mead story (cf. stanzas \\stanzarangeref{104}{110}); and stanzas \\stanzaref{143}, \\stanzaref{144}, \\stanzaref{145}, and \\stanzaref{146} are from miscellaneous sources, all, however, dealing with the general subject of runes.",
+            "With stanza \\stanzaref{147} a clearly continuous passage begins once more.",
+            "\\emph{The windy tree:} the ash Yggdrasil (literally ``the Horse of Othin,'' so called because of this story), on which Othin, in order to win the magic runes, hanged himself as an offering to himself, and wounded himself with his own spear.",
+            "Lines 5 and 6 have presumably been borrowed from \\combinedref{Svipdagsmol}{30}."
         ],
         "translation": [
             "I ween that I hung{\\sep}on the windy tree,",
@@ -1958,7 +2638,12 @@
             "What root beneath it runs."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 139
     },
     {
@@ -1970,17 +2655,22 @@
             "And forthwith back I fell."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 140
     },
     {
         "comment": [
-                "This stanza, interrupting as it does the account of Othin's winning the runes, appears to be an interpolation.",
-                "The meaning of the stanza is most obscure.",
-                "Bolthorn was Othin's grandfather, and Bestla his mother.",
-                "We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. \\combinedref{Voluspo}{27} and note, and {\\stanzaref[Voluspo]{47}} and note).",
-                "In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas \\stanzarangeref{104}{110}).",
-                "Concerning \\emph{Othrörir,} here used as the name of the vessel containing the mead, cf. stanza \\stanzaref{107} and note."
+            "This stanza, interrupting as it does the account of Othin's winning the runes, appears to be an interpolation.",
+            "The meaning of the stanza is most obscure.",
+            "Bolthorn was Othin's grandfather, and Bestla his mother.",
+            "We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. \\combinedref{Voluspo}{27} and note, and {\\stanzaref[Voluspo]{47}} and note).",
+            "In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas \\stanzarangeref{104}{110}).",
+            "Concerning \\emph{Othrörir,} here used as the name of the vessel containing the mead, cf. stanza \\stanzaref{107} and note."
         ],
         "translation": [
             "Nine mighty songs{\\sep}I got from the son",
@@ -1989,7 +2679,12 @@
             "Poured out from Othrörir."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 141
     },
     {
@@ -2001,16 +2696,21 @@
             "Each deed to another deed."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 142
     },
     {
         "comment": [
-                "This and the following stanza belong together, and in many editions appear as a single stanza.",
-                "They presumably come from some lost poem on the authorship of the runes.",
-                "Lines 2 and 3 follow line 4 in the manuscript; the transposition was suggested by Bugge.",
-                "\\emph{The king of singers:} Othin.",
-                "The magic signs (runes) were commonly carved in wood, then colored red."
+            "This and the following stanza belong together, and in many editions appear as a single stanza.",
+            "They presumably come from some lost poem on the authorship of the runes.",
+            "Lines 2 and 3 follow line 4 in the manuscript; the transposition was suggested by Bugge.",
+            "\\emph{The king of singers:} Othin.",
+            "The magic signs (runes) were commonly carved in wood, then colored red."
         ],
         "translation": [
             "Runes shalt thou find,{\\sep}and fateful signs,",
@@ -2020,17 +2720,22 @@
             "That the ruler of gods doth write."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 143
     },
     {
         "comment": [
-                "\\emph{Dain} and \\emph{Dvalin:} dwarfs; cf. \\combinedref{Voluspo}{14}, and note.",
-                "Dain, however, may here be one of the elves rather than the dwarf of that name.",
-                "The two names also appear together in \\combinedref{Grimnismol}{33}, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil.",
-                "\\emph{Alsvith} (``the All Wise'') appears nowhere else as a giant's name.",
-                "\\emph{Myself:} Othin.",
-                "We have no further information concerning the list of those who wrote the runes for the various races, and these four lines seem like a confusion of names in the rather hazy mind of some reciter."
+            "\\emph{Dain} and \\emph{Dvalin:} dwarfs; cf. \\combinedref{Voluspo}{14}, and note.",
+            "Dain, however, may here be one of the elves rather than the dwarf of that name.",
+            "The two names also appear together in \\combinedref{Grimnismol}{33}, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil.",
+            "\\emph{Alsvith} (``the All Wise'') appears nowhere else as a giant's name.",
+            "\\emph{Myself:} Othin.",
+            "We have no further information concerning the list of those who wrote the runes for the various races, and these four lines seem like a confusion of names in the rather hazy mind of some reciter."
         ],
         "translation": [
             "Othin for the gods,{\\sep}Dain for the elves,",
@@ -2039,14 +2744,19 @@
             "And some myself I wrote."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 144
     },
     {
         "comment": [
-                "This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one ``writes'' and ``tints'' (cf. stanza \\stanzaref{79}) than with the prayers which one ``asks'' and the sacrifices which one ``offers'' and ``sends.''",
-                "Its origin is wholly uncertain, but it is clearly an interpolation here.",
-                "In the manuscript the phrase ``knowest?'' is abbreviated after the first line."
+            "This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one ``writes'' and ``tints'' (cf. stanza \\stanzaref{79}) than with the prayers which one ``asks'' and the sacrifices which one ``offers'' and ``sends.''",
+            "Its origin is wholly uncertain, but it is clearly an interpolation here.",
+            "In the manuscript the phrase ``knowest?'' is abbreviated after the first line."
         ],
         "translation": [
             "Knowest how one shall write,{\\sep}knowest how one shall rede?",
@@ -2055,16 +2765,21 @@
             "Knowest how one shall send,{\\sep}knowest how one shall sacrifice?"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 145
     },
     {
         "comment": [
-                "This stanza as translated here follows the manuscript reading, except in assuming a gap between lines 3 and 5.",
-                "In Vigfusson and Powell's \\emph{Corpus Poeticum Boreale} the first three lines have somehow been expanded into eight.",
-                "The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza \\stanzaref{144}.",
-                "\\emph{Thund:} another name for Othin.",
-                "\\emph{When home he came:} presumably after obtaining the runes as described in stanzas \\stanzaref{139} and \\stanzaref{140}."
+            "This stanza as translated here follows the manuscript reading, except in assuming a gap between lines 3 and 5.",
+            "In Vigfusson and Powell's \\emph{Corpus Poeticum Boreale} the first three lines have somehow been expanded into eight.",
+            "The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza \\stanzaref{144}.",
+            "\\emph{Thund:} another name for Othin.",
+            "\\emph{When home he came:} presumably after obtaining the runes as described in stanzas \\stanzaref{139} and \\stanzaref{140}."
         ],
         "translation": [
             "Better no prayer{\\sep}than too big an offering,",
@@ -2075,7 +2790,12 @@
             "Where he rose on high{\\sep}when home he came."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 146
     },
     {
@@ -2086,11 +2806,11 @@
     },
     {
         "comment": [
-                "With this stanza begins the Ljothatal, or list of charms.",
-                "The magic songs themselves are not given, but in each case the peculiar application of the charm is explained.",
-                "The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem.",
-                "In the manuscript and in most editions line 4 falls into two half-lines, running:",
-                "\\myverse{In sickness and pain{\\sep}and every sorrow.}"
+            "With this stanza begins the Ljothatal, or list of charms.",
+            "The magic songs themselves are not given, but in each case the peculiar application of the charm is explained.",
+            "The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem.",
+            "In the manuscript and in most editions line 4 falls into two half-lines, running:",
+            "\\myverse{In sickness and pain{\\sep}and every sorrow.}"
         ],
         "translation": [
             "The songs I know{\\sep}that king's wives know not,",
@@ -2099,13 +2819,18 @@
             "In sorrow and pain and sickness."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 147
     },
     {
         "comment": [
-                "\\emph{Second,} etc., appear in the manuscript as Roman numerals.",
-                "The manuscript indicates no gap after line 2."
+            "\\emph{Second,} etc., appear in the manuscript as Roman numerals.",
+            "The manuscript indicates no gap after line 2."
         ],
         "translation": [
             "A second I know,{\\sep}that men shall need",
@@ -2114,7 +2839,12 @@
             "\\lacuna"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 148
     },
     {
@@ -2126,7 +2856,12 @@
             "Nor bites his sword or staff."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 149
     },
     {
@@ -2139,13 +2874,18 @@
             "Broken the bonds from my hands."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 150
     },
     {
         "comment": [
-                "The sending of a root with runes written thereon was an excellent way of causing death.",
-                "So died the Icelandic hero Grettir the Strong."
+            "The sending of a root with runes written thereon was an excellent way of causing death.",
+            "So died the Icelandic hero Grettir the Strong."
         ],
         "translation": [
             "A fifth I know,{\\sep}if I see from afar",
@@ -2154,7 +2894,12 @@
             "If ever my eyes behold it."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 152
     },
     {
@@ -2166,7 +2911,12 @@
             "Shall taste the ill ere I."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 152
     },
     {
@@ -2178,7 +2928,12 @@
             "I know that song to sing."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 153
     },
     {
@@ -2190,7 +2945,12 @@
             "I soon can set it right."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 154
     },
     {
@@ -2202,13 +2962,18 @@
             "And the sea I put to sleep."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 155
     },
     {
         "comment": [
-                "\\emph{House-riders:} witches, who ride by night on the roofs of houses, generally in the form of wild beasts.",
-                "Possibly one of the last two lines is spurious."
+            "\\emph{House-riders:} witches, who ride by night on the roofs of houses, generally in the form of wild beasts.",
+            "Possibly one of the last two lines is spurious."
         ],
         "translation": [
             "A tenth I know,{\\sep}what time I see",
@@ -2218,12 +2983,17 @@
             "Hence to their own homes."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 156
     },
     {
         "comment": [
-                "The last line looks like an unwarranted addition, and line 4 may likewise be spurious."
+            "The last line looks like an unwarranted addition, and line 4 may likewise be spurious."
         ],
         "translation": [
             "An eleventh I know,{\\sep}if needs I must lead",
@@ -2234,12 +3004,17 @@
             "And whole they come thence home."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 157
     },
     {
         "comment": [
-                "Lines 4\\ndash5 are probably expanded from a single line."
+            "Lines 4\\ndash5 are probably expanded from a single line."
         ],
         "translation": [
             "A twelfth I know,{\\sep}if high on a tree",
@@ -2249,12 +3024,17 @@
             "And to me talks."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 158
     },
     {
         "comment": [
-                "The sprinkling of a child with water was an established custom long before Christianity brought its conception of baptism."
+            "The sprinkling of a child with water was an established custom long before Christianity brought its conception of baptism."
         ],
         "translation": [
             "A thirteenth I know,{\\sep}if a thane full young",
@@ -2263,7 +3043,12 @@
             "Nor sink beneath the swords."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 159
     },
     {
@@ -2275,16 +3060,21 @@
             "Few be the fools know this."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 160
     },
     {
         "comment": [
-                "This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase ``a fifteenth'' being inserted only after stanzas \\stanzarangeref{162}{165} had crept in.",
-                "\\emph{Delling:} a seldom mentioned god who married Not (Night).",
-                "Their son was Dag (Day).",
-                "\\emph{Thjothrörir:} not mentioned elsewhere.",
-                "\\emph{Hroptatyr:} Othin."
+            "This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase ``a fifteenth'' being inserted only after stanzas \\stanzarangeref{162}{165} had crept in.",
+            "\\emph{Delling:} a seldom mentioned god who married Not (Night).",
+            "Their son was Dag (Day).",
+            "\\emph{Thjothrörir:} not mentioned elsewhere.",
+            "\\emph{Hroptatyr:} Othin."
         ],
         "translation": [
             "A fifteenth I know,{\\sep}that before the doors",
@@ -2293,7 +3083,12 @@
             "And wisdom for Hroptatyr wise."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 161
     },
     {
@@ -2305,13 +3100,18 @@
             "And thus change all her thoughts."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 162
     },
     {
         "comment": [
-                "Some editors have combined these two lines with stanza \\stanzaref{164}.",
-                "Others have assumed that the gap follows the first half-line, making ``so that{\\mdash}from me'' the end of the stanza."
+            "Some editors have combined these two lines with stanza \\stanzaref{164}.",
+            "Others have assumed that the gap follows the first half-line, making ``so that{\\mdash}from me'' the end of the stanza."
         ],
         "translation": [
             "A seventeenth I know,{\\sep}so that seldom shall go",
@@ -2320,13 +3120,18 @@
             "\\lacuna"
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 163
     },
     {
         "comment": [
-                "This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point.",
-                "The words ``if thou mightest get them'' are a conjectural emendation."
+            "This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point.",
+            "The words ``if thou mightest get them'' are a conjectural emendation."
         ],
         "translation": [
             "Long these songs{\\sep}thou shalt, Loddfafnir,",
@@ -2336,13 +3141,18 @@
             "Help, if thou hadst them."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 164
     },
     {
         "comment": [
-                "This stanza is almost totally obscure.",
-                "The third and fourth lines look like interpolations."
+            "This stanza is almost totally obscure.",
+            "The third and fourth lines look like interpolations."
         ],
         "translation": [
             "An eighteenth I know,{\\sep}that ne'er will I tell",
@@ -2353,7 +3163,12 @@
             "Or who else my sister is."
         ],
         "type": "stanza pair",
-        "original": "",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
         "number": 165
     }
 ]
