@@ -52,6 +52,8 @@ Since the reader can see the Old Norse original near the translation, I omitted 
 proper names index from Bellows's book (although I can include it later,
 because it shows the accented syllables in names), leaving only the pronounciation guide
 (where I made modifications according to the set of glyphs I use).
+I have not cut any references to the index though, because that would require rearranging the text,
+and I do not want to do that yet.
 
 ---------------
 Release history
