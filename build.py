@@ -25,6 +25,12 @@ handlers = {
 
 filenames = os.listdir('chapters')
 
+if not os.path.exists('build'):
+	os.mkdir('build')
+elif not os.path.isdir('build'):
+	print "Build directory name is taken"
+	exit(1)
+
 for filename in filenames:
 	name, ext = os.path.splitext(filename)
 	if ext != '.json':
@@ -33,7 +39,7 @@ for filename in filenames:
 	blocks = json.load(codecs.open("chapters/" + filename, "r", "utf-8"))
 	res = u"\n\n".join([handlers[block['type']](block) for block in blocks])
 
-	f = codecs.open(name + ".tex", "w", "utf-8")
+	f = codecs.open("build/" + name + ".tex", "w", "utf-8")
 	f.write(res)
 	f.close()
 

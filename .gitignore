@@ -6,4 +6,5 @@
 *.gz
 *.gz(busy)
 *.toc
+build/*
 
