@@ -71,9 +71,10 @@ Voluspo (26 Oct 2010)
 Hovamol (planned)
 ~~~~~~~~~~~~~~~~~
 
-* Add Hovamol chapter and pronounciation guide;
-* Generalize build script;
-* Try to find better font combination. (kind of done)
+* Add Hovamol chapter
+* Add pronounciation guide (done, without the index)
+* Generalize build script (done)
+* Try to find better font combination.
 * Use Gering's book as source for Voluspo (done)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
