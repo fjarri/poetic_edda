@@ -368,7 +368,7 @@
     {
         "comment": [
             "Here the poem resumes its course after the interpolated section.",
-            "Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza \\stanzaref{8} and the three gods, Othin, Hǫnir and Lothur, who in stanza \\stanzaref{17} go forth to create man and woman.",
+            "Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza \\stanzaref{8} and the three gods, Othin, Hönir and Lothur, who in stanza \\stanzaref{17} go forth to create man and woman.",
             "The word ``three'' in stanzas \\stanzaref{9} and \\stanzaref{17} very likely confused some early reciter, or perhaps the compiler himself.",
             "\\emph{Ask} and \\emph{Embla:} ash and elm; Snorri gives them simply as the names of the first man and woman, but says that the gods made this pair out of trees."
         ],
@@ -389,7 +389,7 @@
     },
     {
         "comment": [
-            "\\emph{Hǫnir:} little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza \\stanzaref{63}).",
+            "\\emph{Hönir:} little is known of this god, save that he occasionally appears in the poems in company with Othin and Loki, and that he survives the destruction, assuming in the new age the gift of prophesy (cf. stanza \\stanzaref{63}).",
             "He was given by the gods as a hostage to the Wanes after their war, in exchange for Njorth (cf. stanza \\stanzaref{21} and note).",
             "\\emph{Lothur:} apparently an older name for Loki, the treacherous but ingenious son of Laufey, whose divinity Snorri regards as somewhat doubtful.",
             "He was adopted by Othin, who subsequently had good reason to regret it.",
@@ -398,7 +398,7 @@
         "translation": [
             "Soul they had not,{\\sep}sense they had not,",
             "Heat nor motion,{\\sep}nor goodly hue;",
-            "Soul gave Othin,{\\sep}sense gave Hǫnir,",
+            "Soul gave Othin,{\\sep}sense gave Hönir,",
             "Heat gave Lothur{\\sep}and goodly hue."
         ],
         "type": "stanza pair",
@@ -1077,7 +1077,7 @@
             "\\emph{Yggdrasil:} cf. stanza \\stanzaref{19} and note, and \\combinedrangeref{Grimnismol}{29}{35}.",
             "\\emph{The giant:} Fenrir.",
             "\\emph{The head of Mim:} various myths were current about Mimir.",
-            "This stanza refers to the story that he was sent by the gods with Hǫnir as a hostage to the Wanes after their war (cf. stanza \\stanzaref{21} and note), and that the Wanes cut off his head and returned it to the gods.",
+            "This stanza refers to the story that he was sent by the gods with Hönir as a hostage to the Wanes after their war (cf. stanza \\stanzaref{21} and note), and that the Wanes cut off his head and returned it to the gods.",
             "Othin embalmed the head, and by magic gave it the power of speech, thus making Mimir's noted wisdom always available.",
             "Of course this story does not fit with that underlying the references to Mimir in stanzas \\stanzaref{27} and \\stanzaref{29}.",
             "\\emph{The kinsman of Surt:} the wolf Fenrir, who slays Othin in the final struggle; cf. stanza \\stanzaref{53}.",
@@ -1430,7 +1430,7 @@
     {
         "comment": [
             "No lacuna (line 2) indicated in the manuscripts.",
-            "\\emph{Hǫnir:} cf. stanza \\stanzaref{18} and note.",
+            "\\emph{Hönir:} cf. stanza \\stanzaref{18} and note.",
             "In this new age he has the gift of foretelling the future.",
             "\\emph{Tveggi} (``The Twofold''): another name for Othin.",
             "His brothers are Vili and Ve (cf. \\combinedref{Lokasenna}{26}, and note).",
@@ -1438,7 +1438,7 @@
             "\\emph{Vindheim} (``Home of the Wind''): heaven."
         ],
         "translation": [
-            "Then Hǫnir wins{\\sep}the prophetic wand,",
+            "Then Hönir wins{\\sep}the prophetic wand,",
             "{\\lacuna}",
             "And the sons of the brothers{\\sep}of Tveggi abide",
             "In Vindheim now:{\\sep}would you know yet more?"
