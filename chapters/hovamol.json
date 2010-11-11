@@ -421,10 +421,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Vesall maþr{\\sep}ok illa skapi",
+            "hla_e`r at hvi`vetna;",
+            "hitki hann veit,{\\sep}es hann vita þyrfti,",
+            "at hann esa vamma vanr."
         ],
         "number": 22
     },
@@ -438,10 +438,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`sviþr maþr{\\sep}vakir of allar na_e`tr",
+            "ok hyggr at hvi`vetna;",
+            "þa` es mo`þr{\\sep}es at morni ko/mr,",
+            "allt es vi`l sem vas."
         ],
         "number": 23
     },
@@ -455,10 +455,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`snotr maþr{\\sep}hyggr se`r alla vesa",
+            "viþhla_e`jendr vini;",
+            "hitki hann fiþr,{\\sep}þo`t of hann fa`r lesi,",
+            "ef meþ snotrum sitr."
         ],
         "number": 24
     },
@@ -474,10 +474,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`snotr maþr{\\sep}hyggr se`r alla vesa",
+            "viþhla_e`jendr vini;",
+            "þa` þat fiþr,{\\sep}es at þingi ko/mr,",
+            "at a` forma_e`lendr faa."
         ],
         "number": 25
     },
@@ -491,10 +491,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`snotr maþr{\\sep}þykkisk allt vita,",
+            "ef a` ser i` vo~` veru;",
+            "hitki hann veit,{\\sep}hvat hann skal viþ kveþa,",
+            "ef hans freista firar."
         ],
         "number": 26
     },
@@ -512,10 +512,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`snotr maþr,{\\sep}es meþ aldir ko/mr,",
+            "þat es bazt at þegi;",
+            "engi þat veit,{\\sep}at hann etki kann,",
+            "nema hann ma_e`li til mart.",
+            "{[}veita maþr{\\sep}hinns va_e`tki veit,",
+            "þo`t hann ma_e`li til mart.{]}"
         ],
         "number": 27
     },
@@ -529,10 +531,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Fro`þr sa` þykkisk{\\sep}es fregna kann",
+            "auk segja et sama;",
+            "eyvitu leyna{\\sep}megu y`ta synir",
+            "þvi`s gengr of guma."
         ],
         "number": 28
     },
@@ -546,10 +548,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O/`rna ma_e`lir{\\sep}sa`s a_e`va þegir",
+            "staþlausu stafi;",
+            "hraþma_e`lt tunga,{\\sep}nema haldendr eigi,",
+            "opt se`r o`gott of gelr."
         ],
         "number": 29
     },
@@ -563,10 +565,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "At augabragþi{\\sep}skala maþr annan hafa,",
+            "þo`t til kynnis komi;",
+            "margr þa` fro`þr þykkisk,{\\sep}ef hann freginn esat,",
+            "ok nai:: hann þurrfjallr þruma."
         ],
         "number": 30
     },
@@ -580,10 +582,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Fro`þr þykkisk{\\sep}sa`s flo`tta tekr",
+            "gestr at gest ha_e`þinn;",
+            "veita go~rla{\\sep}sa`s of verþi glissir,",
+            "þo`t meþ gro~mum glami."
         ],
         "number": 31
     },
@@ -597,10 +599,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Gumnar margir{\\sep}erusk gagnhollir,",
+            "en at virþi vrekask;",
+            "aldar ro`g{\\sep}þat mun a_e` vesa,",
+            "o`rir gestr viþ gest."
         ],
         "number": 32
     },
@@ -614,10 +616,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "A`rliga verþar{\\sep}skyli maþr opt faa,",
+            "ne` o~`n til kynnis komi:",
+            "sitr ok sno`pir,{\\sep}la_e`tr sem solginn se`,",
+            "ok kann fregna at fo~u."
         ],
         "number": 33
     },
@@ -631,10 +633,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Afhvarf mikit{\\sep}es til ills vinar",
+            "þo`t a` brautu bui,",
+            "en til go`þs vinar{\\sep}liggja gagnvegir,",
+            "þo`t se` firr farinn."
         ],
         "number": 34
     },
@@ -648,10 +650,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ganga skal,{\\sep}skala gestr vesa",
+            "ey i` einum staþ;",
+            "lju`fr verþr leiþr{\\sep}ef lengi sitr",
+            "annars fletjum a`."
         ],
         "number": 35
     },
@@ -667,10 +669,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Bu` es betra,{\\sep}þo`t \\emph{bu`kot} se`,",
+            "halr es heima hverr;",
+            "þo`t tva_e`r geitr eigi{\\sep}ok taugreptan sal,",
+            "þat's þo` betra an bo/`n."
         ],
         "number": 36
     },
@@ -686,10 +688,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Bu` es betra,{\\sep}þo`t \\emph{bu`kot} se`,",
+            "halr es heima hverr;",
+            "blo`þust's hjarta{\\sep}þeims biþja skal",
+            "se`r i` ma`l hvert matar."
         ],
         "number": 37
     },
@@ -703,10 +705,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Vo~`pnum si`num{\\sep}skala maþr velli a`",
+            "feti ganga framarr,",
+            "þvi`t o`vist's at vita,{\\sep}na_e`r verþr a` vegum u`ti",
+            "geirs of þo~rf guma."
         ],
         "number": 38
     },
@@ -722,10 +724,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Fear si`ns{\\sep}es fengit hefr",
+            "skylit maþr þo~rf þola;",
+            "opt sparir leiþum{\\sep}þats hefr lju`fum hugat,",
+            "mart gengr verr an varer."
         ],
         "number": 39
     },
@@ -741,10 +743,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Fannkak mildan mann{\\sep}eþa sva` matargo`þan,",
+            "at va_e`rit þiggja þegit,",
+            "eþa si`ns fear{\\sep}sva`gi \\emph{gjo~flan,}",
+            "at leiþ se` laun ef þegi."
         ],
         "number": 40
     },
@@ -760,10 +762,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Vo~`pnum ok vo~`þum{\\sep}skulu vinir gleþjask,",
+            "þat's a` sjo~lfum sy`nst;",
+            "viþrgefendr{\\sep}erusk vinir lengst,",
+            "ef þat bi`þr at verþa vel."
         ],
         "number": 41
     },
@@ -777,10 +779,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Vin si`num{\\sep}skal maþr vinr vesa",
+            "ok gjalda gjo~f viþ gjo~f,",
+            "hla`tr viþ hla`tri{\\sep}skyli ho~lþar taka,",
+            "en lausung viþ lygi."
         ],
         "number": 42
     },
