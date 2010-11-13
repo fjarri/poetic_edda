@@ -1924,10 +1924,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Heima glaþr gumi{\\sep}ok viþ gesti reifr",
+            "sviþr skal of sik vesa;",
+            "minnugr ok mo~`lugr,{\\sep}ef hann vill margfro`þr vesa,",
+            "opt skal go`þs geta;",
+            "fimbulfambi heitir{\\sep}sa`s fa`tt kann segja,",
+            "þat's o`snotrs aþal."
         ],
         "number": 103
     },
@@ -1946,10 +1948,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Enn aldna jo~tun so`ttak,{\\sep}nu emk aptr of kominn,",
+            "fa`tt gatk þegjandi þar;",
+            "mo~rgum orþum{\\sep}ma_e`ltak i` minn frama",
+            "i` Suttungs so~lum."
         ],
         "number": 104
     },
@@ -1965,10 +1967,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Rata munn{\\sep}le`tumk ru`ms of fa`",
+            "auk of grjo`t gnaga,",
+            "yfir ok undir{\\sep}sto`þumk jo~tna vegir,",
+            "sva` ha_e`ttak ho~fþi til."
         ],
         "number": 105
     },
@@ -1985,10 +1987,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Gunnlo~þ go~fumk{\\sep}gollnum sto`li a`",
+            "drykk ens dy`ra mjaþar;",
+            "ill iþgjo~ld{\\sep}le`tk hana eptir hafa",
+            "si`ns ens heila hugar,",
+            "si`ns ens sva`ra sefa."
         ],
         "number": 106
     },
@@ -2005,10 +2008,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Vel keypts litar{\\sep}hefk vel notit,",
+            "fa`s es fro`þum vant;",
+            "þvi`t O`þro/rir{\\sep}es nu` upp kominn",
+            "a` ve` alda jaþars."
         ],
         "number": 107
     },
@@ -2026,10 +2029,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ifi 'rumk a`,{\\sep}at va_erak enn kominn",
+            "jo~tna go~rþum o`r,",
+            "nema Gunnlaþar nytak,{\\sep}ennar go`þu konu,",
+            "þeirars lo~gþumk arm yfir."
         ],
         "number": 108
     },
@@ -2037,17 +2040,18 @@
         "comment": null,
         "translation": [
             "The day that followed,{\\sep}the frost-giants came,",
-            "Some word of Hor to win,",
-            "(And into the hall of Hor;)",
+            "(Some word of Hor to win,)",
+            "And into the hall of Hor;",
             "Of Bolverk they asked,{\\sep}were he back midst the gods,",
             "Or had Suttung slain him there?"
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ens hindra dags{\\sep}gengu hri`mþursar",
+            "{[}Ho~`va ra`þs at fregna{]}",
+            "Ho~`va ho~llu i`;"
+            "at Bo~lverki spurþu,{\\sep}ef va_eri meþ bo~ndum kominn",
+            "eþa hefþi Suttungr of soit."
         ],
         "number": 109
     },
@@ -2061,10 +2065,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Baugeiþ O`þinn{\\sep}hykk at unnit hafi,",
+            "hvat skal hans trygþum trua?",
+            "Suttung svikvinn{\\sep}hann le`t sumbli fra`",
+            "ok gro/`tta Gunnlo~þu."
         ],
         "number": 110
     },
@@ -2096,10 +2100,14 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ma`l's at þylja{\\sep}þular sto`li a`:",
+            "Urþar brunni at",
+            "sa`k ok þagþak,{\\sep}sa`k ok hugþak,",
+            "hly`ddak a` Ho~`va mo~l.",
+            "{[}of ru`nar heyrþak do/`ma,{\\sep}ne` of ro~`þum þo~gþu",
+            "Ho~`va ho~llu at,",
+            "Ho~`va ho~llu i`;",
+            "heyrþak segja sva`:{]}"
         ],
         "number": 111
     },
@@ -2118,10 +2126,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "no~`tt þu` ri`sat{\\sep}nema a` njo`sn sei::r",
+            "eþa leitir þer innan u`t staþar."
         ],
         "number": 112
     },
@@ -2136,10 +2145,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:"
+            "fjo~lkunnigri konu{\\sep}skalta i` faþmi sofa,",
+            "sva`t ho`n lyki þik liþum."
         ],
         "number": 113
     },
@@ -2153,10 +2163,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ho`n sva` go/rir,{\\sep}at þu` gai::r eigi",
+            "þings ne` þjo`þarma`ls;",
+            "mat þu` villat{\\sep}ne` mannskis gaman,",
+            "ferr þu` sorgafullr at sofa."
         ],
         "number": 114
     },
@@ -2171,10 +2181,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "annars konu{\\sep}teyg þe`r aldrigi",
+            "eyraru`nu at."
         ],
         "number": 115
     },
@@ -2189,10 +2200,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "a` fjalli eþa firþi{\\sep}ef þik fara ti`þir,",
+            "fa`sktu at virþi vel."
         ],
         "number": 116
     },
@@ -2209,10 +2221,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "illan mann{\\sep}la`ttu aldrigi",
+            "o`ho~pp at þe`r vita,",
+            "þvi`t af illum manni{\\sep}fa_e`r þu` aldrigi",
+            "gjo~ld ens go`þa hugar."
         ],
         "number": 117
     },
@@ -2226,10 +2241,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ofarla bi`ta{\\sep}ek sa` einum hal",
+            "orþ illrar konu;",
+            "fla`ro~`þ tunga{\\sep}varþ ho~`num at fjo~rlagi,",
+            "ok þeygi of sanna so~k."
         ],
         "number": 118
     },
@@ -2246,10 +2261,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "veiztu ef vin a`tt{\\sep}þanns þu` vel truir,",
+            "farþu at finna opt,",
+            "þvi`t hri`si vex{\\sep}ok ho~`vu grasi",
+            "vegr es va_e`tki tro/þr."
         ],
         "number": 119
     },
@@ -2264,17 +2282,18 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "go`þan mann{\\sep}teyg þer at gamanru`num",
+            "ok nem li`knargaldr meþan lifir."
         ],
         "number": 120
     },
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commadash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Be never the first{\\sep}to break with thy friend",
@@ -2284,10 +2303,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "vin þi`num{\\sep}ves þu` aldrigi",
+            "fyrri at flaumslitum;",
+            "sorg etr hjarta,{\\sep}ef þu` segja ne` nai::r",
+            "einhverjum allan hug."
         ],
         "number": 121
     },
@@ -2302,10 +2324,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "orþum skipta{\\sep}þu` skalt aldrigi",
+            "viþ o`svinna apa;"
         ],
         "number": 122
     },
@@ -2319,10 +2342,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "þvi`t af illum manni{\\sep}mundu aldrigi",
+            "go`þs laun of geta,",
+            "en go`þr maþr{\\sep}mun þik go/rva mega",
+            "li`knfastan at lofi."
         ],
         "number": 123
     },
@@ -2336,10 +2359,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Sifjum's þa` blandat,{\\sep}hverrs segja ra_e`þr",
+            "einum allan hug;",
+            "allt es betra{\\sep}an se` brigþum at vesa,",
+            "esat vinr es vilt eitt segir."
         ],
         "number": 124
     },
@@ -2355,17 +2378,19 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "þrimr orþum senna{\\sep}skalta þe`r viþ verra mann;",
+            "opt enn betri bilar,",
+            "þa`s enn verri vegr."
         ],
         "number": 125
     },
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commadash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "A shoemaker be,{\\sep}or a maker of shafts,",
@@ -2375,10 +2400,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "sko`smiþr þu` vesir{\\sep}ne` skeptismiþr,",
+            "nema þe`r sjo~lfum se`r:",
+            "sko`r's skapaþr illa{\\sep}eþa skapt se` rangt,",
+            "þa`'s þe`r bo~ls beþit."
         ],
         "number": 126
     },
@@ -2393,10 +2421,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "hvars bo~l kannt,{\\sep}kveþu þer bo~lvi at",
+            "ok gefat fio~ndum friþ."
         ],
         "number": 127
     },
@@ -2411,10 +2440,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "illu feginn{\\sep}ves þu` aldrigi,",
+            "en la`t þer at go`þu getit."
         ],
         "number": 128
     },
@@ -2432,17 +2462,19 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "upp li`ta{\\sep}skalattu i` orrostu{\\mdash}",
+            "gjalti gli`kir{\\sep}verþa gumna synir{\\mdash}",
+            "si`þr þitt of heilli halir."
         ],
         "number": 129
     },
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commadash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "If thou fain wouldst win{\\sep}a woman's love,",
@@ -2452,10 +2484,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "ef vill þe`r go`þa konu{\\sep}kveþja at gamanru`num",
+            "ok fa` fo~gnuþ af,",
+            "fo~gru skalt heita{\\sep}ok la`ta fast vesa;",
+            "leiþisk manngi gott, ef getr."
         ],
         "number": 130
     },
@@ -2464,7 +2499,7 @@
             "Lines 5\\ndash6 probably were inserted from a different poem."
         ],
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commadash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "I bid thee be wary,{\\sep}but be not fearful;",
@@ -2473,17 +2508,19 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "varan biþk þik vesa{\\sep}ok eigi ofvaran;",
+            "ves viþ o~l varastr{\\sep}ok viþ annars konu",
+            "ok viþ þat et þriþja,{\\sep}at þik þjo`far ne` leiki."
         ],
         "number": 131
     },
     {
         "comment": null,
         "translation": [
-            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,-",
+            "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commadash}",
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "Scorn or mocking{\\sep}ne'er shalt thou make",
@@ -2491,10 +2528,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "at ha`þi ne` hla`tri{\\sep}hafþu aldrigi",
+            "gest ne` ganganda;"
         ],
         "number": 132
     },
@@ -2513,10 +2551,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "opt vitu o`go~rla{\\sep}þeirs sitja inni fyrir,",
+            "hvers þeir'u kyns es koma.",
+            "{[}Esat maþr sva` go`þr,{\\sep}at galli ne` fylgi,",
+            "ne` sva` illr, at einugi dugi.{]}"
         ],
         "number": 133
     },
@@ -2538,10 +2576,15 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "at ho~`rum þul{\\sep}hla_e`þu aldrigi,",
+            "opt's gott þats gamlir kveþa;",
+            "opt o`r sko~rpum belg{\\sep}skilin orþ koma",
+            "þeims hangir meþ ho~`m",
+            "ok skollir meþ skro~`m",
+            "ok va`fir meþ vilmo~gum."
         ],
         "number": 134
     },
@@ -2556,10 +2599,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "gest ne` geyja{\\sep}ne a` grind hro/kkvir,",
+            "get þu` vo~`luþum vel."
         ],
         "number": 135
     },
@@ -2577,10 +2621,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ramt's þat tre`{\\sep}es ri`þa skal",
+            "o~llum at upploki:",
+            "baug þu` gef,{\\sep}eþa þat biþja mun",
+            "þe`r la_e`s hvers a` liþu."
         ],
         "number": 136
     },
@@ -2602,10 +2646,15 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
+            "njo`ta mundu, ef nemr,",
+            "þe`r munu go`þ, ef getr:",
+            "hvars o~l drekkr,{\\sep}kjo`stu þe`r jarþarmegin{\\mdash}",
+            "{[}þvi`t jo~rþ tekr viþ o~lþri,{\\sep}en eldr viþ so`ttum,",
+            "eik viþ abbindi,{\\sep}ax viþ fjo~lkyngi,",
+            "ho~ll viþ hy`ro`gi,{\\sep}heiptum skal ma`na kveþja,",
+            "beiti viþ bitso`ttum,{\\sep}en viþ bo~lvi ru`nar{\\mdash}{]}",
+            "fold skal viþ flo`þi taka."
         ],
         "number": 137
     },
@@ -2624,10 +2673,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Nu` 'ru Ho~`va mo~`l{\\sep}kveþin ho~llu i`,",
+            "allþo~rf y`ta sunum,",
+            "o`þo~rf jo~tna sunum;",
+            "heill sa`s kvaþ!{\\sep}heill sa`s kann!",
+            "njo`ti sa`s nam!",
+            "heilir þeirs hly`ddu \\emph{a`}!"
         ],
         "number": 138
     },
