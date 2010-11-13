@@ -1559,7 +1559,7 @@
             "\\sepline"
         ],
         "type": "text"
-    },   
+    },
     {
         "comment": [
             "Stanzas \\stanzarangeref{85}{88} and go are in Fornyrthislag, and clearly come from a different source from the rest of the \\chapterref{Hovamol.}"
@@ -1639,7 +1639,7 @@
             "\\sepline"
         ],
         "type": "text"
-    },    
+    },
     {
         "comment": null,
         "translation": [
@@ -2049,7 +2049,7 @@
         "original": [
             "Ens hindra dags{\\sep}gengu hri`mþursar",
             "{[}Ho~`va ra`þs at fregna{]}",
-            "Ho~`va ho~llu i`;"
+            "Ho~`va ho~llu i`;",
             "at Bo~lverki spurþu,{\\sep}ef va_eri meþ bo~ndum kominn",
             "eþa hefþi Suttungr of soit."
         ],
@@ -2147,7 +2147,7 @@
         "original": [
             "Ro~`þumk þe`r, Loddfa`fnir!{\\sep}en þu` ro~`þ nemir,",
             "njo`ta mundu, ef nemr,",
-            "þe`r munu go`þ, ef getr:"
+            "þe`r munu go`þ, ef getr:",
             "fjo~lkunnigri konu{\\sep}skalta i` faþmi sofa,",
             "sva`t ho`n lyki þik liþum."
         ],
