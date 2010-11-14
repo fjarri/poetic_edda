@@ -167,21 +167,21 @@
 \phantomsection
 \label{\thischapterlabel:#2}
 
-\hskip -3\parindent
-\begin{tabular}{@{} r @{} p{0.48\textwidth} @{} p{0.5\textwidth}}
+\hskip -\parindent
+\begin{tabular}{@{} r @{} p{0.4\textwidth} @{} p{0.5\textwidth}}
 
-\makebox[2\parindent][r]{\displaystanzanum{#2}\quad}
+\makebox[2\parindent][l]{\displaystanzanum{#2}}
 
 &
 
-\begin{minipage}[t]{0.46\textwidth}
-\setstretch{1.3}\selectfont\texticelandic{\stanzafont#3}
+\begin{minipage}[t]{0.4\textwidth}
+\large\setstretch{1.3}\selectfont\texticelandic{\stanzafont#3}
 \end{minipage}
 
 &
 
 \begin{minipage}[t]{0.5\textwidth}
-\setstretch{1.3}\selectfont\textenglish{\stanzafont#4}
+\large\setstretch{1.3}\selectfont\textenglish{\stanzafont#4}
 \end{minipage} 
 
 \end{tabular}
@@ -190,7 +190,7 @@
 \else
 \nopagebreak
 \vskip \baselineskip
-\commentfont#1
+\commentfont\noindent#1
 \fi
 \vskip 2\baselineskip
 
@@ -244,7 +244,9 @@
 
 % separator for half-lines in stanzas
 \definecolor{gray}{cmyk}{0,0,0,0.5}
-\newcommand{\sep}{\textcolor{gray}{~|~}}
+\newcommand{\sep}{\textcolor{gray}{~|}
+
+\hspace{1.5em}}
 
 \newcommand*\sepline{
 	\begin{center}
