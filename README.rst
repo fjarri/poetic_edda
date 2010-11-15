@@ -97,3 +97,4 @@ Tasks for distant future
 * Probably make build script run xelatex too?
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
+* Proofread everything
