@@ -21,7 +21,7 @@ Used fonts
 ----------
 
 * `Gentium Plus <http://scripts.sil.org/cms/scripts/page.php?item_id=Gentium_download#801ab246>`_
-  and `Charis <http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download#c7cc4bf5>` by SIL;
+  and `Charis <http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download#c7cc4bf5>`_ by SIL;
 
 * Lucida Grande and Optima from standard Snow Leopard font pack.
 
