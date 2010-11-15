@@ -23,7 +23,7 @@
             "% Moreover, this variant can span over a pagebreak",
             "% FIXME: I may have to tune \"em\" lengths for different book formats",
             "\\noindent\\begin{tabular}{@{} p{0.4\\textwidth} @{} p{8em} @{} p{1.5em} @{} p{0.3\\textwidth}}",
-            "e{\\mdash}as in ``men'' & y{\\mdash}as \\emph{i} in ``is''  & \\multirow{2}{*}{\\huge \\}} &",
+            "e{\\mdash}as in ``men'' & y{\\mdash}as \\emph{i} in ``is''  & \\multirow{2}{*}{\\Large \\}} &",
             "\t\\multirow{2}{0.3\\textwidth}{Both with a slight \\\\ sound of German ü} \\\\",
             "ē{\\mdash}as \\emph{a} in ``fate'' & ȳ{\\mdash}as \\emph{ee} in ``free''  & & \\\\",
             "\\end{tabular}",
