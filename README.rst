@@ -85,7 +85,7 @@ Hovamol (planned)
 * Generalized build script;
 * Reworked book design (still far from perfect, but at least not too ugly);
 * Used Gering's book as source for Voluspo;
-* Added cover page;
+* Added cover page.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -95,3 +95,5 @@ Tasks for distant future
 * Add support for different paper sizes (in particular, try to typeset a proper book);
 * Try to use footnotes instead of normal text for comments;
 * Probably make build script run xelatex too?
+* Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
+  know how long the stanza names in other chapters will be).
