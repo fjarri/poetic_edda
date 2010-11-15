@@ -195,10 +195,13 @@
 }
 
 \newcommand{\myverse}[1]{
-	{\stanzafont
-		\begin{verse}
-		#1
-		\end{verse}
+	% different separator here, because we have much more space
+	{\renewcommand\sep{\textcolor{gray}{~|~}}
+		{\stanzafont
+			\begin{verse}
+			#1
+			\end{verse}
+		}
 	}
 }
 
