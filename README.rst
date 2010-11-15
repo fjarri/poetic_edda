@@ -76,9 +76,9 @@ Voluspo (26 Oct 2010)
 * Only A4 format is supported;
 * Added introduction and Voluspo chapter.
 
-~~~~~~~~~~~~~~~~~
-Hovamol (planned)
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Hovamol (15 Nov 2010)
+~~~~~~~~~~~~~~~~~~~~~
 
 * Added Hovamol chapter;
 * Added pronounciation guide (without the proper names index);
@@ -86,6 +86,12 @@ Hovamol (planned)
 * Reworked book design (still far from perfect, but at least not too ugly);
 * Used Gering's book as source for Voluspo;
 * Added cover page.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Vafthruthnismol (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Vafthruthnismol chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
