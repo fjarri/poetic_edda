@@ -16,6 +16,15 @@ This book is built by XeLaTeX, with most of the .tex files produced
 from JSON data in ``chapters`` directory by ``build.py`` script.
 This will help if I ever decide to start using ``ledmac`` and ``ledpar`` packages again.
 
+----------
+Used fonts
+----------
+
+* `Gentium Plus <http://scripts.sil.org/cms/scripts/page.php?item_id=Gentium_download#801ab246>`_
+  and `Charis <http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download#c7cc4bf5>` by SIL;
+
+* Lucida Grande and Optima from standard Snow Leopard font pack.
+
 ------------------
 Sources by chapter
 ------------------
