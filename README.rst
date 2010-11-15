@@ -71,11 +71,12 @@ Voluspo (26 Oct 2010)
 Hovamol (planned)
 ~~~~~~~~~~~~~~~~~
 
-* Add Hovamol chapter
-* Add pronounciation guide (done, without the index)
-* Generalize build script (done)
-* Try to find better font combination.
-* Use Gering's book as source for Voluspo (done)
+* Added Hovamol chapter;
+* Added pronounciation guide (without the proper names index);
+* Generalized build script;
+* Reworked book design (still far from perfect, but at least not too ugly);
+* Used Gering's book as source for Voluspo;
+* Added cover page;
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
