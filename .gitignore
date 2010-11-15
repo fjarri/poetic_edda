@@ -7,4 +7,5 @@
 *.gz(busy)
 *.toc
 build/*
+cover/*
 
