@@ -19,14 +19,18 @@
             "The encyclopædic poem with a slight narrative outline seems to have been exceedingly popular; the \\chapterref{Grimnismol} and the much later \\chapterref{Alvissmol} represent different phases of the same type.",
             "The \\chapterref{Vafthruthnismol} and \\chapterref{Grimnismol} together, indeed, constitute a fairly complete dictionary of Norse mythology.",
             "There has been much discussion as to the probable date of the \\chapterref{Vafthruthnismol,} but it appears to belong to about the same period as the \\chapterref{Voluspo:} in other words, the middle of the tenth century.",
-            "While there may be a few interpolated passages in the poem as we now have it, it is clearly a united whole, and evidently in relatively good condition."
+            "While there may be a few interpolated passages in the poem as we now have it, it is clearly a united whole, and evidently in relatively good condition.",
             "",
             "\\sepline"
         ],
         "type": "text"
     },
     {
-        "comment": null,
+        "comment": [
+            "The phrases ``Othin spake,'' ``Frigg spake,'' etc., appear in abbreviated form in both manuscripts.",
+            "\\emph{Frigg:} Othin's wife; cf. \\combinedref{Voluspo}{34} and note.",
+            "\\emph{Vafthruthnir} (``the Mighty in Riddles''): nothing is known of this giant beyond what is told in this poem."
+        ],
         "translation_prelude": [
             "Othin spake:"
         ],
