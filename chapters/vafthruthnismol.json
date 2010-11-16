@@ -924,9 +924,9 @@
         ],
         "number": 40,
         "translation": [
-            "``Eleventh answer me well,{\\sep} . . . . . . .",
-            ". . . . . . . . . . . .",
-            "What men . . . . . .{\\sep}in . . . . . . home",
+            "``Eleventh answer me well,{\\sep}\\lacuna",
+            "\\lacuna",
+            "What men \\lacuna{\\sep}in \\lacuna home",
             "Each day to fight go forth?''"
         ],
         "type": "stanza pair",
