@@ -22,9 +22,7 @@ Used fonts
 
 * `Gentium Plus <http://scripts.sil.org/cms/scripts/page.php?item_id=Gentium_download#801ab246>`_
   and `Charis <http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download#c7cc4bf5>`_ by SIL;
-
 * Lucida Grande and Optima from standard Snow Leopard font pack;
-
 * Cover page: `Vidir Futhark <http://www.fontspace.com/vidir-thorisson/vidir-futhark>`_
 
 ------------------
@@ -94,6 +92,9 @@ Vafthruthnismol (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Vafthruthnismol chapter
+* Is it enough to remove indent from first line of comment only?
+  Or should other paragraphs be affected too?
+* Add proper rendering for original_prelude and translation_prelude
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
