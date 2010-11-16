@@ -33,6 +33,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 1,
         "translation": [
             "``Counsel me, Frigg, for I long to fare,",
             "And Vafthruthnir fain would find;",
@@ -55,6 +56,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 2,
         "translation": [
             "``Heerfather here at home would I keep,",
             "Where the gods together dwell;",
@@ -77,6 +79,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 3,
         "translation": [
             "``Much have I fared, much have I found.",
             "Much have I got from the gods;",
@@ -99,6 +102,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 4,
         "translation": [
             "``Safe mayst thou go, safe come again,",
             "And safe be the way thou wendest!",
@@ -127,7 +131,8 @@
             "",
             "{\\sep}",
             ""
-        ]
+        ],
+        "number": 5
     },
     {
         "comment": null,
@@ -137,6 +142,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 6,
         "translation": [
             "``Vafthruthnir, hail!{\\sep}to thy hall am I come,",
             "For thyself I fain would see;",
@@ -159,6 +165,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 7,
         "translation": [
             "``Who is the man{\\sep}that speaks to me,",
             "Here in my lofty hall?",
@@ -181,6 +188,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 8,
         "translation": [
             "``Gagnrath they call me,{\\sep}and thirsty I come",
             "From a journey hard to thy hall;",
@@ -203,6 +211,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 9,
         "translation": [
             "``Why standest thou there{\\sep}on the floor whilst thou speakest?",
             "A seat shalt thou have in my hall;",
@@ -225,6 +234,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 10,
         "translation": [
             "``If a poor man reaches{\\sep}the home of the rich,",
             "Let him wisely speak or be still;",
@@ -247,6 +257,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 11,
         "translation": [
             "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
             "Thou wouldst thy wisdom make known:",
@@ -269,6 +280,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 12,
         "translation": [
             "``Skinfaxi is he,{\\sep}the steed who for men",
             "The glittering day doth draw;",
@@ -291,6 +303,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 13,
         "translation": [
             "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
             "Thou wouldst thy wisdom make known:",
@@ -313,6 +326,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 14,
         "translation": [
             "``Hrimfaxi name they{\\sep}the steed that anew",
             "Brings night for the noble gods;",
@@ -335,6 +349,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 15,
         "translation": [
             "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
             "Thou wouldst thy wisdom make known:",
@@ -365,7 +380,8 @@
             "",
             "{\\sep}",
             ""
-        ]
+        ],
+        "number": 16
     },
     {
         "comment": null,
@@ -375,6 +391,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 17,
         "translation": [
             "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
             "Thou wouldst thy wisdom make known:",
@@ -397,6 +414,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 18,
         "translation": [
             "``Vigrith is the field{\\sep}where in fight shall meet",
             "Surt and the gracious gods;",
@@ -419,6 +437,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 19,
         "translation": [
             "``Wise art thou, guest!{\\sep}To my bench shalt thou go,",
             "In our seats let us speak together;",
@@ -441,6 +460,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 20,
         "translation": [
             "``First answer me well,{\\sep}if thy wisdom avails,",
             "And thou knowest it, Vafthruthnir, now:",
@@ -463,6 +483,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 21,
         "translation": [
             "``Out of Ymir's flesh{\\sep}was fashioned the earth,",
             "And the mountains were made of his bones;",
@@ -485,6 +506,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 22,
         "translation": [
             "``Next answer me well,{\\sep}if thy wisdom avails,",
             "And thou knowest it, Vafthruthnir, now:",
@@ -507,6 +529,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 23,
         "translation": [
             "``Mundilferi is he{\\sep}who begat the moon,",
             "And fathered the flaming sun;",
@@ -529,6 +552,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 24,
         "translation": [
             "``Third answer me well,{\\sep}if wise thou art called,",
             "If thou knowest it, Vafthruthnir, now:",
@@ -551,6 +575,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 25,
         "translation": [
             "``The father of day{\\sep}is Delling called,",
             "And the night was begotten by Nor;",
@@ -573,6 +598,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 26,
         "translation": [
             "``Fourth answer me well,{\\sep}if wise thou art called,",
             "If thou knowest it, Vafthruthnir, now:",
@@ -595,6 +621,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 27,
         "translation": [
             "``Vindsval he was{\\sep}who was winter's father,",
             "And Svosuth summer begat;''",
@@ -617,6 +644,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 28,
         "translation": [
             "``Fifth answer me well,{\\sep}if wise thou art called,",
             "If thou knowest it, Vafthruthnir, now:",
@@ -639,6 +667,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 29,
         "translation": [
             "``Winters unmeasured{\\sep}ere earth was made",
             "Was the birth of Bergelmir;",
@@ -661,6 +690,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 30,
         "translation": [
             "``Sixth answer me well,{\\sep}if wise thou art called,",
             "If thou knowest it, Vafthruthnir, now:",
@@ -683,6 +713,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 31,
         "translation": [
             "``Down from Elivagar{\\sep}did venom drop,",
             "And waxed till a giant it was;",
@@ -705,6 +736,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 32,
         "translation": [
             "``Seventh answer me well,{\\sep}if wise thou art called,",
             "If thou knowest it, Vafthruthnir, now:",
@@ -727,6 +759,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 33,
         "translation": [
             "``They say 'neath the arms{\\sep}of the giant of ice",
             "Grew man-child and maid together;",
@@ -749,6 +782,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 34,
         "translation": [
             "``Eighth answer me well,{\\sep}if wise thou art called,",
             "If thou knowest it, Vafthruthnir, now:",
@@ -771,6 +805,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 35,
         "translation": [
             "``Winters unmeasured{\\sep}ere earth was made",
             "Was the birth of Bergelmir;",
@@ -793,6 +828,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 36,
         "translation": [
             "``Ninth answer me well,{\\sep}if wise thou art called",
             "If thou knowest it, Vafthruthnir, now:",
@@ -815,6 +851,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 37,
         "translation": [
             "``In an eagle's guise{\\sep}at the end of heaven",
             "Hræsvelg sits, they say;",
@@ -837,6 +874,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 38,
         "translation": [
             "``Tenth answer me now,{\\sep}if thou knowest all",
             "The fate that is fixed for the gods:",
@@ -861,6 +899,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 39,
         "translation": [
             "``In the home of the Wanes{\\sep}did the wise ones create him,",
             "And gave him as pledge to the gods;",
@@ -883,6 +922,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 40,
         "translation": [
             "``Eleventh answer me well,{\\sep} . . . . . . .",
             ". . . . . . . . . . . .",
@@ -905,6 +945,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 41,
         "translation": [
             "``The heroes all{\\sep}in Othin's hall",
             "Each day to fight go forth;",
@@ -927,6 +968,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 42,
         "translation": [
             "``Twelfth answer me now{\\sep}how all thou knowest",
             "Of the fate that is fixed for the gods;",
@@ -951,6 +993,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 43,
         "translation": [
             "``Of the runes of the gods{\\sep}and the giants' race",
             "The truth indeed can I tell,",
@@ -975,6 +1018,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 44,
         "translation": [
             "``Much have I fared,{\\sep}much have I found,",
             "Much have I got of the gods:",
@@ -997,6 +1041,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 45,
         "translation": [
             "``In Hoddmimir's wood{\\sep}shall hide themselves",
             "Lif and Lifthrasir then;",
@@ -1019,6 +1064,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 46,
         "translation": [
             "``Much have I fared,{\\sep}much have I found,",
             "Much have I got of the gods:",
@@ -1041,6 +1087,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 47,
         "translation": [
             "``A daughter bright{\\sep}Alfrothul bears",
             "Ere Fenrir snatches her forth;",
@@ -1063,6 +1110,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 48,
         "translation": [
             "``Much have I fared,{\\sep}much have I found,",
             "Much have I got of the gods:",
@@ -1085,6 +1133,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 49,
         "translation": [
             "``O'er Mogthrasir's hill{\\sep}shall the maidens pass,",
             "And three are their throngs that come;",
@@ -1107,6 +1156,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 50,
         "translation": [
             "``Much have I fared,{\\sep}much have I found,",
             "Much have I got of the gods:",
@@ -1129,6 +1179,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 51,
         "translation": [
             "``In the gods' home Vithar{\\sep}and Vali shall dwell,",
             "When the fires of Surt have sunk;",
@@ -1151,6 +1202,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 52,
         "translation": [
             "``Much have I fared,{\\sep}much have I found,",
             "Much have I got of the gods:",
@@ -1173,6 +1225,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 53,
         "translation": [
             "``The wolf shall fell{\\sep}the father of men,",
             "And this shall Vithar avenge;",
@@ -1195,6 +1248,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 54,
         "translation": [
             "``Much have I fared,{\\sep}much have I found,",
             "Much have I got from the gods:",
@@ -1217,6 +1271,7 @@
         "original_prelude": [
             ""
         ],
+        "number": 55,
         "translation": [
             "``No man can tell{\\sep}what in olden time",
             "Thou spak'st in the ears of thy son;",
