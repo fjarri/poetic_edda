@@ -38,6 +38,8 @@ for filename in filenames:
 	if ext != '.json':
 		continue
 
+	print "Processing: " + str(filename)
+
 	blocks = json.load(codecs.open("chapters/" + filename, "r", "utf-8"))
 	res = u"\n\n".join([handlers[block['type']](block) for block in blocks])
 
