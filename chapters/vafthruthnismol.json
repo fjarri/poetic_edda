@@ -24,5 +24,1215 @@
             "\\sepline"
         ],
         "type": "text"
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Counsel me, Frigg, for I long to fare,",
+            "And Vafthruthnir fain would find;",
+            "fit wisdom old with the giant wise",
+            "Myself would I seek to match.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Frigg spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Heerfather here at home would I keep,",
+            "Where the gods together dwell;",
+            "Amid all the giants an equal in might",
+            "To Vafthruthnir know I none.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared, much have I found.",
+            "Much have I got from the gods;",
+            "And fain would I know how Vafthruthnir now",
+            "Lives in his lofty hall.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Frigg spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Safe mayst thou go, safe come again,",
+            "And safe be the way thou wendest!",
+            "Father of men, let thy mind be keen",
+            "When speech with the giant thou seekest.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The wisdom then of the giant wise",
+            "Forth did he fare to try;",
+            "He found the hall{\\sep}of the father of Im,",
+            "And in forthwith went Ygg."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Vafthruthnir, hail!{\\sep}to thy hall am I come,",
+            "For thyself I fain would see;",
+            "And first would I ask{\\sep}if wise thou art,",
+            "Or, giant, all wisdom hast won.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Who is the man{\\sep}that speaks to me,",
+            "Here in my lofty hall?",
+            "Forth from our dwelling{\\sep}thou never shalt fare,",
+            "Unless wiser than I thou art.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Gagnrath they call me,{\\sep}and thirsty I come",
+            "From a journey hard to thy hall;",
+            "Welcome I look for,{\\sep}for long have I fared,",
+            "And gentle greeting, giant.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Why standest thou there{\\sep}on the floor whilst thou speakest?",
+            "A seat shalt thou have in my hall;",
+            "Then soon shall we know{\\sep}whose knowledge is more,",
+            "The guest's or the sage's gray.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``If a poor man reaches{\\sep}the home of the rich,",
+            "Let him wisely speak or be still;",
+            "For to him who speaks{\\sep}with the hard of heart",
+            "Will chattering ever work ill.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
+            "Thou wouldst thy wisdom make known:",
+            "What name has the steed{\\sep}that each morn anew",
+            "The day for mankind doth draw?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Skinfaxi is he,{\\sep}the steed who for men",
+            "The glittering day doth draw;",
+            "The best of horses{\\sep}to heroes he seems,",
+            "And brightly his mane doth burn.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
+            "Thou wouldst thy wisdom make known:",
+            "What name has the steed{\\sep}that from East anew",
+            "Brings night for the noble gods?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Hrimfaxi name they{\\sep}the steed that anew",
+            "Brings night for the noble gods;",
+            "Each morning foam{\\sep}from his bit there falls,",
+            "And thence come the dews in the dales.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
+            "Thou wouldst thy wisdom make known:",
+            "What name has the river{\\sep}that 'twixt the realms",
+            "Of the gods and the giants goes?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Othin spoke:",
+            "``Ifing is the river{\\sep}that 'twixt the realms",
+            "Of the gods and the giants goes;",
+            "For all time ever{\\sep}open it flows,",
+            "No ice on the river there is.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Speak forth now, Gagnrath,{\\sep}if there from the floor",
+            "Thou wouldst thy wisdom make known:",
+            "What name has the field{\\sep}where in fight shall meet",
+            "Surt and the gracious gods?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Vigrith is the field{\\sep}where in fight shall meet",
+            "Surt and the gracious gods;",
+            "A hundred miles{\\sep}each way does it measure.",
+            "And so are its boundaries set.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Wise art thou, guest!{\\sep}To my bench shalt thou go,",
+            "In our seats let us speak together;",
+            "Here in the hall{\\sep}our heads, O guest,",
+            "Shall we wager our wisdom upon.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``First answer me well,{\\sep}if thy wisdom avails,",
+            "And thou knowest it, Vafthruthnir, now:",
+            "In earliest time{\\sep}whence came the earth,",
+            "Or the sky, thou giant sage?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Out of Ymir's flesh{\\sep}was fashioned the earth,",
+            "And the mountains were made of his bones;",
+            "The sky from the frost-cold{\\sep}giant's skull,",
+            "And the ocean out of his blood.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Next answer me well,{\\sep}if thy wisdom avails,",
+            "And thou knowest it, Vafthruthnir, now:",
+            "Whence came the moon,{\\sep}o'er the world of men",
+            "That fares, and the flaming sun?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Mundilferi is he{\\sep}who begat the moon,",
+            "And fathered the flaming sun;",
+            "The round of heaven{\\sep}each day they run,",
+            "To tell the time for men.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Third answer me well,{\\sep}if wise thou art called,",
+            "If thou knowest it, Vafthruthnir, now:",
+            "Whence came the day,{\\sep}o'er mankind that fares,",
+            "Or night with the narrowing moon?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``The father of day{\\sep}is Delling called,",
+            "And the night was begotten by Nor;",
+            "Full moon and old{\\sep}by the gods were fashioned,",
+            "To tell the time for men.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Fourth answer me well,{\\sep}if wise thou art called,",
+            "If thou knowest it, Vafthruthnir, now:",
+            "Whence did winter come,{\\sep}or the summer warm,",
+            "First with the gracious gods?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Vindsval he was{\\sep}who was winter's father,",
+            "And Svosuth summer begat;''",
+            "\\lacuna",
+            "\\lacuna"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Fifth answer me well,{\\sep}if wise thou art called,",
+            "If thou knowest it, Vafthruthnir, now:",
+            "What giant first{\\sep}was fashioned of old,",
+            "And the eldest of Ymir's kin?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Winters unmeasured{\\sep}ere earth was made",
+            "Was the birth of Bergelmir;",
+            "Thruthgelmir's son{\\sep}was the giant strong,",
+            "And Aurgelmir's grandson of old.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Sixth answer me well,{\\sep}if wise thou art called,",
+            "If thou knowest it, Vafthruthnir, now:",
+            "Whence did Aurgelmir come{\\sep}with the giants' kin,",
+            "Long since, thou giant sage?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Down from Elivagar{\\sep}did venom drop,",
+            "And waxed till a giant it was;",
+            "And thence arose{\\sep}our giants' race,",
+            "And thus so fierce are we found.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Seventh answer me well,{\\sep}if wise thou art called,",
+            "If thou knowest it, Vafthruthnir, now:",
+            "How begat he children,{\\sep}the giant grim,",
+            "Who never a giantess knew?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``They say 'neath the arms{\\sep}of the giant of ice",
+            "Grew man-child and maid together;",
+            "And foot with foot{\\sep}did the wise one fashion",
+            "A son that six heads bore.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Eighth answer me well,{\\sep}if wise thou art called,",
+            "If thou knowest it, Vafthruthnir, now:",
+            "What farthest back{\\sep}dost thou bear in mind?",
+            "For wide is thy wisdom, giant!''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Winters unmeasured{\\sep}ere earth was made",
+            "Was the birth of Bergelmir;",
+            "This first knew I well,{\\sep}when the giant wise",
+            "In a boat of old was borne.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Ninth answer me well,{\\sep}if wise thou art called",
+            "If thou knowest it, Vafthruthnir, now:",
+            "Whence comes the wind{\\sep}that fares o'er the waves",
+            "Yet never itself is seen?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``In an eagle's guise{\\sep}at the end of heaven",
+            "Hræsvelg sits, they say;",
+            "And from his wings{\\sep}does the wind come forth",
+            "To move o'er the world of men.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Tenth answer me now,{\\sep}if thou knowest all",
+            "The fate that is fixed for the gods:",
+            "Whence came up Njorth{\\sep}to the kin of the gods,{\\commadash}",
+            "(Rich in temples{\\sep}and shrines he rules,{\\commadash})",
+            "Though of gods he was never begot?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``In the home of the Wanes{\\sep}did the wise ones create him,",
+            "And gave him as pledge to the gods;",
+            "At the fall of the world{\\sep}shall he fare once more",
+            "Home to the Wanes so wise.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Eleventh answer me well,{\\sep} . . . . . . .",
+            ". . . . . . . . . . . .",
+            "What men . . . . . .{\\sep}in . . . . . . home",
+            "Each day to fight go forth?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``The heroes all{\\sep}in Othin's hall",
+            "Each day to fight go forth;",
+            "They fell each other,{\\sep}and fare from the fight",
+            "All healed full soon to sit.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Twelfth answer me now{\\sep}how all thou knowest",
+            "Of the fate that is fixed for the gods;",
+            "Of the runes of the gods{\\sep}and the giants' race",
+            "The truth indeed dost thou tell,",
+            "(And wide is thy wisdom, giant!)''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Of the runes of the gods{\\sep}and the giants' race",
+            "The truth indeed can I tell,",
+            "(For to every world have I won;)",
+            "To nine worlds came I,{\\sep}to Niflhel beneath,",
+            "The home where dead men dwell.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared,{\\sep}much have I found,",
+            "Much have I got of the gods:",
+            "What shall live of mankind{\\sep}when at last there comes",
+            "The mighty winter to men?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``In Hoddmimir's wood{\\sep}shall hide themselves",
+            "Lif and Lifthrasir then;",
+            "The morning dews{\\sep}for meat shall they have,",
+            "Such food shall men then find.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared,{\\sep}much have I found,",
+            "Much have I got of the gods:",
+            "Whence comes the sun{\\sep}to the smooth sky back,",
+            "When Fenrir has snatched it forth?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``A daughter bright{\\sep}Alfrothul bears",
+            "Ere Fenrir snatches her forth;",
+            "Her mother's paths{\\sep}shall the maiden tread",
+            "When the gods to death have gone.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared,{\\sep}much have I found,",
+            "Much have I got of the gods:",
+            "What maidens are they,{\\sep}so wise of mind.",
+            "That forth o'er the sea shall fare?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``O'er Mogthrasir's hill{\\sep}shall the maidens pass,",
+            "And three are their throngs that come;",
+            "They all shall protect{\\sep}the dwellers on earth,",
+            "Though they come of the giants' kin.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared,{\\sep}much have I found,",
+            "Much have I got of the gods:",
+            "Who then shall rule{\\sep}the realm of the gods,",
+            "When the fires of Surt have sunk?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``In the gods' home Vithar{\\sep}and Vali shall dwell,",
+            "When the fires of Surt have sunk;",
+            "Mothi and Magni{\\sep}shall Mjollnir have",
+            "When Vingnir falls in fight.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared,{\\sep}much have I found,",
+            "Much have I got of the gods:",
+            "What shall bring the doom{\\sep}of death to Othin,",
+            "When the gods to destruction go?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``The wolf shall fell{\\sep}the father of men,",
+            "And this shall Vithar avenge;",
+            "The terrible jaws{\\sep}shall he tear apart,",
+            "And so the wolf shall he slay.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``Much have I fared,{\\sep}much have I found,",
+            "Much have I got from the gods:",
+            "What spake Othin himself{\\sep}in the ears of his son,",
+            "Ere in the bale-fire he burned?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Vafthruthnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "translation": [
+            "``No man can tell{\\sep}what in olden time",
+            "Thou spak'st in the ears of thy son;",
+            "With fated mouth{\\sep}the fall of the gods",
+            "And mine olden tales have I told;",
+            "With Othin in knowledge{\\sep}now have I striven,",
+            "And ever the wiser thou art.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
     }
 ]
