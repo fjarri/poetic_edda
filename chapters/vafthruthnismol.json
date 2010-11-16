@@ -1339,7 +1339,7 @@
     },
     {
         "comment": [
-            "\\emph{The wolf:} Fenrir; cf. \\combinedref{Voluspo}{53} and \\stanzaref[Voluspo]{54}."
+            "\\emph{The wolf:} Fenrir; cf. \\combinedref{Voluspo}{53} and {\\stanzaref[Voluspo]{54}}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
