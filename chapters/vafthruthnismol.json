@@ -39,16 +39,16 @@
         ],
         "number": 1,
         "translation": [
-            "``Counsel me, Frigg, for I long to fare,",
+            "``Counsel me, Frigg,{\\sep}for I long to fare,",
             "And Vafthruthnir fain would find;",
-            "fit wisdom old with the giant wise",
+            "fit wisdom old{\\sep}with the giant wise",
             "Myself would I seek to match.''"
         ],
         "type": "stanza pair",
         "original": [
+            "{\\sep}",
             "",
-            "",
-            "",
+            "{\\sep}",
             ""
         ]
     },
@@ -64,16 +64,16 @@
         ],
         "number": 2,
         "translation": [
-            "``Heerfather here at home would I keep,",
+            "``Heerfather here{\\sep}at home would I keep,",
             "Where the gods together dwell;",
-            "Amid all the giants an equal in might",
+            "Amid all the giants{\\sep}an equal in might",
             "To Vafthruthnir know I none.''"
         ],
         "type": "stanza pair",
         "original": [
+            "{\\sep}",
             "",
-            "",
-            "",
+            "{\\sep}",
             ""
         ]
     },
@@ -91,16 +91,16 @@
         ],
         "number": 3,
         "translation": [
-            "``Much have I fared, much have I found.",
+            "``Much have I fared,{\\sep}much have I found.",
             "Much have I got from the gods;",
-            "And fain would I know how Vafthruthnir now",
+            "And fain would I know{\\sep}how Vafthruthnir now",
             "Lives in his lofty hall.''"
         ],
         "type": "stanza pair",
         "original": [
+            "{\\sep}",
             "",
-            "",
-            "",
+            "{\\sep}",
             ""
         ]
     },
@@ -114,30 +114,30 @@
         ],
         "number": 4,
         "translation": [
-            "``Safe mayst thou go, safe come again,",
+            "``Safe mayst thou go,{\\sep}safe come again,",
             "And safe be the way thou wendest!",
-            "Father of men, let thy mind be keen",
+            "Father of men,{\\sep}let thy mind be keen",
             "When speech with the giant thou seekest.''"
         ],
         "type": "stanza pair",
         "original": [
+            "{\\sep}",
             "",
-            "",
-            "",
+            "{\\sep}",
             ""
         ]
     },
     {
         "comment": null,
         "translation": [
-            "The wisdom then of the giant wise",
+            "The wisdom then{\\sep}of the giant wise",
             "Forth did he fare to try;",
             "He found the hall{\\sep}of the father of Im,",
             "And in forthwith went Ygg."
         ],
         "type": "stanza pair",
         "original": [
-            "",
+            "{\\sep}",
             "",
             "{\\sep}",
             ""
