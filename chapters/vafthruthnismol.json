@@ -35,7 +35,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 1,
         "translation": [
@@ -60,7 +60,7 @@
             "Frigg spake:"
         ],
         "original_prelude": [
-            ""
+            "Frigg kvaþ:"
         ],
         "number": 2,
         "translation": [
@@ -87,7 +87,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 3,
         "translation": [
@@ -110,7 +110,7 @@
             "Frigg spake:"
         ],
         "original_prelude": [
-            ""
+            "Frigg kvaþ:"
         ],
         "number": 4,
         "translation": [
@@ -150,7 +150,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 6,
         "translation": [
@@ -173,7 +173,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 7,
         "translation": [
@@ -198,7 +198,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 8,
         "translation": [
@@ -221,7 +221,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 9,
         "translation": [
@@ -246,7 +246,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 10,
         "translation": [
@@ -269,7 +269,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 11,
         "translation": [
@@ -294,7 +294,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 12,
         "translation": [
@@ -319,7 +319,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 13,
         "translation": [
@@ -344,7 +344,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 14,
         "translation": [
@@ -367,7 +367,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 15,
         "translation": [
@@ -388,8 +388,13 @@
         "comment": [
             "\\emph{Ifing:} there is no other reference to this river, which never freezes, so that the giants cannot cross it."
         ],
+        "translation_prelude": [
+            "Othin spake:"
+        ],
+        "original_prelude": [
+            "O`þinn kvaþ:"
+        ],
         "translation": [
-            "Othin spoke:",
             "``Ifing is the river{\\sep}that 'twixt the realms",
             "Of the gods and the giants goes;",
             "For all time ever{\\sep}open it flows,",
@@ -397,7 +402,6 @@
         ],
         "type": "stanza pair",
         "original": [
-            "",
             "{\\sep}",
             "",
             "{\\sep}",
@@ -413,7 +417,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 17,
         "translation": [
@@ -440,7 +444,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 18,
         "translation": [
@@ -465,7 +469,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 19,
         "translation": [
@@ -490,7 +494,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 20,
         "translation": [
@@ -515,7 +519,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 21,
         "translation": [
@@ -540,7 +544,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 22,
         "translation": [
@@ -568,7 +572,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 23,
         "translation": [
@@ -591,7 +595,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 24,
         "translation": [
@@ -618,7 +622,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 25,
         "translation": [
@@ -641,7 +645,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 26,
         "translation": [
@@ -674,7 +678,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 27,
         "translation": [
@@ -699,7 +703,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 28,
         "translation": [
@@ -726,7 +730,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 29,
         "translation": [
@@ -749,7 +753,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 30,
         "translation": [
@@ -776,7 +780,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 31,
         "translation": [
@@ -799,7 +803,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 32,
         "translation": [
@@ -826,7 +830,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 33,
         "translation": [
@@ -849,7 +853,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 34,
         "translation": [
@@ -875,7 +879,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 35,
         "translation": [
@@ -898,7 +902,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 36,
         "translation": [
@@ -924,7 +928,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 37,
         "translation": [
@@ -951,7 +955,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 38,
         "translation": [
@@ -976,7 +980,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 39,
         "translation": [
@@ -1008,7 +1012,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 40,
         "translation": [
@@ -1034,7 +1038,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 41,
         "translation": [
@@ -1057,7 +1061,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 42,
         "translation": [
@@ -1085,7 +1089,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 43,
         "translation": [
@@ -1112,7 +1116,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 44,
         "translation": [
@@ -1140,7 +1144,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 45,
         "translation": [
@@ -1165,7 +1169,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 46,
         "translation": [
@@ -1191,7 +1195,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 47,
         "translation": [
@@ -1214,7 +1218,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 48,
         "translation": [
@@ -1241,7 +1245,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 49,
         "translation": [
@@ -1266,7 +1270,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 50,
         "translation": [
@@ -1297,7 +1301,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 51,
         "translation": [
@@ -1320,7 +1324,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 52,
         "translation": [
@@ -1345,7 +1349,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 53,
         "translation": [
@@ -1375,7 +1379,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            ""
+            "O`þinn kvaþ:"
         ],
         "number": 54,
         "translation": [
@@ -1400,7 +1404,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Vafþru`þnir kvaþ:"
         ],
         "number": 55,
         "translation": [
