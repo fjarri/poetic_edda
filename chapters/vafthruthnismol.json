@@ -121,10 +121,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Heill þu` farir!{\\sep}heill aptr komir!",
+            "heill þu a` sinnum se`r!",
+            "o/`þi þe`r dugi,{\\sep}hvars skalt, Aldafo~þr!",
+            "orþum ma_e`la jo~tun.''"
         ]
     },
     {
@@ -137,10 +137,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Fo`r þa` O`þinn{\\sep}at freista orþspeki",
+            "þess ens alsvinna jo~tuns:",
+            "at ho~llu hann kvam{\\sep}ok a`tti {\\mydagger} Ims faþir,",
+            "inn gekk Yggr þegar."
         ],
         "number": 5
     },
@@ -161,10 +161,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Heill þu`, Valþru`þnir!{\\sep}nu`'mk i` ho~ll kominn,",
+            "a` þik sjalfan at sea;",
+            "hitt viljak fyrst vita,{\\sep}ef þu` fro`þr sei::r",
+            "eþa alsviþr, jo~tunn!''"
         ]
     },
     {
@@ -184,10 +184,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hvat's þat manna{\\sep}es i` mi`num sal",
+            "verpumk orþi a`?",
+            "u`t ne` ko/mr{\\sep}o`rum ho~llum fra`,",
+            "nema þu` enn snotrari sei::r.''"
         ]
     },
     {
@@ -209,10 +209,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Gagnra`þr heitik,{\\sep}nu`'mk af go~ngu kominn",
+            "þyrstr til þinna sala;",
+            "laþar þurfi{\\sep}hef ek lengi farit",
+            "ok andfanga, jo~tunn!''"
         ]
     },
     {
@@ -232,10 +232,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hvi` þu þa`, Gagnra`þr!{\\sep}ma_e`lisk af golfi fyrir?",
+            "farþu i` sess i` sal!",
+            "þa` skal freista,{\\sep}hvaþarr fleira viti,",
+            "gestr eþa enn gamli þulr.''"
         ]
     },
     {
@@ -257,10 +257,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``O`auþugr maþr,{\\sep}es til auþugs ko/mr,",
+            "ma_e`li þarft eþa þegi!",
+            "ofrma_e`lgi mikil{\\sep}hykk at illa geti",
+            "hveims viþ kaldrifjaþan ko/mr.''"
         ]
     },
     {
@@ -280,10 +280,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg me`r, Gagnra`þr!{\\sep}alls þu a` golfi vill",
+            "þi`ns of freista frama:",
+            "hve` sa` hestr heitir{\\sep}es hverjan dregr",
+            "dag of dro`ttmo~gu?''"
         ]
     },
     {
@@ -305,10 +305,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Skinfaxi heitir{\\sep}es enn ski`ra dregr",
+            "dag of dro`ttmo~gu;",
+            "hesta baztr{\\sep}þykkir meþ Hreiþgotum,",
+            "ey ly`sir mo~n af mari.''"
         ]
     },
     {
@@ -330,10 +330,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat, Gagnra`þr!{\\sep}alls þu a` golfi vill",
+            "þi`ns of freista frama:",
+            "hve` sa` jo`r heitir{\\sep}es austan dregr",
+            "no~`tt of ny`t regin?''"
         ]
     },
     {
@@ -355,10 +355,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hri`mfaxi heitir{\\sep}es hverja dregr",
+            "no~`tt of ny`t regin;",
+            "me`ldropa fellir{\\sep}hann morgin hvern,",
+            "þaþan ko/mr do~gg of dali.''"
         ]
     },
     {
@@ -378,10 +378,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat, Gagnra`þr!{\\sep}alls þu a` golfi vill",
+            "þi`ns of freista frama:",
+            "hve` su` o~` heitir{\\sep}es deilir meþ jo~tna sunum",
+            "grund auk meþ goþum?"
         ]
     },
     {
@@ -402,10 +402,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Ifing heitir o~`{\\sep}es deilir meþ jo~tna sunum",
+            "grund auk meþ goþum;",
+            "opin rinna{\\sep}ho`n skal of aldrdaga,",
+            "verþrat i`ss a` o~`.''"
         ],
         "number": 16
     },
@@ -428,10 +428,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat, Gagnra`þr!{\\sep}alls þu a` golfi vill",
+            "þi`ns of freista frama:",
+            "hve` sa` vo~llr heitir{\\sep}es finnask vi`gi at",
+            "Surtr ok en svo~`su goþ?''"
         ]
     },
     {
@@ -455,10 +455,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Vi`gri`þr heitir vo~llr{\\sep}es finnask vi`gi at",
+            "Surtr ok en svo~`su goþ;",
+            "hundraþ rasta{\\sep}hann's a` hverjan veg,",
+            "sa`'s þeim vo~llr vitaþr.''"
         ]
     },
     {
@@ -480,10 +480,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fro`þr est, gestr!{\\sep}farþu a` bekk jo~tuns,",
+            "ok ma_e`lumsk i` sessi saman!",
+            "ho~fþi veþja{\\sep}vit skulum ho~llu i`,",
+            "gestr! of geþspeki.''"
         ]
     },
     {
@@ -505,10 +505,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et eina,{\\sep}ef þitt o/`þi dugir",
+            "ok þu`, Vafþru`þnir! vitir:",
+            "hvaþan jo~rþ of kvam{\\sep}eþa upphiminn",
+            "fyrst, enn fro`þi jo~tunn?''"
         ]
     },
     {
@@ -530,10 +530,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``O`r Ymis holdi{\\sep}vas jo~rþ of sko~puþ",
+            "en o`r beinum bjo~rg,",
+            "himinn o`r hausi{\\sep}ens hri`mkalda jo~tuns,",
+            "en o`r sveita sa_e`r.''"
         ]
     },
     {
@@ -555,10 +555,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat annat,{\\sep}ef þitt o/`þi dugir",
+            "ok þu`, Vafþru`þnir! vitir:",
+            "hvaþan ma`ni of kvam,{\\sep}sa`s ferr menn yfir,",
+            "eþa so`l et sama?"
         ]
     },
     {
@@ -583,10 +583,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Mundilferi heitir,{\\sep}hann es Ma`na faþir",
+            "ok sva` So`lar et sama;",
+            "himin hverfa{\\sep}þau skulu hverjan dag",
+            "o~ldum at a`rtali.''"
         ]
     },
     {
