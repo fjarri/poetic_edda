@@ -84,11 +84,12 @@ Vafthruthnismol (planned)
 
 * Added Vafthruthnismol chapter;
 * Fixed quotation marks in Voluspo, 28;
-
-* Add proper rendering for original_prelude and translation_prelude
-* Voluspo, 54: remove line folding from inline stanza
-* Think about letting page breaks split stanzas
+* Added rendering for stanza preludes;
+* Refactored macros;
+* Voluspo, 54: removed line folding from inline stanza;
 * Voluspo, 35: check where the Old Norse stanza in comment was taken (and probably remove it)
+
+* Think about letting page breaks split stanzas
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -101,4 +102,3 @@ Tasks for distant future
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
 * Proofread everything
-* Rework macros, use some package that provides human-readable synthax for optional arguments

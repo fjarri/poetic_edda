@@ -3,32 +3,32 @@
         "text": [
             "\\eddachapter{Vafþrūþnismǭl}{Vafthruthnismol}{The Ballad of Vafthruthnir}",
             "",
-            "The \\chapterref{Vafthruthnismol} follows the \\chapterref{Hovamol} in the Codex Regius.",
-            "From stanza \\stanzaref{20} on it is also included in the \\emph{Arnamagnæan Codex,} the first part evidently having appeared on leaf now lost.",
+            "The \\eddachapterref{Vafthruthnismol} follows the \\eddachapterref{Hovamol} in the Codex Regius.",
+            "From stanza \\eddastanzaref{20} on it is also included in the \\emph{Arnamagnæan Codex,} the first part evidently having appeared on leaf now lost.",
             "Snorri quotes eight stanzas of it in the \\emph{Prose Edda,} and in his prose text closely paraphrases many others.",
             "",
-            "The poem is wholly in dialogue form except for a single narrative stanza (stanza \\stanzaref{5}).",
+            "The poem is wholly in dialogue form except for a single narrative stanza (stanza \\eddastanzaref{5}).",
             "After a brief introductory discussion between Othin and his wife, Frigg, concerning the reputed wisdom of the giant Vafthruthnir, Othin, always in quest of wisdom, seeks out the giant, calling himself Gagnrath.",
-            "The giant immediately insists that they shall demonstrate which is the wiser of the two, and propounds four questions (stanzas \\stanzaref{11}, \\stanzaref{13}, \\stanzaref{15}, and \\stanzaref{17}), each of which Othin answers.",
+            "The giant immediately insists that they shall demonstrate which is the wiser of the two, and propounds four questions (stanzas \\eddastanzaref{11}, \\eddastanzaref{13}, \\eddastanzaref{15}, and \\eddastanzaref{17}), each of which Othin answers.",
             "It is then the god's turn to ask, and he begins with a series of twelve numbered questions regarding the origins and past history of life.",
             "These Vafthruthnir answers, and Othin asks five more questions, this time referring to what is to follow the destruction of the gods, the last one asking the name of his own slayer.",
             "Again Vafthruthnir answers, and Othin finally propounds the unanswerable question: ``What spake Othin himself in the ears of his son, ere in the bale-fire he burned?''",
             "Vafthruthnir, recognizing his questioner as Othin himself, admits his inferiority in wisdom, and so the contest ends.",
             "",
             "The whole poem is essentially encyclopædic in character, and thus was particularly useful to Snorri in his preparation of the \\emph{Prose Edda.}",
-            "The encyclopædic poem with a slight narrative outline seems to have been exceedingly popular; the \\chapterref{Grimnismol} and the much later \\chapterref{Alvissmol} represent different phases of the same type.",
-            "The \\chapterref{Vafthruthnismol} and \\chapterref{Grimnismol} together, indeed, constitute a fairly complete dictionary of Norse mythology.",
-            "There has been much discussion as to the probable date of the \\chapterref{Vafthruthnismol,} but it appears to belong to about the same period as the \\chapterref{Voluspo:} in other words, the middle of the tenth century.",
+            "The encyclopædic poem with a slight narrative outline seems to have been exceedingly popular; the \\eddachapterref{Grimnismol} and the much later \\eddachapterref{Alvissmol} represent different phases of the same type.",
+            "The \\eddachapterref{Vafthruthnismol} and \\eddachapterref{Grimnismol} together, indeed, constitute a fairly complete dictionary of Norse mythology.",
+            "There has been much discussion as to the probable date of the \\eddachapterref{Vafthruthnismol,} but it appears to belong to about the same period as the \\eddachapterref{Voluspo:} in other words, the middle of the tenth century.",
             "While there may be a few interpolated passages in the poem as we now have it, it is clearly a united whole, and evidently in relatively good condition.",
             "",
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
     {
         "comment": [
             "The phrases ``Othin spake,'' ``Frigg spake,'' etc., appear in abbreviated form in both manuscripts.",
-            "\\emph{Frigg:} Othin's wife; cf. \\combinedref{Voluspo}{34} and note.",
+            "\\emph{Frigg:} Othin's wife; cf. \\eddacombinedref{Voluspo}{34} and note.",
             "\\emph{Vafthruthnir} (``the Mighty in Riddles''): nothing is known of this giant beyond what is told in this poem."
         ],
         "translation_prelude": [
@@ -139,7 +139,7 @@
         "original": [
             "Fōr þā Ōþinn{\\sep}at freista orþspeki",
             "þess ens alsvinna jǫtuns:",
-            "at hǫllu hann kvam{\\sep}ok ātti {\\mydagger} Ims faþir,",
+            "at hǫllu hann kvam{\\sep}ok ātti {\\eddadagger} Ims faþir,",
             "inn gekk Yggr þegar."
         ],
         "number": 5
@@ -240,7 +240,7 @@
     },
     {
         "comment": [
-            "This stanza sounds very much like many of those in the first part of the \\chapterref{Hovamol,} and may have been introduced here from some such source."
+            "This stanza sounds very much like many of those in the first part of the \\eddachapterref{Hovamol,} and may have been introduced here from some such source."
         ],
         "translation_prelude": [
             "Othin spake:"
@@ -411,7 +411,7 @@
     },
     {
         "comment": [
-            "\\emph{Surt:} the ruler of the fire-world (Muspellsheim), who comes to attack the gods in the last battle; cf. \\combinedref{Voluspo}{52}."
+            "\\emph{Surt:} the ruler of the fire-world (Muspellsheim), who comes to attack the gods in the last battle; cf. \\eddacombinedref{Voluspo}{52}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -513,7 +513,7 @@
     },
     {
         "comment": [
-            "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\combinedref{Voluspo}{3} and note."
+            "\\emph{Ymir:} the giant out of whose body the gods made the world; cf. \\eddacombinedref{Voluspo}{3} and note."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -566,7 +566,7 @@
             "\\emph{Mundilferi} (``the Turner''?): known only as the father of Mani (the Moon) and Sol (the Sun).",
             "Note that, curiously enough, Mani is the boy and Sol the girl.",
             "According to Snorri, Sol drove the horses of the sun, and Mani those of the moon, for the gods, indignant that they should have been given such imposing names, took them from their father to perform these tasks.",
-            "Cf. \\combinedref{Grimnismol}{37}."
+            "Cf. \\eddacombinedref{Grimnismol}{37}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -614,9 +614,9 @@
     },
     {
         "comment": [
-            "\\emph{Delling} (``the Dayspring''? Probably another form of the name, Dogling, meaning ``Son of the Dew'' is more correct): the husband of Not (Night); their son was Dag (Day); cf. \\combinedref{Hovamol}{161}.",
+            "\\emph{Delling} (``the Dayspring''? Probably another form of the name, Dogling, meaning ``Son of the Dew'' is more correct): the husband of Not (Night); their son was Dag (Day); cf. \\eddacombinedref{Hovamol}{161}.",
             "\\emph{Nor:} Snorri calls the father of Night Norvi or Narfi, and puts him among the giants.",
-            "Lines 3{\\ndash}4: cf. \\combinedref{Voluspo}{6}."
+            "Lines 3{\\ndash}4: cf. \\eddacombinedref{Voluspo}{6}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -666,10 +666,10 @@
         "comment": [
             "Neither the Regius nor the \\emph{Arnamagnæan Codex} indicates a lacuna.",
             "Most editors have filled out the stanza with two lines from late paper manuscripts:",
-            "\\myverse{And both of these{\\sep}shall ever be, \\\\",
+            "\\eddainlinestanza{And both of these{\\sep}shall ever be, \\\\",
             "Till the gods to destruction go.}",
             "Bugge ingeniously paraphrases Snorri's prose:",
-            "\\myverse{Vindsval's father{\\sep}was Vosuth called, \\\\",
+            "\\eddainlinestanza{Vindsval's father{\\sep}was Vosuth called, \\\\",
             "And rough is all his race.}",
             "\\emph{Vindsval:} ``the Wind-Cold,'' also called Vindljoni, ``the Wind-Man.''",
             "\\emph{Svosuth:} ``the Gentle.''"
@@ -684,15 +684,15 @@
         "translation": [
             "``Vindsval he was{\\sep}who was winter's father,",
             "And Svosuth summer begat;''",
-            "\\lacuna",
-            "\\lacuna"
+            "\\eddalacuna",
+            "\\eddalacuna"
         ],
         "type": "stanza pair",
         "original": [
             "``Vindsvalr heitir,{\\sep}hann es Vetrar faþir,",
             "en Svǭsuþr Sumars;''",
-            "\\lacuna",
-            "\\lacuna"
+            "\\eddalacuna",
+            "\\eddalacuna"
         ]
     },
     {
@@ -722,7 +722,7 @@
     },
     {
         "comment": [
-            "\\emph{Bergelmir:} when the gods slew Ymir in order to make the world out of his body, so much blood flowed from him that all the frost-giants were drowned except Bergelmir and his wife, who escaped in a boat; cf. stanza \\stanzaref{35}.",
+            "\\emph{Bergelmir:} when the gods slew Ymir in order to make the world out of his body, so much blood flowed from him that all the frost-giants were drowned except Bergelmir and his wife, who escaped in a boat; cf. stanza \\eddastanzaref{35}.",
             "Of \\emph{Thruthgelmir} (``the Mightily Burning'') we know nothing, but Aurgelmir was the frost-giants' name for Ymir himself.",
             "Thus Ymir was the first of the giants, and so Othin's question is answered."
         ],
@@ -774,7 +774,7 @@
         "comment": [
             "Snorri quotes this stanza, and the last two lines are taken from his version, as both of the manuscripts omit them.",
             "\\emph{Elivagar} (``Stormy Waves''): Mogk suggests that this river may have been the Milky Way.",
-            "At any rate, the venom carried in its waters froze into ice-banks over Ginnunga-gap (the ``yawning gap'' referred to in \\combinedref{Voluspo}{3}), and then dripped down to make the giant Ymir."
+            "At any rate, the venom carried in its waters froze into ice-banks over Ginnunga-gap (the ``yawning gap'' referred to in \\eddacombinedref{Voluspo}{3}), and then dripped down to make the giant Ymir."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -823,8 +823,8 @@
     {
         "comment": [
             "Snorri gives, without materially elaborating on it, the same account of how Ymir's son and daughter were born under his left arm, and how his feet together created a son.",
-            "That this offspring should have had six heads is nothing out of the ordinary, for various giants had more than the normal number, and Ymir's mother is credited with a little matter of nine hundred heads; cf. \\combinedref{Hymiskvitha}{8}.",
-            "Of the career of Ymir's six headed son we know nothing; he may have been the Thruthgelmir of stanza \\stanzaref{29}."
+            "That this offspring should have had six heads is nothing out of the ordinary, for various giants had more than the normal number, and Ymir's mother is credited with a little matter of nine hundred heads; cf. \\eddacombinedref{Hymiskvitha}{8}.",
+            "Of the career of Ymir's six headed son we know nothing; he may have been the Thruthgelmir of stanza \\eddastanzaref{29}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -873,7 +873,7 @@
     {
         "comment": [
             "Snorri quotes this stanza.",
-            "\\emph{Bergelmir:} on him and his boat cf. stanza \\stanzaref{29} and note."
+            "\\emph{Bergelmir:} on him and his boat cf. stanza \\eddastanzaref{29} and note."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -922,7 +922,7 @@
     {
         "comment": [
             "Snorri quotes this stanza.",
-            "\\emph{Hræsvelg} (``the Corpse-Eater'') on this giant in eagle's form cf. \\combinedref{Voluspo}{50}, and \\combinedref{Skirnismol}{27}."
+            "\\emph{Hræsvelg} (``the Corpse-Eater'') on this giant in eagle's form cf. \\eddacombinedref{Voluspo}{50}, and \\eddacombinedref{Skirnismol}{27}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -949,7 +949,7 @@
         "comment": [
             "With this stanza the question-formula changes, and Othin's questions from this point on concern more or less directly the great final struggle.",
             "Line 4 is presumably spurious.",
-            "\\emph{Njorth:} on Njorth and the Wanes, who gave him as a hostage to the gods at the end of their war, cf. \\combinedref{Voluspo}{21} and note."
+            "\\emph{Njorth:} on Njorth and the Wanes, who gave him as a hostage to the gods at the end of their war, cf. \\eddacombinedref{Voluspo}{21} and note."
         ],
         "translation_prelude": [
             "Othin spake:"
@@ -999,11 +999,11 @@
     },
     {
         "comment": [
-            "In both manuscripts, apparently through the carelessness of some older copyist, stanzas \\stanzaref{40} and \\stanzaref{41} are run together:",
+            "In both manuscripts, apparently through the carelessness of some older copyist, stanzas \\eddastanzaref{40} and \\eddastanzaref{41} are run together:",
             "``Eleventh answer me well, what men in the home mightily battle each day? They fell each other, and fare from the fight all healed full soon to sit.''",
-            "Luckily Snorri quotes stanza \\stanzaref{41} in full, and the translation is from his version.",
-            "Stanza \\stanzaref{40} should probably run something like this:",
-            "\\myverse{Eleventh answer me well,{\\sep}if thou knowest all \\\\",
+            "Luckily Snorri quotes stanza \\eddastanzaref{41} in full, and the translation is from his version.",
+            "Stanza \\eddastanzaref{40} should probably run something like this:",
+            "\\eddainlinestanza{Eleventh answer me well,{\\sep}if thou knowest all \\\\",
             "The fate that is fixed for the gods: \\\\",
             "What men are they{\\sep}who in Othin's home \\\\",
             "Each day to fight go forth?}"
@@ -1016,9 +1016,9 @@
         ],
         "number": 40,
         "translation": [
-            "``Eleventh answer me well,{\\sep}\\lacuna",
-            "\\lacuna",
-            "What men \\lacuna{\\sep}in \\lacuna home",
+            "``Eleventh answer me well,{\\sep}\\eddalacuna",
+            "\\eddalacuna",
+            "What men \\eddalacuna{\\sep}in \\eddalacuna home",
             "Each day to fight go forth?''"
         ],
         "type": "stanza pair",
@@ -1082,7 +1082,7 @@
     },
     {
         "comment": [
-            "\\emph{Nine worlds:} cf. \\combinedref{Voluspo}{2}.",
+            "\\emph{Nine worlds:} cf. \\eddacombinedref{Voluspo}{2}.",
             "\\emph{Niflhel:} ``Dark-Hell.''"
         ],
         "translation_prelude": [
@@ -1136,7 +1136,7 @@
     {
         "comment": [
             "Snorri quotes this stanza.",
-            "\\emph{Hoddmimir's wood:} probably this is the ash-tree Yggdrasil, which is sometimes referred to as ``Mimir's Tree,'' because Mimir waters it from his well; cf. \\combinedref{Voluspo}{27} and note, and \\combinedref{Svipdagsmol}{30} and note.",
+            "\\emph{Hoddmimir's wood:} probably this is the ash-tree Yggdrasil, which is sometimes referred to as ``Mimir's Tree,'' because Mimir waters it from his well; cf. \\eddacombinedref{Voluspo}{27} and note, and \\eddacombinedref{Svipdagsmol}{30} and note.",
             "Hoddmimir is presumably another name for Mimir.",
             "\\emph{Lif} (``Life'') and \\emph{Lifthrasir} (``Sturdy of Life''?): nothing further is known of this pair, from whom the new race of men is to spring."
         ],
@@ -1163,7 +1163,7 @@
     },
     {
         "comment": [
-            "\\emph{Fenrir:} there appears to be a confusion between the wolf Fenrir (cf. \\combinedref{Voluspo}{39} and note) and his son, the wolf Skoll, who steals the sun (cf. \\combinedref{Voluspo}{40} and note)."
+            "\\emph{Fenrir:} there appears to be a confusion between the wolf Fenrir (cf. \\eddacombinedref{Voluspo}{39} and note) and his son, the wolf Skoll, who steals the sun (cf. \\eddacombinedref{Voluspo}{40} and note)."
         ],
         "translation_prelude": [
             "Othin spake:"
@@ -1238,7 +1238,7 @@
     {
         "comment": [
             "\\emph{Mogthrasir} (``Desiring Sons''): not mentioned elsewhere in the Eddic poems, or by Snorri.",
-            "\\emph{The maidens:} apparently Norns, like the ``giant-maids'' in \\combinedref{Voluspo}{8}.",
+            "\\emph{The maidens:} apparently Norns, like the ``giant-maids'' in \\eddacombinedref{Voluspo}{8}.",
             "These Norns, however, are kindly to men."
         ],
         "translation_prelude": [
@@ -1264,7 +1264,7 @@
     },
     {
         "comment": [
-            "\\emph{Surt:} cf. \\combinedref{Voluspo}{52} and note."
+            "\\emph{Surt:} cf. \\eddacombinedref{Voluspo}{52} and note."
         ],
         "translation_prelude": [
             "Othin spake:"
@@ -1289,12 +1289,12 @@
     },
     {
         "comment": [
-            "\\emph{Vithar:} a son of Othin, who slays the wolf Fenrir; cf. \\combinedref{Voluspo}{54} and note.",
-            "\\emph{Vali:} the son whom Othin begot to avenge Baldr's death; cf. \\combinedref{Voluspo}{33} and note.",
+            "\\emph{Vithar:} a son of Othin, who slays the wolf Fenrir; cf. \\eddacombinedref{Voluspo}{54} and note.",
+            "\\emph{Vali:} the son whom Othin begot to avenge Baldr's death; cf. \\eddacombinedref{Voluspo}{33} and note.",
             "\\emph{Mothi} (``Wrath'') and Magni (``Might''): the sons of the god Thor, who after his death inherit his famous hammer, Mjollnir.",
-            "Concerning this hammer cf. especially \\chapterref{Thrymskvitha,} passim.",
+            "Concerning this hammer cf. especially \\eddachapterref{Thrymskvitha,} passim.",
             "\\emph{Vingnir} (``the Hurler''): Thor.",
-            "Concerning his death cf. \\combinedref{Voluspo}{56}.",
+            "Concerning his death cf. \\eddacombinedref{Voluspo}{56}.",
             "This stanza is quoted by Snorri."
         ],
         "translation_prelude": [
@@ -1343,7 +1343,7 @@
     },
     {
         "comment": [
-            "\\emph{The wolf:} Fenrir; cf. \\combinedref{Voluspo}{53} and {\\stanzaref[Voluspo]{54}}."
+            "\\emph{The wolf:} Fenrir; cf. \\eddacombinedref{Voluspo}{53} and {\\eddastanzaref[Voluspo]{54}}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -1370,9 +1370,9 @@
         "comment": [
             "\\emph{His son:} Baldr.",
             "Bugge changes lines 3{\\ndash}4 to run:",
-            "\\myverse{What did Othin speak{\\sep}in the ear of Baldr, \\\\",
+            "\\eddainlinestanza{What did Othin speak{\\sep}in the ear of Baldr, \\\\",
             "When to the bale-fire they bore him?}",
-            "For Baldr's death cf. \\combinedref{Voluspo}{32} and note.",
+            "For Baldr's death cf. \\eddacombinedref{Voluspo}{32} and note.",
             "The question is, of course, unanswerable save by Othin himself, and so the giant at last recognizes his guest."
         ],
         "translation_prelude": [
@@ -1398,7 +1398,7 @@
     },
     {
         "comment": [
-            "\\emph{Fated:} in stanza \\stanzaref{19} Vafthruthnir was rash enough to wager his head against his guest's on the outcome of the contest of wisdom, so he knows that his defeat means his death."
+            "\\emph{Fated:} in stanza \\eddastanzaref{19} Vafthruthnir was rash enough to wager his head against his guest's on the outcome of the contest of wisdom, so he knows that his defeat means his death."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"

@@ -14,17 +14,19 @@ def printStanzaPair(block):
 
 	assert not (('original_prelude' in block) ^ ('translation_prelude' in block))
 
-	prelude = u""
 	if 'original_prelude' in block:
 		original_p = u"\n".join(block['original_prelude'])
 		translation_p = u"\n".join(block['translation_prelude'])
-		prelude = u"\\mystanzaprelude{" + original_p + u"}{" + translation_p + u"}\n"
+		postfix = u"{" + original_p + u"}{" + translation_p + u"}"
+		command = u"\\eddastanzaprelude"
+	else:
+		postfix = u""
+		command = u"\\eddastanzasimple"
 
-	return u"\\stanzalabel{" + unicode(number) + u"}\n" + \
-		prelude + u"\\mystanzapair % Stanza " + unicode(number) + u"\n" + \
+	return command + u" % Stanza " + unicode(number) + u"\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
 		u"{" + unicode(number) + u"}" + \
-		u"{\n" + original + u"}\n{\n" + translation + u"}"
+		u"{\n" + original + u"}\n{\n" + translation + u"}\n" + postfix + u"\n"
 
 def printText(block):
 	return u"\n".join(block['text'])

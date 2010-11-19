@@ -3,8 +3,8 @@
         "text": [
             "\\eddachapter{Hǫvamǭl}{Hovamol}{The Ballad of the High One}",
             "",
-            "This poem follows the \\chapterref{Voluspo} in the \\emph{Codex Regius,} but is preserved in no other manuscript.",
-            "The first stanza is quoted by Snorri, and two lines of stanza \\stanzaref{84} appear in one of the sagas.",
+            "This poem follows the \\eddachapterref{Voluspo} in the \\emph{Codex Regius,} but is preserved in no other manuscript.",
+            "The first stanza is quoted by Snorri, and two lines of stanza \\eddastanzaref{84} appear in one of the sagas.",
             "",
             "In its present shape it involves the critic of the text in more puzzles than any other of the Eddic poems.",
             "Without going in detail into the various theories, what happened seems to have been somewhat as follows.",
@@ -13,10 +13,10 @@
             "To it, however, were added other poems and fragments dealing with wisdom which seemed by their nature to imply that the speaker was Othin.",
             "Thus a catalogue of runes, or charms, was tacked on, and also a set of proverbs, differing essentially in form from those comprising the main collection.",
             "Here and there bits of verse more nearly narrative crept in; and of course the loose structure of the poem made it easy for any reciter to insert new stanzas almost at will.",
-            "This curious miscellany is what we now have as the \\chapterref{Hovamol.}",
+            "This curious miscellany is what we now have as the \\eddachapterref{Hovamol.}",
             "",
-            "Five separate elements are pretty clearly recognizable: (1) the \\chapterref{Hovamol} proper (stanzas \\stanzarangeref{1}{80}), a collection of proverbs and counsels for the conduct of life; (2) the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}), a collection somewhat similar to the first, but specific ally addressed to a certain Loddfafnir; (3) the \\emph{Ljothatal} (stanzas \\stanzarangeref{147}{165}), a collection of charms; (4) the love-story of Othin and Billing's daughter (stanzas \\stanzarangeref{96}{102}), with an introductory dissertation on the faithlessness of women in general (stanzas \\stanzarangeref{81}{95}), which probably crept into the poem first, and then pulled the story, as an apt illustration, after it; (5) the story of how Othin got the mead of poetry{\\mdash}the draught which gave him the gift of tongues{\\mdash}from the maiden Gunnloth (stanzas \\stanzarangeref{103}{110}).",
-            "There is also a brief passage (stanzas \\stanzarangeref{139}{146}) telling how Othin won the runes, this passage being a natural introduction to the \\emph{Ljothatal,} and doubtless brought into the poem for that reason.",
+            "Five separate elements are pretty clearly recognizable: (1) the \\eddachapterref{Hovamol} proper (stanzas \\eddastanzarangeref{1}{80}), a collection of proverbs and counsels for the conduct of life; (2) the \\emph{Loddfafnismol} (stanzas \\eddastanzarangeref{111}{138}), a collection somewhat similar to the first, but specific ally addressed to a certain Loddfafnir; (3) the \\emph{Ljothatal} (stanzas \\eddastanzarangeref{147}{165}), a collection of charms; (4) the love-story of Othin and Billing's daughter (stanzas \\eddastanzarangeref{96}{102}), with an introductory dissertation on the faithlessness of women in general (stanzas \\eddastanzarangeref{81}{95}), which probably crept into the poem first, and then pulled the story, as an apt illustration, after it; (5) the story of how Othin got the mead of poetry{\\mdash}the draught which gave him the gift of tongues{\\mdash}from the maiden Gunnloth (stanzas \\eddastanzarangeref{103}{110}).",
+            "There is also a brief passage (stanzas \\eddastanzarangeref{139}{146}) telling how Othin won the runes, this passage being a natural introduction to the \\emph{Ljothatal,} and doubtless brought into the poem for that reason.",
             "",
             "It is idle to discuss the authorship or date of such a series of accretions as this.",
             "Parts of it are doubtless among the oldest relics of ancient Germanic poetry; parts of it may have originated at a relatively late period.",
@@ -25,11 +25,11 @@
             "It seems all but meaningless to talk about ``interpolations'' in a poem which has developed almost solely through the process of piecing together originally unrelated odds and ends.",
             "The notes, therefore, make only such suggestions as are needed to keep the main divisions of the poem distinct.",
             "",
-            "Few gnomic collections in the world's literary history present sounder wisdom more tersely expressed than the \\chapterref{Hovamol.}",
+            "Few gnomic collections in the world's literary history present sounder wisdom more tersely expressed than the \\eddachapterref{Hovamol.}",
             "Like the Book of Proverbs it occasionally rises to lofty heights of poetry.",
             "If it presents the worldly wisdom of a violent race, it also shows noble ideals of loyalty, truth, and unfaltering courage.",
             "",
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -234,7 +234,7 @@
     },
     {
         "comment": [
-            "Some editors have combined this stanza in various ways with the last two lines of stanza \\stanzaref{11}, as in the manuscript the first two lines of the latter are abbreviated, and, if they belong there at all, are presumably identical with the first two lines of stanza \\stanzaref{10}."
+            "Some editors have combined this stanza in various ways with the last two lines of stanza \\eddastanzaref{11}, as in the manuscript the first two lines of the latter are abbreviated, and, if they belong there at all, are presumably identical with the first two lines of stanza \\eddastanzaref{10}."
         ],
         "translation": [
             "Less good there lies{\\sep}than most believe",
@@ -255,7 +255,7 @@
         "comment": [
             "\\emph{The heron:} the bird of forgetfulness, referred to in line 1.",
             "\\emph{Gunnloth:} the daughter of the giant Suttung, from whom Othin won the mead of poetry.",
-            "For this episode see stanzas \\stanzarangeref{104}{110}."
+            "For this episode see stanzas \\eddastanzarangeref{104}{110}."
         ],
         "translation": [
             "Over beer the bird{\\sep}of forgetfulness broods,",
@@ -275,7 +275,7 @@
     {
         "comment": [
             "\\emph{Fjalar:} apparently another name for Suttung.",
-            "This stanza, and probably \\stanzaref{13}, seem to have been inserted as illustrative."
+            "This stanza, and probably \\eddastanzaref{13}, seem to have been inserted as illustrative."
         ],
         "translation": [
             "Drunk I was,{\\sep}I was dead-drunk,",
@@ -464,7 +464,7 @@
     },
     {
         "comment": [
-            "The first two lines are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza \\stanzaref{24}."
+            "The first two lines are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza \\eddastanzaref{24}."
         ],
         "translation": [
             "The foolish man{\\sep}for friends all those",
@@ -678,7 +678,7 @@
     },
     {
         "comment": [
-            "Lines 1 and 2 are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza \\stanzaref{56}."
+            "Lines 1 and 2 are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza \\eddastanzaref{56}."
         ],
         "translation": [
             "Better a house,{\\sep}though a hut it be,",
@@ -714,7 +714,7 @@
     },
     {
         "comment": [
-            "In the manuscript this stanza follows stanza \\stanzaref{40}."
+            "In the manuscript this stanza follows stanza \\eddastanzaref{40}."
         ],
         "translation": [
             "If wealth a man{\\sep}has won for himself,",
@@ -992,7 +992,7 @@
     },
     {
         "comment": [
-            "Here and in stanza \\stanzaref{56}, the first pairs of lines are abbreviated in the manuscript."
+            "Here and in stanza \\eddastanzaref{56}, the first pairs of lines are abbreviated in the manuscript."
         ],
         "translation": [
             "A measure of wisdom{\\sep}each man shall have,",
@@ -1117,7 +1117,7 @@
     },
     {
         "comment": [
-            "This stanza follows stanza \\stanzaref{63} in the manuscript, but there are marks therein indicating the transposition."
+            "This stanza follows stanza \\eddastanzaref{63} in the manuscript, but there are marks therein indicating the transposition."
         ],
         "translation": [
             "When the eagle comes{\\sep}to the ancient sea,",
@@ -1172,19 +1172,19 @@
         "comment": [
             "The manuscript indicates no lacuna (lines 1 and 2).",
             "Many editors have filled out the stanza with two lines from late paper manuscripts, the passage running:",
-            "\\myverse{A man must be watchful | and wary as well, \\\\",
+            "\\eddainlinestanza{A man must be watchful | and wary as well, \\\\",
             "And fearful of trusting a friend.}"
         ],
         "translation": [
-            "\\lacuna",
-            "\\lacuna",
+            "\\eddalacuna",
+            "\\eddalacuna",
             "Oft for the words{\\sep}that to others one speaks",
             "He will get but an evil gift."
         ],
         "type": "stanza pair",
         "original": [
-            "\\lacuna",
-            "\\lacuna",
+            "\\eddalacuna",
+            "\\eddalacuna",
             "orþa þeira,{\\sep}es maþr ǫþrum segir,",
             "opt hann gjǫld of getr."
         ],
@@ -1326,9 +1326,9 @@
     },
     {
         "comment": [
-            "These (\\stanzarangeref{73}{74}) seven lines are obviously a jumble.",
-            "The two lines of stanza \\stanzaref{73} not only appear out of place, but the verse form is unlike that of the surrounding stanzas.",
-            "In \\stanzaref{74}, the second line is clearly interpolated, and line I has little enough connection with lines 3, 4 and 5.",
+            "These (\\eddastanzarangeref{73}{74}) seven lines are obviously a jumble.",
+            "The two lines of stanza \\eddastanzaref{73} not only appear out of place, but the verse form is unlike that of the surrounding stanzas.",
+            "In \\eddastanzaref{74}, the second line is clearly interpolated, and line I has little enough connection with lines 3, 4 and 5.",
             "It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place."
         ],
         "translation": [
@@ -1370,7 +1370,7 @@
     },
     {
         "comment": [
-            "in the manuscript this stanza follows \\stanzaref{79}, the order being: \\stanzaref{77}, \\stanzaref{78}, \\stanzaref{76}, \\stanzaref{80}, \\stanzaref{79}, \\stanzaref{81}.",
+            "in the manuscript this stanza follows \\eddastanzaref{79}, the order being: \\eddastanzaref{77}, \\eddastanzaref{78}, \\eddastanzaref{76}, \\eddastanzaref{80}, \\eddastanzaref{79}, \\eddastanzaref{81}.",
             "\\emph{Fitjung} (``the Nourisher''): Earth."
         ],
         "translation": [
@@ -1425,18 +1425,18 @@
     {
         "comment": [
             "This stanza is certainly in bad shape, and probably out of place here.",
-            "Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the \\emph{Ljothatal} (stanzas \\stanzarangeref{147}{165}).",
+            "Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the \\emph{Ljothatal} (stanzas \\eddastanzarangeref{147}{165}).",
             "The stanza-form is so irregular as to show either that something has been lost or that there have been interpolations.",
             "The manuscript indicates no lacuna; Gering fills out the assumed gap as follows:",
-            "\\myverse{Certain is that which is sought from runes, \\\\",
+            "\\eddainlinestanza{Certain is that which is sought from runes, \\\\",
             "The runes{\\mdash}, etc.}"
         ],
         "translation": [
             "Certain is that{\\sep}which is sought from runes,",
             "That the gods so great have made,",
             "And the Master-Poet painted;",
-            "\\lacuna",
-            "\\lacuna{\\sep}of the race of gods:",
+            "\\eddalacuna",
+            "\\eddalacuna{\\sep}of the race of gods:",
             "Silence is safest and best."
         ],
         "type": "stanza pair",
@@ -1469,7 +1469,7 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -1477,12 +1477,12 @@
         "comment": [
             "With this stanza the verse-form, as indicated in the translation, abruptly changes to Malahattr.",
             "What has happened seems to have been something like this.",
-            "Stanza \\stanzaref{80} introduces the idea of man's love for woman.",
+            "Stanza \\eddastanzaref{80} introduces the idea of man's love for woman.",
             "Consequently some reciter or compiler (or possibly even a copyist) took occasion to insert at this point certain stanzas concerning the ways of women.",
-            "Thus stanza \\stanzaref{80} would account for the introduction of stanzas \\stanzaref{81} and \\stanzaref{82}, which, in turn, apparently drew stanza \\stanzaref{83} in with them.",
-            "Stanza \\stanzaref{84} suggests the fickleness of women, and is immediately followed{\\mdash}again with a change of verse-form{\\mdash}by a list of things equally untrustworthy (stanzas \\stanzarangeref{85}{90}).",
-            "Then, after a few more stanzas on love in the regular measure of the \\chapterref{Hovamol} (stanza \\stanzarangeref{91}{95}), is introduced, by way of illustration, Othin's story of his adventure with Billing's daughter (stanzas \\stanzarangeref{96}{102}).",
-            "Some such process of growth, whatever its specific stages may have been, must be assumed to account for the curious chaos of the whole passage from stanza \\stanzaref{81} to stanza \\stanzaref{102}."
+            "Thus stanza \\eddastanzaref{80} would account for the introduction of stanzas \\eddastanzaref{81} and \\eddastanzaref{82}, which, in turn, apparently drew stanza \\eddastanzaref{83} in with them.",
+            "Stanza \\eddastanzaref{84} suggests the fickleness of women, and is immediately followed{\\mdash}again with a change of verse-form{\\mdash}by a list of things equally untrustworthy (stanzas \\eddastanzarangeref{85}{90}).",
+            "Then, after a few more stanzas on love in the regular measure of the \\eddachapterref{Hovamol} (stanza \\eddastanzarangeref{91}{95}), is introduced, by way of illustration, Othin's story of his adventure with Billing's daughter (stanzas \\eddastanzarangeref{96}{102}).",
+            "Some such process of growth, whatever its specific stages may have been, must be assumed to account for the curious chaos of the whole passage from stanza \\eddastanzaref{81} to stanza \\eddastanzaref{102}."
         ],
         "translation": [
             "Give praise to the day at evening,{\\sep}to a woman on her pyre,",
@@ -1531,7 +1531,7 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -1556,13 +1556,13 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
     {
         "comment": [
-            "Stanzas \\stanzarangeref{85}{88} and go are in Fornyrthislag, and clearly come from a different source from the rest of the \\chapterref{Hovamol.}"
+            "Stanzas \\eddastanzarangeref{85}{88} and go are in Fornyrthislag, and clearly come from a different source from the rest of the \\eddachapterref{Hovamol.}"
         ],
         "translation": [
             "In a breaking bow{\\sep}or a burning flame,",
@@ -1600,7 +1600,7 @@
         "comment": [
             "The stanza is doubtless incomplete.",
             "Some editors add from a late paper manuscript two lines running:",
-            "\\myverse{In a light, clear sky{\\sep}or a laughing throng, \\\\",
+            "\\eddainlinestanza{In a light, clear sky{\\sep}or a laughing throng, \\\\",
             "In the bowl of a dog{\\sep}or a harlot's grief!}"
         ],
         "translation": [
@@ -1616,8 +1616,8 @@
     },
     {
         "comment": [
-            "This stanza follows stanza \\stanzaref{89} in the manuscript.",
-            "Many editors have changed the order, for while stanza \\stanzaref{89} is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between \\stanzaref{87} and \\stanzaref{88}."
+            "This stanza follows stanza \\eddastanzaref{89} in the manuscript.",
+            "Many editors have changed the order, for while stanza \\eddastanzaref{89} is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between \\eddastanzaref{87} and \\eddastanzaref{88}."
         ],
         "translation": [
             "In a brother's slayer,{\\sep}if thou meet him abroad,",
@@ -1636,7 +1636,7 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -1659,7 +1659,7 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -1684,7 +1684,7 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -1775,7 +1775,7 @@
     },
     {
         "comment": [
-            "Here begins the passage (stanzas \\stanzarangeref{96}{102}) illustrating the falseness of woman by the story of Othin's unsuccessful love affair with Billing's daughter.",
+            "Here begins the passage (stanzas \\eddastanzarangeref{96}{102}) illustrating the falseness of woman by the story of Othin's unsuccessful love affair with Billing's daughter.",
             "Of this person we know nothing beyond what is here told, but the story needs little comment."
         ],
         "translation": [
@@ -1881,7 +1881,7 @@
     {
         "comment": [
             "Rask adds at the beginning of this stanza two lines from a late paper manuscript, running:",
-            "\\myverse{Few are so good{\\sep}that false they are never \\\\",
+            "\\eddainlinestanza{Few are so good{\\sep}that false they are never \\\\",
             "To cheat the mind of a man.}",
             "He makes these two lines plus lines 1 and 2 a full stanza, and line 3, 4, 5, and 6 a second stanza."
         ],
@@ -1906,13 +1906,13 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
     {
         "comment": [
-            "With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas \\stanzarangeref{104}{110})."
+            "With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas \\eddastanzarangeref{104}{110})."
         ],
         "translation": [
             "Though glad at home,{\\sep}and merry with guests,",
@@ -1997,7 +1997,7 @@
     },
     {
         "comment": [
-            "\\emph{Othrörir:} here the name of the magic mead itself, whereas in stanza \\stanzaref{141} it is the name of the vessel containing it.",
+            "\\emph{Othrörir:} here the name of the magic mead itself, whereas in stanza \\eddastanzaref{141} it is the name of the vessel containing it.",
             "Othin had no intention of bestowing any of the precious mead upon men, but as he was flying over the earth, hotly pursued by Suttung, he spilled some of it out of his mouth, and in this way mankind also won the gift of poetry."
         ],
         "translation": [
@@ -2018,7 +2018,7 @@
     {
         "comment": [
             "\\emph{Hor:} Othin (``the High One'').",
-            "The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza \\stanzaref{110} to was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.",
+            "The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza \\eddastanzaref{110} to was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.",
             "The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring."
         ],
         "translation": [
@@ -2074,15 +2074,15 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
     {
         "comment": [
-            "With this stanza begins the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}).",
+            "With this stanza begins the \\emph{Loddfafnismol} (stanzas \\eddastanzarangeref{111}{138}).",
             "Loddfafnir is apparently a wandering singer, who, from his ``chanter's stool,'' recites the verses which he claims to have received from Othin.",
-            "\\emph{Wells of Urth:} cf. \\combinedref{Voluspo}{19} and note.",
+            "\\emph{Wells of Urth:} cf. \\eddacombinedref{Voluspo}{19} and note.",
             "\\emph{Urth} (``the Past'') is one of the three Norns.",
             "This stanza is apparently in corrupt form, and editors have tried many experiments with it, both in rejecting lines as spurious and in rear ranging the words and punctuation.",
             "It looks rather as though the first four lines formed a complete stanza, and the last four had crept in later.",
@@ -2113,9 +2113,9 @@
     },
     {
         "comment": [
-            "Lines 1\\ndash3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas \\stanzaref{111} and \\stanzaref{138}, Loddfafnir represents himself as simply quoting Othin's words.",
+            "Lines 1\\ndash3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas \\eddastanzaref{111} and \\eddastanzaref{138}, Loddfafnir represents himself as simply quoting Othin's words.",
             "The material is closely analogous to that contained in the first eighty stanzas of the poem.",
-            "In some cases (e. g., stanzas \\stanzaref{117}, \\stanzaref{119}, \\stanzaref{121}, \\stanzaref{126} and \\stanzaref{130}) the formula precedes a full four-line stanza instead of two (or three) lines."
+            "In some cases (e. g., stanzas \\eddastanzaref{117}, \\eddastanzaref{119}, \\eddastanzaref{121}, \\eddastanzaref{126} and \\eddastanzaref{130}) the formula precedes a full four-line stanza instead of two (or three) lines."
         ],
         "translation": [
             "I rede thee, Loddfafnir!{\\sep}and hear thou my rede,{\\commamdash}",
@@ -2539,8 +2539,8 @@
     {
         "comment": [
             "Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza.",
-            "Others, attaching lines 3 and 4 to stanza \\stanzaref{132}, insert as the first two lines of stanza \\stanzaref{133} two lines from a late paper manuscript, running:",
-            "\\myverse{Evil and good{\\sep}do men's sons ever \\\\",
+            "Others, attaching lines 3 and 4 to stanza \\eddastanzaref{132}, insert as the first two lines of stanza \\eddastanzaref{133} two lines from a late paper manuscript, running:",
+            "\\eddainlinestanza{Evil and good{\\sep}do men's sons ever \\\\",
             "Mingled bear in their breasts.}"
         ],
         "translation": [
@@ -2660,8 +2660,8 @@
     },
     {
         "comment": [
-            "In the manuscript this stanza comes at the end of the entire poem, following stanza \\stanzaref{165}.",
-            "Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza \\stanzaref{111}."
+            "In the manuscript this stanza comes at the end of the entire poem, following stanza \\eddastanzaref{165}.",
+            "Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza \\eddastanzaref{111}."
         ],
         "translation": [
             "Now are Hor's words{\\sep}spoken in the hall,",
@@ -2684,18 +2684,18 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
     {
         "comment": [
-            "With this stanza begins the most confusing part of the \\chapterref{Hovamol:} the group of eight stanzas leading up to the Ljothatal, or list of charms.",
+            "With this stanza begins the most confusing part of the \\eddachapterref{Hovamol:} the group of eight stanzas leading up to the Ljothatal, or list of charms.",
             "Certain paper manuscripts have before this stanza a title: ``Othin's Tale of the Runes.''",
-            "Apparently stanzas \\stanzaref{139}, \\stanzaref{140} and \\stanzaref{142} are fragments of an account of how Othin obtained the runes; \\stanzaref{141} is erroneously inserted from some version of the magic mead story (cf. stanzas \\stanzarangeref{104}{110}); and stanzas \\stanzaref{143}, \\stanzaref{144}, \\stanzaref{145}, and \\stanzaref{146} are from miscellaneous sources, all, however, dealing with the general subject of runes.",
-            "With stanza \\stanzaref{147} a clearly continuous passage begins once more.",
+            "Apparently stanzas \\eddastanzaref{139}, \\eddastanzaref{140} and \\eddastanzaref{142} are fragments of an account of how Othin obtained the runes; \\eddastanzaref{141} is erroneously inserted from some version of the magic mead story (cf. stanzas \\eddastanzarangeref{104}{110}); and stanzas \\eddastanzaref{143}, \\eddastanzaref{144}, \\eddastanzaref{145}, and \\eddastanzaref{146} are from miscellaneous sources, all, however, dealing with the general subject of runes.",
+            "With stanza \\eddastanzaref{147} a clearly continuous passage begins once more.",
             "\\emph{The windy tree:} the ash Yggdrasil (literally ``the Horse of Othin,'' so called because of this story), on which Othin, in order to win the magic runes, hanged himself as an offering to himself, and wounded himself with his own spear.",
-            "Lines 5 and 6 have presumably been borrowed from \\combinedref{Svipdagsmol}{30}."
+            "Lines 5 and 6 have presumably been borrowed from \\eddacombinedref{Svipdagsmol}{30}."
         ],
         "translation": [
             "I ween that I hung{\\sep}on the windy tree,",
@@ -2738,9 +2738,9 @@
             "This stanza, interrupting as it does the account of Othin's winning the runes, appears to be an interpolation.",
             "The meaning of the stanza is most obscure.",
             "Bolthorn was Othin's grandfather, and Bestla his mother.",
-            "We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. \\combinedref{Voluspo}{27} and note, and {\\stanzaref[Voluspo]{47}} and note).",
-            "In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas \\stanzarangeref{104}{110}).",
-            "Concerning \\emph{Othrörir,} here used as the name of the vessel containing the mead, cf. stanza \\stanzaref{107} and note."
+            "We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. \\eddacombinedref{Voluspo}{27} and note, and {\\eddastanzaref[Voluspo]{47}} and note).",
+            "In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas \\eddastanzarangeref{104}{110}).",
+            "Concerning \\emph{Othrörir,} here used as the name of the vessel containing the mead, cf. stanza \\eddastanzaref{107} and note."
         ],
         "translation": [
             "Nine mighty songs{\\sep}I got from the son",
@@ -2801,9 +2801,9 @@
     },
     {
         "comment": [
-            "\\emph{Dain} and \\emph{Dvalin:} dwarfs; cf. \\combinedref{Voluspo}{14}, and note.",
+            "\\emph{Dain} and \\emph{Dvalin:} dwarfs; cf. \\eddacombinedref{Voluspo}{14}, and note.",
             "Dain, however, may here be one of the elves rather than the dwarf of that name.",
-            "The two names also appear together in \\combinedref{Grimnismol}{33}, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil.",
+            "The two names also appear together in \\eddacombinedref{Grimnismol}{33}, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil.",
             "\\emph{Alsvith} (``the All Wise'') appears nowhere else as a giant's name.",
             "\\emph{Myself:} Othin.",
             "We have no further information concerning the list of those who wrote the runes for the various races, and these four lines seem like a confusion of names in the rather hazy mind of some reciter."
@@ -2825,7 +2825,7 @@
     },
     {
         "comment": [
-            "This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one ``writes'' and ``tints'' (cf. stanza \\stanzaref{79}) than with the prayers which one ``asks'' and the sacrifices which one ``offers'' and ``sends.''",
+            "This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one ``writes'' and ``tints'' (cf. stanza \\eddastanzaref{79}) than with the prayers which one ``asks'' and the sacrifices which one ``offers'' and ``sends.''",
             "Its origin is wholly uncertain, but it is clearly an interpolation here.",
             "In the manuscript the phrase ``knowest?'' is abbreviated after the first line."
         ],
@@ -2848,15 +2848,15 @@
         "comment": [
             "This stanza as translated here follows the manuscript reading, except in assuming a gap between lines 3 and 5.",
             "In Vigfusson and Powell's \\emph{Corpus Poeticum Boreale} the first three lines have somehow been expanded into eight.",
-            "The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza \\stanzaref{144}.",
+            "The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza \\eddastanzaref{144}.",
             "\\emph{Thund:} another name for Othin.",
-            "\\emph{When home he came:} presumably after obtaining the runes as described in stanzas \\stanzaref{139} and \\stanzaref{140}."
+            "\\emph{When home he came:} presumably after obtaining the runes as described in stanzas \\eddastanzaref{139} and \\eddastanzaref{140}."
         ],
         "translation": [
             "Better no prayer{\\sep}than too big an offering,",
             "By thy getting measure thy gift;",
             "Better is none{\\sep}than too big a sacrifice,",
-            "\\lacuna",
+            "\\eddalacuna",
             "So Thund of old wrote{\\sep}ere man's race began,",
             "Where he rose on high{\\sep}when home he came."
         ],
@@ -2865,7 +2865,7 @@
             "Betra's ōbeþit{\\sep}an sē ofblōtit,",
             "ey sēr til gildis gjǫf;",
             "betra's ōsent{\\sep}an sē ofsoït",
-            "\\lacuna",
+            "\\eddalacuna",
             "Svā Þundr of reist{\\sep}fyr þjōþa røk,",
             "þar hann upp of reis,{\\sep}es hann aptr of kvam."
         ],
@@ -2873,7 +2873,7 @@
     },
     {
         "text": [
-            "\\sepline"
+            "\\eddasepline"
         ],
         "type": "text"
     },
@@ -2883,7 +2883,7 @@
             "The magic songs themselves are not given, but in each case the peculiar application of the charm is explained.",
             "The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem.",
             "In the manuscript and in most editions line 4 falls into two half-lines, running:",
-            "\\myverse{In sickness and pain{\\sep}and every sorrow.}"
+            "\\eddainlinestanza{In sickness and pain{\\sep}and every sorrow.}"
         ],
         "translation": [
             "The songs I know{\\sep}that king's wives know not,",
@@ -2908,15 +2908,15 @@
         "translation": [
             "A second I know,{\\sep}that men shall need",
             "Who leechcraft long to use;",
-            "\\lacuna",
-            "\\lacuna"
+            "\\eddalacuna",
+            "\\eddalacuna"
         ],
         "type": "stanza pair",
         "original": [
             "Þat kannk annat{\\sep}es þurfu ȳta synir",
             "þeirs vilja lǣknar lifa",
-            "\\lacuna",
-            "\\lacuna"
+            "\\eddalacuna",
+            "\\eddalacuna"
         ],
         "number": 148
     },
@@ -3148,7 +3148,7 @@
     },
     {
         "comment": [
-            "This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase ``a fifteenth'' being inserted only after stanzas \\stanzarangeref{162}{165} had crept in.",
+            "This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase ``a fifteenth'' being inserted only after stanzas \\eddastanzarangeref{162}{165} had crept in.",
             "\\emph{Delling:} a seldom mentioned god who married Not (Night).",
             "Their son was Dag (Day).",
             "\\emph{Thjothrörir:} not mentioned elsewhere.",
@@ -3188,27 +3188,27 @@
     },
     {
         "comment": [
-            "Some editors have combined these two lines with stanza \\stanzaref{164}.",
+            "Some editors have combined these two lines with stanza \\eddastanzaref{164}.",
             "Others have assumed that the gap follows the first half-line, making ``so that{\\mdash}from me'' the end of the stanza."
         ],
         "translation": [
             "A seventeenth I know,{\\sep}so that seldom shall go",
             "A maiden young from me;",
-            "\\lacuna",
-            "\\lacuna"
+            "\\eddalacuna",
+            "\\eddalacuna"
         ],
         "type": "stanza pair",
         "original": [
             "Þat kannk et sjautjānda,{\\sep}at mik seint mun firrask",
             "et manunga man.",
-            "\\lacuna",
-            "\\lacuna"
+            "\\eddalacuna",
+            "\\eddalacuna"
         ],
         "number": 163
     },
     {
         "comment": [
-            "This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the \\emph{Loddfafnismol} (stanzas \\stanzarangeref{111}{138}) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point.",
+            "This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the \\emph{Loddfafnismol} (stanzas \\eddastanzarangeref{111}{138}) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point.",
             "The words ``if thou mightest get them'' are a conjectural emendation."
         ],
         "translation": [
