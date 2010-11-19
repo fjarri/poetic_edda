@@ -86,6 +86,9 @@ Vafthruthnismol (planned)
 * Is it enough to remove indent from first line of comment only?
   Or should other paragraphs be affected too?
 * Add proper rendering for original_prelude and translation_prelude
+* Voluspo, 54: remove line folding from inline stanza
+* Think about letting page breaks split stanzas
+* Voluspo, 35: check where the Old Norse stanza in comment was taken (and probably remove it)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
