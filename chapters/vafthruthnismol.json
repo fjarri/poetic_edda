@@ -78,11 +78,7 @@
         ]
     },
     {
-        "comment": [
-            "This single narrative stanza is presumably a later interpolation.",
-            "\\emph{Im:} the name appears to be corrupt, but we know nothing of any son of Vafthruthnir.",
-            "\\emph{Ygg} (``the Terrible''): Othin."
-        ],
+        "comment": null,
         "translation_prelude": [
             "Othin spake:"
         ],
@@ -128,7 +124,11 @@
         ]
     },
     {
-        "comment": null,
+        "comment": [
+            "This single narrative stanza is presumably a later interpolation.",
+            "\\emph{Im:} the name appears to be corrupt, but we know nothing of any son of Vafthruthnir.",
+            "\\emph{Ygg} (``the Terrible''): Othin."
+        ],
         "translation": [
             "The wisdom then{\\sep}of the giant wise",
             "Forth did he fare to try;",
