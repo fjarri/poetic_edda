@@ -160,10 +160,25 @@
 % in case you want to change the way stanza number is displayed
 \newcommand{\displaystanzanum}[1]{{\numberfont\Large\textbf{#1.}}}
 
-\newcommand{\mystanzapair}[4][\@empty]{
+\newcommand{\stanzalabel}[1]{
+	\phantomsection
+	\label{\thischapterlabel:#1}
+}
 
-\phantomsection
-\label{\thischapterlabel:#2}
+\newcommand{\mystanzaprelude}[2]{
+	\hskip -\parindent
+	\begin{tabular}{@{} p{2\parindent} @{} p{0.4\textwidth} @{} p{0.5\textwidth}}
+	&
+	{\large\setstretch{1.3}\selectfont\stanzafont \textit{#1}}
+	&
+	{\large\setstretch{1.3}\selectfont\stanzafont \textit{#2}}
+	\end{tabular}
+	\nopagebreak
+	\vskip 0.5\baselineskip
+	\nopagebreak
+}
+
+\newcommand{\mystanzapair}[4][\@empty]{
 
 \hskip -\parindent
 \begin{tabular}{@{} r @{} p{0.4\textwidth} @{} p{0.5\textwidth}}
