@@ -82,9 +82,9 @@ Hovamol (15 Nov 2010)
 Vafthruthnismol (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Vafthruthnismol chapter
-* Is it enough to remove indent from first line of comment only?
-  Or should other paragraphs be affected too?
+* Added Vafthruthnismol chapter;
+* Fixed quotation marks in Voluspo, 28;
+
 * Add proper rendering for original_prelude and translation_prelude
 * Voluspo, 54: remove line folding from inline stanza
 * Think about letting page breaks split stanzas
@@ -101,3 +101,4 @@ Tasks for distant future
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
 * Proofread everything
+* Rework macros, use some package that provides human-readable synthax for optional arguments
