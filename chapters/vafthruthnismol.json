@@ -606,10 +606,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et þriþja,{\\sep}alls þik svinnan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hvaþan dagr of kvam,{\\sep}sa`s ferr dro`tt yfir,",
+            "eþa no~`tt meþ niþum?''"
         ]
     },
     {
@@ -633,10 +633,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Dellingr heitir,{\\sep}hann es Dags faþir,",
+            "en No~`tt vas No~rvi borin;",
+            "ny` ok niþ{\\sep}sko`pu ny`t regin",
+            "o~ldum at a`rtali.''"
         ]
     },
     {
@@ -656,10 +656,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et fjo`rþa,{\\sep}alls þik fro`þan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hvaþan vetr of kvam{\\sep}eþa varmt sumar",
+            "fyrst meþ fro`þ regin?''"
         ]
     },
     {
@@ -689,10 +689,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            ""
+            "``Vindsvalr heitir,{\\sep}hann es Vetrar faþir,",
+            "en Svo~`suþr Sumars;''",
+            "\\lacuna",
+            "\\lacuna"
         ]
     },
     {
@@ -714,10 +714,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et fimta,{\\sep}alls þik fro`þan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hverr jo~tna elztr{\\sep}eþa Ymis niþja",
+            "yrþi i` a`rdaga?''"
         ]
     },
     {
@@ -741,10 +741,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``O/ro`fi vetra,{\\sep}a`þr va_e`ri jo~rþ of sko~puþ,",
+            "þa` vas Bergelmir borinn;",
+            "Þru`þgelmir{\\sep}vas þess faþir,",
+            "en Aurgelmir afi.''"
         ]
     },
     {
@@ -764,10 +764,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et se`tta,{\\sep}alls þik svinnan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hvaþan Aurgelmir{\\sep}kvam meþ jo~tna sunum",
+            "fyrst, enn fro`þi jo~tunn?''"
         ]
     },
     {
@@ -791,10 +791,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``O`r E`livo~`gum{\\sep}stukku eitrdropar,",
+            "sva` o`x unz o`r varþ jo~tunn;",
+            "þar o`rar a_e`ttir{\\sep}kvo~`mu allar saman,",
+            "þvi`'s þat a_e` allt til atalt.''"
         ]
     },
     {
@@ -814,17 +814,17 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et sjaunda,{\\sep}alls þik svinnan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hve` sa` bo~rn of gat{\\sep}enn baldni jo~tunn,",
+            "es hann hafþit gy`gjar gaman?''"
         ]
     },
     {
         "comment": [
-                "Snorri gives, without materially elaborating on it, the same account of how Ymir's son and daughter were born under his left arm, and how his feet together created a son.",
-                "That this offspring should have had six heads is nothing out of the ordinary, for various giants had more than the normal number, and Ymir's mother is credited with a little matter of nine hundred heads; cf. \\combinedref{Hymiskvitha}{8}.",
-                "Of the career of Ymir's six headed son we know nothing; he may have been the Thruthgelmir of stanza \\stanzaref{29}."
+            "Snorri gives, without materially elaborating on it, the same account of how Ymir's son and daughter were born under his left arm, and how his feet together created a son.",
+            "That this offspring should have had six heads is nothing out of the ordinary, for various giants had more than the normal number, and Ymir's mother is credited with a little matter of nine hundred heads; cf. \\combinedref{Hymiskvitha}{8}.",
+            "Of the career of Ymir's six headed son we know nothing; he may have been the Thruthgelmir of stanza \\stanzaref{29}."
         ],
         "translation_prelude": [
             "Vafthruthnir spake:"
@@ -841,10 +841,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Und hendi vaxa{\\sep}kvo~`þu hri`mþursi",
+            "mey ok mo~g saman;",
+            "fo`tr viþ fo/`ti{\\sep}gat ens fro`þa jo~tuns",
+            "sexho~fþaþan sun.''"
         ]
     },
     {
@@ -864,10 +864,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et a`tta,{\\sep}alls þik svinnan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hvat fyrst of mant{\\sep}eþa fremst of veizt?",
+            "þu` 'st alsviþr, jo~tunn!''"
         ]
     },
     {
@@ -890,10 +890,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``O/ro`fi vetra{\\sep}a`þr va_e`ri jo~rþ of sko~puþ,",
+            "þa` vas Bergelmir borinn;",
+            "þat ek fyrst of man,{\\sep}es sa enn fro`þi jo~tunn",
+            "a` vas lu`þr of lagiþr.''"
         ]
     },
     {
@@ -913,10 +913,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et niunda,{\\sep}alls þik svinnan kveþa,",
+            "ef þu`, Vafþru`þnir! vitir:",
+            "hvaþan vindr of ko/mr{\\sep}sa`s ferr va`g yfir?",
+            "a_e` menn hann sjalfan of sea.''"
         ]
     },
     {
@@ -939,10 +939,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hra_e`svelgr heitir{\\sep}es sitr a` himins enda,",
+            "jo~tunn i` arnar ham;",
+            "af hans va_e`ngjum{\\sep}kveþa vind koma",
+            "alla menn yfir.''"
         ]
     },
     {
@@ -967,11 +967,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Seg þat et tiunda,{\\sep}alls þu` ti`va ro/k",
+            "o~ll, Vafþru`þnir! vitir:",
+            "hvaþan Njo~rþr of kvam{\\sep}meþ \\emph{niþjum} a`sa{\\mdash}",
+            "{[}hofum ok ho~rgum{\\sep}hann ra_e`þr hundmo~rgum{\\mdash}{]}",
+            "ok vasat hann o~`sum alinn?''"
         ]
     },
     {
@@ -991,10 +991,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``I` Vanaheimi{\\sep}sko`pu hann vi`s regin",
+            "ok seldu at gi`slingu goþum;",
+            "i` aldar ro/k{\\sep}hann mun aptr koma",
+            "heim meþ vi`sum vo~num.''"
         ]
     },
     {
@@ -1023,10 +1023,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat et ellifta,{\\sep}\\emph{alls þik svinnan kveþa,}",
+            "\\emph{ef þu`, Vafþru`þnir! vitir:}",
+            "\\emph{hverir'u y`tar}{\\sep}\\emph{es O`þins} tu`num i`",
+            "ho~ggvask hverjan dag?''"
         ]
     },
     {
@@ -1049,10 +1049,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Allir einherjar{\\sep}O`þins tu`num i`",
+            "ho~ggvask hverjan dag;",
+            "val þeir kjo`sa{\\sep}ok ri`þa vi`gi fra`,",
+            "sitja meirr of sa`ttir saman.''"
         ]
     },
     {
@@ -1073,11 +1073,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "``Seg þat et tolfta,{\\sep}hvi` þu` ti`va ro/k",
+            "o~ll, Vafþru`þnir! vitir?",
+            "fra` jo~tna ru`num{\\sep}ok allra goþa",
+            "segir þu et sannasta,",
+            "enn alsvinni jo~tunn!''"
         ]
     },
     {
@@ -1101,11 +1101,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            "{\\sep}",
-            ""
+            "``Fra` jo~tna ru`num{\\sep}ok allra goþa",
+            "ek kann segja satt,",
+            "þvi`t hvern hefk heim of komit:",
+            "niu kvamk heima{\\sep}fyr Niflhel neþan,",
+            "hinig deyja {[}o`r helju{]} halir.''"
         ]
     },
     {
@@ -1127,10 +1127,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
+            "fjo~lþ of reyndak regin:",
+            "hvat lifir manna,{\\sep}þa`s enn ma_e`ra li`þr",
+            "fimbulvetr meþ firum?''"
         ]
     },
     {
@@ -1155,10 +1155,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Li`f ok Li`fþrasir,{\\sep}en þau leynask munu",
+            "i` holti Hoddmimis;",
+            "morgindo~ggvar{\\sep}þau ser at mat hafa",
+            "en þaþan af aldir alask.''"
         ]
     },
     {
@@ -1180,10 +1180,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
+            "fjo~lþ of reyndak regin:",
+            "hvaþan ko/mr so`l{\\sep}a` enn sle`tta himin,",
+            "þa`s þessi hefr Fenrir farit?''"
         ]
     },
     {
@@ -1206,10 +1206,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Eina do`ttur{\\sep}berr Alfro~þull,",
+            "a`þr henni Fenrir fari;",
+            "su` skal ri`þa,{\\sep}þa`s regin deyja,",
+            "mo~þur' brautir ma_e`r.''"
         ]
     },
     {
@@ -1229,10 +1229,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
+            "fjo~lþ of reyndak regin:",
+            "hverjar 'u meyjar{\\sep}es li`þa mar yfir,",
+            "fro`þgeþjaþar fara?''"
         ]
     },
     {
@@ -1256,10 +1256,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Þriar þjo`þir{\\sep}falla þorp yfir",
+            "meyja Mo~gþrasis,",
+            "hamingjur einar{\\sep}þa_e`rs i` heimi 'ru`,",
+            "þo` þa_e`r meþ jo~tnum alask.''"
         ]
     },
     {
@@ -1281,10 +1281,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
+            "fjo~lþ of reyndak regin:",
+            "hverir ra`þa a_e`sir{\\sep}eignum goþa,",
+            "þa`s sloknar Surta logi?''"
         ]
     },
     {
@@ -1312,10 +1312,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Vi`þarr ok Va`li{\\sep}byggva ve` goþa,",
+            "þa`s sloknar Surta logi;",
+            "Mo`þi ok Magni{\\sep}skulu Mjo~llni hafa",
+            "Vingnis at vi`gþroti.''"
         ]
     },
     {
@@ -1335,10 +1335,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
+            "fjo~lþ of reyndak regin:",
+            "hvat verþr O`þni{\\sep}at aldrlagi,",
+            "þa`s of rju`fask regin?''"
         ]
     },
     {
@@ -1360,10 +1360,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Ulfr gleypa{\\sep}mun Aldafo~þr,",
+            "þess mun Vi`þarr vreka;",
+            "kalda kjapta{\\sep}hann klyfja mun",
+            "vitnis vi`gi at.''"
         ]
     },
     {
@@ -1390,10 +1390,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
+            "fjo~lþ of reyndak regin:",
+            "hvat ma_e`lti O`þinn,{\\sep}a`þr a` ba`l stigi,",
+            "sjalfr i` eyra syni?''"
         ]
     },
     {
@@ -1417,12 +1417,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Ey manni þat veit,{\\sep}hvat þu i` a`rdaga",
+            "sagþir i` eyra syni:",
+            "feigum munni{\\sep}ma_e`ltak mi`na forna stafi",
+            "auk of ragna ro/k.",
+            "Nu` viþ O`þin{\\sep}deildak orþspeki,",
+            "þu`'st a_e` vi`sastr vera.''"
         ]
     }
 ]
