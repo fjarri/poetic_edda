@@ -87,7 +87,7 @@ Vafthruthnismol (planned)
 * Added rendering for stanza preludes;
 * Refactored macros;
 * Voluspo, 54: removed line folding from inline stanza;
-* Voluspo, 35: check where the Old Norse stanza in comment was taken (and probably remove it)
+* Voluspo, 35: fixed Old Norse stanza in comment (took it from Gering)
 
 * Think about letting page breaks split stanzas
 
