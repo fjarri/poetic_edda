@@ -25,15 +25,6 @@ Used fonts
 * Lucida Grande and Optima from standard Snow Leopard font pack;
 * Cover page: `Vidir Futhark <http://www.fontspace.com/vidir-thorisson/vidir-futhark>`_
 
-------------------
-Sources by chapter
-------------------
-
-Sources: **Gering** ("Die Lieder der alteren Edda" by by Karl Hildebrand and Hugo Gering)
-
-* Voluspo: Gering,
-* Hovamol: Gering.
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Modifications of Gering source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
