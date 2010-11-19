@@ -1,7 +1,7 @@
 [
     {
         "text": [
-            "\\eddachapter{Vafþru`þnismo~`l}{Vafthruthnismol}{The Ballad of Vafthruthnir}",
+            "\\eddachapter{Vafþrūþnismǭl}{Vafthruthnismol}{The Ballad of Vafthruthnir}",
             "",
             "The \\chapterref{Vafthruthnismol} follows the \\chapterref{Hovamol} in the Codex Regius.",
             "From stanza \\stanzaref{20} on it is also included in the \\emph{Arnamagnæan Codex,} the first part evidently having appeared on leaf now lost.",
@@ -35,7 +35,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 1,
         "translation": [
@@ -46,10 +46,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Ra`þ me`r nu`, Frigg!{\\sep}alls mik fara ti`þir",
-            "at vitja Vafþru`þnis;",
-            "forvitni mikla{\\sep}kveþk me`r a` fornum sto~fum",
-            "viþ enn alsvinna jo~tun.''"
+            "``Rāþ mēr nū, Frigg!{\\sep}alls mik fara tīþir",
+            "at vitja Vafþrūþnis;",
+            "forvitni mikla{\\sep}kveþk mēr ā fornum stǫfum",
+            "viþ enn alsvinna jǫtun.''"
         ]
     },
     {
@@ -71,10 +71,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Heima letja{\\sep}mundak Herjafo~þr",
-            "goþa go~rþum i`;",
-            "þvi`t engi jo~tun{\\sep}hugþak jafnramman",
-            "sem Vafþru`þni vesa.''"
+            "``Heima letja{\\sep}mundak Herjafǫþr",
+            "goþa gǫrþum ī;",
+            "þvīt engi jǫtun{\\sep}hugþak jafnramman",
+            "sem Vafþrūþni vesa.''"
         ]
     },
     {
@@ -87,7 +87,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 3,
         "translation": [
@@ -98,10 +98,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin;",
-            "hitt viljak vita,{\\sep}hve` Vafþru`þnis",
-            "salakynni sei::.''"
+            "``Fjǫlþ ek fōr{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin;",
+            "hitt viljak vita,{\\sep}hvē Vafþrūþnis",
+            "salakynni seï.''"
         ]
     },
     {
@@ -121,10 +121,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Heill þu` farir!{\\sep}heill aptr komir!",
-            "heill þu a` sinnum se`r!",
-            "o/`þi þe`r dugi,{\\sep}hvars skalt, Aldafo~þr!",
-            "orþum ma_e`la jo~tun.''"
+            "``Heill þū farir!{\\sep}heill aptr komir!",
+            "heill þu ā sinnum sēr!",
+            "ø̄þi þēr dugi,{\\sep}hvars skalt, Aldafǫþr!",
+            "orþum mǣla jǫtun.''"
         ]
     },
     {
@@ -137,9 +137,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "Fo`r þa` O`þinn{\\sep}at freista orþspeki",
-            "þess ens alsvinna jo~tuns:",
-            "at ho~llu hann kvam{\\sep}ok a`tti {\\mydagger} Ims faþir,",
+            "Fōr þā Ōþinn{\\sep}at freista orþspeki",
+            "þess ens alsvinna jǫtuns:",
+            "at hǫllu hann kvam{\\sep}ok ātti {\\mydagger} Ims faþir,",
             "inn gekk Yggr þegar."
         ],
         "number": 5
@@ -150,7 +150,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 6,
         "translation": [
@@ -161,10 +161,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Heill þu`, Valþru`þnir!{\\sep}nu`'mk i` ho~ll kominn,",
-            "a` þik sjalfan at sea;",
-            "hitt viljak fyrst vita,{\\sep}ef þu` fro`þr sei::r",
-            "eþa alsviþr, jo~tunn!''"
+            "``Heill þū, Valþrūþnir!{\\sep}nū'mk ī hǫll kominn,",
+            "ā þik sjalfan at sea;",
+            "hitt viljak fyrst vita,{\\sep}ef þū frōþr seïr",
+            "eþa alsviþr, jǫtunn!''"
         ]
     },
     {
@@ -173,7 +173,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 7,
         "translation": [
@@ -184,10 +184,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Hvat's þat manna{\\sep}es i` mi`num sal",
-            "verpumk orþi a`?",
-            "u`t ne` ko/mr{\\sep}o`rum ho~llum fra`,",
-            "nema þu` enn snotrari sei::r.''"
+            "``Hvat's þat manna{\\sep}es ī mīnum sal",
+            "verpumk orþi ā?",
+            "ūt nē kømr{\\sep}ōrum hǫllum frā,",
+            "nema þū enn snotrari seïr.''"
         ]
     },
     {
@@ -198,7 +198,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 8,
         "translation": [
@@ -209,10 +209,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Gagnra`þr heitik,{\\sep}nu`'mk af go~ngu kominn",
+            "``Gagnrāþr heitik,{\\sep}nū'mk af gǫngu kominn",
             "þyrstr til þinna sala;",
             "laþar þurfi{\\sep}hef ek lengi farit",
-            "ok andfanga, jo~tunn!''"
+            "ok andfanga, jǫtunn!''"
         ]
     },
     {
@@ -221,7 +221,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 9,
         "translation": [
@@ -232,9 +232,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Hvi` þu þa`, Gagnra`þr!{\\sep}ma_e`lisk af golfi fyrir?",
-            "farþu i` sess i` sal!",
-            "þa` skal freista,{\\sep}hvaþarr fleira viti,",
+            "``Hvī þu þā, Gagnrāþr!{\\sep}mǣlisk af golfi fyrir?",
+            "farþu ī sess ī sal!",
+            "þā skal freista,{\\sep}hvaþarr fleira viti,",
             "gestr eþa enn gamli þulr.''"
         ]
     },
@@ -246,7 +246,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 10,
         "translation": [
@@ -257,10 +257,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``O`auþugr maþr,{\\sep}es til auþugs ko/mr,",
-            "ma_e`li þarft eþa þegi!",
-            "ofrma_e`lgi mikil{\\sep}hykk at illa geti",
-            "hveims viþ kaldrifjaþan ko/mr.''"
+            "``Ōauþugr maþr,{\\sep}es til auþugs kømr,",
+            "mǣli þarft eþa þegi!",
+            "ofrmǣlgi mikil{\\sep}hykk at illa geti",
+            "hveims viþ kaldrifjaþan kømr.''"
         ]
     },
     {
@@ -269,7 +269,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 11,
         "translation": [
@@ -280,10 +280,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg me`r, Gagnra`þr!{\\sep}alls þu a` golfi vill",
-            "þi`ns of freista frama:",
-            "hve` sa` hestr heitir{\\sep}es hverjan dregr",
-            "dag of dro`ttmo~gu?''"
+            "``Seg mēr, Gagnrāþr!{\\sep}alls þu ā golfi vill",
+            "þīns of freista frama:",
+            "hvē sā hestr heitir{\\sep}es hverjan dregr",
+            "dag of drōttmǫgu?''"
         ]
     },
     {
@@ -294,7 +294,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 12,
         "translation": [
@@ -305,10 +305,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Skinfaxi heitir{\\sep}es enn ski`ra dregr",
-            "dag of dro`ttmo~gu;",
+            "``Skinfaxi heitir{\\sep}es enn skīra dregr",
+            "dag of drōttmǫgu;",
             "hesta baztr{\\sep}þykkir meþ Hreiþgotum,",
-            "ey ly`sir mo~n af mari.''"
+            "ey lȳsir mǫn af mari.''"
         ]
     },
     {
@@ -319,7 +319,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 13,
         "translation": [
@@ -330,10 +330,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat, Gagnra`þr!{\\sep}alls þu a` golfi vill",
-            "þi`ns of freista frama:",
-            "hve` sa` jo`r heitir{\\sep}es austan dregr",
-            "no~`tt of ny`t regin?''"
+            "``Seg þat, Gagnrāþr!{\\sep}alls þu ā golfi vill",
+            "þīns of freista frama:",
+            "hvē sā jōr heitir{\\sep}es austan dregr",
+            "nǭtt of nȳt regin?''"
         ]
     },
     {
@@ -344,7 +344,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 14,
         "translation": [
@@ -355,10 +355,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Hri`mfaxi heitir{\\sep}es hverja dregr",
-            "no~`tt of ny`t regin;",
-            "me`ldropa fellir{\\sep}hann morgin hvern,",
-            "þaþan ko/mr do~gg of dali.''"
+            "``Hrīmfaxi heitir{\\sep}es hverja dregr",
+            "nǭtt of nȳt regin;",
+            "mēldropa fellir{\\sep}hann morgin hvern,",
+            "þaþan kømr dǫgg of dali.''"
         ]
     },
     {
@@ -367,7 +367,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 15,
         "translation": [
@@ -378,9 +378,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat, Gagnra`þr!{\\sep}alls þu a` golfi vill",
-            "þi`ns of freista frama:",
-            "hve` su` o~` heitir{\\sep}es deilir meþ jo~tna sunum",
+            "``Seg þat, Gagnrāþr!{\\sep}alls þu ā golfi vill",
+            "þīns of freista frama:",
+            "hvē sū ǭ heitir{\\sep}es deilir meþ jǫtna sunum",
             "grund auk meþ goþum?"
         ]
     },
@@ -392,8 +392,9 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
+        "number": 16,
         "translation": [
             "``Ifing is the river{\\sep}that 'twixt the realms",
             "Of the gods and the giants goes;",
@@ -402,12 +403,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Ifing heitir o~`{\\sep}es deilir meþ jo~tna sunum",
+            "``Ifing heitir ǭ{\\sep}es deilir meþ jǫtna sunum",
             "grund auk meþ goþum;",
-            "opin rinna{\\sep}ho`n skal of aldrdaga,",
-            "verþrat i`ss a` o~`.''"
-        ],
-        "number": 16
+            "opin rinna{\\sep}hōn skal of aldrdaga,",
+            "verþrat īss ā ǭ.''"
+        ]
     },
     {
         "comment": [
@@ -417,7 +417,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 17,
         "translation": [
@@ -428,10 +428,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat, Gagnra`þr!{\\sep}alls þu a` golfi vill",
-            "þi`ns of freista frama:",
-            "hve` sa` vo~llr heitir{\\sep}es finnask vi`gi at",
-            "Surtr ok en svo~`su goþ?''"
+            "``Seg þat, Gagnrāþr!{\\sep}alls þu ā golfi vill",
+            "þīns of freista frama:",
+            "hvē sā vǫllr heitir{\\sep}es finnask vīgi at",
+            "Surtr ok en svǭsu goþ?''"
         ]
     },
     {
@@ -444,7 +444,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 18,
         "translation": [
@@ -455,10 +455,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Vi`gri`þr heitir vo~llr{\\sep}es finnask vi`gi at",
-            "Surtr ok en svo~`su goþ;",
-            "hundraþ rasta{\\sep}hann's a` hverjan veg,",
-            "sa`'s þeim vo~llr vitaþr.''"
+            "``Vīgrīþr heitir vǫllr{\\sep}es finnask vīgi at",
+            "Surtr ok en svǭsu goþ;",
+            "hundraþ rasta{\\sep}hann's ā hverjan veg,",
+            "sā's þeim vǫllr vitaþr.''"
         ]
     },
     {
@@ -469,7 +469,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 19,
         "translation": [
@@ -480,9 +480,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fro`þr est, gestr!{\\sep}farþu a` bekk jo~tuns,",
-            "ok ma_e`lumsk i` sessi saman!",
-            "ho~fþi veþja{\\sep}vit skulum ho~llu i`,",
+            "``Frōþr est, gestr!{\\sep}farþu ā bekk jǫtuns,",
+            "ok mǣlumsk ī sessi saman!",
+            "hǫfþi veþja{\\sep}vit skulum hǫllu ī,",
             "gestr! of geþspeki.''"
         ]
     },
@@ -494,7 +494,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 20,
         "translation": [
@@ -505,10 +505,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et eina,{\\sep}ef þitt o/`þi dugir",
-            "ok þu`, Vafþru`þnir! vitir:",
-            "hvaþan jo~rþ of kvam{\\sep}eþa upphiminn",
-            "fyrst, enn fro`þi jo~tunn?''"
+            "``Seg þat et eina,{\\sep}ef þitt ø̄þi dugir",
+            "ok þū, Vafþrūþnir! vitir:",
+            "hvaþan jǫrþ of kvam{\\sep}eþa upphiminn",
+            "fyrst, enn frōþi jǫtunn?''"
         ]
     },
     {
@@ -519,7 +519,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 21,
         "translation": [
@@ -530,10 +530,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``O`r Ymis holdi{\\sep}vas jo~rþ of sko~puþ",
-            "en o`r beinum bjo~rg,",
-            "himinn o`r hausi{\\sep}ens hri`mkalda jo~tuns,",
-            "en o`r sveita sa_e`r.''"
+            "``Ōr Ymis holdi{\\sep}vas jǫrþ of skǫpuþ",
+            "en ōr beinum bjǫrg,",
+            "himinn ōr hausi{\\sep}ens hrīmkalda jǫtuns,",
+            "en ōr sveita sǣr.''"
         ]
     },
     {
@@ -544,7 +544,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 22,
         "translation": [
@@ -555,10 +555,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat annat,{\\sep}ef þitt o/`þi dugir",
-            "ok þu`, Vafþru`þnir! vitir:",
-            "hvaþan ma`ni of kvam,{\\sep}sa`s ferr menn yfir,",
-            "eþa so`l et sama?"
+            "``Seg þat annat,{\\sep}ef þitt ø̄þi dugir",
+            "ok þū, Vafþrūþnir! vitir:",
+            "hvaþan māni of kvam,{\\sep}sās ferr menn yfir,",
+            "eþa sōl et sama?"
         ]
     },
     {
@@ -572,7 +572,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 23,
         "translation": [
@@ -583,10 +583,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Mundilferi heitir,{\\sep}hann es Ma`na faþir",
-            "ok sva` So`lar et sama;",
+            "``Mundilferi heitir,{\\sep}hann es Māna faþir",
+            "ok svā Sōlar et sama;",
             "himin hverfa{\\sep}þau skulu hverjan dag",
-            "o~ldum at a`rtali.''"
+            "ǫldum at ārtali.''"
         ]
     },
     {
@@ -595,7 +595,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 24,
         "translation": [
@@ -607,9 +607,9 @@
         "type": "stanza pair",
         "original": [
             "``Seg þat et þriþja,{\\sep}alls þik svinnan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
-            "hvaþan dagr of kvam,{\\sep}sa`s ferr dro`tt yfir,",
-            "eþa no~`tt meþ niþum?''"
+            "ef þū, Vafþrūþnir! vitir:",
+            "hvaþan dagr of kvam,{\\sep}sās ferr drōtt yfir,",
+            "eþa nǭtt meþ niþum?''"
         ]
     },
     {
@@ -622,7 +622,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 25,
         "translation": [
@@ -634,9 +634,9 @@
         "type": "stanza pair",
         "original": [
             "``Dellingr heitir,{\\sep}hann es Dags faþir,",
-            "en No~`tt vas No~rvi borin;",
-            "ny` ok niþ{\\sep}sko`pu ny`t regin",
-            "o~ldum at a`rtali.''"
+            "en Nǭtt vas Nǫrvi borin;",
+            "nȳ ok niþ{\\sep}skōpu nȳt regin",
+            "ǫldum at ārtali.''"
         ]
     },
     {
@@ -645,7 +645,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 26,
         "translation": [
@@ -656,10 +656,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et fjo`rþa,{\\sep}alls þik fro`þan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
+            "``Seg þat et fjōrþa,{\\sep}alls þik frōþan kveþa,",
+            "ef þū, Vafþrūþnir! vitir:",
             "hvaþan vetr of kvam{\\sep}eþa varmt sumar",
-            "fyrst meþ fro`þ regin?''"
+            "fyrst meþ frōþ regin?''"
         ]
     },
     {
@@ -678,7 +678,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 27,
         "translation": [
@@ -690,7 +690,7 @@
         "type": "stanza pair",
         "original": [
             "``Vindsvalr heitir,{\\sep}hann es Vetrar faþir,",
-            "en Svo~`suþr Sumars;''",
+            "en Svǭsuþr Sumars;''",
             "\\lacuna",
             "\\lacuna"
         ]
@@ -703,7 +703,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 28,
         "translation": [
@@ -714,10 +714,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et fimta,{\\sep}alls þik fro`þan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
-            "hverr jo~tna elztr{\\sep}eþa Ymis niþja",
-            "yrþi i` a`rdaga?''"
+            "``Seg þat et fimta,{\\sep}alls þik frōþan kveþa,",
+            "ef þū, Vafþrūþnir! vitir:",
+            "hverr jǫtna elztr{\\sep}eþa Ymis niþja",
+            "yrþi ī ārdaga?''"
         ]
     },
     {
@@ -730,7 +730,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 29,
         "translation": [
@@ -741,9 +741,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``O/ro`fi vetra,{\\sep}a`þr va_e`ri jo~rþ of sko~puþ,",
-            "þa` vas Bergelmir borinn;",
-            "Þru`þgelmir{\\sep}vas þess faþir,",
+            "``Ørōfi vetra,{\\sep}āþr vǣri jǫrþ of skǫpuþ,",
+            "þā vas Bergelmir borinn;",
+            "Þrūþgelmir{\\sep}vas þess faþir,",
             "en Aurgelmir afi.''"
         ]
     },
@@ -753,7 +753,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 30,
         "translation": [
@@ -764,10 +764,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et se`tta,{\\sep}alls þik svinnan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
-            "hvaþan Aurgelmir{\\sep}kvam meþ jo~tna sunum",
-            "fyrst, enn fro`þi jo~tunn?''"
+            "``Seg þat et sētta,{\\sep}alls þik svinnan kveþa,",
+            "ef þū, Vafþrūþnir! vitir:",
+            "hvaþan Aurgelmir{\\sep}kvam meþ jǫtna sunum",
+            "fyrst, enn frōþi jǫtunn?''"
         ]
     },
     {
@@ -780,7 +780,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 31,
         "translation": [
@@ -791,10 +791,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``O`r E`livo~`gum{\\sep}stukku eitrdropar,",
-            "sva` o`x unz o`r varþ jo~tunn;",
-            "þar o`rar a_e`ttir{\\sep}kvo~`mu allar saman,",
-            "þvi`'s þat a_e` allt til atalt.''"
+            "``Ōr Ēlivǭgum{\\sep}stukku eitrdropar,",
+            "svā ōx unz ōr varþ jǫtunn;",
+            "þar ōrar ǣttir{\\sep}kvǭmu allar saman,",
+            "þvī's þat ǣ allt til atalt.''"
         ]
     },
     {
@@ -803,7 +803,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 32,
         "translation": [
@@ -815,9 +815,9 @@
         "type": "stanza pair",
         "original": [
             "``Seg þat et sjaunda,{\\sep}alls þik svinnan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
-            "hve` sa` bo~rn of gat{\\sep}enn baldni jo~tunn,",
-            "es hann hafþit gy`gjar gaman?''"
+            "ef þū, Vafþrūþnir! vitir:",
+            "hvē sā bǫrn of gat{\\sep}enn baldni jǫtunn,",
+            "es hann hafþit gȳgjar gaman?''"
         ]
     },
     {
@@ -830,7 +830,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 33,
         "translation": [
@@ -841,10 +841,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Und hendi vaxa{\\sep}kvo~`þu hri`mþursi",
-            "mey ok mo~g saman;",
-            "fo`tr viþ fo/`ti{\\sep}gat ens fro`þa jo~tuns",
-            "sexho~fþaþan sun.''"
+            "``Und hendi vaxa{\\sep}kvǭþu hrīmþursi",
+            "mey ok mǫg saman;",
+            "fōtr viþ fø̄ti{\\sep}gat ens frōþa jǫtuns",
+            "sexhǫfþaþan sun.''"
         ]
     },
     {
@@ -853,7 +853,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 34,
         "translation": [
@@ -864,10 +864,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et a`tta,{\\sep}alls þik svinnan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
+            "``Seg þat et ātta,{\\sep}alls þik svinnan kveþa,",
+            "ef þū, Vafþrūþnir! vitir:",
             "hvat fyrst of mant{\\sep}eþa fremst of veizt?",
-            "þu` 'st alsviþr, jo~tunn!''"
+            "þū 'st alsviþr, jǫtunn!''"
         ]
     },
     {
@@ -879,7 +879,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 35,
         "translation": [
@@ -890,10 +890,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``O/ro`fi vetra{\\sep}a`þr va_e`ri jo~rþ of sko~puþ,",
-            "þa` vas Bergelmir borinn;",
-            "þat ek fyrst of man,{\\sep}es sa enn fro`þi jo~tunn",
-            "a` vas lu`þr of lagiþr.''"
+            "``Ørōfi vetra{\\sep}āþr vǣri jǫrþ of skǫpuþ,",
+            "þā vas Bergelmir borinn;",
+            "þat ek fyrst of man,{\\sep}es sa enn frōþi jǫtunn",
+            "ā vas lūþr of lagiþr.''"
         ]
     },
     {
@@ -902,7 +902,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 36,
         "translation": [
@@ -914,9 +914,9 @@
         "type": "stanza pair",
         "original": [
             "``Seg þat et niunda,{\\sep}alls þik svinnan kveþa,",
-            "ef þu`, Vafþru`þnir! vitir:",
-            "hvaþan vindr of ko/mr{\\sep}sa`s ferr va`g yfir?",
-            "a_e` menn hann sjalfan of sea.''"
+            "ef þū, Vafþrūþnir! vitir:",
+            "hvaþan vindr of kømr{\\sep}sās ferr vāg yfir?",
+            "ǣ menn hann sjalfan of sea.''"
         ]
     },
     {
@@ -928,7 +928,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 37,
         "translation": [
@@ -939,9 +939,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Hra_e`svelgr heitir{\\sep}es sitr a` himins enda,",
-            "jo~tunn i` arnar ham;",
-            "af hans va_e`ngjum{\\sep}kveþa vind koma",
+            "``Hrǣsvelgr heitir{\\sep}es sitr ā himins enda,",
+            "jǫtunn ī arnar ham;",
+            "af hans vǣngjum{\\sep}kveþa vind koma",
             "alla menn yfir.''"
         ]
     },
@@ -955,7 +955,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 38,
         "translation": [
@@ -967,11 +967,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et tiunda,{\\sep}alls þu` ti`va ro/k",
-            "o~ll, Vafþru`þnir! vitir:",
-            "hvaþan Njo~rþr of kvam{\\sep}meþ \\emph{niþjum} a`sa{\\mdash}",
-            "{[}hofum ok ho~rgum{\\sep}hann ra_e`þr hundmo~rgum{\\mdash}{]}",
-            "ok vasat hann o~`sum alinn?''"
+            "``Seg þat et tiunda,{\\sep}alls þū tīva røk",
+            "ǫll, Vafþrūþnir! vitir:",
+            "hvaþan Njǫrþr of kvam{\\sep}meþ \\emph{niþjum} āsa{\\mdash}",
+            "{[}hofum ok hǫrgum{\\sep}hann rǣþr hundmǫrgum{\\mdash}{]}",
+            "ok vasat hann ǭsum alinn?''"
         ]
     },
     {
@@ -980,7 +980,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 39,
         "translation": [
@@ -991,10 +991,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``I` Vanaheimi{\\sep}sko`pu hann vi`s regin",
-            "ok seldu at gi`slingu goþum;",
-            "i` aldar ro/k{\\sep}hann mun aptr koma",
-            "heim meþ vi`sum vo~num.''"
+            "``Ī Vanaheimi{\\sep}skōpu hann vīs regin",
+            "ok seldu at gīslingu goþum;",
+            "ī aldar røk{\\sep}hann mun aptr koma",
+            "heim meþ vīsum vǫnum.''"
         ]
     },
     {
@@ -1012,7 +1012,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 40,
         "translation": [
@@ -1024,9 +1024,9 @@
         "type": "stanza pair",
         "original": [
             "``Seg þat et ellifta,{\\sep}\\emph{alls þik svinnan kveþa,}",
-            "\\emph{ef þu`, Vafþru`þnir! vitir:}",
-            "\\emph{hverir'u y`tar}{\\sep}\\emph{es O`þins} tu`num i`",
-            "ho~ggvask hverjan dag?''"
+            "\\emph{ef þū, Vafþrūþnir! vitir:}",
+            "\\emph{hverir'u ȳtar}{\\sep}\\emph{es Ōþins} tūnum ī",
+            "hǫggvask hverjan dag?''"
         ]
     },
     {
@@ -1038,7 +1038,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 41,
         "translation": [
@@ -1049,10 +1049,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Allir einherjar{\\sep}O`þins tu`num i`",
-            "ho~ggvask hverjan dag;",
-            "val þeir kjo`sa{\\sep}ok ri`þa vi`gi fra`,",
-            "sitja meirr of sa`ttir saman.''"
+            "``Allir einherjar{\\sep}Ōþins tūnum ī",
+            "hǫggvask hverjan dag;",
+            "val þeir kjōsa{\\sep}ok rīþa vīgi frā,",
+            "sitja meirr of sāttir saman.''"
         ]
     },
     {
@@ -1061,7 +1061,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 42,
         "translation": [
@@ -1073,11 +1073,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Seg þat et tolfta,{\\sep}hvi` þu` ti`va ro/k",
-            "o~ll, Vafþru`þnir! vitir?",
-            "fra` jo~tna ru`num{\\sep}ok allra goþa",
+            "``Seg þat et tolfta,{\\sep}hvī þū tīva røk",
+            "ǫll, Vafþrūþnir! vitir?",
+            "frā jǫtna rūnum{\\sep}ok allra goþa",
             "segir þu et sannasta,",
-            "enn alsvinni jo~tunn!''"
+            "enn alsvinni jǫtunn!''"
         ]
     },
     {
@@ -1089,7 +1089,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 43,
         "translation": [
@@ -1101,11 +1101,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fra` jo~tna ru`num{\\sep}ok allra goþa",
+            "``Frā jǫtna rūnum{\\sep}ok allra goþa",
             "ek kann segja satt,",
-            "þvi`t hvern hefk heim of komit:",
+            "þvīt hvern hefk heim of komit:",
             "niu kvamk heima{\\sep}fyr Niflhel neþan,",
-            "hinig deyja {[}o`r helju{]} halir.''"
+            "hinig deyja {[}ōr helju{]} halir.''"
         ]
     },
     {
@@ -1116,7 +1116,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 44,
         "translation": [
@@ -1127,9 +1127,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin:",
-            "hvat lifir manna,{\\sep}þa`s enn ma_e`ra li`þr",
+            "``Fjǫlþ ek fōr,{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin:",
+            "hvat lifir manna,{\\sep}þās enn mǣra līþr",
             "fimbulvetr meþ firum?''"
         ]
     },
@@ -1144,7 +1144,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 45,
         "translation": [
@@ -1155,9 +1155,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Li`f ok Li`fþrasir,{\\sep}en þau leynask munu",
-            "i` holti Hoddmimis;",
-            "morgindo~ggvar{\\sep}þau ser at mat hafa",
+            "``Līf ok Līfþrasir,{\\sep}en þau leynask munu",
+            "ī holti Hoddmimis;",
+            "morgindǫggvar{\\sep}þau ser at mat hafa",
             "en þaþan af aldir alask.''"
         ]
     },
@@ -1169,7 +1169,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 46,
         "translation": [
@@ -1180,10 +1180,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin:",
-            "hvaþan ko/mr so`l{\\sep}a` enn sle`tta himin,",
-            "þa`s þessi hefr Fenrir farit?''"
+            "``Fjǫlþ ek fōr,{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin:",
+            "hvaþan kømr sōl{\\sep}ā enn slētta himin,",
+            "þās þessi hefr Fenrir farit?''"
         ]
     },
     {
@@ -1195,7 +1195,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 47,
         "translation": [
@@ -1206,10 +1206,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Eina do`ttur{\\sep}berr Alfro~þull,",
-            "a`þr henni Fenrir fari;",
-            "su` skal ri`þa,{\\sep}þa`s regin deyja,",
-            "mo~þur' brautir ma_e`r.''"
+            "``Eina dōttur{\\sep}berr Alfrǫþull,",
+            "āþr henni Fenrir fari;",
+            "sū skal rīþa,{\\sep}þās regin deyja,",
+            "mǫþur' brautir mǣr.''"
         ]
     },
     {
@@ -1218,7 +1218,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 48,
         "translation": [
@@ -1229,10 +1229,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin:",
-            "hverjar 'u meyjar{\\sep}es li`þa mar yfir,",
-            "fro`þgeþjaþar fara?''"
+            "``Fjǫlþ ek fōr,{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin:",
+            "hverjar 'u meyjar{\\sep}es līþa mar yfir,",
+            "frōþgeþjaþar fara?''"
         ]
     },
     {
@@ -1245,7 +1245,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 49,
         "translation": [
@@ -1256,10 +1256,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Þriar þjo`þir{\\sep}falla þorp yfir",
-            "meyja Mo~gþrasis,",
-            "hamingjur einar{\\sep}þa_e`rs i` heimi 'ru`,",
-            "þo` þa_e`r meþ jo~tnum alask.''"
+            "``Þriar þjōþir{\\sep}falla þorp yfir",
+            "meyja Mǫgþrasis,",
+            "hamingjur einar{\\sep}þǣrs ī heimi 'rū,",
+            "þō þǣr meþ jǫtnum alask.''"
         ]
     },
     {
@@ -1270,7 +1270,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 50,
         "translation": [
@@ -1281,10 +1281,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin:",
-            "hverir ra`þa a_e`sir{\\sep}eignum goþa,",
-            "þa`s sloknar Surta logi?''"
+            "``Fjǫlþ ek fōr,{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin:",
+            "hverir rāþa ǣsir{\\sep}eignum goþa,",
+            "þās sloknar Surta logi?''"
         ]
     },
     {
@@ -1301,7 +1301,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 51,
         "translation": [
@@ -1312,10 +1312,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Vi`þarr ok Va`li{\\sep}byggva ve` goþa,",
-            "þa`s sloknar Surta logi;",
-            "Mo`þi ok Magni{\\sep}skulu Mjo~llni hafa",
-            "Vingnis at vi`gþroti.''"
+            "``Vīþarr ok Vāli{\\sep}byggva vē goþa,",
+            "þās sloknar Surta logi;",
+            "Mōþi ok Magni{\\sep}skulu Mjǫllni hafa",
+            "Vingnis at vīgþroti.''"
         ]
     },
     {
@@ -1324,7 +1324,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 52,
         "translation": [
@@ -1335,10 +1335,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin:",
-            "hvat verþr O`þni{\\sep}at aldrlagi,",
-            "þa`s of rju`fask regin?''"
+            "``Fjǫlþ ek fōr,{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin:",
+            "hvat verþr Ōþni{\\sep}at aldrlagi,",
+            "þās of rjūfask regin?''"
         ]
     },
     {
@@ -1349,7 +1349,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 53,
         "translation": [
@@ -1360,10 +1360,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Ulfr gleypa{\\sep}mun Aldafo~þr,",
-            "þess mun Vi`þarr vreka;",
+            "``Ulfr gleypa{\\sep}mun Aldafǫþr,",
+            "þess mun Vīþarr vreka;",
             "kalda kjapta{\\sep}hann klyfja mun",
-            "vitnis vi`gi at.''"
+            "vitnis vīgi at.''"
         ]
     },
     {
@@ -1379,7 +1379,7 @@
             "Othin spake:"
         ],
         "original_prelude": [
-            "O`þinn kvaþ:"
+            "Ōþinn kvaþ:"
         ],
         "number": 54,
         "translation": [
@@ -1390,10 +1390,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Fjo~lþ ek fo`r,{\\sep}fjo~lþ ek freistaþak,",
-            "fjo~lþ of reyndak regin:",
-            "hvat ma_e`lti O`þinn,{\\sep}a`þr a` ba`l stigi,",
-            "sjalfr i` eyra syni?''"
+            "``Fjǫlþ ek fōr,{\\sep}fjǫlþ ek freistaþak,",
+            "fjǫlþ of reyndak regin:",
+            "hvat mǣlti Ōþinn,{\\sep}āþr ā bāl stigi,",
+            "sjalfr ī eyra syni?''"
         ]
     },
     {
@@ -1404,7 +1404,7 @@
             "Vafthruthnir spake:"
         ],
         "original_prelude": [
-            "Vafþru`þnir kvaþ:"
+            "Vafþrūþnir kvaþ:"
         ],
         "number": 55,
         "translation": [
@@ -1417,12 +1417,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "``Ey manni þat veit,{\\sep}hvat þu i` a`rdaga",
-            "sagþir i` eyra syni:",
-            "feigum munni{\\sep}ma_e`ltak mi`na forna stafi",
-            "auk of ragna ro/k.",
-            "Nu` viþ O`þin{\\sep}deildak orþspeki,",
-            "þu`'st a_e` vi`sastr vera.''"
+            "``Ey manni þat veit,{\\sep}hvat þu ī ārdaga",
+            "sagþir ī eyra syni:",
+            "feigum munni{\\sep}mǣltak mīna forna stafi",
+            "auk of ragna røk.",
+            "Nū viþ Ōþin{\\sep}deildak orþspeki,",
+            "þū'st ǣ vīsastr vera.''"
         ]
     }
 ]
