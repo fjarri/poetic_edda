@@ -45,6 +45,8 @@ def printStanzaTable(block):
 	table_elems = []
 
 	for i in xrange(len(original)):
+		assert not ((u'{\\sep}' in original[i]) ^ (u'{\\sep}' in translation[i])), \
+			"Non-matching separators at line " + str(i + 1) + " of stanza " + str(number)
 		table_elems.append([u" ", leftField(original[i]), rightField(translation[i])])
 
 	table_elems[0][0] = u"\\eddanumberfield{" + unicode(number) + u"}"
