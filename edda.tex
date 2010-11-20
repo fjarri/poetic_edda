@@ -18,6 +18,8 @@
 \usepackage{color}
 \usepackage{microtype}
 \usepackage{multirow}
+\usepackage{longtable}
+
 
 % ======================================================================
 % macro for switching between draft/release modes
@@ -249,75 +251,40 @@
 }
 
 % main stanza font
-\newcommand{\eddastanzatexticelandic}[1]{\large\setstretch{1.3}\selectfont \texticelandic{\stanzafont #1}}
-\newcommand{\eddastanzatextenglish}[1]{\large\setstretch{1.3}\selectfont \textenglish{\stanzafont #1}}
+\newcommand{\eddastanzatexticelandic}[1]{\texticelandic{\stanzafont #1}}
+\newcommand{\eddastanzatextenglish}[1]{\textenglish{\stanzafont #1}}
 
-% stanza table
-\newcommand{\eddastanzatable}[3]{
-	\hskip -\parindent
-	\begin{tabular}{@{} l @{} p{0.4\textwidth} @{} p{0.5\textwidth}}
-		\makebox[2\parindent][l]{#1}
-		&
-		\begin{minipage}[t]{0.4\textwidth}
-			#2
-		\end{minipage}
-		&
-		\begin{minipage}[t]{0.5\textwidth}
-			#3
-		\end{minipage}
-	\end{tabular}
+\newcommand{\eddanumberfield}[1]{\makebox[2\parindent][l]{\eddastanzanum{#1}}}
+\newcommand{\eddaleftfield}[1]{\begin{minipage}[t]{0.4\textwidth} \texticelandic{\stanzafont #1} \end{minipage}}
+\newcommand{\eddarightfield}[1]{\begin{minipage}[t]{0.5\textwidth} \textenglish{\stanzafont #1} \end{minipage}}
+\newcommand{\eddastanzatable}[1]{
+	{\renewcommand{\sep}{\eddastanzasep}
+	\large\setstretch{1.3}
+		\begin{longtable}{@{} p{2\parindent} @{} p{0.4\textwidth} @{} p{0.5\textwidth}}
+		#1
+		\end{longtable}
+	}
 }
 
 % base command for stanza pair
-\newcommand{\eddastanza}[4][\@empty]{
+\newcommand{\eddastanza}[3][\@empty]{
 
-	{\renewcommand{\sep}{\eddastanzasep}
+	\eddastanzalabel{#2}
+	\nopagebreak
 
 	% stanza pair
-	\eddastanzatable{\eddastanzanum{#2}}
-	{
-		\eddastanzatexticelandic{#3}
-	}
-	{
-		\eddastanzatextenglish{#4}
-	}
-	}
+	\eddastanzatable{#3}
 
 	% comment
 	\ifx\@empty#1
 	\else
 		\nopagebreak
-		\vskip \baselineskip
 		\commentfont\noindent#1
 	\fi
-	\vskip 2\baselineskip
-}
-
-% stanza pair without prelude
-\newcommand{\eddastanzasimple}[4][\@empty]{
-	\eddastanzalabel{#2}
-	\nopagebreak
-	\eddastanza[#1]{#2}{#3}{#4}
-}
-
-% stanza pair with prelude
-\newcommand{\eddastanzaprelude}[6][\@empty]{
-	\eddastanzalabel{#2}
-	\nopagebreak
-
-	\eddastanzatable{ }
-	{
-		\eddastanzatexticelandic{\textit{#5}}
-	}
-	{
-		\eddastanzatextenglish{\textit{#6}}
-	}
 
 	\nopagebreak
 	\vskip 0.5\baselineskip
 	\nopagebreak
-
-	\eddastanza[#1]{#2}{#3}{#4}
 }
 
 

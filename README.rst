@@ -88,8 +88,7 @@ Vafthruthnismol (planned)
 * Refactored macros;
 * Voluspo, 54: removed line folding from inline stanza;
 * Voluspo, 35: fixed Old Norse stanza in comment (took it from Gering)
-
-* Think about letting page breaks split stanzas
+* Reworked stanza macros to allow page breaks in stanzas
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -102,3 +101,4 @@ Tasks for distant future
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
 * Proofread everything
+* Find a way to remove whitespace from top and bottom of longtable
