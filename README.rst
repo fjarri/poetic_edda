@@ -89,6 +89,7 @@ Vafthruthnismol (planned)
 * Voluspo, 54: removed line folding from inline stanza;
 * Voluspo, 35: fixed Old Norse stanza in comment (took it from Gering)
 * Reworked stanza macros to allow page breaks in stanzas
+* Fixed non-matching separators in Hovamol 79, 80, 131 and Voluspo, 12
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future

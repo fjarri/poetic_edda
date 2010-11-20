@@ -1435,8 +1435,8 @@
             "Certain is that{\\sep}which is sought from runes,",
             "That the gods so great have made,",
             "And the Master-Poet painted;",
-            "\\eddalacuna",
-            "\\eddalacuna{\\sep}of the race of gods:",
+            "\\eddalacuna{\\sep}\\eddalacuna",
+            "\\eddalacuna of the race of gods:",
             "Silence is safest and best."
         ],
         "type": "stanza pair",
@@ -1455,7 +1455,7 @@
         "translation": [
             "An unwise man,{\\sep}if a maiden's love",
             "Or wealth he chances to win,",
-            "His pride will wax, but his wisdom never,",
+            "His pride will wax,{\\sep}but his wisdom never,",
             "Straight forward he fares in conceit."
         ],
         "type": "stanza pair",
@@ -2503,7 +2503,7 @@
             "Profit thou hast if thou hearest,",
             "Great thy gain if thou learnest:",
             "I bid thee be wary,{\\sep}but be not fearful;",
-            "(Beware most with ale or another's wife,",
+            "(Beware most with ale{\\sep}or another's wife,",
             "And third beware{\\sep}lest a thief outwit thee.)"
         ],
         "type": "stanza pair",

@@ -280,8 +280,8 @@
         "translation": [
             "Vigg and Gandalf,{\\sep}Vindalf, Thrain,",
             "Thekk and Thorin,{\\sep}Thror, Vit and Lit,",
-            "Nyr and Nyrath,{\\commamdash}\\sep now have I told{\\mdash}",
-            "Regin and Rathsvith{\\mdash}\\sep the list aright."
+            "Nyr and Nyrath,{\\commamdash}{\\sep} now have I told{\\mdash}",
+            "Regin and Rathsvith{\\mdash}{\\sep} the list aright."
         ],
         "type": "stanza pair",
         "number": 12,
