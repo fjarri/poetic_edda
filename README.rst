@@ -78,9 +78,9 @@ Hovamol (15 Nov 2010)
 * Used Gering's book as source for Voluspo;
 * Added cover page.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~
-Vafthruthnismol (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vafthruthnismol (20 Nov 2010)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Vafthruthnismol chapter;
 * Fixed quotation marks in Voluspo, 28;
@@ -91,6 +91,14 @@ Vafthruthnismol (planned)
 * Reworked stanza macros to allow page breaks in stanzas;
 * Fixed non-matching separators in Hovamol 79, 80, 131 and Voluspo, 12;
 * Added protrusion config for Charis SIL to repository
+
+~~~~~~~~~~~~~~~~~~~~
+Grimnismol (planned)
+~~~~~~~~~~~~~~~~~~~~
+
+* Add Grimnismol chapter
+* Find a way to remove whitespace from top and bottom of longtable
+* Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -103,5 +111,3 @@ Tasks for distant future
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
 * Proofread everything
-* Find a way to remove whitespace from top and bottom of longtable
-* Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
