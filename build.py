@@ -4,7 +4,8 @@ import json
 import codecs
 import os, os.path
 
-
+# Function for printing paired stanzas in one-row table
+# Left for reference, not used at the moment
 def printStanzaPair(block):
 
 	number = block['number']
@@ -28,29 +29,38 @@ def printStanzaPair(block):
 		u"{" + unicode(number) + u"}" + \
 		u"{\n" + original + u"}\n{\n" + translation + u"}\n" + postfix + u"\n"
 
+# Function for printing paired stanzas as multi-row tables
 def printStanzaTable(block):
 
+	# helper functions for wrapping table cells
 	leftField = lambda x: u"\\eddaleftfield{" + x + u"}"
 	rightField = lambda x: u"\\eddarightfield{" + x + u"}"
 	textit = lambda x: u"\\textit{" + x + u"}"
 
+	# get info from block
 	number = block['number']
 	original = block['original']
 	translation = block['translation']
 	comment = u"\n".join(block['comment']) if block['comment'] is not None else None
 
+	# check if both preludes are present, or both absent
 	assert not (('original_prelude' in block) ^ ('translation_prelude' in block))
+
+	# check that original and translation have same number of lines
+	# (we are using multirow table, which is sensitive to this)
 	assert len(original) == len(translation)
 
+	# Add main table cells
 	table_elems = []
-
 	for i in xrange(len(original)):
 		assert not ((u'{\\sep}' in original[i]) ^ (u'{\\sep}' in translation[i])), \
 			"Non-matching separators at line " + str(i + 1) + " of stanza " + str(number)
 		table_elems.append([u" ", leftField(original[i]), rightField(translation[i])])
 
+	# Add a table cell with stanza number
 	table_elems[0][0] = u"\\eddanumberfield{" + unicode(number) + u"}"
 
+	# Add table cells with prelude
 	if 'original_prelude' in block:
 		original_p = block['original_prelude']
 		translation_p = block['translation_prelude']
@@ -75,13 +85,19 @@ def printStanzaTable(block):
 	# if at some point in future it changes behaviour, I will remove this line anyway
 
 	for i in xrange(len(table_lines)):
-		line = table_lines[i] + u" \\\\"
+		line = table_lines[i] + u" \\\\" # base ending for all lines
+
 		if i == len(table_lines) - 1 and comment is not None:
+		# disable page break after last line (does not work, actually, just here for reference)
 			line += u"*"
 		if u"{\\sep}" in table_lines[i]:
+		# additional space between rows for multiline stanza lines (yeah, sounds bad)
+		# workaround for strange longtable behavior
 			line += u"[\\baselineskip]"
 		elif i < len(table_lines) - 1 and u"\\eddanumberfield" in table_lines[i + 1]:
+		# disable page break after prelude
 			line += u"*"
+
 		table_lines[i] = line
 
 	table_contents = u"\n".join(table_lines)
