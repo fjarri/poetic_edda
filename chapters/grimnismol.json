@@ -112,7 +112,11 @@
         "number": 1
     },
     {
-        "comment": null,
+        "comment": [
+            "In the original lines 2 and 4 are both too long for the meter, and thus the true form of the stanza is doubtful.",
+            "For line 4 both manuscripts have ``the land of the Goths'' instead of simply ``the Goths.''",
+            "The word ``Goths'' apparently was applied indiscriminately to any South-Germanic people, including the Burgundians as well as the actual Goths, and thus here has no specific application; cf. \\eddacombinedref{Gripisspo}{35} and note."
+        ],
         "translation": [
             "'Twixt the fires now{\\sep}eight nights have I sat,",
             "And no man brought meat to me,",
@@ -129,7 +133,10 @@
         "number": 2
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Veratyr} (``Lord of Men''): Othin.",
+            "The ``gift'' which Agnar receives is Othin's mythological lore."
+        ],
         "translation": [
             "Hail to thee, Agnar!{\\sep}for hailed thou art",
             "By the voice of Veratyr;",
@@ -146,7 +153,9 @@
         "number": 3
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Thruthheim} (``the Place of Might''): the place where Thor, the strongest of the gods, has his hall, Bilskirnir, described in stanza \\eddastanzaref{24}."
+        ],
         "translation": [
             "The land is holy{\\sep}that lies hard by",
             "The gods and the elves together;",
@@ -163,7 +172,13 @@
         "number": 4
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Ydalir} (``Yew-Dales''): the home of Ulf, the archer among the gods, a son of Thor's wife, Sif, by another marriage.",
+            "The wood of the yew-tree was used for bows in the North just as it was long afterwards in England.",
+            "\\emph{Alfheim:} the home of the elves.",
+            "\\emph{Freyr:} cf. \\eddachapterref{Skirnismol,} {\\hyperref[cha:Skirnismol:introduction]{introductory prose}} and note.",
+            "\\emph{Tooth-gift:} the custom of making a present to a child when it cuts its first tooth is, according to Vigfusson, still in vogue in Iceland."
+        ],
         "translation": [
             "Ydalir call they{\\sep}the place where Ull",
             "A hall for himself hath set;",
@@ -180,7 +195,10 @@
         "number": 5
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Valaskjolf} (``the Shelf of the Slain''): Othin's home, in which is his watch-tower, Hlithskjolf.",
+            "Gering identifies this with Valhall, and as that is mentioned in stanza \\eddastanzaref{8}, he believes stanza \\eddastanzaref{6} to be an interpolation."
+        ],
         "translation": [
             "A third home is there,{\\sep}with silver thatched",
             "By the hands of the gracious gods:",
