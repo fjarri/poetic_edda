@@ -97,6 +97,968 @@
     {
         "comment": null,
         "translation": [
+            "Hot art thou, fire!{\\sep}too fierce by far;",
+            "Get ye now gone, ye flames!",
+            "The mantle is burnt,{\\sep}though I bear it aloft,",
+            "And the fire scorches the fur."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 1
+    },
+    {
+        "comment": null,
+        "translation": [
+            "'Twixt the fires now{\\sep}eight nights have I sat,",
+            "And no man brought meat to me,",
+            "Save Agnar alone,{\\sep}and alone shall rule",
+            "Geirröth's son o'er the Goths."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 2
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hail to thee, Agnar!{\\sep}for hailed thou art",
+            "By the voice of Veratyr;",
+            "For a single drink{\\sep}shalt thou never receive",
+            "A greater gift as reward."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 3
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The land is holy{\\sep}that lies hard by",
+            "The gods and the elves together;",
+            "And Thor shall ever{\\sep}in Thruthheim dwell,",
+            "Till the gods to destruction go."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 4
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Ydalir call they{\\sep}the place where Ull",
+            "A hall for himself hath set;",
+            "And Alfheim the gods{\\sep}to Freyr once gave",
+            "As a tooth-gift in ancient times."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 5
+    },
+    {
+        "comment": null,
+        "translation": [
+            "A third home is there,{\\sep}with silver thatched",
+            "By the hands of the gracious gods:",
+            "Valaskjolf is it,{\\sep}in days of old",
+            "Set by a god for himself."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 6
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Sökkvabekk is the fourth,{\\sep}where cool waves flow,",
+            "And amid their murmur it stands;",
+            "There daily do Othin{\\sep}and Saga drink",
+            "In gladness from cups of gold."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 7
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The fifth is Glathsheim,{\\sep}and gold-bright there",
+            "Stands Valhall stretching wide;",
+            "And there does Othin{\\sep}each day choose",
+            "The men who have fallen in fight."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 8
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Easy is it to know{\\sep}for him who to Othin",
+            "Comes and beholds the hall;",
+            "Its rafters are spears,{\\sep}with shields is it roofed,",
+            "On its benches are breastplates strewn."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 9
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Easy is it to know{\\sep}for him who to Othin",
+            "Comes and beholds the hall;",
+            "There hangs a wolf{\\sep}by the western door,",
+            "And o'er it an eagle hovers."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 10
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The sixth is Thrymheim,{\\sep}where Thjazi dwelt,",
+            "The giant of marvelous might;",
+            "Now Skathi abides,{\\sep}the god's fair bride,",
+            "In the home that her father had."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 11
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The seventh is Breithablik;{\\sep}Baldr has there",
+            "For himself a dwelling set,",
+            "In the land I know{\\sep}that lies so fair,",
+            "And from evil fate is free."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 12
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Himinbjorg is the eighth,{\\sep}and Heimdall there",
+            "O'er men holds sway, it is said;",
+            "In his well-built house{\\sep}does the warder of heaven",
+            "The good mead gladly drink."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 13
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The ninth is Folkvang,{\\sep}where Freyja decrees",
+            "Who shall have seats in the hall;",
+            "The half of the dead{\\sep}each day does she choose,",
+            "And half does Othin have."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 14
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The tenth is Glitnir;{\\sep}its pillars are gold,",
+            "And its roof with silver is set;",
+            "There most of his days{\\sep}does Forseti dwell,",
+            "And sets all strife at end."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 15
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The eleventh is Noatun;{\\sep}there has Njorth",
+            "For himself a dwelling set;",
+            "The sinless ruler{\\sep}of men there sits",
+            "In his temple timbered high."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 16
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Filled with growing trees{\\sep}and high-standing grass",
+            "Is Vithi, Vithar's land;",
+            "But there did the son{\\sep}from his steed leap down,",
+            "When his father he fain would avenge."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 17
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In Eldhrimnir{\\sep}Andhrimnir cooks",
+            "Sæhrimnir's seething flesh,--",
+            "The best of food,{\\sep}but few men know",
+            "On what fare the warriors feast."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 18
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Freki and Geri{\\sep}does Heerfather feed,",
+            "The far-famed fighter of old:",
+            "But on wine alone{\\sep}does the weapon-decked god,",
+            "Othin, forever live."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 19
+    },
+    {
+        "comment": null,
+        "translation": [
+            "O'er Mithgarth Hugin{\\sep}and Munin both",
+            "Each day set forth to fly;",
+            "For Hugin I fear{\\sep}lest he come not home,",
+            "But for Munin my care is more."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 20
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Loud roars Thund,{\\sep}and Thjothvitnir's fish",
+            "joyously fares in the flood;",
+            "Hard does it seem{\\sep}to the host of the slain",
+            "To wade the torrent wild."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 21
+    },
+    {
+        "comment": null,
+        "translation": [
+            "There Valgrind stands,{\\sep}the sacred gate,",
+            "And behind are the holy doors;",
+            "Old is the gate,{\\sep}but few there are",
+            "Who can tell how it tightly is locked."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 22
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Five hundred doors{\\sep}and forty there are,",
+            "I ween, in Valhall's walls;",
+            "Eight hundred fighters{\\sep}through one door fare",
+            "When to war with the wolf they go."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 23
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Five hundred rooms{\\sep}and forty there are",
+            "I ween, in Bilskirnir built;",
+            "Of all the homes{\\sep}whose roofs I beheld,",
+            "My son's the greatest meseemed."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 24
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Heithrun is the goat{\\sep}who stands by Heerfather's hall,",
+            "And the branches of Lærath she bites;",
+            "The pitcher she fills{\\sep}with the fair, clear mead,",
+            "Ne'er fails the foaming drink."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 25
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Eikthyrnir is the hart{\\sep}who stands by Heerfather's hall",
+            "And the branches of Lærath he bites;",
+            "From his horns a stream{\\sep}into Hvergelmir drops,",
+            "Thence all the rivers run."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 26
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Sith and Vith,{\\sep}Sækin and Ækin,",
+            "Svol and Fimbulthul,{\\sep}Gunnthro, and Fjorm,",
+            "Rin and Rinnandi,",
+            "Gipul and Gopul,{\\sep}Gomul and Geirvimul,",
+            "That flow through the fields of the gods;",
+            "Thyn and Vin,{\\sep}Thol and Hol,",
+            "Groth and Gunnthorin."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 27
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Vino is one,{\\sep}Vegsvin another,",
+            "And Thjothnuma a third;",
+            "Nyt and Not,{\\sep}Non and Hron,",
+            "Slith and Hrith,{\\sep}Sylg and Ylg,",
+            "Vith and Von,{\\sep}Vond and Strond,",
+            "Gjol and Leipt,{\\sep}that go among men,",
+            "And hence they fall to Hel."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            ""
+        ],
+        "number": 28
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Kormt and Ormt{\\sep}and the Kerlaugs twain",
+            "Shall Thor each day wade through,",
+            "(When dooms to give{\\sep}he forth shall go",
+            "To the ash-tree Yggdrasil;)",
+            "For heaven's bridge{\\sep}burns all in flame,",
+            "And the sacred waters seethe."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 29
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Glath and Gyllir,{\\sep}Gler and Skeithbrimir,",
+            "Silfrintopp and Sinir,",
+            "Gisl and Falhofnir,{\\sep}Golltopp and Lettfeti,",
+            "On these steeds the gods shall go",
+            "When dooms to give{\\sep}each day they ride",
+            "To the ash-tree Yggdrasil."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 30
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Three roots there are{\\sep}that three ways run",
+            "'Neath the ash-tree Yggdrasil;",
+            "'Neath the first lives Hel,{\\sep}'neath the second the frost-giants,",
+            "'Neath the last are the lands of men."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 31
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Ratatosk is the squirrel{\\sep}who there shall run",
+            "On the ash-tree Yggdrasil;",
+            "From above the words{\\sep}of the eagle he bears,",
+            "And tells them to Nithhogg beneath."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 32
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Four harts there are,{\\sep}that the highest twigs",
+            "Nibble with necks bent back;",
+            "Dain and Dvalin,{\\sep} . . . . . .",
+            "Duneyr and Dyrathror."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 33
+    },
+    {
+        "comment": null,
+        "translation": [
+            "More serpents there are{\\sep}beneath the ash",
+            "Than an unwise ape would think;",
+            "Goin and Moin,{\\sep}Grafvitnir's sons,",
+            "Grabak and Grafvolluth,",
+            "Ofnir and Svafnir{\\sep}shall ever, methinks,",
+            "Gnaw at the twigs of the tree."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 34
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Yggdrasil's ash{\\sep}great evil suffers,",
+            "Far more than men do know;",
+            "The hart bites its top,{\\sep}its trunk is rotting,",
+            "And Nithhogg gnaws beneath."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 35
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hrist and Mist{\\sep}bring the horn at my will,",
+            "Skeggjold and Skogul;",
+            "Hild and Thruth,{\\sep}Hlok and Herfjotur,",
+            "Gol and Geironul,",
+            "Randgrith and Rathgrith{\\sep}and Reginleif",
+            "Beer to the warriors bring."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 36
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Arvak and Alsvith{\\sep}up shall drag",
+            "Weary the weight of the sun;",
+            "But an iron cool{\\sep}have the kindly gods",
+            "Of yore set under their yokes."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 37
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In front of the sun{\\sep}does Svalin stand,",
+            "The shield for the shining god;",
+            "Mountains and sea{\\sep}would be set in flames",
+            "If it fell from before the sun."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 38
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Skoll is the wolf{\\sep}that to Ironwood",
+            "Follows the glittering god,",
+            "And the son of Hrothvitnir,{\\sep}Hati, awaits",
+            "The burning bride of heaven."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 39
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Out of Ymir's flesh{\\sep}was fashioned the earth,",
+            "And the ocean out of his blood;",
+            "Of his bones the hills,{\\sep}of his hair the trees,",
+            "Of his skull the heavens high."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 40
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Mithgarth the gods{\\sep}from his eyebrows made,",
+            "And set for the sons of men;",
+            "And out of his brain{\\sep}the baleful clouds",
+            "They made to move on high."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 41
+    },
+    {
+        "comment": null,
+        "translation": [
+            "His the favor of Ull{\\sep}and of all the gods",
+            "Who first in the flames will reach;",
+            "For the house can be seen{\\sep}by the sons of the gods",
+            "If the kettle aside were cast."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 42
+    },
+    {
+        "comment": null,
+        "translation": [
+            "In days of old{\\sep}did Ivaldi's sons",
+            "Skithblathnir fashion fair,",
+            "The best of ships{\\sep}for the bright god Freyr,",
+            "The noble son of Njorth."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 43
+    },
+    {
+        "comment": null,
+        "translation": [
+            "The best of trees{\\sep}must Yggdrasil be,",
+            "Skithblathnir best of boats;",
+            "Of all the gods{\\sep}is Othin the greatest,",
+            "And Sleipnir the best of steeds;",
+            "Bifrost of bridges,{\\sep}Bragi of skalds,",
+            "Hobrok of hawks,{\\sep}and Garm of hounds."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 44
+    },
+    {
+        "comment": null,
+        "translation": [
+            "To the race of the gods{\\sep}my face have I raised,",
+            "And the wished-for aid have I waked;",
+            "For to all the gods{\\sep}has the message gone",
+            "That sit in Ægir's seats,",
+            "That drink within Ægir's doors."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            ""
+        ],
+        "number": 45
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Grim is my name,{\\sep}Gangleri am 1,",
+            "Herjan and Hjalmberi,",
+            "Thekk and Thrithi,{\\sep}Thuth and Uth,",
+            "Helblindi and Hor;"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 46
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Sath and Svipal{\\sep}and Sanngetal,",
+            "Herteit and Hnikar,",
+            "Bileyg, Baleyg,{\\sep}Bolverk, Fjolnir,",
+            "Grim and Grimnir,{\\sep}Glapsvith, Fjolsvith."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 47
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Sithhott, Sithskegg,{\\sep}Sigfather, Hnikuth,",
+            "Allfather, Valfather,{\\sep}Atrith, Farmatyr:",
+            "A single name{\\sep}have I never had",
+            "Since first among men I fared."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            ""
+        ],
+        "number": 48
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Grimnir they call me{\\sep}in Geirröth's hall,",
+            "With Asmund Jalk am I;",
+            "Kjalar I was{\\sep}when I went in a sledge,",
+            "At the council Thror am I called,",
+            "As Vithur I fare to the fight;",
+            "Oski, Biflindi,{\\sep}Jafnhor and Omi,",
+            "Gondlir and Harbarth midst gods."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 49
+    },
+    {
+        "comment": null,
+        "translation": [
+            "I deceived the giant{\\sep}Sokkmimir old",
+            "As Svithur and Svithrir of yore;",
+            "Of Mithvitnir's son{\\sep}the slayer I was",
+            "When the famed one found his doom."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 50
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Drunk art thou, Geirröth,{\\sep}too much didst thou drink,",
+            ".    .    .    .    .    .    .    .    .    .",
+            "Much hast thou lost,{\\sep}for help no more",
+            "From me or my heroes thou hast."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 51
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Small heed didst thou take{\\sep}to all that I told,",
+            "And false were the words of thy friends;",
+            "For now the sword{\\sep}of my friend I see,",
+            "That waits all wet with blood."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 52
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Thy sword-pierced body{\\sep}shall Ygg have soon,",
+            "For thy life is ended at last;",
+            "The maids are hostile;{\\sep}now Othin behold!",
+            "Now come to me if thou canst!"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 53
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Now am I Othin,{\\sep}Ygg was I once,",
+            "Ere that did they call me Thund;",
+            "Vak and Skilfing,{\\sep}Vofuth and Hroptatyr,",
+            "Gaut and Jalk midst the gods;",
+            "Ofnir and Svafnir,{\\sep}and all, methinks,",
+            "Are names for none but me."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 54
+    },
+    {
+        "comment": null,
+        "translation": [
             "King Geirröth sat and had his sword on his knee, half drawn from its sheath.",
             "But when he heard that Othin was come thither, then he rose up and sought to take Othin from the fire.",
             "The sword slipped from his hand, and fell with the hilt down.",
