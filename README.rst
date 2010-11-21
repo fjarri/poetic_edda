@@ -96,8 +96,9 @@ Vafthruthnismol (20 Nov 2010)
 Grimnismol (planned)
 ~~~~~~~~~~~~~~~~~~~~
 
+* Controlling whitespace from top and bottom of longtable manually;
+
 * Add Grimnismol chapter
-* Find a way to remove whitespace from top and bottom of longtable
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~

@@ -158,6 +158,9 @@
 \newcommand{\enummdash}{---} % mdash for enumerations
 \newcommand{\commamdash}{---} % mdash after comma
 
+% remove whitespace before and after longtable, I will control it manually
+\setlength{\LTpre}{0pt}
+\setlength{\LTpost}{0pt}
 
 % ======================================================================
 % Macros
@@ -284,10 +287,11 @@
 	\ifx\@empty#1
 	\else
 		\nopagebreak
+		\vskip \baselineskip
 		{\commentfont\noindent#1}
 	\fi
 	\nopagebreak
-	\vskip 0.5\baselineskip
+	\vskip 2\baselineskip
 }
 
 
