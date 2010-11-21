@@ -93,5 +93,23 @@
             "Grimnir drakk af; þa` var eldrinn sva` kominn, at feldrinn brann af Grimni.",
             "Hann kvaþ:"
         ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "King Geirröth sat and had his sword on his knee, half drawn from its sheath.",
+            "But when he heard that Othin was come thither, then he rose up and sought to take Othin from the fire.",
+            "The sword slipped from his hand, and fell with the hilt down.",
+            "The king stumbled and fell forward, and the sword pierced him through, and slew him.",
+            "Then Othin vanished, but Agnar long ruled there as king."
+        ],
+        "type": "prose",
+        "original": [
+            "Geirro/þr konungr sat ok hafþi sverþ um kne` se`r ok þrugþit til miþs.",
+            "En er hann heyrþi at O`þinn var þar kominn, þa` sto`þ hann upp ok vildi taka O`þinn fra` eldinum.",
+            "Sverþit slapp o`r hendi honum ok vissu hjo~ltin niþr.",
+            "Konungr drap fo_eti ok steyptiz a`fram, en sverþit sto`þ i` go/gnum hann, ok fekk hann bana.",
+            "O`þinn hvarf þa`, en Agnarr var þar konungr lengi si`þan."
+        ]
     }
 ]
