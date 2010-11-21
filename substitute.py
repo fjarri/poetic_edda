@@ -11,6 +11,7 @@ c = json.load(codecs.open(input, 'r', 'utf-8'))
 substitutions = [
 	(u"a_e`", u"ǣ"),
 	(u"a_e", u"æ"),
+	(u"o_e", u"œ"),
 
 	(u"a`", u"ā"),
 	(u"A`", u"Ā"),
