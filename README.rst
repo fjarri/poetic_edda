@@ -98,8 +98,9 @@ Grimnismol (planned)
 
 * Controlling whitespace from top and bottom of longtable manually;
 * Introduction: fixed case of letter thorn;
+* Added Grimnismol chapter;
 
-* Add Grimnismol chapter
+* Add rendering for prose parts
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 * Add macro for referring to introductory prose of different chapters
 
