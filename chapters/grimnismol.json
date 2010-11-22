@@ -34,6 +34,7 @@
         "type": "text"
     },
     {
+        "label": "introduction",
         "comment": [
             "The texts of the two manuscripts differ in many minor details. \\emph{Hrauthung:} this mythical king is not mentioned elsewhere. \\emph{Geirröth:} the manuscripts spell his name in various ways \\emph{Frigg:} Othin's wife. She and Othin nearly always disagreed in some such way as the one outlined in this story. \\emph{Hlithskjolf} (``Gate-Shelf''): Othin's watch-tower in heaven, whence he can overlook all the nine worlds; cf. \\eddachapterref{Skirnismol,} {\\hyperref[cha:Skirnismol:introduction]{introductory prose.}} \\emph{Grimnir:} ``the Hooded One.''"
         ],
@@ -1352,6 +1353,7 @@
         "number": 54
     },
     {
+        "label": "conclusion",
         "comment": null,
         "translation": [
             "King Geirröth sat and had his sword on his knee, half drawn from its sheath.",

@@ -130,7 +130,7 @@ def printProseTable(block):
 	table_contents = u"\n".join(table_lines)
 	return "\\eddastanza\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
-		u"{}\n" + \
+		u"{" + block['label'] + u"}\n" + \
 		u"{" + table_contents + u"}\n\n"
 
 def printText(block):
