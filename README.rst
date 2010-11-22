@@ -100,6 +100,7 @@ Grimnismol (planned)
 
 * Add Grimnismol chapter
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
+* Add macro for referring to introductory prose of different chapters
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
