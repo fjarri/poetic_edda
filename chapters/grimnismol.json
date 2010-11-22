@@ -104,10 +104,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Heitr est, hripuþr!{\\sep}ok heldr til mikill;",
+            "go~ngumk firr, funi!",
+            "loþi sviþnar,{\\sep}þo`t a` lopt berak,",
+            "brinnumk feldr fyrir."
         ],
         "number": 1
     },
@@ -125,10 +125,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "A`tta na_e`tr{\\sep}satk milli elda he`r,",
+            "sva`t me`r manngi mat ne` bauþ,",
+            "nema einn Agnarr,{\\sep}es einn skal ra`þa",
+            "Geirro/þar sunr \\emph{Gotum.}"
         ],
         "number": 2
     },
@@ -145,10 +145,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Heill skalt, Agnarr!{\\sep}alls þik heilan biþr",
+            "Veraty`r vesa;",
+            "eins drykkjar{\\sep}þu` skalt aldrigi",
+            "betri gjo~ld geta."
         ],
         "number": 3
     },
@@ -164,10 +164,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Land es heilagt{\\sep}es ek liggja se`",
+            "o~`sum ok o~lfum na_e`r:",
+            "en i` Þru`þheimi{\\sep}skal Þo`rr vesa,",
+            "unz of rju`fask regin."
         ],
         "number": 4
     },
@@ -187,10 +187,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Y`dalir heita{\\sep}þars Ullr hefr",
+            "se`r of go~rva sali;",
+            "Alfheim Frey{\\sep}go~`fu i` a`rdaga",
+            "ti`var at tannfei::."
         ],
         "number": 5
     },
@@ -207,10 +207,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Bo/`r's enn þriþi,{\\sep}es bli`þ regin",
+            "silfri þo~kþu sali:",
+            "Va`laskjalf heitir{\\sep}es ve`lti se`r",
+            "o~`ss i` a`rdaga."
         ],
         "number": 6
     },
