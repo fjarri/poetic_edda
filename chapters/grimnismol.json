@@ -215,7 +215,10 @@
         "number": 6
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Sökkvabekk} (``the Sinking Stream''): of this spot and of Saga, who is said to live there, little is known.",
+            "Saga may be an hypostasis of Frigg, but Snorri calls her a distinct goddess, and the name suggests some relation to history or story-telling."
+        ],
         "translation": [
             "Sökkvabekk is the fourth,{\\sep}where cool waves flow,",
             "And amid their murmur it stands;",
@@ -232,7 +235,11 @@
         "number": 7
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Glathsheim} (``the Place of Joy''): Othin's home, the greatest and most beautiful hall in the world.",
+            "\\emph{Valhall} (``Hall of the Slain''): cf. \\eddacombinedref{Voluspo}{31} and note.",
+            "Valhall is not only the hall whither the slain heroes are brought by the Valkyries, but also a favorite home of Othin."
+        ],
         "translation": [
             "The fifth is Glathsheim,{\\sep}and gold-bright there",
             "Stands Valhall stretching wide;",
@@ -266,7 +273,10 @@
         "number": 9
     },
     {
-        "comment": null,
+        "comment": [
+            "The opening formula is abbreviated in both manuscripts.",
+            "\\emph{A wolf:} probably the wolf and the eagle were carved figures above the door."
+        ],
         "translation": [
             "Easy is it to know{\\sep}for him who to Othin",
             "Comes and beholds the hall;",
@@ -283,7 +293,13 @@
         "number": 10
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Thrymheim} (``the Home of Clamor''): on this mountain the giant Thjazi built his home.",
+            "The god, or rather Wane, Njorth (cf. \\eddacombinedref{Voluspo}{21}, note) married Thjazi's daughter, Skathi.",
+            "She wished to live in her father's hall among the mountains, while Njorth loved his home, Noatun, by the sea.",
+            "They agreed to compromise by spending nine nights at Thrymheim and then three at Noatun, but neither could endure the surroundings of the other's home, so Skathi returned to Thrymheim, while Njorth stayed at Noatun.",
+            "Snorri quotes stanzas \\eddastanzarangeref{11}{15}."
+        ],
         "translation": [
             "The sixth is Thrymheim,{\\sep}where Thjazi dwelt,",
             "The giant of marvelous might;",
@@ -300,7 +316,9 @@
         "number": 11
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Breithablik} (``Wide-Shining''): the house in heaven, free from everything unclean, in which Baldr (cf. \\eddacombinedref{Voluspo}{32}, note), the fairest and best of the gods, lived."
+        ],
         "translation": [
             "The seventh is Breithablik;{\\sep}Baldr has there",
             "For himself a dwelling set,",
@@ -317,7 +335,10 @@
         "number": 12
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Himinbjorg} (``Heaven's Cliffs''): the dwelling at the end of the bridge Bifrost (the rainbow), where Heimdall (cf. \\eddacombinedref{Voluspo}{27}) keeps watch against the coming of the giants.",
+            "In this stanza the two functions of Heimdall{\\mdash}as father of mankind (cf. \\eddacombinedref{Voluspo}{1} and note, and \\eddachapterref{Rigsthula,} {\\hyperref[cha:Rigsthula:introduction]{introductory prose}} and note) and as warder of the gods{\\mdash}seem both to be mentioned, but the second line in the manuscripts is apparently in bad shape, and in the editions is more or less conjectural."
+        ],
         "translation": [
             "Himinbjorg is the eighth,{\\sep}and Heimdall there",
             "O'er men holds sway, it is said;",
@@ -334,7 +355,13 @@
         "number": 13
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Folkvang} (``Field of the Folk''): here is situated Freyja's hall, Sessrymnir (``Rich in Seats'').",
+            "Freyja, the sister of Freyr, is the fairest of the goddesses, and the most kindly disposed to mankind, especially to lovers.",
+            "\\emph{Half of the dead:} Mogk has made it clear that Freyja represents a confusion between two originally distinct divinities: the wife of Othin (Frigg) and the northern goddess of love.",
+            "This passage appears to have in mind her attributes as Othin's wife.",
+            "Snorri has this same confusion, but there is no reason why the Freyja who was Freyr's sister should share the slain with Othin."
+        ],
         "translation": [
             "The ninth is Folkvang,{\\sep}where Freyja decrees",
             "Who shall have seats in the hall;",
@@ -351,7 +378,11 @@
         "number": 14
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Glitnir} (``the Shining''): the home of Forseti, a god of whom we know nothing beyond what Snorri tells us:",
+            "``Forseti is the son of Baldr and Nanna, daughter of Nep.",
+            "All those who come to him with hard cases to settle go away satisfied; he is the best judge among gods and men.''"
+        ],
         "translation": [
             "The tenth is Glitnir;{\\sep}its pillars are gold,",
             "And its roof with silver is set;",
@@ -368,7 +399,9 @@
         "number": 15
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Noatun} (``Ships'-Haven''): the home of Njorth, who calms the waves; cf. stanza \\eddastanzaref{11} and \\eddacombinedref{Voluspo}{21}."
+        ],
         "translation": [
             "The eleventh is Noatun;{\\sep}there has Njorth",
             "For himself a dwelling set;",
@@ -385,7 +418,10 @@
         "number": 16
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Vithi:} this land is not mentioned elsewhere.",
+            "\\emph{Vithar} avenged his father, Othin, by slaying the wolf Fenrir."
+        ],
         "translation": [
             "Filled with growing trees{\\sep}and high-standing grass",
             "Is Vithi, Vithar's land;",
@@ -402,10 +438,15 @@
         "number": 17
     },
     {
-        "comment": null,
+        "comment": [
+            "Stanzas \\eddastanzarangeref{18}{20} appear also in Snorri's Edda.",
+            "Very possibly they are an interpolation here.",
+            "\\emph{Eldhrimnir} (``Sooty with Fire''): the great kettle in Valhall, wherein the gods' cook, \\emph{Andhrimnir} (``The Sooty-Faced'') daily cooks the flesh of the boar \\emph{Sæhrimnir} (``The Blackened'').",
+            "His flesh suffices for all the heroes there gathered, and each evening he becomes whole again, to be cooked the next morning."
+        ],
         "translation": [
             "In Eldhrimnir{\\sep}Andhrimnir cooks",
-            "Sæhrimnir's seething flesh,--",
+            "Sæhrimnir's seething flesh,{\\commamdash}",
             "The best of food,{\\sep}but few men know",
             "On what fare the warriors feast."
         ],
@@ -419,7 +460,10 @@
         "number": 18
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Freki} (``The Greedy'') and \\emph{Geri} (``The Ravenous''): the two wolves who sit by Othin's side at the feast, and to whom he gives all the food set before him, since wine is food and drink alike for him.",
+            "\\emph{Heerfather:} Othin."
+        ],
         "translation": [
             "Freki and Geri{\\sep}does Heerfather feed,",
             "The far-famed fighter of old:",
@@ -436,7 +480,10 @@
         "number": 19
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Mithgarth} (``The Middle Home''): the earth.",
+            "\\emph{Hugin} (``Thought'') and Munin (``Memory''): the two ravens who sit on Othin's shoulders, and fly forth daily to bring him news of the world."
+        ],
         "translation": [
             "O'er Mithgarth Hugin{\\sep}and Munin both",
             "Each day set forth to fly;",
@@ -453,7 +500,12 @@
         "number": 20
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Thund} (``The Swollen'' or ``The Roaring''): the river surrounding Valhall.",
+            "\\emph{Thjothvitnir's fish:} presumably the sun, which was caught by the wolf Skoll (cf. \\eddacombinedref{Voluspo}{40}), Thjothvitnir meaning ``the mighty wolf.''",
+            "Such a phrase, characteristic of all Skaldic poetry, is rather rare in the Edda.",
+            "The last two lines refer to the attack on Valhall by the people of Hel; cf. \\eddacombinedref{Voluspo}{51}."
+        ],
         "translation": [
             "Loud roars Thund,{\\sep}and Thjothvitnir's fish",
             "joyously fares in the flood;",
@@ -470,7 +522,9 @@
         "number": 21
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Valgrind} (``The Death-Gate''): the outer gate of Valhall; cf. \\eddacombinedref{Sigurtharkvitha en skamma}{68} and note."
+        ],
         "translation": [
             "There Valgrind stands,{\\sep}the sacred gate,",
             "And behind are the holy doors;",
@@ -487,7 +541,11 @@
         "number": 22
     },
     {
-        "comment": null,
+        "comment": [
+            "This and the following stanza stand in reversed order in \\emph{Regius.}",
+            "Snorri quotes stanza \\eddastanzaref{23} as a proof of the vast size of Valhall.",
+            "The last two lines refer to the final battle with Fenrir and the other enemies."
+        ],
         "translation": [
             "Five hundred doors{\\sep}and forty there are,",
             "I ween, in Valhall's walls;",
@@ -504,7 +562,11 @@
         "number": 23
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza is almost certainly an interpolation, brought in through a confusion of the first two lines with those of stanza \\eddastanzaref{23}.",
+            "Its description of Thor's house, Bilskirnir (cf. stanza \\eddastanzaref{4} and note) has nothing to do with that of Valhall.",
+            "Snorri quotes the stanza in his account of Thor."
+        ],
         "translation": [
             "Five hundred rooms{\\sep}and forty there are",
             "I ween, in Bilskirnir built;",
@@ -521,7 +583,11 @@
         "number": 24
     },
     {
-        "comment": null,
+        "comment": [
+            "The first line in the original is, as indicated in the translation, too long, and various attempts to amend it have been made.",
+            "\\emph{Heithrun:} the she-goat who lives on the twigs of the tree \\emph{Lærath} (presumably the ash Yggdrasil), and daily gives mead which, like the boar's flesh, suffices for all the heroes in Valhall.",
+            "In Snorri's \\emph{Edda} Gangleri foolishly asks whether the heroes drink water, whereto Har replies, ``Do you imagine that Othin invites kings and earls and other noble men, and then gives them water to drink?''"
+        ],
         "translation": [
             "Heithrun is the goat{\\sep}who stands by Heerfather's hall,",
             "And the branches of Lærath she bites;",
@@ -538,7 +604,13 @@
         "number": 25
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Eikthyrnir} (``The Oak-Thorned,'' i.e., with antlers, ``thorns,'' like an oak): this animal presumably represents the clouds.",
+            "The first line, like that of stanza \\eddastanzaref{25}, is too long in the original.",
+            "\\emph{Lærath:} cf. stanza \\eddastanzaref{25}, note.",
+            "\\emph{Hvergelmir:} according to Snorri, this spring, ``the Cauldron-Roaring,'' was in the midst of Niflheim, the world of darkness and the dead, beneath the third root of the ash Yggdrasil.",
+            "Snorri gives a list of the rivers flowing thence nearly identical with the one in the poem."
+        ],
         "translation": [
             "Eikthyrnir is the hart{\\sep}who stands by Heerfather's hall",
             "And the branches of Lærath he bites;",
@@ -555,7 +627,16 @@
         "number": 26
     },
     {
-        "comment": null,
+        "comment": [
+            "The entire passage from stanza \\emph{27} through stanza \\emph{35} is confused.",
+            "The whole thing may well be an interpolation.",
+            "Bugge calls stanzas \\eddastanzarangeref{27}{30} an interpolation, and editors who have accepted the passage as a whole have rejected various lines.",
+            "The spelling of the names of the rivers varies greatly in the manuscripts and editions.",
+            "It is needless here to point out the many attempted emendations of this list.",
+            "For a passage presenting similar problems, cf. \\eddacombinedrangeref{Voluspo}{10}{16}.",
+            "Snorri virtually quotes stanzas \\eddastanzarangeref{27}{29} in his prose, though not consecutively.",
+            "The name \\emph{Rin,} in line 3, is identical with that for the River Rhine which appears frequently in the hero poems, but the similarity is doubtless purely accidental."
+        ],
         "translation": [
             "Sith and Vith,{\\sep}Sækin and Ækin,",
             "Svol and Fimbulthul,{\\sep}Gunnthro, and Fjorm,",
@@ -578,7 +659,11 @@
         "number": 27
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Slith} may possibly be the same river as that mentioned in \\eddacombinedref{Voluspo}{36}, as flowing through the giants' land.",
+            "\\emph{Leipt:} in \\eddacombinedref{Helgakvitha Hundingsbana II}{29}, this river is mentioned as one by which a solemn oath is sworn, and Gering points the parallel to the significance of the Styx among the Greeks.",
+            "The other rivers here named are not mentioned elsewhere in the poems."
+        ],
         "translation": [
             "Vino is one,{\\sep}Vegsvin another,",
             "And Thjothnuma a third;",
@@ -601,7 +686,16 @@
         "number": 28
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza looks as though it originally had had nothing to do with the two preceding it.",
+            "Snorri quotes it in his description of the three roots of Yggdrasil, and the three springs be neath them.",
+            "``The third root of the ash stands in heaven and beneath this root is a spring which is very holy, and is called Urth's well.'' (Cf. \\eddacombinedref{Voluspo}{19})",
+            "``There the gods have their judgment-seat, and thither they ride each day over Bifrost, which is also called the Gods' Bridge.''",
+            "Thor has to go on foot in the last days of the destruction, when the bridge is burning.",
+            "Another interpretation, however, is that when Thor leaves the heavens (i.e., when a thunder-storm is over) the rainbow-bridge becomes hot in the sun.",
+            "Nothing more is known of the rivers named in this stanza.",
+            "Lines 3{\\ndash}4 are almost certainly interpolated from stanza \\eddastanzaref{30}."
+        ],
         "translation": [
             "Kormt and Ormt{\\sep}and the Kerlaugs twain",
             "Shall Thor each day wade through,",
@@ -622,7 +716,21 @@
         "number": 29
     },
     {
-        "comment": null,
+        "comment": [
+            "This stanza, again possibly an interpolation, is closely paraphrased by Snorri following the passage quoted in the previous note.",
+            "\\emph{Glath} (``Joyous''): identified in the \\emph{Skaldskaparmal} with Skinfaxi, the horse of day; cf. \\eddacombinedref{Vafthruthnismol}{12}.",
+            "\\emph{Gyllir:} ``Golden.''",
+            "\\emph{Gler:} ``Shining.''",
+            "\\emph{Skeithbrimir:} ``Swift-Going.''",
+            "\\emph{Silfrintopp:} ``Silver-Topped.''",
+            "\\emhp{Sinir:} ``Sinewy.''",
+            "\\emph{Gisl:} the meaning is doubtful; Gering suggests ``Gleaming.''",
+            "\\emph{Falhofnir:} ``Hollow-Hoofed.''",
+            "\\emph{Golltopp} (``Gold-Topped''): this horse be longed to Heimdall (cf. \\eddacombinedref{Voluspo}{1} and {\\eddastanzaref[Voluspo]{46}}).",
+            "It is noteworthy that gold was one of the attributes of Heimdall's belongings, and, because his teeth were of gold, he was also called Gullintanni (``Gold-Toothed'').",
+            "\\emph{Lettfeti:} ``Light-Feet.''",
+            "Othin's eight footed horse, Sleipnir, is not mentioned in this list."
+        ],
         "translation": [
             "Glath and Gyllir,{\\sep}Gler and Skeithbrimir,",
             "Silfrintopp and Sinir,",
@@ -643,7 +751,11 @@
         "number": 30
     },
     {
-        "comment": null,
+        "comment": [
+            "The first of these roots is the one referred to in stanza \\eddastanzaref{26}; the second in stanza \\eddastanzaref{29} (cf. notes).",
+            "Of the third root there is nothing noteworthy recorded.",
+            "After this stanza it is more than possible that one has been lost, paraphrased in the prose of Snorri's Edda thus: ``An eagle sits in the branches of the ash tree, and he is very wise; and between his eyes sits the hawk who is called Vethrfolnir.''"
+        ],
         "translation": [
             "Three roots there are{\\sep}that three ways run",
             "'Neath the ash-tree Yggdrasil;",
@@ -660,7 +772,10 @@
         "number": 31
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Ratatosk} (``The Swift-Tusked''): concerning this squirrel, the Prose Edda has to add only that he runs up and down the tree conveying the abusive language of the eagle (see note on stanza \\eddastanzaref{31}) and the dragon \\emph{Nithhogg} (cf. \\eddacombinedref{Voluspo}{39} and note) to each other.",
+            "The hypothesis that Ratatosk ``represents the undying hatred between the sustaining and the destroying elements-the gods and the giants,'' seems a trifle far-fetched."
+        ],
         "translation": [
             "Ratatosk is the squirrel{\\sep}who there shall run",
             "On the ash-tree Yggdrasil;",
@@ -677,7 +792,14 @@
         "number": 32
     },
     {
-        "comment": null,
+        "comment": [
+            "Stanzas \\eddastanzarangeref{33}{34} may well be interpolated, and are certainly in bad shape in the Mss.",
+            "Bugge points out that they are probably of later origin than those surrounding them.",
+            "Snorri closely paraphrases stanza \\eddastanzaref{33}, but without elaboration, and nothing further is known of the four harts.",
+            "It may be guessed, however, that they are a late multiplication of the single hart mentioned in stanza \\eddastanzaref{26}, just as the list of dragons in stanza \\eddastanzaref{34} seems to have been expanded out of Nithhogg, the only authentic dragon under the root of the ash.",
+            "\\emph{Highest twigs:} a guess; the Mss. words are baffling.",
+            "Something has apparently been lost from lines 3{\\ndash}4, but there is no clue as to its nature."
+        ],
         "translation": [
             "Four harts there are,{\\sep}that the highest twigs",
             "Nibble with necks bent back;",
@@ -694,7 +816,17 @@
         "number": 33
     },
     {
-        "comment": null,
+        "comment": [
+            "Cf. note on previous stanza.",
+            "Nothing further is known of any of the serpents here listed, and the meanings of many of the names are conjectural.",
+            "Snorri quotes this stanza.",
+            "Editors have altered it in various ways in an attempt to regularize the meter.",
+            "\\emph{Goin and Moin:} meaning obscure.",
+            "\\emph{Grafvitnir:} ``The Gnawing Wolf.''",
+            "\\emph{Grabak:} ``Gray-Back.''",
+            "\\emph{Grafvolluth:} ``The Field Gnawer.''",
+            "\\emph{Ofnir} and \\emph{Svafnir} (``The Bewilderer'' and ``The Sleep-Bringer''): it is noteworthy that in stanza \\eddastanzaref{54} Othin gives himself these two names."
+        ],
         "translation": [
             "More serpents there are{\\sep}beneath the ash",
             "Than an unwise ape would think;",
@@ -715,7 +847,10 @@
         "number": 34
     },
     {
-        "comment": null,
+        "comment": [
+            "Snorri quotes this stanza, which concludes the passage, beginning with stanza \\eddastanzaref{25}, describing Yggdrasil.",
+            "If we assume that stanzas \\eddastanzarangeref{27}{34} are later interpolations{\\mdash}possibly excepting \\eddastanzaref{32}{\\mdash}this section of the poem reads clearly enough."
+        ],
         "translation": [
             "Yggdrasil's ash{\\sep}great evil suffers,",
             "Far more than men do know;",
@@ -732,7 +867,23 @@
         "number": 35
     },
     {
-        "comment": null,
+        "comment": [
+            "Snorri quotes this list of the Valkyries, concerning whom cf. \\eddacombinedref{Voluspo}{31} and note, where a different list of names is given.",
+            "\\emph{Hrist:} ``Shaker.''",
+            "\\emph{Mist:} ``Mist.''",
+            "\\emph{Skeggjold:} ``Ax-Time.''",
+            "\\emph{Skogul:} ``Raging'' (?).",
+            "\\emph{Hild:} ``Warrior.''",
+            "\\emph{Thruth:} ``Might.''",
+            "\\emph{Hlok:} ``Shrieking.''",
+            "\\emph{Herfjotur:} ``Host-Fetter.''",
+            "\\emph{Gol:} ``Screaming.''",
+            "\\emph{Geironul:} ``Spear-Bearer.''",
+            "\\emph{Randgrith:} ``Shield-Bearer.''",
+            "\\emph{Rathgrith:} Gering guesses ``Plan-Destroyer.''",
+            "\\emph{Reginleif:} ``Gods'-Kin.''",
+            "Manuscripts and editions vary greatly in the spelling of these names, and hence in their significance."
+        ],
         "translation": [
             "Hrist and Mist{\\sep}bring the horn at my will,",
             "Skeggjold and Skogul;",
@@ -753,7 +904,14 @@
         "number": 36
     },
     {
-        "comment": null,
+        "comment": [
+            "Müllenhoff suspects stanzas \\eddastanzarangeref{37}{41} to have been interpolated, and Edzardi thinks they may have come from the \\eddachapterref{Vafthruthnismol.}",
+            "Snorri closely paraphrases stanzas \\eddastanzarangeref{37}{39}, and quotes \\eddastanzarangeref{40}{41}.",
+            "\\emph{Arvak} (``Early Waker'') and \\emph{Alsvith} (``All Swift''): the horses of the sun, named also in \\eddacombinedref{Sigrdrifumol}{15}.",
+            "According to Snorri: ``There was a man called Mundilfari, who had two children; they were so fair and lovely that he called his son Mani and his daughter Sol.",
+            "The gods were angry at this presumption, and took the children and set them up in heaven; and they bade Sol drive the horses that drew the car of the sun which the gods had made to light the world from the sparks which flew out of Muspellsheim.",
+            "The horses were called Alsvith and Arvak, and under their yokes the gods set two bellows to cool them, and in some songs these are called `the cold iron.' ''"
+        ],
         "translation": [
             "Arvak and Alsvith{\\sep}up shall drag",
             "Weary the weight of the sun;",
@@ -770,7 +928,9 @@
         "number": 37
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Svalin} (``The Cooling''): the only other reference to this shield is in \\eddacombinedref{Sigrdrifumol}{15}."
+        ],
         "translation": [
             "In front of the sun{\\sep}does Svalin stand,",
             "The shield for the shining god;",
@@ -787,7 +947,11 @@
         "number": 38
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Skoll} and \\emph{Hati:} the wolves that devour respectively the sun and moon.",
+            "The latter is the son of Hrothvitnir (``The Mighty Wolf,'' i. e. Fenrir); cf. \\eddacombinedref{Voluspo}{40}, and \\eddacombinedrangeref{Vafthruthnismol}{46}{47}, in which Fenrir appears as the thief.",
+            "\\emph{Ironwood:} a conjectural emendation of an obscure phrase; cf. \\eddacombinedref{Voluspo}{40}."
+        ],
         "translation": [
             "Skoll is the wolf{\\sep}that to Ironwood",
             "Follows the glittering god,",
@@ -804,7 +968,14 @@
         "number": 39
     },
     {
-        "comment": null,
+        "comment": [
+            "This and the following stanza are quoted by Snorri.",
+            "They seem to have come from a different source from the others of this poem; Edzardi suggests an older version of the \\eddachapterref{Vafthruthnismol.}",
+            "This stanza is closely parallel to \\eddacombinedref{Vafthruthnismol}{21}, which see, as also \\eddacombinedref{Voluspo}{3}.",
+            "Snorri, following this account, has a few details to add.",
+            "The stones were made out of Ymir's teeth and such of his bones as were broken.",
+            "Mithgarth was a mountain-wall made out of Ymir's eyebrows, and set around the earth because of the enmity of the giants."
+        ],
         "translation": [
             "Out of Ymir's flesh{\\sep}was fashioned the earth,",
             "And the ocean out of his blood;",
@@ -838,7 +1009,12 @@
         "number": 41
     },
     {
-        "comment": null,
+        "comment": [
+            "With this stanza Othin gets back to his immediate situation, bound as he is between two fires.",
+            "He calls down a blessing on the man who will reach into the fire and pull aside the great kettle which, in Icelandic houses, hung directly under the smoke vent in the roof, and thus kept any one above from looking down into the interior.",
+            "On \\emph{Ull,} the archer-god, cf. stanza \\eddastanzaref{5} and note.",
+            "He is specified here apparently for no better reason than that his name fits the initial-rhyme."
+        ],
         "translation": [
             "His the favor of Ull{\\sep}and of all the gods",
             "Who first in the flames will reach;",
@@ -855,7 +1031,13 @@
         "number": 42
     },
     {
-        "comment": null,
+        "comment": [
+            "This and the following stanza are certainly interpolated, for they have nothing to do with the context, and stanza \\eddastanzaref{45} continues the dramatic conclusion of the poem begun in stanza \\eddastanzaref{42}.",
+            "This stanza is quoted by Snorri.",
+            "\\emph{Ivaldi} (``The Mighty''): he is known only as the father of the craftsmen-dwarfs who made not only the ship Skithblathnir, but also Othin's spear Gungnir, and the golden hair for Thor's wife, Sif, after Loki had maliciously cut her own hair off.",
+            "\\emph{Skithblathnir:} this ship (``Wooden-Bladed'') always had a fair wind, whenever the sail was set; it could be folded up at will and put in the pocket.",
+            "\\emph{Freyr:} concerning him and his father, see \\eddacombinedref{Voluspo}{21}, note, and \\eddachapterref{Skirnismol,} {\\hyperref[cha:Skirnismol:introduction]{introductory prose}} and note."
+        ],
         "translation": [
             "In days of old{\\sep}did Ivaldi's sons",
             "Skithblathnir fashion fair,",
@@ -872,7 +1054,25 @@
         "number": 43
     },
     {
-        "comment": null,
+        "comment": [
+            "Snorri quotes this stanza.",
+            "Like stanza \\eddastanzaref{43} an almost certain interpolation, it was probably drawn in by the reference to Skithblathnir in the stanza interpolated earlier.",
+            "It is presumably in faulty condition.",
+            "One Ms. has after the fifth line half of a sixth,{\\commamdash}``Brimir of swords.''",
+            "\\emph{Yggdrasil:} cf. stanzas \\eddastanzarangeref{25}{35}.",
+            "\\emph{Skithblathnir:} cf. stanza \\eddastanzaref{43}, note.",
+            "\\emph{Sleipnir:} Othin's eight-legged horse, one of Loki's numerous progeny, borne by him to the stallion Svathilfari.",
+            "This stallion belonged to the giant who built a fortress for the gods, and came so near to finishing it, with Svathilfari's aid, as to make the gods fear he would win his promised reward{\\mdash}Freyja and the sun and moon.",
+            "To delay the work, Loki turned himself into a mare, whereupon the stallion ran away, and the giant failed to complete his task within the stipulated time.",
+            "\\emph{Bilrost:} probably another form of Bifrost (which Snorri has in his version of the stanza), on which cf. stanza \\eddastanzaref{29}.",
+            "\\emph{Bragi:} the god of poetry.",
+            "He is one of the later figures among the gods, and is mentioned only three times in the poems of the \\emph{Edda.}",
+            "In Snorri's \\emph{Edda,} however, he is of great importance.",
+            "His wife is Ithun, goddess of youth.",
+            "Perhaps the Norwegian skald Bragi Boddason, the oldest recorded skaldic poet, had been traditionally apotheosized as early as the tenth century.",
+            "\\emph{Hobrok:} nothing further is known of him.",
+            "Garm: cf. \\eddacombinedref{Voluspo}{44}."
+        ],
         "translation": [
             "The best of trees{\\sep}must Yggdrasil be,",
             "Skithblathnir best of boats;",
@@ -893,7 +1093,10 @@
         "number": 44
     },
     {
-        "comment": null,
+        "comment": [
+            "With this stanza the narrative current of the poem is resumed.",
+            "\\emph{Ægir:} the sea-god; cf. \\eddachapterref{Lokasenna,} {\\hyperref[cha:Lokasenna:introduction]{introductory prose}}."
+        ],
         "translation": [
             "To the race of the gods{\\sep}my face have I raised,",
             "And the wished-for aid have I waked;",
@@ -912,7 +1115,23 @@
         "number": 45
     },
     {
-        "comment": null,
+        "comment": [
+            "Concerning the condition of stanzas \\eddastanzarangeref{46}{50}, quoted by Snorri, nothing definite can be said.",
+            "Lines and entire stanzas of this ``catalogue'' sort undoubtedly came and went with great freedom all through the period of oral transmission.",
+            "Many of the names are not mentioned elsewhere, and often their significance is sheer guesswork.",
+            "As in nearly every episode Othin appeared in disguise, the number of his names was necessarily almost limitless.",
+            "\\emph{Grim:} ``The Hooded.''",
+            "\\emph{Gangleri:} ``The Wanderer.''",
+            "\\emph{Herjan:} ``The Ruler.''",
+            "\\emph{Hjalmberi:} ``The Helmet-Bearer.''",
+            "\\emph{Thekk:} ``The Much-Loved.''",
+            "\\emph{Thrithi:} ``The Third'' (in Snorri's \\emph{Edda} the stories are all told in the form of answers to questions, the speakers being Har, Jafnhar and Thrithi.",
+            "Just what this tripartite form of Othin signifies has been the source of endless debate.",
+            "Probably this line is late enough to betray the somewhat muddled influence of early Christianity.)",
+            "\\emph{Thuth} and \\emph{Uth:} both names defy guesswork.",
+            "\\emph{Helblindi:} ``Hel-Blinder'' (two manuscripts have \\emph{Herblindi}{\\mdash}``Host-Blinder'').",
+            "\\emph{Hor:} ``The High One.''"
+        ],
         "translation": [
             "Grim is my name,{\\sep}Gangleri am 1,",
             "Herjan and Hjalmberi,",
@@ -929,7 +1148,20 @@
         "number": 46
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Sath:} ``The Truthful.''",
+            "\\emph{Svipal:} ``The Changing.''",
+            "\\emph{Sanngetal:} ``The Truth-Teller.''",
+            "\\emph{Herteit:} ``Glad of the Host.''",
+            "\\emph{Hnikar:} ``The Overthrower.''",
+            "\\emph{Bileyg:} ``The Shifty-Eyed.''",
+            "\\emph{Baleyg:} ``The Flaming-Eyed.''",
+            "\\emph{Bolverk:} ``Doer of Ill'' (cf. \\eddacombinedref{Hovamol}{104} and note).",
+            "\\emph{Fjolnir:} ``The Many-Shaped.''",
+            "\\emph{Grimnir:} ``The Hooded.''",
+            "\\emph{Glapswith:} ``Swift in Deceit.''",
+            "\\emph{Fjolsvith:} ``Wide of Wisdom.''"
+        ],
         "translation": [
             "Sath and Svipal{\\sep}and Sanngetal,",
             "Herteit and Hnikar,",
@@ -946,7 +1178,15 @@
         "number": 47
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Sithhott:} ``With Broad Hat.''",
+            "\\emph{Sithskegg:} ``Long-Bearded.''",
+            "\\emph{Sigfather:} ``Father of Victory.''",
+            "\\emph{Hnikuth:} ``Overthrower.''",
+            "\\emph{Valfather:} ``Father of the Slain.''",
+            "\\emph{Atrith:} ``The Rider.''",
+            "\\emph{Farmatyr:} ``Helper of Cargoes'' (i. e., god of sailors)."
+        ],
         "translation": [
             "Sithhott, Sithskegg,{\\sep}Sigfather, Hnikuth,",
             "Allfather, Valfather,{\\sep}Atrith, Farmatyr:",
@@ -963,7 +1203,16 @@
         "number": 48
     },
     {
-        "comment": null,
+        "comment": [
+            "Nothing is known of Asmund, of Othin's appearance as Jalk, or of the occasion when he ``went in a sledge'' as Kjalar (``Ruler of Keels''?).",
+            "\\emph{Thror} and \\emph{Vithur} are also of uncertain meaning.",
+            "\\emph{Oski:} ``God of Wishes.''",
+            "\\emph{Biflindi:} the manuscripts vary widely in the form of this name.",
+            "\\emph{Jafnhor:} ``Equally High'' (cf. note on stanza \\eddastanzaref{46}).",
+            "\\emph{Omi:} ``The Shouter.''",
+            "\\emph{Gondlir:} ``Wand Bearer.''",
+            "\\emph{Harbarth:} ``Graybeard'' (cf. \\eddachapterref{Harbarthsljoth,} introduction)."
+        ],
         "translation": [
             "Grimnir they call me{\\sep}in Geirröth's hall,",
             "With Asmund Jalk am I;",
@@ -986,7 +1235,10 @@
         "number": 49
     },
     {
-        "comment": null,
+        "comment": [
+            "Nothing further is known of the episode here mentioned Sokkmimir is presumably Mithvitnir's son.",
+            "Snorri quotes the names Svithur and Svithrir, but omits all the remainder of the stanza."
+        ],
         "translation": [
             "I deceived the giant{\\sep}Sokkmimir old",
             "As Svithur and Svithrir of yore;",
@@ -1003,7 +1255,11 @@
         "number": 50
     },
     {
-        "comment": null,
+        "comment": [
+            "Again the poem returns to the direct action, Othin addressing the terrified Geirröth.",
+            "The manuscripts show no lacuna.",
+            "Some editors supply a second line from paper manuscripts: ``Greatly by me art beguiled.''"
+        ],
         "translation": [
             "Drunk art thou, Geirröth,{\\sep}too much didst thou drink,",
             ".    .    .    .    .    .    .    .    .    .",
@@ -1037,7 +1293,10 @@
         "number": 52
     },
     {
-        "comment": null,
+        "comment": [
+            "\\emph{Ygg:} Othin (``The Terrible'').",
+            "\\emph{The maids:} the three Norns."
+        ],
         "translation": [
             "Thy sword-pierced body{\\sep}shall Ygg have soon,",
             "For thy life is ended at last;",
@@ -1054,7 +1313,16 @@
         "number": 53
     },
     {
-        "comment": null,
+        "comment": [
+            "Possibly out of place, and probably more or less corrupt.",
+            "\\emph{Thund:} ``The Thunderer.''",
+            "\\emph{Vak:} ``The Wakeful.''",
+            "\\emph{Skilfing:} ``The Shaker.''",
+            "\\emph{Vofuth:} ``The Wanderer.''",
+            "\\emph{Hroptatyr:} ``Crier of the Gods.''",
+            "\\emph{Gaut:} ``Father.''",
+            "\\emph{Ofnir} and \\emph{Svafnir}: cf. stanza \\eddastanzaref{34}."
+        ],
         "translation": [
             "Now am I Othin,{\\sep}Ygg was I once,",
             "Ere that did they call me Thund;",
