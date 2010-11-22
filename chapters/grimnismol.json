@@ -619,10 +619,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Hjo~rtr heitir Eikþyrnir{\\sep}es stendr ho~llu a` {[}Herjafo~þrs{]}",
+            "ok bi`tr af La_e`ra`þs limum;",
+            "en af hans hornum{\\sep}dry`pr i` Hvergelmi,",
+            "þaþan eigu vo~tn o~ll vega."
         ],
         "number": 26
     },
@@ -648,13 +648,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Si`þ ok Vi`þ,{\\sep}Sa_e`kin ok A_Ekin,",
+            "Svo~l ok Gunnþro`,{\\sep}Fjo~rm ok Fimbulþul,",
+            "Ri`n ok Rinnandi,",
+            "Gipul ok Go~pul,{\\sep}Go~mul ok Geirvimul,",
+            "þa_e`r hverfa of hodd goþa;",
+            "Þyn ok Vin,{\\sep}Þo~ll ok Ho~ll,",
+            "Gro~`þ ok Gunnþorin."
         ],
         "number": 27
     },
@@ -675,13 +675,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "Vi`no~` heitir ein,{\\sep}o~nnur Vegsvinn,",
+            "þriþja Þjo`þnuma;",
+            "Nyt ok No~t,{\\sep}No~nn ok Hro~nn,",
+            "Sli`þ ok Hri`þ,{\\sep}Sylgr ok Ylgr,",
+            "Vi`þ ok Vo~`n,{\\sep}Vo~nd ok Stro~nd,",
+            "Gjo~ll ok Leiptr,{\\sep}þa_e`r falla gumnum na_e`r,",
+            "en falla til Heljar heþan."
         ],
         "number": 28
     },
@@ -706,12 +706,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ko~rmt ok O~rmt{\\sep}ok Kerlaugar tva_e`r,",
+            "þa_e`r skal Þo`rr vaþa",
+            "dag hverjan,{\\sep}es hann do/`ma ferr",
+            "at aski Yggdrasils;",
+            "þvi`t a`sbru`{\\sep}brinnr o~ll loga,",
+            "heilo~g vo~tn hloa."
         ],
         "number": 29
     },
@@ -741,12 +741,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Glaþr ok Gyllir,{\\sep}Gler ok Skeiþbrimir,",
+            "Silfrintoppr ok Sinir,",
+            "Gi`sl ok Falho`fnir,{\\sep}Golltoppr ok Le`ttfeti,",
+            "þeim ri`þa a_e`sir jo~um",
+            "dag hverjan,{\\sep}es do/`ma fara",
+            "at aski Yggdrasils."
         ],
         "number": 30
     },
@@ -754,7 +754,15 @@
         "comment": [
             "The first of these roots is the one referred to in stanza \\eddastanzaref{26}; the second in stanza \\eddastanzaref{29} (cf. notes).",
             "Of the third root there is nothing noteworthy recorded.",
-            "After this stanza it is more than possible that one has been lost, paraphrased in the prose of Snorri's Edda thus: ``An eagle sits in the branches of the ash tree, and he is very wise; and between his eyes sits the hawk who is called Vethrfolnir.''"
+            "After this stanza it is more than possible that one has been lost, paraphrased in the prose of Snorri's Edda thus:",
+            "\\eddainlinestanza{An eagle sits{\\sep}in the branches of the ash tree, \\\\",
+            "and he is very wise; \\\\",
+            "and between his eyes{\\sep}sits the hawk \\\\",
+            "who is called Vethrfolnir.}",
+            "\\eddainlinestanza{(O~rn sitr{\\sep}a` asks limum \\\\",
+            "es vel kveþa mart vita; \\\\",
+            "o~glir einn{\\sep}ho~num augna i` milli \\\\",
+            "Veþrfo~lnir vakir.)}"
         ],
         "translation": [
             "Three roots there are{\\sep}that three ways run",
@@ -764,10 +772,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Þriar ro/`tr{\\sep}standa a` þria vega",
+            "und aski Yggdrasils:",
+            "Hel by`r und einni,{\\sep}annarri hri`mþursar,",
+            "þriþju menskir menn."
         ],
         "number": 31
     },
@@ -784,10 +792,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ratatoskr heitir i`korni{\\sep}es rinna skal",
+            "at aski Yggdrasils;",
+            "arnar orþ{\\sep}hann skal ofan bera",
+            "ok segja Ni`þho~ggvi niþr."
         ],
         "number": 32
     },
@@ -803,15 +811,15 @@
         "translation": [
             "Four harts there are,{\\sep}that the highest twigs",
             "Nibble with necks bent back;",
-            "Dain and Dvalin,{\\sep} . . . . . .",
+            "Dain and Dvalin,{\\sep}\\eddalacuna",
             "Duneyr and Dyrathror."
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Hirtir 'u auk fjo`rir{\\sep}þeirs af ho/`fingar a`",
+            "gaghalsir gnaga:",
+            "Dai::nn ok Dvalinn,{\\sep}\\eddalacuna",
+            "Duneyrr ok Dyraþro`r."
         ],
         "number": 33
     },
@@ -837,12 +845,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ormar fleiri liggja{\\sep}und aski Yggdrasils,",
+            "an of hyggi hverr o`sviþra apa:",
+            "Goinn ok Moinn,{\\sep}þeir'u Grafvitnis synir,",
+            "Gra`bakr ok Grafvo~lluþr,",
+            "Ofnir ok Svafnir{\\sep}hykk at a_e` skyli",
+            "meiþs kvistu maa."
         ],
         "number": 34
     },
@@ -859,10 +867,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Askr Yggdrasils{\\sep}dry`gir erfiþi",
+            "meira an menn viti:",
+            "hjo~rtr bi`tr ofan,{\\sep}en a` hliþu fu`nar,",
+            "skerþir Niþho~ggr neþan."
         ],
         "number": 35
     },
@@ -894,12 +902,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Hrist ok Mist{\\sep}vilk at me`r horn beri,",
+            "Skeggjo~ld ok Sko~gul;",
+            "Hildr ok Þru`þr,{\\sep}Hlo~kk ok Herfjo~tur,",
+            "Go~ll ok Geiro~nul,",
+            "Randgri`þ ok Ra`þgri`þ{\\sep}ok Reginleif,",
+            "þa_e`r bera einherjum o~l."
         ],
         "number": 36
     },
@@ -920,10 +928,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "A`rvakr ok Alsviþr{\\sep}þeir skulu upp heþan",
+            "svangir so`l draga;",
+            "en und þeira bo`gum{\\sep}fo~`lu bli`þ regin,",
+            "a_e`sir, i`sarn ko`l."
         ],
         "number": 37
     },
@@ -939,10 +947,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Svalinn heitir,{\\sep}hann stendr so`lu fyrir,",
+            "skjo~ldr, ski`nanda goþi:",
+            "bjo~rg ok brim{\\sep}veitk at brinna skulu,",
+            "ef hann fellr i` fra`."
         ],
         "number": 38
     },
@@ -960,10 +968,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Sko`ll heitir ulfr{\\sep}es fylgir enu ski`rleita goþi",
+            "til I`sarnviþar,",
+            "en annarr Hati,{\\sep}Hro`þvitnis sunr,",
+            "skal fyr heiþa bru`þi himins."
         ],
         "number": 39
     },
@@ -984,10 +992,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`r Ymis holdi{\\sep}vas jo~rþ of sko~puþ,",
+            "en o`r sveita sa_e`r,",
+            "bjo~rg o`r beinum,{\\sep}baþmr o`r ha`ri,",
+            "en o`r hausi himinn."
         ],
         "number": 40
     },
@@ -1001,10 +1009,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "En o`r hans bro~um{\\sep}go/rþu bli`þ regin",
+            "miþgarþ manna sunum,",
+            "en o`r hans heila{\\sep}vo~ru þau en harþmo`þgu",
+            "sky` o~ll of sko~puþ."
         ],
         "number": 41
     },
@@ -1023,10 +1031,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ullar hylli{\\sep}hefr ok allra goþa",
+            "hverrs tekr fyrstr a` funa;",
+            "þvi`t opnir heimar{\\sep}verþa of a`sa sunum,",
+            "þa`s hefja af hvera."
         ],
         "number": 42
     },
@@ -1046,10 +1054,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "I`valda synir{\\sep}gengu i` a`rdaga",
+            "Ski`þblaþni at skapa,",
+            "skipa bazt{\\sep}ski`rum Frey,",
+            "ny`tum Njarþar bur."
         ],
         "number": 43
     },
@@ -1083,12 +1091,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
+            "Askr Yggdrasils{\\sep}hann es o/`ztr viþa,",
+            "enn Ski`þblaþnir skipa,",
+            "O`þinn a`sa,{\\sep}en joa Sleipnir,",
             "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "{\\sep}"
+            "Bilro~st brua,{\\sep}en Bragi skalda,",
+            "Ho~`bro`k hauka,{\\sep}en hunda Garmr."
         ],
         "number": 44
     },
@@ -1106,11 +1114,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "Svipum hefk nu` ypt{\\sep}fyr sigti`va sunum,",
+            "viþ þat skal vilbjo~rg vaka:",
+            "o~llum o~`sum{\\sep}þat skal inn koma",
+            "A_Egis bekki a`,",
+            "A_Egis drekku at."
         ],
         "number": 45
     },
@@ -1140,10 +1148,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "He`tumk Gri`mr,{\\sep}he`tumk Gangleri,",
+            "Herjan ok Hjalmberi,",
+            "Þekkr ok Þriþi,{\\sep}Þuþr ok Uþr,",
+            "Helblindi ok Ho~`r,"
         ],
         "number": 46
     },
@@ -1170,10 +1178,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "{\\sep}"
+            "Saþr ok Svipall{\\sep}ok Sanngetall,",
+            "Herteitr ok Hnikarr,",
+            "{[}Bi`leygr, Ba`leygr,{\\sep}Bo~lverkr, Fjo~lnir,",
+            "Gri`mr ok Grimnir,{\\sep}Glapsviþr, Fjo~lsviþr,"
         ],
         "number": 47
     },
@@ -1195,10 +1203,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "Si`þho~ttr, Si`þskeggr,{\\sep}Sigfo~þr, Hnikuþr,",
+            "Alfo~þr, Valfo~þr,{\\sep}Atri`þr, Farmaty`r:{]}",
+            "einu nafni{\\sep}he`tumk aldrigi,",
+            "si`z meþ folkum fo`rk."
         ],
         "number": 48
     },
@@ -1224,13 +1232,13 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "",
-            "{\\sep}",
-            ""
+            "Grimnir he`tumk{\\sep}at Geirro/þar,",
+            "en Jalkr at A`smundar,",
+            "en þa` Kjalarr,{\\sep}es ek kjalka dro`,",
+            "{[}Þro`r þingum at,",
+            "Viþurr at vi`gum,",
+            "O`ski ok O`mi,{\\sep}Jafnho~`r, Biflindi,{]}",
+            "Go~ndlir ok Ha`rbarþr meþ goþum."
         ],
         "number": 49
     },
@@ -1247,10 +1255,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Sviþurr ok Sviþrir{\\sep}es ek he`t at So~kkmi`mis",
+            "ok dulþak enn aldna jo~tun,",
+            "þa`s ek Miþvitnis{\\sep}vask ens ma_e`ra burar",
+            "orþinn einbani."
         ],
         "number": 50
     },
@@ -1262,16 +1270,16 @@
         ],
         "translation": [
             "Drunk art thou, Geirröth,{\\sep}too much didst thou drink,",
-            ".    .    .    .    .    .    .    .    .    .",
+            "\\eddalacuna",
             "Much hast thou lost,{\\sep}for help no more",
             "From me or my heroes thou hast."
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O~lr est, Geirro/þr!{\\sep}hefr þu` ofdrukkit,",
+            "\\eddalacuna",
+            "miklu'st hnugginn,{\\sep}es þu`'st mi`nu gengi",
+            "ok allra einherja."
         ],
         "number": 51
     },
@@ -1285,10 +1293,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Fjo~lþ þe`r sagþak,{\\sep}en þu` fa`tt of mant:",
+            "of þik ve`la vinir;",
+            "ma_e`ki liggja{\\sep}ek se` mi`ns vinar",
+            "allan i` dreyra driffinn."
         ],
         "number": 52
     },
@@ -1305,10 +1313,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Eggmo`þan val{\\sep}nu` mun Yggr hafa,",
+            "þitt veitk li`f of liþit;",
+            "u`far'u di`sir,{\\sep}nu` kna`tt O`þinn sea,",
+            "na`lgask þu` mik, ef megir!"
         ],
         "number": 53
     },
@@ -1333,12 +1341,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "O`þinn nu` heitik,{\\sep}Yggr a`þan he`tk,",
+            "he`tumk Þundr fyr þat,",
+            "Vakr ok Skilfingr,{\\sep}Vo~`fuþr ok Hro`ptaty`r,",
+            "Gautr ok Jalkr meþ goþum,",
+            "Ofnir ok Svafnir,{\\sep}es hykk at orþnir se`",
+            "allir at einum me`r."
         ],
         "number": 54
     },
