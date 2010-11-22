@@ -35,7 +35,7 @@ def printStanzaTable(block):
 	# helper functions for wrapping table cells
 	leftField = lambda x: u"\\eddaleftfield{" + x + u"}"
 	rightField = lambda x: u"\\eddarightfield{" + x + u"}"
-	textit = lambda x: u"\\textit{" + x + u"}"
+	textit = lambda x: u"\\eddastanzaprelude{" + x + u"}"
 
 	# get info from block
 	number = block['number']
