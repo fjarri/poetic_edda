@@ -42,7 +42,7 @@ substitutions = [
 ]
 
 for block in c:
-	if not block['type'] == "stanza pair":
+	if not block['type'] == "stanza pair" and not block['type'] == "prose":
 		continue
 
 	new_lines = []
