@@ -36,7 +36,13 @@
     {
         "label": "introduction",
         "comment": [
-            "The texts of the two manuscripts differ in many minor details. \\emph{Hrauthung:} this mythical king is not mentioned elsewhere. \\emph{Geirröth:} the manuscripts spell his name in various ways \\emph{Frigg:} Othin's wife. She and Othin nearly always disagreed in some such way as the one outlined in this story. \\emph{Hlithskjolf} (``Gate-Shelf''): Othin's watch-tower in heaven, whence he can overlook all the nine worlds; cf. \\eddachapterref{Skirnismol,} {\\hyperref[cha:Skirnismol:introduction]{introductory prose.}} \\emph{Grimnir:} ``the Hooded One.''"
+            "The texts of the two manuscripts differ in many minor details.",
+            "\\emph{Hrauthung:} this mythical king is not mentioned elsewhere.",
+            "\\emph{Geirröth:} the manuscripts spell his name in various ways.",
+            "\\emph{Frigg:} Othin's wife.",
+            "She and Othin nearly always disagreed in some such way as the one outlined in this story.",
+            "\\emph{Hlithskjolf} (``Gate-Shelf''): Othin's watch-tower in heaven, whence he can overlook all the nine worlds; cf. {\\eddacombinedproseref[introductory prose]{Skirnismol}{introduction}}.",
+            "\\emph{Grimnir:} ``the Hooded One.''"
         ],
         "translation": [
             "King Hrauthung had two sons: one was called Agnar, and the other Geirröth.",
@@ -178,7 +184,7 @@
             "\\emph{Ydalir} (``Yew-Dales''): the home of Ulf, the archer among the gods, a son of Thor's wife, Sif, by another marriage.",
             "The wood of the yew-tree was used for bows in the North just as it was long afterwards in England.",
             "\\emph{Alfheim:} the home of the elves.",
-            "\\emph{Freyr:} cf. \\eddachapterref{Skirnismol,} {\\hyperref[cha:Skirnismol:introduction]{introductory prose}} and note.",
+            "\\emph{Freyr:} cf. {\\eddacombinedproseref[introductory prose]{Skirnismol}{introduction}} and note.",
             "\\emph{Tooth-gift:} the custom of making a present to a child when it cuts its first tooth is, according to Vigfusson, still in vogue in Iceland."
         ],
         "translation": [
@@ -339,7 +345,7 @@
     {
         "comment": [
             "\\emph{Himinbjorg} (``Heaven's Cliffs''): the dwelling at the end of the bridge Bifrost (the rainbow), where Heimdall (cf. \\eddacombinedref{Voluspo}{27}) keeps watch against the coming of the giants.",
-            "In this stanza the two functions of Heimdall{\\mdash}as father of mankind (cf. \\eddacombinedref{Voluspo}{1} and note, and \\eddachapterref{Rigsthula,} {\\hyperref[cha:Rigsthula:introduction]{introductory prose}} and note) and as warder of the gods{\\mdash}seem both to be mentioned, but the second line in the manuscripts is apparently in bad shape, and in the editions is more or less conjectural."
+            "In this stanza the two functions of Heimdall{\\mdash}as father of mankind (cf. \\eddacombinedref{Voluspo}{1} and note, and {\\eddacombinedproseref[introductory prose]{Rigsthula}{introduction}} and note) and as warder of the gods{\\mdash}seem both to be mentioned, but the second line in the manuscripts is apparently in bad shape, and in the editions is more or less conjectural."
         ],
         "translation": [
             "Himinbjorg is the eighth,{\\sep}and Heimdall there",
@@ -1046,7 +1052,7 @@
             "This stanza is quoted by Snorri.",
             "\\emph{Ivaldi} (``The Mighty''): he is known only as the father of the craftsmen-dwarfs who made not only the ship Skithblathnir, but also Othin's spear Gungnir, and the golden hair for Thor's wife, Sif, after Loki had maliciously cut her own hair off.",
             "\\emph{Skithblathnir:} this ship (``Wooden-Bladed'') always had a fair wind, whenever the sail was set; it could be folded up at will and put in the pocket.",
-            "\\emph{Freyr:} concerning him and his father, see \\eddacombinedref{Voluspo}{21}, note, and \\eddachapterref{Skirnismol,} {\\hyperref[cha:Skirnismol:introduction]{introductory prose}} and note."
+            "\\emph{Freyr:} concerning him and his father, see \\eddacombinedref{Voluspo}{21}, note, and {\\eddacombinedproseref[introductory prose]{Skirnismol}{introduction}} and note."
         ],
         "translation": [
             "In days of old{\\sep}did Ivaldi's sons",
@@ -1105,7 +1111,7 @@
     {
         "comment": [
             "With this stanza the narrative current of the poem is resumed.",
-            "\\emph{Ægir:} the sea-god; cf. \\eddachapterref{Lokasenna,} {\\hyperref[cha:Lokasenna:introduction]{introductory prose}}."
+            "\\emph{Ægir:} the sea-god; cf. {\\eddacombinedproseref[introductory prose]{Lokasenna}{introduction}}."
         ],
         "translation": [
             "To the race of the gods{\\sep}my face have I raised,",

@@ -184,14 +184,17 @@
 \ifcase\isDraft
 	\newcommand{\eddachapterref}[1]{\textcolor{red}{\emph{#1}}}
 	\newcommand{\eddastanzaref}[2][\@empty]{\textcolor{red}{#2}}
+	\newcommand{\eddaproseref}[3][\@empty]{\ifx\@empty#1\textcolor{red}{#3}\else\textcolor{red}{#1}\fi}
 \else
 	\newcommand{\eddachapterref}[1]{\hyperref[cha:#1]{\emph{#1}}}
 	\newcommand{\eddastanzaref}[2][\@empty]{\ifx\@empty#1\hyperref[\eddachapterlabel:#2]{#2}\else\hyperref[cha:#1:#2]{#2}\fi}
+	\newcommand{\eddaproseref}[3][\@empty]{\ifx\@empty\hyperref[cha:#2:#3]{#3}\else\hyperref[cha:#2:#3]{#1}\fi}
 \fi
 
 \newcommand{\eddastanzarangeref}[3][\@empty]{\eddastanzaref[#1]{#2}\ndash\eddastanzaref[#1]{#3}}
 \newcommand{\eddacombinedref}[2]{\eddachapterref{#1,} \eddastanzaref[#1]{#2}}
 \newcommand{\eddacombinedrangeref}[3]{\eddachapterref{#1,} \eddastanzarangeref[#1]{#2}{#3}}
+\newcommand{\eddacombinedproseref}[3][\@empty]{\eddachapterref{#2,} \eddaproseref[#1]{#2}{#3}}
 
 
 % ======================================================================

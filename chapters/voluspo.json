@@ -795,7 +795,7 @@
             "A serpent was fastened above Loki's head, and the venom fell upon his face.",
             "Loki's wife, Sigyn, sat by him with a basin to catch the venom, but whenever the basin was full, and she went away to empty it, then the venom fell on Loki again, till the earth shook with his struggles.",
             "``And there he lies bound till the end.''",
-            "Cf. \\eddachapterref{Lokasenna,} {\\hyperref[cha:Lokasenna:conclusion]{concluding prose.}}"
+            "Cf. {\\eddacombinedproseref[concluding prose]{Lokasenna}{conclusion}}."
         ],
         "translation": [
             "One did I see{\\sep}in the wet woods bound,",
