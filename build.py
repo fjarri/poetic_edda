@@ -126,24 +126,12 @@ def printProseTable(block):
 	for i in xrange(len(original)):
 		table_elems.append([leftField(original[i]), rightField(translation[i])])
 
-	table_lines = [u" & ".join(line) for line in table_elems]
-
-	for i in xrange(len(table_lines)):
-		line = table_lines[i] + u" \\\\" # base ending for all lines
-
-		if i == len(table_lines) - 1 and comment is not None:
-		# disable page break after last line (does not work, actually, just here for reference)
-			line += u"*"
-		else:
-			line += u"[\\baselineskip]"
-
-		table_lines[i] = line
-
+	table_lines = [u"\\vskip0.5\\baselineskip \n \\eddaprosetable{" + u" & ".join(line) + u"}" for line in table_elems]
 	table_contents = u"\n".join(table_lines)
 	return "\\eddastanza\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
 		u"{}\n" + \
-		u"{\\eddaprosetable{" + table_contents + u"}}\n\n"
+		u"{" + table_contents + u"}\n\n"
 
 def printText(block):
 	return u"\n".join(block['text'])
