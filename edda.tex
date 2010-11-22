@@ -269,7 +269,18 @@
 \newcommand{\eddastanzatable}[1]{ % table with paired stanzas
 	{\renewcommand{\sep}{\eddastanzasep} % local redefinition for \sep; here it should break line
 	\large\setstretch{1.3} % increased size and additional space between lines, to visually separate stanzas from comments
-		\begin{longtable}{@{} p{2\parindent} @{} p{0.4\textwidth} @{} p{0.5\textwidth}}
+		\begin{longtable}{@{} p{0.075\textwidth} @{} p{0.425\textwidth} @{} p{0.48\textwidth}}
+		#1
+		\end{longtable}
+	}
+}
+
+\newcommand{\eddaproseleft}[1]{\begin{minipage}[t]{0.45\textwidth} \texticelandic{\stanzafont #1} \end{minipage}} % original
+\newcommand{\eddaproseright}[1]{\begin{minipage}[t]{0.5\textwidth} \textenglish{\stanzafont #1} \end{minipage}} % translation
+\newcommand{\eddaprosetable}[1]{ % table with paired prose
+	{\renewcommand{\sep}{\eddastanzasep} % local redefinition for \sep; here it should break line
+	\large\setstretch{1} % increased size and additional space between lines, to visually separate stanzas from comments
+		\begin{longtable}{@{} p{0.5\textwidth} @{} p{0.5\textwidth}}
 		#1
 		\end{longtable}
 	}
@@ -281,8 +292,8 @@
 	\eddastanzalabel{#2}
 	\nopagebreak
 
-	% stanza pair
-	\eddastanzatable{#3}
+	% original-translation pair
+	#3
 
 	% comment
 	\ifx\@empty#1

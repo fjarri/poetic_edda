@@ -104,14 +104,54 @@ def printStanzaTable(block):
 	return "\\eddastanza % Stanza " + unicode(number) + u"\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
 		u"{" + unicode(number) + u"}\n" + \
-		u"{" + table_contents + u"}\n\n"
+		u"{\\eddastanzatable{" + table_contents + u"}}\n\n"
+
+def printProseTable(block):
+
+	# helper functions for wrapping table cells
+	leftField = lambda x: u"\\eddaproseleft{" + x + u"}"
+	rightField = lambda x: u"\\eddaproseright{" + x + u"}"
+
+	# get info from block
+	original = block['original']
+	translation = block['translation']
+	comment = u"\n".join(block['comment']) if block['comment'] is not None else None
+
+	# check that original and translation have same number of lines
+	# (we are using multirow table, which is sensitive to this)
+	assert len(original) == len(translation), str(len(original)) + " " + str(len(translation))
+
+	# Add main table cells
+	table_elems = []
+	for i in xrange(len(original)):
+		table_elems.append([leftField(original[i]), rightField(translation[i])])
+
+	table_lines = [u" & ".join(line) for line in table_elems]
+
+	for i in xrange(len(table_lines)):
+		line = table_lines[i] + u" \\\\" # base ending for all lines
+
+		if i == len(table_lines) - 1 and comment is not None:
+		# disable page break after last line (does not work, actually, just here for reference)
+			line += u"*"
+		else:
+			line += u"[\\baselineskip]"
+
+		table_lines[i] = line
+
+	table_contents = u"\n".join(table_lines)
+	return "\\eddastanza\n" + \
+		(u"[" + comment + u"]\n" if comment is not None else u"") + \
+		u"{}\n" + \
+		u"{\\eddaprosetable{" + table_contents + u"}}\n\n"
 
 def printText(block):
 	return u"\n".join(block['text'])
 
 handlers = {
 	'stanza pair': printStanzaTable,
-	'text': printText
+	'text': printText,
+	'prose': printProseTable
 }
 
 filenames = os.listdir('chapters')
