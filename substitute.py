@@ -12,6 +12,7 @@ substitutions = [
 	(u"a_e`", u"ǣ"),
 	(u"a_e", u"æ"),
 	(u"o_e", u"œ"),
+	(u"A_E", u"Æ"),
 
 	(u"a`", u"ā"),
 	(u"A`", u"Ā"),
