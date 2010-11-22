@@ -33,8 +33,8 @@ def printStanzaPair(block):
 def printStanzaTable(block):
 
 	# helper functions for wrapping table cells
-	leftField = lambda x: u"\\eddaleftfield{" + x + u"}"
-	rightField = lambda x: u"\\eddarightfield{" + x + u"}"
+	leftField = lambda x: u"\\eddastanzaleft{" + x + u"}"
+	rightField = lambda x: u"\\eddastanzaright{" + x + u"}"
 	textit = lambda x: u"\\eddastanzaprelude{" + x + u"}"
 
 	# get info from block
@@ -58,7 +58,7 @@ def printStanzaTable(block):
 		table_elems.append([u" ", leftField(original[i]), rightField(translation[i])])
 
 	# Add a table cell with stanza number
-	table_elems[0][0] = u"\\eddanumberfield{" + unicode(number) + u"}"
+	table_elems[0][0] = u"\\eddastanzanumber{" + unicode(number) + u"}"
 
 	# Add table cells with prelude
 	if 'original_prelude' in block:
@@ -94,7 +94,7 @@ def printStanzaTable(block):
 		# additional space between rows for multiline stanza lines (yeah, sounds bad)
 		# workaround for strange longtable behavior
 			line += u"[\\baselineskip]"
-		elif i < len(table_lines) - 1 and u"\\eddanumberfield" in table_lines[i + 1]:
+		elif i < len(table_lines) - 1 and u"\\eddastanzanumber" in table_lines[i + 1]:
 		# disable page break after prelude
 			line += u"*"
 
