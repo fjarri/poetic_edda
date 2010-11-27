@@ -92,16 +92,21 @@ Vafthruthnismol (20 Nov 2010)
 * Fixed non-matching separators in Hovamol 79, 80, 131 and Voluspo, 12;
 * Added protrusion config for Charis SIL to repository
 
-~~~~~~~~~~~~~~~~~~~~
-Grimnismol (planned)
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+Grimnismol (27 Nov 2010)
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Controlling whitespace from top and bottom of longtable manually;
+* Now controlling whitespace from top and bottom of longtable manually;
 * Introduction: fixed case of letter thorn;
 * Added Grimnismol chapter;
 * Added rendering for prose parts;
-* Added macro for referring to introductory prose of different chapters;
+* Added macro for referring to prose in chapters
 
+~~~~~~~~~~~~~~~~~~~~
+Skirnismol (planned)
+~~~~~~~~~~~~~~~~~~~~
+
+* Add Skirnismol chapter
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
