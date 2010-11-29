@@ -18,6 +18,7 @@ blocks = [x for x in blocks if not re.match(ur'^p\. \d+', x)]
 
 # glue blocks, mark stanzas and comments
 new_blocks = []
+comments = []
 
 def processBlock(b):
 
@@ -83,15 +84,22 @@ for block in blocks:
 					new_blocks[i]['comment'] = obj['text']
 					break
 		elif obj['type'] == 'stanza':
-			for i in xrange(len(new_blocks) - 1, -1, -1):
-				if 'number' in new_blocks[i] and new_blocks[i]['number'] == obj['number']:
-					new_blocks[i]['comment'] = obj['text']
-					break
+			comments.append(obj)
 		else:
-			new_blocks[-1]['comment'] = new_blocks[-1]['comment'] + "\n" + obj['text']
+			comments[-1]['text'] = comments[-1]['text'] + "\n" + obj['text']
 
 	if block.endswith(u']'):
 		comment_area = False
+
+for obj in comments:
+	for block in new_blocks:
+		if 'number' in block and block['number'] == obj['number']:
+			block['comment'] = obj['text']
+			break
+	else:
+		raise Exception(obj)
+
+
 
 def processStanza(t):
 	t = re.sub(ur'"([^"]+)"', ur"``\1''", t)
