@@ -114,7 +114,7 @@ def processComment(t):
 
 	t = re.sub(ur'\s*\[fp\. \d+\]\s*', u' ', t)
 	t = re.sub(ur'"([^"]+)"', ur"``\1''", t)
-	t = re.sub(ur'(\w+)\. ', subfun, t)
+	t = re.sub(ur'([\w\)]+)\. ', subfun, t)
 	return t.split(u'\n')
 
 
