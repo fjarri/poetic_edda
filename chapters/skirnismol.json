@@ -20,5 +20,1060 @@
             "\\eddasepline"
         ],
         "type": "text"
+    },
+    {
+        "comment": [
+            "\\emph{Freyr:} concerning his father, Njorth, and the race of the Wanes in general, cf. \\eddacombinedref{Voluspo}{21} and note.",
+            "Snorri thus describes Njorth's family: ``Njorth begat two children in Noatun; the son was named Freyr, and the daughter Freyja; they were fair of aspect and mighty.",
+            "Freyr is the noblest of the gods; he rules over rain and sunshine, and therewith the fruitfulness of the earth; it is well to call upon him for plenty and welfare, for he rules over wealth for mankind.",
+            "Freyja is the noblest of the goddesses.",
+            "When she rides to the fight, she has one-half of the slain, and Othin has half.",
+            "When she goes on a journey, she drives her two cats, and sits in a cart.",
+            "Love-songs please her well, and it is good to call on her in love-matters.''",
+            "\\emph{Hlithskjolf:} Othin's watch-tower; cf. \\eddachapterref{Grimnismol,} introductory prose.",
+            "\\emph{He said:} both manuscripts have ``Then Skathi said:'' (Skathi was Njorth's wife), but Bugge's emendation, based on Snorri's version, is doubtless correct."
+        ],
+        "translation": [
+            "Freyr, the son of Njorth, had sat one day in Hlithskjolf, and looked over all the worlds.",
+            "He looked into Jotunheim, and saw there a fair maiden, as she went from her father's house to her bower.",
+            "Forthwith he felt a mighty love-sickness.",
+            "Skirnir was the name of Freyr's servant; Njorth bade him ask speech of Freyr.",
+            "He said:"
+        ],
+        "type": "prose",
+        "original": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "My son: both manuscripts, and many editors, have ``our son,'' which, of course, goes with the introduction of Skathi in the prose.",
+            "As the stanza is clearly addressed to Skirnir, the change of pronouns seems justified.",
+            "The same confusion occurs in stanza \\eddastanzaref{2}, where Skirnir in the manuscripts is made to speak of Freyr as ``your son'' (plural).",
+            "The plural pronoun in the original involves a metrical error, which is corrected by the emendation."
+        ],
+        "translation": [
+            "``Go now, Skirnir!{\\sep}and seek to gain",
+            "Speech from my son;",
+            "And answer to win,{\\sep}for whom the wise one",
+            "Is mightily moved.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 1
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 2,
+        "translation": [
+            "``Ill words do I now{\\sep}await from thy son,",
+            "If I seek to get speech with him,",
+            "And answer to win,{\\sep}for whom the wise one",
+            "Is mightily moved.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 3,
+        "translation": [
+            "``Speak prithee, Freyr,{\\sep}foremost of the gods,",
+            "For now I fain would know;",
+            "Why sittest thou here{\\sep}in the wide halls,",
+            "Days long, my prince, alone?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Elfbeam:} the sun, so called because its rays were fatal to elves and dwarfs; cf. \\eddacombinedref{Alvissmol}{35}."
+        ],
+        "translation_prelude": [
+            "Freyr spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 4,
+        "translation": [
+            "``How shall I tell thee,{\\sep}thou hero young,",
+            "Of all my grief so great?",
+            "Though every day{\\sep}the elfbeam dawns,",
+            "It lights my longing never.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 5,
+        "translation": [
+            "``Thy longings, methinks,{\\sep}are not so large",
+            "That thou mayst not tell them to me;",
+            "Since in days of yore{\\sep}we were young together,",
+            "We two might each other trust.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Gymir:} a mountain-giant, husband of Aurbotha, and father of Gerth, fairest among women.",
+            "This is all Snorri tells of him in his paraphrase of the story."
+        ],
+        "translation_prelude": [
+            "Freyr spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 6,
+        "translation": [
+            "``From Gymir's house{\\sep}I beheld go forth",
+            "A maiden dear to me;",
+            "Her arms glittered,{\\sep}and from their gleam",
+            "Shone all the sea and sky."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "Snorri's paraphrase of the poem is sufficiently close so that his addition of another sentence to Freyr's speech makes it probable that a stanza has dropped out between \\eddastanzaref{7} and \\eddastanzaref{8}.",
+            "This has been tentatively reconstructed, thus:",
+            "\\eddainlinestanza{Hither to me{\\\sep}shalt thou bring the maid, \\\\",
+            "And home shalt thou lead her here, \\\\",
+            "If her father wills it{\\sep}or wills it not, \\\\",
+            "And good reward shalt thou get.}",
+            "Finn Magnusen detected the probable omission of a stanza here as early as 1821."
+        ],
+        "translation": [
+            "To me more dear{\\sep}than in days of old",
+            "Was ever maiden to man;",
+            "But no one of gods{\\sep}or elves will grant",
+            "That we both together should be.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 7
+    },
+    {
+        "comment": [
+            "\\emph{The sword:} Freyr's gift of his sword to Skirnir eventually proves fatal, for at the last battle, when Freyr is attacked by Beli, whom he kills bare-handed, and later when the fire-demon, Surt, slays him in turn, he is weaponless; cf. \\eddacombinedref{Voluspo}{53} and note.",
+            "Against the giants grim: the condition of this line makes it seem like an error in copying, and it is possible that it should be identical with the fourth line of the next stanza."
+        ],
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 8,
+        "translation": [
+            "``Then give me the horse{\\sep}that goes through the dark",
+            "And magic flickering flames;",
+            "And the sword as well{\\sep}that fights of itself",
+            "Against the giants grim.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Freyr spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 9,
+        "translation": [
+            "``The horse will I give thee{\\sep}that goes through the dark",
+            "And magic flickering flames,",
+            "And the sword as well{\\sep}that will fight of itself",
+            "If a worthy hero wields it.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "Some editors reject line 3 as spurious."
+        ],
+        "translation_prelude": [
+            "Skirnir spake to the horse:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 10,
+        "translation": [
+            "``Dark is it without,{\\sep}and I deem it time",
+            "To fare through the wild fells,",
+            "(To fare through the giants' fastness;)",
+            "We shall both come back,{\\sep}or us both together",
+            "The terrible giant will take.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Skirnir rode into Jotunheim to Gymir's house.",
+            "There were fierce dogs bound before the gate of the fence which was around Gerth's hall.",
+            "He rode to where a herdsman sat on a hill, and said:"
+        ],
+        "type": "prose",
+        "original": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "``Tell me, herdsman,{\\sep}sitting on the hill,",
+            "And watching all the ways,",
+            "How may I win{\\sep}a word with the maid",
+            "Past the hounds of Gymir here?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 11
+    },
+    {
+        "comment": [
+            "Line 2 is in neither manuscript, and no gap is indicated.",
+            "I have followed Grundtvig's conjectural emendation."
+        ],
+        "translation_prelude": [
+            "The herdsman spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 12,
+        "translation": [
+            "``Art thou doomed to die{\\sep}or already dead,",
+            "Thou horseman that ridest hither?",
+            "Barred from speech{\\sep}shalt thou ever be",
+            "With Gymir's daughter good.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "This stanza is almost exactly like many in the first part of the \\eddachapterref{Hovamol,} and may well have been a separate proverb.",
+            "After this stanza the scene shifts to the interior of the house."
+        ],
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 13,
+        "translation": [
+            "``Boldness is better{\\sep}than plaints can be",
+            "For him whose feet must fare;",
+            "To a destined day has mine age been doomed,",
+            "And my life's span thereto laid.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 14,
+        "translation": [
+            "``What noise is that{\\sep}which now so loud",
+            "I hear within our house?",
+            "The ground shakes,{\\sep}and the home of Gymir",
+            "Around me trembles too.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "No gap indicated in either manuscript.",
+            "Bugge and Niedner have attempted emendations, while Hildebrand suggests that the last two lines of stanza \\eddastanzaref{14} are spurious, \\eddastanzaref{14}, \\eddastanzaref{12}, and \\eddastanzaref{15} thus forming a single stanza, which seems doubtful."
+        ],
+        "translation_prelude": [
+            "The Serving-Maid spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 15,
+        "translation": [
+            "``One stands without{\\sep}who has leapt from his steed,",
+            "And lets his horse loose to graze;''",
+            "\\eddalacuna",
+            "\\eddalacuna"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "\\eddalacuna",
+            "\\eddalacuna"
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Brother's slayer:} perhaps the brother is Beli, slain by Freyr; the only other references are in \\eddacombinedref{Voluspo}{53}, and in Snorri's paraphrase of the \eddachapterref{Skirnismol,} which merely says that Freyr's gift of his sword to Skirnir ``was the reason why he was weaponless when he met Beli, and he killed him bare-handed.''",
+            "Skirnir himself seems never to have killed anybody."
+        ],
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 16,
+        "translation": [
+            "``Bid the man come in,{\\sep}and drink good mead",
+            "Here within our hall;",
+            "Though this I fear,{\\sep}that there without",
+            "My brother's slayer stands."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Wise Wanes:} Cf. \\eddacombinedref{Voluspo}{21} and note."
+        ],
+        "translation": [
+            "Art thou of the elves{\\sep}or the offspring of gods,",
+            "Or of the wise Wanes?",
+            "How camst thou alone{\\sep}through the leaping flame",
+            "Thus to behold our home?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 17
+    },
+    {
+        "comment": [
+            "The \\emph{Arnamagnæan Codex} omits this stanza."
+        ],
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 18,
+        "translation": [
+            "``I am not of the elves,{\\sep}nor the offspring of gods,",
+            "Nor of the wise Wanes;",
+            "Though I came alone{\\sep}through the leaping flame",
+            "Thus to behold thy home."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Apples:} the apple was the symbol of fruitfulness, and also of eternal youth.",
+            "According to Snorri, the goddess Ithun had charge of the apples which the gods ate whenever they felt themselves growing old."
+        ],
+        "translation": [
+            "Eleven apples,{\\sep}all of gold,",
+            "Here will I give thee, Gerth,",
+            "To buy thy troth{\\sep}that Freyr shall be",
+            "Deemed to be dearest to you.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 19
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 20,
+        "translation": [
+            "``I will not take{\\sep}at any man's wish",
+            "These eleven apples ever;",
+            "Nor shall Freyr and I{\\sep}one dwelling find",
+            "So long as we two live.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Ring:} the ring Draupnir (``Dropper'') was made by the dwarfs for Othin, who laid it on Baldr's pyre when the latter's corpse was burned (Cf. \\eddacombinedref{Voluspo}{32} and note, and \\eddachapterref{Baldrs Draumar}).",
+            "Baldr, however, sent the ring back to Othin from hell.",
+            "How Freyr obtained it is nowhere stated.",
+            "Andvari's ring (Andvaranaut) had a similar power of creating gold; cf. \\eddachapterref{Reginsmol,} {\\eddaproseref[prose]{Reginsmol}{prose4}} after stanza \\eddastanzaref{4} and note.",
+            "Lines 3 and 4 of this stanza, and the first two of stanza \\eddastanzaref{22}, are missing in the \\emph{Arnamagnæan Codex.}"
+        ],
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 21,
+        "translation": [
+            "``Then do I bring thee{\\sep}the ring that was burned",
+            "Of old with Othin's son;",
+            "From it do eight{\\sep}of like weight fall",
+            "On every ninth night.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 22,
+        "translation": [
+            "``The ring I wish not,{\\sep}though burned it was",
+            "Of old with Othin's son;",
+            "In Gymir's home{\\sep}is no lack of gold",
+            "In the wealth my father wields.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 23,
+        "translation": [
+            "``Seest thou, maiden,{\\sep}this keen, bright sword",
+            "That I hold here in my hand?",
+            "Thy head from thy neck{\\sep}shall I straightway hew,",
+            "If thou wilt not do my will.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 24,
+        "translation": [
+            "``For no man's sake{\\sep}will I ever suffer",
+            "To be thus moved by might;",
+            "But gladly, methinks,{\\sep}will Gymir seek",
+            "To fight if he finds thee here.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "The first two lines are abbreviated in both manuscripts."
+        ],
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 25,
+        "translation": [
+            "``Seest thou, maiden,{\\sep}this keen, bright sword",
+            "That I hold here in my hand?",
+            "Before its blade the{\\sep}old giant bends,{\\commamdash}",
+            "Thy father is doomed to die."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "With this stanza, bribes and threats having failed, Skirnir begins a curse which, by the power of his magic staff, is to fall on Gerth if she refuses Freyr."
+        ],
+        "translation": [
+            "I strike thee, maid,{\\sep}with my magic staff,",
+            "To tame thee to work my will;",
+            "There shalt thou go{\\sep}where never again",
+            "The sons of men shall see thee."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 26
+    },
+    {
+        "comment": [
+            "\\emph{Eagle's hill:} the hill at the end of heaven, and consequently overlooking hell, where the giant Hræsvelg sits ``in an eagle's guise,'' and makes the winds with his wings; cf. \\eddacombinedref{Vafthruthnismol}{37}, also \\eddacombinedref{Voluspo}{50}.",
+            "The second line is faulty in both manuscripts; Hildebrand's emendation corrects the error, but omits an effective touch; the manuscript line may be rendered ``And look and hanker for hell.''",
+            "The \\emph{Arnamagnæan Codex} breaks off with the fourth line of this stanza."
+        ],
+        "translation": [
+            "On the eagle's hill{\\sep}shalt thou ever sit,",
+            "And gaze on the gates of Hel;",
+            "More loathsome to thee{\\sep}than the light-hued snake",
+            "To men, shall thy meat become."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 27
+    },
+    {
+        "comment": [
+            "\\emph{Hrimnir:} a frost-giant, mentioned elsewhere only in \\eddacombinedref{Hyndluljoth}{33}.",
+            "Line 3 is probably spurious.",
+            "\\emph{Watchman of the gods:} Heimdall; cf. \\eddacombinedref{Voluspo}{46}."
+        ],
+        "translation": [
+            "Fearful to see,{\\sep}if thou comest forth,",
+            "Hrimnir will stand and stare,",
+            "(Men will marvel at thee;)",
+            "More famed shalt thou grow{\\sep}than the watchman of the gods!",
+            "Peer forth, then, from thy prison,"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 28
+    },
+    {
+        "comment": [
+            "Three nouns of doubtful meaning, which I have rendered \\emph{rage,} \\emph{longing,} and \\emph{heart} respectively, make the precise force of this stanza obscure.",
+            "Niedner and Sijmons mark the entire stanza as interpolated, and Jonsson rejects line 5."
+        ],
+        "translation": [
+            "Rage and longing,{\\sep}fetters and wrath,",
+            "Tears and torment are thine;",
+            "Where thou sittest down{\\sep}my doom is on thee",
+            "Of heavy heart",
+            "And double dole."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            ""
+        ],
+        "number": 29
+    },
+    {
+        "comment": [
+            "In \\emph{Regius} and in nearly all the editions the first two lines of this stanza are followed by lines 3{\\ndash}5 of stanza \\eddastanzaref{35}.",
+            "I have followed Niedner, Sijmons, and Gering.",
+            "The two words here translated \\emph{vile things} are obscure; Gering renders the phrase simply ``Kobolde.''"
+        ],
+        "translation": [
+            "In the giants' home{\\sep}shall vile things harm thee",
+            "Each day with evil deeds;",
+            "Grief shalt thou get{\\sep}instead of gladness,",
+            "And sorrow to suffer with tears."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 30
+    },
+    {
+        "comment": [
+            "The confusion noted as to the preceding stanza, and a metrical error in the third line, have led to various rearrangements and emendations; line 3 certainly looks like an interpolation.",
+            "\\emph{Three-headed giants:} concerning giants with numerous heads, cf. \\eddacombinedref{Vafthruthnismol}{33}, and \\eddacombinedref{Hymiskvitha}{8}."
+        ],
+        "translation": [
+            "With three-headed giants{\\sep}thou shalt dwell ever,",
+            "Or never know a husband;",
+            "(Let longing grip thee,{\\sep}let wasting waste thee,{\\commamdash})",
+            "Be like to the thistle{\\sep}that in the loft",
+            "Was cast and there was crushed."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "{\\sep}",
+            ""
+        ],
+        "number": 31
+    },
+    {
+        "comment": [
+            "No gap indicated in the manuscript; Niedner makes the line here given as 4 the first half of line 3, and fills out the stanza thus:",
+            "\\eddainlinestanza{with which I will tame you, \\\\",
+            "Maid, to work my will.}",
+            "The whole stanza seems to be either interpolated or out of place; it would fit better after stanza \\eddastanzaref{25}."
+        ],
+        "translation": [
+            "I go to the wood,{\\sep}and to the wet forest,",
+            "To win a magic wand;",
+            "\\eddalacuna",
+            "I won a magic wand."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            ""
+        ],
+        "number": 32
+    },
+    {
+        "comment": [
+            "Jonsson marks this stanza as interpolated.",
+            "The word translated \\emph{most evil} is another case of guesswork."
+        ],
+        "translation": [
+            "Othin grows angry,{\\sep}angered is the best of the gods,",
+            "Freyr shall be thy foe,",
+            "Most evil maid,{\\sep}who the magic wrath",
+            "Of gods hast got for thyself."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 33
+    },
+    {
+        "comment": [
+            "Most editors reject line 3 as spurious, and some also reject line 6.",
+            "Lines 2 and 3 may have been expanded out of a single line running approximately ``Ye gods and Suttung's sons.''",
+            "\\emph{Suttung:} concerning this giant cf. \\eddacombinedref{Hovamol}{104} and note."
+        ],
+        "translation": [
+            "Give heed, frost-rulers,{\\sep}hear it, giants.",
+            "Sons of Suttung,",
+            "And gods, ye too,",
+            "How I forbid{\\sep}and how I ban",
+            "The meeting of men with the maid,",
+            "(The joy of men with the maid.)"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "",
+            "{\\sep}",
+            "",
+            ""
+        ],
+        "number": 34
+    },
+    {
+        "comment": [
+            "Most editors combine lines 1{\\ndash}2 with stanza \\eddastanzaref{36} (either with the first two lines thereof or the whole stanza), as lines 3{\\ndash}5 stand in the manuscript after line 2 of stanza \\eddastanzaref{30}.",
+            "\\emph{Hrimgrimnir} (``The Frost-Shrouded''): a giant not elsewhere mentioned.",
+            "Line 5, as a repetition of line 4, is probably a later addition."
+        ],
+        "translation": [
+            "Hrimgrimnir is he,{\\sep}the giant who shall have thee",
+            "In the depth by the doors of Hel;",
+            "To the frost-giants' halls{\\sep}each day shalt thou fare,",
+            "Crawling and craving in vain,",
+            "(Crawling and having no hope.)"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            ""
+        ],
+        "number": 35
+    },
+    {
+        "comment": [
+            "For the combination of this stanza with the preceding one, cf. note on stanza \\eddastanzaref{35}.",
+            "The scribe clearly did not consider that the stanza began with line I, as the first word thereof in the manuscript does not begin with a capital letter and has no period before it.",
+            "The first word of line 3, however, is so marked.",
+            "Line 5 may well be spurious."
+        ],
+        "translation": [
+            "Base wretches there{\\sep}by the root of the tree",
+            "Will hold for thee horns of filth;",
+            "A fairer drink{\\sep}shalt thou never find,",
+            "Maid, to meet thy wish,",
+            "(Maid, to meet my wish.)"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            "",
+            ""
+        ],
+        "number": 36
+    },
+    {
+        "comment": [
+            "Again the scribe seems to have been uncertain as to the stanza divisions.",
+            "This time the first line is preceded by a period, but begins with a small letter.",
+            "Many editors have made line 2 into two half-lines.",
+            "\\emph{A charm:} literally, the rune Thurs (þ); the runic letters all had magic attributes; cf. \\eddacombinedrangeref{Sigrdrifumol}{6}{7} and notes."
+        ],
+        "translation": [
+            "I write thee a charm{\\sep}and three runes therewith,",
+            "Longing and madness and lust;",
+            "But what I have writ{\\sep}I may yet unwrite",
+            "If I find a need therefor.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 37
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 38,
+        "translation": [
+            "``Find welcome rather,{\\sep}and with it take",
+            "The frost-cup filled with mead;",
+            "Though I did not believe{\\sep}that I should so love",
+            "Ever one of the Wanes.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation_prelude": [
+            "Skirnir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 39,
+        "translation": [
+            "``My tidings all{\\sep}must I truly learn",
+            "Ere homeward hence I ride:",
+            "How soon thou wilt{\\sep}with the mighty son",
+            "Of Njorth a meeting make.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Barri:} ``The Leafy.''"
+        ],
+        "translation_prelude": [
+            "Gerth spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 40,
+        "translation": [
+            "``Barri there is,{\\sep}which we both know well,",
+            "A forest fair and still;",
+            "And nine nights hence{\\sep}to the son of Njorth",
+            "Will Gerth there grant delight.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Then Skirnir rode home.",
+            "Freyr stood without, and spoke to him, and asked for tidings:"
+        ],
+        "type": "prose",
+        "original": [
+            "",
+            ""
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "``Tell me, Skimir,{\\sep}ere thou take off the saddle,",
+            "Or farest forward a step:",
+            "What hast thou done{\\sep}in the giants' dwelling",
+            "To make glad thee or me?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ],
+        "number": 41
+    },
+    {
+        "comment": [
+            "Abbreviated to initial letters in the manuscript."
+        ],
+        "translation_prelude": [
+            "Skirnir spoke:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 42,
+        "translation": [
+            "``Barri there is,{\\sep}which we both know well,",
+            "A forest fair and still;",
+            "And nine nights hence{\\sep}to the son of Njorth",
+            "Will Gerth there grant delight.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
+    },
+    {
+        "comment": [
+            "The superscription is lacking in \\emph{Regius.}",
+            "Snorri quotes this one stanza in his prose paraphrase, \\emph{Gylfaginning,} chapter 37.",
+            "The two versions are substantially the same, except that Snorri makes the first line read, ``Long is one night, long is the second.''"
+        ],
+        "translation_prelude": [
+            "Freyr spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 43,
+        "translation": [
+            "``Long is one night,{\\sep}longer are two;",
+            "How then shall I bear three?",
+            "Often to me{\\sep}has a month seemed less",
+            "Than now half a night of desire.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}",
+            ""
+        ]
     }
 ]
