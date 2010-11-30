@@ -42,11 +42,11 @@
         ],
         "type": "prose",
         "original": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Freyr sonr Njarþar hafþi einn dag sez i` Hliþskja`lf ok sa` um heima alla;",
+            "hann sa` i` jo~tunheima ok sa` þar mey fagra, þa` er hon gekk fra` ska`la fo~þur si`ns til skemmu.",
+            "Þar af fekk hann hugso`ttir miklar.",
+            "Skirnir he`t sko`sveinn Freys; Njo~rpþr baþ hann kveþja Frey ma`ls.",
+            "\\emph{Hann ma_elti:}"
         ]
     },
     {
@@ -64,10 +64,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Ri`s nu`, Skirnir!{\\sep}ok \\emph{ra`þ} at beiþa",
+            "\\emph{minn} ma`la mo~g,",
+            "ok þess at fregna,{\\sep}hveim enn fro`þi se`",
+            "ofreiþi afi.''"
         ],
         "number": 1
     },
@@ -77,7 +77,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 2,
         "translation": [
@@ -88,10 +88,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Illra orþa{\\sep}erumk o`n at \\emph{þi`num} syni,",
+            "ef gengk at ma_e`la viþ mo~g,",
+            "ok þess at fregna,{\\sep}hveim enn fro`þi se`",
+            "ofreiþi afi.''"
         ]
     },
     {
@@ -100,7 +100,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ"
         ],
         "number": 3,
         "translation": [
@@ -111,10 +111,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Segþu þat, Freyr,{\\sep}folkvaldi goþa!",
+            "auk ek vilja vita:",
+            "hvi` einn sitr{\\sep}endlanga sali,",
+            "minn dro`ttinn! of daga?"
         ]
     },
     {
@@ -125,7 +125,7 @@
             "Freyr spake:"
         ],
         "original_prelude": [
-            ""
+            "Freyr kvaþ:"
         ],
         "number": 4,
         "translation": [
@@ -136,10 +136,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hvi of segjak þe`r,{\\sep}seggr enn ungi!",
+            "mikinn mo`þtrega?",
+            "þvi`t alfro~þull{\\sep}ly`sir of alla daga,",
+            "ok þeygi at mi`num munum.''"
         ]
     },
     {
@@ -148,7 +148,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ"
         ],
         "number": 5,
         "translation": [
@@ -159,10 +159,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Muni þi`na{\\sep}hykkak sva` mikla vesa,",
+            "at me`r, seggr! ne` segir;",
+            "þvi`t ungir saman{\\sep}vo~`rum i` a`rdaga,",
+            "vel ma_e`ttim tveir truask.''"
         ]
     },
     {
@@ -174,7 +174,7 @@
             "Freyr spake:"
         ],
         "original_prelude": [
-            ""
+            "Freyr kvaþ:"
         ],
         "number": 6,
         "translation": [
@@ -185,10 +185,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``I` Gymis go~rþum{\\sep}ek sa` ganga",
+            "me`r ti`þa mey;",
+            "armar ly`stu,{\\sep}en af þaþan",
+            "allt lopt ok lo~gr."
         ]
     },
     {
@@ -198,7 +198,11 @@
             "\\eddainlinestanza{Hither to me{\\\sep}shalt thou bring the maid, \\\\",
             "And home shalt thou lead her here, \\\\",
             "If her father wills it{\\sep}or wills it not, \\\\",
-            "And good reward shalt thou get.}",
+            "And good reward shalt thou get.''}",
+            "\\eddainlinestanza{(Hennar skalt biþja{\\sep}til handa me`r \\\\",
+            "ok hafa heim hinig, \\\\",
+            "hva`rz synjar faþir{\\sep}eþa samþykkir{\\mdash} \\\\",
+            "go`þ skalt laun geta.'')}",
             "Finn Magnusen detected the probable omission of a stanza here as early as 1821."
         ],
         "translation": [
@@ -209,10 +213,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ma_e`r's me`r ti`þari{\\sep}an manni hveim",
+            "ungum i` a`rdaga;",
+            "a`sa ok alfa{\\sep}þat vil engi maþr,",
+            "at vit samt sei::m."
         ],
         "number": 7
     },
@@ -225,7 +229,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 8,
         "translation": [
@@ -236,10 +240,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Mar gef me`r þa`,{\\sep}þanns mik of myrkvan beri",
+            "vi`san vafrloga,",
+            "ok þat sverþ,{\\sep}es sjalft vegisk",
+            "\\eddadagger viþ jo~tna a_e`tt.''"
         ]
     },
     {
@@ -248,7 +252,7 @@
             "Freyr spake:"
         ],
         "original_prelude": [
-            ""
+            "Freyr kvaþ:"
         ],
         "number": 9,
         "translation": [
@@ -259,10 +263,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Mar þe`r þann gefk,{\\sep}es þik of myrkvan berr",
+            "vi`san vafrloga,",
+            "ok þat sverþ,{\\sep}es sjalft mun vegask,",
+            "ef sa`'s horskr es hefr.''"
         ]
     },
     {
@@ -273,7 +277,7 @@
             "Skirnir spake to the horse:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir ma_elti viþ hestinn:"
         ],
         "number": 10,
         "translation": [
@@ -285,11 +289,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            "{\\sep}",
-            ""
+            "``Myrkt es u`ti,{\\sep}ma`l kveþk okkr fara",
+            "u`rig fjo~ll yfir,",
+            "þursa þjo`þ yfir;",
+            "ba`þir vit komumk,{\\sep}eþa okkr ba`þa tekr",
+            "enn a`mo~`tki jo~tunn.''"
         ]
     },
     {
@@ -301,9 +305,9 @@
         ],
         "type": "prose",
         "original": [
-            "",
-            "",
-            ""
+            "Skirnir reiþ i` jo~tunheima til Gymis garþa.",
+            "Þar va`ru hundar o`lmir ok bundnir fyr ski`þsgarþs hliþi þess er um sal Gerþar var.",
+            "Hann reiþ at þar er fe`hirþir sat a` haugi ok kvaddi hann:"
         ]
     },
     {
@@ -316,10 +320,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg þat, hirþir!{\\sep}es þu a` haugi sitr",
+            "ok varþar alla vega:",
+            "hve at andspilli{\\sep}komumk ens unga mans",
+            "greyjum Gymis fyrir?"
         ],
         "number": 11
     },
@@ -332,7 +336,7 @@
             "The herdsman spake:"
         ],
         "original_prelude": [
-            ""
+            "Hirþir kvaþ:"
         ],
         "number": 12,
         "translation": [
@@ -343,10 +347,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hva`rt est feigr{\\sep}eþa estu framgenginn.",
+            "\\emph{maþr a` mars baki?}",
+            "andspillis vanr{\\sep}þu` skalt a_e` vesa",
+            "go`þrar meyjar Gymis.''"
         ]
     },
     {
