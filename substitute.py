@@ -41,16 +41,22 @@ substitutions = [
 	(u"O~", u"Ǫ")
 ]
 
+def substitute(obj):
+	if isinstance(obj, unicode):
+		for fr, to in substitutions:
+			obj = obj.replace(fr, to)
+		return obj
+	elif isinstance(obj, list):
+		return [substitute(x) for x in obj]
+	else:
+		raise Exception("Wrong object: " + repr(obj))
+
 for block in c:
 	if not block['type'] == "stanza pair" and not block['type'] == "prose":
 		continue
 
-	new_lines = []
-	for line in block['original']:
-		for fr, to in substitutions:
-			line = line.replace(fr, to)
-		new_lines.append(line)
-
-	block['original'] = new_lines
+	block['original'] = substitute(block['original'])
+	if 'original_prelude' in block:
+		block['original_prelude'] = substitute(block['original_prelude'])
 
 json.dump(c, codecs.open(output, 'w', 'utf-8'), indent=4, ensure_ascii=False)
