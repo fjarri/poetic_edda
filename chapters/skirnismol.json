@@ -47,7 +47,8 @@
             "Þar af fekk hann hugsōttir miklar.",
             "Skirnir hēt skōsveinn Freys; Njǫrpþr baþ hann kveþja Frey māls.",
             "\\emph{Hann mælti:}"
-        ]
+        ],
+        "label": "introduction"
     },
     {
         "comment": [
@@ -308,7 +309,8 @@
             "Skirnir reiþ ī jǫtunheima til Gymis garþa.",
             "Þar vāru hundar ōlmir ok bundnir fyr skīþsgarþs hliþi þess er um sal Gerþar var.",
             "Hann reiþ at þar er fēhirþir sat ā haugi ok kvaddi hann:"
-        ]
+        ],
+        "label": "prose10"
     },
     {
         "comment": null,
@@ -1009,7 +1011,8 @@
         "original": [
             "Þā reiþ Skirnir heim.",
             "Freyr stōþ ūti ok kvaddi hann ok spurþi tīþinda:"
-        ]
+        ],
+        "label": "prose40"
     },
     {
         "comment": null,
