@@ -52,7 +52,7 @@
     },
     {
         "comment": [
-            "My son: both manuscripts, and many editors, have ``our son,'' which, of course, goes with the introduction of Skathi in the prose.",
+            "\\emph{My son:} both manuscripts, and many editors, have ``our son,'' which, of course, goes with the introduction of Skathi in the prose.",
             "As the stanza is clearly addressed to Skirnir, the change of pronouns seems justified.",
             "The same confusion occurs in stanza \\eddastanzaref{2}, where Skirnir in the manuscripts is made to speak of Freyr as ``your son'' (plural).",
             "The plural pronoun in the original involves a metrical error, which is corrected by the emendation."
@@ -200,10 +200,10 @@
             "And home shalt thou lead her here, \\\\",
             "If her father wills it{\\sep}or wills it not, \\\\",
             "And good reward shalt thou get.''}",
-            "\\eddainlinestanza{(Hennar skalt biþja{\\sep}til handa me`r \\\\",
+            "\\eddainlinestanza{(Hennar skalt biþja{\\sep}til handa mēr \\\\",
             "ok hafa heim hinig, \\\\",
-            "hva`rz synjar faþir{\\sep}eþa samþykkir{\\mdash} \\\\",
-            "go`þ skalt laun geta.'')}",
+            "hvārz synjar faþir{\\sep}eþa samþykkir{\\mdash} \\\\",
+            "gōþ skalt laun geta.'')}",
             "Finn Magnusen detected the probable omission of a stanza here as early as 1821."
         ],
         "translation": [
@@ -244,7 +244,7 @@
             "``Mar gef mēr þā,{\\sep}þanns mik of myrkvan beri",
             "vīsan vafrloga,",
             "ok þat sverþ,{\\sep}es sjalft vegisk",
-            "\\eddadagger viþ jǫtna ǣtt.''"
+            "\\eddadagger\\, viþ jǫtna ǣtt.''"
         ]
     },
     {
@@ -889,7 +889,7 @@
     {
         "comment": [
             "For the combination of this stanza with the preceding one, cf. note on stanza \\eddastanzaref{35}.",
-            "The scribe clearly did not consider that the stanza began with line I, as the first word thereof in the manuscript does not begin with a capital letter and has no period before it.",
+            "The scribe clearly did not consider that the stanza began with line 1, as the first word thereof in the manuscript does not begin with a capital letter and has no period before it.",
             "The first word of line 3, however, is so marked.",
             "Line 5 may well be spurious."
         ],
@@ -1068,7 +1068,7 @@
             "Freyr spake:"
         ],
         "original_prelude": [
-            "Freyr kvaþ"
+            "Freyr kvaþ:"
         ],
         "number": 43,
         "translation": [
