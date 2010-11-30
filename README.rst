@@ -102,11 +102,17 @@ Grimnismol (27 Nov 2010)
 * Added rendering for prose parts;
 * Added macro for referring to prose in chapters
 
-~~~~~~~~~~~~~~~~~~~~
-Skirnismol (planned)
-~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+Skirnismol (30 Nov 2010)
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Skirnismol chapter
+* Added Skirnismol chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Harbarthsljoth (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Harbarthsljoth chapter
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
