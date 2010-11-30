@@ -195,7 +195,7 @@
         "comment": [
             "Snorri's paraphrase of the poem is sufficiently close so that his addition of another sentence to Freyr's speech makes it probable that a stanza has dropped out between \\eddastanzaref{7} and \\eddastanzaref{8}.",
             "This has been tentatively reconstructed, thus:",
-            "\\eddainlinestanza{Hither to me{\\\sep}shalt thou bring the maid, \\\\",
+            "\\eddainlinestanza{Hither to me{\\sep}shalt thou bring the maid, \\\\",
             "And home shalt thou lead her here, \\\\",
             "If her father wills it{\\sep}or wills it not, \\\\",
             "And good reward shalt thou get.''}",
@@ -362,21 +362,21 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 13,
         "translation": [
             "``Boldness is better{\\sep}than plaints can be",
             "For him whose feet must fare;",
-            "To a destined day has mine age been doomed,",
+            "To a destined day{\\sep}has mine age been doomed,",
             "And my life's span thereto laid.''"
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            ""
+            "``Kostir'u betri{\\sep}heldr an at klo/kkva se`",
+            "hveims fu`ss es fara;",
+            "einu do/`gri{\\sep}vo~rumk aldr of skapaþr",
+            "ok allt li`f of lagit.''"
         ]
     },
     {
@@ -385,7 +385,7 @@
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 14,
         "translation": [
@@ -396,10 +396,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Hvat's þat hlymja{\\sep}es ek heyri til",
+            "ossum ro~nnum i`?",
+            "jo~rþ bifask,{\\sep}en allir fyrir",
+            "skjalfa garþar Gymis.''"
         ]
     },
     {
@@ -411,7 +411,7 @@
             "The Serving-Maid spake:"
         ],
         "original_prelude": [
-            ""
+            "Ambo`tt kvaþ:"
         ],
         "number": 15,
         "translation": [
@@ -422,22 +422,22 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
+            "``Maþr's he`r u`ti,{\\sep}stiginn af mars baki,",
+            "jo` la_e`tr til jarþar taka.''",
             "\\eddalacuna",
             "\\eddalacuna"
         ]
     },
     {
         "comment": [
-            "\\emph{Brother's slayer:} perhaps the brother is Beli, slain by Freyr; the only other references are in \\eddacombinedref{Voluspo}{53}, and in Snorri's paraphrase of the \eddachapterref{Skirnismol,} which merely says that Freyr's gift of his sword to Skirnir ``was the reason why he was weaponless when he met Beli, and he killed him bare-handed.''",
+            "\\emph{Brother's slayer:} perhaps the brother is Beli, slain by Freyr; the only other references are in \\eddacombinedref{Voluspo}{53}, and in Snorri's paraphrase of the \\eddachapterref{Skirnismol,} which merely says that Freyr's gift of his sword to Skirnir ``was the reason why he was weaponless when he met Beli, and he killed him bare-handed.''",
             "Skirnir himself seems never to have killed anybody."
         ],
         "translation_prelude": [
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 16,
         "translation": [
@@ -448,10 +448,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "",
-            "",
-            "",
-            ""
+            "``Inn biþ hann ganga{\\sep}i` okkarn sal",
+            "ok drekka enn ma_e`ra mjo~þ;",
+            "þo ek hitt oumk,{\\sep}at he`r u`ti se`",
+            "minn bro`þurbani."
         ]
     },
     {
@@ -466,10 +466,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Hvat's þat alfa{\\sep}ne` a`sa suna",
+            "ne` vi`ssa vana?",
+            "hvi einn of kvamt{\\sep}eikinn fu`r yfir",
+            "o`r salkynni at sea?''"
         ],
         "number": 17
     },
@@ -481,7 +481,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 18,
         "translation": [
@@ -492,10 +492,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Emkak alfa{\\sep}ne` a`sa suna",
+            "ne` vi`ssa vana:",
+            "þo` einn of kvamk{\\sep}eikinn fu`r yfir",
+            "yþur salkynni at sea."
         ]
     },
     {
@@ -511,10 +511,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Epli ellifu{\\sep}he`r hefk algollin,",
+            "þau munk þe`r, Gerþr! gefa,",
+            "friþ at kaupa,{\\sep}at þu þe`r Frey kveþir",
+            "o`leiþastan lifa.''"
         ],
         "number": 19
     },
@@ -524,7 +524,7 @@
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 20,
         "translation": [
@@ -535,10 +535,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Epli ellifu{\\sep}ek þigg aldrigi",
+            "at manns enskis munum;",
+            "ne` vitt Freyr,{\\sep}meþan okkart fjo~r lifir,",
+            "byggum ba_e`þi saman.''"
         ]
     },
     {
@@ -553,7 +553,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 21,
         "translation": [
@@ -564,10 +564,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Baug þe`r þa` gefk{\\sep}þanns brendr vas",
+            "meþ ungum O`þins syni;",
+            "a`tta 'ru jafnho~fgir{\\sep}es af drju`pa",
+            "ena niundu hverju no~`tt.''"
         ]
     },
     {
@@ -576,7 +576,7 @@
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 22,
         "translation": [
@@ -587,10 +587,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Baug ek þikkak,{\\sep}þo`t brendr se`",
+            "meþ ungum O`þins syni;",
+            "i` go~rþum Gymis{\\sep}erumka golls of vant,",
+            "at deila fe` fo~þur.''"
         ]
     },
     {
@@ -599,7 +599,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 23,
         "translation": [
@@ -610,10 +610,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Se`r þu` þenna ma_e`ki, ma_e`r!{\\sep}mjo`van, ma`lfa`n,",
+            "es hefk i` hendi he`r?",
+            "haufuþ ho~ggva{\\sep}munk þe`r halsi af,",
+            "nema me`r sa_e`tt segir.''"
         ]
     },
     {
@@ -622,7 +622,7 @@
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 24,
         "translation": [
@@ -633,10 +633,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``A`nauþ þola{\\sep}viljak aldrigi",
+            "at manns enskis munum;",
+            "þo` hins getk,{\\sep}ef it Gymir finnisk,",
+            "at ykkr ti`þi vega."
         ]
     },
     {
@@ -647,7 +647,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 25,
         "translation": [
@@ -658,10 +658,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Se`r þu` þenna ma_e`ki, ma_e`r!{\\sep}mjo`van, ma`lfa`n,",
+            "es hefk i` hendi he`r?",
+            "fyr þessum eggjum{\\sep}hni`gr sa enn aldni \\emph{þurs,}",
+            "verþr þinn feigr faþir."
         ]
     },
     {
@@ -676,10 +676,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Tamsvendi þik drepk,{\\sep}en ek þik temja mun,",
+            "ma_e`r! at mi`num munum;",
+            "þar skalt ganga,{\\sep}es þik gumna synir",
+            "si`þan a_e`va sea."
         ],
         "number": 26
     },
@@ -697,10 +697,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Ara þu`fu a`{\\sep}skaltu a`r sitja,",
+            "horfa heljar til;",
+            "matr se` þer leiþari{\\sep}an manna hveim",
+            "enn fra`ni ormr meþ firum."
         ],
         "number": 27
     },
@@ -719,11 +719,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            "{\\sep}",
-            ""
+            "At undrsjo`num verþir,{\\sep}es þu` u`t ko/mr,",
+            "a` þik Hrimnir hari,",
+            "{[}a` þik hotvetna stari;{]}",
+            "vi`þkunnari verþir{\\sep}an vo~rþr meþ goþum;",
+            "gapi þu` grindum fra`."
         ],
         "number": 28
     },
@@ -741,11 +741,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "To`pi ok o`pi,{\\sep}tjo~sull ok o~þoli",
+            "vaxi þer to~`r meþ trega;",
+            "sezktu niþr,{\\sep}mun ek segja þe`r",
+            "sva`ran su`sbreka",
+            "auk tvinnan trega."
         ],
         "number": 29
     },
@@ -763,10 +763,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Tramar gneypa{\\sep}þik skulu go/rstan dag",
+            "jo~tna go~rþum i`;",
+            "gra`t at gamni{\\sep}skaltu i` go/gn hafa",
+            "ok leiþa meþ to~`rum trega."
         ],
         "number": 30
     },
@@ -784,11 +784,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "Meþ þursi þri`ho~fþuþum{\\sep}þu` skalt a_e` nara",
+            "eþa verlauss vesa;",
+            "{[}þik geþ gri`þi,{\\sep}þik morn morni!{]}",
+            "ves sem þistill{\\sep}sa`s þrunginn vas",
+            "i` o~nn ofanverþa."
         ],
         "number": 31
     },
@@ -807,10 +807,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            ""
+            "Til holts ek gekk{\\sep}ok til hra`s viþar,",
+            "gambantein at geta:",
+            "\\eddalacuna",
+            "gambantein ek gat."
         ],
         "number": 32
     },
@@ -827,10 +827,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Vreiþr's þe`r O`þinn,{\\sep}vreiþr's þe`r a`sa bragr,",
+            "þik skal Freyr fiask,",
+            "en firinilla ma_e`r!{\\sep}es þu` fengit hefr",
+            "gambanvreiþi goþa."
         ],
         "number": 33
     },
@@ -850,12 +850,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "Heyri hri`mþursar,{\\sep}heyri jo~tnar,",
+            "Suttunga synir,",
+            "{[}sjalfir a`sliþar:{]}",
+            "hve` fyrby`þk,{\\sep}hve` fyrbannak",
+            "manna glaum mani,",
+            "manna nyt mani."
         ],
         "number": 34
     },
@@ -874,11 +874,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "Hri`mgrimnir heitir þurs{\\sep}es þik hafa skal",
+            "fyr na`grindr neþan:",
+            "til hri`mþursa hallar{\\sep}þu` skalt hverjan dag",
+            "kranga kostalaus,",
+            "kranga kostavo~n."
         ],
         "number": 35
     },
@@ -898,11 +898,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "Þar þe`r vi`lmegir{\\sep}a` viþar ro`tum",
+            "geita hland gefi:",
+            "o/`þri drykkju{\\sep}fa` þu` aldrigi,",
+            "ma_e`r! af þi`num munum,",
+            "ma_e`r! at mi`num munum!"
         ],
         "number": 36
     },
@@ -921,10 +921,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "Þurs ri`stk þe`r{\\sep}ok þria stafi:",
+            "ergi ok o/`þi ok o`þola;",
+            "sva` af ri`stk,{\\sep}sem þat a` reistk,",
+            "ef go/rvask þarfar þess.''"
         ],
         "number": 37
     },
@@ -934,7 +934,7 @@
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 38,
         "translation": [
@@ -945,10 +945,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Heill ves heldr, sveinn!{\\sep}ok tak viþ hri`mkalki",
+            "fullum forns mjaþar:",
+            "þo` hafþak a_e`tlat,{\\sep}at myndak aldrigi",
+            "unna vaningja vel.''"
         ]
     },
     {
@@ -957,7 +957,7 @@
             "Skirnir spake:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 39,
         "translation": [
@@ -968,10 +968,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Eyrindi mi`n{\\sep}viljak o~ll vita,",
+            "a`þr ri`þak heim heþan:",
+            "na_e`r þu at þingi{\\sep}munt enum þroska",
+            "nenna Njarþar syni.''"
         ]
     },
     {
@@ -982,7 +982,7 @@
             "Gerth spake:"
         ],
         "original_prelude": [
-            ""
+            "Gerþr kvaþ:"
         ],
         "number": 40,
         "translation": [
@@ -993,10 +993,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Barri heitir,{\\sep}es vit ba_e`þi vitum,",
+            "lundr lognfara:",
+            "en ept na_e`tr niu{\\sep}þar mun Njarþar syni",
+            "Gerþr unna gamans.''"
         ]
     },
     {
@@ -1007,8 +1007,8 @@
         ],
         "type": "prose",
         "original": [
-            "",
-            ""
+            "Þa` reiþ Skirnir heim.",
+            "Freyr sto`þ u`ti ok kvaddi hann ok spurþi ti`þinda:"
         ]
     },
     {
@@ -1021,10 +1021,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Seg mer þat, Skirnir!{\\sep}a`þr verpir so~þli af mar",
+            "ok sti`gir feti framarr:",
+            "hvat þu a`rnaþir{\\sep}i` jo~tunheima",
+            "þi`ns eþa mi`ns munar?''"
         ],
         "number": 41
     },
@@ -1036,7 +1036,7 @@
             "Skirnir spoke:"
         ],
         "original_prelude": [
-            ""
+            "Skirnir kvaþ:"
         ],
         "number": 42,
         "translation": [
@@ -1047,10 +1047,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Barri heitir,{\\sep}es vit ba`þir vitum,",
+            "lundr lognfara:",
+            "en ept na_e`tr niu{\\sep}þar mun Njarþar syni",
+            "Gerþr unna gamans.''"
         ]
     },
     {
@@ -1063,7 +1063,7 @@
             "Freyr spake:"
         ],
         "original_prelude": [
-            ""
+            "Freyr kvaþ"
         ],
         "number": 43,
         "translation": [
@@ -1074,10 +1074,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Lo~ng es no~`tt,{\\sep}langar'u tva_e`r,",
+            "hve` of þreyjak þriar?",
+            "opt me`r mo~`nuþr{\\sep}minni þo`tti",
+            "an sja` hy`no~`tt ho~lf.''"
         ]
     }
 ]
