@@ -48,8 +48,8 @@
         ],
         "type": "prose",
         "original": [
-            "",
-            ""
+            "Þo`rr fo`r o`r austrvegi ok kom at sundi einu; o~þrum megum sundsins var ferjukarlinn meþ skipit.",
+            "Þo`rr kallaþi:"
         ],
         "label": "introduction"
     },
@@ -60,7 +60,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Hverr es sa` sveinn sveina,{\\sep}es stendr fyr sundit handan?''"
         ],
         "number": 1
     },
@@ -72,7 +72,7 @@
             "The ferryman spake:"
         ],
         "original_prelude": [
-            ""
+            "Ferjukarlinn kvaþ:"
         ],
         "number": 2,
         "translation": [
@@ -80,7 +80,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Hverr es sa` karl karla,{\\sep}es kallar of va`ginn?''"
         ]
     },
     {
@@ -91,7 +91,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 3,
         "translation": [
@@ -102,10 +102,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Ferþu mik of sundit!{\\sep}fo/`þik þik a` morgin:",
+            "meis hefk a` baki,{\\sep}verþra matr enn betri.",
+            "A`t ek i` hvi`lþ,{\\sep}a`þr ek heiman fo`r,",
+            "sildr ok hafra:{\\sep}saþr emk enn þess.''"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "The ferryman spake:"
         ],
         "original_prelude": [
-            ""
+            "Ferjukarlinn kvaþ:"
         ],
         "number": 4,
         "translation": [
@@ -125,8 +125,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``A`rligum verkum hro`sar þu` verþinum;{\\sep}veiztattu fyrir go~rla:",
+            "do`pr eru þi`n heimkynni,{\\sep}dauþ hykk at þi`n mo`þir se`.''"
         ]
     },
     {
@@ -137,7 +137,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 5,
         "translation": [
@@ -146,8 +146,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Þat segir þu` nu`,{\\sep}es hverjum þykkir",
+            "mest at vita,{\\sep}at mi`n mo`þir dauþ se`.''"
         ]
     },
     {
@@ -158,7 +158,7 @@
             "The ferryman spake:"
         ],
         "original_prelude": [
-            ""
+            "Ferjukarlinn kvaþ:"
         ],
         "number": 6,
         "translation": [
@@ -168,9 +168,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Þeygi es sem þu`{\\sep}þrju` bu` go`þ eigir:",
+            "berbeinn þu` stendr{\\sep}ok hefr brautinga go/rvi;",
+            "þatki at þu` hafir bro/`kr þi`nar!''"
         ]
     },
     {
@@ -179,7 +179,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 7,
         "translation": [
@@ -188,8 +188,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Sty`rþu hingat eikjunni!{\\sep}ek mun þe`r sto~þna kenna;",
+            "eþa hverr a` skipit{\\sep}es þu` heldr viþ landit?''"
         ]
     },
     {
@@ -198,7 +198,7 @@
             "The ferryman spake:"
         ],
         "original_prelude": [
-            ""
+            "Ferjukarlinn kvaþ:"
         ],
         "number": 8,
         "translation": [
@@ -210,11 +210,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Hildolfr sa` heitir,{\\sep}es mik halda baþ,",
+            "rekkr enn ra`þsvinni,{\\sep}es by`r i` Ra`þseyjarsundi;",
+            "baþat hann hlennimenn flytja{\\sep}eþa hrossa þjo`fa,",
+            "go`þa eina{\\sep}ok þa`s ek go~rva kunna.",
+            "Segþu til nafns þi`ns,{\\sep}ef þu` vill of sundit fara.''"
         ]
     },
     {
@@ -229,7 +229,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 9,
         "translation": [
@@ -241,11 +241,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Segja munk til nafns mi`ns,{\\sep}þo`t ek sekr seak,",
+            "ok til alls o/þlis:{\\sep}ek em O`þins sunr,",
+            "Meila bro`þir,{\\sep}en Magna faþir,",
+            "þru`þvaldr goþa;{\\sep}viþ Þo`r kna`ttu he`r do/`ma.",
+            "Hins viljak nu` spyrja,{\\sep}hvat þu` heitir.''"
         ]
     },
     {
@@ -254,7 +254,7 @@
             "The ferryman spake:"
         ],
         "original_prelude": [
-            ""
+            "Ferjukarlinn kvaþ:"
         ],
         "number": 10,
         "translation": [
@@ -262,7 +262,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Ha`rbarþr ek heiti,{\\sep}hylk of nafn sjaldan.''"
         ]
     },
     {
@@ -271,7 +271,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 11,
         "translation": [
@@ -279,7 +279,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Hvat skaltu of nafn hylja,{\\sep}nema þu` sakar eigir?''"
         ]
     },
     {
@@ -292,7 +292,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 12,
         "translation": [
@@ -302,9 +302,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``En þo`t ek sakar eiga,{\\sep}fyr sli`kum sem þu` est",
+            "munk forþa þo`{\\sep}fjo~rvi mi`nu,",
+            "nema ek feigr se`.''"
         ]
     },
     {
@@ -315,7 +315,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 13,
         "translation": [
@@ -326,10 +326,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Harm ljo`tan{\\sep}\\emph{hykk} me`r i` þvi` \\emph{vesa,}",
+            "at vaþa of va`ginn til þi`n{\\sep}ok va_e`ta o~gur minn;",
+            "skyldak launa ko~gursveini þi`num{\\sep}kanginyrþi,",
+            "ef ek komumk of sundit.''"
         ]
     },
     {
@@ -347,7 +347,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 14,
         "translation": [
@@ -356,8 +356,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``He`r munk standa{\\sep}ok þi`n heþan bi`þa;",
+            "fanntattu mann enn harþara{\\sep}at Hrungni dauþan.''"
         ]
     },
     {
@@ -366,7 +366,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 15,
         "translation": [
@@ -377,10 +377,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Hins vildu nu` geta,{\\sep}es vit Hrungnir deildum,",
+            "sa` enn sto`ru`þgi jo~tunn,{\\sep}es o`r steini vas ho~fuþit a`;",
+            "þo` le`tk hann falla{\\sep}ok fyrir hni`ga.",
+            "Hvat vanntu þa` meþan, Ha`rbarþr?''"
         ]
     },
     {
@@ -392,7 +392,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 16,
         "translation": [
@@ -403,10 +403,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Vask meþ Fjo~lvari{\\sep}fimm vetr alla",
+            "i` eyju þeiri{\\sep}es Algro/`n heitir;",
+            "vega ve`r þar kno~`ttum{\\sep}ok val fella,",
+            "margs at freista,{\\sep}mans at kosta.''"
         ]
     },
     {
@@ -417,7 +417,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 17,
         "translation": [
@@ -425,7 +425,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Hversu snu`nuþu yþr konur yþrar?''"
         ]
     },
     {
@@ -434,7 +434,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 18,
         "translation": [
@@ -449,14 +449,14 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Sparkar o~`ttum ve`r konur,{\\sep}ef oss at spo~kum yrþi;",
+            "horskar o~`ttum ve`r konur,{\\sep}ef oss hollar va_e`ri:",
+            "þa_e`r o`r sandi{\\sep}si`ma undu",
+            "ok grund o`r dali{\\sep}dju`pum gro`fu.",
+            "Varþk þeim einn o~llum{\\sep}o/fri at ro~`þum,",
+            "hvi`ldak hja`{\\sep}þeim systrum sjau",
+            "ok hafþak geþ{\\sep}þeira allt ok gaman.",
+            "Hvat vanntu þa` meþan, Þo`rr?''"
         ]
     },
     {
@@ -476,7 +476,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 19,
         "translation": [
@@ -489,12 +489,12 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "``Ek drap Þjaza,{\\sep}enn þru`þmo`þga jo~tun,",
+            "upp ek varp augum{\\sep}Alvalda sunar",
+            "a` þann enn heiþa himin;",
+            "þau eru merki mest{\\sep}minna verka,",
+            "þaus allir menn si`þan of se`.",
+            "Hvat vanntu meþan, Ha`rbarþr?''"
         ]
     },
     {
@@ -506,7 +506,7 @@
             "Harbarth spoke:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 20,
         "translation": [
@@ -518,11 +518,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "",
-            ""
+            "``Miklar manve`lar{\\sep}ek hafþa viþ myrkriþur,",
+            "þa`s ek ve`lta þa_e`r fra` verum;",
+            "harþan jo~tun{\\sep}hugþak Hle`barþ vesa:",
+            "gaf hann me`r gambantein,",
+            "en ek ve`lta hann o`r viti.''"
         ]
     },
     {
@@ -531,7 +531,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 21,
         "translation": [
@@ -551,7 +551,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 22,
         "translation": [
@@ -574,7 +574,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 23,
         "translation": [
@@ -603,7 +603,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 24,
         "translation": [
@@ -626,7 +626,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 25,
         "translation": [
@@ -654,7 +654,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 26,
         "translation": [
@@ -679,7 +679,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 27,
         "translation": [
@@ -698,7 +698,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 28,
         "translation": [
@@ -720,7 +720,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 29,
         "translation": [
@@ -748,7 +748,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 30,
         "translation": [
@@ -769,7 +769,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 31,
         "translation": [
@@ -786,7 +786,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 32,
         "translation": [
@@ -803,7 +803,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 33,
         "translation": [
@@ -820,7 +820,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 34,
         "translation": [
@@ -839,7 +839,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 35,
         "translation": [
@@ -856,7 +856,7 @@
             "Harbarth spoke:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 36,
         "translation": [
@@ -879,7 +879,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 37,
         "translation": [
@@ -898,7 +898,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 38,
         "translation": [
@@ -917,7 +917,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 39,
         "translation": [
@@ -942,7 +942,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 40,
         "translation": [
@@ -963,7 +963,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 41,
         "translation": [
@@ -983,7 +983,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 42,
         "translation": [
@@ -1002,7 +1002,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 43,
         "translation": [
@@ -1023,7 +1023,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 44,
         "translation": [
@@ -1042,7 +1042,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 45,
         "translation": [
@@ -1061,7 +1061,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 46,
         "translation": [
@@ -1078,7 +1078,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 47,
         "translation": [
@@ -1103,7 +1103,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 48,
         "translation": [
@@ -1122,7 +1122,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 49,
         "translation": [
@@ -1141,7 +1141,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 50,
         "translation": [
@@ -1160,7 +1160,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 51,
         "translation": [
@@ -1180,7 +1180,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 52,
         "translation": [
@@ -1201,7 +1201,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 53,
         "translation": [
@@ -1220,7 +1220,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 54,
         "translation": [
@@ -1237,7 +1237,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 55,
         "translation": [
@@ -1260,7 +1260,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 56,
         "translation": [
@@ -1285,7 +1285,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 57,
         "translation": [
@@ -1304,7 +1304,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 58,
         "translation": [
@@ -1323,7 +1323,7 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 59,
         "translation": [
@@ -1344,7 +1344,7 @@
             "Harbarth spake:"
         ],
         "original_prelude": [
-            ""
+            "Ha`rbarþr kvaþ:"
         ],
         "number": 60,
         "translation": [
