@@ -539,7 +539,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Illum huga launaþir þu` þa` go`þar gjafar.''"
         ]
     },
     {
@@ -561,9 +561,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            ""
+            "``Þat hefr eik{\\sep}es af annarri skefr:",
+            "of sik es hverr i` sli`ku.",
+            "Hvat vanntu meþan, Þo`rr?''"
         ]
     },
     {
@@ -586,11 +586,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Ek vas austr{\\sep}ok jo~tna barþak",
+            "bru`þir bo~lvi`sar{\\sep}es til bjargs gengu:",
+            "mikil mundi a_e`tt jo~tna,{\\sep}ef allir lifþi,",
+            "va_e`tr mundi manna{\\sep}und miþgarþi.",
+            "Hvat vanntu meþan, Ha`rbarþr?''"
         ]
     },
     {
@@ -614,10 +614,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Vask a` Vallandi{\\sep}ok vi`gum fylgþak,",
+            "attak jo~frum,{\\sep}en aldri sa_e`ttak.",
+            "O`þinn a` jarla{\\sep}þa`s i` val falla,",
+            "en Þo`rr a` þra_e`la kyn.''"
         ]
     },
     {
@@ -635,8 +635,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``O`jafnt skipta{\\sep}es þu` mundir meþ o~`sum liþi,",
+            "ef þu` a_e`ttir vilgi mikils vald.''"
         ]
     },
     {
@@ -647,8 +647,8 @@
             "In the morning, however, they discovered that the earthquake had been occasioned by the giant Skrymir's lying down near them, and the noise by his snoring.",
             "The house in which they had taken refuge was his glove, the smaller room being the thumb.",
             "Skrymir was in fact Utgartha-Loki himself.",
-            "That he is in this stanza called Fjalar (the name occurs also in Hovamol, 14) is probably due to a confusion of the names by which Utgartha-Loki went.",
-            "Loki taunts Thor with this adventure in \\eddacombinedref{Lokasenna}{60} and {\\eddachapterref[Lokasenna]{62}}, line 3 of this stanza being perhaps interpolated from \\eddacombinedref{Lokasenna}{60}, 4."
+            "That he is in this stanza called Fjalar (the name occurs also in \\eddacombinedref{Hovamol}{14}) is probably due to a confusion of the names by which Utgartha-Loki went.",
+            "Loki taunts Thor with this adventure in \\eddacombinedref{Lokasenna}{60} and {\\eddastanzaref[Lokasenna]{62}}, line 3 of this stanza being perhaps interpolated from \\eddacombinedref{Lokasenna}{60}, 4."
         ],
         "translation_prelude": [
             "Harbarth spake:"
@@ -666,11 +666,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            "{\\sep}"
+            "``Þo`rr a` afl o/`rit,{\\sep}en etki hjarta:",
+            "af hra_e`zlu ok hugbleyþi{\\sep}vas þe`r i` hanzka troþit",
+            "{[}ok þo`ttiska þu` þa` Þo`rr vesa;{]}",
+            "hva`rki þu` þa` þorþir{\\sep}fyr hra_e`zlu þinni",
+            "fi`sa ne` hnjo`sa,{\\sep}sva`t Fjalarr heyrþi.''"
         ]
     },
     {
@@ -688,8 +688,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``Ha`rbarþr enn ragi!{\\sep}ek munda þik i` hel drepa,",
+            "ef ek ma_e`tta seilask of sund.''"
         ]
     },
     {
@@ -707,8 +707,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``Hvat skyldir þu` of sund seilask,{\\sep}es sakar'u alls o/ngvar?",
+            "Hvat vanntu þa`, Þo`rr?''"
         ]
     },
     {
@@ -732,11 +732,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Ek vas austr{\\sep}ok o~`na varþak,",
+            "þa`s mik so`ttu{\\sep}þeir Sva`rangs synir;",
+            "grjo`ti þeir mik bo~rþu,{\\sep}gagni urþu þeir þo` li`tt fegnir,",
+            "urþu þeir mik fyrri{\\sep}friþar at biþja.",
+            "Hvat vanntu þa` meþan, Ha`rbarþr?''"
         ]
     },
     {
@@ -758,9 +758,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Ek vas austr{\\sep}ok viþ einhverja do/`mþak,",
+            "le`k ek viþ ena li`nhvi`tu{\\sep}ok launþing ha`þak,",
+            "gladdak ena gollbjo~rtu,{\\sep}gamni ma_e`r unþi.''"
         ]
     },
     {
@@ -777,7 +777,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Go`þ o~`ttuþ e`r mankynni þar þa`.''"
         ]
     },
     {
@@ -794,7 +794,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Liþs þi`ns va_e`rak þa` þurfi, Þo`rr!{\\sep}at ek helda þeiri enni li`nhvi`tu mey.''"
         ]
     },
     {
@@ -811,7 +811,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Ek munda þe`r þa` þat veita,{\\sep}ef ek viþr of kva_e`mumk.''"
         ]
     },
     {
@@ -828,7 +828,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Ek munda þe`r þa` trua,{\\sep}nema þu` mik i` trygþ ve`ltir.''"
         ]
     },
     {
@@ -847,7 +847,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Emkat ek sa` ha_e`lbi`tr{\\sep}sem hu`þsko`r forn a` va`r.''"
         ]
     },
     {
@@ -864,7 +864,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Hvat vanntu meþan, Þo`rr?''"
         ]
     },
     {
@@ -888,8 +888,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Bru`þir berserkja{\\sep}barþak i` Hle`seyju,",
+            "þa_e`r ho~fþu verst unnit,{\\sep}vilta þjo`þ alla.''"
         ]
     },
     {
@@ -906,7 +906,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Kla_e`ki vanntu þa`, Þo`rr!{\\sep}es þu` a` konum barþir.''"
         ]
     },
     {
@@ -928,10 +928,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "``Vargynjur vo~`ru þa_e`r,{\\sep}en varla konur;",
+            "skeldu skip mitt{\\sep}es ek skorþat hafþak;",
+            "o/`gþu me`r i::arnlurki,{\\sep}en eltu Þjalfa.",
+            "Hvat vanntu meþan, Ha`rbarþr?''"
         ]
     },
     {
@@ -951,8 +951,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Ek vask i` hernum{\\sep}es hingat go/rþisk",
+            "gna_e`fa gunnfana,{\\sep}geir at rjo`þa.''"
         ]
     },
     {
@@ -971,7 +971,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Þess vildu nu` geta,{\\sep}es þu` fo`rt oss o`lju`fan at bjo`þa.''"
         ]
     },
     {
@@ -992,8 +992,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Bo/`ta skal þe`r þat þa`{\\sep}baugi mundar,",
+            "sem jafnendr unnu{\\sep}þeirs okkr vilja sa_e`tta.''"
         ]
     },
     {
@@ -1011,8 +1011,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Hvar namtu{\\sep}þessi en hno/`filigu orþ,",
+            "es ek heyrþa aldri{\\sep}in hno/`filigri?''"
         ]
     },
     {
@@ -1032,8 +1032,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``Nam ek at mo~nnum{\\sep}þeim enum aldro/`num",
+            "es bua i` heimis haugum.''"
         ]
     },
     {
@@ -1051,8 +1051,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``Þa` gefr þu`{\\sep}gott nafn dysjum,",
+            "es þu` kallar þa_e`r heimis hauga.''"
         ]
     },
     {
@@ -1069,7 +1069,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Sva` do/`mi ek sli`kt far.''"
         ]
     },
     {
@@ -1089,15 +1089,15 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}",
-            ""
+            "``Orþkringi þi`n{\\sep}mun þe`r illa koma,",
+            "ef ek ra_eþ a` va`g at vaþa;",
+            "ulfi ha_e`ra{\\sep}hykk þik o/`pa munu,",
+            "ef þu` hly`tr af hamri ho~gg.''"
         ]
     },
     {
         "comment": [
-            "\\emph{Sit:} Thor's wife, the lover being presumably Loki; cf. \\eddacombinedref{Lokasenna}{54}."
+            "\\emph{Sif:} Thor's wife, the lover being presumably Loki; cf. \\eddacombinedref{Lokasenna}{54}."
         ],
         "translation_prelude": [
             "Harbarth spake:"
@@ -1112,8 +1112,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Sif a` ho`r heima,{\\sep}hans mundu fund vilja,",
+            "þann mundu þrek dry`gja,{\\sep}þat es þe`r skyldara.''"
         ]
     },
     {
@@ -1127,12 +1127,12 @@
         "number": 49,
         "translation": [
             "``Thy tongue still makes thee say{\\sep}what seems most ill to me,",
-            "Thou witless man! Thou liest, I ween.''"
+            "Thou witless man!{\\sep}Thou liest, I ween.''"
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``Ma_e`lir þu` at munns ra`þi,{\\sep}sva`t me`r skyldi verst þykkja,",
+            "halr enn hugblauþi!{\\sep}hykk at þu` lju`gir.''"
         ]
     },
     {
@@ -1150,8 +1150,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Satt hykk mik segja;{\\sep}seinn estu at fo~r þinni;",
+            "langt mundir þu` nu` kominn, Þo`rr!{\\sep}ef þu` liþ of fo/`rir.''"
         ]
     },
     {
@@ -1168,7 +1168,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Ha`rbarþr enn ragi!{\\sep}heldr hefr þu` nu` mik dvalþan.''"
         ]
     },
     {
@@ -1189,8 +1189,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            ""
+            "``A`saþo`ri{\\sep}hugþak aldri mundu",
+            "glepja farhirþi farar.''"
         ]
     },
     {
@@ -1210,8 +1210,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}"
+            "``Ra`þ munk þe`r nu` ra`þa:{\\sep}ro` þu` hingat ba`tinum;",
+            "ha_e`ttum ho/`tingi,{\\sep}hittu fo~þur Magna!''"
         ]
     },
     {
@@ -1228,7 +1228,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}"
+            "``Farþu firr sundi!{\\sep}þe`r skal fars synja.''"
         ]
     },
     {
@@ -1241,11 +1241,11 @@
         ],
         "number": 55,
         "translation": [
-            "``The way now show me, since thou takest me not o'er the water.''"
+            "``The way now show me,{\\sep}since thou takest me not o'er the water.''"
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Vi`sa þu` me`r nu` leiþina,{\\sep}alls þu` vill mik eigi of va`ginn ferja!''"
         ]
     },
     {
@@ -1264,19 +1264,19 @@
         ],
         "number": 56,
         "translation": [
-            "``To refuse it is little, to fare it is long;",
-            "A while to the stock, and a while to the stone;",
-            "Then the road to thy left, till Verland thou reachest;",
-            "And there shall Fjorgyn her son Thor find,",
-            "And the road of her children she shows him to Othin's realm.''"
+            "``To refuse it is little,{\\sep}to fare it is long;",
+            "A while to the stock,{\\sep}and a while to the stone;",
+            "Then the road to thy left,{\\sep}till Verland thou reachest;",
+            "And there shall Fjorgyn{\\sep}her son Thor find,",
+            "And the road of her children{\\sep}she shows him to Othin's realm.''"
         ],
         "type": "stanza pair",
         "original": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "``Li`tit es at synja,{\\sep}langt es at fara:",
+            "stund es til stokksins,{\\sep}o~nnur til steinsins,",
+            "haltu sva` til vinstra vegsins,{\\sep}unz þu` hittir Verland.",
+            "Þar mun Fjo~rgyn{\\sep}hitta Þo`r sun sinn",
+            "ok mun ho`n kenna ho~`num o~`ttunga brautir{\\sep}til O`þins landa.''"
         ]
     },
     {
@@ -1293,7 +1293,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Mun ek taka þangat i` dag?''"
         ]
     },
     {
@@ -1309,12 +1309,12 @@
         "number": 58,
         "translation": [
             "``With toil and trouble perchance,",
-            "While the sun still shines, or so I think.''"
+            "While the sun still shines,{\\sep}or so I think.''"
         ],
         "type": "stanza pair",
         "original": [
-            "",
-            ""
+            "``Taka viþ vi`l ok erfiþi",
+            "at uppvesandi so`lu,{\\sep}es ek get þa`na.''"
         ]
     },
     {
@@ -1327,13 +1327,13 @@
         ],
         "number": 59,
         "translation": [
-            "``Short now shall be our speech, for thou speakest in mockery only;",
-            "The passage thou gavest me not I shall pay thee if ever we meet.''"
+            "``Short now shall be our speech,{\\sep}for thou speakest in mockery only;",
+            "The passage thou gavest me not{\\sep}I shall pay thee if ever we meet.''"
         ],
         "type": "stanza pair",
         "original": [
-            "",
-            ""
+            "``Skamt mun nu` ma`l okkat,{\\sep}alls þu` me`r sko/`tingu einni svarar;",
+            "launa munk þe`r farsynjun,{\\sep}ef vit finnumsk i` sinn annat.''"
         ]
     },
     {
@@ -1352,7 +1352,7 @@
         ],
         "type": "stanza pair",
         "original": [
-            ""
+            "``Farþu nu` þars þik hafi allan gramir!''"
         ]
     }
 ]
