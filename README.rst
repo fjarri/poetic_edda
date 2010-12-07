@@ -108,11 +108,17 @@ Skirnismol (30 Nov 2010)
 
 * Added Skirnismol chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-Harbarthsljoth (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Harbarthsljoth (7 Dec 2010)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Harbarthsljoth chapter
+* Added Harbarthsljoth chapter
+
+~~~~~~~~~~~~~~~~~~~~~
+Hymiskvitha (planned)
+~~~~~~~~~~~~~~~~~~~~~
+
+* Add Hymiskvitha chapter
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
