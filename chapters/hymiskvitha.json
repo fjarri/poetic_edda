@@ -30,5 +30,844 @@
             "\\eddasepline"
         ],
         "type": "text"
+    },
+    {
+        "comment": [
+            "\\emph{Twigs:} Vigfusson comments at some length on ``the rite practised in the heathen age of inquiring into the future by dipping bunches of chips or twigs into the blood (of sacrifices) and shaking them.'' But the two operations may have been separate, the twigs being simply ``divining-rods'' marked with runes.",
+            "In either case, the gods were seeking information by magic as to where they could find plenty to drink.",
+            "\\emph{Ægir:} a giant who is also the god of the sea; little is known of him outside of what is told here and in the introductory prose to the Lokasenna, though Snorri has a brief account of him, giving his home as Hlesey (Läsö, cf. \\eddacombinedref{Harbarthsljoth}{37}).",
+            "\\eddacombinedref{Grimnismol}{45}, has a reference to this same feast."
+        ],
+        "translation": [
+            "Of old the gods{\\sep}made feast together,",
+            "And drink they sought{\\sep}ere sated they were;",
+            "Twigs they shook,{\\sep}and blood they tried:",
+            "Rich fare in Ægir's{\\sep}hall they found."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 1
+    },
+    {
+        "comment": [
+            "\\emph{Mountain-dweller:} the giant (Ægir).",
+            "\\emph{Line 2:} the principal word in the original has defied interpretation, and any translation of the line must be largely guesswork.",
+            "\\emph{Ygg:} Othin; his son is Thor.",
+            "Some editors assume a gap after this stanza."
+        ],
+        "translation": [
+            "The mountain-dweller{\\sep}sat merry as boyhood,",
+            "But soon like a blinded{\\sep}man he seemed;",
+            "The son of Ygg{\\sep}gazed in his eyes:",
+            "``For the gods a feast{\\sep}shalt thou forthwith get.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 2
+    },
+    {
+        "comment": [
+            "\\emph{Word-wielder:} Thor.",
+            "\\emph{The giant:} Ægir.",
+            "\\emph{Sif:} Thor's wife; cf. \\eddacombinedref{Harbarthsljoth}{48}.",
+            "\\emph{The kettle:} Ægir's kettle is possibly the sea itself."
+        ],
+        "translation": [
+            "The word-wielder toil{\\sep}for the giant worked,",
+            "And so revenge{\\sep}on the gods he sought;",
+            "He bade Sif's mate{\\sep}the kettle bring:",
+            "``Therein for ye all{\\sep}much ale shall I brew.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 3
+    },
+    {
+        "comment": [
+            "\\emph{Tyr:} the god of battle; his two great achievements were thrusting his hand into the mouth of the wolf Fenrir so that the gods might bind him, whereby he lost his hand (cf. \\eddacombinedref{Voluspo}{39}, note), and his fight with the hound Garm in the last battle, in which they kill each other.",
+            "\\emph{Hlorrithi:} Thor."
+        ],
+        "translation": [
+            "The far-famed ones{\\sep}could find it not,",
+            "And the holy gods{\\sep}could get it nowhere;",
+            "Till in truthful wise{\\sep}did Tyr speak forth,",
+            "And helpful counsel{\\sep}to Hlorrithi gave."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 4
+    },
+    {
+        "comment": [
+            "\\emph{Elivagar} (``Stormy Waves''): possibly the Milky Way; cf. \\eddacombinedref{Vafthruthnismol}{31}, note.",
+            "\\emph{Hymir:} this giant figures only in this episode.",
+            "It is not clear why Tyr, who is elsewhere spoken of as a son of Othin, should here call Hymir his father.",
+            "Finnur Jonsson, in an attempt to get round this difficulty, deliberately changed the word ``father'' to ``grandfather,'' but this does not help greatly."
+        ],
+        "translation": [
+            "``There dwells to the east{\\sep}of Elivagar",
+            "Hymir the wise{\\sep}at the end of heaven;",
+            "A kettle my father{\\sep}fierce doth own,",
+            "A mighty vessel{\\sep}a mile in depth.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 5
+    },
+    {
+        "comment": [
+            "Neither manuscript has any superscriptions, but most editors have supplied them as above.",
+            "From this point through stanza it the editors have varied considerably in grouping the lines into stanzas.",
+            "The manuscripts indicate the third lines of stanzas \\eddastanzaref{7}, \\eddastanzaref{8}, \\eddastanzaref{9}, and to as beginning stanzas, but this makes more complications than the present arrangement.",
+            "It is possible that, as Sijmons suggests, two lines have been lost after stanza \\eddastanzaref{6}."
+        ],
+        "translation_prelude": [
+            "Thor spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 6,
+        "translation": [
+            "``May we win, dost thou think,{\\sep}this whirler of water?''",
+            "Tyr spake:",
+            "``Aye, friend, we can,{\\sep}if cunning we are.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "",
+            "{\\sep}"
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Egil:} possibly, though by no means certainly, the father of Thor's servant, Thjalfi, for, according to Snorri, Thor's first stop on this journey was at the house of a peasant whose children, Thjalfi and Roskva, he took into his service; cf. stanza \\eddastanzaref{38}, note.",
+            "The \\emph{Arnamagnæan Codex} has ``Ægir'' instead of ``Egil,'' but, aside from the fact that Thor had just left Ægir's house, the sea-god can hardly have been spoken of as a goat-herd."
+        ],
+        "translation": [
+            "Forward that day{\\sep}with speed they fared,",
+            "From Asgarth came they{\\sep}to Egil's home;",
+            "The goats with horns{\\sep}bedecked he guarded;",
+            "Then they sped to the hall{\\sep}where Hymir dwelt."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 7
+    },
+    {
+        "comment": [
+            "\\emph{The youth:} Tyr, whose extraordinary grandmother is Hymir's mother.",
+            "We know nothing further of her, or of the other, who is Hymir's wife and Tyr's mother.",
+            "It may be guessed, however, that she belonged rather to the race of the gods than to that of the giants."
+        ],
+        "translation": [
+            "The youth found his grandam,{\\sep}that greatly he loathed,",
+            "And full nine hundred{\\sep}heads she had;",
+            "But the other fair{\\sep}with gold came forth,",
+            "And the bright-browed one{\\sep}brought beer to her son."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 8
+    },
+    {
+        "comment": null,
+        "translation": [
+            "``Kinsman of giants,{\\sep}beneath the kettle",
+            "Will I set ye both,{\\sep}ye heroes bold;",
+            "For many a time{\\sep}my dear-loved mate",
+            "To guests is wrathful{\\sep}and grim of mind.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 9
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Late to his home{\\sep}the misshapen Hymir,",
+            "The giant harsh,{\\sep}from his hunting came;",
+            "The icicles rattled{\\sep}as in he came,",
+            "For the fellow's chin-forest{\\sep}frozen was."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 10
+    },
+    {
+        "comment": [
+            "Two or three editors give this stanza a superscription (``The concubine spake'', ``The daughter spake'').",
+            "Line 3 is commonly regarded as spurious.",
+            "\\emph{The foeman of Hroth:} of course this means Thor, but nothing is known of any enemy of his by this name.",
+            "Several editors have sought to make a single word meaning ``the famous enemy'' out of the phrase.",
+            "Concerning Thor as the friend of man, particularly of the peasant class, cf. introduction to \\eddachapterref{Harbarthsljoth.}",
+            "\\emph{Veur:} another name, of uncertain meaning, for Thor."
+        ],
+        "translation": [
+            "``Hail to thee, Hymir!{\\sep}good thoughts mayst thou have;",
+            "Here has thy son{\\sep}to thine hall now come;",
+            "(For him have we waited,{\\sep}his way was long;)",
+            "And with him fares{\\sep}the foeman of Hroth,",
+            "The friend of mankind,{\\sep}and Veur they call him."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 11
+    },
+    {
+        "comment": null,
+        "translation": [
+            "See where under{\\sep}the gable they sit!",
+            "Behind the beam{\\sep}do they hide themselves.''",
+            "The beam at the glance{\\sep}of the giant broke,",
+            "And the mighty pillar{\\sep}in pieces fell."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 12
+    },
+    {
+        "comment": [
+            "\\emph{Eight:} the giant's glance, besides breaking the beam, knocks down all the kettles with such violence that all but the one under which Thor and Tyr are hiding are broken."
+        ],
+        "translation": [
+            "Eight fell from the ledge,{\\sep}and one alone,",
+            "The hard-hammered kettle,{\\sep}of all was whole;",
+            "Forth came they then,{\\sep}and his foes he sought,",
+            "The giant old,{\\sep}and held with his eyes."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 13
+    },
+    {
+        "comment": [
+            "Hymir's wrath does not permit him to ignore the duties of a host to his guests, always strongly insisted on."
+        ],
+        "translation": [
+            "Much sorrow his heart{\\sep}foretold when he saw",
+            "The giantess' foeman{\\sep}come forth on the floor;",
+            "Then of the steers{\\sep}did they bring in three;",
+            "Their flesh to boil{\\sep}did the giant bid."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 14
+    },
+    {
+        "comment": [
+            "Thor's appetite figures elsewhere; cf. \\eddacombinedref{Thrymskvitha}{24}."
+        ],
+        "translation": [
+            "By a head was each{\\sep}the shorter hewed,",
+            "And the beasts to the fire{\\sep}straight they bore;",
+            "The husband of Sif,{\\sep}ere to sleep he went,",
+            "Alone two oxen{\\sep}of Hymir's ate."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 15
+    },
+    {
+        "comment": [
+            "\\emph{The comrade of Hrungnir:} Hymir, presumably simply because both are giants; cf. \\eddacombinedref{Harbarthsljoth}{14} and note."
+        ],
+        "translation": [
+            "To the comrade hoary{\\sep}of Hrungnir then",
+            "Did Hlorrithi's meal{\\sep}full mighty seem;",
+            "``Next time at eve{\\sep}we three must eat",
+            "The food we have{\\sep}s the hunting's spoil.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 16
+    },
+    {
+        "comment": [
+            "The manuscripts indicate no lacuna, and many editors unite stanza \\eddastanzaref{17} with lines 1 and 2 of \\eddastanzaref{18}.",
+            "Sijmons and Gering assume a gap after these two lines, but it seems more probable that the missing passage, if any, belonged before them, supplying the connection with the previous stanza."
+        ],
+        "translation": [
+            "\\eddalacuna",
+            "Fain to row on the sea{\\sep}was Veur, he said,",
+            "If the giant bold{\\sep}would give him bait."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "\\eddalacuna",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 17
+    },
+    {
+        "comment": [
+            "The manuscripts have no superscription.",
+            "Many editors combine lines 3 and 4 with lines 1 and 2 of stanza \\eddastanzaref{19}.",
+            "In Snorri's extended paraphrase of the story, Hymir declines to go fishing with Thor on the ground that the latter is too small a person to be worth bothering about.",
+            "``You would freeze,'' he says, ``if you stayed out in mid-ocean as long as I generally do.''",
+            "\\emph{Bait} (line 4): the word literally means ``chaff,'' hence any small bits; Hymir means that Thor should collect dung for bait."
+        ],
+        "translation_prelude": [
+            "Hymir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 18,
+        "translation": [
+            "``Go to the herd,{\\sep}if thou hast it in mind,",
+            "Thou slayer of giants,{\\sep}thy bait to seek;",
+            "For there thou soon{\\sep}mayst find, methinks,",
+            "Bait from the oxen{\\sep}easy to get.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ]
+    },
+    {
+        "comment": [
+            "Many editors combine lines 3 and 4 with stanza \\eddastanzaref{20}.",
+            "\\emph{Fortress,} etc.: the ox's head; cf. {\\hyperref[\\eddachapterlabel]{introductory note}} concerning the diction of this poem.",
+            "Several editors assume a lacuna after stanza \\eddastanzaref{19}, but this seems unnecessary."
+        ],
+        "translation": [
+            "Swift to the wood{\\sep}the hero went,",
+            "Till before him an ox{\\sep}all black he found;",
+            "From the beast the slayer{\\sep}of giants broke",
+            "The fortress high{\\sep}of his double horns."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 19
+    },
+    {
+        "comment": [
+            "The manuscripts have no superscription.",
+            "\\emph{Steerer of ships:} probably merely a reference to Thor's intention to go fishing.",
+            "The lacuna after stanza \\eddastanzaref{20} is assumed by most editors."
+        ],
+        "translation_prelude": [
+            "Hymir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 20,
+        "translation": [
+            "``Thy works, methinks,{\\sep}are worse by far,",
+            "Thou steerer of ships,{\\sep}than when still thou sittest.''",
+            "\\eddalacuna",
+            "\\eddalacuna"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "\\eddalacuna",
+            "\\eddalacuna"
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Lord of the goats:} Thor, because of his goat-drawn chariot.",
+            "\\emph{Ape-begotten:} Hymir; the word ``api,'' rare until relatively late times in its literal sense, is fairly common with the meaning of ``fool.''",
+            "Giants were generally assumed to be stupid.",
+            "\\emph{Steed of the rollers:} a ship, because boats were pulled up on shore by means of rollers."
+        ],
+        "translation": [
+            "The lord of the goats{\\sep}bade the ape-begotten",
+            "Farther to steer{\\sep}the steed of the rollers;",
+            "But the giant said{\\sep}that his will, forsooth,",
+            "Longer to row{\\sep}was little enough."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 21
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Two whales on his hook{\\sep}did the mighty Hymir",
+            "Soon pull up{\\sep}on a single cast;",
+            "In the stern the kinsman{\\sep}of Othin sat,",
+            "And Veur with cunning{\\sep}his cast prepared."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 22
+    },
+    {
+        "comment": [
+            "\\emph{Warder of men:} Thor; cf. stanza \\eddastanzaref{11}.",
+            "\\emph{Worm's destroyer:} likewise Thor, who in the last battle slays, and is slain by, Mithgarthsorm; cf. \\eddacombinedref{Voluspo}{56}.",
+            "\\emph{The foe of the gods:} Mithgarthsorm, who lies in the sea, and surrounds the whole earth."
+        ],
+        "translation": [
+            "The warder of men,{\\sep}the worm's destroyer,",
+            "Fixed on his hook{\\sep}the head of the ox;",
+            "There gaped at the bait{\\sep}the foe of the gods,",
+            "The girdler of all{\\sep}the earth beneath."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 23
+    },
+    {
+        "comment": [
+            "\\emph{Hill of the hair:} head,{\\commamdash}a thoroughly characteristic skaldic phrase.",
+            "\\emph{Brother of Fenrir:} Mithgarthsorm was, like the wolf Fenrir and the goddess Hel, born to Loki and the giantess Angrbotha (cf. \\eddacombinedref{Voluspo}{39} and note), and I have translated this line accordingly; but the word used in the text has been guessed as meaning almost anything from ``comrade'' to ``enemy.''"
+        ],
+        "translation": [
+            "The venomous serpent{\\sep}swiftly up",
+            "To the boat did Thor,{\\sep}the bold one, pull;",
+            "With his hammer the loathly{\\sep}hill of the hair",
+            "Of the brother of Fenrir{\\sep}he smote from above."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 24
+    },
+    {
+        "comment": [
+            "No gap is indicated in the manuscripts, but that a line or more has been lost is highly probable.",
+            "In Snorri's version, Thor pulls so hard on the line that he drives both his feet through the flooring of the boat, and stands on bottom.",
+            "When he pulls the serpent up, Hymir cuts the line with his bait-knife, which explains the serpent's escape.",
+            "Thor, in a rage, knocks Hymir overboard with his hammer, and then wades ashore.",
+            "The lines of stanzas \\eddastanzaref{25} and \\eddastanzaref{26} have been variously grouped."
+        ],
+        "translation": [
+            "The monsters roared,{\\sep}and the rocks resounded,",
+            "And all the earth{\\sep}so old was shaken;",
+            "\\eddalacuna",
+            "Then sank the fish{\\sep}in the sea forthwith."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "\\eddalacuna",
+            "{\\sep}"
+        ],
+        "number": 25
+    },
+    {
+        "comment": [
+            "No gap is indicated in the manuscripts, but line 2 begins with a small letter.",
+            "\\emph{A second wind:} another direction, i. e., he put about for the shore."
+        ],
+        "translation": [
+            "\\eddalacuna",
+            "Joyless as back{\\sep}they rowed was the giant;",
+            "Speechless did Hymir{\\sep}sit at the oars,",
+            "With the rudder he sought{\\sep}a second wind."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "\\eddalacuna",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 26
+    },
+    {
+        "comment": [
+            "No superscription in the manuscripts.",
+            "In its place Bugge supplies a line{\\mdash}``These words spake Hymir,{\\sep}the giant wise.''",
+            "The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza 28.",
+            "\\emph{Goat of the flood:} boat."
+        ],
+        "translation_prelude": [
+            "Hymir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 27,
+        "translation": [
+            "``The half of our toil{\\sep}wilt thou have with me,",
+            "And now make fast{\\sep}our goat of the flood;",
+            "Or home wilt thou bear{\\sep}the whales to the house,",
+            "Across the gorge{\\sep}of the wooded glen?''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ]
+    },
+    {
+        "comment": [
+            "\\emph{Sea-horse:} boat.",
+            "\\emph{Surf-swine:} the whales."
+        ],
+        "translation": [
+            "Hlorrithi stood{\\sep}and the stem he gripped,",
+            "And the sea-horse with water{\\sep}awash he lifted;",
+            "Oars and bailer{\\sep}and all he bore",
+            "With the surf-swine home{\\sep}to the giant's house."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 28
+    },
+    {
+        "comment": [
+            "Snorri says nothing of this episode of Hymir's cup.",
+            "The glass which cannot be broken appears in the folklore of various races."
+        ],
+        "translation": [
+            "His might the giant{\\sep}again would match,",
+            "For stubborn he was,{\\sep}with the strength of Thor;",
+            "None truly strong,{\\sep}though stoutly he rowed,",
+            "Would he call save one{\\sep}who could break the cup."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 29
+    },
+    {
+        "comment": null,
+        "translation": [
+            "Hlorrithi then,{\\sep}when the cup he held,",
+            "Struck with the glass{\\sep}the pillars of stone;",
+            "As he sat the posts{\\sep}in pieces he shattered,",
+            "Yet the glass to Hymir whole they brought."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            ""
+        ],
+        "number": 30
+    },
+    {
+        "comment": [
+            "\\emph{The loved one:} Hymir's wife and Tyr's mother; cf. stanza \\eddastanzaref{8} and note.",
+            "The idea that a giant's skull is harder than stone or anything else is characteristic of the later Norse folk-stories, and in one of the so-called ``mythical sagas'' we find a giant actually named Hard-Skull."
+        ],
+        "translation": [
+            "But the loved one fair{\\sep}of the giant found",
+            "A counsel true,{\\sep}and told her thought:",
+            "``Smite the skull of Hymir,{\\sep}heavy with food,",
+            "For harder it is{\\sep}than ever was glass.''"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 31
+    },
+    {
+        "comment": [
+            "\\emph{Helmet-stem:} head."
+        ],
+        "translation": [
+            "The goats' mighty ruler{\\sep}then rose on his knee,",
+            "And with all the strength{\\sep}of a god he struck;",
+            "Whole was the fellow's{\\sep}helmet-stem,",
+            "But shattered the wine-cup{\\sep}rounded was."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 32
+    },
+    {
+        "comment": [
+            "The manuscripts have no superscription.",
+            "Line 4 in the manuscripts is somewhat obscure, and Bugge, followed by some editors, suggests a reading which may be rendered (beginning with the second half of line 3):",
+            "\\eddainlinestanza{No more can I speak \\\\",
+            "Ever again{\\sep}as I spoke of old.}",
+            "\\eddainlinestanza{(kna`kat ek segja \\\\",
+            "aptr a_e`vagi{\\sep}þvi` er ek a`þr of he`t.)}"
+        ],
+        "translation_prelude": [
+            "Hymir spake:"
+        ],
+        "original_prelude": [
+            ""
+        ],
+        "number": 33,
+        "translation": [
+            "``Fair is the treasure{\\sep}that from me is gone,",
+            "Since now the cup{\\sep}on my knees lies shattered;''",
+            "So spake the giant:{\\sep}\"No more can I say",
+            "In days to be,{\\sep}'Thou art brewed, mine ale.'"
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ]
+    },
+    {
+        "comment": null,
+        "translation": [
+            "``Enough shall it be{\\sep}if out ye can bring",
+            "Forth from our house{\\sep}the kettle here.''",
+            "Tyr then twice{\\sep}to move it tried,",
+            "But before him the kettle{\\sep}twice stood fast."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 34
+    },
+    {
+        "comment": [
+                "\\emph{The father of Mothi and Sif's husband:} Thor."
+        ],
+        "translation": [
+            "The father of Mothi{\\sep}the rim seized firm,",
+            "And before it stood{\\sep}on the floor below;",
+            "Up on his head{\\sep}Sif's husband raised it,",
+            "And about his heels{\\sep}the handles clattered."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 35
+    },
+    {
+        "comment": [
+            "\\emph{The many-headed:} The giants, although rarely designated as a race in this way, sometimes had two or more heads; cf. stanza \\eddastanzaref{8}, \\eddacombinedref{Skirnismol}{31} and \\eddacombinedref{Vafthruthnismol}{33}.",
+            "Hymir's mother is, however, the only many-headed giant actually to appear in the action of the poems, and it is safe to assume that the tradition as a whole belongs to the period of Norse folk-tales of the märchen order."
+        ],
+        "translation": [
+            "Not long had they fared,{\\sep}ere backwards looked",
+            "The son of Othin,{\\sep}once more to see;",
+            "From their caves in the east{\\sep}beheld he coming",
+            "With Hymir the throng{\\sep}of the many-headed."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 36
+    },
+    {
+        "comment": [
+            "No gap is indicated in the manuscripts.",
+            "Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: ``Who with Hymir followed after.''",
+            "\\emph{Whales of the waste:} giants."
+        ],
+        "translation": [
+            "He stood and cast{\\sep}from his back the kettle,",
+            "And Mjollnir, the lover{\\sep}of murder, he wielded;",
+            "\\eddalacuna",
+            "So all the whales{\\sep}of the waste he slew."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "\\eddalacuna",
+            "{\\sep}"
+        ],
+        "number": 37
+    },
+    {
+        "comment": [
+            "According to Snorri, when Thor set out with Loki (not Tyr) for the giants' land, he stopped first at a peasant's house (cf. stanza \\eddastanzaref{7} and note).",
+            "There he proceeded to cook his own goats for supper.",
+            "The peasant's son, Thjalfi, eager to get at the marrow, split one of the leg-bones with his knife.",
+            "The next morning, when Thor was ready to proceed with his journey, he called the goats to life again, but one of them proved irretrievably lame.",
+            "His wrath led the peasant to give him both his children as servants (cf. stanza \\eddastanzaref{39}).",
+            "Snorri does not indicate that Loki was in any way to blame."
+        ],
+        "translation": [
+            "Not long had they fared{\\sep}ere one there lay",
+            "Of Hlorrithi's goats{\\sep}half-dead on the ground;",
+            "In his leg the pole-horse{\\sep}there was lame;",
+            "The deed the evil{\\sep}Loki had done."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 38
+    },
+    {
+        "comment": [
+            "This deliberate introduction of the story-teller is exceedingly rare in the older poetry."
+        ],
+        "translation": [
+            "But ye all have heard,{\\commamdash}{\\sep}for of them who have",
+            "The tales of the gods,{\\sep}who better can tell?",
+            "What prize he won{\\sep}from the wilderness-dweller,",
+            "Who both his children{\\sep}gave him to boot."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 39
+    },
+    {
+        "comment": [
+            "The translation of the last two lines is mostly guess work, as the word rendered ``gods'' is uncertain, and the one rendered ``at the autumn-time'' is quite obscure."
+        ],
+        "translation": [
+            "The mighty one came{\\sep}to the council of gods,",
+            "And the kettle he had{\\sep}that Hymir's was;",
+            "So gladly their ale{\\sep}the gods could drink",
+            "In Ægir's hall{\\sep}at the autumn-time."
+        ],
+        "type": "stanza pair",
+        "original": [
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}",
+            "{\\sep}"
+        ],
+        "number": 40
     }
 ]
