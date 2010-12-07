@@ -2,6 +2,7 @@
     {
         "text": [
             "\\addchap{General Introduction}",
+            "\\label{General Introduction}",
             "",
             "There is scarcely any literary work of great importance which has been less readily available for the general reader, or even for the serious student of literature, than the Poetic Edda.",
             "Translations have been far from numerous, and only in Germany has the complete work of translation been done in the full light of recent scholarship.In English the only versions were long the conspicuously inadequate one made by Thorpe, and published about half a century ago, and the unsatisfactory prose translations in Vigfusson and Powell's \\emph{Corpus Poeticum Boreale,} reprinted in the Norrœna collection.",
