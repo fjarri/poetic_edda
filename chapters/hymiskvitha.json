@@ -150,12 +150,12 @@
             "Thor spake:"
         ],
         "original_prelude": [
-            ""
+            "Þo`rr kvaþ:"
         ],
         "number": 6,
         "translation": [
             "``May we win, dost thou think,{\\sep}this whirler of water?''",
-            "Tyr spake:",
+            "\\eddastanzaprelude{Tyr spake:}",
             "``Aye, friend, we can,{\\sep}if cunning we are.''"
         ],
         "type": "stanza pair",
@@ -389,7 +389,7 @@
             "Hymir spake:"
         ],
         "original_prelude": [
-            ""
+            "Hymir kvaþ:"
         ],
         "number": 18,
         "translation": [
@@ -437,7 +437,7 @@
             "Hymir spake:"
         ],
         "original_prelude": [
-            ""
+            "Hymir kvaþ:"
         ],
         "number": 20,
         "translation": [
@@ -588,7 +588,7 @@
             "Hymir spake:"
         ],
         "original_prelude": [
-            ""
+            "Hymir kvaþ:"
         ],
         "number": 27,
         "translation": [
@@ -714,7 +714,7 @@
             "Hymir spake:"
         ],
         "original_prelude": [
-            ""
+            "Hymir kvaþ:"
         ],
         "number": 33,
         "translation": [
