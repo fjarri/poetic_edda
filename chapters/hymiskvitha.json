@@ -46,10 +46,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "A`r valti`var{\\sep}veiþar no~`mu",
+            "ok sumblsamir,{\\sep}a`þr saþir yrþi,",
+            "hristu teina{\\sep}ok a` hlaut so~u:",
+            "fundu at A_Egis{\\sep}o/rkost hverjan."
         ],
         "number": 1
     },
@@ -68,10 +68,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Sat bergbui{\\sep}barnteitr fyrir",
+            "mjo~k gli`kr megi{\\sep}miskorblinda;",
+            "leit i` augu{\\sep}Yggs barn i` þro~`:",
+            "``Þu` skalt o~`sum{\\sep}opt sumbl go/rva.''"
         ],
         "number": 2
     },
@@ -90,10 +90,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "O~nn fekk jo~tni{\\sep}orþba_e`ginn halr,",
+            "hugþi at hefndum{\\sep}hann na_e`st viþ goþ;",
+            "baþ Sifjar ver{\\sep}se`r fo/`ra hver,",
+            "``þanns o~llum yþr{\\sep}o~l of heitak.''"
         ],
         "number": 3
     },
@@ -110,10 +110,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Ne` þat mo~`ttu{\\sep}ma_e`rir ti`var",
+            "ok ginnregin{\\sep}of geta hvergi,",
+            "unz af trygþum{\\sep}Ty`r Hlo`rriþa",
+            "a`stra`þ mikit{\\sep}einum sagþi:"
         ],
         "number": 4
     },
@@ -132,10 +132,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``By`r fyr austan{\\sep}E`liva`ga",
+            "hundvi`ss Hymir{\\sep}at himins enda:",
+            "a` minn faþir{\\sep}mo`þugr ketil,",
+            "ru`mbrugþinn hver,{\\sep}rastar dju`pan.''"
         ],
         "number": 5
     },
@@ -160,9 +160,9 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "",
-            "{\\sep}"
+            "``Veiztu ef þiggjum{\\sep}þann lo~gvelli?''",
+            "\\eddastanzaprelude{Ty`r kvaþ:}",
+            "``Ef, vinr! ve`lar{\\sep}vit go/rvum til.''"
         ]
     },
     {
@@ -178,10 +178,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Fo`ru drju`gum{\\sep}dag þann framan",
+            "A`sgarþi fra`,{\\sep}unz til Egils kvo~`mu;",
+            "hirþi hafra{\\sep}horngo~fgasta;",
+            "hurfu at ho~llu{\\sep}es Hymir a`tti."
         ],
         "number": 7
     },
@@ -199,10 +199,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Mo~gr fann o~mmu{\\sep}mjo~k leiþa se`r,",
+            "hafþi ho~fþa{\\sep}hundruþ niu;",
+            "en o~nnur gekk{\\sep}algollin fram",
+            "bru`nhvit bera{\\sep}bjo`rveig syni:"
         ],
         "number": 8
     },
@@ -216,10 +216,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``A`ttniþr jo~tna!{\\sep}ek viljak ykkr",
+            "hugfulla tva`{\\sep}und hvera setja:",
+            "es minn fri::i{\\sep}mo~rgu sinni",
+            "glo/ggr viþ gesti,{\\sep}go~rr ills hugar.''"
         ],
         "number": 9
     },
@@ -233,10 +233,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "En va`skapaþr{\\sep}varþ si`þbuinn",
+            "harþra`þr Hymir{\\sep}heim af veiþum:",
+            "gekk inn i` sal,{\\sep}glumþu jo~klar,",
+            "vas karls es kvam{\\sep}kinnsko`gr fro/rinn."
         ],
         "number": 10
     },
