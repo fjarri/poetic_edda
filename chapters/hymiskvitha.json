@@ -20,7 +20,7 @@
             "There is preserved, in the sagas and elsewhere, a very considerable body of lyric poetry, the authorship of each poem being nearly always definitely stated, whether correctly or otherwise.",
             "This type of poetry is marked by an extraordinary complexity of diction, with a peculiarly difficult vocabulary of its own.",
             "It was to explain some of the ``kennings'' which composed this special vocabulary that Snorri wrote one of the sections of the \\emph{Prose Edda.}",
-            "As an illustration, in a single stanza of one poem in the Egilssaga, a sword is called ``the halo of the helm,'' ``the wound-hoe,'' ``the blood-snake'' (possibly; no one is sure what the compound word means) and ``the ice of the girdle,'' while men appear in the same stanza as ``Othin's ash-trees,'' and battle is spoken of as ``the iron game.''",
+            "As an illustration, in a single stanza of one poem in the \\emph{Egilssaga,} a sword is called ``the halo of the helm,'' ``the wound-hoe,'' ``the blood-snake'' (possibly; no one is sure what the compound word means) and ``the ice of the girdle,'' while men appear in the same stanza as ``Othin's ash-trees,'' and battle is spoken of as ``the iron game.''",
             "One of the eight lines has defied translation completely.",
             "",
             "Skaldic diction made relatively few inroads into the earlier Eddic poems, but in the \\eddachapterref{Hymiskvitha} these circumlocutions are fairly numerous.",
@@ -581,7 +581,7 @@
         "comment": [
             "No superscription in the manuscripts.",
             "In its place Bugge supplies a line{\\mdash}``These words spake Hymir,{\\sep}the giant wise.'' (``Þā kvaþ þat Hymir,{\\sep}hundvīss jǫtunn.'')",
-            "The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza 28.",
+            "The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza \\eddastanzaref{28}.",
             "\\emph{Goat of the flood:} boat."
         ],
         "translation_prelude": [
@@ -750,7 +750,7 @@
     },
     {
         "comment": [
-            "\\emph{The father of Mothi and Sif's husband:} Thor."
+            "\\emph{The father of Mothi} and \\emph{Sif's husband:} Thor."
         ],
         "translation": [
             "The father of Mothi{\\sep}the rim seized firm,",
