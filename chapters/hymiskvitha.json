@@ -242,7 +242,7 @@
     },
     {
         "comment": [
-            "Two or three editors give this stanza a superscription (``The concubine spake'', ``The daughter spake'').",
+            "Two or three editors give this stanza a superscription (``The concubine spake''{\\mdash}``Frilla kvaþ'', ``The daughter spake''{\\mdash}``Dōttir kvaþ'').",
             "Line 3 is commonly regarded as spurious.",
             "\\emph{The foeman of Hroth:} of course this means Thor, but nothing is known of any enemy of his by this name.",
             "Several editors have sought to make a single word meaning ``the famous enemy'' out of the phrase.",
@@ -258,11 +258,11 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Ves heill, Hymir!{\\sep}i` hugum go`þum:",
+            "nu`'s sunr kominn{\\sep}til sala þinna",
+            "{[}sa`s vit va_e`ttum{\\sep}af vegi lo~ngum;{]}",
+            "fylgir ho~`num{\\sep}Hro`þrs andskoti,",
+            "vinr verliþa,{\\sep}Ve::urr heitir sa`."
         ],
         "number": 11
     },
@@ -276,10 +276,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Seþu hvar sitja{\\sep}und salar gafli!",
+            "sva` forþa se`r,{\\sep}stendr su`l fyrir.''",
+            "Sundr sto~kk su`la{\\sep}fyr sjo`n jo~tuns,",
+            "en afr i` tvau{\\sep}a`ss brotnaþi."
         ],
         "number": 12
     },
@@ -295,10 +295,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Stukku a`tta,{\\sep}en einn af þeim",
+            "hverr harþsleginn{\\sep}heill, af þolli;",
+            "fram gengu þeir,{\\sep}en forn jo~tunn",
+            "sjo`num leiddi{\\sep}sinn andskota."
         ],
         "number": 13
     },
@@ -314,10 +314,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Sagþit ho~`num{\\sep}hugr vel þa`s sa`",
+            "gy`gjar gro/`ti{\\sep}a` golf kominn;",
+            "þar vo~ru þjo`rar{\\sep}þri`r of teknir,",
+            "baþ senn jo~tunn{\\sep}sjo`þa ganga."
         ],
         "number": 14
     },
@@ -333,10 +333,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Hverjan le`tu{\\sep}ho~fþi skemra",
+            "auk a` seyþi{\\sep}si`þan bo~`ru:",
+            "a`t Sifjar verr,{\\sep}a`þr sofa gengi,",
+            "einn meþ o~llu{\\sep}yxn tva` Hymis."
         ],
         "number": 15
     },
@@ -352,10 +352,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Þo`tti ho~`rum{\\sep}Hrungnis spjalla",
+            "verþr Hlo`rriþa{\\sep}vel fullmikill:",
+            "``Munum at apni{\\sep}o~þrum verþa",
+            "viþ veiþimat{\\sep}ve`r þri`r lifa.''"
         ],
         "number": 16
     },
@@ -372,8 +372,8 @@
         "type": "stanza pair",
         "original": [
             "\\eddalacuna",
-            "{\\sep}",
-            "{\\sep}"
+            "Ve::urr kvazk vilja{\\sep}a` va`g roa,",
+            "ef ballr jo~tunn{\\sep}beitur ga_e`fi."
         ],
         "number": 17
     },
@@ -400,10 +400,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Hverf til hjarþar,{\\sep}ef hug truir,",
+            "brjo`tr bergdana!{\\sep}beitur so/`kja:",
+            "þess va_e`ntir mik,{\\sep}at þe`r myni",
+            "o~gn af oxa{\\sep}auþfeng vesa.''"
         ]
     },
     {
@@ -420,10 +420,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Sveinn sy`sliga{\\sep}sveif til sko`gar,",
+            "þars uxi sto`þ{\\sep}alsvartr fyrir:",
+            "braut af þjo`ri{\\sep}þurs ra`þbani",
+            "ho~`tu`n ofan{\\sep}horna tveggja."
         ],
         "number": 19
     },
@@ -448,8 +448,8 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
+            "``Verk þykkja þi`n{\\sep}verri miklu",
+            "kjo`la valdi,{\\sep}an kyrr sitir.''",
             "\\eddalacuna",
             "\\eddalacuna"
         ]
@@ -469,10 +469,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Baþ hlunngota{\\sep}hafra dro`ttinn",
+            "a`ttrunn apa{\\sep}u`tar fo/`ra;",
+            "en sa` jo~tunn{\\sep}si`na talþi",
+            "litla fy`si{\\sep}lengra at roa."
         ],
         "number": 21
     },
@@ -486,10 +486,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Dro` ma_e`rr Hymir{\\sep}mo`þugr hvali",
+            "einn a` o~ngli{\\sep}upp senn tvaa;",
+            "en aptr i` skut{\\sep}O`þni sifjaþr",
+            "Ve::urr viþ ve`lar{\\sep}vaþ go/rþi se`r."
         ],
         "number": 22
     },
@@ -507,10 +507,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Egndi a` o~ngul{\\sep}sa`s o~ldum bergr",
+            "orms einbani{\\sep}oxa ho~fþi:",
+            "gein viþ agni{\\sep}su`s goþ fia",
+            "umbgjo~rþ neþan{\\sep}allra landa."
         ],
         "number": 23
     },
@@ -527,10 +527,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Dro` djarfliga{\\sep}da`þrakkr Þo`rr",
+            "orm eitrfaan{\\sep}upp at borþi;",
+            "hamri kni`þi{\\sep}ho~`fjall skarar",
+            "ofljo`tt ofan{\\sep}ulfs hnitbro`þur."
         ],
         "number": 24
     },
@@ -550,10 +550,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
+            "Hreingo~lkn hlumþu,{\\sep}en ho~lkn þutu,",
+            "fo`r en forna{\\sep}fold o~ll saman:",
             "\\eddalacuna",
-            "{\\sep}"
+            "so/kþisk si`þan{\\sep}sa` fiskr i` mar."
         ],
         "number": 25
     },
@@ -571,16 +571,16 @@
         "type": "stanza pair",
         "original": [
             "\\eddalacuna",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "o`teitr jo~tunn,{\\sep}es aptr ro/ru:",
+            "sva`t at o~`r Hymir{\\sep}etki ma_e`lti,",
+            "veifþi ro/`þi{\\sep}veþrs annars til."
         ],
         "number": 26
     },
     {
         "comment": [
             "No superscription in the manuscripts.",
-            "In its place Bugge supplies a line{\\mdash}``These words spake Hymir,{\\sep}the giant wise.''",
+            "In its place Bugge supplies a line{\\mdash}``These words spake Hymir,{\\sep}the giant wise.'' (``Þā kvaþ þat Hymir,{\\sep}hundvīss jǫtunn.'')",
             "The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza 28.",
             "\\emph{Goat of the flood:} boat."
         ],
@@ -599,10 +599,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Mundu of vinna{\\sep}verk halft viþ mik,",
+            "at flotbru`sa{\\sep}festir okkarn?",
+            "eþa heim hvali{\\sep}haf til bo/`jar",
+            "ok holtriþa{\\sep}hver i` go/gnum.''"
         ]
     },
     {
@@ -618,10 +618,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Gekk Hlo`rriþi,{\\sep}greip a` stafni,",
+            "vatt meþ austri{\\sep}upp lo~gfa`ki;",
+            "einn meþ o~`rum{\\sep}ok austskotu",
+            "bar til bo/`jar{\\sep}brimsvi`n jo~tuns."
         ],
         "number": 28
     },
@@ -638,10 +638,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Ok enn jo~tunn{\\sep}of afrendi",
+            "þra`girni vanr{\\sep}viþ Þo`r senti:",
+            "kvaþat mann ramman,{\\sep}þo`t roa kynni",
+            "kro~pturligan,{\\sep}nema kalk bryti."
         ],
         "number": 29
     },
@@ -651,14 +651,14 @@
             "Hlorrithi then,{\\sep}when the cup he held,",
             "Struck with the glass{\\sep}the pillars of stone;",
             "As he sat the posts{\\sep}in pieces he shattered,",
-            "Yet the glass to Hymir whole they brought."
+            "Yet the glass to Hymir{\\sep}whole they brought."
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            ""
+            "En Hlo`rriþi,{\\sep}es at ho~ndum kvam,",
+            "bra`tt le`t bresta{\\sep}brattstein gleri;",
+            "slo` sitjandi{\\sep}su`lur i` go/gnum,",
+            "bo~`ro þo` heilan{\\sep}fyr Hymi si`þan."
         ],
         "number": 30
     },
@@ -675,10 +675,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Unz þat en fri`þa{\\sep}frilla kendi",
+            "a`stra`þ mikit{\\sep}eitt es vissi:",
+            "``Drep viþ haus Hymis!{\\sep}hann's harþari",
+            "kostmo`þs jo~tuns{\\sep}kalki hverjum.''"
         ],
         "number": 31
     },
@@ -694,10 +694,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Harþr reis a` kne`{\\sep}hafra dro`ttinn,",
+            "fo/`rþisk allra{\\sep}i` a`smegin:",
+            "heill vas karli{\\sep}hjalmstofn ofan,",
+            "en vi`nferill{\\sep}valr rifnaþi."
         ],
         "number": 32
     },
@@ -707,8 +707,8 @@
             "Line 4 in the manuscripts is somewhat obscure, and Bugge, followed by some editors, suggests a reading which may be rendered (beginning with the second half of line 3):",
             "\\eddainlinestanza{No more can I speak \\\\",
             "Ever again{\\sep}as I spoke of old.}",
-            "\\eddainlinestanza{(kna`kat ek segja \\\\",
-            "aptr a_e`vagi{\\sep}þvi` er ek a`þr of he`t.)}"
+            "\\eddainlinestanza{(knākat ek segja \\\\",
+            "aptr ǣvagi{\\sep}þvī er ek āþr of hēt.)}"
         ],
         "translation_prelude": [
             "Hymir spake:"
@@ -720,15 +720,15 @@
         "translation": [
             "``Fair is the treasure{\\sep}that from me is gone,",
             "Since now the cup{\\sep}on my knees lies shattered;''",
-            "So spake the giant:{\\sep}\"No more can I say",
+            "So spake the giant:{\\sep}``No more can I say",
             "In days to be,{\\sep}'Thou art brewed, mine ale.'"
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "``Mo~rg veitk ma_e`ti{\\sep}me`r gengin fra`,",
+            "es kalki se`k{\\sep}o`r kne::um hrundit;''",
+            "karl orþ of kvaþ:{\\sep}``kna`kak segja",
+            "aptr a_e`vagi:{\\sep}þu`'st, o~lþr! of heitt."
         ]
     },
     {
@@ -741,10 +741,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Þat's til kostar,{\\sep}ef koma ma_e`ttiþ",
+            "u`t o`r o`ru{\\sep}o~lkjo`l hofi.''",
+            "Ty`r leitaþi{\\sep}tysvar hro/`ra,",
+            "sto`þ at hvo~`ru{\\sep}hverr kyrr fyrir."
         ],
         "number": 34
     },
@@ -760,10 +760,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Faþir Mo`þa{\\sep}fekk a` þremi",
+            "ok i` go/gnum ste`{\\sep}golf niþr i` sal;",
+            "ho`fsk a` haufuþ{\\sep}hver Sifjar verr,",
+            "en a` ha_e`lum{\\sep}hringar skullu."
         ],
         "number": 35
     },
@@ -780,17 +780,17 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Fo`rut lengi,{\\sep}a`þr li`ta nam",
+            "aptr O`þins sunr{\\sep}einu sinni:",
+            "sa` o`r hreysum{\\sep}meþ Hymi austan",
+            "folkdro`tt fara{\\sep}fjo~lho~fþaþa."
         ],
         "number": 36
     },
     {
         "comment": [
             "No gap is indicated in the manuscripts.",
-            "Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: ``Who with Hymir followed after.''",
+            "Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: ``Who with Hymir{\\sep}followed after.'' (``er meþ Hymi{\\sep}eptir fōru.'')",
             "\\emph{Whales of the waste:} giants."
         ],
         "translation": [
@@ -801,10 +801,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
+            "Ho`fsk af herþum{\\sep}hver standandi,",
+            "veifþi Mjo~llni{\\sep}morþgjo~rnum fram;",
             "\\eddalacuna",
-            "{\\sep}"
+            "ok hraunhvali{\\sep}hann alla drap."
         ],
         "number": 37
     },
@@ -825,10 +825,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Fo`rut lengi,{\\sep}a`þr liggja nam",
+            "hafr Hlo`rriþa{\\sep}halfdauþr fyrir;",
+            "vas ska_e`r sko~kuls{\\sep}slakkr a` beini:",
+            "þvi enn la_e`vi`si{\\sep}Loki of olli."
         ],
         "number": 38
     },
@@ -844,10 +844,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "En e`r heyrt hafiþ{\\mdash}{\\sep}hverr kann of þat",
+            "goþmo~`lugra{\\sep}go/rr at skilja?{\\mdash}",
+            "hver af hraunbua{\\sep}hann laun of fekk,",
+            "es ba_e`þi galt{\\sep}bo~rn si`n fyrir."
         ],
         "number": 39
     },
@@ -863,10 +863,10 @@
         ],
         "type": "stanza pair",
         "original": [
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}",
-            "{\\sep}"
+            "Þro`tto~flugr kvam{\\sep}a` þing goþa",
+            "ok hafþi hver{\\sep}þanns Hymir a`tti;",
+            "en vear hverjan{\\sep}vel skulu drekka",
+            "o~lþr at A_Egis{\\sep}eitrho~rmeiti."
         ],
         "number": 40
     }
