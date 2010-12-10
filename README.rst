@@ -114,12 +114,17 @@ Harbarthsljoth (7 Dec 2010)
 
 * Added Harbarthsljoth chapter
 
-~~~~~~~~~~~~~~~~~~~~~
-Hymiskvitha (planned)
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Hymiskvitha (11 Dec 2010)
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Hymiskvitha chapter
-* Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
+
+~~~~~~~~~~~~~~~~~~~
+Lokasenna (planned)
+~~~~~~~~~~~~~~~~~~~
+
+* Add Lokasenna chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -132,3 +137,5 @@ Tasks for distant future
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
 * Proofread everything
+* Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
+* Find a way to disable page break befor \eddasepline
