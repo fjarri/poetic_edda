@@ -141,4 +141,4 @@ Tasks for distant future
   know how long the stanza names in other chapters will be).
 * Proofread everything
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
-* Find a way to disable page break befor \eddasepline
+* Find a way to disable page break before \eddasepline
