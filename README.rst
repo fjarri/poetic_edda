@@ -124,6 +124,9 @@ Hymiskvitha (11 Dec 2010)
 Lokasenna (planned)
 ~~~~~~~~~~~~~~~~~~~
 
+* Fix reference in Grimnismol: {\\eddaproseref[introductory note]{Grimnismol}{introduction}}
+  is supposed to point to introductory note, not to an introductory prose
+* Transform data to XML format
 * Add Lokasenna chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
