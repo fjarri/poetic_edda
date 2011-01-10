@@ -114,7 +114,22 @@ def detexifyText(s, chapter):
 	s = re.sub(ur'\\eddastanzaprelude\{([\w :]+)\}',
 		ur'<stanzaprelude>\1</stanzaprelude>', s, flags=re.UNICODE)
 
-	s = re.sub(ur'\\emph\{([\w!,.\-\'() ]+?)([.:;,?]?)\}', ur'<emph>\1</emph>\2', s, flags=re.UNICODE)
+	def emph_parser(mo):
+		contents = mo.group(1)
+		punctuation = mo.group(2)
+
+		if contents in (u'Regius', u'Hauksbok', u'Corpus Poeticum Boreale',
+				u'Poetic Edda', u'Nibelungenlied', u'Uppsalabok', u'Edda', u'Younger Edda',
+				u'Elder Edda', u'Poetic Edda', u'Codex Regius', u'Grougaldr', u'Prose Edda',
+				u'Fjolsvinnsmol', u'Gǫterdämmerung', u'Arnamagnæan Codex', u'Poetic',
+				u'Loddfafnismol', u'Ljothatal', u'Iliad', u'Egilssaga'):
+			s = ur'<source>{name}</source>{punc}'
+		else:
+			s = ur'<emph>{name}</emph>{punc}'
+
+		return s.format(name=contents, punc=punctuation)
+
+	s = re.sub(ur'\\emph\{([\w!,.\-\'() ]+?)([.:;,?]?)\}', emph_parser, s, flags=re.UNICODE)
 
 	s = re.sub(ur'\\eddastanzaref\{(\d+)\}', ur'<stanzaref>\1</stanzaref>', s, flags=re.UNICODE)
 	s = re.sub(ur'\{\\eddastanzaref\[([\w ]+)\]\{(\d+)\}\}', ur'<stanzaref chapter="\1">\2</stanzaref>', s, flags=re.UNICODE)
