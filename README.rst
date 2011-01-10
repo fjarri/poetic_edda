@@ -13,7 +13,7 @@ I will appreciate any proofreading (chapter, part of the chapter, only English o
 there are still lots of typos out there.
 
 This book is built by XeLaTeX, with most of the .tex files produced
-from JSON data in ``chapters`` directory by ``build.py`` script.
+from XML data in ``chapters`` directory by ``build.py`` script.
 This will help if I ever decide to start using ``ledmac`` and ``ledpar`` packages again.
 
 ----------
