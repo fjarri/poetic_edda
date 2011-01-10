@@ -100,8 +100,8 @@ def detexifyText(s, chapter):
 	s = s.replace(u'\\end{tabular}', u'</table>')
 	s = s.replace(u'\\vskip 0.5em', u'')
 
-	s = s.replace(u'{\\eddadagger} ', u'<dagger />')
-	s = s.replace(u'\\eddadagger\\,', u'<dagger />')
+	s = s.replace(u'{\\eddadagger} ', u'<dagger /> ')
+	s = s.replace(u'\\eddadagger\\, ', u'<dagger /> ')
 
 	s = s.replace(u'{\\eddalacuna} \\,', u'<lacuna />')
 	s = s.replace(u'{\\eddalacuna}', u'<lacuna />')
