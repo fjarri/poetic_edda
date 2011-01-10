@@ -127,8 +127,7 @@ def printProseTable(block):
 	# get info from block
 	original = printText(block.find('original')).split(u'\\\\\n')
 	translation = printText(block.find('translation')).split(u'\\\\\n')
-	comment = "\n\n".join([printText(b) for b in block.find('comment')]) \
-		if block.find('comment') is not None else None
+	comment = printText(block.find('comment')) if block.find('comment') is not None else None
 
 	# check that original and translation have same number of lines
 	# (we are using multirow table, which is sensitive to this)
