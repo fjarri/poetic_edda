@@ -18,15 +18,6 @@ def makePretty(elem, depth=0):
 
 	prefix = u"\n" + u"\t" * (depth + 1)
 
-#	if len(elem) > 0 and elem[0].tag in divs:
-#
-#		elem.text = prefix
-#
-#		for child in elem:
-#			makePretty(child, depth + 1)
-#
-#		elem[-1].tail = elem[-1].tail[:-1]
-
 	if len(elem) > 0 or elem.text is not None:
 
 		elem.text = prefix + (elem.text.replace(u"\n", prefix) if elem.text is not None else u"")
@@ -42,12 +33,6 @@ def makePretty(elem, depth=0):
 				if e.tag in divs:
 					makePretty(e, depth + 1)
 					e.tail = (e.tail if e.tail is not None else "") + prefix
-
-
-			#if elem[-1].tail is None:
-			#	elem[-1].tail = prefix[:-1]
-			#else:
-			#	elem[-1].tail += prefix[:-1]
 
 			if elem[-1].tail is None:
 				elem[-1].tail = prefix[:-1]
