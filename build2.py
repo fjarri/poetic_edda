@@ -170,7 +170,7 @@ def movePunctuation(l):
 		if i == len(l):
 			continue
 
-		if tag not in ('emph', 'chapterref'):
+		if tag not in ('emph', 'chapterref', 'source'):
 			continue
 
 		if tag == 'chapterref' and 'chapter' not in attrib:
@@ -219,6 +219,9 @@ def listToTex(l):
 
 		elif tag == 'emph':
 			res.append(u'\\myemph{' + text + u'}')
+
+		elif tag == 'source':
+			res.append(u'\\mysource{' + text + u'}')
 
 		elif tag == 'br':
 			res.append(u'\\\\\n')
