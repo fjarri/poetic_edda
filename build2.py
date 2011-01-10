@@ -200,7 +200,7 @@ def listToTex(l):
 				chapter=attrib['chapter'], text=text))
 
 		elif tag == 'chapterref':
-			res.append(u'\\eddachapterref{{{chapter}}}{{\\emph{{{text}}}}}'.format(
+			res.append(u'\\eddachapterref{{{chapter}}}{{\\textit{{{text}}}}}'.format(
 				chapter=text if 'chapter' not in attrib else attrib['chapter'],	text=text))
 
 		elif tag == 'stanzaref':
@@ -216,10 +216,10 @@ def listToTex(l):
 			))
 
 		elif tag == 'stanzaprelude':
-			res.append(u'\\emph{' + text + u'}')
+			res.append(u'\\eddastanzaprelude{\\textit{' + text + u'}}')
 
 		elif tag == 'emph':
-			res.append(u'\\emph{' + text + u'}')
+			res.append(u'\\myemph{' + text + u'}')
 
 		elif tag == 'br':
 			res.append(u'\\\\\n')
