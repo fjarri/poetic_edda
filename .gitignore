@@ -6,6 +6,7 @@
 *.gz
 *.gz(busy)
 *.toc
+*.tmproj
 build/*
 cover/*
 
