@@ -247,13 +247,14 @@ def transformJSON(c):
 				original_prelude.text = u"\n".join(block['original_prelude'])
 				elem.append(original_prelude)
 
-				translation_prelude = Element('translation_prelude')
-				translation_prelude.text = u"\n".join(block['translation_prelude'])
-				elem.append(translation_prelude)
-
 			original = Element('original')
 			original.text = u" \\\\\n".join(block['original'])
 			elem.append(original)
+
+			if 'original_prelude' in block:
+				translation_prelude = Element('translation_prelude')
+				translation_prelude.text = u"\n".join(block['translation_prelude'])
+				elem.append(translation_prelude)
 
 			translation = Element('translation')
 			translation.text = u" \\\\\n".join(block['translation'])
