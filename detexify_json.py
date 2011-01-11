@@ -43,7 +43,7 @@ def makePretty(elem, depth=0):
 					elem[-1].tail += prefix[:-1]
 
 
-def detexifyText(s, chapter):
+def detexifyText(s, chapter, tag):
 
 	s = s.replace(u' \\\\', u'<br />')
 	s = s.replace(u'{\\sep}', u'<sep />')
@@ -110,7 +110,10 @@ def detexifyText(s, chapter):
 				u'Loddfafnismol', u'Ljothatal', u'Iliad', u'Egilssaga'):
 			s = ur'<source>{name}</source>{punc}'
 		else:
-			s = ur'<emph>{name}</emph>{punc}'
+			if tag in ('original', 'translation'):
+				s = ur'<conj>{name}</conj>{punc}'
+			else:
+				s = ur'<emph>{name}</emph>{punc}'
 
 		return s.format(name=contents, punc=punctuation)
 
@@ -173,7 +176,7 @@ def detexify(elem, chapter):
 		return
 
 	if elem.text is not None:
-		t = detexifyText(elem.text, chapter)
+		t = detexifyText(elem.text, chapter, elem.tag)
 
 		elem.text = t.text
 		for e in t:

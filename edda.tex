@@ -187,6 +187,7 @@
 	\definecolor{proserefcolor}{cmyk}{1,0,0,0}
 	\definecolor{stanzapreludecolor}{cmyk}{1,1,0,0}
 	\definecolor{sourcecolor}{cmyk}{1,0,1,0}
+	\definecolor{conjcolor}{cmyk}{1,0,0,0.5}
 \else
 	\definecolor{emphcolor}{cmyk}{0,0,0,1}
 	\definecolor{chapterrefcolor}{cmyk}{0,0,0,1}
@@ -194,6 +195,7 @@
 	\definecolor{proserefcolor}{cmyk}{0,0,0,1}
 	\definecolor{stanzapreludecolor}{cmyk}{0,0,0,1}
 	\definecolor{sourcecolor}{cmyk}{0,0,0,1}
+	\definecolor{conjcolor}{cmyk}{0,0,0,1}
 \fi
 
 % No spaces in these macros, because TeX considers them to be significant
@@ -209,6 +211,7 @@
 
 \newcommand{\myemph}[1]{\textcolor{emphcolor}{\emph{#1}}}
 \newcommand{\mysource}[1]{\textcolor{sourcecolor}{\emph{#1}}}
+\newcommand{\myconj}[1]{\textcolor{conjcolor}{\emph{#1}}}
 
 % ======================================================================
 % Chapter macro
