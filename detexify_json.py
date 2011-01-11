@@ -99,9 +99,15 @@ def detexifyText(s, chapter, tag):
 	s = re.sub(ur'\\eddastanzaprelude\{([\w :]+)\}',
 		ur'<stanzaprelude>\1</stanzaprelude>', s, flags=re.UNICODE)
 
+	# catch explanations in the beginning of the line
+	if tag == 'comment':
+		s = re.sub(ur'^\\emph\{([\w!,.\-\'() ]+?)([.:;,?]?)\}',
+			ur'<expl>\1</expl>\2', s, flags=re.UNICODE)
+
 	def emph_parser(mo):
-		contents = mo.group(1)
-		punctuation = mo.group(2)
+		sentence_start = (mo.group(1) == u'\n')
+		contents = mo.group(2)
+		punctuation = mo.group(3)
 
 		if contents in (u'Regius', u'Hauksbok', u'Corpus Poeticum Boreale',
 				u'Poetic Edda', u'Nibelungenlied', u'Uppsalabok', u'Edda', u'Younger Edda',
@@ -109,15 +115,16 @@ def detexifyText(s, chapter, tag):
 				u'Fjolsvinnsmol', u'Gǫterdämmerung', u'Arnamagnæan Codex', u'Poetic',
 				u'Loddfafnismol', u'Ljothatal', u'Iliad', u'Egilssaga'):
 			s = ur'<source>{name}</source>{punc}'
+		elif tag in ('original', 'translation'):
+			s = ur'{fold}<conj>{name}</conj>{punc}'
+		elif tag == 'comment' and sentence_start:
+			s = ur'{fold}<expl>{name}</expl>{punc}'
 		else:
-			if tag in ('original', 'translation'):
-				s = ur'<conj>{name}</conj>{punc}'
-			else:
-				s = ur'<emph>{name}</emph>{punc}'
+			s = ur'{fold}<emph>{name}</emph>{punc}'
 
-		return s.format(name=contents, punc=punctuation)
+		return s.format(name=contents, punc=punctuation, fold=mo.group(1))
 
-	s = re.sub(ur'\\emph\{([\w!,.\-\'() ]+?)([.:;,?]?)\}', emph_parser, s, flags=re.UNICODE)
+	s = re.sub(ur'(\n?)\\emph\{([\w!,.\-\'() ]+?)([.:;,?]?)\}', emph_parser, s, flags=re.UNICODE)
 
 	s = re.sub(ur'\\eddastanzaref\{(\d+)\}', ur'<stanzaref>\1</stanzaref>', s, flags=re.UNICODE)
 	s = re.sub(ur'\{\\eddastanzaref\[([\w ]+)\]\{(\d+)\}\}', ur'<stanzaref chapter="\1">\2</stanzaref>', s, flags=re.UNICODE)
