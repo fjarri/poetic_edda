@@ -157,6 +157,9 @@ def detexifyText(s, chapter, tag):
 	s = re.sub(ur'\{\\hyperref\[General Introduction\]\{General Introduction\}\}',
 		ur'<ref chapter="General Introduction">General Introduction</ref>', s, flags=re.UNICODE)
 
+	s = s.replace(u'\\chapterref{Grimnismol}{introductory note}',
+		u'<chapterref chapter="Grimnismol">introductory note</chapterref>')
+
 	if u'\\' in s or u'{' in s:
 		print s
 		raise Exception(s)
