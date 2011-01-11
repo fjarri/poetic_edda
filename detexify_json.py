@@ -300,18 +300,20 @@ def transformJSON(c):
 	tree = ElementTree(element=root)
 	return tree
 
-filenames = os.listdir('chapters')
+if __name__ == '__main__':
 
-for filename in filenames:
-	name, ext = os.path.splitext(filename)
-	if ext != '.json':
-		continue
+	filenames = os.listdir('chapters')
 
-	print
-	print "Processing: " + str(filename)
-	print
+	for filename in filenames:
+		name, ext = os.path.splitext(filename)
+		if ext != '.json':
+			continue
 
-	c = json.load(codecs.open("chapters/" + filename, 'r', 'utf-8'))
-	tree = transformJSON(c)
-	makePretty(tree.getroot())
-	tree.write(open('chapters/' + name + '.xml', mode='wb'), encoding='utf-8')
+		print
+		print "Processing: " + str(filename)
+		print
+
+		c = json.load(codecs.open("chapters/" + filename, 'r', 'utf-8'))
+		tree = transformJSON(c)
+		makePretty(tree.getroot())
+		tree.write(open('chapters/' + name + '.xml', mode='wb'), encoding='utf-8')
