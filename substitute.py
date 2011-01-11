@@ -38,7 +38,12 @@ substitutions = [
 	(u"o~", u"ǫ"),
 
 	(u"O~`", u"Ǭ"),
-	(u"O~", u"Ǫ")
+	(u"O~", u"Ǫ"),
+
+	(u"--", u"\u2013"),
+	(u"---", u"\u2014"),
+	(u"``", u"\u201c"),
+	(u"''", u"\u201d")
 ]
 
 def substitute(obj):
