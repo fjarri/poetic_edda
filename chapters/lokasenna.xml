@@ -1,0 +1,1529 @@
+<chapter english_name="Lokasenna" icelandic_name="Lokasenna" translation="Loki's Wrangling">
+	<block class="text">
+		The <cr>Lokasenna</cr> is found only in <src>Regius</src>, where it follows the <cr>Hymiskvitha</cr>; Snorri quotes four lines of it, grouped together as a single stanza.
+	</block>
+	<block class="text">
+		The poem is one of the most vigorous of the entire collection, and seems to have been preserved in exceptionally good condition.
+		The exchange or contest of insults was dear to the Norse heart, and the <cr>Lokasenna</cr> consists chiefly of Loki's taunt; to the assembled gods and goddesses, and their largely ineffectual attempts to talk back to him.
+		The author was evidently well versed in mythological fore, and the poem is full of references to incidents not elsewhere recorded.
+		As to its date and origin there is the usual dispute, but the latter part of the tenth century and Iceland seem the best guesses.
+	</block>
+	<block class="text">
+		The prose notes are long and of unusual interest.
+		The introductory one links the poem closely to the <cr>Hymiskvitha</cr>, much as the <cr>Reginsmol</cr>, <cr>Fafnismol</cr> and <cr>Sigrdrifumol</cr> are linked together; the others fill in the narrative gaps in the dialogue---very like stage directions,---and provide a conclusion by relating Loki's punishment, which, presumably, is here connected with the wrong incident.
+		It is likely that often when the poem was recited during the two centuries or so before it was committed to writing, the speaker inserted some such explanatory comments, and the compiler of the collection followed this example by adding such explanations as he thought necessary.
+		The <cr>Lokasenna</cr> is certainly much older than the <cr>Hymiskvitha</cr>, the connection between them being purely one of subject-matter; and the twelfth-century compiler evidently knew a good deal less about mythology than the author whose work he was annotating.
+	</block>
+	<block class="sepline" />
+	<block class="stanza pair">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Ægir, who was also called Gymir, had prepared ale for the gods, after he had got the mighty kettle, as now has been told.<br />
+			To this feast came Othin and Frigg, his wife.<br />
+			Thor came not, as he was on a journey in the East.<br />
+			Sif,<br />
+			Thor's wife, was there, and Brag, with Ithun, his wife.<br />
+			Tyr, who had but one hand, was there; the wolf Fenrir had bitten off his other hand when they had bound him.<br />
+			There were Njorth and Skathi his wife, Freyr and Freyja, and Vithar, the son of Othin.<br />
+			Loki was there, and Freyr's<br />
+			servants Byggvir and Beyla.<br />
+			Many were there of the gods and elves.<br />
+			Ægir had two serving-men, Fimafeng and Eldir.<br />
+			Glittering gold they had in place of firelight; the ale came in of itself; and great was the peace.<br />
+			The guests praised much the ability of Ægir's serving-men.<br />
+			Loki might not endure that, and he slew Fimafeng.<br />
+			Then the gods shook their shields and howled at Loki and drove him away to the forest, and thereafter set to drinking again.<br />
+			Loki turned back, and outside he met Eldir.<br />
+			Loki spoke to him:
+		</translation>
+		<comment>
+			Ægir: the sea-god; Snorri gives Hler as another of his names, but he is not elsewhere called Gymir, which is the name of the giant, Gerth's father, in the Skirnismol.
+			On Ægir cf. Grimnismol, 45, and Hymiskvitha, 1.
+			Frigg: though Othin's wife is often mentioned, she plays only a minor part in the Eddic poems; cf. Voluspo, 34, Vafthruthnismol, I, and Grimnismol, introductory prose.
+			Thor: the compiler is apparently a trifle confused as to Thor's movements; the ``Journey in the East'' here mentioned cannot be the one described in the Hymiskvitha, nor yet the one narrated by Snorri, as Loki was with Thor through out that expedition.
+			He probably means no more than that Thor was off killing giants.
+			Sif: concerning Thor's wife the chief incident is that Loki cut off her hair, and, at the command of the wrathful Thor, was compelled to have the dwarfs fashion her a new supply of hair out of gold; cf. Harbarthsljoth, 48.
+			Bragi: the god of poetry; cf. Grimnismol, 44 and note.
+			Ithun: the goddess of youth; cf. note on Skirnismol, 19.
+			Ithun is not mentioned by name in any other of the Eddic poems, but Snorri tells in detail how the giant Thjazi stole her and her apples, explaining the reference in Harbarthsljoth, 19 (q.
+			v.).
+			Tyr: the god of battle; cf. Hymiskvitha, 4, and (concerning his dealings with the wolf Fenrir) Voluspo, 39, note.
+			Njorth: the chief of the Wanes, and father of Freyr and Freyja; cf. (concerning the whole family) Skirnismol, introductory prose and note, also Voluspo, 21 and note.
+			Skathi: Njorth's wife was the daughter of the giant Thjazi; cf. Harbarthsljoth, 19, note, and Grimnismol, 17.
+			Vithar: the silent god, the son of Othin who avenged his father by slaying the wolf Fenrir; cf. Voluspo, 54, Vafthruthnismol, 51, and Grimnismol, 17.
+			Loki: the mischief-making fire-god; in addition to the many references to his career in the Lokasenna, cf. particularly Voluspo, 32 and 35, and notes.
+			Byggvir and Beyla: not mentioned elsewhere in the poems; Freyr's conspicuous servant is Skirnir, hero of the Skirnismol.
+			Fimafeng (``The Swift Handler'') and Eldir (``The Man of the Fire''): mentioned only in connection with this incident.
+			Glittering gold: Ægir's use of gold to light his hall, which was often thought of as under the sea, was responsible for the phrase ``flame of the flood,'' and sundry kindred phrases, meaning ``gold.''
+		</comment>
+	</block>
+	<block class="stanza pair" number="1">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Speak now, Eldir,<sep />for not one step<br />
+			Farther shalt thou fare;<br />
+			What ale-talk here<sep />do they have within,<br />
+			The sons of the glorious gods?''
+		</translation>
+	</block>
+	<block class="stanza pair" number="2">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Of their weapons they talk,<sep />and their might in war,<br />
+			The sons of the glorious gods;<br />
+			From the gods and elves<sep />who are gathered here<br />
+			No friend in words shalt thou find.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="3">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``In shall I go<sep />into Ægir's hall,<br />
+			For the feast I fain would see;<br />
+			Bale and hatred<sep />I bring to the gods,<br />
+			And their mead with venom I mix.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="4">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``If in thou goest<sep />to Ægir's hall,<br />
+			And fain the feast wouldst see,<br />
+			And with slander and spite<sep />wouldst sprinkle the gods,<br />
+			Think well lest they wipe it on thee.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="5">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Bethink thee, Eldir,<sep />if thou and I<br />
+			Shall strive with spiteful speech;<br />
+			Richer I grow<sep />in ready words<br />
+			If thou speakest too much to me.''
+		</translation>
+	</block>
+	<block class="stanza pair">
+		<original />
+		<translation>
+			Then Loki went into the hall, but when they who were there saw who had entered, they were all silent.
+		</translation>
+	</block>
+	<block class="stanza pair" number="6">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			"Thirsty I come<sep />into this thine hall,<br />
+			I, Lopt, from a journey long,<br />
+			To ask of the gods<sep />that one should give<br />
+			Fair mead for a drink to me.
+		</translation>
+		<comment>
+			Lopt: like Lothur (cf. Voluspo, 18) another name for Loki; cf. Hyndluljoth, 43, and Svipdagsmol, 42.
+		</comment>
+	</block>
+	<block class="stanza pair" number="7">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Why sit ye silent,<sep />swollen with pride,<br />
+			Ye gods, and no answer give?<br />
+			At your feast a place<sep />and a seat prepare me,<br />
+			Or bid me forth to fare.''
+		</translation>
+		<comment>
+			in the manuscript this stanza begins with a small letter, and Heinzel unites it with stanza 6.
+		</comment>
+	</block>
+	<block class="stanza pair" number="8">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``A place and a seat<sep />will the gods prepare<br />
+			No more in their midst for thee;<br />
+			For the gods know well<sep />what men they wish<br />
+			To find at their mighty feasts.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="9">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Remember, Othin,<sep />in olden days<br />
+			That we both our blood have mixed;<br />
+			Then didst thou promise<sep />no ale to pour,<br />
+			Unless it were brought for us both.''
+		</translation>
+		<comment>
+			There exists no account of any incident in which Othin and Loki thus swore blood-brotherhood, but they were so often allied in enterprises that the idea is wholly reasonable.
+			The common process of ``mingling blood'' was carried out quite literally, and the promise of -which Loki speaks is characteristic of those which, in the sagas, often accompanied the ceremony; cf. Brot af Sigurtharkvithu, 18 and note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="10">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Stand forth then, Vithar,<sep />and let the wolf's father<br />
+			Find a seat at our feast;<br />
+			Lest evil should Loki<sep />speak aloud<br />
+			Here within Ægir's hall.''
+		</translation>
+		<comment>
+			In stanzas 10-31 the manuscript has nothing to indicate the identity of the several speakers, but these are uniformly clear enough through the context.
+			Vithar: cf. note on introductory prose.
+			The wolf's father: Loki; cf. Voluspo, 39 and note.
+		</comment>
+	</block>
+	<block class="stanza pair">
+		<original />
+		<translation>
+			Then Vithar arose and poured drink for Loki; but before he drank he spoke to the gods:
+		</translation>
+	</block>
+	<block class="stanza pair" number="11">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Hail to you, gods!<sep />ye goddesses, hail!<br />
+			Hail to the holy throng!<br />
+			Save for the god<sep />who yonder sits,<br />
+			Bragi there on the bench.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="12">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``A horse and a sword<sep />from my hoard will I give,<br />
+			And a ring gives Bragi to boot,<br />
+			That hatred thou makst not<sep />among the gods;<br />
+			So rouse not the great ones to wrath.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="13">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``In horses and rings<sep />thou shalt never be rich,<br />
+			Bragi, but both shalt thou lack;<br />
+			Of the gods and elves<sep />here together met<br />
+			Least brave in battle art thou,<br />
+			(And shyest thou art of the shot.)''
+		</translation>
+		<comment>
+			Sijmons makes one line of lines 4-5 by cutting out a part of each; Finnur Jonsson rejects 5 as spurious.
+		</comment>
+	</block>
+	<block class="stanza pair" number="14">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Now were I without<sep />as I am within,<br />
+			And here in Ægir's hall,<br />
+			Thine head would I bear<sep />in mine hands away,<br />
+			And pay thee the price of thy lies.''
+		</translation>
+		<comment>
+			The text of line 4 is somewhat obscure, and has been variously emended, one often adopted suggestion making the line read, ``Little is that for thy lies.''
+		</comment>
+	</block>
+	<block class="stanza pair" number="15">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``In thy seat art thou bold,<sep />not so are thy deeds,<br />
+			Bragi, adorner of benches!<br />
+			Go out and fight<sep />if angered thou feelest,<br />
+			No hero such forethought has.''
+		</translation>
+		<comment>
+			Adorner of benches: this epithet presumably implies that Bragi is not only slothful, but also effeminate, for a very similar word, ``pride of the benches,'' means a bride.
+		</comment>
+	</block>
+	<block class="stanza pair" number="16">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Well, prithee, Bragi,<sep />his kinship weigh,<br />
+			Since chosen as wish-son he was;<br />
+			And speak not to Loki<sep />such words of spite<br />
+			Here within Ægir's hall.''
+		</translation>
+		<comment>
+			Ithun: Bragi's wife; cf. note on introductory prose.
+			The goddesses who, finding that their husbands are getting the worst of it, take up the cudgels with Loki, all find themselves confronted with undeniable facts in their own careers; cf. stanzas 26 (Frigg), 52 (Skathi) and 54 (Sif).
+			Gefjun and Freyja are silenced in similar fashion.
+			Wish-son: adopted son; Loki was the son of the giant Farbauti and the giantess Laufey, and hence was not of the race of the gods, but had been virtually adopted by Othin, who subsequently had good reason to regret it.
+		</comment>
+	</block>
+	<block class="stanza pair" number="17">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Ithun!<sep />thou art, I say,<br />
+			Of women most lustful in love,<br />
+			Since thou thy washed-bright<sep />arms didst wind<br />
+			About thy brother's slayer.''
+		</translation>
+		<comment>
+			We do not even know who Ithun's brother was, much less who slew him.
+		</comment>
+	</block>
+	<block class="stanza pair" number="18">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``To Loki I speak not<sep />with spiteful words<br />
+			Here within Ægir's hall;<br />
+			And Bragi I calm,<sep />who is hot with beer,<br />
+			For I wish not that fierce they should fight.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="19">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Why, ye gods twain,<sep />with bitter tongues<br />
+			Raise hate among us here?<br />
+			Loki is famed<sep />for his mockery foul,<br />
+			And the dwellers in heaven he hates.''
+		</translation>
+		<comment>
+			Gefjun: a goddess, not elsewhere mentioned in the poems, who, according to Snorri, was served by the women who died maidens.
+			Beyond this nothing is known of her.
+			Lines 3-4 in the manuscript are puzzling, and have been freely emended.
+		</comment>
+	</block>
+	<block class="stanza pair" number="20">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Gefjun!<sep />for now shall I say<br />
+			Who led thee to evil life;<br />
+			The boy so fair<sep />gave a necklace bright,<br />
+			And about him thy leg was laid.''
+		</translation>
+		<comment>
+			Nothing is known of the incident here mentioned.
+			There is a good deal of confusion as to various of the gods and goddesses, and it has been suggested that Gefjun is really Frigg under an other name, with a little of Freyja--whose attributes were frequently confused with Frigg's--thrown in.
+			Certainly Othin's answer (stanza 21, lines 3-4) fits Frigg perfectly, for she shared his knowledge of the future, whereas it has no relation to any thing known of Gefjun.
+			As for the necklace (line 3), it may be the Brisings' necklace, which appears in the Thrymskvitha as Freyja's, but which, in some mythological writings, is assigned to Frigg.
+		</comment>
+	</block>
+	<block class="stanza pair" number="21">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Mad art thou, Loki,<sep />and little of wit,<br />
+			The wrath of Gefjun to rouse;<br />
+			For the fate that is set<sep />for all she sees,<br />
+			Even as I, methinks.''
+		</translation>
+		<comment>
+			Snorri quotes line 1; cf. note on stanza 29.
+		</comment>
+	</block>
+	<block class="stanza pair" number="22">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Othin!<sep />not justly thou settest<br />
+			The fate of the fight among men;<br />
+			Oft gavst thou to him<sep />who deserved not the gift,<br />
+			To the baser, the battle's prize.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="23">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<br />
+			<br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Though I gave to him<sep />who deserved not the gift,<br />
+			To the baser, the battle's prize;<br />
+			Winters eight<sep />wast thou under the earth,<br />
+			Milking the cows as a maid,<br />
+			(Ay, and babes didst thou bear;<br />
+			Unmanly thy soul must seem.)''
+		</translation>
+		<comment>
+			There is no other reference to Loki's having spent eight years underground, or to his cow-milking.
+			On one occasion, however, he did bear offspring.
+			A giant had undertaken to build the gods a fortress, his reward being Freyja and the sun and moon, provided the work was done by a given time.
+			His sole helper was his horse, Svathilfari.
+			The work being nearly done, and the gods fearing to lose Freyja and the sun and moon, Loki turned himself into a mare, and so effectually distracted Svathilfari from his task that shortly afterwards Loki gave birth to Othin's eight-legged horse, Sleipnir.
+			In such contests of abuse a man was not infrequently taunted with having borne children; cf. Helgakvitha Hundingsbana I, 39-45.
+			One or two of the last three lines may be spurious.
+		</comment>
+	</block>
+	<block class="stanza pair" number="24">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``They say that with spells<sep />in Samsey once<br />
+			Like witches with charms didst thou work;<br />
+			And in witch's guise<sep />among men didst thou go;<br />
+			Unmanly thy soul must seem.''
+		</translation>
+		<comment>
+			Samsey: perhaps the Danish island of Samsö. Othin was the god of magic, but there is no other reference to his ever having disguised himself as a witch.
+		</comment>
+	</block>
+	<block class="stanza pair" number="25">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Of the deeds ye two<sep />of old have done<br />
+			Ye should make no speech among men;<br />
+			Whate'er ye have done<sep />in days gone by,<br />
+			Old tales should ne'er be told.''
+		</translation>
+		<comment>
+			Frigg: Othin's wife; cf. note to introductory prose.
+		</comment>
+	</block>
+	<block class="stanza pair" number="26">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Frigg!<sep />thou art Fjorgyn's wife,<br />
+			But ever lustful in love;<br />
+			For Vili and Ve,<sep />thou wife of Vithrir,<br />
+			Both in thy bosom have lain.''
+		</translation>
+		<comment>
+			Fjorgyn: Othin; cf. Voluspo, 56 and note.
+			Vili and Ve: Othin's brothers, who appear merely as, with Othin, the sons of Bur and Bestla; cf. Voluspo, 4.
+			The Ynglingasaga says that, during one of Othin's protracted absences, his two brothers took Frigg as their mistress.
+			Vithrir: another name for Othin.
+		</comment>
+	</block>
+	<block class="stanza pair" number="27">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``If a son like Baldr<sep />were by me now,<br />
+			Here within Ægir's hall,<br />
+			From the sons of the gods<sep />thou shouldst go not forth<br />
+			Till thy fierceness in fight were tried.''
+		</translation>
+		<comment>
+			On the death of Baldr, slain through Loki's cunning by the blind Hoth, cf. Voluspo, 32 and note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="28">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Thou wilt then, Frigg,<sep />that further I tell<br />
+			Of the ill that now I know;<br />
+			Mine is the blame<sep />that Baldr no more<br />
+			Thou seest ride home to the hall.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="29">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Mad art thou, Loki,<sep />that known thou makest<br />
+			The wrong and shame thou hast wrought;<br />
+			The fate of all<sep />does Frigg know well,<br />
+			Though herself she says it not.''
+		</translation>
+		<comment>
+			Freyja: daughter of Njorth and sister of Freyr; cf. note on introductory prose.
+			Snorri, in speaking of Frigg's knowledge of the future, makes a stanza out of Lokasenna, 21, 1; 47, 2; 29, 3-4, thus: ``Mad art thou, Loki, | and little of wit, / Why, Loki, leavst thou this not? / The fate of all | does Frigg know well, / Though herself she says it not.''
+		</comment>
+	</block>
+	<block class="stanza pair" number="30">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Freyja!<sep />for fully I know thee,<br />
+			Sinless thou art not thyself;<br />
+			Of the gods and elves<sep />who are gathered here,<br />
+			Each one as thy lover has lain.''
+		</translation>
+		<comment>
+			According to Snorri, Freyja was a model of fidelity to her husband, Oth.
+		</comment>
+	</block>
+	<block class="stanza pair" number="31">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``False is thy tongue,<sep />and soon shalt thou find<br />
+			That it sings thee an evil song;<br />
+			The gods are wroth,<sep />and the goddesses all,<br />
+			And in grief shalt thou homeward go.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="32">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Freyja!<sep />thou foulest witch,<br />
+			And steeped full sore in sin;<br />
+			In the arms of thy brother<sep />the bright gods caught thee<br />
+			When Freyja her wind set free.''
+		</translation>
+		<comment>
+			Before each of stanzas 32-42 the manuscript indicates the speaker, through the initial letter of the name written in the margin.
+			Thy brother: Freyr; there is no other indication that such a relation existed between these two, but they themselves were the product of such a union; cf. stanza 36 and note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="33">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Small ill does it work<sep />though a woman may have<br />
+			A lord or a lover or both;<br />
+			But a wonder it is<sep />that this womanish god<br />
+			Comes hither, though babes he has borne.''
+		</translation>
+		<comment>
+			Njorth: father of Freyr and Freyja, and given by the Wanes as a hostage, in exchange for Hönir, at the close of the first war; Cf. Voluspo, 21 and note, also Skirnismol, introductory prose and note.
+			Babes: cf. stanza 23 and note.
+			Bugge suggests that this clause may have been a late insertion.
+		</comment>
+	</block>
+	<block class="stanza pair" number="34">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Njorth;<sep />thou wast eastward sent,<br />
+			To the gods as a hostage given;<br />
+			And the daughters of Hymir<sep />their privy had<br />
+			When use did they make of thy mouth.''
+		</translation>
+		<comment>
+			Daughters of Hymir: we have no clue to who these were, though Hymir is doubtless the frost-giant of the Hymiskvitha (q.v.).
+			Loki's point is that Njorth is not a god, but the product of an inferior race (the Wanes).
+		</comment>
+	</block>
+	<block class="stanza pair" number="35">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Great was my gain,<sep />though long was I gone,<br />
+			To the gods as a hostage given;<br />
+			The son did I have<sep />whom no man hates,<br />
+			And foremost of gods is found.''
+		</translation>
+		<comment>
+			The son: Freyr.
+		</comment>
+	</block>
+	<block class="stanza pair" number="36">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Give heed now, Njorth,<sep />nor boast too high,<br />
+			No longer I hold it hid;<br />
+			With thy sister hadst thou<sep />so fair a son,<br />
+			Thus hadst thou no worse a hope.''
+		</translation>
+		<comment>
+			Thy sister: the Ynglingasaga supports this story of Njorth's having had two children by his sister before he came among the gods.
+			Snorri, on the other hand, specifically says that Freyr and Freyja were born after Njorth came to the gods.
+		</comment>
+	</block>
+	<block class="stanza pair" number="37">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Of the heroes brave<sep />is Freyr the best<br />
+			Here in the home of the gods;<br />
+			He harms not maids<sep />nor the wives of men,<br />
+			And the bound from their fetters he frees.''
+		</translation>
+		<comment>
+			Tyr: the god of battle; cf. notes on Hymiskvitha, 4, and Voluspo, 39.
+			Freyr; concerning his noble qualities cf. Skirnismol, introductory prose and note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="38">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Tyr!<sep />for between two men<br />
+			Friendship thou ne'er couldst fashion;<br />
+			Fain would I tell<sep />how Fenrir once<br />
+			Thy right hand rent from thee.''
+		</translation>
+		<comment>
+			Snorri mentions Tyr's incompetence as a peacemaker.
+			Fenrir: the wolf, Loki's son; cf. Voluspo, 39.
+		</comment>
+	</block>
+	<block class="stanza pair" number="39">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``My hand do I lack,<sep />but Hrothvitnir thou,<br />
+			And the loss brings longing to both;<br />
+			Ill fares the wolf<sep />who shall ever await<br />
+			In fetters the fall of the gods.''
+		</translation>
+		<comment>
+			Hrothvitnir (``The Mighty Wolf''): Fenrir, who awaits in chains the final battle and death at the hands of Vithar.
+			The manuscript has a metrical error in line 3, which has led to various emendations, all with much the same meaning.
+		</comment>
+	</block>
+	<block class="stanza pair" number="40">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Tyr!<sep />for a son with me<br />
+			Thy wife once chanced to win;<br />
+			Not a penny, methinks,<sep />wast thou paid for the wrong,<br />
+			Nor wast righted an inch, poor wretch.''
+		</translation>
+		<comment>
+			Thy wife: there is no other reference to Tyr's wife, nor do we know who was the son in question.
+		</comment>
+	</block>
+	<block class="stanza pair" number="41">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``By the mouth of the river<sep />the wolf remains<br />
+			Till the gods to destruction go;<br />
+			Thou too shalt soon,<sep />if thy tongue is not stilled,<br />
+			Be fettered, thou forger of ill.''
+		</translation>
+		<comment>
+			The mouth of the river: according to Snorri, the chained Fenrir ``roars horribly, and the slaver runs from his mouth, and makes the river called Vam; he lies there till the doom of the gods.'' Freyr's threat is actually carried out; cf. concluding prose.
+		</comment>
+	</block>
+	<block class="stanza pair" number="42">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``The daughter of Gymir<sep />with gold didst thou buy,<br />
+			And sold thy sword to boot;<br />
+			But when Muspell's sons<sep />through Myrkwood ride,<br />
+			Thou shalt weaponless wait, poor wretch.''
+		</translation>
+		<comment>
+			The daughter of Gymir: Gerth, heroine of the Skirnismol, which gives the details of Freyr's loss of his sword.
+			Muspell's sons: the name Muspell is not used elsewhere in the poems; Snorri uses it frequently, but only in this same phrase, ``Muspell's sons.'' They are the dwellers in the fire-world, Muspellsheim, led by Surt against the gods in the last battle; cf. Voluspo, 47 and 52 and notes.
+			Myrkwood: here the dark forest bounding the fire-world; in the Atlakvitha (stanza 3) the name is used of another boundary forest.
+		</comment>
+	</block>
+	<block class="stanza pair" number="43">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Had I birth so famous<sep />as Ingunar-Freyr,<br />
+			And sat in so lofty a seat,<br />
+			I would crush to marrow<sep />this croaker of ill,<br />
+			And beat all his body to bits.''
+		</translation>
+		<comment>
+			Byggvir: one of Freyr's two servants; cf. introductory prose.
+			Ingunar-Freyr: the name is not used elsewhere in the poems, or by Snorri; it may be the genitive of a woman's name, Ingun, the unknown sister of Njorth who was Freyr's mother (cf. stanza 36), or a corruption of the name Ingw, used for Freyr (Fro) in old German mythology.
+		</comment>
+	</block>
+	<block class="stanza pair" number="44">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``What little creature<sep />goes crawling there,<br />
+			Snuffling and snapping about?<br />
+			At Freyr's ears ever<sep />wilt thou be found,<br />
+			Or muttering hard at the mill.''
+		</translation>
+		<comment>
+			Beginning with this stanza, the names of the speakers are lacking in the manuscript.
+			The mill: i.e., at slaves' tasks.
+		</comment>
+	</block>
+	<block class="stanza pair" number="45">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Byggvir my name,<sep />and nimble am I,<br />
+			As gods and men do grant;<br />
+			And here am I proud<sep />that the children of Hropt<br />
+			Together all drink ale.''
+		</translation>
+		<comment>
+			Nothing further is known of either Byggvir's swiftness or his cowardice.
+			Hropt: Othin.
+		</comment>
+	</block>
+	<block class="stanza pair" number="46">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Byggvir!<sep />thou never couldst set<br />
+			Their shares of the meat for men;<br />
+			Hid in straw on the floor,<sep />they found thee not<br />
+			When heroes were fain to fight.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="47">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Drunk art thou, Loki,<sep />and mad are thy deeds,<br />
+			Why, Loki, leavst thou this not?<br />
+			For drink beyond measure<sep />will lead all men<br />
+			No thought of their tongues to take.''
+		</translation>
+		<comment>
+			Heimdall: besides being the watchman of the gods (cf. Voluspo, 27), he appears also as the god of light (cf. Thrymskvitha, 14), and possibly also as a complex cultural deity in the Rigsthula.
+			He was a son of Othin, born of nine sisters; cf. Hyndluljoth, 37-40.
+			In the last battle he and Loki slay one an other.
+			Line 2 is quoted by Snorri; cf. stanza 29, note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="48">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Heimdall!<sep />in days long since<br />
+			Was an evil fate for thee fixed;<br />
+			With back held stiff<sep />must thou ever stand,<br />
+			As warder of heaven to watch.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="49">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Light art thou, Loki,<sep />but longer thou mayst not<br />
+			In freedom flourish thy tail;<br />
+			On the rocks the gods bind thee<sep />with bowels torn<br />
+			Forth from thy frost-cold son.''
+		</translation>
+		<comment>
+			Skathi: the wife of Njorth, and daughter of the giant Thjazi, concerning whose death cf. Harbarthsljoth, 19, note.
+			Bowels, etc.: according to the prose note at the end of the Lokasenna, the gods bound Loki with the bowels of his son Vali, and changed his other son, Narfi, into a wolf.
+			Snorri turns the story about Vali being the wolf, who tears his brother to pieces, the gods then using Narfi's intestines to bind Loki.
+			Narfi--and presumably Vali--were the sons of Loki and his wife, Sigyn.
+			They appear only in this episode, though Narfi (or Nari) is named by Snorri in his list of Loki's children.
+			Cf. concluding prose, and note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="50">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Though on rocks the gods bind me<sep />with bowels torn<br />
+			Forth from my frost-cold son,<br />
+			I was first and last<sep />at the deadly fight<br />
+			There where Thjazi we caught.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="51">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Wert thou first and last<sep />at the deadly fight<br />
+			There where Thjazi was caught,<br />
+			From my dwellings and fields<sep />shall ever come forth<br />
+			A counsel cold for thee.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="52">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``More lightly thou spakest<sep />with Laufey's son,<br />
+			When thou badst me come to thy bed;<br />
+			Such things must be known<sep />if now we two<br />
+			Shall seek our sins to tell.''
+		</translation>
+		<comment>
+			Laufey's son: Loki; not much is known of his parents beyond their names.
+			His father was the giant Farbauti, his mother Laufey, sometimes called Nal.
+			There is an elaborate but far fetched hypothesis explaining these three on the basis of a nature-myth.
+			'There is no other reference to such a relation between Skathi and Loki as he here suggests.
+		</comment>
+	</block>
+	<block class="stanza pair">
+		<original />
+		<translation>
+			Then Sif came forward and poured mead for Loki in a crystal cup, and said:
+		</translation>
+	</block>
+	<block class="stanza pair" number="53">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Hail too thee, Loki,<sep />and take thou here<br />
+			The crystal cup of old mead;<br />
+			For me at least,<sep />alone of the gods,<br />
+			Blameless thou knowest to be.''
+		</translation>
+		<comment>
+			Sif: Thor's wife; cf. Harbarthsljoth, 48, where her infidelity is again mentioned.
+			The manuscript omits the proper name from the preceding prose, and a few editors have, obviously in error, attributed the speech to Beyla.
+		</comment>
+	</block>
+	<block class="stanza pair">
+		<original />
+		<translation>
+			He took the horn, and drank therefrom:
+		</translation>
+	</block>
+	<block class="stanza pair" number="54">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<br />
+		</original>
+		<translation>
+			``Alone thou wert<sep />if truly thou wouldst<br />
+			All men so shyly shun;<br />
+			But one do I know<sep />full well, methinks,<br />
+			Who had thee from Hlorrithi's arms,--<br />
+			(Loki the crafty in lies.)''
+		</translation>
+		<comment>
+			Hlorrithi: Thor.
+			Line 5 is probably spurious.
+		</comment>
+	</block>
+	<block class="stanza pair" number="55">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``The mountains shake,<sep />and surely I think<br />
+			From his home comes Hlorrithi now;<br />
+			He will silence the man<sep />who is slandering here<br />
+			Together both gods and men.''
+		</translation>
+		<comment>
+			Beyla: Freyr's servant, wife of Byggvir; cf. introductory prose and note.
+		</comment>
+	</block>
+	<block class="stanza pair" number="56">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Be silent, Beyla!<sep />thou art Byggvir's wife,<br />
+			And deep art thou steeped in sin;<br />
+			A greater shame<sep />to the gods came ne'er,<br />
+			Befouled thou art with thy filth.''
+		</translation>
+	</block>
+	<block class="stanza pair">
+		<original />
+		<translation>
+			Then came Thor forth, and spake:
+		</translation>
+	</block>
+	<block class="stanza pair" number="57">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Unmanly one, cease,<sep />or the mighty hammer,<br />
+			Mjollnir, shall close thy mouth;<br />
+			Thy shoulder-cliff<sep />shall I cleave from thy neck,<br />
+			And so shall thy life be lost.''
+		</translation>
+		<comment>
+			Mjollnir: concerning Thor's famous hammer see particularly Thrymskvitha, 1 and note.
+			Shoulder-cliff: head; concerning the use of such diction in the Edda, cf. introductory note to Hymiskvitha.
+			The manuscript indicates line 3 as the beginning of a stanza, but this is apparently a scribal error.
+		</comment>
+	</block>
+	<block class="stanza pair" number="58">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Lo, in has come<sep />the son of Earth:<br />
+			Why threaten so loudly, Thor?<br />
+			Less fierce thou shalt go<sep />to fight with the wolf<br />
+			When he swallows Sigfather up.''
+		</translation>
+		<comment>
+			Son of Earth: Thor, son of Othin and Jorth (Earth).
+			The manuscript omits the word ``son,'' but all editors have agreed in supplying it.
+			The wolf: Fenrir, Loki's son, who slays Othin (Sigfather: ``Father of Victory'') in the final battle.
+			Thor, according to Snorri and to the Voluspo, 56, fights with Mithgarthsorm and not with Fenrir, who is killed by Vithar.
+		</comment>
+	</block>
+	<block class="stanza pair" number="59">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Unmanly one, cease,<sep />or the mighty hammer,<br />
+			Mjollnir, shall close thy mouth;<br />
+			I shall hurl thee up<sep />and out in the East,<br />
+			Where men shall see thee no more.''
+		</translation>
+		<comment>
+			Lines 1-2 are abbreviated in the manuscript, as also in stanzas 61 and 63.
+		</comment>
+	</block>
+	<block class="stanza pair" number="60">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``That thou hast fared<sep />on the East-road forth<br />
+			To men shouldst thou say no more;<br />
+			In the thumb of a glove<sep />didst thou hide, thou great one,<br />
+			And there forgot thou wast Thor.''
+		</translation>
+		<comment>
+			Loki's taunt that Thor hid in the thumb of Skrymir's glove is similar to that of Othin, Harbarthsljoth, 26, in the note to which the story is outlined.
+			Line 4 is identical with line 5 of Harbarthsljoth, 26.
+		</comment>
+	</block>
+	<block class="stanza pair" number="61">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Unmanly one, cease,<sep />or the mighty hammer,<br />
+			Mjollnir, shall close thy mouth;<br />
+			My right hand shall smite thee<sep />with Hrungnir's slayer,<br />
+			Till all thy bones are broken.''
+		</translation>
+		<comment>
+			Hrungnir's slayer: the hammer; the story of how Thor slew this stone-headed giant is indicated in Harbarthsljoth, 14-15, and outlined in the note to stanza 14 of that poem.
+		</comment>
+	</block>
+	<block class="stanza pair" number="62">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Along time still<sep />do I think to live,<br />
+			Though thou threatenest thus with thy hammer;<br />
+			Rough seemed the straps<sep />of Skrymir's wallet,<br />
+			When thy meat thou mightest not get,<br />
+			(And faint from hunger didst feel.)''
+		</translation>
+		<comment>
+			On the day following the adventure of the glove, Thor, Loki and Thor's servants proceed on their way in company with Skrymir, who puts all their food in his wallet.
+			At evening Skrymir goes to sleep, and Thor tries to get at the food, but cannot loosen the straps of the wallet.
+			In a rage he smites Skrymir three times on the head with his hammer, but the giant--who, it subsequently appears, deftly dodges the blows--is totally undisturbed.
+			Line 5 may well be spurious.
+		</comment>
+	</block>
+	<block class="stanza pair" number="63">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Unmanly one, cease,<sep />or the mighty hammer,<br />
+			Mjollnir, shall close thy mouth;<br />
+			The slayer of Hrungnir<sep />shall send thee to hell,<br />
+			And down to the gate of death.''
+		</translation>
+	</block>
+	<block class="stanza pair" number="64">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			"'1 have said to the gods<sep />and the sons of the god,<br />
+			The things that whetted my thoughts;<br />
+			But before thee alone<sep />do I now go forth,<br />
+			For thou fightest well, I ween.
+		</translation>
+	</block>
+	<block class="stanza pair" number="65">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<br />
+		</original>
+		<translation>
+			``Ale hast thou brewed,<sep />but, Ægir, now<br />
+			Such feasts shalt thou make no more;<br />
+			O'er all that thou hast<sep />which is here within<br />
+			Shall play the flickering flames,<br />
+			(And thy back shall be burnt with fire.)''
+		</translation>
+		<comment>
+			The flames: the fire that consumes the world on the last day; cf. Voluspo, 57.
+			Line 5 may be spurious.
+			Prose: Snorri tells the same story, with minor differences, but makes it the consequence of Loki's part in the slaying of Baldr, which undoubtedly represents the correct tradition.
+			The compiler of the poems either was confused or thought the incident was useful as indicating what finally happened to Loki.
+			Possibly he did not mean to imply that Loki's fate was brought upon him by his abuse of the gods, but simply tried to round out the story.
+			Franang: ``Gleaming Water.'' Vali and Narfi: cf. stanza 49 and note.
+			Sigyn: cf. Voluspo, 35, the only other place where she is mentioned in the poems.
+			Snorri omits the naive note about earth quakes, his narrative ending with the words, ``And there he lies till the destruction of the gods.'']
+
+		</comment>
+	</block>
+	<block class="stanza pair">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			And after that Loki hid himself in Franang's waterfall in the guise of a salmon, and there the gods took him.<br />
+			He was bound with the bowels of his son Vali, but his son Narfi was changed to a wolf.<br />
+			Skathi took a poison-snake and fastened it up over Loki's face, and the poison dropped thereon.<br />
+			Sigyn, Loki's wife, sat there and held a shell under the poison, but when the shell was full she bore away the poison, and meanwhile the poison dropped on Loki.<br />
+			Then he struggled so hard that the whole earth shook therewith; and now that is called an earthquake.
+		</translation>
+	</block>
+</chapter>
