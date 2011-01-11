@@ -124,9 +124,15 @@ Hymiskvitha (11 Dec 2010)
 Lokasenna (planned)
 ~~~~~~~~~~~~~~~~~~~
 
-* Fix reference in Grimnismol: {\\eddaproseref[introductory note]{Grimnismol}{introduction}}
-  is supposed to point to introductory note, not to an introductory prose
-* Transform data to XML format
+* Transformed chapter data to XML format;
+* Skirnismol, introductory note: fixed reference to Grimnismol's introductory note;
+* Skirnismol, 3, 5: added missing colons to preludes;
+* Introduction: added missing space between two sentences, fixed typo (in stead -> instead),
+  fixed typo (ndash -> mdash), added missing reference to Baldrs Draumar
+* Voluspo, 42: fixed typo in comment (comma -> colon);
+* Voluspo, 4: fixed typo (diacritics);
+* Renamed and committed parsing scripts;
+* Added color-coding for draft mode
 * Add Lokasenna chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
