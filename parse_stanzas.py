@@ -1,6 +1,8 @@
-import json, codecs
+import codecs
 import re
 import sys
+from xml.etree.ElementTree import Element, ElementTree, XML
+from detexify_json import makePretty
 
 input = sys.argv[1]
 output = sys.argv[2]
@@ -37,14 +39,14 @@ def processBlock(b):
 
 	if mo is not None:
 		number = mo.group(1)
-		return {'type': 'stanza', 'number': int(number),
+		return {'type': 'stanza', 'number': number,
 			'text': u"\n".join([lines[0][len(number) + 2:]] + lines[1:]), 'comment': None}
 
 	if len(lines) > 1:
 		mo = re.match(ur'^(\d+)\. ', lines[1])
 		if mo is not None:
 			number = mo.group(1)
-			return {'type': 'stanza', 'number': int(number),
+			return {'type': 'stanza', 'number': number,
 				'text': u"\n".join([lines[1][len(number) + 2:]] + lines[2:]),
 				'prelude': lines[0], 'comment': None}
 
@@ -103,7 +105,7 @@ for obj in comments:
 
 def processStanza(t):
 	t = re.sub(ur'"([^"]+)"', ur"``\1''", t)
-	return t.replace(u" | ", u"{\\sep}").split(u'\n')
+	return t.replace(u" | ", u"<sep />").split(u'\n')
 
 def processProse(t):
 	t = re.sub(ur'"([^"]+)"', ur"``\1''", t)
@@ -126,7 +128,7 @@ def processComment(t):
 	return t.split(u'\n')
 
 
-c = []
+c = Element('chapter')
 for block in new_blocks:
 	if 'text' in block:
 		if block['type'] == 'stanza':
@@ -138,46 +140,66 @@ for block in new_blocks:
 		block['comment'] = processComment(block['comment'])
 
 	if block['type'] == 'stanza':
+
 		translation = block['text']
 		original = []
 
 		for line in translation:
-			if u'{\\sep}' in line:
-				original.append(u"{\\sep}")
+			if u'<sep />' in line:
+				original.append(u"<sep />")
 			else:
 				original.append(u"")
 
+		elem = Element('block', attrib={'class': 'stanza pair', 'number': block['number']})
+		original = XML((u'<original>' + "<br />\n".join(original) +
+			u'</original>').encode('utf-8'))
+		translation = XML((u'<translation>' + "<br />\n".join(translation) +
+			u'</translation>').encode('utf-8'))
+
 		if 'prelude' in block:
-			c.append({
-				'type': 'stanza pair',
-				'original': original,
-				'original_prelude': [u""],
-				'comment': block['comment'],
-				'translation': translation,
-				'translation_prelude': [block['prelude']],
-				'number': block['number']
-			})
+			original_prelude = Element('original_prelude')
+			original_prelude.text = u""
+			translation_prelude = Element('translation_prelude')
+			translation_prelude.text = u""
+
+			elem.append(original_prelude)
+			elem.append(original)
+			elem.append(translation_prelude)
+			elem.append(translation)
 		else:
-			c.append({
-				'type': 'stanza pair',
-				'original': original,
-				'comment': block['comment'],
-				'translation': translation,
-				'number': block['number']
-			})
+			elem.append(original)
+			elem.append(translation)
+
+		if 'comment' in block and block['comment'] is not None:
+			comment = Element('comment')
+			comment.text = "\n".join(block['comment'])
+			elem.append(comment)
+
+		c.append(elem)
+
 	elif block['type'] == 'prose':
 		translation = block['text']
 		original = [u""] * len(translation)
-		c.append({
-			'type': 'prose',
-			'comment': block['comment'],
-			'original': original,
-			'translation': translation
-		})
+
+		elem = Element('block', attrib={'class': 'stanza pair'})
+		original = XML((u'<original>' + "<br />\n".join(original) +
+			u'</original>').encode('utf-8'))
+		translation = XML((u'<translation>' + "<br />\n".join(translation) +
+			u'</translation>').encode('utf-8'))
+
+		elem.append(original)
+		elem.append(translation)
+
+		if 'comment' in block and block['comment'] is not None:
+			comment = Element('comment')
+			comment.text = "\n".join(block['comment'])
+			elem.append(comment)
+
+		c.append(elem)
+
 	else:
 		raise Exception(repr(block))
 
-
-f = codecs.open(output, 'w', 'utf-8')
-json.dump(c, f, indent=4, ensure_ascii=False)
-f.close()
+tree = ElementTree(element=c)
+makePretty(tree.getroot())
+tree.write(open(sys.argv[2], mode='wb'), encoding='utf-8')
