@@ -91,9 +91,10 @@
 			Eldir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Of vo~`pn si`n do/`ma<sep />ok of vi`grisni si`na<br />
+			sigti`va synir:<br />
+			a`sa ok alfa<sep />es he`r inni 'ru`<br />
+			þe`r's manngi i` orþi vinr.''
 		</original>
 		<translation_prelude>
 			Eldir spake:
@@ -110,9 +111,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Inn skal ganga<sep />A_Egis hallir i`<br />
+			a` þat sumbl at sea;<br />
+			joll ok o~`fu<sep />fo/`rik a`sa sunum<br />
+			ok blentk þeim meini mjo~þ.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -129,9 +131,10 @@
 			Eldir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veiztu, ef inn gengr<sep />A_Egis hallir i`<br />
+			a` þat sumbl at sea,<br />
+			hro`pi ok ro`gi<sep />ef þu` eyss a` holl regin,<br />
+			a` þe`r munu þerra þat.''
 		</original>
 		<translation_prelude>
 			Eldir spake:
@@ -148,9 +151,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veizt þat, Eldir!<sep />ef vit einir skulum<br />
+			sa`ryrþum sakask,<br />
+			auþugr verþa<sep />munk i` andsvo~rum,<br />
+			ef þu` ma_e`lir til mart.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -162,8 +166,10 @@
 			If thou speakest too much to me.''
 		</translation>
 	</block>
-	<block class="stanza pair">
-		<original />
+	<block class="prose" label="p5">
+		<original>
+			Si`þan gekk Loki inn i` ho~llina, en er þeir sa`, er fyrir va`ru, hverr inn var kominn, þo~gnuþu þeir allir.
+		</original>
 		<translation>
 			Then Loki went into the hall, but when they who were there saw who had entered, they were all silent.
 		</translation>
@@ -173,15 +179,16 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þyrstr ek ko/m<sep />þessar hallar til,<br />
+			Loptr, of langan veg,<br />
+			o~`su at biþja,<sep />at me`r einn gefi<br />
+			ma_e`ran drykk mjaþar.
 		</original>
 		<translation_prelude>
 			Loki spake:
 		</translation_prelude>
 		<translation>
-			"Thirsty I come<sep />into this thine hall,<br />
+			``Thirsty I come<sep />into this thine hall,<br />
 			I, Lopt, from a journey long,<br />
 			To ask of the gods<sep />that one should give<br />
 			Fair mead for a drink to me.
@@ -192,12 +199,13 @@
 	</block>
 	<block class="stanza pair" number="7">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Hvi` þegiþ e`r sva`,<sep />þrungin goþ!<br />
+			at e`r ma_e`la ne` meguþ?<br />
+			sessa ok staþi<sep />veliþ me`r sumbli at,<br />
+			eþa heitiþ mik heþan.''
 		</original>
 		<translation>
-			``Why sit ye silent,<sep />swollen with pride,<br />
+			Why sit ye silent,<sep />swollen with pride,<br />
 			Ye gods, and no answer give?<br />
 			At your feast a place<sep />and a seat prepare me,<br />
 			Or bid me forth to fare.''
@@ -211,9 +219,10 @@
 			Bragi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Sessa ok staþi<sep />velja þe`r sumbli at<br />
+			a_e`sir aldrigi;<br />
+			þvi`t a_e`sir vitu,<sep />hveim þeir alda skulu<br />
+			gambansumbl of geta.''
 		</original>
 		<translation_prelude>
 			Bragi spake:
@@ -230,9 +239,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Mant þat, O`þinn!<sep />es vit i` a`rdaga<br />
+			blendum blo`þi saman?<br />
+			o~lvi bergja<sep />le`zt eigi mundu,<br />
+			nema okkr va_e`ri bo~`þum borit.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -253,9 +263,10 @@
 			O`þinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ri`s þa`, Vi`þarr!<sep />ok la`t ulfs fo~þur<br />
+			sitja sumbli at,<br />
+			si`þr oss Loki kveþi<sep />lastasto~fum<br />
+			A_Egis ho~llu i`.''
 		</original>
 		<translation_prelude>
 			Othin spake:
@@ -272,17 +283,20 @@
 			<expl>The wolf's father</expl>: Loki; cf. <cr>Voluspo</cr>, <sr chapter="Voluspo">39</sr> and note.
 		</comment>
 	</block>
-	<block class="stanza pair">
-		<original />
+	<block class="prose" label="p10">
+		<original>
+			Þa` sto`þ Vi`þarr upp ok skenkþi Loka; en a`þr hann drykki, kvaddi hann a`suna:
+		</original>
 		<translation>
 			Then Vithar arose and poured drink for Loki; but before he drank he spoke to the gods:
 		</translation>
 	</block>
 	<block class="stanza pair" number="11">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heilir a_e`sir,<sep />heilar a`synjur<br />
+			ok o~ll ginnheilug goþ!<br />
+			nema einn o~`ss<sep />es innar sitr,<br />
+			Bragi, bekkjum a`.''
 		</original>
 		<translation>
 			``Hail to you, gods!<sep />ye goddesses, hail!<br />
@@ -296,9 +310,10 @@
 			Bragi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Mar ok ma_e`ki<sep />gefk þer mi`ns fear<br />
+			ok bo/`tir sva` baugi Bragi,<br />
+			si`þr þu` o~`sum<sep />o~fund of gjaldir;<br />
+			gremjat goþ at þe`r!''
 		</original>
 		<translation_prelude>
 			Bragi spake:
@@ -315,10 +330,11 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
+			``Jo`s ok armbauga<sep />mundu a_e` vesa<br />
+			beggja vanr, Bragi!<br />
+			a`sa ok alfa<sep />es he`r inni 'ru`<br />
+			þu`'st viþ vi`g varastr<br />
+			ok skjarrastr viþ skot.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -339,9 +355,10 @@
 			Bragi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veitk, ef fyr u`tan va_e`rak,<sep />sem fyr innan emk<br />
+			A_Egis ho~ll of kominn,<br />
+			haufuþ þitt<sep />ba_e`rak i` hendi me`r:<br />
+			le`tak þe`r þat fyr lygi.''
 		</original>
 		<translation_prelude>
 			Bragi spake:
@@ -361,9 +378,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Snjallr est i` sessi,<sep />skalta sva` go/ra,<br />
+			Bragi, bekkskrautuþr!<br />
+			vega þu` gakk,<sep />ef þu` vreiþr sei::r!<br />
+			hyggsk va_e`tr hvatr fyrir.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -383,9 +401,10 @@
 			I`þunn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Biþk þik, Bragi!<sep />barna sifjar duga<br />
+			ok allra o`skmaga,<br />
+			at þu` Loka kveþjat<sep />lastasto~fum<br />
+			A_Egis ho~llu i`.''
 		</original>
 		<translation_prelude>
 			Ithun spake:
@@ -408,9 +427,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, I`þunn!<sep />þik kveþk allra kvenna<br />
+			vergjarnasta vesa,<br />
+			si`ztu arma þi`na<sep />lagþir i`trþvegna<br />
+			umb þinn bro`þurbana.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -430,9 +450,10 @@
 			I`þunn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Loka ek kveþka<sep />lastasto~fum<br />
+			A_Egis ho~llu i;<br />
+			Braga ek kyrri<sep />bjo`rreifan:<br />
+			vilkak at vreiþir vegisk.''
 		</original>
 		<translation_prelude>
 			Ithun spake:
@@ -449,9 +470,10 @@
 			Gefjun kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvi it a_e`sir tveir<sep />skuluþ inni he`r<br />
+			sa`ryrþum sakask?<br />
+			Loka þat veit,<sep />at hann leikinn es<br />
+			ok hann fjo~rg o~ll fiar.''
 		</original>
 		<translation_prelude>
 			Gefjun spake:
@@ -473,9 +495,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Gefjun!<sep />þess munk nu` geta,<br />
+			hverr þik glapþi at geþi:<br />
+			sveinn enn hvi`ti<sep />þe`r sigli gaf<br />
+			ok þu` lagþir la_e`r yfir.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -498,9 +521,10 @@
 			O`þinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			O_Err est, Loki!<sep />ok o/rviti,<br />
+			es þu` fa_e`r þe`r Gefjun at gremi:<br />
+			þvi`t aldar o/rlo~g<sep />hykk at o~ll of viti<br />
+			jafngo~rla sem ek.''
 		</original>
 		<translation_prelude>
 			Othin spake:
@@ -520,9 +544,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, O`þinn!<sep />þu` kunnir aldri<br />
+			deila vi`g meþ verum:<br />
+			opt þu` gaft<sep />þeims gefa ne` skyldir<br />
+			enum sla_e`vurum sigr.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -539,11 +564,12 @@
 			O`þinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<br />
+			``Veizt, ef ek gaf<sep />þeims gefa ne` skyldak,<br />
+			enum sla_e`vurum sigr:<br />
+			a`tta vetr<sep />vastu fyr jo~rþ neþan<br />
+			ky`r molkandi ok kona<br />
+			ok hefr þar bo~rn of borit,<br />
+			ok hugþak þat args aþal.''
 		</original>
 		<translation_prelude>
 			Othin spake:
@@ -571,9 +597,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``En þik si`þa<sep />kvo~`þu Sa`mseyju i`,<br />
+			ok drapt a` ve`tt sem vo~lur:<br />
+			vitka li`ki<sep />fo`rtu verþjo`þ yfir,<br />
+			ok hugþak þat args aþal.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -594,9 +621,10 @@
 			Frigg kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``O/rlo~gum ykkrum<sep />skyliþ aldrigi<br />
+			segja seggjum fra`:<br />
+			hvat it a_e`sir tveir<sep />dry`gþuþ i` a`rdaga,<br />
+			firrisk a_e` forn ro/k firar.''
 		</original>
 		<translation_prelude>
 			Frigg spake:
@@ -616,9 +644,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Frigg!<sep />þu`'st Fjo~rgyns ma_e`r<br />
+			ok hefr a_e vergjo~rn verit,<br />
+			es þa` Vea ok Vilja<sep />le`ztu þe`r, Viþris kva_e`n!<br />
+			ba`þa i` baþm of tekit.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -641,9 +670,10 @@
 			Frigg kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veizt, ef inni a_e`ttak<sep />A_Egis ho~llum i`<br />
+			Baldri gli`kan bur,<br />
+			u`t ne` kva_e`mir<sep />fra` a`sa sunum,<br />
+			ok va_e`ri at þe`r vreiþum vegit.''
 		</original>
 		<translation_prelude>
 			Frigg spake:
@@ -663,9 +693,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Enn vill þu`, Frigg!<sep />at ek fleiri telja<br />
+			mi`na meinstafi:<br />
+			ek þvi` ra_e`þ,<sep />es þu` ri`þa se`rat<br />
+			si`þan Baldr at so~lum.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -682,9 +713,10 @@
 			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``O_Err est, Loki!<sep />es þu` yþra telr<br />
+			ljo`ta leiþstafi:<br />
+			o/rlo~g Frigg<sep />hykk at o~ll viti,<br />
+			þo`t ho`n sjo~lfgi segi.''
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -698,7 +730,7 @@
 		<comment>
 			<expl>Freyja</expl>: daughter of Njorth and sister of Freyr; cf. note on <proseref prose="introduction">introductory prose</proseref>.
 			Snorri, in speaking of Frigg's knowledge of the future, makes a stanza out of Lokasenna, <sr>21</sr>, 1; <sr>47</sr>, 2; <sr>29</sr>, 3--4, thus:
-			<textstanza class="original">
+			<textstanza class="translation">
 				``Mad art thou, Loki,<sep />and little of wit,<br />
 				Why, Loki, leavst thou this not?<br />
 				The fate of all<sep />does Frigg know well,<br />
@@ -711,9 +743,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Freyja!<sep />þik kannk fullgo~rva,<br />
+			esa þe`r vamma vant:<br />
+			a`sa ok alfa<sep />es he`r inni 'ru`<br />
+			hverr hefr ho`rr þinn verit.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -733,9 +766,10 @@
 			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Flo~`'s þe`r tunga,<sep />hykk at þe`r fremr myni<br />
+			o`gott of gala;<br />
+			vreiþir'u þe`r a_e`sir<sep />ok a`synjur,<br />
+			hryggr munt heim fara.''
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -752,9 +786,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Freyja!<sep />þu`'st forda_e`þa<br />
+			ok meini blandin mjo~k:<br />
+			þik at bro/`þr þi`num<sep />sto`þu bli`þ regin,<br />
+			ok mundir þa`, Freyja! frata.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -775,9 +810,10 @@
 			Njo~rþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þat's vo~` litil,<sep />þo`t se`r vers fai::<br />
+			varþir, ho`ss eþa hva`rs;<br />
+			undr's at o~`ss ragr<sep />es he`r inn of kominn<br />
+			ok hefr sa` bo~rn of borit.''
 		</original>
 		<translation_prelude>
 			Njorth spake:
@@ -799,9 +835,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Njo~rþr!<sep />þu` vast austr heþan<br />
+			gi`sl of sendr at goþum;<br />
+			Hymis meyjar<sep />ho~fþu þik at hlandtrogi<br />
+			ok þe`r i` munn migu.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -822,9 +859,10 @@
 			Njo~rþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Su` erumk li`kn,<sep />es vask langt heþan<br />
+			gi`sl of sendr at goþum:<br />
+			þa ek mo~g gat<sep />þanns manngi fiar,<br />
+			ok þykkir sa` a`sa jaþarr.''
 		</original>
 		<translation_prelude>
 			Njorth spake:
@@ -844,9 +882,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ha_e`tt nu`, Njo~rþr!<sep />haf a` ho`fi þik!<br />
+			munkak þvi` leyna lengr:<br />
+			viþ systur þinni<sep />gaztu sli`kan mo~g<br />
+			ok esa þo` o`nu verr.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -867,9 +906,10 @@
 			Ty`rr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Freyr es baztr<sep />allra baldriþa<br />
+			a`sa go~rþum i`;<br />
+			mey ne` gro/`tir<sep />ne` manns konu,<br />
+			ok leysir o`r ho~ptum hvern.''
 		</original>
 		<translation_prelude>
 			Tyr spake:
@@ -890,9 +930,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Ty`r!<sep />þu` kunnir aldri<br />
+			bera tilt meþ tveim:<br />
+			handar ho/`gri<sep />munk hinnar geta<br />
+			es þe`r sleit Fenrir fra`.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -913,9 +954,10 @@
 			Ty`rr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Handar emk vanr,<sep />en þu` Hro`þvitnis,<br />
+			bo~l es beggja þro~`:<br />
+			ulfgi hefr ok vel<sep />es i` <conj>jo~rnum</conj> skal<br />
+			bi`þa ragna ro/kkrs.''
 		</original>
 		<translation_prelude>
 			Tyr spake:
@@ -936,9 +978,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Ty`r!<sep />þat varþ þinni konu,<br />
+			at ho`n a`tti mo~g viþ me`r;<br />
+			o~ln ne` penning<sep />hafþir þu` þess aldrigi<br />
+			vanre`ttis, vesall!''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -958,9 +1001,10 @@
 			Freyr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ulf se`k liggja<sep />a`ro`si fyrir,<br />
+			unz of rju`fask regin;<br />
+			þvi` munt na_e`st,<sep />nema nu` þegir,<br />
+			bundinn, bo~lvasmiþr!''
 		</original>
 		<translation_prelude>
 			Freyr spake:
@@ -981,9 +1025,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Golli keypta<sep />le`ztu Gymis do`ttur<br />
+			ok seldir þitt sva` sverþ;<br />
+			en es Mu`spells synir<sep />ri`þa Myrkviþ yfir,<br />
+			veizta þa`, vesall! hve` vegr.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1006,9 +1051,10 @@
 			Byggvir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veizt, ef o/þli a_e`ttak<sep />sem Ingunar-Freyr,<br />
+			ok sva` sa_e`llikt setr,<br />
+			mergi sma_e`ra mo/lþak<sep />þa` meinkro~`ku<br />
+			ok lemþa alla i` liþu.''
 		</original>
 		<translation_prelude>
 			Byggvir spake:
@@ -1029,9 +1075,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvat's þat et litla,<sep />es ek þat lo~ggra se`k,<br />
+			ok snapvi`st snapir?<br />
+			at eyrum Freys<sep />mundu a_e` vesa<br />
+			auk und kvernum klaka.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1052,9 +1099,10 @@
 			Byggvir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Byggvir heitik,<sep />en mik bra`þan kveþa<br />
+			goþ o~ll ok gumar;<br />
+			þvi` emk he`r hro`þugr,<sep />at drekka Hro`pts megir<br />
+			allir o~l saman.''
 		</original>
 		<translation_prelude>
 			Byggvir spake:
@@ -1075,9 +1123,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Byggvir!<sep />þu` kunnir aldri<br />
+			deila meþ mo~nnum mat;<br />
+			þik i` flets strai::<sep />finna ne` mo~`ttu,<br />
+			þa` es vo~`gu verar.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1094,9 +1143,10 @@
 			Heimdallr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``O~lr est, Loki!<sep />sva`t þu`'st o/rviti,<br />
+			hvi` ne` lezkat, Loki?<br />
+			þvi`t ofdrykkja<sep />veldr alda hveim,<br />
+			es si`na ma_e`lgi ne` manat.''
 		</original>
 		<translation_prelude>
 			Heimdall spake:
@@ -1119,9 +1169,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Heimdallr!<sep />þe`r vas i` a`rdaga<br />
+			et ljo`ta li`f of lagit:<br />
+			o~rþgu baki<sep />þu` munt a_e` vesa<br />
+			ok vaka vo~rþr goþa.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1138,9 +1189,10 @@
 			Skaþi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Le`tt's þe`r, Loki!<sep />munattu lengi sva`<br />
+			leika lausum hala;<br />
+			þvi`t þik a` hjo~rvi skulu<sep />ens hri`mkalda magar<br />
+			go~rnum binda goþ.''
 		</original>
 		<translation_prelude>
 			Skathi spake:
@@ -1165,9 +1217,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veizt, ef a` hjo~rvi skulumk<sep />ens hri`mkalda magar<br />
+			go~rnum binda goþ:<br />
+			fyrstr ok o/fstr<sep />vask at fjo~rlagi,<br />
+			þars ver a` Þjaza þrifum.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1184,9 +1237,10 @@
 			Skaþi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veizt, ef fyrstr ok o/fstr<sep />vast at fjo~rlagi,<br />
+			þa`s er a` Þjaza þrifuþ:<br />
+			fra` ve::um mi`num<sep />ok vo~ngum skulu<br />
+			þe`r a_e` ko~ld ro~`þ koma.''
 		</original>
 		<translation_prelude>
 			Skathi spake:
@@ -1203,9 +1257,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Le`ttari i` mo~`lum<sep />vastu viþ Laufeyjar sun,<br />
+			þa`s þu` le`zt mer a` beþ þinn boþit:<br />
+			getit verþr oss sli`ks,<sep />ef ve`r go~rva skulum<br />
+			telja vo~mm enn vo~`r.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1223,20 +1278,23 @@
 			There is no other reference to such a relation between Skathi and Loki as he here suggests.
 		</comment>
 	</block>
-	<block class="stanza pair">
-		<original />
+	<block class="prose" label="p52">
+		<original>
+			Þa` gekk Sif fram ok byrlaþi Loka i` hri`mkalki mjo~þ ok ma_elti:
+		</original>
 		<translation>
 			Then Sif came forward and poured mead for Loki in a crystal cup, and said:
 		</translation>
 	</block>
 	<block class="stanza pair" number="53">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heill ves nu`, Loki!<sep />ok tak viþ hri`mkalki<br />
+			fullum forns mjaþar,<br />
+			heldr hana eina<sep />la`tir meþ a`sa sunum<br />
+			vammalausa vesa.''
 		</original>
 		<translation>
-			``Hail too thee, Loki,<sep />and take thou here<br />
+			``Hail to thee, Loki,<sep />and take thou here<br />
 			The crystal cup of old mead;<br />
 			For me at least,<sep />alone of the gods,<br />
 			Blameless thou knowest to be.''
@@ -1246,18 +1304,21 @@
 			The manuscript omits the proper name from the preceding prose, and a few editors have, obviously in error, attributed the speech to Beyla.
 		</comment>
 	</block>
-	<block class="stanza pair">
-		<original />
+	<block class="prose" label="p53">
+		<original>
+			Hann to`k viþ horni ok drakk af:
+		</original>
 		<translation>
 			He took the horn, and drank therefrom:
 		</translation>
 	</block>
 	<block class="stanza pair" number="54">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
+			``Ein þu` va_e`rir,<sep />ef þu` sva` va_e`rir<br />
+			vo~r ok gro~m at veri:<br />
+			einn ek veit,<sep />sva`t ek vita þykkjumk<br />
+			ho`r ok af Hlo`rriþa<br />
+			[ok vas þat sa enn la_e`vi`si Loki.]''
 		</original>
 		<translation>
 			``Alone thou wert<sep />if truly thou wouldst<br />
@@ -1267,7 +1328,7 @@
 			(Loki the crafty in lies.)''
 		</translation>
 		<comment>
-			Hlorrithi: Thor.
+			<expl>Hlorrithi</expl>: Thor.
 			Line 5 is probably spurious.
 		</comment>
 	</block>
@@ -1276,9 +1337,10 @@
 			Beyla kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Fjo~ll o~ll skjalfa,<sep />hykk a` fo~r vesa<br />
+			heiman Hlo`rriþa;<br />
+			hann ra_e`þr ro`<sep />þeims ro/`gir he`r<br />
+			goþ o~ll ok guma.''
 		</original>
 		<translation_prelude>
 			Beyla spake:
@@ -1298,9 +1360,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, Beyla!<sep />þu`'st Byggvis kva_e`n<br />
+			ok meini blandin mjo~k;<br />
+			o`kynjan meira<sep />kvama meþ a`sa sunum,<br />
+			o~ll est, deigja! dritin.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1312,17 +1375,20 @@
 			Befouled thou art with thy filth.''
 		</translation>
 	</block>
-	<block class="stanza pair">
-		<original />
+	<block class="prose" label="p56">
+		<original>
+			Þa` kom Þo`rr at ok kvaþ:
+		</original>
 		<translation>
 			Then came Thor forth, and spake:
 		</translation>
 	</block>
 	<block class="stanza pair" number="57">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, ro~g va_e`ttr!<sep />þe`r skal minn þru`þhamarr<br />
+			Mjo~llnir ma`l fyrnema;<br />
+			herþaklett<sep />drepk þe`r halsi af,<br />
+			ok verþr þa` þi`nu fjo~rvi of farit.''
 		</original>
 		<translation>
 			``Unmanly one, cease,<sep />or the mighty hammer,<br />
@@ -1341,9 +1407,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Jarþar <conj>burr</conj><sep />es he`r nu` inn kominn:<br />
+			hvi` þrasir þu` sva`, Þo`rr?<br />
+			en þa` þorir þu` etki,<sep />es skalt viþ ulf vega,<br />
+			ok svelgr hann allan Sigfo~þur.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1355,7 +1422,7 @@
 			When he swallows Sigfather up.''
 		</translation>
 		<comment>
-			</expl>Son of Earth</expl>: Thor, son of Othin and Jorth (Earth).
+			<expl>Son of Earth</expl>: Thor, son of Othin and Jorth (Earth).
 			The manuscript omits the word ``son,'' but all editors have agreed in supplying it.
 			<expl>The wolf</expl>: Fenrir, Loki's son, who slays Othin (<expl>Sigfather</expl>: ``Father of Victory'') in the final battle.
 			Thor, according to Snorri and to the <cr>Voluspo</cr>, <sr chapter="Voluspo">56</sr>, fights with Mithgarthsorm and not with Fenrir, who is killed by Vithar.
@@ -1366,9 +1433,10 @@
 			Þo`rr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, ro~g va_e`ttr!<sep />þe`r skal minn þru`þhamarr<br />
+			Mjo~llnir ma`l fyrnema;<br />
+			upp þe`r verpk<sep />ok a` austrvega,<br />
+			si`þan þik manngi se`r.''
 		</original>
 		<translation_prelude>
 			Thor spake:
@@ -1388,9 +1456,10 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Austrfo~rum þi`num<sep />skaltu aldrigi<br />
+			segja seggjum fra`:<br />
+			si`z i` hanzka þumlungi<sep />hnu`kþir þu`, einheri!<br />
+			ok þo`ttiska Þo`rr vesa.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1411,9 +1480,10 @@
 			Þo`rr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, ro~g va_e`ttr! þe`r skal minn þru`þhamarr<sep /><br />
+			Mjo~llnir ma`l fyrnema;<br />
+			hendi ho/`gri<sep />drepk þik Hrungnis bana,<br />
+			sva`t þer brotnar beina hvat.''
 		</original>
 		<translation_prelude>
 			Thor spake:
@@ -1433,10 +1503,11 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
+			``Lifa a_e`tlak me`r<sep />langan aldr,<br />
+			þo`ttu ho/`tir hamri me`r;<br />
+			skarpar a`lar<sep />þo`ttu þer Skry`mis vesa<br />
+			ok ma`ttira nesti naa<br />
+			[ok svalztu hungri heill.]''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1460,9 +1531,10 @@
 			Þo`rr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þegi þu`, ro~g va_e`ttr!<sep />þe`r skal minn þru`þhamarr<br />
+			Mjo~llnir ma`l fyrnema;<br />
+			Hrungnis bani<sep />mun þer i` hel koma<br />
+			fyr na`grindr neþan.''
 		</original>
 		<translation_prelude>
 			Thor spake:
@@ -1479,15 +1551,16 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Kvaþk fyr o~`sum,<sep />kvaþk fyr a`sa sunum<br />
+			þats mik hvatti hugr;<br />
+			en fyr þe`r einum<sep />munk u`t ganga,<br />
+			þvi`t ek veit at vegr.
 		</original>
 		<translation_prelude>
 			Loki spake:
 		</translation_prelude>
 		<translation>
-			"'1 have said to the gods<sep />and the sons of the god,<br />
+			``I have said to the gods<sep />and the sons of the god,<br />
 			The things that whetted my thoughts;<br />
 			But before thee alone<sep />do I now go forth,<br />
 			For thou fightest well, I ween.
@@ -1495,13 +1568,14 @@
 	</block>
 	<block class="stanza pair" number="65">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
+			O~l go/rþir, A_Egir!<sep />en þu` aldri munt<br />
+			si`þan sumbl of go/ra:<br />
+			eiga þi`n o~ll,<sep />es he`r inni es,<br />
+			leiki yfir logi<br />
+			ok brinni þe`r a` baki!''
 		</original>
 		<translation>
-			``Ale hast thou brewed,<sep />but, Ægir, now<br />
+			Ale hast thou brewed,<sep />but, Ægir, now<br />
 			Such feasts shalt thou make no more;<br />
 			O'er all that thou hast<sep />which is here within<br />
 			Shall play the flickering flames,<br />
@@ -1514,10 +1588,11 @@
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
+			En eptir þetta falz Loki i` Fra`nangrs forsi i` lax li`ki, þar to`ku a_esir hann.<br />
+			Hann var bundinn meþ þo~rmum sonar <conj>si`ns</conj> Va`la, en Narfi sonr hans varþ at vargi.<br />
+			Skaþi to`k eitrorm ok festi upp yfir annlit Loka; draup þar o`r eitr.<br />
+			Sigyn kona Loka sat þar ok helt munnlaug undir eitrit, en er munnlaugin var full, bar hon u`t eitrit; en meþan draup eitrit a` Loka.<br />
+			Þa` kiptiz hann sva` hart viþ, at þaþan af skalf jo~rþ o~ll: þat eru nu` kallaþir landskja`lftar.
 		</original>
 		<translation>
 			And after that Loki hid himself in Franang's waterfall in the guise of a salmon, and there the gods took him.<br />
