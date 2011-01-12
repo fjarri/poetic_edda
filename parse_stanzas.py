@@ -1,3 +1,5 @@
+# coding: utf-8
+
 import codecs
 import re
 import sys
@@ -114,7 +116,29 @@ def processProse(t):
 
 def processComment(t):
 
-	def subfun(mo):
+	chapters = [u'Voluspo', u'Hovamol', u'Vafthruthnismol', u'Grimnismol',
+		u'Skirnismol', u'Harbarthsljoth', u'Hymiskvitha', u'Lokasenna',
+		u'Thrymskvitha', u'Alvissmol', u'Baldrs Draumar', u'Rigsthula',
+		u'Hyndluljoth', u'Svipdagsmol', u'Lays of the Heroes', u'Völundarkvitha',
+		u'Helgakvitha Hjorvarthssonar', u'Helgakvitha Hundingsbana I',
+		u'Helgakvitha Hundingsbana II', u'Fra Dautha Sinfjotla',
+		u'Gripisspo', u'Reginsmol', u'Fafnismol', u'Sigrdrifumol',
+		u'Brot af Sigurtharkvithu', u'Guthrunarkvitha I',
+		u'Sigurtharkvitha en Skamma', u'Helreith Brynhildar',
+		u'Drap Niflunga', u'Guthrunarkvitha II', u'Guthrunarkvitha III',
+		u'Oddrunargratr', u'Atlakvitha en Grönlenzka', u'Atlamol en Grönlenzku',
+		u'Guthrunarhvot', u'Hamthesmol']
+
+	t = re.sub(ur'\s*\[fp\. \d+\]\s*', u' ', t) # remove [fp. ##]
+	t = re.sub(ur'"([^"]+)"', ur"``\1''", t) # replace " by `` and ''
+
+	for chapter in chapters:
+		t = re.sub(chapter + ur', (\d+)',
+			ur'<chapterref>' + chapter + ur'</chapterref>, <stanzaref chapter="' +
+			chapter + ur'">\1</stanzaref>', t)
+		t = re.sub(ur'([^">])' + chapter, ur'\1<chapterref>' + chapter + ur'</chapterref>', t)
+
+	def findcf(mo):
 		if mo.group(1) == u'cf':
 			return u'cf. '
 		elif mo.group(1) == u'Cf':
@@ -122,9 +146,7 @@ def processComment(t):
 		else:
 			return mo.group(1) + u'.\n'
 
-	t = re.sub(ur'\s*\[fp\. \d+\]\s*', u' ', t)
-	t = re.sub(ur'"([^"]+)"', ur"``\1''", t)
-	t = re.sub(ur'([\w\)]+)\. ', subfun, t)
+	t = re.sub(ur"([\w\)\>\']+)\. ", findcf, t)
 	return t.split(u'\n')
 
 
@@ -171,8 +193,8 @@ for block in new_blocks:
 			elem.append(translation)
 
 		if 'comment' in block and block['comment'] is not None:
-			comment = Element('comment')
-			comment.text = "\n".join(block['comment'])
+			comment = XML((u'<comment>' + "\n".join(block['comment']) +
+				u'</comment>').encode('utf-8'))
 			elem.append(comment)
 
 		c.append(elem)
@@ -191,8 +213,8 @@ for block in new_blocks:
 		elem.append(translation)
 
 		if 'comment' in block and block['comment'] is not None:
-			comment = Element('comment')
-			comment.text = "\n".join(block['comment'])
+			comment = XML((u'<comment>' + "\n".join(block['comment']) +
+				u'</comment>').encode('utf-8'))
 			elem.append(comment)
 
 		c.append(elem)
