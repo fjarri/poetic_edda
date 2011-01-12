@@ -273,42 +273,45 @@ def printChapterHeader(block):
 def printSepline(block):
 	return u"\\eddasepline"
 
-handlers = {
-	'stanza': printStanzaTable,
-	'text': printText,
-	'prose': printProseTable,
-	'chapter': printChapterHeader,
-	'sepline': printSepline
-}
 
-filenames = os.listdir('chapters')
+if __name__ == '__main__':
 
-if not os.path.exists('build'):
-	os.mkdir('build')
-elif not os.path.isdir('build'):
-	print "Build directory name is taken"
-	exit(1)
+	handlers = {
+		'stanza': printStanzaTable,
+		'text': printText,
+		'prose': printProseTable,
+		'chapter': printChapterHeader,
+		'sepline': printSepline
+	}
 
-for filename in filenames:
-	name, ext = os.path.splitext(filename)
-	if ext != '.xml':
-		continue
+	filenames = os.listdir('chapters')
 
-	if filename == 'pronounciation.xml':
-		continue
+	if not os.path.exists('build'):
+		os.mkdir('build')
+	elif not os.path.isdir('build'):
+		print "Build directory name is taken"
+		exit(1)
 
-	print "Processing: " + str(filename)
+	for filename in filenames:
+		name, ext = os.path.splitext(filename)
+		if ext != '.xml':
+			continue
 
-	f = open("chapters/" + filename)
-	tree = ElementTree(file=f)
+		if filename == 'pronounciation.xml':
+			continue
 
-	root = tree.getroot()
-	deprettify(root)
+		print "Processing: " + str(filename)
 
-	res = handlers['chapter'](root) + u"\n\n" + \
-		u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
+		f = open("chapters/" + filename)
+		tree = ElementTree(file=f)
 
-	f = codecs.open("build/" + name + ".tex", "w", "utf-8")
-	f.write(res)
-	f.close()
+		root = tree.getroot()
+		deprettify(root)
+
+		res = handlers['chapter'](root) + u"\n\n" + \
+			u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
+
+		f = codecs.open("build/" + name + ".tex", "w", "utf-8")
+		f.write(res)
+		f.close()
 
