@@ -134,6 +134,9 @@ Lokasenna (planned)
 * Voluspo, 42: fixed typo in comment (comma -> colon);
 * Voluspo, 4: fixed typo (diacritics);
 * Added color-coding for draft mode
+
+* Check Skirnismol, 34: conjectures in translation and original do not coincide;
+  also think about replacing all [] with () in originals
 * Add Lokasenna chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
