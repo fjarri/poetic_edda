@@ -181,7 +181,7 @@ for block in new_blocks:
 		translation = block['text']
 		original = [u""] * len(translation)
 
-		elem = Element('block', attrib={'class': 'stanza pair'})
+		elem = Element('block', attrib={'class': 'prose'})
 		original = XML((u'<original>' + "<br />\n".join(original) +
 			u'</original>').encode('utf-8'))
 		translation = XML((u'<translation>' + "<br />\n".join(translation) +
