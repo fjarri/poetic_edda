@@ -74,14 +74,14 @@ def substitute(elem, chapter=None):
 	if elem.tag == 'pr':
 		elem.tag = 'proseref'
 
-		if 'chapter' not in elem.attrib:
-			elem.attrib['chapter'] = chapter
+	if elem.tag == 'proseref' and 'chapter' not in elem.attrib:
+		elem.attrib['chapter'] = chapter
 
 	if elem.tag == 'sr':
 		elem.tag = 'stanzaref'
 
-		if 'chapter' not in elem.attrib:
-			elem.attrib['chapter'] = chapter
+	if elem.tag == 'stanzaref' and 'chapter' not in elem.attrib:
+		elem.attrib['chapter'] = chapter
 
 	for e in elem:
 		substitute(e, chapter)
