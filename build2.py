@@ -189,6 +189,11 @@ def listToTex(l):
 	res = []
 
 	for e in l:
+		if isinstance(e[0], unicode):
+			e[0] = e[0].replace('[', '{[}')
+			e[0] = e[0].replace(']', '{]}')
+
+	for e in l:
 		text, tag, attrib = tuple(e)
 
 		if tag is None:
