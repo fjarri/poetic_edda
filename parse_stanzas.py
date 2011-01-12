@@ -172,7 +172,7 @@ for block in new_blocks:
 			else:
 				original.append(u"")
 
-		elem = Element('block', attrib={'class': 'stanza pair', 'number': block['number']})
+		elem = Element('block', attrib={'class': 'stanza', 'number': block['number']})
 		original = XML((u'<original>' + "<br />\n".join(original) +
 			u'</original>').encode('utf-8'))
 		translation = XML((u'<translation>' + "<br />\n".join(translation) +
