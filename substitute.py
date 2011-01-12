@@ -1,12 +1,11 @@
 # coding=utf-8
 
-import json
+from xml.etree.ElementTree import ElementTree
 import codecs
 import sys
 
 input = sys.argv[1]
 output = sys.argv[2]
-c = json.load(codecs.open(input, 'r', 'utf-8'))
 
 substitutions = [
 	(u"a_e`", u"ǣ"),
@@ -40,28 +39,48 @@ substitutions = [
 	(u"O~`", u"Ǭ"),
 	(u"O~", u"Ǫ"),
 
-	(u"--", u"\u2013"),
 	(u"---", u"\u2014"),
+	(u"--", u"\u2013"),
 	(u"``", u"\u201c"),
 	(u"''", u"\u201d")
 ]
 
-def substitute(obj):
-	if isinstance(obj, unicode):
-		for fr, to in substitutions:
-			obj = obj.replace(fr, to)
-		return obj
-	elif isinstance(obj, list):
-		return [substitute(x) for x in obj]
-	else:
-		raise Exception("Wrong object: " + repr(obj))
+def substituteText(s, tag):
+	if s is None:
+		return s
 
-for block in c:
-	if not block['type'] == "stanza pair" and not block['type'] == "prose":
-		continue
+	for src, dst in substitutions:
+		s = s.replace(src, dst)
 
-	block['original'] = substitute(block['original'])
-	if 'original_prelude' in block:
-		block['original_prelude'] = substitute(block['original_prelude'])
+	if tag in ('original', 'translation'):
+		s = s.replace(u'(', u'[')
+		s = s.replace(u')', u']')
 
-json.dump(c, codecs.open(output, 'w', 'utf-8'), indent=4, ensure_ascii=False)
+	return s
+
+def substitute(elem, chapter=None):
+	elem.text = substituteText(elem.text, elem.tag)
+	elem.tail = substituteText(elem.tail, elem.tag)
+
+	if elem.tag == 'chapter':
+		chapter = elem.attrib['english_name']
+
+	if elem.tag == 'src':
+		elem.tag = 'source'
+
+	if elem.tag == 'cr':
+		elem.tag = 'chapterref'
+
+	if elem.tag == 'sr':
+		elem.tag = 'stanzaref'
+
+		if 'chapter' not in elem.attrib:
+			elem.attrib['chapter'] = chapter
+
+	for e in elem:
+		substitute(e, chapter)
+
+
+tree = ElementTree(file=input)
+substitute(tree.getroot())
+tree.write(open(output, mode='wb'), encoding='utf-8')
