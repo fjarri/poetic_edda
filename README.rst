@@ -124,14 +124,15 @@ Hymiskvitha (11 Dec 2010)
 Lokasenna (planned)
 ~~~~~~~~~~~~~~~~~~~
 
-* Transformed chapter data to XML format;
+* Transformed chapter data to XML format, added some semantic info;
+* Renamed and committed parsing scripts;
+* Added chapter/combined references recognition to substitute.py;
 * Skirnismol, introductory note: fixed reference to Grimnismol's introductory note;
 * Skirnismol, 3, 5: added missing colons to preludes;
 * Introduction: added missing space between two sentences, fixed typo (in stead -> instead),
   fixed typo (ndash -> mdash), added missing reference to Baldrs Draumar
 * Voluspo, 42: fixed typo in comment (comma -> colon);
 * Voluspo, 4: fixed typo (diacritics);
-* Renamed and committed parsing scripts;
 * Added color-coding for draft mode
 * Add Lokasenna chapter
 
