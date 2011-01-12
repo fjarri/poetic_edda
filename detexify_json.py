@@ -186,6 +186,10 @@ def detexify(elem, chapter):
 		return
 
 	if elem.text is not None:
+		if elem.tag in ('translation', 'original'):
+			elem.text = elem.text.replace(u'(', u'[')
+			elem.text = elem.text.replace(u')', u']')
+
 		t = detexifyText(elem.text, chapter, elem.tag)
 
 		elem.text = t.text
