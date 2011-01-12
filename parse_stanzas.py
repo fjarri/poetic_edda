@@ -158,7 +158,7 @@ for block in new_blocks:
 
 		if 'prelude' in block:
 			original_prelude = Element('original_prelude')
-			original_prelude.text = u""
+			original_prelude.text = block['prelude']
 			translation_prelude = Element('translation_prelude')
 			translation_prelude.text = u""
 
