@@ -208,6 +208,10 @@ def blockToList(block):
 		elif elem.tag in ('textstanza', 'linestanza'):
 			res.append([blockToList(elem), elem.tag, elem.attrib])
 		else:
+			# save reference, because the text can be changed during movePunctuation
+			if elem.tag == 'chapterref' and 'chapter' not in elem.attrib:
+				elem.attrib['chapter'] = elem.text
+
 			res.append([elem.text, elem.tag, elem.attrib])
 		if elem.tail is not None:
 			res.append([elem.tail, None, None])
