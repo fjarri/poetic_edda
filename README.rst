@@ -133,11 +133,19 @@ Lokasenna (planned)
   fixed typo (ndash -> mdash), added missing reference to Baldrs Draumar
 * Voluspo, 42: fixed typo in comment (comma -> colon);
 * Voluspo, 4: fixed typo (diacritics);
-* Added color-coding for draft mode
+* Added color-coding for draft mode;
+* Marking conjectures with "[]" in both original and translation (Bellows originally used "()");
+* Added Lokasenna chapter
 
-* Check Skirnismol, 34: conjectures in translation and original do not coincide;
-  also think about replacing all [] with () in originals
-* Add Lokasenna chapter
+~~~~~~~~~~~~~~~~~~~~~~
+Thrymskvitha (planned)
+~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Thrymskvitha chapter
+* Insert unbreakable spaces where necessary (between "stanza(s)" and stanza number, for example,
+  or q.~v., cf.~ChapterName)
+* Allow line folding right after mdash (without a space after them Tex fold the ling wrong)
+* Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
