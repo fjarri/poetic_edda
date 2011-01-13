@@ -176,7 +176,7 @@
 			Mǣr's mēr tīþari<sep />an manni hveim<br />
 			ungum ī ārdaga;<br />
 			āsa ok alfa<sep />þat vil engi maþr,<br />
-			at vit samt seïm.
+			at vit samt seïm.”
 		</original>
 		<translation>
 			To me more dear<sep />than in days of old<br />
@@ -187,13 +187,13 @@
 		<comment>
 			Snorri's paraphrase of the poem is sufficiently close so that his addition of another sentence to Freyr's speech makes it probable that a stanza has dropped out between <stanzaref chapter="Skirnismol">7</stanzaref> and <stanzaref chapter="Skirnismol">8</stanzaref>.
 			This has been tentatively reconstructed, thus:
-			<textstanza>
+			<textstanza class="translation">
 				Hither to me<sep />shalt thou bring the maid,<br />
 				And home shalt thou lead her here,<br />
 				If her father wills it<sep />or wills it not,<br />
 				And good reward shalt thou get.”
 			</textstanza>
-			<textstanza>
+			<textstanza class="original">
 				(Hennar skalt biþja<sep />til handa mēr<br />
 				ok hafa heim hinig,<br />
 				hvārz synjar faþir<sep />eþa samþykkir—<br />
@@ -694,7 +694,7 @@
 		<comment>
 			In <source>Regius</source> and in nearly all the editions the first two lines of this stanza are followed by lines 3–5 of stanza <stanzaref chapter="Skirnismol">35</stanzaref>.
 			I have followed Niedner, Sijmons, and Gering.
-			The two words here translated <emph>vile things</emph> are obscure; Gering renders the phrase simply “Kobolde.”
+			The two words here translated <expl>vile things</expl> are obscure; Gering renders the phrase simply “Kobolde.”
 		</comment>
 	</block>
 	<block class="stanza" number="31">
@@ -732,15 +732,15 @@
 		</translation>
 		<comment>
 			No gap indicated in the manuscript; Niedner makes the line here given as 4 the first half of line 3, and fills out the stanza thus:
-			<textstanza>
+			<textstanza class="translation">
 				with which I will tame you,<br />
 				Maid, to work my will.
 			</textstanza>
-			<textstanza>
+			<textstanza class="original">
 				(es þik gǫrva temr<br />
 				mǣr! at mīnum munum.)
 			</textstanza>
-			The whole stanza seems to be either interpolated or out of place; it would fit better after stanza 
+			The whole stanza seems to be either interpolated or out of place; it would fit better after stanza
 			<stanzaref chapter="Skirnismol">25</stanzaref>.
 		</comment>
 	</block>
@@ -759,7 +759,7 @@
 		</translation>
 		<comment>
 			Jonsson marks this stanza as interpolated.
-			The word translated <emph>most evil</emph> is another case of guesswork.
+			The word translated <expl>most evil</expl> is another case of guesswork.
 		</comment>
 	</block>
 	<block class="stanza" number="34">
@@ -979,7 +979,7 @@
 		</translation>
 		<comment>
 			The superscription is lacking in <source>Regius</source>.
-			Snorri quotes this one stanza in his prose paraphrase, <emph>Gylfaginning</emph>, chapter 37.
+			Snorri quotes this one stanza in his prose paraphrase, <source>Gylfaginning</source>, chapter 37.
 			The two versions are substantially the same, except that Snorri makes the first line read, “Long is one night, long is the second.”
 		</comment>
 	</block>
