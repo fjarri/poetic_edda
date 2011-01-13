@@ -422,7 +422,7 @@
 		<comment>
 			Stanzas <stanzaref chapter="Grimnismol">18</stanzaref>–<stanzaref chapter="Grimnismol">20</stanzaref> appear also in Snorri's Edda.
 			Very possibly they are an interpolation here.
-			<expl>Eldhrimnir</expl> (“Sooty with Fire”): the great kettle in Valhall, wherein the gods' cook, <emph>Andhrimnir</emph> (“The Sooty-Faced”) daily cooks the flesh of the boar <emph>Sæhrimnir</emph> (“The Blackened”).
+			<expl>Eldhrimnir</expl> (“Sooty with Fire”): the great kettle in Valhall, wherein the gods' cook, <expl>Andhrimnir</expl> (“The Sooty-Faced”) daily cooks the flesh of the boar <expl>Sæhrimnir</expl> (“The Blackened”).
 			His flesh suffices for all the heroes there gathered, and each evening he becomes whole again, to be cooked the next morning.
 		</comment>
 	</block>
@@ -440,7 +440,7 @@
 			Othin, forever live.
 		</translation>
 		<comment>
-			<expl>Freki</expl> (“The Greedy”) and <emph>Geri</emph> (“The Ravenous”): the two wolves who sit by Othin's side at the feast, and to whom he gives all the food set before him, since wine is food and drink alike for him.
+			<expl>Freki</expl> (“The Greedy”) and <expl>Geri</expl> (“The Ravenous”): the two wolves who sit by Othin's side at the feast, and to whom he gives all the food set before him, since wine is food and drink alike for him.
 			<expl>Heerfather</expl>: Othin.
 		</comment>
 	</block>
@@ -552,7 +552,7 @@
 		</translation>
 		<comment>
 			The first line in the original is, as indicated in the translation, too long, and various attempts to amend it have been made.
-			<expl>Heithrun</expl>: the she-goat who lives on the twigs of the tree <emph>Lærath</emph> (presumably the ash Yggdrasil), and daily gives mead which, like the boar's flesh, suffices for all the heroes in Valhall.
+			<expl>Heithrun</expl>: the she-goat who lives on the twigs of the tree <expl>Lærath</expl> (presumably the ash Yggdrasil), and daily gives mead which, like the boar's flesh, suffices for all the heroes in Valhall.
 			In Snorri's <source>Edda</source> Gangleri foolishly asks whether the heroes drink water, whereto Har replies, “Do you imagine that Othin invites kings and earls and other noble men, and then gives them water to drink?”
 		</comment>
 	</block>
@@ -597,14 +597,14 @@
 			Groth and Gunnthorin.
 		</translation>
 		<comment>
-			The entire passage from stanza <emph>27</emph> through stanza <emph>35</emph> is confused.
+			The entire passage from stanza <stanzaref chapter="Grimnismol">27</stanzaref> through stanza <stanzaref chapter="Grimnismol">35</stanzaref> is confused.
 			The whole thing may well be an interpolation.
 			Bugge calls stanzas <stanzaref chapter="Grimnismol">27</stanzaref>–<stanzaref chapter="Grimnismol">30</stanzaref> an interpolation, and editors who have accepted the passage as a whole have rejected various lines.
 			The spelling of the names of the rivers varies greatly in the manuscripts and editions.
 			It is needless here to point out the many attempted emendations of this list.
 			For a passage presenting similar problems, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">10</stanzaref>–<stanzaref chapter="Voluspo">16</stanzaref>.
 			Snorri virtually quotes stanzas <stanzaref chapter="Grimnismol">27</stanzaref>–<stanzaref chapter="Grimnismol">29</stanzaref> in his prose, though not consecutively.
-			The name <emph>Rin</emph>, in line 3, is identical with that for the River Rhine which appears frequently in the hero poems, but the similarity is doubtless purely accidental.
+			The name <expl>Rin</expl>, in line 3, is identical with that for the River Rhine which appears frequently in the hero poems, but the similarity is doubtless purely accidental.
 		</comment>
 	</block>
 	<block class="stanza" number="28">
@@ -679,7 +679,7 @@
 		</translation>
 		<comment>
 			This stanza, again possibly an interpolation, is closely paraphrased by Snorri following the passage quoted in the previous note.
-			<expl>Glath</expl> (“Joyous”): identified in the <emph>Skaldskaparmal</emph> with Skinfaxi, the horse of day; cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">12</stanzaref>.
+			<expl>Glath</expl> (“Joyous”): identified in the <source>Skaldskaparmal</source> with Skinfaxi, the horse of day; cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">12</stanzaref>.
 			<expl>Gyllir</expl>: “Golden.”
 			<expl>Gler</expl>: “Shining.”
 			<expl>Skeithbrimir</expl>: “Swift-Going.”
@@ -710,13 +710,13 @@
 			The first of these roots is the one referred to in stanza <stanzaref chapter="Grimnismol">26</stanzaref>; the second in stanza <stanzaref chapter="Grimnismol">29</stanzaref> (cf. notes).
 			Of the third root there is nothing noteworthy recorded.
 			After this stanza it is more than possible that one has been lost, paraphrased in the prose of Snorri's Edda thus:
-			<textstanza>
+			<textstanza class="translation">
 				An eagle sits<sep />in the branches of the ash tree,<br />
 				and he is very wise;<br />
 				and between his eyes<sep />sits the hawk<br />
 				who is called Vethrfolnir.
 			</textstanza>
-			<textstanza>
+			<textstanza class="original">
 				(Ǫrn sitr<sep />ā asks limum<br />
 				es vel kveþa mart vita;<br />
 				ǫglir einn<sep />hǫnum augna ī milli<br />
@@ -738,7 +738,7 @@
 			And tells them to Nithhogg beneath.
 		</translation>
 		<comment>
-			<expl>Ratatosk</expl> (“The Swift-Tusked”): concerning this squirrel, the Prose Edda has to add only that he runs up and down the tree conveying the abusive language of the eagle (see note on stanza <stanzaref chapter="Grimnismol">31</stanzaref>) and the dragon <emph>Nithhogg</emph> (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref> and note) to each other.
+			<expl>Ratatosk</expl> (“The Swift-Tusked”): concerning this squirrel, the Prose Edda has to add only that he runs up and down the tree conveying the abusive language of the eagle (see note on stanza <stanzaref chapter="Grimnismol">31</stanzaref>) and the dragon <expl>Nithhogg</expl> (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref> and note) to each other.
 			The hypothesis that Ratatosk “represents the undying hatred between the sustaining and the destroying elements-the gods and the giants,” seems a trifle far-fetched.
 		</comment>
 	</block>
@@ -790,7 +790,7 @@
 			<expl>Grafvitnir</expl>: “The Gnawing Wolf.”
 			<expl>Grabak</expl>: “Gray-Back.”
 			<expl>Grafvolluth</expl>: “The Field Gnawer.”
-			<expl>Ofnir</expl> and <emph>Svafnir</emph> (“The Bewilderer” and “The Sleep-Bringer”): it is noteworthy that in stanza <stanzaref chapter="Grimnismol">54</stanzaref> Othin gives himself these two names.
+			<expl>Ofnir</expl> and <expl>Svafnir</expl> (“The Bewilderer” and “The Sleep-Bringer”): it is noteworthy that in stanza <stanzaref chapter="Grimnismol">54</stanzaref> Othin gives himself these two names.
 		</comment>
 	</block>
 	<block class="stanza" number="35">
@@ -862,7 +862,7 @@
 		<comment>
 			Müllenhoff suspects stanzas <stanzaref chapter="Grimnismol">37</stanzaref>–<stanzaref chapter="Grimnismol">41</stanzaref> to have been interpolated, and Edzardi thinks they may have come from the <chapterref>Vafthruthnismol</chapterref>.
 			Snorri closely paraphrases stanzas <stanzaref chapter="Grimnismol">37</stanzaref>–<stanzaref chapter="Grimnismol">39</stanzaref>, and quotes <stanzaref chapter="Grimnismol">40</stanzaref>–<stanzaref chapter="Grimnismol">41</stanzaref>.
-			<expl>Arvak</expl> (“Early Waker”) and <emph>Alsvith</emph> (“All Swift”): the horses of the sun, named also in <chapterref>Sigrdrifumol</chapterref>, <stanzaref chapter="Sigrdrifumol">15</stanzaref>.
+			<expl>Arvak</expl> (“Early Waker”) and <expl>Alsvith</expl> (“All Swift”): the horses of the sun, named also in <chapterref>Sigrdrifumol</chapterref>, <stanzaref chapter="Sigrdrifumol">15</stanzaref>.
 			According to Snorri: “There was a man called Mundilfari, who had two children; they were so fair and lovely that he called his son Mani and his daughter Sol.
 			The gods were angry at this presumption, and took the children and set them up in heaven; and they bade Sol drive the horses that drew the car of the sun which the gods had made to light the world from the sparks which flew out of Muspellsheim.
 			The horses were called Alsvith and Arvak, and under their yokes the gods set two bellows to cool them, and in some songs these are called `the cold iron.'~”
@@ -899,7 +899,7 @@
 			The burning bride of heaven.
 		</translation>
 		<comment>
-			<expl>Skoll</expl> and <emph>Hati</emph>: the wolves that devour respectively the sun and moon.
+			<expl>Skoll</expl> and <expl>Hati</expl>: the wolves that devour respectively the sun and moon.
 			The latter is the son of Hrothvitnir (“The Mighty Wolf,” i.~e. Fenrir); cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">40</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">46</stanzaref>–<stanzaref chapter="Vafthruthnismol">47</stanzaref>, in which Fenrir appears as the thief.
 			<expl>Ironwood</expl>: a conjectural emendation of an obscure phrase; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">40</stanzaref>.
 		</comment>
@@ -956,7 +956,7 @@
 		<comment>
 			With this stanza Othin gets back to his immediate situation, bound as he is between two fires.
 			He calls down a blessing on the man who will reach into the fire and pull aside the great kettle which, in Icelandic houses, hung directly under the smoke vent in the roof, and thus kept any one above from looking down into the interior.
-			On <emph>Ull</emph>, the archer-god, cf. stanza <stanzaref chapter="Grimnismol">5</stanzaref> and note.
+			On <expl>Ull</expl>, the archer-god, cf. stanza <stanzaref chapter="Grimnismol">5</stanzaref> and note.
 			He is specified here apparently for no better reason than that his name fits the initial-rhyme.
 		</comment>
 	</block>
@@ -1064,7 +1064,7 @@
 			<expl>Thrithi</expl>: “The Third” (in Snorri's <source>Edda</source> the stories are all told in the form of answers to questions, the speakers being Har, Jafnhar and Thrithi.
 			Just what this tripartite form of Othin signifies has been the source of endless debate.
 			Probably this line is late enough to betray the somewhat muddled influence of early Christianity.)
-			<expl>Thuth</expl> and <emph>Uth</emph>: both names defy guesswork.
+			<expl>Thuth</expl> and <expl>Uth</expl>: both names defy guesswork.
 			<expl>Helblindi</expl>: “Hel-Blinder” (two manuscripts have <emph>Herblindi</emph>—“Host-Blinder”).
 			<expl>Hor</expl>: “The High One.”
 		</comment>
@@ -1141,7 +1141,7 @@
 		</translation>
 		<comment>
 			Nothing is known of Asmund, of Othin's appearance as Jalk, or of the occasion when he “went in a sledge” as Kjalar (“Ruler of Keels”?).
-			<expl>Thror</expl> and <emph>Vithur</emph> are also of uncertain meaning.
+			<expl>Thror</expl> and <expl>Vithur</expl> are also of uncertain meaning.
 			<expl>Oski</expl>: “God of Wishes.”
 			<expl>Biflindi</expl>: the manuscripts vary widely in the form of this name.
 			<expl>Jafnhor</expl>: “Equally High” (cf. note on stanza <stanzaref chapter="Grimnismol">46</stanzaref>).
@@ -1244,7 +1244,7 @@
 			<expl>Vofuth</expl>: “The Wanderer.”
 			<expl>Hroptatyr</expl>: “Crier of the Gods.”
 			<expl>Gaut</expl>: “Father.”
-			<expl>Ofnir</expl> and <emph>Svafnir</emph>: cf. stanza <stanzaref chapter="Grimnismol">34</stanzaref>.
+			<expl>Ofnir</expl> and <expl>Svafnir</expl>: cf. stanza <stanzaref chapter="Grimnismol">34</stanzaref>.
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
