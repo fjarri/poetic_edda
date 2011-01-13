@@ -130,7 +130,8 @@ Lokasenna (planned)
 * Skirnismol, introductory note: fixed reference to Grimnismol's introductory note;
 * Skirnismol, 3, 5: added missing colons to preludes;
 * Introduction: added missing space between two sentences, fixed typo (in stead -> instead),
-  fixed typo (ndash -> mdash), added missing reference to Baldrs Draumar
+  fixed typo (ndash -> mdash), added missing reference to Baldrs Draumar;
+* Introduction: unified diacritics scheme with the rest of the book;
 * Voluspo, 42: fixed typo in comment (comma -> colon);
 * Voluspo, 4: fixed typo (diacritics);
 * Voluspo, 65: added original to stanza in comment;
