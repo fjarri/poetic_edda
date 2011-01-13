@@ -15,31 +15,29 @@
 		<inlinesection>Vowels.</inlinesection> The vowels are pronounced approximately as follows:
 	</block>
 	<block class="text">
-		<table>
-a—as in “alone” &amp; u—as <emph>ou</emph> in “would”<br />
-ā—as in “father” &amp; ū—as <emph>ou</emph> in “wound”
-</table>
-	</block>
-	<block class="text">
-		% I could this whole list in one table, but that would require some tricks with multirow/multicolumn and look ugly
-		% Moreover, this variant can span over a pagebreak
-		% FIXME: I may have to tune "em" lengths for different book formats
-		<table>
-e—as in “men” &amp; y—as <emph>i</emph> in “is”  &amp; <multirow><large>}</large></multirow> &amp;
-	<multirow>Both with a slight<br /> sound of German ü</multirow><br />
-ē—as <emph>a</emph> in “fate” &amp; ȳ—as <emph>ee</emph> in “free”  &amp; &amp;<br />
-</table>
-	</block>
-	<block class="text">
-		<table>
-i—as in “is” &amp; æ—as <emph>e</emph> in “men”<br />
-ī—as in “machine” &amp; ǣ—as <emph>a</emph> in “fate”<br />
-o—as in “on” &amp; ei—as <emph>ey</emph> in “they”<br />
-ō—as in “old” &amp; ey—as in “they”<br />
-ø—as in German “öffnen” &amp; au—as <emph>ou</emph> in “out”<br />
-ø̄—as in German “schön” &amp; ai—as <emph>i</emph> in “fine”<br />
-ǭ—as <emph>aw</emph> in “law”
-</table>
+		<table columns="40% 50%">
+			<tr><td>a—as in “alone”</td><td>u—as <emph>ou</emph> in “would”</td></tr>
+			<tr><td>ā—as in “father”</td><td>ū—as <emph>ou</emph> in “wound”</td></tr>
+		</table>
+		<table columns="40% 8em 1.5em 30%">
+			<tr>
+				<td>e—as in “men”</td><td>y—as <emph>i</emph> in “is”</td>
+				<td rowspan="2"><large>}</large></td>
+				<td rowspan="2" width="30%">Both with a slight<br />sound of German ü</td>
+			</tr>
+			<tr>
+				<td>ē—as <emph>a</emph> in “fate”</td><td>ȳ—as <emph>ee</emph> in “free”</td>
+			</tr>
+		</table>
+		<table columns="40% 50%">
+			<tr><td>i—as in “is”</td><td>æ—as <emph>e</emph> in “men”</td></tr>
+			<tr><td>ī—as in “machine”</td><td>ǣ—as <emph>a</emph> in “fate”</td></tr>
+			<tr><td>o—as in “on”</td><td>ei—as <emph>ey</emph> in “they”</td></tr>
+			<tr><td>ō—as in “old”</td><td>ey—as in “they”</td></tr>
+			<tr><td>ø—as in German “öffnen”</td><td>au—as <emph>ou</emph> in “out”</td></tr>
+			<tr><td>ø̄—as in German “schön”</td><td>ai—as <emph>i</emph> in “fine”</td></tr>
+			<tr><td>ǭ—as <emph>aw</emph> in “law”</td><td></td></tr>
+		</table>
 	</block>
 	<block class="text">
 		No attempt has been made to differentiate between the short open “o” and the short closed “o,” which for speakers of English closely resemble one another.
@@ -63,7 +61,7 @@ o—as in “on” &amp; ei—as <emph>ey</emph> in “they”<br />
 		<emph>S</emph> is always hard, as in “so,” “this,” never soft, as in “as.”
 	</block>
 	<block class="text">
-		<emph>H</emph> enters into combinations with various following consonants; with “v” the sound is approximately that of wh in “what”; with “l” “r” and “n” it produces sounds which have no exact English equivalents, but which can be approximated by pronouncing the consonants with a marked initial breathing.
+		<emph>H</emph> enters into combinations with various following consonants; with “v” the sound is approximately that of <emph>wh</emph> in “what”; with “l” “r” and “n” it produces sounds which have no exact English equivalents, but which can be approximated by pronouncing the consonants with a marked initial breathing.
 	</block>
 	<block class="text">
 		<inlinesection>Accents</inlinesection>. The accented syllable in each name is indicated by the acute accent (´). In many names, however, and particularly in compounds, there is both a primary and a secondary, accent, and where this is the case the primary, stress is indicated by a double acute accent (˝) and the secondary one by a single acute accent (´). To avoid possible confusion with the long vowel marks used in Old Norse texts, the accents are placed, not over the vowels, but after the accented syllables.
