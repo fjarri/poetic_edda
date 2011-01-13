@@ -143,9 +143,10 @@ Thrymskvitha (planned)
 
 * Add Thrymskvitha chapter
 * Insert unbreakable spaces where necessary (between "stanza(s)" and stanza number, for example,
-  or q.~v., cf.~ChapterName)
+  or q.~v., cf.~ChapterName, cf.~note, cf.~stanza)
 * Allow line folding right after mdash (without a space after them Tex fold the ling wrong)
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
+* Remove text indentation after <textstanza>? Looks kinda ugly.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
