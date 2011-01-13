@@ -1007,9 +1007,13 @@
 		<comment>
 			The manuscript indicates no lacuna (lines 1 and 2).
 			Many editors have filled out the stanza with two lines from late paper manuscripts, the passage running:
-			<textstanza>
+			<textstanza class="translation">
 				A man must be watchful | and wary as well,<br />
 				And fearful of trusting a friend.
+			</textstanza>
+			<textstanza class="original">
+				(gǣtinn ok geyminn<sep />skyli gumna hverr<br />
+				ok varr at vintrausti)
 			</textstanza>
 		</comment>
 	</block>
@@ -1178,7 +1182,7 @@
 			Of friends the falsest it is.
 		</translation>
 		<comment>
-			in the manuscript this stanza follows <stanzaref chapter="Hovamol">79</stanzaref>, the order being: <stanzaref chapter="Hovamol">77</stanzaref>, <stanzaref chapter="Hovamol">78</stanzaref>, <stanzaref chapter="Hovamol">76</stanzaref>, <stanzaref chapter="Hovamol">80</stanzaref>, <stanzaref chapter="Hovamol">79</stanzaref>, <stanzaref chapter="Hovamol">81</stanzaref>.
+			In the manuscript this stanza follows <stanzaref chapter="Hovamol">79</stanzaref>, the order being: <stanzaref chapter="Hovamol">77</stanzaref>, <stanzaref chapter="Hovamol">78</stanzaref>, <stanzaref chapter="Hovamol">76</stanzaref>, <stanzaref chapter="Hovamol">80</stanzaref>, <stanzaref chapter="Hovamol">79</stanzaref>, <stanzaref chapter="Hovamol">81</stanzaref>.
 			<expl>Fitjung</expl> (“the Nourisher”): Earth.
 		</comment>
 	</block>
@@ -1232,7 +1236,7 @@
 			Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the <source>Ljothatal</source> (stanzas <stanzaref chapter="Hovamol">147</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref>).
 			The stanza-form is so irregular as to show either that something has been lost or that there have been interpolations.
 			The manuscript indicates no lacuna; Gering fills out the assumed gap as follows:
-			<textstanza>
+			<textstanza class="translation">
 				Certain is that which is sought from runes,<br />
 				The runes—, etc.
 			</textstanza>
@@ -1316,7 +1320,7 @@
 			And fickle their breasts were formed.
 		</translation>
 		<comment>
-			Lines 3 and 4 are quoted in the <emph>Fostbræthrasaga</emph>.
+			Lines 3 and 4 are quoted in the <source>Fostbræthrasaga</source>.
 		</comment>
 	</block>
 	<block class="sepline" />
@@ -1363,9 +1367,13 @@
 		<comment>
 			The stanza is doubtless incomplete.
 			Some editors add from a late paper manuscript two lines running:
-			<textstanza>
+			<textstanza class="translation">
 				In a light, clear sky<sep />or a laughing throng,<br />
 				In the bowl of a dog<sep />or a harlot's grief!
+			</textstanza>
+			<textstanza class="original">
+				(heiþrīkum himni,<sep />hlǣjanda herra,<br />
+				hunda gelti<sep />ok harmi skø̄kju)
 			</textstanza>
 		</comment>
 	</block>
@@ -1597,9 +1605,13 @@
 		</translation>
 		<comment>
 			Rask adds at the beginning of this stanza two lines from a late paper manuscript, running:
-			<textstanza>
+			<textstanza class="translation">
 				Few are so good<sep />that false they are never<br />
 				To cheat the mind of a man.
+			</textstanza>
+			<textstanza class="original">
+				(Fār er svā gōþr,<sep />at ei gøra megi<br />
+				hugi brigþa hals.)
 			</textstanza>
 			He makes these two lines plus lines 1 and 2 a full stanza, and line 3, 4, 5, and 6 a second stanza.
 		</comment>
@@ -1640,7 +1652,7 @@
 			I spoke in Suttung's hall.
 		</translation>
 		<comment>
-			The giant <emph>Suttung</emph> (“the old giant”) possessed the magic mead, a draught of which conferred the gift of poetry.
+			The giant <expl>Suttung</expl> (“the old giant”) possessed the magic mead, a draught of which conferred the gift of poetry.
 			Othin, desiring to obtain it, changed himself into a snake, bored his way through a mountain into Suttung's home, made love to the giant's daughter, Gunnloth, and by her connivance drank up all the mead.
 			Then he flew away in the form of an eagle, leaving Gunnloth to her fate.
 			While with Suttung he assumed the name of Bolverk (“the Evil-Doer”).
@@ -2162,9 +2174,13 @@
 		<comment>
 			Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza.
 			Others, attaching lines 3 and 4 to stanza <stanzaref chapter="Hovamol">132</stanzaref>, insert as the first two lines of stanza <stanzaref chapter="Hovamol">133</stanzaref> two lines from a late paper manuscript, running:
-			<textstanza>
+			<textstanza class="translation">
 				Evil and good<sep />do men's sons ever<br />
 				Mingled bear in their breasts.
+			</textstanza>
+			<textstanza class="original">
+				(Lesti ok kosti<sep />bera ljōþa synir<br />
+				blandna brjōstum ī.)
 			</textstanza>
 		</comment>
 	</block>
@@ -2341,7 +2357,7 @@
 			Bolthorn was Othin's grandfather, and Bestla his mother.
 			We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref> and note, and <stanzaref chapter="Voluspo">47</stanzaref> and note).
 			In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas <stanzaref chapter="Hovamol">104</stanzaref>–<stanzaref chapter="Hovamol">110</stanzaref>).
-			Concerning <emph>Othrörir</emph>, here used as the name of the vessel containing the mead, cf. stanza <stanzaref chapter="Hovamol">107</stanzaref> and note.
+			Concerning <expl>Othrörir</expl>, here used as the name of the vessel containing the mead, cf. stanza <stanzaref chapter="Hovamol">107</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="142">
@@ -2395,7 +2411,7 @@
 			And some myself I wrote.
 		</translation>
 		<comment>
-			<expl>Dain</expl> and <emph>Dvalin</emph>: dwarfs; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">14</stanzaref>, and note.
+			<expl>Dain</expl> and <expl>Dvalin</expl>: dwarfs; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">14</stanzaref>, and note.
 			Dain, however, may here be one of the elves rather than the dwarf of that name.
 			The two names also appear together in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">33</stanzaref>, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil.
 			<expl>Alsvith</expl> (“the All Wise”) appears nowhere else as a giant's name.
@@ -2466,7 +2482,7 @@
 			The magic songs themselves are not given, but in each case the peculiar application of the charm is explained.
 			The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem.
 			In the manuscript and in most editions line 4 falls into two half-lines, running:
-			<textstanza>
+			<textstanza class="translation">
 				In sickness and pain<sep />and every sorrow.
 			</textstanza>
 		</comment>

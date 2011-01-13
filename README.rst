@@ -134,6 +134,7 @@ Lokasenna (planned)
 * Voluspo, 42: fixed typo in comment (comma -> colon);
 * Voluspo, 4: fixed typo (diacritics);
 * Voluspo, 65: added original to stanza in comment
+* Hovamol: added inline stanza originals in comments for stanzas 65, 87, 102, 133
 * Added color-coding for draft mode;
 * Marking conjectures with "[]" in both original and translation (Bellows originally used "()");
 * Added Lokasenna chapter
