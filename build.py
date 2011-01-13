@@ -1,33 +1,42 @@
 # coding=utf-8
 
-import json
+from xml.etree.ElementTree import ElementTree, dump
 import codecs
 import os, os.path
+import re
 
-# Function for printing paired stanzas in one-row table
-# Left for reference, not used at the moment
-def printStanzaPair(block):
+def deprettify(elem):
+	divs = ['chapter', 'block', 'original', 'translation', 'comment',
+		'original_prelude', 'translation_prelude', 'textstanza']
 
-	number = block['number']
-	original = u" \\\\\n".join(block['original'])
-	translation = u" \\\\\n".join(block['translation'])
-	comment = u"\n".join(block['comment']) if block['comment'] is not None else None
+	delete_spaces = lambda s: re.sub(ur'\s+', ' ', s, flags=re.UNICODE)
 
-	assert not (('original_prelude' in block) ^ ('translation_prelude' in block))
+	if elem.text is not None:
+		elem.text = elem.text.lstrip()
+		elem.text = delete_spaces(elem.text)
 
-	if 'original_prelude' in block:
-		original_p = u"\n".join(block['original_prelude'])
-		translation_p = u"\n".join(block['translation_prelude'])
-		postfix = u"{" + original_p + u"}{" + translation_p + u"}"
-		command = u"\\eddastanzaprelude"
+	if len(elem) > 0:
+
+		for e in elem:
+			deprettify(e)
+
+			if e.tail is not None:
+				e.tail = delete_spaces(e.tail)
+				if e.tail == '':
+					e.tail = None
+
+		if elem[-1].tail is not None:
+			elem[-1].tail = elem[-1].tail.rstrip()
+			if elem[-1].tail == '':
+				elem[-1].tail = None
+
 	else:
-		postfix = u""
-		command = u"\\eddastanzasimple"
+		if elem.text is not None:
+			elem.text = elem.text.rstrip()
 
-	return command + u" % Stanza " + unicode(number) + u"\n" + \
-		(u"[" + comment + u"]\n" if comment is not None else u"") + \
-		u"{" + unicode(number) + u"}" + \
-		u"{\n" + original + u"}\n{\n" + translation + u"}\n" + postfix + u"\n"
+	if elem.text == '':
+		elem.text = None
+
 
 # Function for printing paired stanzas as multi-row tables
 def printStanzaTable(block):
@@ -35,16 +44,21 @@ def printStanzaTable(block):
 	# helper functions for wrapping table cells
 	leftField = lambda x: u"\\eddastanzaleft{" + x + u"}"
 	rightField = lambda x: u"\\eddastanzaright{" + x + u"}"
-	textit = lambda x: u"\\eddastanzaprelude{" + x + u"}"
+	textit = lambda x: u"\\eddastanzaprelude{\\textit{" + x + u"}}"
 
 	# get info from block
-	number = block['number']
-	original = block['original']
-	translation = block['translation']
-	comment = u"\n".join(block['comment']) if block['comment'] is not None else None
+	number = block.attrib['number']
+	original = printText(block.find('original')).split(u'\\\\\n')
+	translation = printText(block.find('translation')).split(u'\\\\\n')
+	comment = printText(block.find('comment')) if block.find('comment') is not None else None
+
+	original_prelude = printText(block.find('original_prelude')).split(u'\n') \
+		if block.find('original_prelude') is not None else None
+	translation_prelude = printText(block.find('translation_prelude')).split(u'\n') \
+		if block.find('translation_prelude') is not None else None
 
 	# check if both preludes are present, or both absent
-	assert not (('original_prelude' in block) ^ ('translation_prelude' in block))
+	assert not ((original_prelude is None) ^ (translation_prelude is None))
 
 	# check that original and translation have same number of lines
 	# (we are using multirow table, which is sensitive to this)
@@ -61,15 +75,13 @@ def printStanzaTable(block):
 	table_elems[0][0] = u"\\eddastanzanumber{" + unicode(number) + u"}"
 
 	# Add table cells with prelude
-	if 'original_prelude' in block:
-		original_p = block['original_prelude']
-		translation_p = block['translation_prelude']
-		assert len(original_p) == len(translation_p)
+	if original_prelude is not None:
+		assert len(original_prelude) == len(translation_prelude)
 
 		prelude = []
-		for i in xrange(len(original_p)):
-			prelude.append([u" ", leftField(textit(original_p[i])),
-				rightField(textit(translation_p[i]))])
+		for i in xrange(len(original_prelude)):
+			prelude.append([u" ", leftField(textit(original_prelude[i])),
+				rightField(textit(translation_prelude[i]))])
 		table_elems = prelude + table_elems
 
 	table_lines = [u" & ".join(line) for line in table_elems]
@@ -113,9 +125,9 @@ def printProseTable(block):
 	rightField = lambda x: u"\\eddaproseright{" + x + u"}"
 
 	# get info from block
-	original = block['original']
-	translation = block['translation']
-	comment = u"\n".join(block['comment']) if block['comment'] is not None else None
+	original = printText(block.find('original')).split(u'\\\\\n')
+	translation = printText(block.find('translation')).split(u'\\\\\n')
+	comment = printText(block.find('comment')) if block.find('comment') is not None else None
 
 	# check that original and translation have same number of lines
 	# (we are using multirow table, which is sensitive to this)
@@ -130,37 +142,248 @@ def printProseTable(block):
 	table_contents = u"\n".join(table_lines)
 	return "\\eddastanza\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
-		u"{" + block['label'] + u"}\n" + \
+		u"{" + block.attrib['label'] + u"}\n" + \
 		u"{" + table_contents + u"}\n\n"
 
+def tableToTex(elem):
+
+	def sizeToTex(s):
+		if s.endswith(u"em"):
+			return c
+		elif s.endswith(u"%"):
+			return str(float(s[:-1]) / 100) + u"\\textwidth"
+		else:
+			raise Exception("Unknown units: " + s)
+
+	columns = elem.attrib['columns'].split()
+	columns = [sizeToTex(c) for c in columns]
+
+	column_counter = [0] * len(columns)
+
+	columns = " ".join([u'@{} p{' + c + u'}' for c in columns])
+	header = u'\\noindent\\begin{tabular}{' + columns + u'}\n'
+
+	lines = []
+
+	for tr in elem:
+		line = []
+		local_id = 0
+
+		for global_id in xrange(len(column_counter)):
+			if column_counter[global_id] == 0:
+				td = tr[local_id]
+
+				if 'rowspan' in td.attrib:
+					column_counter[global_id] = int(td.attrib['rowspan']) - 1
+					line.append(u'\\multirow{{{span}}}{{{width}}}{{{text}}}'.format(
+						span=td.attrib['rowspan'],
+						text=printText(td),
+						width=("*" if 'width' not in td.attrib else sizeToTex(td.attrib['width']))
+					))
+				else:
+					line.append(printText(td))
+
+				local_id += 1
+			else:
+				line.append('')
+				column_counter[global_id] -= 1
+
+		lines.append(line)
+
+	res = header + u" \\\\\n".join([u" & ".join(line) for line in lines]) + \
+		" \\\\\n\\end{tabular}\n\n"
+
+	return res
+
+def blockToList(block):
+
+	if block.text is not None:
+		res = [[block.text, None, None]]
+	else:
+		res = []
+
+	for elem in block:
+		if elem.tag == 'table':
+			res.append([tableToTex(elem), elem.tag, None])
+		elif elem.tag in ('textstanza', 'linestanza'):
+			res.append([blockToList(elem), elem.tag, elem.attrib])
+		else:
+			# save reference, because the text can be changed during movePunctuation
+			if elem.tag == 'chapterref' and 'chapter' not in elem.attrib:
+				elem.attrib['chapter'] = elem.text
+
+			res.append([elem.text, elem.tag, elem.attrib])
+		if elem.tail is not None:
+			res.append([elem.tail, None, None])
+
+	return res
+
+def movePunctuation(l):
+
+	for i, e in enumerate(l):
+		text, tag, attrib = tuple(e)
+
+		if i == len(l):
+			continue
+
+		if tag not in ('emph', 'chapterref', 'source', 'conj', 'expl'):
+			continue
+
+		if l[i+1][0] is None or l[i+1][0][0] not in ('.', ',', ';', ':', '?', '!'):
+			continue
+
+		e[0] = e[0] + l[i+1][0][0] # add punctuation to wrapped text
+		l[i+1][0] = l[i+1][0][1:] # remove punctuation from tail
+
+
+def listToTex(l):
+
+	modifying_tags = ['emph', 'chapterref']
+	res = []
+
+	for e in l:
+		text, tag, attrib = tuple(e)
+
+		if tag == 'table':
+			res.append(text)
+			continue
+
+		if isinstance(text, unicode) or isinstance(text, str):
+			text = text.replace('[', '{[}')
+			text = text.replace(']', '{]}')
+			text = text.replace('}', '\\}')
+			text = text.replace('{', '\\{')
+
+		if tag is None:
+			res.append(text)
+
+		elif tag == 'ref':
+			res.append(u'\\eddachapterref{{{chapter}}}{{{text}}}'.format(
+				chapter=attrib['chapter'], text=text))
+
+		elif tag == 'chapterref':
+			res.append(u'\\eddachapterref{{{chapter}}}{{\\textit{{{text}}}}}'.format(
+				chapter=text if 'chapter' not in attrib else attrib['chapter'],	text=text))
+
+		elif tag == 'stanzaref':
+			res.append(u'\\eddastanzaref{{{chapter}}}{{{stanza}}}'.format(
+				chapter=attrib['chapter'],
+				stanza=text if 'stanza' not in attrib else attrib['stanza']))
+
+		elif tag == 'proseref':
+			res.append(u'\\eddaproseref{{{chapter}}}{{{label}}}{{{text}}}'.format(
+				chapter=attrib['chapter'],
+				label=attrib['prose'] if 'prose' in attrib else text,
+				text=text
+			))
+
+		elif tag == 'stanzaprelude':
+			res.append(u'\\eddastanzaprelude{\\textit{' + text + u'}}')
+
+		elif tag == 'emph':
+			res.append(u'\\myemph{' + text + u'}')
+
+		elif tag == 'source':
+			res.append(u'\\mysource{' + text + u'}')
+
+		elif tag == 'br':
+			res.append(u'\\\\\n')
+
+		elif tag == 'sep':
+			res.append(u'{\\sep}')
+
+		elif tag == 'lacuna':
+			res.append(u'{\\eddalacuna}')
+
+		elif tag == 'dagger':
+			res.append(u'{\\eddadagger}')
+
+		elif tag == 'section':
+			res.append(u'\\addsec*{' + text + u'}')
+
+		elif tag == 'stress':
+			res.append(u'\\textit{' + text + u'}')
+
+		elif tag == 'conj':
+			res.append(u'\\myconj{' + text + u'}')
+
+		elif tag == 'expl':
+			res.append(u'\\myexpl{' + text + u'}')
+
+		elif tag == 'inlinesection':
+			res.append(u'\\textsc{' + text + u'}')
+
+		elif tag == 'large':
+			res.append(u'\\Large{' + text + u'}')
+
+		elif tag == 'textstanza':
+			res.append(u'\n\\eddainlinestanza{' + listToTex(text) + u'}\n')
+
+		elif tag == 'linestanza':
+			res.append(listToTex(text))
+
+		else:
+			raise Exception("Wrong markup tag: " + tag)
+
+	return u"".join(res)
+
 def printText(block):
-	return u"\n".join(block['text'])
+	l = blockToList(block)
+	movePunctuation(l)
+	res = listToTex(l)
 
-handlers = {
-	'stanza pair': printStanzaTable,
-	'text': printText,
-	'prose': printProseTable
-}
+	if 'vmargins' in block.attrib:
+		vskip = u'\\vskip ' + block.attrib['vmargins']
+		return u'{vskip}\n{res}\n{vskip}'.format(vskip=vskip, res=res)
+	else:
+		return res
 
-filenames = os.listdir('chapters')
+def printChapterHeader(block):
+	if 'icelandic_name' in block.attrib:
+		return u"\\eddachapter{" + block.attrib['icelandic_name'] + \
+			u"}{" + block.attrib['english_name'] + u"}{" + block.attrib['translation'] + u"}"
+	else:
+		return u"\\addchap{" + block.attrib['english_name'] + u'}'
 
-if not os.path.exists('build'):
-	os.mkdir('build')
-elif not os.path.isdir('build'):
-	print "Build directory name is taken"
-	exit(1)
+def printSepline(block):
+	return u"\\eddasepline"
 
-for filename in filenames:
-	name, ext = os.path.splitext(filename)
-	if ext != '.json':
-		continue
 
-	print "Processing: " + str(filename)
+if __name__ == '__main__':
 
-	blocks = json.load(codecs.open("chapters/" + filename, "r", "utf-8"))
-	res = u"\n\n".join([handlers[block['type']](block) for block in blocks])
+	handlers = {
+		'stanza': printStanzaTable,
+		'text': printText,
+		'prose': printProseTable,
+		'chapter': printChapterHeader,
+		'sepline': printSepline
+	}
 
-	f = codecs.open("build/" + name + ".tex", "w", "utf-8")
-	f.write(res)
-	f.close()
+	filenames = os.listdir('chapters')
+
+	if not os.path.exists('build'):
+		os.mkdir('build')
+	elif not os.path.isdir('build'):
+		print "Build directory name is taken"
+		exit(1)
+
+	for filename in filenames:
+		name, ext = os.path.splitext(filename)
+		if ext != '.xml':
+			continue
+
+		print "Processing: " + str(filename)
+
+		f = open("chapters/" + filename)
+		tree = ElementTree(file=f)
+
+		root = tree.getroot()
+		deprettify(root)
+
+		res = handlers['chapter'](root) + u"\n\n" + \
+			u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
+
+		f = codecs.open("build/" + name + ".tex", "w", "utf-8")
+		f.write(res)
+		f.close()
 
