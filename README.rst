@@ -120,9 +120,9 @@ Hymiskvitha (11 Dec 2010)
 
 * Add Hymiskvitha chapter
 
-~~~~~~~~~~~~~~~~~~~
-Lokasenna (planned)
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+Lokasenna (14 Jan 2011)
+~~~~~~~~~~~~~~~~~~~~~~~
 
 * Transformed chapter data to XML format, added some semantic info;
 * Renamed and committed parsing scripts;
