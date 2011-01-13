@@ -133,6 +133,7 @@ Lokasenna (planned)
   fixed typo (ndash -> mdash), added missing reference to Baldrs Draumar
 * Voluspo, 42: fixed typo in comment (comma -> colon);
 * Voluspo, 4: fixed typo (diacritics);
+* Voluspo, 65: added original to stanza in comment
 * Added color-coding for draft mode;
 * Marking conjectures with "[]" in both original and translation (Bellows originally used "()");
 * Added Lokasenna chapter

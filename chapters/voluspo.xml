@@ -205,7 +205,7 @@
 		<comment>
 			Here apparently begins the interpolated catalogue of the dwarfs, running through stanza <stanzaref chapter="Voluspo">16</stanzaref>; possibly, however, the interpolated section does not begin before stanza <stanzaref chapter="Voluspo">11</stanzaref>.
 			Snorri quotes practically the entire section, the names appearing in a somewhat changed order.
-			<expl>Brimir</expl> and <emph>Blain</emph>: nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza <stanzaref chapter="Voluspo">3</stanzaref>).
+			<expl>Brimir</expl> and <expl>Blain</expl>: nothing is known of these two giants, and it has been suggested that both are names for Ymir (cf. stanza <stanzaref chapter="Voluspo">3</stanzaref>).
 			Brimir, however, appears in stanza <stanzaref chapter="Voluspo">37</stanzaref> in connection with the home of the dwarfs.
 			Some editors treat the words as common rather than proper nouns, Brimir meaning “the bloody moisture” and Blain being of uncertain significance.
 		</comment>
@@ -293,7 +293,7 @@
 		</translation>
 		<comment>
 			<expl>Dvalin</expl>: in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">144</stanzaref>, Dvalin seems to have given magic runes to the dwarfs, probably accounting for their skill in craftsmanship, while in <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">13</stanzaref>, he is mentioned as the father of some of the lesser Norns.
-			The story that some of the dwarfs left the rocks and mountains to find a new home on the sands is mentioned, but unexplained, in Snorri's Edda; of <emph>Lofar</emph> we know only that he was descended from these wanderers.
+			The story that some of the dwarfs left the rocks and mountains to find a new home on the sands is mentioned, but unexplained, in Snorri's Edda; of <expl>Lofar</expl> we know only that he was descended from these wanderers.
 		</comment>
 	</block>
 	<block class="stanza" number="15">
@@ -344,7 +344,7 @@
 			Here the poem resumes its course after the interpolated section.
 			Probably, however, something has been lost, for there is no apparent connection between the three giant-maids of stanza <stanzaref chapter="Voluspo">8</stanzaref> and the three gods, Othin, Hönir and Lothur, who in stanza <stanzaref chapter="Voluspo">17</stanzaref> go forth to create man and woman.
 			The word “three” in stanzas <stanzaref chapter="Voluspo">9</stanzaref> and <stanzaref chapter="Voluspo">17</stanzaref> very likely confused some early reciter, or perhaps the compiler himself.
-			<expl>Ask</expl> and <emph>Embla</emph>: ash and elm; Snorri gives them simply as the names of the first man and woman, but says that the gods made this pair out of trees.
+			<expl>Ask</expl> and <expl>Embla</expl>: ash and elm; Snorri gives them simply as the names of the first man and woman, but says that the gods made this pair out of trees.
 		</comment>
 	</block>
 	<block class="stanza" number="18">
@@ -407,7 +407,7 @@
 		<comment>
 			<expl>The maidens</expl>: the three Norns; possibly this stanza should follow stanza <stanzaref chapter="Voluspo">8</stanzaref>.
 			<expl>Dwelling</expl>: <source>Regius</source> has “sæ” (sea) instead of “sal” (hall, home), and many editors have followed this reading, although Snorri's prose paraphrase indicates “sal.”
-			<expl>Urth, Verthandi and Skuld</expl>: “Past,” “Present” and “Future.”
+			<expl>Urth</expl>, <expl>Verthandi</expl> and <expl>Skuld</expl>: “Past,” “Present” and “Future.”
 			<expl>Wood, etc.</expl>: the magic signs (runes) controlling the destinies of men were cut on pieces of wood.
 			Lines 3–4 are probably interpolations from some other account of the Norns.
 		</comment>
@@ -703,7 +703,7 @@
 		</translation>
 		<comment>
 			<expl>Frigg</expl>: Othin's wife.
-			Some scholars have regarded her as a solar myth, calling her the sun-goddess, and pointing out that her home in <emph>Fensalir</emph> (“the sea-halls”) symbolizes the daily setting of the sun beneath the ocean horizon.
+			Some scholars have regarded her as a solar myth, calling her the sun-goddess, and pointing out that her home in <expl>Fensalir</expl> (“the sea-halls”) symbolizes the daily setting of the sun beneath the ocean horizon.
 		</comment>
 	</block>
 	<block class="stanza" number="35">
@@ -722,15 +722,15 @@
 		<comment>
 			The translation here follows the <source>Regius</source> version.
 			The <source>Hauksbok</source> has the same final two lines, but in place of the first pair has,
-			<textstanza>
+			<textstanza class="translation">
 				I know that Vali<sep />his brother gnawed,<br />
 				With his bowels then<sep />was Loki bound.
 			</textstanza>
-			<textstanza>
+			<textstanza class="original">
 				(þā knā Vāla<sep />vīgbǫnd snūa,<br />
 				heldr vǫru harþgǫr<sep />hǫpt ōr þǫrmum.)
 			</textstanza>
-			Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from 
+			Many editors have followed this version of the whole stanza or have included these two lines, often marking them as doubtful, with the four from
 			<source>Regius</source>.
 			After the murder of Baldr, the gods took Loki and bound him to a rock with the bowels of his son Narfi, who had just been torn to pieces by Loki's other son, Vali.
 			A serpent was fastened above Loki's head, and the venom fell upon his face.
@@ -754,7 +754,8 @@
 		</translation>
 		<comment>
 			Stanzas <stanzaref chapter="Voluspo">36</stanzaref>–<stanzaref chapter="Voluspo">39</stanzaref> describe the homes of the enemies of the gods: the giants (<stanzaref chapter="Voluspo">36</stanzaref>), the dwarfs (<stanzaref chapter="Voluspo">37</stanzaref>), and the dead in the land of the goddess Hel (<stanzaref chapter="Voluspo">38</stanzaref>–<stanzaref chapter="Voluspo">39</stanzaref>).
-			The <source>Hauksbok</source> version omits stanzas <stanzaref chapter="Voluspo">36</stanzaref> and <stanzaref chapter="Voluspo">37</stanzaref>.<source>Regius</source> unites <stanzaref chapter="Voluspo">36</stanzaref> with <stanzaref chapter="Voluspo">37</stanzaref>, but most editors have assumed a lacuna.
+			The <source>Hauksbok</source> version omits stanzas <stanzaref chapter="Voluspo">36</stanzaref> and <stanzaref chapter="Voluspo">37</stanzaref>.
+			<source>Regius</source> unites <stanzaref chapter="Voluspo">36</stanzaref> with <stanzaref chapter="Voluspo">37</stanzaref>, but most editors have assumed a lacuna.
 			<expl>Slith</expl> (“the Fearful”): a river in the giants' home.
 			The “swords and daggers” may represent the icy cold.
 		</comment>
@@ -862,7 +863,7 @@
 		</translation>
 		<comment>
 			In the third line many editors omit the comma after “sun,” and put one after “soon,” making the two lines run:
-			<textstanza>
+			<textstanza class="translation">
 				Dark grows the sun<sep />in summer soon,<br />
 				Mighty storms—etc.
 			</textstanza>
@@ -1052,7 +1053,8 @@
 			Gnaws corpses screaming;<sep />Naglfar is loose.
 		</translation>
 		<comment>
-			<expl>Hrym</expl>: the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4). <emph>The serpent</emph>: Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza <stanzaref chapter="Voluspo">39</stanzaref>, note).
+			<expl>Hrym</expl>: the leader of the giants, who comes as the helmsman of the ship Naglfar (line 4).
+			<expl>The serpent</expl>: Mithgarthsorm, one of the children of Loki and Angrbotha (cf. stanza <stanzaref chapter="Voluspo">39</stanzaref>, note).
 			The serpent was cast into the sea, where he completely encircles the land; cf. especially <chapterref>Hymiskvitha</chapterref>, passim.
 			<expl>The eagle</expl>: the giant Hræsvelg, who sits at the edge of heaven in the form of an eagle, and makes the winds with his wings; cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">37</stanzaref>, and <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">27</stanzaref>.
 			<expl>Naglfar</expl>: the ship which was made out of dead men's nails to carry the giants to battle.
@@ -1275,12 +1277,11 @@
 		</translation>
 		<comment>
 			The <source>Hauksbok</source> version of the first two lines runs:
-			<textstanza>
+			<textstanza class="translation">
 				The gods shall find there,<sep />wondrous fair,<br />
 				The golden tables<sep />amid the grass.
 			</textstanza>
 			No lacuna (line 4) is indicated in the manuscripts.
-			
 			<expl>Golden tables</expl>: cf. stanza <stanzaref chapter="Voluspo">8</stanzaref> and note.
 		</comment>
 	</block>
@@ -1363,9 +1364,13 @@
 		<comment>
 			This stanza is not found in <source>Regius</source>, and is probably spurious.
 			No lacuna is indicated in the <source>Hauksbok</source> version, but late paper manuscripts add two lines, running:
-			<textstanza>
+			<textstanza class="translation">
 				Rule he orders,<sep />and rights he fixes,<br />
 				Laws he ordains<sep />that ever shall live.
+			</textstanza>
+			<textstanza class="original">
+				(semr hann dōma<sep />ok sakar leggr<br />
+				vēskǫp setr<sep />þaus vesa skulu)
 			</textstanza>
 			The name of this new ruler is nowhere given, and of course the suggestion of Christianity is unavoidable.
 			It is not certain, how ever, that even this stanza refers to Christianity, and if it does, it may have been interpolated long after the rest of the poem was composed.
@@ -1376,7 +1381,7 @@
 			Kømr enn dimmi<sep />dreki fljūgandi,<br />
 			naþr frānn neþan<sep />frā Niþafjǫllum;<br />
 			bersk ī fjǫþrum<sep />—flȳgr vǫll yfir—<br />
-			Nīþhǫggr naï:<sep />nū mun søkkvask. 
+			Nīþhǫggr naï:<sep />nū mun søkkvask.
 		</original>
 		<translation>
 			From below the dragon<sep />dark comes forth,<br />
