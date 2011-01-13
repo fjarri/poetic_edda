@@ -176,7 +176,7 @@ def movePunctuation(l):
 		if tag == 'chapterref' and 'chapter' not in attrib:
 			attrib['chapter'] = text
 
-		if l[i+1][0] is None or l[i+1][0][0] not in ('.', ',', ';', ':'):
+		if l[i+1][0] is None or l[i+1][0][0] not in ('.', ',', ';', ':', '?', '!'):
 			continue
 
 		e[0] = e[0] + l[i+1][0][0] # add punctuation to wrapped text
