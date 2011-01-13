@@ -173,9 +173,6 @@ def movePunctuation(l):
 		if tag not in ('emph', 'chapterref', 'source', 'conj', 'expl'):
 			continue
 
-		if tag == 'chapterref' and 'chapter' not in attrib:
-			attrib['chapter'] = text
-
 		if l[i+1][0] is None or l[i+1][0][0] not in ('.', ',', ';', ':', '?', '!'):
 			continue
 
@@ -199,9 +196,6 @@ def listToTex(l):
 		if tag is None:
 			res.append(text)
 
-		elif tag == 'ref':
-			res.append(u'\\eddachapterref{{{chapter}}}{{{text}}}'.format(
-				chapter=attrib['chapter'], text=text))
 
 		elif tag == 'chapterref':
 			res.append(u'\\eddachapterref{{{chapter}}}{{\\textit{{{text}}}}}'.format(
