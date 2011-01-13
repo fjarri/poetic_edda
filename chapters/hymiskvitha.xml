@@ -232,7 +232,7 @@
 			The friend of mankind,<sep />and Veur they call him.
 		</translation>
 		<comment>
-			Two or three editors give this stanza a superscription (“The concubine spake”—“Frilla kvaþ”, “The daughter spake”—“Dōttir kvaþ”).
+			Two or three editors give this stanza a superscription (<linestanza class="translation">“The concubine spake”</linestanza><linestanza class="original">—“Frilla kvaþ”</linestanza>, <linestanza class="translation">“The daughter spake”</linestanza><linestanza class="original">—“Dōttir kvaþ”</linestanza>).
 			Line 3 is commonly regarded as spurious.
 			<expl>The foeman of Hroth</expl>: of course this means Thor, but nothing is known of any enemy of his by this name.
 			Several editors have sought to make a single word meaning “the famous enemy” out of the phrase.
@@ -540,7 +540,7 @@
 		</translation>
 		<comment>
 			No superscription in the manuscripts.
-			In its place Bugge supplies a line—“These words spake Hymir,<sep />the giant wise.” (“Þā kvaþ þat Hymir,<sep />hundvīss jǫtunn.”)
+			In its place Bugge supplies a line:—<linestanza class="translation">“These words spake Hymir,<sep />the giant wise.</linestanza> <linestanza class="original">(“Þā kvaþ þat Hymir,<sep />hundvīss jǫtunn.”)</linestanza>
 			The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza <stanzaref chapter="Hymiskvitha">28</stanzaref>.
 			<expl>Goat of the flood</expl>: boat.
 		</comment>
@@ -652,11 +652,11 @@
 		<comment>
 			The manuscripts have no superscription.
 			Line 4 in the manuscripts is somewhat obscure, and Bugge, followed by some editors, suggests a reading which may be rendered (beginning with the second half of line 3):
-			<textstanza>
+			<textstanza class="translation">
 				No more can I speak<br />
 				Ever again<sep />as I spoke of old.
 			</textstanza>
-			<textstanza>
+			<textstanza class="original">
 				(knākat ek segja<br />
 				aptr ǣvagi<sep />þvī er ek āþr of hēt.)
 			</textstanza>
@@ -690,7 +690,7 @@
 			And about his heels<sep />the handles clattered.
 		</translation>
 		<comment>
-			<expl>The father of Mothi</expl> and <emph>Sif's husband</emph>: Thor.
+			<expl>The father of Mothi</expl> and <expl>Sif's husband</expl>: Thor.
 		</comment>
 	</block>
 	<block class="stanza" number="36">
@@ -726,7 +726,7 @@
 		</translation>
 		<comment>
 			No gap is indicated in the manuscripts.
-			Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: “Who with Hymir<sep />followed after.” (“er meþ Hymi<sep />eptir fōru.”)
+			Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: <linestanza class="translation">“Who with Hymir<sep />followed after.”</linestanza> <linestanza class="original">(“er meþ Hymi<sep />eptir fōru.”)</linestanza>
 			<expl>Whales of the waste</expl>: giants.
 		</comment>
 	</block>

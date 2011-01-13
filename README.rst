@@ -136,6 +136,7 @@ Lokasenna (planned)
 * Voluspo, 65: added original to stanza in comment;
 * Hovamol: added inline stanza originals in comments for stanzas 65, 87, 102, 133;
 * Vafthruthnismol: added inline stanza originals in comments for stanzas 27, 54;
+* Hymiskvitha: marked one-line stanzas with their own tag;
 * Added color-coding for draft mode;
 * Marking conjectures with "[]" in both original and translation (Bellows originally used "()");
 * Added Lokasenna chapter
