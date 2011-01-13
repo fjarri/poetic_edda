@@ -152,6 +152,7 @@ Thrymskvitha (planned)
 * Allow line folding right after mdash (without a space after them Tex fold the ling wrong)
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
+* Refactor scripts
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
