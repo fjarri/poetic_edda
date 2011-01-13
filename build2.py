@@ -145,6 +145,56 @@ def printProseTable(block):
 		u"{" + block.attrib['label'] + u"}\n" + \
 		u"{" + table_contents + u"}\n\n"
 
+def tableToTex(elem):
+
+	def sizeToTex(s):
+		if s.endswith(u"em"):
+			return c
+		elif s.endswith(u"%"):
+			return str(float(s[:-1]) / 100) + u"\\textwidth"
+		else:
+			raise Exception("Unknown units: " + s)
+
+	columns = elem.attrib['columns'].split()
+	columns = [sizeToTex(c) for c in columns]
+
+	column_counter = [0] * len(columns)
+
+	columns = " ".join([u'@{} p{' + c + u'}' for c in columns])
+	header = u'\\noindent\\begin{tabular}{' + columns + u'}\n'
+
+	lines = []
+
+	for tr in elem:
+		line = []
+		local_id = 0
+
+		for global_id in xrange(len(column_counter)):
+			if column_counter[global_id] == 0:
+				td = tr[local_id]
+
+				if 'rowspan' in td.attrib:
+					column_counter[global_id] = int(td.attrib['rowspan']) - 1
+					line.append(u'\\multirow{{{span}}}{{{width}}}{{{text}}}'.format(
+						span=td.attrib['rowspan'],
+						text=printText(td),
+						width=("*" if 'width' not in td.attrib else sizeToTex(td.attrib['width']))
+					))
+				else:
+					line.append(printText(td))
+
+				local_id += 1
+			else:
+				line.append('')
+				column_counter[global_id] -= 1
+
+		lines.append(line)
+
+	res = header + u" \\\\\n".join([u" & ".join(line) for line in lines]) + \
+		" \\\\\n\\end{tabular}\n\n"
+
+	return res
+
 def blockToList(block):
 
 	if block.text is not None:
@@ -153,7 +203,9 @@ def blockToList(block):
 		res = []
 
 	for elem in block:
-		if elem.tag in ('textstanza', 'linestanza'):
+		if elem.tag == 'table':
+			res.append([tableToTex(elem), elem.tag, None])
+		elif elem.tag in ('textstanza', 'linestanza'):
 			res.append([blockToList(elem), elem.tag, elem.attrib])
 		else:
 			res.append([elem.text, elem.tag, elem.attrib])
@@ -186,16 +238,20 @@ def listToTex(l):
 	res = []
 
 	for e in l:
-		if isinstance(e[0], unicode):
-			e[0] = e[0].replace('[', '{[}')
-			e[0] = e[0].replace(']', '{]}')
-
-	for e in l:
 		text, tag, attrib = tuple(e)
+
+		if tag == 'table':
+			res.append(text)
+			continue
+
+		if isinstance(text, unicode) or isinstance(text, str):
+			text = text.replace('[', '{[}')
+			text = text.replace(']', '{]}')
+			text = text.replace('}', '\\}')
+			text = text.replace('{', '\\{')
 
 		if tag is None:
 			res.append(text)
-
 
 		elif tag == 'chapterref':
 			res.append(u'\\eddachapterref{{{chapter}}}{{\\textit{{{text}}}}}'.format(
@@ -248,6 +304,9 @@ def listToTex(l):
 
 		elif tag == 'inlinesection':
 			res.append(u'\\textsc{' + text + u'}')
+
+		elif tag == 'large':
+			res.append(u'\\Large{' + text + u'}')
 
 		elif tag == 'textstanza':
 			res.append(u'\n\\eddainlinestanza{' + listToTex(text) + u'}\n')
