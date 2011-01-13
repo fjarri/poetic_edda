@@ -170,7 +170,7 @@
 		The following is an example of the Fornyrthislag stanza, the accented syllables being in italics:
 	</block>
 	<block class="text">
-		<textstanza>
+		<textstanza class="original">
 			<stress>Vreiþr</stress> vas <stress>Ving</stress>þórr,<sep />es <stress>vakna</stress>þi<br />
 			ok <stress>síns</stress> <stress>ham</stress>ars<sep />of <stress>sakna</stress>þi;<br />
 			<stress>skegg</stress> nam <stress>hris</stress>ta,<sep /><stress>skǫr</stress> nam <stress>dý</stress>ja,<br />
@@ -182,7 +182,7 @@
 		The following is an example:
 	</block>
 	<block class="text">
-		<textstanza>
+		<textstanza class="original">
 			<stress>Ar</stress> skal <stress>rí</stress>sa<sep />sás <stress>an</stress>nars <stress>vill</stress><br />
 			<stress>fé</stress> eþa <stress>fiǫr</stress> ha<stress>fa;</stress><br />
 			<stress>ligg</stress>jandi <stress>ulfr</stress><sep />sjaldan <stress>láer</stress> of <stress>getr</stress><br />
@@ -194,7 +194,7 @@
 		The following is an example:
 	</block>
 	<block class="text">
-		<textstanza>
+		<textstanza class="original">
 			<stress>Horsk</stress> vas <stress>hús</stress>freyja,<sep /><stress>hug</stress>þi at <stress>mann</stress>viti,<br />
 			<stress>lag</stress> heyrþi <stress>òr</stress>þa,<sep />hvat á <stress>laun</stress> <stress>máel</stress>tu;<br />
 			þá vas <stress>vant</stress> <stress>vit</stress>ri,<sep /><stress>vil</stress>di þeim <stress>hjal</stress>þa:<br />
@@ -217,7 +217,7 @@
 		Fornyrthislag:
 	</block>
 	<block class="text">
-		<textstanza>
+		<textstanza class="translation">
 			<stress>Wild</stress> was <stress>Ving</stress>thor<sep /><stress>when</stress> he <stress>awoke,</stress><br />
 			And <stress>when</stress> his <stress>might</stress>y<sep /><stress>ham</stress>mer he <stress>missed;</stress><br />
 			He <stress>shook</stress> his <stress>beard,</stress><sep />his <stress>hair</stress> was <stress>brist</stress>ling,<br />
@@ -228,7 +228,7 @@
 		Ljothahattr:
 	</block>
 	<block class="text">
-		<textstanza>
+		<textstanza class="translation">
 			He must <stress>ear</stress>ly go <stress>forth</stress><sep />who <stress>fain</stress> the <stress>blood</stress><br />
 			Or the <stress>goods</stress> of an<stress>other</stress> would <stress>get;</stress><br />
 			The <stress>wolf</stress> that lies <stress>id</stress>le<sep />shall <stress>win</stress> little <stress>meat,</stress><br />
@@ -239,7 +239,7 @@
 		Malahattr:
 	</block>
 	<block class="text">
-		<textstanza>
+		<textstanza class="translation">
 			<stress>Wise</stress> was the <stress>wom</stress>an,<sep />she <stress>fain</stress> would use <stress>wis</stress>dom,<br />
 			She <stress>saw</stress> well what <stress>meant</stress><sep />all they <stress>said</stress> in <stress>sec</stress>ret;<br />
 			From her <stress>heart</stress> it was <stress>hid</stress><sep />how <stress>help</stress> she might <stress>ren</stress>der,<br />
