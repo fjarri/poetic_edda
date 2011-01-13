@@ -322,7 +322,13 @@ def listToTex(l):
 def printText(block):
 	l = blockToList(block)
 	movePunctuation(l)
-	return listToTex(l)
+	res = listToTex(l)
+
+	if 'vmargins' in block.attrib:
+		vskip = u'\\vskip ' + block.attrib['vmargins']
+		return u'{vskip}\n{res}\n{vskip}'.format(vskip=vskip, res=res)
+	else:
+		return res
 
 def printChapterHeader(block):
 	if 'icelandic_name' in block.attrib:

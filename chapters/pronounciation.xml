@@ -14,7 +14,7 @@
 	<block class="text">
 		<inlinesection>Vowels.</inlinesection> The vowels are pronounced approximately as follows:
 	</block>
-	<block class="text">
+	<block class="text" vmargins="0.5em">
 		<table columns="40% 50%">
 			<tr><td>a—as in “alone”</td><td>u—as <emph>ou</emph> in “would”</td></tr>
 			<tr><td>ā—as in “father”</td><td>ū—as <emph>ou</emph> in “wound”</td></tr>
