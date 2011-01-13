@@ -153,7 +153,7 @@ def blockToList(block):
 		res = []
 
 	for elem in block:
-		if elem.tag == 'textstanza':
+		if elem.tag in ('textstanza', 'linestanza'):
 			res.append([blockToList(elem), elem.tag, elem.attrib])
 		else:
 			res.append([elem.text, elem.tag, elem.attrib])
@@ -257,6 +257,9 @@ def listToTex(l):
 
 		elif tag == 'textstanza':
 			res.append(u'\n\\eddainlinestanza{' + listToTex(text) + u'}\n')
+
+		elif tag == 'linestanza':
+			res.append(listToTex(text))
 
 		else:
 			raise Exception("Wrong markup tag: " + tag)
