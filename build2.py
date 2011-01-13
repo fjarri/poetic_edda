@@ -253,6 +253,10 @@ def listToTex(l):
 		if tag is None:
 			res.append(text)
 
+		elif tag == 'ref':
+			res.append(u'\\eddachapterref{{{chapter}}}{{{text}}}'.format(
+				chapter=attrib['chapter'], text=text))
+
 		elif tag == 'chapterref':
 			res.append(u'\\eddachapterref{{{chapter}}}{{\\textit{{{text}}}}}'.format(
 				chapter=text if 'chapter' not in attrib else attrib['chapter'],	text=text))
