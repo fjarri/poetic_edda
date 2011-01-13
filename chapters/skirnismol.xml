@@ -1,0 +1,986 @@
+<chapter english_name="Skirnismol" icelandic_name="Skirnismǭl" translation="The Ballad of Skirnir">
+	<block class="text">
+		The Skirnismol is found complete in the <source>Codex Regius</source>, and through stanza <stanzaref chapter="Skirnismol">27</stanzaref> in the <source>Arnamagnæan Codex</source>.
+		Snorri quotes the concluding stanza.
+		In Regius the poem is entitled “For Scirnis” (“Skirnir's journey”).
+	</block>
+	<block class="text">
+		The Skirnismol differs sharply from the poems preceding it, in that it has a distinctly ballad quality.
+		As a matter of fact, however, its verse is altogether dialogue, the narrative being supplied in the prose “links,” concerning which cf. <chapterref chapter="Grimnismol">introductory note</chapterref> to the <chapterref>Grimnismol</chapterref>.
+		The dramatic effectiveness and vivid characterization of the poem seem to connect it with the <chapterref>Thrymskvitha</chapterref>, and the two may possibly have been put into their present form by the same man.
+		Bugge's guess that the <chapterref>Skirnismol</chapterref> was the work of the author of the <chapterref>Lokasenna</chapterref> is also possible, though it has less to support it.
+	</block>
+	<block class="text">
+		Critics have generally agreed in dating the poem as we now have it as early as the first half of the tenth century; Finnur Jonsson puts it as early as 900, and claims it, as usual, for Norway.
+		Doubtless it was current in Norway, in one form or another, before the first Icelandic settlements, but his argument that the thistle (stanza <stanzaref chapter="Skirnismol">31</stanzaref>) is not an Icelandic plant has little weight, for such curse-formulas must have traveled freely from place to place.
+		In view of the evidence pointing to a western origin for many or all of the Eddic poems, Jonsson's reiterated “Digtet er sikkert norsk og ikke islandsk” is somewhat exasperating.
+		Wherever the <chapterref>Skirnismol</chapterref> was composed, it has been preserved in exceptionally good condition, and seems to be practically devoid of interpolations or lacunæ.
+	</block>
+	<block class="sepline" />
+	<block class="prose" label="introduction">
+		<original>
+			Freyr sonr Njarþar hafþi einn dag sez ī Hliþskjālf ok sā um heima alla;<br />
+			hann sā ī jǫtunheima ok sā þar mey fagra, þā er hon gekk frā skāla fǫþur sīns til skemmu.<br />
+			Þar af fekk hann hugsōttir miklar.<br />
+			Skirnir hēt skōsveinn Freys; Njǫrpþr baþ hann kveþja Frey māls.<br />
+			<conj>Hann mælti</conj>:
+		</original>
+		<translation>
+			Freyr, the son of Njorth, had sat one day in Hlithskjolf, and looked over all the worlds.<br />
+			He looked into Jotunheim, and saw there a fair maiden, as she went from her father's house to her bower.<br />
+			Forthwith he felt a mighty love-sickness.<br />
+			Skirnir was the name of Freyr's servant; Njorth bade him ask speech of Freyr.<br />
+			He said:
+		</translation>
+		<comment>
+			<expl>Freyr</expl>: concerning his father, Njorth, and the race of the Wanes in general, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note.
+			Snorri thus describes Njorth's family: “Njorth begat two children in Noatun; the son was named Freyr, and the daughter Freyja; they were fair of aspect and mighty.
+			Freyr is the noblest of the gods; he rules over rain and sunshine, and therewith the fruitfulness of the earth; it is well to call upon him for plenty and welfare, for he rules over wealth for mankind.
+			Freyja is the noblest of the goddesses.
+			When she rides to the fight, she has one-half of the slain, and Othin has half.
+			When she goes on a journey, she drives her two cats, and sits in a cart.
+			Love-songs please her well, and it is good to call on her in love-matters.”
+			<expl>Hlithskjolf</expl>: Othin's watch-tower; cf. <chapterref>Grimnismol</chapterref>, introductory prose.
+			<expl>He said</expl>: both manuscripts have “Then Skathi said:” (Skathi was Njorth's wife), but Bugge's emendation, based on Snorri's version, is doubtless correct.
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			“Rīs nū, Skirnir!<sep />ok <conj>rāþ</conj> at beiþa<br />
+			<conj>minn</conj> māla mǫg,<br />
+			ok þess at fregna,<sep />hveim enn frōþi sē<br />
+			ofreiþi afi.”
+		</original>
+		<translation>
+			“Go now, Skirnir!<sep />and seek to gain<br />
+			Speech from my son;<br />
+			And answer to win,<sep />for whom the wise one<br />
+			Is mightily moved.”
+		</translation>
+		<comment>
+			<expl>My son</expl>: both manuscripts, and many editors, have “our son,” which, of course, goes with the introduction of Skathi in the prose.
+			As the stanza is clearly addressed to Skirnir, the change of pronouns seems justified.
+			The same confusion occurs in stanza <stanzaref chapter="Skirnismol">2</stanzaref>, where Skirnir in the manuscripts is made to speak of Freyr as “your son” (plural).
+			The plural pronoun in the original involves a metrical error, which is corrected by the emendation.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Illra orþa<sep />erumk ōn at <conj>þīnum</conj> syni,<br />
+			ef gengk at mǣla viþ mǫg,<br />
+			ok þess at fregna,<sep />hveim enn frōþi sē<br />
+			ofreiþi afi.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Ill words do I now<sep />await from thy son,<br />
+			If I seek to get speech with him,<br />
+			And answer to win,<sep />for whom the wise one<br />
+			Is mightily moved.”
+		</translation>
+	</block>
+	<block class="stanza" number="3">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Segþu þat, Freyr,<sep />folkvaldi goþa!<br />
+			auk ek vilja vita:<br />
+			hvī einn sitr<sep />endlanga sali,<br />
+			minn drōttinn! of daga?
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Speak prithee, Freyr,<sep />foremost of the gods,<br />
+			For now I fain would know;<br />
+			Why sittest thou here<sep />in the wide halls,<br />
+			Days long, my prince, alone?”
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original_prelude>
+			Freyr kvaþ:
+		</original_prelude>
+		<original>
+			“Hvi of segjak þēr,<sep />seggr enn ungi!<br />
+			mikinn mōþtrega?<br />
+			þvīt alfrǫþull<sep />lȳsir of alla daga,<br />
+			ok þeygi at mīnum munum.”
+		</original>
+		<translation_prelude>
+			Freyr spake:
+		</translation_prelude>
+		<translation>
+			“How shall I tell thee,<sep />thou hero young,<br />
+			Of all my grief so great?<br />
+			Though every day<sep />the elfbeam dawns,<br />
+			It lights my longing never.”
+		</translation>
+		<comment>
+			<expl>Elfbeam</expl>: the sun, so called because its rays were fatal to elves and dwarfs; cf. <chapterref>Alvissmol</chapterref>, <stanzaref chapter="Alvissmol">35</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Muni þīna<sep />hykkak svā mikla vesa,<br />
+			at mēr, seggr! nē segir;<br />
+			þvīt ungir saman<sep />vǭrum ī ārdaga,<br />
+			vel mǣttim tveir truask.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Thy longings, methinks,<sep />are not so large<br />
+			That thou mayst not tell them to me;<br />
+			Since in days of yore<sep />we were young together,<br />
+			We two might each other trust.”
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+			Freyr kvaþ:
+		</original_prelude>
+		<original>
+			“Ī Gymis gǫrþum<sep />ek sā ganga<br />
+			mēr tīþa mey;<br />
+			armar lȳstu,<sep />en af þaþan<br />
+			allt lopt ok lǫgr.
+		</original>
+		<translation_prelude>
+			Freyr spake:
+		</translation_prelude>
+		<translation>
+			“From Gymir's house<sep />I beheld go forth<br />
+			A maiden dear to me;<br />
+			Her arms glittered,<sep />and from their gleam<br />
+			Shone all the sea and sky.
+		</translation>
+		<comment>
+			<expl>Gymir</expl>: a mountain-giant, husband of Aurbotha, and father of Gerth, fairest among women.
+			This is all Snorri tells of him in his paraphrase of the story.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			Mǣr's mēr tīþari<sep />an manni hveim<br />
+			ungum ī ārdaga;<br />
+			āsa ok alfa<sep />þat vil engi maþr,<br />
+			at vit samt seïm.
+		</original>
+		<translation>
+			To me more dear<sep />than in days of old<br />
+			Was ever maiden to man;<br />
+			But no one of gods<sep />or elves will grant<br />
+			That we both together should be.”
+		</translation>
+		<comment>
+			Snorri's paraphrase of the poem is sufficiently close so that his addition of another sentence to Freyr's speech makes it probable that a stanza has dropped out between <stanzaref chapter="Skirnismol">7</stanzaref> and <stanzaref chapter="Skirnismol">8</stanzaref>.
+			This has been tentatively reconstructed, thus:
+			<textstanza>
+				Hither to me<sep />shalt thou bring the maid,<br />
+				And home shalt thou lead her here,<br />
+				If her father wills it<sep />or wills it not,<br />
+				And good reward shalt thou get.”
+			</textstanza>
+			<textstanza>
+				(Hennar skalt biþja<sep />til handa mēr<br />
+				ok hafa heim hinig,<br />
+				hvārz synjar faþir<sep />eþa samþykkir—<br />
+				gōþ skalt laun geta.”)
+			</textstanza>
+			Finn Magnusen detected the probable omission of a stanza here as early as 1821.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Mar gef mēr þā,<sep />þanns mik of myrkvan beri<br />
+			vīsan vafrloga,<br />
+			ok þat sverþ,<sep />es sjalft vegisk<br />
+			<dagger /> viþ jǫtna ǣtt.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Then give me the horse<sep />that goes through the dark<br />
+			And magic flickering flames;<br />
+			And the sword as well<sep />that fights of itself<br />
+			Against the giants grim.”
+		</translation>
+		<comment>
+			<expl>The sword</expl>: Freyr's gift of his sword to Skirnir eventually proves fatal, for at the last battle, when Freyr is attacked by Beli, whom he kills bare-handed, and later when the fire-demon, Surt, slays him in turn, he is weaponless; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">53</stanzaref> and note.
+			Against the giants grim: the condition of this line makes it seem like an error in copying, and it is possible that it should be identical with the fourth line of the next stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original_prelude>
+			Freyr kvaþ:
+		</original_prelude>
+		<original>
+			“Mar þēr þann gefk,<sep />es þik of myrkvan berr<br />
+			vīsan vafrloga,<br />
+			ok þat sverþ,<sep />es sjalft mun vegask,<br />
+			ef sā's horskr es hefr.”
+		</original>
+		<translation_prelude>
+			Freyr spake:
+		</translation_prelude>
+		<translation>
+			“The horse will I give thee<sep />that goes through the dark<br />
+			And magic flickering flames,<br />
+			And the sword as well<sep />that will fight of itself<br />
+			If a worthy hero wields it.”
+		</translation>
+	</block>
+	<block class="stanza" number="10">
+		<original_prelude>
+			Skirnir mælti viþ hestinn:
+		</original_prelude>
+		<original>
+			“Myrkt es ūti,<sep />māl kveþk okkr fara<br />
+			ūrig fjǫll yfir,<br />
+			þursa þjōþ yfir;<br />
+			bāþir vit komumk,<sep />eþa okkr bāþa tekr<br />
+			enn āmǭtki jǫtunn.”
+		</original>
+		<translation_prelude>
+			Skirnir spake to the horse:
+		</translation_prelude>
+		<translation>
+			“Dark is it without,<sep />and I deem it time<br />
+			To fare through the wild fells,<br />
+			[To fare through the giants' fastness;]<br />
+			We shall both come back,<sep />or us both together<br />
+			The terrible giant will take.”
+		</translation>
+		<comment>
+			Some editors reject line 3 as spurious.
+		</comment>
+	</block>
+	<block class="prose" label="prose10">
+		<original>
+			Skirnir reiþ ī jǫtunheima til Gymis garþa.<br />
+			Þar vāru hundar ōlmir ok bundnir fyr skīþsgarþs hliþi þess er um sal Gerþar var.<br />
+			Hann reiþ at þar er fēhirþir sat ā haugi ok kvaddi hann:
+		</original>
+		<translation>
+			Skirnir rode into Jotunheim to Gymir's house.<br />
+			There were fierce dogs bound before the gate of the fence which was around Gerth's hall.<br />
+			He rode to where a herdsman sat on a hill, and said:
+		</translation>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			“Seg þat, hirþir!<sep />es þu ā haugi sitr<br />
+			ok varþar alla vega:<br />
+			hve at andspilli<sep />komumk ens unga mans<br />
+			greyjum Gymis fyrir?
+		</original>
+		<translation>
+			“Tell me, herdsman,<sep />sitting on the hill,<br />
+			And watching all the ways,<br />
+			How may I win<sep />a word with the maid<br />
+			Past the hounds of Gymir here?”
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original_prelude>
+			Hirþir kvaþ:
+		</original_prelude>
+		<original>
+			“Hvārt est feigr<sep />eþa estu framgenginn.<br />
+			<conj>maþr ā mars baki</conj>?<br />
+			andspillis vanr<sep />þū skalt ǣ vesa<br />
+			gōþrar meyjar Gymis.”
+		</original>
+		<translation_prelude>
+			The herdsman spake:
+		</translation_prelude>
+		<translation>
+			“Art thou doomed to die<sep />or already dead,<br />
+			Thou horseman that ridest hither?<br />
+			Barred from speech<sep />shalt thou ever be<br />
+			With Gymir's daughter good.”
+		</translation>
+		<comment>
+			Line 2 is in neither manuscript, and no gap is indicated.
+			I have followed Grundtvig's conjectural emendation.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Kostir'u betri<sep />heldr an at kløkkva sē<br />
+			hveims fūss es fara;<br />
+			einu dø̄gri<sep />vǫrumk aldr of skapaþr<br />
+			ok allt līf of lagit.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Boldness is better<sep />than plaints can be<br />
+			For him whose feet must fare;<br />
+			To a destined day<sep />has mine age been doomed,<br />
+			And my life's span thereto laid.”
+		</translation>
+		<comment>
+			This stanza is almost exactly like many in the first part of the <chapterref>Hovamol</chapterref>, and may well have been a separate proverb.
+			After this stanza the scene shifts to the interior of the house.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Hvat's þat hlymja<sep />es ek heyri til<br />
+			ossum rǫnnum ī?<br />
+			jǫrþ bifask,<sep />en allir fyrir<br />
+			skjalfa garþar Gymis.”
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“What noise is that<sep />which now so loud<br />
+			I hear within our house?<br />
+			The ground shakes,<sep />and the home of Gymir<br />
+			Around me trembles too.”
+		</translation>
+	</block>
+	<block class="stanza" number="15">
+		<original_prelude>
+			Ambōtt kvaþ:
+		</original_prelude>
+		<original>
+			“Maþr's hēr ūti,<sep />stiginn af mars baki,<br />
+			jō lǣtr til jarþar taka.”<br />
+			<lacuna /><br />
+			<lacuna />
+		</original>
+		<translation_prelude>
+			The Serving-Maid spake:
+		</translation_prelude>
+		<translation>
+			“One stands without<sep />who has leapt from his steed,<br />
+			And lets his horse loose to graze;”<br />
+			<lacuna /><br />
+			<lacuna />
+		</translation>
+		<comment>
+			No gap indicated in either manuscript.
+			Bugge and Niedner have attempted emendations, while Hildebrand suggests that the last two lines of stanza <stanzaref chapter="Skirnismol">14</stanzaref> are spurious, <stanzaref chapter="Skirnismol">14</stanzaref>, <stanzaref chapter="Skirnismol">12</stanzaref>, and <stanzaref chapter="Skirnismol">15</stanzaref> thus forming a single stanza, which seems doubtful.
+		</comment>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Inn biþ hann ganga<sep />ī okkarn sal<br />
+			ok drekka enn mǣra mjǫþ;<br />
+			þo ek hitt oumk,<sep />at hēr ūti sē<br />
+			minn brōþurbani.
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“Bid the man come in,<sep />and drink good mead<br />
+			Here within our hall;<br />
+			Though this I fear,<sep />that there without<br />
+			My brother's slayer stands.
+		</translation>
+		<comment>
+			<expl>Brother's slayer</expl>: perhaps the brother is Beli, slain by Freyr; the only other references are in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">53</stanzaref>, and in Snorri's paraphrase of the <chapterref>Skirnismol</chapterref>, which merely says that Freyr's gift of his sword to Skirnir “was the reason why he was weaponless when he met Beli, and he killed him bare-handed.”
+			Skirnir himself seems never to have killed anybody.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			Hvat's þat alfa<sep />nē āsa suna<br />
+			nē vīssa vana?<br />
+			hvi einn of kvamt<sep />eikinn fūr yfir<br />
+			ōr salkynni at sea?”
+		</original>
+		<translation>
+			Art thou of the elves<sep />or the offspring of gods,<br />
+			Or of the wise Wanes?<br />
+			How camst thou alone<sep />through the leaping flame<br />
+			Thus to behold our home?”
+		</translation>
+		<comment>
+			<expl>Wise Wanes</expl>: Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Emkak alfa<sep />nē āsa suna<br />
+			nē vīssa vana:<br />
+			þō einn of kvamk<sep />eikinn fūr yfir<br />
+			yþur salkynni at sea.
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“I am not of the elves,<sep />nor the offspring of gods,<br />
+			Nor of the wise Wanes;<br />
+			Though I came alone<sep />through the leaping flame<br />
+			Thus to behold thy home.
+		</translation>
+		<comment>
+			The <source>Arnamagnæan Codex</source> omits this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			Epli ellifu<sep />hēr hefk algollin,<br />
+			þau munk þēr, Gerþr! gefa,<br />
+			friþ at kaupa,<sep />at þu þēr Frey kveþir<br />
+			ōleiþastan lifa.”
+		</original>
+		<translation>
+			Eleven apples,<sep />all of gold,<br />
+			Here will I give thee, Gerth,<br />
+			To buy thy troth<sep />that Freyr shall be<br />
+			Deemed to be dearest to you.”
+		</translation>
+		<comment>
+			<expl>Apples</expl>: the apple was the symbol of fruitfulness, and also of eternal youth.
+			According to Snorri, the goddess Ithun had charge of the apples which the gods ate whenever they felt themselves growing old.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Epli ellifu<sep />ek þigg aldrigi<br />
+			at manns enskis munum;<br />
+			nē vitt Freyr,<sep />meþan okkart fjǫr lifir,<br />
+			byggum bǣþi saman.”
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“I will not take<sep />at any man's wish<br />
+			These eleven apples ever;<br />
+			Nor shall Freyr and I<sep />one dwelling find<br />
+			So long as we two live.”
+		</translation>
+	</block>
+	<block class="stanza" number="21">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Baug þēr þā gefk<sep />þanns brendr vas<br />
+			meþ ungum Ōþins syni;<br />
+			ātta 'ru jafnhǫfgir<sep />es af drjūpa<br />
+			ena niundu hverju nǭtt.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Then do I bring thee<sep />the ring that was burned<br />
+			Of old with Othin's son;<br />
+			From it do eight<sep />of like weight fall<br />
+			On every ninth night.”
+		</translation>
+		<comment>
+			<expl>Ring</expl>: the ring Draupnir (“Dropper”) was made by the dwarfs for Othin, who laid it on Baldr's pyre when the latter's corpse was burned (Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and note, and <chapterref>Baldrs Draumar</chapterref>).
+			Baldr, however, sent the ring back to Othin from hell.
+			How Freyr obtained it is nowhere stated.
+			Andvari's ring (Andvaranaut) had a similar power of creating gold; cf. <chapterref>Reginsmol</chapterref>, <proseref chapter="Reginsmol" label="prose4">prose</proseref> after stanza <stanzaref chapter="Skirnismol">4</stanzaref> and note.
+			Lines 3 and 4 of this stanza, and the first two of stanza <stanzaref chapter="Skirnismol">22</stanzaref>, are missing in the <source>Arnamagnæan Codex</source>.
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Baug ek þikkak,<sep />þōt brendr sē<br />
+			meþ ungum Ōþins syni;<br />
+			ī gǫrþum Gymis<sep />erumka golls of vant,<br />
+			at deila fē fǫþur.”
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“The ring I wish not,<sep />though burned it was<br />
+			Of old with Othin's son;<br />
+			In Gymir's home<sep />is no lack of gold<br />
+			In the wealth my father wields.”
+		</translation>
+	</block>
+	<block class="stanza" number="23">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Sēr þū þenna mǣki, mǣr!<sep />mjōvan, mālfān,<br />
+			es hefk ī hendi hēr?<br />
+			haufuþ hǫggva<sep />munk þēr halsi af,<br />
+			nema mēr sǣtt segir.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Seest thou, maiden,<sep />this keen, bright sword<br />
+			That I hold here in my hand?<br />
+			Thy head from thy neck<sep />shall I straightway hew,<br />
+			If thou wilt not do my will.”
+		</translation>
+	</block>
+	<block class="stanza" number="24">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Ānauþ þola<sep />viljak aldrigi<br />
+			at manns enskis munum;<br />
+			þō hins getk,<sep />ef it Gymir finnisk,<br />
+			at ykkr tīþi vega.
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“For no man's sake<sep />will I ever suffer<br />
+			To be thus moved by might;<br />
+			But gladly, methinks,<sep />will Gymir seek<br />
+			To fight if he finds thee here.”
+		</translation>
+	</block>
+	<block class="stanza" number="25">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Sēr þū þenna mǣki, mǣr!<sep />mjōvan, mālfān,<br />
+			es hefk ī hendi hēr?<br />
+			fyr þessum eggjum<sep />hnīgr sa enn aldni <conj>þurs</conj>,<br />
+			verþr þinn feigr faþir.
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“Seest thou, maiden,<sep />this keen, bright sword<br />
+			That I hold here in my hand?<br />
+			Before its blade the<sep />old giant bends,—<br />
+			Thy father is doomed to die.
+		</translation>
+		<comment>
+			The first two lines are abbreviated in both manuscripts.
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			Tamsvendi þik drepk,<sep />en ek þik temja mun,<br />
+			mǣr! at mīnum munum;<br />
+			þar skalt ganga,<sep />es þik gumna synir<br />
+			sīþan ǣva sea.
+		</original>
+		<translation>
+			I strike thee, maid,<sep />with my magic staff,<br />
+			To tame thee to work my will;<br />
+			There shalt thou go<sep />where never again<br />
+			The sons of men shall see thee.
+		</translation>
+		<comment>
+			With this stanza, bribes and threats having failed, Skirnir begins a curse which, by the power of his magic staff, is to fall on Gerth if she refuses Freyr.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			Ara þūfu ā<sep />skaltu ār sitja,<br />
+			horfa heljar til;<br />
+			matr sē þer leiþari<sep />an manna hveim<br />
+			enn frāni ormr meþ firum.
+		</original>
+		<translation>
+			On the eagle's hill<sep />shalt thou ever sit,<br />
+			And gaze on the gates of Hel;<br />
+			More loathsome to thee<sep />than the light-hued snake<br />
+			To men, shall thy meat become.
+		</translation>
+		<comment>
+			<expl>Eagle's hill</expl>: the hill at the end of heaven, and consequently overlooking hell, where the giant Hræsvelg sits “in an eagle's guise,” and makes the winds with his wings; cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">37</stanzaref>, also <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">50</stanzaref>.
+			The second line is faulty in both manuscripts; Hildebrand's emendation corrects the error, but omits an effective touch; the manuscript line may be rendered “And look and hanker for hell.”
+			The <source>Arnamagnæan Codex</source> breaks off with the fourth line of this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			At undrsjōnum verþir,<sep />es þū ūt kømr,<br />
+			ā þik Hrimnir hari,<br />
+			[ā þik hotvetna stari;]<br />
+			vīþkunnari verþir<sep />an vǫrþr meþ goþum;<br />
+			gapi þū grindum frā.
+		</original>
+		<translation>
+			Fearful to see,<sep />if thou comest forth,<br />
+			Hrimnir will stand and stare,<br />
+			[Men will marvel at thee;]<br />
+			More famed shalt thou grow<sep />than the watchman of the gods!<br />
+			Peer forth, then, from thy prison,
+		</translation>
+		<comment>
+			<expl>Hrimnir</expl>: a frost-giant, mentioned elsewhere only in <chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">33</stanzaref>.
+			Line 3 is probably spurious.
+			<expl>Watchman of the gods</expl>: Heimdall; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">46</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			Tōpi ok ōpi,<sep />tjǫsull ok ǫþoli<br />
+			vaxi þer tǭr meþ trega;<br />
+			sezktu niþr,<sep />mun ek segja þēr<br />
+			svāran sūsbreka<br />
+			auk tvinnan trega.
+		</original>
+		<translation>
+			Rage and longing,<sep />fetters and wrath,<br />
+			Tears and torment are thine;<br />
+			Where thou sittest down<sep />my doom is on thee<br />
+			Of heavy heart<br />
+			And double dole.
+		</translation>
+		<comment>
+			Three nouns of doubtful meaning, which I have rendered <emph>rage</emph>, <emph>longing</emph>, and <emph>heart</emph> respectively, make the precise force of this stanza obscure.
+			Niedner and Sijmons mark the entire stanza as interpolated, and Jonsson rejects line 5.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			Tramar gneypa<sep />þik skulu gørstan dag<br />
+			jǫtna gǫrþum ī;<br />
+			grāt at gamni<sep />skaltu ī gøgn hafa<br />
+			ok leiþa meþ tǭrum trega.
+		</original>
+		<translation>
+			In the giants' home<sep />shall vile things harm thee<br />
+			Each day with evil deeds;<br />
+			Grief shalt thou get<sep />instead of gladness,<br />
+			And sorrow to suffer with tears.
+		</translation>
+		<comment>
+			In <source>Regius</source> and in nearly all the editions the first two lines of this stanza are followed by lines 3–5 of stanza <stanzaref chapter="Skirnismol">35</stanzaref>.
+			I have followed Niedner, Sijmons, and Gering.
+			The two words here translated <emph>vile things</emph> are obscure; Gering renders the phrase simply “Kobolde.”
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			Meþ þursi þrīhǫfþuþum<sep />þū skalt ǣ nara<br />
+			eþa verlauss vesa;<br />
+			[þik geþ grīþi,<sep />þik morn morni!]<br />
+			ves sem þistill<sep />sās þrunginn vas<br />
+			ī ǫnn ofanverþa.
+		</original>
+		<translation>
+			With three-headed giants<sep />thou shalt dwell ever,<br />
+			Or never know a husband;<br />
+			[Let longing grip thee,<sep />let wasting waste thee,—]<br />
+			Be like to the thistle<sep />that in the loft<br />
+			Was cast and there was crushed.
+		</translation>
+		<comment>
+			The confusion noted as to the preceding stanza, and a metrical error in the third line, have led to various rearrangements and emendations; line 3 certainly looks like an interpolation.
+			<expl>Three-headed giants</expl>: concerning giants with numerous heads, cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">33</stanzaref>, and <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">8</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			Til holts ek gekk<sep />ok til hrās viþar,<br />
+			gambantein at geta:<br />
+			<lacuna /><br />
+			gambantein ek gat.
+		</original>
+		<translation>
+			I go to the wood,<sep />and to the wet forest,<br />
+			To win a magic wand;<br />
+			<lacuna /><br />
+			I won a magic wand.
+		</translation>
+		<comment>
+			No gap indicated in the manuscript; Niedner makes the line here given as 4 the first half of line 3, and fills out the stanza thus:
+			<textstanza>
+				with which I will tame you,<br />
+				Maid, to work my will.
+			</textstanza>
+			<textstanza>
+				(es þik gǫrva temr<br />
+				mǣr! at mīnum munum.)
+			</textstanza>
+			The whole stanza seems to be either interpolated or out of place; it would fit better after stanza 
+			<stanzaref chapter="Skirnismol">25</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			Vreiþr's þēr Ōþinn,<sep />vreiþr's þēr āsa bragr,<br />
+			þik skal Freyr fiask,<br />
+			en firinilla mǣr!<sep />es þū fengit hefr<br />
+			gambanvreiþi goþa.
+		</original>
+		<translation>
+			Othin grows angry,<sep />angered is the best of the gods,<br />
+			Freyr shall be thy foe,<br />
+			Most evil maid,<sep />who the magic wrath<br />
+			Of gods hast got for thyself.
+		</translation>
+		<comment>
+			Jonsson marks this stanza as interpolated.
+			The word translated <emph>most evil</emph> is another case of guesswork.
+		</comment>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			Heyri hrīmþursar,<sep />heyri jǫtnar,<br />
+			Suttunga synir,<br />
+			[sjalfir āsliþar:]<br />
+			hvē fyrbȳþk,<sep />hvē fyrbannak<br />
+			manna glaum mani,<br />
+			manna nyt mani.
+		</original>
+		<translation>
+			Give heed, frost-rulers,<sep />hear it, giants.<br />
+			Sons of Suttung,<br />
+			And gods, ye too,<br />
+			How I forbid<sep />and how I ban<br />
+			The meeting of men with the maid,<br />
+			[The joy of men with the maid.]
+		</translation>
+		<comment>
+			Most editors reject line 3 as spurious, and some also reject line 6.
+			Lines 2 and 3 may have been expanded out of a single line running approximately “Ye gods and Suttung's sons.”
+			<expl>Suttung</expl>: concerning this giant cf. <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">104</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original>
+			Hrīmgrimnir heitir þurs<sep />es þik hafa skal<br />
+			fyr nāgrindr neþan:<br />
+			til hrīmþursa hallar<sep />þū skalt hverjan dag<br />
+			kranga kostalaus,<br />
+			kranga kostavǫn.
+		</original>
+		<translation>
+			Hrimgrimnir is he,<sep />the giant who shall have thee<br />
+			In the depth by the doors of Hel;<br />
+			To the frost-giants' halls<sep />each day shalt thou fare,<br />
+			Crawling and craving in vain,<br />
+			[Crawling and having no hope.]
+		</translation>
+		<comment>
+			Most editors combine lines 1–2 with stanza <stanzaref chapter="Skirnismol">36</stanzaref> (either with the first two lines thereof or the whole stanza), as lines 3–5 stand in the manuscript after line 2 of stanza <stanzaref chapter="Skirnismol">30</stanzaref>.
+			<expl>Hrimgrimnir</expl> (“The Frost-Shrouded”): a giant not elsewhere mentioned.
+			Line 5, as a repetition of line 4, is probably a later addition.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			Þar þēr vīlmegir<sep />ā viþar rōtum<br />
+			geita hland gefi:<br />
+			ø̄þri drykkju<sep />fā þū aldrigi,<br />
+			mǣr! af þīnum munum,<br />
+			mǣr! at mīnum munum!
+		</original>
+		<translation>
+			Base wretches there<sep />by the root of the tree<br />
+			Will hold for thee horns of filth;<br />
+			A fairer drink<sep />shalt thou never find,<br />
+			Maid, to meet thy wish,<br />
+			[Maid, to meet my wish.]
+		</translation>
+		<comment>
+			For the combination of this stanza with the preceding one, cf. note on stanza <stanzaref chapter="Skirnismol">35</stanzaref>.
+			The scribe clearly did not consider that the stanza began with line 1, as the first word thereof in the manuscript does not begin with a capital letter and has no period before it.
+			The first word of line 3, however, is so marked.
+			Line 5 may well be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			Þurs rīstk þēr<sep />ok þria stafi:<br />
+			ergi ok ø̄þi ok ōþola;<br />
+			svā af rīstk,<sep />sem þat ā reistk,<br />
+			ef gørvask þarfar þess.”
+		</original>
+		<translation>
+			I write thee a charm<sep />and three runes therewith,<br />
+			Longing and madness and lust;<br />
+			But what I have writ<sep />I may yet unwrite<br />
+			If I find a need therefor.”
+		</translation>
+		<comment>
+			Again the scribe seems to have been uncertain as to the stanza divisions.
+			This time the first line is preceded by a period, but begins with a small letter.
+			Many editors have made line 2 into two half-lines.
+			<expl>A charm</expl>: literally, the rune Thurs (þ); the runic letters all had magic attributes; cf. <chapterref>Sigrdrifumol</chapterref>, <stanzaref chapter="Sigrdrifumol">6</stanzaref>–<stanzaref chapter="Sigrdrifumol">7</stanzaref> and notes.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Heill ves heldr, sveinn!<sep />ok tak viþ hrīmkalki<br />
+			fullum forns mjaþar:<br />
+			þō hafþak ǣtlat,<sep />at myndak aldrigi<br />
+			unna vaningja vel.”
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“Find welcome rather,<sep />and with it take<br />
+			The frost-cup filled with mead;<br />
+			Though I did not believe<sep />that I should so love<br />
+			Ever one of the Wanes.”
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Eyrindi mīn<sep />viljak ǫll vita,<br />
+			āþr rīþak heim heþan:<br />
+			nǣr þu at þingi<sep />munt enum þroska<br />
+			nenna Njarþar syni.”
+		</original>
+		<translation_prelude>
+			Skirnir spake:
+		</translation_prelude>
+		<translation>
+			“My tidings all<sep />must I truly learn<br />
+			Ere homeward hence I ride:<br />
+			How soon thou wilt<sep />with the mighty son<br />
+			Of Njorth a meeting make.”
+		</translation>
+	</block>
+	<block class="stanza" number="40">
+		<original_prelude>
+			Gerþr kvaþ:
+		</original_prelude>
+		<original>
+			“Barri heitir,<sep />es vit bǣþi vitum,<br />
+			lundr lognfara:<br />
+			en ept nǣtr niu<sep />þar mun Njarþar syni<br />
+			Gerþr unna gamans.”
+		</original>
+		<translation_prelude>
+			Gerth spake:
+		</translation_prelude>
+		<translation>
+			“Barri there is,<sep />which we both know well,<br />
+			A forest fair and still;<br />
+			And nine nights hence<sep />to the son of Njorth<br />
+			Will Gerth there grant delight.”
+		</translation>
+		<comment>
+			<expl>Barri</expl>: “The Leafy.”
+		</comment>
+	</block>
+	<block class="prose" label="prose40">
+		<original>
+			Þā reiþ Skirnir heim.<br />
+			Freyr stōþ ūti ok kvaddi hann ok spurþi tīþinda:
+		</original>
+		<translation>
+			Then Skirnir rode home.<br />
+			Freyr stood without, and spoke to him, and asked for tidings:
+		</translation>
+	</block>
+	<block class="stanza" number="41">
+		<original>
+			“Seg mer þat, Skirnir!<sep />āþr verpir sǫþli af mar<br />
+			ok stīgir feti framarr:<br />
+			hvat þu ārnaþir<sep />ī jǫtunheima<br />
+			þīns eþa mīns munar?”
+		</original>
+		<translation>
+			“Tell me, Skimir,<sep />ere thou take off the saddle,<br />
+			Or farest forward a step:<br />
+			What hast thou done<sep />in the giants' dwelling<br />
+			To make glad thee or me?”
+		</translation>
+	</block>
+	<block class="stanza" number="42">
+		<original_prelude>
+			Skirnir kvaþ:
+		</original_prelude>
+		<original>
+			“Barri heitir,<sep />es vit bāþir vitum,<br />
+			lundr lognfara:<br />
+			en ept nǣtr niu<sep />þar mun Njarþar syni<br />
+			Gerþr unna gamans.”
+		</original>
+		<translation_prelude>
+			Skirnir spoke:
+		</translation_prelude>
+		<translation>
+			“Barri there is,<sep />which we both know well,<br />
+			A forest fair and still;<br />
+			And nine nights hence<sep />to the son of Njorth<br />
+			Will Gerth there grant delight.”
+		</translation>
+		<comment>
+			Abbreviated to initial letters in the manuscript.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original_prelude>
+			Freyr kvaþ:
+		</original_prelude>
+		<original>
+			“Lǫng es nǭtt,<sep />langar'u tvǣr,<br />
+			hvē of þreyjak þriar?<br />
+			opt mēr mǭnuþr<sep />minni þōtti<br />
+			an sjā hȳnǭtt hǫlf.”
+		</original>
+		<translation_prelude>
+			Freyr spake:
+		</translation_prelude>
+		<translation>
+			“Long is one night,<sep />longer are two;<br />
+			How then shall I bear three?<br />
+			Often to me<sep />has a month seemed less<br />
+			Than now half a night of desire.”
+		</translation>
+		<comment>
+			The superscription is lacking in <source>Regius</source>.
+			Snorri quotes this one stanza in his prose paraphrase, <emph>Gylfaginning</emph>, chapter 37.
+			The two versions are substantially the same, except that Snorri makes the first line read, “Long is one night, long is the second.”
+		</comment>
+	</block>
+</chapter>

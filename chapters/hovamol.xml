@@ -1,0 +1,2782 @@
+<chapter english_name="Hovamol" icelandic_name="Hǫvamǭl" translation="The Ballad of the High One">
+	<block class="text">
+		This poem follows the <chapterref>Voluspo</chapterref> in the <source>Codex Regius</source>, but is preserved in no other manuscript.
+		The first stanza is quoted by Snorri, and two lines of stanza <stanzaref chapter="Hovamol">84</stanzaref> appear in one of the sagas.
+	</block>
+	<block class="text">
+		In its present shape it involves the critic of the text in more puzzles than any other of the Eddic poems.
+		Without going in detail into the various theories, what happened seems to have been somewhat as follows.
+		There existed from very early times a collection of proverbs and wise counsels, which were attributed to Othin just as the Biblical proverbs were to Solomon.
+		This collection, which presumably was always elastic in extent, was known as “The High One's Words,” and forms the basis of the present poem.
+		To it, however, were added other poems and fragments dealing with wisdom which seemed by their nature to imply that the speaker was Othin.
+		Thus a catalogue of runes, or charms, was tacked on, and also a set of proverbs, differing essentially in form from those comprising the main collection.
+		Here and there bits of verse more nearly narrative crept in; and of course the loose structure of the poem made it easy for any reciter to insert new stanzas almost at will.
+		This curious miscellany is what we now have as the <chapterref>Hovamol</chapterref>.
+	</block>
+	<block class="text">
+		Five separate elements are pretty clearly recognizable: (1) the <chapterref>Hovamol</chapterref> proper (stanzas <stanzaref chapter="Hovamol">1</stanzaref>–<stanzaref chapter="Hovamol">80</stanzaref>), a collection of proverbs and counsels for the conduct of life; (2) the <source>Loddfafnismol</source> (stanzas <stanzaref chapter="Hovamol">111</stanzaref>–<stanzaref chapter="Hovamol">138</stanzaref>), a collection somewhat similar to the first, but specific ally addressed to a certain Loddfafnir; (3) the <source>Ljothatal</source> (stanzas <stanzaref chapter="Hovamol">147</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref>), a collection of charms; (4) the love-story of Othin and Billing's daughter (stanzas <stanzaref chapter="Hovamol">96</stanzaref>–<stanzaref chapter="Hovamol">102</stanzaref>), with an introductory dissertation on the faithlessness of women in general (stanzas <stanzaref chapter="Hovamol">81</stanzaref>–<stanzaref chapter="Hovamol">95</stanzaref>), which probably crept into the poem first, and then pulled the story, as an apt illustration, after it; (5) the story of how Othin got the mead of poetry—the draught which gave him the gift of tongues—from the maiden Gunnloth (stanzas <stanzaref chapter="Hovamol">103</stanzaref>–<stanzaref chapter="Hovamol">110</stanzaref>).
+		There is also a brief passage (stanzas <stanzaref chapter="Hovamol">139</stanzaref>–<stanzaref chapter="Hovamol">146</stanzaref>) telling how Othin won the runes, this passage being a natural introduction to the <source>Ljothatal</source>, and doubtless brought into the poem for that reason.
+	</block>
+	<block class="text">
+		It is idle to discuss the authorship or date of such a series of accretions as this.
+		Parts of it are doubtless among the oldest relics of ancient Germanic poetry; parts of it may have originated at a relatively late period.
+		Probably, however, most of its component elements go pretty far back, although we have no way of telling how or when they first became associated.
+	</block>
+	<block class="text">
+		It seems all but meaningless to talk about “interpolations” in a poem which has developed almost solely through the process of piecing together originally unrelated odds and ends.
+		The notes, therefore, make only such suggestions as are needed to keep the main divisions of the poem distinct.
+	</block>
+	<block class="text">
+		Few gnomic collections in the world's literary history present sounder wisdom more tersely expressed than the <chapterref>Hovamol</chapterref>.
+		Like the Book of Proverbs it occasionally rises to lofty heights of poetry.
+		If it presents the worldly wisdom of a violent race, it also shows noble ideals of loyalty, truth, and unfaltering courage.
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="1">
+		<original>
+			Gāttir allar,<sep />āþr gangi fram,<br />
+			umb skoþask skyli,<br />
+			umb skygansk skyli;<br />
+			þvīt ōvist es,<sep />hvar ōvinir<br />
+			sitja ā fleti fyrir.
+		</original>
+		<translation>
+			Within the gates<sep />ere a man shall go,<br />
+			[Full warily let him watch,]<br />
+			Full long let him look about him;<br />
+			For little he knows<sep />where a foe may lurk,<br />
+			And sit in the seats within.
+		</translation>
+		<comment>
+			This stanza is quoted by Snorri, the second line being omitted in most of the <source>Prose Edda</source> manuscripts.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			Gefendr heilir!<sep />gestr's inn kominn;<br />
+			hvar skal sitja sjā?<br />
+			mjǫk es brāþr<sep />sās ā brǫndum skal<br />
+			sīns of freista frama.
+		</original>
+		<translation>
+			Hail to the giver!<sep />a guest has come;<br />
+			Where shall the stranger sit?<br />
+			Swift shall he be who,<sep />with swords shall try<br />
+			The proof of his might to make.
+		</translation>
+		<comment>
+			Probably the first and second lines had originally nothing to do with the third and fourth, the last two not referring to host or guest, but to the general danger of backing one's views with the sword.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			Elds es þǫrf<sep />þeims inn es kominn<br />
+			auk ā knē kalinn;<br />
+			matar ok vāþa<sep />es manni þǫrf<br />
+			þeims hefr of fjall farit.
+		</original>
+		<translation>
+			Fire he needs<sep />who with frozen knees<br />
+			Has come from the cold without;<br />
+			Food and clothes<sep />must the farer have,<br />
+			The man from the mountains come.
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			Vatns es þǫrf<sep />þeims til verþar kømr<br />
+			þerru ok þjōþlaþar,<br />
+			gōþs of ø̄þis<sep />ef sēr geta mǣtti<br />
+			orþ, ok endrþǫgu.
+		</original>
+		<translation>
+			Water and towels<sep />and welcoming speech<br />
+			Should he find who comes to the feast;<br />
+			If renown he would get,<sep />and again be greeted,<br />
+			Wisely and well must he act.
+		</translation>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			Vits es þǫrf<sep />þeims vīþa ratar,<br />
+			dǣlt es heima hvat;<br />
+			at augabragþi<sep />verþr sās etki kann<br />
+			auk meþ snotrum sitr.
+		</original>
+		<translation>
+			Wits must he have<sep />who wanders wide,<br />
+			But all is easy at home;<br />
+			At the witless man<sep />the wise shall wink<br />
+			When among such men he sits.
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			At hyggjandi sinni<sep />skylit maþr hrø̄sinn vesa,<br />
+			heldr gǣtinn at geþi;<br />
+			þās horskr ok þǫgull<sep />kømr heimisgarþa til,<br />
+			sjaldan verþr vīti vǫrum.<br />
+			[þvīt ōbrigþra vin<sep />fǣr maþr aldrigi,<br />
+			an mannvit mikit.]
+		</original>
+		<translation>
+			A man shall not boast<sep />of his keenness of mind,<br />
+			But keep it close in his breast;<br />
+			To the silent and wise<sep />does ill come seldom<br />
+			When he goes as guest to a house;<br />
+			[For a faster friend<sep />one never finds<br />
+			Than wisdom tried and true.]
+		</translation>
+		<comment>
+			Lines 5 and 6 appear to have been added to the stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			Enn vari gestr,<sep />es til verþar kømr,<br />
+			þunnu hljōþi þegir,<br />
+			eyrum hlȳþir,<sep />en augum skoþar:<br />
+			svā nȳsisk frōþra hverr fyrir.
+		</original>
+		<translation>
+			The knowing guest<sep />who goes to the feast,<br />
+			In silent attention sits;<br />
+			With his ears he hears,<sep />with his eyes he watches,<br />
+			Thus wary are wise men all.
+		</translation>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			Hinn es sǣll<sep />es sēr of getr<br />
+			lof ok līknstafi;<br />
+			ōdǣlla's vit<sep />es maþr eiga skal<br />
+			annars brjōstum ī.
+		</original>
+		<translation>
+			Happy the one<sep />who wins for himself<br />
+			Favor and praises fair;<br />
+			Less safe by far<sep />is the wisdom found<br />
+			That is hid in another's heart.
+		</translation>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			[Sā es sǣll<sep />es sjalfr of ā<br />
+			lof ok vit meþan lifir,<br />
+			þvīt ill rǭþ<sep />hefr maþr opt þegit<br />
+			annars brjōstum ōr.]
+		</original>
+		<translation>
+			Happy the man<sep />who has while he lives<br />
+			Wisdom and praise as well,<br />
+			For evil counsel<sep />a man full oft<br />
+			Has from another's heart.
+		</translation>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			Byrþi betri<sep />berra maþr brautu at,<br />
+			an sē mannvit mikit;<br />
+			auþi betra<sep />þykkir þat i ōkunnum staþ,<br />
+			slīkt es vālaþs vera.
+		</original>
+		<translation>
+			A better burden<sep />may no man bear<br />
+			For wanderings wide than wisdom;<br />
+			It is better than wealth<sep />on unknown ways,<br />
+			And in grief a refuge it gives.
+		</translation>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			Byrþi betri<sep />berra maþr brautu at,<br />
+			an sē manvit mikit;<br />
+			vegnest verra<sep />vegra hann velli at,<br />
+			an sē ofdrykkja ǫls.
+		</original>
+		<translation>
+			A better burden<sep />may no man bear<br />
+			For wanderings wide than wisdom;<br />
+			Worse food for the journey<sep />he brings not afield<br />
+			Than an over-drinking of ale.
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			Esa svā gott,<sep />sem gott kveþa,<br />
+			ǫl alda sunum,<br />
+			þvīt fǣra veit,<sep />es fleira drekkr,<br />
+			sīns til geþs gumi.
+		</original>
+		<translation>
+			Less good there lies<sep />than most believe<br />
+			In ale for mortal men;<br />
+			For the more he drinks<sep />the less does man<br />
+			Of his mind the mastery hold.
+		</translation>
+		<comment>
+			Some editors have combined this stanza in various ways with the last two lines of stanza <stanzaref chapter="Hovamol">11</stanzaref>, as in the manuscript the first two lines of the latter are abbreviated, and, if they belong there at all, are presumably identical with the first two lines of stanza <stanzaref chapter="Hovamol">10</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			Ōminnis hegri heitir<sep />sās of ǫlþrum þrumir,<br />
+			hann stelr geþi guma;<br />
+			þess fugls fjǫþrum<sep />ek fjǫtraþr vask<br />
+			ī garpi Gunnlaþar.
+		</original>
+		<translation>
+			Over beer the bird<sep />of forgetfulness broods,<br />
+			And steals the minds of men;<br />
+			With the heron's feathers<sep />fettered I lay<br />
+			And in Gunnloth's house was held.
+		</translation>
+		<comment>
+			<expl>The heron</expl>: the bird of forgetfulness, referred to in line 1.
+			<expl>Gunnloth</expl>: the daughter of the giant Suttung, from whom Othin won the mead of poetry.
+			For this episode see stanzas <stanzaref chapter="Hovamol">104</stanzaref>–<stanzaref chapter="Hovamol">110</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			Ǫlr ek varþ,<sep />varþ ofrǫlvi<br />
+			at ens frōþa Fjalars<br />
+			þvī's ǫlþr bazt,<sep />at aptr of heimtir<br />
+			hverr sitt geþ gumi.
+		</original>
+		<translation>
+			Drunk I was,<sep />I was dead-drunk,<br />
+			When with Fjalar wise I was;<br />
+			'Tis the best of drinking<sep />if back one brings<br />
+			His wisdom with him home.
+		</translation>
+		<comment>
+			<expl>Fjalar</expl>: apparently another name for Suttung.
+			This stanza, and probably <stanzaref chapter="Hovamol">13</stanzaref>, seem to have been inserted as illustrative.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			Þagalt ok hugalt<sep />skyli þjōþans barn<br />
+			ok vīgdjarft vesa;<br />
+			glaþr ok reifr<sep />skyli gumna hverr,<br />
+			unz sinn bīþr bana.
+		</original>
+		<translation>
+			The son of a king<sep />shall be silent and wise,<br />
+			And bold in battle as well;<br />
+			Bravely and gladly<sep />a man shall go,<br />
+			Till the day of his death is come.
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original>
+			Ōsnjallr maþr<sep />hyggsk munu ey lifa,<br />
+			ef viþ vīg varask,<br />
+			en elli gefr<sep />hǫnum engi friþ,<br />
+			þōt hǫnum geirar gefi.
+		</original>
+		<translation>
+			The sluggard believes<sep />he shall live forever,<br />
+			If the fight he faces not;<br />
+			But age shall not grant him<sep />the gift of peace,<br />
+			Though spears may spare his life.
+		</translation>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			Kōpir afglapi,<sep />es til kynnis kømr,<br />
+			þylsk hann umb eþa þrumir;<br />
+			alt es senn,<sep />ef hann sylg of getr<br />
+			uppi's þā geþ guma.
+		</original>
+		<translation>
+			The fool is agape<sep />when he comes to the feast,<br />
+			He stammers or else is still;<br />
+			But soon if he gets<sep />a drink is it seen<br />
+			What the mind of the man is like.
+		</translation>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			Sā einn veit<sep />es vīþa ratar<br />
+			auk hefr fjǫlþ of farit,<br />
+			hverju geþi<sep />stȳrir gumna hverr<br />
+			sās vitandi 's vits.
+		</original>
+		<translation>
+			He alone is aware<sep />who has wandered wide,<br />
+			And far abroad has fared,<br />
+			How great a mind<sep />is guided by him<br />
+			That wealth of wisdom has.
+		</translation>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			Haldit maþr ā keri,<sep />drekki þō at hōfi mjǫþ,<br />
+			mǣli þarft eþa þegi;<br />
+			ōkynnis þess<sep />vār þik engi maþr,<br />
+			at þū gangir snimma at sofa.
+		</original>
+		<translation>
+			Shun not the mead,<sep />but drink in measure;<br />
+			Speak to the point or be still;<br />
+			For rudeness none<sep />shall rightly blame thee<br />
+			If soon thy bed thou seekest.
+		</translation>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			Grǭþugr halr,<sep />nema geþs viti,<br />
+			etr sēr aldrtrega;<br />
+			opt fǣr hlø̄gis,<sep />es meþ horskum kømr,<br />
+			manni heimskum magi.
+		</original>
+		<translation>
+			The greedy man,<sep />if his mind be vague,<br />
+			Will eat till sick he is;<br />
+			The vulgar man,<sep />when among the wise,<br />
+			To scorn by his belly is brought.
+		</translation>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			Hjarþir þat vitu,<sep />nǣr þǣr heim skulu,<br />
+			ok ganga þā af grasi;<br />
+			en ōsviþr maþr<sep />kann ǣvagi<br />
+			sīns of māl maga.
+		</original>
+		<translation>
+			The herds know well<sep />when home they shall fare,<br />
+			And then from the grass they go;<br />
+			But the foolish man<sep />his belly's measure<br />
+			Shall never know aright.
+		</translation>
+	</block>
+	<block class="stanza" number="22">
+		<original>
+			Vesall maþr<sep />ok illa skapi<br />
+			hlǣr at hvīvetna;<br />
+			hitki hann veit,<sep />es hann vita þyrfti,<br />
+			at hann esa vamma vanr.
+		</original>
+		<translation>
+			A paltry man<sep />and poor of mind<br />
+			At all things ever mocks;<br />
+			For never he knows,<sep />what he ought to know,<br />
+			That he is not free from faults.
+		</translation>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			Ōsviþr maþr<sep />vakir of allar nǣtr<br />
+			ok hyggr at hvīvetna;<br />
+			þā es mōþr<sep />es at morni kømr,<br />
+			allt es vīl sem vas.
+		</original>
+		<translation>
+			The witless man<sep />is awake all night,<br />
+			Thinking of many things;<br />
+			Care-worn he is<sep />when the morning comes,<br />
+			And his woe is just as it was.
+		</translation>
+	</block>
+	<block class="stanza" number="24">
+		<original>
+			Ōsnotr maþr<sep />hyggr sēr alla vesa<br />
+			viþhlǣjendr vini;<br />
+			hitki hann fiþr,<sep />þōt of hann fār lesi,<br />
+			ef meþ snotrum sitr.
+		</original>
+		<translation>
+			The foolish man<sep />for friends all those<br />
+			Who laugh at him will hold;<br />
+			When among the wise<sep />he marks it not<br />
+			Though hatred of him they speak.
+		</translation>
+	</block>
+	<block class="stanza" number="25">
+		<original>
+			Ōsnotr maþr<sep />hyggr sēr alla vesa<br />
+			viþhlǣjendr vini;<br />
+			þā þat fiþr,<sep />es at þingi kømr,<br />
+			at ā formǣlendr faa.
+		</original>
+		<translation>
+			The foolish man<sep />for friends all those<br />
+			Who laugh at him will hold;<br />
+			But the truth when he comes<sep />to the council he learns,<br />
+			That few in his favor will speak.
+		</translation>
+		<comment>
+			The first two lines are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza <stanzaref chapter="Hovamol">24</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			Ōsnotr maþr<sep />þykkisk allt vita,<br />
+			ef ā ser ī vǭ veru;<br />
+			hitki hann veit,<sep />hvat hann skal viþ kveþa,<br />
+			ef hans freista firar.
+		</original>
+		<translation>
+			An ignorant man<sep />thinks that all he knows,<br />
+			When he sits by himself in a corner;<br />
+			But never what answer<sep />to make he knows,<br />
+			When others with questions come.
+		</translation>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			Ōsnotr maþr,<sep />es meþ aldir kømr,<br />
+			þat es bazt at þegi;<br />
+			engi þat veit,<sep />at hann etki kann,<br />
+			nema hann mǣli til mart.<br />
+			[veita maþr<sep />hinns vǣtki veit,<br />
+			þōt hann mǣli til mart.]
+		</original>
+		<translation>
+			A witless man,<sep />when he meets with men,<br />
+			Had best in silence abide;<br />
+			For no one shall find<sep />that nothing he knows,<br />
+			If his mouth is not open too much.<br />
+			[But a man knows not,<sep />if nothing he knows,<br />
+			When his mouth has been open too much.]
+		</translation>
+		<comment>
+			The last two lines were probably added as a commentary on lines 3 and 4.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			Frōþr sā þykkisk<sep />es fregna kann<br />
+			auk segja et sama;<br />
+			eyvitu leyna<sep />megu ȳta synir<br />
+			þvīs gengr of guma.
+		</original>
+		<translation>
+			Wise shall he seem<sep />who well can question,<br />
+			And also answer well;<br />
+			Nought is concealed<sep />that men may say<br />
+			Among the sons of men.
+		</translation>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			Ø̄rna mǣlir<sep />sās ǣva þegir<br />
+			staþlausu stafi;<br />
+			hraþmǣlt tunga,<sep />nema haldendr eigi,<br />
+			opt sēr ōgott of gelr.
+		</original>
+		<translation>
+			Often he speaks<sep />who never is still<br />
+			With words that win no faith;<br />
+			The babbling tongue,<sep />if a bridle it find not,<br />
+			Oft for itself sings ill.
+		</translation>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			At augabragþi<sep />skala maþr annan hafa,<br />
+			þōt til kynnis komi;<br />
+			margr þā frōþr þykkisk,<sep />ef hann freginn esat,<br />
+			ok naï hann þurrfjallr þruma.
+		</original>
+		<translation>
+			In mockery no one<sep />a man shall hold,<br />
+			Although he fare to the feast;<br />
+			Wise seems one oft,<sep />if nought he is asked,<br />
+			And safely he sits dry-skinned.
+		</translation>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			Frōþr þykkisk<sep />sās flōtta tekr<br />
+			gestr at gest hǣþinn;<br />
+			veita gǫrla<sep />sās of verþi glissir,<br />
+			þōt meþ grǫmum glami.
+		</original>
+		<translation>
+			Wise a guest holds it<sep />to take to his heels,<br />
+			When mock of another he makes;<br />
+			But little he knows<sep />who laughs at the feast,<br />
+			Though he mocks in the midst of his foes.
+		</translation>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			Gumnar margir<sep />erusk gagnhollir,<br />
+			en at virþi vrekask;<br />
+			aldar rōg<sep />þat mun ǣ vesa,<br />
+			ōrir gestr viþ gest.
+		</original>
+		<translation>
+			Friendly of mind<sep />are many men,<br />
+			Till feasting they mock at their friends;<br />
+			To mankind a bane<sep />must it ever be<br />
+			When guests together strive.
+		</translation>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			Ārliga verþar<sep />skyli maþr opt faa,<br />
+			nē ǭn til kynnis komi:<br />
+			sitr ok snōpir,<sep />lǣtr sem solginn sē,<br />
+			ok kann fregna at fǫu.
+		</original>
+		<translation>
+			Oft should one make<sep />an early meal,<br />
+			Nor fasting come to the feast;<br />
+			Else he sits and chews<sep />as if he would choke,<br />
+			And little is able to ask.
+		</translation>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			Afhvarf mikit<sep />es til ills vinar<br />
+			þōt ā brautu bui,<br />
+			en til gōþs vinar<sep />liggja gagnvegir,<br />
+			þōt sē firr farinn.
+		</original>
+		<translation>
+			Crooked and far<sep />is the road to a foe,<br />
+			Though his house on the highway be;<br />
+			But wide and straight<sep />is the way to a friend,<br />
+			Though far away he fare.
+		</translation>
+	</block>
+	<block class="stanza" number="35">
+		<original>
+			Ganga skal,<sep />skala gestr vesa<br />
+			ey ī einum staþ;<br />
+			ljūfr verþr leiþr<sep />ef lengi sitr<br />
+			annars fletjum ā.
+		</original>
+		<translation>
+			Forth shall one go,<sep />nor stay as a guest<br />
+			In a single spot forever;<br />
+			Love becomes loathing<sep />if long one sits<br />
+			By the hearth in another's home.
+		</translation>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			Bū es betra,<sep />þōt <conj>būkot</conj> sē,<br />
+			halr es heima hverr;<br />
+			þōt tvǣr geitr eigi<sep />ok taugreptan sal,<br />
+			þat's þō betra an bø̄n.
+		</original>
+		<translation>
+			Better a house,<sep />though a hut it be,<br />
+			A man is master at home;<br />
+			A pair of goats<sep />and a patched-up roof<br />
+			Are better far than begging.
+		</translation>
+		<comment>
+			The manuscript has “little” in place of “a hut” in line 1, but this involves an error in the initial-rhymes, and the emendation has been generally accepted.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			Bū es betra,<sep />þōt <conj>būkot</conj> sē,<br />
+			halr es heima hverr;<br />
+			blōþust's hjarta<sep />þeims biþja skal<br />
+			sēr ī māl hvert matar.
+		</original>
+		<translation>
+			Better a house,<sep />though a hut it be,<br />
+			A man is master at home;<br />
+			His heart is bleeding<sep />who needs must beg<br />
+			When food he fain would have.
+		</translation>
+		<comment>
+			Lines 1 and 2 are abbreviated in the manuscript, but are doubtless identical with the first two lines of stanza <stanzaref chapter="Hovamol">56</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original>
+			Vǭpnum sīnum<sep />skala maþr velli ā<br />
+			feti ganga framarr,<br />
+			þvīt ōvist's at vita,<sep />nǣr verþr ā vegum ūti<br />
+			geirs of þǫrf guma.
+		</original>
+		<translation>
+			Away from his arms<sep />in the open field<br />
+			A man should fare not a foot;<br />
+			For never he knows<sep />when the need for a spear<br />
+			Shall arise on the distant road.
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original>
+			Fear sīns<sep />es fengit hefr<br />
+			skylit maþr þǫrf þola;<br />
+			opt sparir leiþum<sep />þats hefr ljūfum hugat,<br />
+			mart gengr verr an varer.
+		</original>
+		<translation>
+			If wealth a man<sep />has won for himself,<br />
+			Let him never suffer in need;<br />
+			Oft he saves for a foe<sep />what he plans for a friend,<br />
+			For much goes worse than we wish.
+		</translation>
+		<comment>
+			In the manuscript this stanza follows stanza <stanzaref chapter="Hovamol">40</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original>
+			Fannkak mildan mann<sep />eþa svā matargōþan,<br />
+			at vǣrit þiggja þegit,<br />
+			eþa sīns fear<sep />svāgi <conj>gjǫflan</conj>,<br />
+			at leiþ sē laun ef þegi.
+		</original>
+		<translation>
+			None so free with gifts<sep />or food have I found<br />
+			That gladly he took not a gift,<br />
+			Nor one who so widely<sep />scattered his wealth<br />
+			That of recompense hatred he had.
+		</translation>
+		<comment>
+			The key-word in line 3 is missing in the manuscript, but editors have agreed in inserting a word meaning “generous.”
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original>
+			Vǭpnum ok vǭþum<sep />skulu vinir gleþjask,<br />
+			þat's ā sjǫlfum sȳnst;<br />
+			viþrgefendr<sep />erusk vinir lengst,<br />
+			ef þat bīþr at verþa vel.
+		</original>
+		<translation>
+			Friends shall gladden each other<sep />with arms and garments,<br />
+			As each for himself can see;<br />
+			Gift-givers' friendships<sep />are longest found,<br />
+			If fair their fates may be.
+		</translation>
+		<comment>
+			In line 3 the manuscript adds “givers again” to “gift-givers.”
+		</comment>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			Vin sīnum<sep />skal maþr vinr vesa<br />
+			ok gjalda gjǫf viþ gjǫf,<br />
+			hlātr viþ hlātri<sep />skyli hǫlþar taka,<br />
+			en lausung viþ lygi.
+		</original>
+		<translation>
+			To his friend a man<sep />a friend shall prove,<br />
+			And gifts with gifts requite;<br />
+			But men shall mocking<sep />with mockery answer,<br />
+			And fraud with falsehood meet.
+		</translation>
+	</block>
+	<block class="stanza" number="43">
+		<original>
+			Vin sīnum<sep />skal maþr vinr vesa,<br />
+			þeim ok þess vin,<br />
+			en ōvinar sīns<sep />skyli engi maþr<br />
+			vinar vinr vesa.
+		</original>
+		<translation>
+			To his friend a man<sep />a friend shall prove,<br />
+			To him and the friend of his friend;<br />
+			But never a man<sep />shall friendship make<br />
+			With one of his foeman's friends.
+		</translation>
+	</block>
+	<block class="stanza" number="44">
+		<original>
+			Veiztu, ef vin ātt<sep />þanns þū vel truir,<br />
+			ok vill af hǭnum gott geta,<br />
+			geþi skalt viþ þann blanda<sep />ok gjǫfum skipta,<br />
+			fara at finna opt.
+		</original>
+		<translation>
+			If a friend thou hast<sep />whom thou fully wilt trust,<br />
+			And good from him wouldst get,<br />
+			Thy thoughts with his mingle,<sep />and gifts shalt thou make,<br />
+			And fare to find him oft.
+		</translation>
+	</block>
+	<block class="stanza" number="45">
+		<original>
+			Ef ātt annan<sep />þanns þū illa truir,<br />
+			vill af hǭnum þō gott geta,<br />
+			fagrt skalt viþ þann mǣla,<sep />en flātt hyggja<br />
+			ok gjalda lausung viþ lygi.
+		</original>
+		<translation>
+			If another thou hast<sep />whom thou hardly wilt trust,<br />
+			Yet good from him wouldst get,<br />
+			Thou shalt speak him fair,<sep />but falsely think,<br />
+			And fraud with falsehood requite.
+		</translation>
+	</block>
+	<block class="stanza" number="46">
+		<original>
+			Þat's enn of þann<sep />es þū illa truir<br />
+			ok þēr's grunr at hans geþi:<br />
+			hlǣja skalt viþ þeim<sep />ok of hug mǣla,<br />
+			glīk skulu gjǫld gjǫfum.
+		</original>
+		<translation>
+			So is it with him<sep />whom thou hardly wilt trust,<br />
+			And whose mind thou mayst not know;<br />
+			Laugh with him mayst thou,<sep />but speak not thy mind,<br />
+			Like gifts to his shalt thou give.
+		</translation>
+	</block>
+	<block class="stanza" number="47">
+		<original>
+			Ungr vask forþum,<sep />fōr ek einn saman,<br />
+			þā varþk villr vega;<br />
+			auþugr þōttumk<sep />es ek annan fann:<br />
+			maþr es manns gaman.
+		</original>
+		<translation>
+			Young was I once,<sep />and wandered alone,<br />
+			And nought of the road I knew;<br />
+			Rich did I feel<sep />when a comrade I found,<br />
+			For man is man's delight.
+		</translation>
+	</block>
+	<block class="stanza" number="48">
+		<original>
+			Mildir, frø̄knir<sep />menn bazt lifa,<br />
+			sjaldan sūt ala,<br />
+			en ōsnjallr maþr<sep />uggir hotvetna,<br />
+			sȳtir ǣ gløggr viþ gjǫfum.
+		</original>
+		<translation>
+			The lives of the brave<sep />and noble are best,<br />
+			Sorrows they seldom feed;<br />
+			But the coward fear<sep />of all things feels,<br />
+			And not gladly the niggard gives.
+		</translation>
+	</block>
+	<block class="stanza" number="49">
+		<original>
+			Vāþir mīnar<sep />gaf ek velli at<br />
+			tveim trēmǫnnum;<br />
+			rekkar þat þōttusk<sep />es þeir ript hǫfþu:<br />
+			neiss es nøkkviþr halr.
+		</original>
+		<translation>
+			My garments once<sep />in a field I gave<br />
+			To a pair of carven poles;<br />
+			Heroes they seemed<sep />when clothes they had,<br />
+			But the naked man is nought.
+		</translation>
+	</block>
+	<block class="stanza" number="50">
+		<original>
+			Hrørnar þǫll<sep />sūs stendr þorpi ā,<br />
+			hlȳrat bǫrkr nē barr;<br />
+			svā es maþr<sep />sās manngi ann,<br />
+			hvat skal hann lengi lifa?
+		</original>
+		<translation>
+			On the hillside drear<sep />the fir-tree dies,<br />
+			All bootless its needles and bark;<br />
+			It is like a man<sep />whom no one loves,—<br />
+			Why should his life be long?
+		</translation>
+	</block>
+	<block class="stanza" number="51">
+		<original>
+			Eldi heitari<sep />brinnr meþ illum vinum<br />
+			friþr fimm daga,<br />
+			en þā sloknar,<sep />es enn sētti kømr,<br />
+			ok versnar vinskapr allr.
+		</original>
+		<translation>
+			Hotter than fire<sep />between false friends<br />
+			Does friendship five days burn;<br />
+			When the sixth day comes<sep />the fire cools,<br />
+			And ended is all the love.
+		</translation>
+	</block>
+	<block class="stanza" number="52">
+		<original>
+			Mikit eitt<sep />skala manni gefa,<br />
+			opt kaupir ī litlu lof;<br />
+			meþ hǫlfum hleifi<sep />ok meþ hǫllu keri<br />
+			fengumk fēlaga.
+		</original>
+		<translation>
+			No great thing needs<sep />a man to give,<br />
+			Oft little will purchase praise;<br />
+			With half a loaf<sep />and a half-filled cup<br />
+			A friend full fast I made.
+		</translation>
+	</block>
+	<block class="stanza" number="53">
+		<original>
+			Lītilla sanda<sep />lītilla sǣva:<br />
+			lītil eru geþ guma;<br />
+			þvīt allir menn<sep />urþut jafnspakir,<br />
+			hǫlf es ǫld hvar.
+		</original>
+		<translation>
+			A little sand<sep />has a little sea,<br />
+			And small are the minds of men;<br />
+			Though all men are not<sep />equal in wisdom,<br />
+			Yet half-wise only are all.
+		</translation>
+	</block>
+	<block class="stanza" number="54">
+		<original>
+			Meþalsnotr<sep />skyli manna hverr,<br />
+			ǣva til snotr seï;<br />
+			þeim es fyrþa<sep />fegrst at lifa,<br />
+			es vel mart vitu.
+		</original>
+		<translation>
+			A measure of wisdom<sep />each man shall have,<br />
+			But never too much let him know;<br />
+			The fairest lives<sep />do those men live<br />
+			Whose wisdom wide has grown.
+		</translation>
+	</block>
+	<block class="stanza" number="55">
+		<original>
+			Meþalsnotr<sep />skyli manna hverr,<br />
+			ǣva til snotr seï;<br />
+			þvīt snotrs manns hjarta<sep />verþr sjaldan glatt,<br />
+			ef sā's alsnotr es ā.
+		</original>
+		<translation>
+			A measure of wisdom<sep />each man shall have,<br />
+			But never too much let him know;<br />
+			For the wise man's heart<sep />is seldom happy,<br />
+			If wisdom too great he has won.
+		</translation>
+		<comment>
+			Here and in stanza <stanzaref chapter="Hovamol">56</stanzaref>, the first pairs of lines are abbreviated in the manuscript.
+		</comment>
+	</block>
+	<block class="stanza" number="56">
+		<original>
+			Meþalsnotr<sep />skyli manna hverr,<br />
+			ǣva til snotr seï;<br />
+			ørlǫg sīn<sep />viti engi fyrir,<br />
+			þeim's sorgalausastr sefi.
+		</original>
+		<translation>
+			A measure of wisdom<sep />each man shall have,<br />
+			But never too much let him know;<br />
+			Let no man the fate<sep />before him see,<br />
+			For so is he freest from sorrow.
+		</translation>
+	</block>
+	<block class="stanza" number="57">
+		<original>
+			Brandr af brandi<sep />brinnr unz brunninn es,<br />
+			funi kveykisk af funa;<br />
+			maþr manni<sep />verþr af māli kuþr,<br />
+			en til dø̄lskr af dul.
+		</original>
+		<translation>
+			A brand from a brand<sep />is kindled and burned,<br />
+			And fire from fire begotten;<br />
+			And man by his speech<sep />is known to men,<br />
+			And the stupid by their stillness.
+		</translation>
+	</block>
+	<block class="stanza" number="58">
+		<original>
+			Ār skal rīsa<sep />sās annars vill<br />
+			fē eþa fjǫr hafa;<br />
+			liggjandi ulfr<sep />sjaldan lǣr of getr<br />
+			nē sofandi maþr sigr.
+		</original>
+		<translation>
+			He must early go forth<sep />who fain the blood<br />
+			Or the goods of another would get;<br />
+			The wolf that lies idle<sep />shall win little meat,<br />
+			Or the sleeping man success.
+		</translation>
+	</block>
+	<block class="stanza" number="59">
+		<original>
+			Ār skal rīsa<sep />sās ā yrkjendr faa<br />
+			ok ganga sīns verka ā vit;<br />
+			mart of dvelr<sep />þanns of morgin sefr,<br />
+			halfr es auþr und hvǫtum.
+		</original>
+		<translation>
+			He must early go forth<sep />whose workers are few,<br />
+			Himself his work to seek;<br />
+			Much remains undone<sep />for the morning-sleeper,<br />
+			For the swift is wealth half won.
+		</translation>
+	</block>
+	<block class="stanza" number="60">
+		<original>
+			Þurra skīþa<sep />ok þakinna nǣfra,<br />
+			þess kann maþr mjǫt,<br />
+			þess viþar<sep />es vinnask megi<br />
+			mǭl ok misseri.
+		</original>
+		<translation>
+			Of seasoned shingles<sep />and strips of bark<br />
+			For the thatch let one know his need,<br />
+			And how much of wood<sep />he must have for a month,<br />
+			Or in half a year he will use.
+		</translation>
+	</block>
+	<block class="stanza" number="61">
+		<original>
+			Þveginn ok mettr<sep />rīpi maþr þingi at,<br />
+			þōt sēt vǣdr til vel;<br />
+			skua ok brōka<sep />skammisk engi maþr,<br />
+			nē hests in heldr,<br />
+			[þōt hann hafit gōþan.]
+		</original>
+		<translation>
+			Washed and fed<sep />to the council fare,<br />
+			But care not too much for thy clothes;<br />
+			Let none be ashamed<sep />of his shoes and hose,<br />
+			Less still of the steed he rides,<br />
+			[Though poor be the horse he has.]
+		</translation>
+		<comment>
+			The fifth line is probably a spurious addition.
+		</comment>
+	</block>
+	<block class="stanza" number="62">
+		<original>
+			Snapir ok gnapir,<sep />es til sǣvar kømr,<br />
+			ǫrn ā aldinn mar;<br />
+			svā es maþr<sep />es meþ mǫrgum kømr<br />
+			ok ā formǣlendr faa.
+		</original>
+		<translation>
+			When the eagle comes<sep />to the ancient sea,<br />
+			He snaps and hangs his head;<br />
+			So is a man<sep />in the midst of a throng,<br />
+			Who few to speak for him finds.
+		</translation>
+		<comment>
+			This stanza follows stanza <stanzaref chapter="Hovamol">63</stanzaref> in the manuscript, but there are marks therein indicating the transposition.
+		</comment>
+	</block>
+	<block class="stanza" number="63">
+		<original>
+			Fregna ok segja<sep />skal frōþra hverr,<br />
+			sās vill heitinn horskr;<br />
+			einn vita,<sep />nē annarr skal,<br />
+			þjōþ veit, ef þrīr 'ū.
+		</original>
+		<translation>
+			To question and answer<sep />must all be ready<br />
+			Who wish to be known as wise;<br />
+			Tell one thy thoughts,<sep />but beware of two,—<br />
+			All know what is known to three.
+		</translation>
+	</block>
+	<block class="stanza" number="64">
+		<original>
+			Rīki sitt<sep />skyli rāþsnotra hverr<br />
+			ī hōfi hafa;<br />
+			þā þat fiþr<sep />es meþ frø̄knum kømr,<br />
+			at engi's einna hvatastr.
+		</original>
+		<translation>
+			The man who is prudent<sep />a measured use<br />
+			Of the might he has will make;<br />
+			He finds when among<sep />the brave he fares<br />
+			That the boldest he may not be.
+		</translation>
+	</block>
+	<block class="stanza" number="65">
+		<original>
+			<lacuna /><br />
+			<lacuna /><br />
+			orþa þeira,<sep />es maþr ǫþrum segir,<br />
+			opt hann gjǫld of getr.
+		</original>
+		<translation>
+			<lacuna /><br />
+			<lacuna /><br />
+			Oft for the words<sep />that to others one speaks<br />
+			He will get but an evil gift.
+		</translation>
+		<comment>
+			The manuscript indicates no lacuna (lines 1 and 2).
+			Many editors have filled out the stanza with two lines from late paper manuscripts, the passage running:
+			<textstanza>
+				A man must be watchful | and wary as well,<br />
+				And fearful of trusting a friend.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="66">
+		<original>
+			Mikilsti snimma<sep />kvamk ī marga staþi,<br />
+			en til sīþ ī suma;<br />
+			ǫl vas drukkit,<sep />sumt vas ōlagat:<br />
+			hittira leiþr ī liþ.
+		</original>
+		<translation>
+			Too early to many<sep />a meeting I came,<br />
+			And some too late have I sought;<br />
+			The beer was all drunk,<sep />or not yet brewed;<br />
+			Little the loathed man finds.
+		</translation>
+	</block>
+	<block class="stanza" number="67">
+		<original>
+			Hēr ok hvar<sep />mundi mēr heim of boþit,<br />
+			ef þyrftak at mǭlungi mat<br />
+			eþa tvau lǣr hengi<sep />at ens tryggva vinar,<br />
+			þars hafþak eitt etit.
+		</original>
+		<translation>
+			To their homes men would bid<sep />me hither and yon,<br />
+			If at meal-time I needed no meat,<br />
+			Or would hang two hams<sep />in my true friend's house,<br />
+			Where only one I had eaten.
+		</translation>
+	</block>
+	<block class="stanza" number="68">
+		<original>
+			Eldr es baztr<sep />meþ ȳta sunum<br />
+			auk sōlar sȳn,<br />
+			heilyndi sitt<sep />ef maþr hafa naïr,<br />
+			ǭn viþ lǫst at lifa.
+		</original>
+		<translation>
+			Fire for men<sep />is the fairest gift,<br />
+			And power to see the sun;<br />
+			Health as well,<sep />if a man may have it,<br />
+			And a life not stained with sin.
+		</translation>
+	</block>
+	<block class="stanza" number="69">
+		<original>
+			Esat maþr alls vesall,<sep />þōt sē illa heill;<br />
+			sumr's af sunum sǣll,<br />
+			sumr af frǣndum,<sep />sumr af fē ø̄rnu,<br />
+			sumr af verkum vel.
+		</original>
+		<translation>
+			All wretched is no man,<sep />though never so sick;<br />
+			Some from their sons have joy,<br />
+			Some win it from kinsmen,<sep />and some from their wealth,<br />
+			And some from worthy works.
+		</translation>
+	</block>
+	<block class="stanza" number="70">
+		<original>
+			Betra's lifþum<sep />an sē ōlifþum,<br />
+			ey getr kvikr kū;<br />
+			eld sāk upp brinna<sep />auþgum manni fyrir,<br />
+			en ūti vas dauþr fyr durum.
+		</original>
+		<translation>
+			It is better to live<sep />than to lie a corpse,<br />
+			The live man catches the cow;<br />
+			I saw flames rise<sep />for the rich man's pyre,<br />
+			And before his door he lay dead.
+		</translation>
+		<comment>
+			The manuscript has “and a worthy life” in place of “than to lie a corpse” in line 1, but Rask suggested the emendation as early as 1818, and most editors have followed him.
+		</comment>
+	</block>
+	<block class="stanza" number="71">
+		<original>
+			Haltr rīþr hrossi,<sep />hjǫrþ rekr handarvanr,<br />
+			daufr vegr ok dugir;<br />
+			blindr es betri<sep />an brendr seï,<br />
+			nȳtr mangi nās.
+		</original>
+		<translation>
+			The lame rides a horse,<sep />the handless is herdsman,<br />
+			The deaf in battle is bold;<br />
+			The blind man is better<sep />than one that is burned,<br />
+			No good can come of a corpse.
+		</translation>
+	</block>
+	<block class="stanza" number="72">
+		<original>
+			Sunr es betri,<sep />þōt sē sīþ of alinn<br />
+			ept genginn guma;<br />
+			sjaldan bautarsteinar<sep />standa brautu nǣr,<br />
+			nema reisi niþr at niþ.
+		</original>
+		<translation>
+			A son is better,<sep />though late he be born,<br />
+			And his father to death have fared;<br />
+			Memory-stones<sep />seldom stand by the road<br />
+			Save when kinsman honors his kin.
+		</translation>
+	</block>
+	<block class="stanza" number="73">
+		<original>
+			[Tveir'u einherjar,<sep />tunga's hǫfuþs bani;<br />
+			erumk ī heþin hverjan<sep />handar vǣni.]
+		</original>
+		<translation>
+			Two make a battle,<sep />the tongue slays the head;<br />
+			In each furry coat<sep />a fist I look for.
+		</translation>
+	</block>
+	<block class="stanza" number="74">
+		<original>
+			Nǭtt verþr feginn<sep />sās nesti truir,<br />
+			[skammar'u skips raar]<br />
+			hverf es haustgrīma;<br />
+			fjǫlþ of viþrir<sep />ā fimm dǫgum,<br />
+			en meira ā mānaþi.
+		</original>
+		<translation>
+			He welcomes the night<sep />whose fare is enough,<br />
+			[Short are the yards of a ship,]<br />
+			Uneasy are autumn nights;<br />
+			Full oft does the weather<sep />change in a week,<br />
+			And more in a month's time.
+		</translation>
+		<comment>
+			These (<stanzaref chapter="Hovamol">73</stanzaref>–<stanzaref chapter="Hovamol">74</stanzaref>) seven lines are obviously a jumble.
+			The two lines of stanza <stanzaref chapter="Hovamol">73</stanzaref> not only appear out of place, but the verse form is unlike that of the surrounding stanzas.
+			In <stanzaref chapter="Hovamol">74</stanzaref>, the second line is clearly interpolated, and line I has little enough connection with lines 3, 4 and 5.
+			It looks as though some compiler (or copyist) had inserted here various odds and ends for which he could find no better place.
+		</comment>
+	</block>
+	<block class="stanza" number="75">
+		<original>
+			Veita maþr<sep />hinns vǣtki veit:<br />
+			margr verþr af auþi of api;<br />
+			maþr es auþugr,<sep />annarr ōauþugr,<br />
+			skylit þann vǣtkis vaa.
+		</original>
+		<translation>
+			A man knows not,<sep />if nothing he knows,<br />
+			That gold oft apes begets;<br />
+			One man is wealthy<sep />and one is poor,<br />
+			Yet scorn for him none should know.
+		</translation>
+		<comment>
+			The word “gold” in line 2 is more or less conjectural, the manuscript being obscure.
+			The reading in line 4 is also doubtful.
+		</comment>
+	</block>
+	<block class="stanza" number="76">
+		<original>
+			Fullar grindr<sep />sāk fyr Fitjungs sunum,<br />
+			nū bera vānarvǫl;<br />
+			svā es auþr<sep />sem augabragþ,<br />
+			hann es valtastr vina.
+		</original>
+		<translation>
+			Among Fitjung's sons<sep />saw I well-stocked folds,—<br />
+			Now bear they the beggar's staff;<br />
+			Wealth is as swift<sep />as a winking eye,<br />
+			Of friends the falsest it is.
+		</translation>
+		<comment>
+			in the manuscript this stanza follows <stanzaref chapter="Hovamol">79</stanzaref>, the order being: <stanzaref chapter="Hovamol">77</stanzaref>, <stanzaref chapter="Hovamol">78</stanzaref>, <stanzaref chapter="Hovamol">76</stanzaref>, <stanzaref chapter="Hovamol">80</stanzaref>, <stanzaref chapter="Hovamol">79</stanzaref>, <stanzaref chapter="Hovamol">81</stanzaref>.
+			<expl>Fitjung</expl> (“the Nourisher”): Earth.
+		</comment>
+	</block>
+	<block class="stanza" number="77">
+		<original>
+			Deyr fē,<sep />deyja frǣndr,<br />
+			deyr sjalfr et sama,<br />
+			en orþstīrr<sep />deyr aldrigi<br />
+			hveims sēr gōþan getr.
+		</original>
+		<translation>
+			Cattle die,<sep />and kinsmen die,<br />
+			And so one dies one's self;<br />
+			But a noble name<sep />will never die,<br />
+			If good renown one gets.
+		</translation>
+	</block>
+	<block class="stanza" number="78">
+		<original>
+			Deyr fē,<sep />deyja frǣndr,<br />
+			deyr sjalfr et sama;<br />
+			ek veit einn<sep />at aldri deyr:<br />
+			dōmr of dauþan hvern.
+		</original>
+		<translation>
+			Cattle die,<sep />and kinsmen die,<br />
+			And so one dies one's self;<br />
+			One thing now<sep />that never dies,<br />
+			The fame of a dead man's deeds.
+		</translation>
+	</block>
+	<block class="stanza" number="79">
+		<original>
+			Þat's þā reynt,<sep />es at rūnum spyrr,<br />
+			þeims gørþu ginnregin<br />
+			ok fāþi fimbulþulr,<br />
+			<conj>þat's þā reynt</conj><sep /><conj>es at rūnum spyrr</conj>,<br />
+			<conj>rūnum</conj> reginkunnum:<br />
+			þā hefr bazt ef þegir.
+		</original>
+		<translation>
+			Certain is that<sep />which is sought from runes,<br />
+			That the gods so great have made,<br />
+			And the Master-Poet painted;<br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /> of the race of gods:<br />
+			Silence is safest and best.
+		</translation>
+		<comment>
+			This stanza is certainly in bad shape, and probably out of place here.
+			Its reference to runes as magic signs suggests that it properly belongs in some list of charms like the <source>Ljothatal</source> (stanzas <stanzaref chapter="Hovamol">147</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref>).
+			The stanza-form is so irregular as to show either that something has been lost or that there have been interpolations.
+			The manuscript indicates no lacuna; Gering fills out the assumed gap as follows:
+			<textstanza>
+				Certain is that which is sought from runes,<br />
+				The runes—, etc.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="80">
+		<original>
+			Ōsnotr maþr,<sep />ef eignask getr<br />
+			fē eþa fljōþs munugþ,<br />
+			metnaþr þroask,<sep />en manvit aldri,<br />
+			fram gengr hann drjūgt ī dul.
+		</original>
+		<translation>
+			An unwise man,<sep />if a maiden's love<br />
+			Or wealth he chances to win,<br />
+			His pride will wax,<sep />but his wisdom never,<br />
+			Straight forward he fares in conceit.
+		</translation>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="81">
+		<original>
+			At kveldi skal dag leyfa,<sep />konu es brend es,<br />
+			mǣki es reyndr es,<sep />mey es gefin es,<br />
+			īs es yfir kømr,<sep />ǫl es drukkit es.
+		</original>
+		<translation>
+			Give praise to the day at evening,<sep />to a woman on her pyre,<br />
+			To a weapon which is tried,<sep />to a maid at wed lock,<br />
+			To ice when it is crossed,<sep />to ale that is drunk.
+		</translation>
+		<comment>
+			With this stanza the verse-form, as indicated in the translation, abruptly changes to Malahattr.
+			What has happened seems to have been something like this.
+			Stanza <stanzaref chapter="Hovamol">80</stanzaref> introduces the idea of man's love for woman.
+			Consequently some reciter or compiler (or possibly even a copyist) took occasion to insert at this point certain stanzas concerning the ways of women.
+			Thus stanza <stanzaref chapter="Hovamol">80</stanzaref> would account for the introduction of stanzas <stanzaref chapter="Hovamol">81</stanzaref> and <stanzaref chapter="Hovamol">82</stanzaref>, which, in turn, apparently drew stanza <stanzaref chapter="Hovamol">83</stanzaref> in with them.
+			Stanza <stanzaref chapter="Hovamol">84</stanzaref> suggests the fickleness of women, and is immediately followed—again with a change of verse-form—by a list of things equally untrustworthy (stanzas <stanzaref chapter="Hovamol">85</stanzaref>–<stanzaref chapter="Hovamol">90</stanzaref>).
+			Then, after a few more stanzas on love in the regular measure of the <chapterref>Hovamol</chapterref> (stanza <stanzaref chapter="Hovamol">91</stanzaref>–<stanzaref chapter="Hovamol">95</stanzaref>), is introduced, by way of illustration, Othin's story of his adventure with Billing's daughter (stanzas <stanzaref chapter="Hovamol">96</stanzaref>–<stanzaref chapter="Hovamol">102</stanzaref>).
+			Some such process of growth, whatever its specific stages may have been, must be assumed to account for the curious chaos of the whole passage from stanza <stanzaref chapter="Hovamol">81</stanzaref> to stanza <stanzaref chapter="Hovamol">102</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="82">
+		<original>
+			Ī vindi skal viþ hǫggva,<sep />veþri ā sjō roa,<br />
+			myrkri viþ man spjalla,<sep />mǫrg 'ru dags augu;<br />
+			ā skip skal skriþar orka,<sep />en ā skjǫld til hlīfar,<br />
+			mǣki hǫggs,<sep />en mey til kossa.
+		</original>
+		<translation>
+			When the gale blows hew wood,<sep />in fair winds seek the water;<br />
+			Sport with maidens at dusk,<sep />for day's eyes are many;<br />
+			From the ship seek swiftness,<sep />from the shield protection,<br />
+			Cuts from the sword,<sep />from the maiden kisses.
+		</translation>
+	</block>
+	<block class="stanza" number="83">
+		<original>
+			Viþ eld skal ǫl drekka,<sep />en ā īsi skrīþa,<br />
+			magran mar kaupa,<sep />en mǣki saurgan,<br />
+			heima hest feita,<sep />en hund ā buï.
+		</original>
+		<translation>
+			By the fire drink ale,<sep />over ice go on skates;<br />
+			Buy a steed that is lean,<sep />and a sword when tarnished,<br />
+			The horse at home fatten,<sep />the hound in thy dwelling.
+		</translation>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="84">
+		<original>
+			Meyjar orþum<sep />skyli manngi trua,<br />
+			nē þvīs kveþr kona;<br />
+			þvīt ā hverfanda hvēli<sep />vǫru þeim hjǫrtu skǫpuþ<br />
+			ok brigþ ī brjōst of lagiþ.
+		</original>
+		<translation>
+			A man shall trust not<sep />the oath of a maid,<br />
+			Nor the word a woman speaks;<br />
+			For their hearts on a whirling<sep />wheel were fashioned,<br />
+			And fickle their breasts were formed.
+		</translation>
+		<comment>
+			Lines 3 and 4 are quoted in the <emph>Fostbræthrasaga</emph>.
+		</comment>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="85">
+		<original>
+			Brestanda boga,<sep />brinnanda loga,<br />
+			gīnanda ulfi,<sep />galandi krǭku,<br />
+			rȳtanda svīni,<sep />rōtlausum viþi,<br />
+			vaxanda vāgi,<sep />vellanda katli,
+		</original>
+		<translation>
+			In a breaking bow<sep />or a burning flame,<br />
+			A ravening wolf<sep />or a croaking raven,<br />
+			In a grunting boar,<sep />a tree with roots broken,<br />
+			In billowy seas<sep />or a bubbling kettle,
+		</translation>
+		<comment>
+			Stanzas <stanzaref chapter="Hovamol">85</stanzaref>–<stanzaref chapter="Hovamol">88</stanzaref> and go are in Fornyrthislag, and clearly come from a different source from the rest of the <chapterref>Hovamol</chapterref>.
+		</comment>
+	</block>
+	<block class="stanza" number="86">
+		<original>
+			fljūganda fleini<sep />fallandi bǭru,<br />
+			īsi einnǣttum,<sep />ormi hringlegnum,<br />
+			brūþar beþmǭlum<sep />eþa brotnu sverþi,<br />
+			bjarnar leiki<sep />eþa barni konungs,
+		</original>
+		<translation>
+			In a flying arrow<sep />or falling waters,<br />
+			In ice new formed<sep />or the serpent's folds,<br />
+			In a bride's bed-speech<sep />or a broken sword,<br />
+			In the sport of bears<sep />or in sons of kings,
+		</translation>
+	</block>
+	<block class="stanza" number="87">
+		<original>
+			sjūkum kalfi,<sep />sjalfrāþa þrǣli,<br />
+			vǫlu vilmǣli,<sep />val nȳfeldum—
+		</original>
+		<translation>
+			In a calf that is sick<sep />or a stubborn thrall,<br />
+			A flattering witch<sep />or a foe new slain.
+		</translation>
+		<comment>
+			The stanza is doubtless incomplete.
+			Some editors add from a late paper manuscript two lines running:
+			<textstanza>
+				In a light, clear sky<sep />or a laughing throng,<br />
+				In the bowl of a dog<sep />or a harlot's grief!
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="88">
+		<original>
+			brōþurbana sīnum,<sep />þōt ā brautu mø̄ti,<br />
+			hūsi halfbrunnu,<sep />hesti alskjōtum—<br />
+			þā's jōr ōnȳtr,<sep />ef einn fōtr brotnar—<br />
+			verþit maþr svā tryggr,<sep />at þessu truï ǫllu.
+		</original>
+		<translation>
+			In a brother's slayer,<sep />if thou meet him abroad,<br />
+			In a half-burned house,<sep />in a horse full swift—<br />
+			One leg is hurt<sep />and the horse is useless—<br />
+			None had ever such faith<sep />as to trust in them all.
+		</translation>
+		<comment>
+			This stanza follows stanza <stanzaref chapter="Hovamol">89</stanzaref> in the manuscript.
+			Many editors have changed the order, for while stanza <stanzaref chapter="Hovamol">89</stanzaref> is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between <stanzaref chapter="Hovamol">87</stanzaref> and <stanzaref chapter="Hovamol">88</stanzaref>.
+		</comment>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="89">
+		<original>
+			Akri ārsǭnum<sep />trui engi maþr<br />
+			nē til snimma syni:<br />
+			veþr rǣþr akri,<sep />en vit syni,<br />
+			hǣtt es þeira hvārt.
+		</original>
+		<translation>
+			Hope not too surely<sep />for early harvest,<br />
+			Nor trust too soon in thy son;<br />
+			The field needs good weather,<sep />the son needs wisdom,<br />
+			And oft is either denied.
+		</translation>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="90">
+		<original>
+			Svā's friþr kvenna<sep />es flātt hyggja,<br />
+			sem aki jō ōbryddum<sep />ā īsi hǭlum,<br />
+			[teitum, tvēvetrum,<sep />ok sē tamr illa,]<br />
+			eþa ī byr ōþum<sep />beiti stjōrnlausu,<br />
+			eþa skyli haltr henda<sep />hrein ī þāfjalli.
+		</original>
+		<translation>
+			The love of women<sep />fickle of will<br />
+			Is like starting o'er ice<sep />with a steed unshod,<br />
+			A two-year-old restive<sep />and little tamed,<br />
+			Or steering a rudderless<sep />ship in a storm,<br />
+			Or, lame, hunting reindeer<sep />on slippery rocks.
+		</translation>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="91">
+		<original>
+			Bert nū mǣlik,<sep />þvīt ek bǣþi veit,<br />
+			brigþr es karla hugr konum;<br />
+			þā vēr fegrst mǣlum,<sep />es vēr flāst hyggjum,<br />
+			þat tǣlir horska hugi.
+		</original>
+		<translation>
+			Clear now will I speak,<sep />for I know them both,<br />
+			Men false to women are found;<br />
+			When fairest we speak,<sep />then falsest we think,<br />
+			Against wisdom we work with deceit.
+		</translation>
+	</block>
+	<block class="stanza" number="92">
+		<original>
+			Fagrt skal mǣla<sep />ok fē bjōþa<br />
+			sās vill fljōþs ǭst faa,<br />
+			līki leyfa<sep />ens ljōsa mans:<br />
+			sā fǣr es friar.
+		</original>
+		<translation>
+			Soft words shall he speak<sep />and wealth shall he offer<br />
+			Who longs for a maiden's love,<br />
+			And the beauty praise<sep />of the maiden bright;<br />
+			He wins whose wooing is best.
+		</translation>
+	</block>
+	<block class="stanza" number="93">
+		<original>
+			Āstar firna<sep />skyli engi maþr<br />
+			annan aldrigi;<br />
+			opt fā ā horskan,<sep />es ā heimskan nē fā,<br />
+			lostfagrir litir.
+		</original>
+		<translation>
+			Fault for loving<sep />let no man find<br />
+			Ever with any other;<br />
+			Oft the wise are fettered,<sep />where fools go free,<br />
+			By beauty that breeds desire.
+		</translation>
+	</block>
+	<block class="stanza" number="94">
+		<original>
+			Eyvitar firna<sep />es maþr annan skal<br />
+			þess's of margan gengr guma;<br />
+			heimska ōr horskum<sep />gørir hǫlþa sunu<br />
+			sā enn mǭtki munr.
+		</original>
+		<translation>
+			Fault with another<sep />let no man find<br />
+			For what touches many a man;<br />
+			Wise men oft<sep />into witless fools<br />
+			Are made by mighty love.
+		</translation>
+	</block>
+	<block class="stanza" number="95">
+		<original>
+			Hugr einn þat veit,<sep />es bȳr hjarta nǣr,<br />
+			einn's hann sēr of sefa;<br />
+			øng es sōtt verri<sep />hveim snotrum manni<br />
+			an sēr øngu at una.
+		</original>
+		<translation>
+			The head alone knows<sep />what dwells near the heart,<br />
+			A man knows his mind alone;<br />
+			No sickness is worse<sep />to one who is wise<br />
+			Than to lack the longed-for joy.
+		</translation>
+	</block>
+	<block class="stanza" number="96">
+		<original>
+			Þat þā reyndak,<sep />es ī reyri satk<br />
+			ok vǣttak mīns munar;<br />
+			hold ok hjarta<sep />vǫrumk en horska mǣr,<br />
+			þeygi at heldr hana hefik.
+		</original>
+		<translation>
+			This found I myself,<sep />when I sat in the reeds,<br />
+			And long my love awaited;<br />
+			As my life the maiden<sep />wise I loved,<br />
+			Yet her I never had.
+		</translation>
+		<comment>
+			Here begins the passage (stanzas <stanzaref chapter="Hovamol">96</stanzaref>–<stanzaref chapter="Hovamol">102</stanzaref>) illustrating the falseness of woman by the story of Othin's unsuccessful love affair with Billing's daughter.
+			Of this person we know nothing beyond what is here told, but the story needs little comment.
+		</comment>
+	</block>
+	<block class="stanza" number="97">
+		<original>
+			Billings mey<sep />ek fann beþjum ā<br />
+			sōlhvīta sofa;<br />
+			jarls ynþi<sep />þōttumk etki vesa,<br />
+			nema viþ þat līk at lifa.
+		</original>
+		<translation>
+			Billing's daughter<sep />I found on her bed,<br />
+			In slumber bright as the sun;<br />
+			Empty appeared<sep />an earl's estate<br />
+			Without that form so fair.
+		</translation>
+	</block>
+	<block class="stanza" number="98">
+		<original>
+			“Auk nǣr aptni<sep />skaltu, Ōþinn! koma,<br />
+			ef þū vill þēr mǣla man;<br />
+			allt eru ōskǫp,<sep />nema einir viti<br />
+			slīkan lǫst saman.”
+		</original>
+		<translation>
+			“Othin, again<sep />at evening come,<br />
+			If a woman thou wouldst win;<br />
+			Evil it were<sep />if others than we<br />
+			Should know of such a sin.”
+		</translation>
+	</block>
+	<block class="stanza" number="99">
+		<original>
+			Aptr ek hvarf<sep />ok unna þōttumk,<br />
+			vīsum vilja frā;<br />
+			hitt ek hugþa,<sep />at ek hafa mynda<br />
+			geþ hennar allt ok gaman.
+		</original>
+		<translation>
+			Away I hastened,<sep />hoping for joy,<br />
+			And careless of counsel wise;<br />
+			Well I believed<sep />that soon I should win<br />
+			Measureless joy with the maid.
+		</translation>
+	</block>
+	<block class="stanza" number="100">
+		<original>
+			Svā kvam ek nǣst,<sep />at en nȳta vas<br />
+			vīgdrōtt ǫll of vakin;<br />
+			meþ brinnǫndum ljōsum<sep />ok bornum viþi—<br />
+			svā vǫrumk vīlstīgr of vitaþr.
+		</original>
+		<translation>
+			So came I next<sep />when night it was,<br />
+			The warriors all were awake;<br />
+			With burning lights<sep />and waving brands<br />
+			I learned my luckess way.
+		</translation>
+	</block>
+	<block class="stanza" number="101">
+		<original>
+			Auk nǣr morni,<sep />es ek vas enn of kominn,<br />
+			þā vas saldrōtt of sofin;<br />
+			grey eitt fannk þā<sep />ennar gōþu konu<br />
+			bundit beþjum ā.
+		</original>
+		<translation>
+			At morning then,<sep />when once more I came,<br />
+			And all were sleeping still,<br />
+			A dog found<sep />in the fair one's place,<br />
+			Bound there upon her bed.
+		</translation>
+	</block>
+	<block class="stanza" number="102">
+		<original>
+			Mǫrg es gōþ mǣr,<sep />ef gǫrva kannar,<br />
+			hugbrigþ viþ hali:<br />
+			þā þat reyndak,<sep />es et rāþspaka<br />
+			teygþak ā flǣrþir fljōþ;<br />
+			hǭþungar hverrar<sep />leitaþi mer et horska man,<br />
+			ok hafþak þess vǣtki vīfs.
+		</original>
+		<translation>
+			Many fair maids,<sep />if a man but tries them,<br />
+			False to a lover are found;<br />
+			That did I learn<sep />when I longed to gain<br />
+			With wiles the maiden wise;<br />
+			Foul scorn was my meed<sep />from the crafty maid,<br />
+			And nought from the woman I won.
+		</translation>
+		<comment>
+			Rask adds at the beginning of this stanza two lines from a late paper manuscript, running:
+			<textstanza>
+				Few are so good<sep />that false they are never<br />
+				To cheat the mind of a man.
+			</textstanza>
+			He makes these two lines plus lines 1 and 2 a full stanza, and line 3, 4, 5, and 6 a second stanza.
+		</comment>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="103">
+		<original>
+			Heima glaþr gumi<sep />ok viþ gesti reifr<br />
+			sviþr skal of sik vesa;<br />
+			minnugr ok mǭlugr,<sep />ef hann vill margfrōþr vesa,<br />
+			opt skal gōþs geta;<br />
+			fimbulfambi heitir<sep />sās fātt kann segja,<br />
+			þat's ōsnotrs aþal.
+		</original>
+		<translation>
+			Though glad at home,<sep />and merry with guests,<br />
+			A man shall be wary and wise;<br />
+			The sage and shrewd,<sep />wide wisdom seeking,<br />
+			Must see that his speech be fair;<br />
+			A fool is he named<sep />who nought can say,<br />
+			For such is the way of the witless.
+		</translation>
+		<comment>
+			With this stanza the subject changes abruptly, and apparently the virtues of fair speech, mentioned in the last three lines, account for the introduction, from what source cannot be known, of the story of Othin and the mead of song (stanzas <stanzaref chapter="Hovamol">104</stanzaref>–<stanzaref chapter="Hovamol">110</stanzaref>).
+		</comment>
+	</block>
+	<block class="stanza" number="104">
+		<original>
+			Enn aldna jǫtun sōttak,<sep />nu emk aptr of kominn,<br />
+			fātt gatk þegjandi þar;<br />
+			mǫrgum orþum<sep />mǣltak ī minn frama<br />
+			ī Suttungs sǫlum.
+		</original>
+		<translation>
+			I found the old giant,<sep />now back have I fared,<br />
+			Small gain from silence I got;<br />
+			Full many a word,<sep />my will to get,<br />
+			I spoke in Suttung's hall.
+		</translation>
+		<comment>
+			The giant <emph>Suttung</emph> (“the old giant”) possessed the magic mead, a draught of which conferred the gift of poetry.
+			Othin, desiring to obtain it, changed himself into a snake, bored his way through a mountain into Suttung's home, made love to the giant's daughter, Gunnloth, and by her connivance drank up all the mead.
+			Then he flew away in the form of an eagle, leaving Gunnloth to her fate.
+			While with Suttung he assumed the name of Bolverk (“the Evil-Doer”).
+		</comment>
+	</block>
+	<block class="stanza" number="105">
+		<original>
+			Rata munn<sep />lētumk rūms of fā<br />
+			auk of grjōt gnaga,<br />
+			yfir ok undir<sep />stōþumk jǫtna vegir,<br />
+			svā hǣttak hǫfþi til.
+		</original>
+		<translation>
+			The mouth of Rati<sep />made room for my passage,<br />
+			And space in the stone he gnawed;<br />
+			Above and below<sep />the giants' paths lay,<br />
+			So rashly I risked my head.
+		</translation>
+		<comment>
+			<expl>Rati</expl> (“the Traveller”): the gimlet with which Othin bored through the mountain to reach Suttung's home.
+		</comment>
+	</block>
+	<block class="stanza" number="106">
+		<original>
+			Gunnlǫþ gǫfumk<sep />gollnum stōli ā<br />
+			drykk ens dȳra mjaþar;<br />
+			ill iþgjǫld<sep />lētk hana eptir hafa<br />
+			sīns ens heila hugar,<br />
+			sīns ens svāra sefa.
+		</original>
+		<translation>
+			Gunnloth gave<sep />on a golden stool<br />
+			A drink of the marvelous mead;<br />
+			A harsh reward<sep />did I let her have<br />
+			For her heroic heart,<br />
+			And her spirit troubled sore.
+		</translation>
+		<comment>
+			Probably either the fourth or the fifth line is a spurious addition.
+		</comment>
+	</block>
+	<block class="stanza" number="107">
+		<original>
+			Vel keypts litar<sep />hefk vel notit,<br />
+			fās es frōþum vant;<br />
+			þvīt Ōþrørir<sep />es nū upp kominn<br />
+			ā vē alda jaþars.
+		</original>
+		<translation>
+			The well-earned beauty<sep />well I enjoyed,<br />
+			Little the wise man lacks;<br />
+			So Othrörir now<sep />has up been brought<br />
+			To the midst of the men of earth.
+		</translation>
+		<comment>
+			<expl>Othrörir</expl>: here the name of the magic mead itself, whereas in stanza <stanzaref chapter="Hovamol">141</stanzaref> it is the name of the vessel containing it.
+			Othin had no intention of bestowing any of the precious mead upon men, but as he was flying over the earth, hotly pursued by Suttung, he spilled some of it out of his mouth, and in this way mankind also won the gift of poetry.
+		</comment>
+	</block>
+	<block class="stanza" number="108">
+		<original>
+			Ifi 'rumk ā,<sep />at værak enn kominn<br />
+			jǫtna gǫrþum ōr,<br />
+			nema Gunnlaþar nytak,<sep />ennar gōþu konu,<br />
+			þeirars lǫgþumk arm yfir.
+		</original>
+		<translation>
+			Hardly, methinks,<sep />would I home have come,<br />
+			And left the giants' land,<br />
+			Had not Gunnloth helped me,<sep />the maiden good,<br />
+			Whose arms about me had been.
+		</translation>
+		<comment>
+			<expl>Hor</expl>: Othin (“the High One”).
+			The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza <stanzaref chapter="Hovamol">110</stanzaref> to was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.
+			The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring.
+		</comment>
+	</block>
+	<block class="stanza" number="109">
+		<original>
+			Ens hindra dags<sep />gengu hrīmþursar<br />
+			[Hǭva rāþs at fregna]<br />
+			Hǭva hǫllu ī;<br />
+			at Bǫlverki spurþu,<sep />ef væri meþ bǫndum kominn<br />
+			eþa hefþi Suttungr of soit.
+		</original>
+		<translation>
+			The day that followed,<sep />the frost-giants came,<br />
+			[Some word of Hor to win,]<br />
+			And into the hall of Hor;<br />
+			Of Bolverk they asked,<sep />were he back midst the gods,<br />
+			Or had Suttung slain him there?
+		</translation>
+	</block>
+	<block class="stanza" number="110">
+		<original>
+			Baugeiþ Ōþinn<sep />hykk at unnit hafi,<br />
+			hvat skal hans trygþum trua?<br />
+			Suttung svikvinn<sep />hann lēt sumbli frā<br />
+			ok grø̄tta Gunnlǫþu.
+		</original>
+		<translation>
+			On his ring swore Othin<sep />the oath, methinks;<br />
+			Who now his troth shall trust?<br />
+			Suttung's betrayal<sep />he sought with drink,<br />
+			And Gunnloth to grief he left.
+		</translation>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="111">
+		<original>
+			Māl's at þylja<sep />þular stōli ā:<br />
+			Urþar brunni at<br />
+			sāk ok þagþak,<sep />sāk ok hugþak,<br />
+			hlȳddak ā Hǭva mǫl.<br />
+			[of rūnar heyrþak dø̄ma,<sep />nē of rǭþum þǫgþu<br />
+			Hǭva hǫllu at,<br />
+			Hǭva hǫllu ī;<br />
+			heyrþak segja svā:]
+		</original>
+		<translation>
+			It is time to chant<sep />from the chanter's stool;<br />
+			By the wells of Urth I was,<br />
+			I saw and was silent,<sep />I saw and thought,<br />
+			And heard the speech of Hor.<br />
+			[Of runes heard I words,<sep />nor were counsels wanting,<br />
+			At the hall of Hor,<br />
+			In the hall of Hor;<br />
+			Such was the speech I heard.]
+		</translation>
+		<comment>
+			With this stanza begins the <source>Loddfafnismol</source> (stanzas <stanzaref chapter="Hovamol">111</stanzaref>–<stanzaref chapter="Hovamol">138</stanzaref>).
+			Loddfafnir is apparently a wandering singer, who, from his “chanter's stool,” recites the verses which he claims to have received from Othin.
+			<expl>Wells of Urth</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">19</stanzaref> and note.
+			<expl>Urth</expl> (“the Past”) is one of the three Norns.
+			This stanza is apparently in corrupt form, and editors have tried many experiments with it, both in rejecting lines as spurious and in rear ranging the words and punctuation.
+			It looks rather as though the first four lines formed a complete stanza, and the last four had crept in later.
+			The phrase translated “the speech of Hor” is “Hova mol,” later used as the title for the entire poem.
+		</comment>
+	</block>
+	<block class="stanza" number="112">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			nǭtt þū rīsat<sep />nema ā njōsn seïr<br />
+			eþa leitir þer innan ūt staþar.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Rise not at night,<sep />save if news thou seekest,<br />
+			Or fain to the outhouse wouldst fare.
+		</translation>
+		<comment>
+			Lines 1–3 are the formula, repeated (abbreviated in the manuscript) in most of the stanzas, with which Othin prefaces his counsels to Loddfafnir, and throughout this section, except in stanzas <stanzaref chapter="Hovamol">111</stanzaref> and <stanzaref chapter="Hovamol">138</stanzaref>, Loddfafnir represents himself as simply quoting Othin's words.
+			The material is closely analogous to that contained in the first eighty stanzas of the poem.
+			In some cases (e. g., stanzas <stanzaref chapter="Hovamol">117</stanzaref>, <stanzaref chapter="Hovamol">119</stanzaref>, <stanzaref chapter="Hovamol">121</stanzaref>, <stanzaref chapter="Hovamol">126</stanzaref> and <stanzaref chapter="Hovamol">130</stanzaref>) the formula precedes a full four-line stanza instead of two (or three) lines.
+		</comment>
+	</block>
+	<block class="stanza" number="113">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			fjǫlkunnigri konu<sep />skalta ī faþmi sofa,<br />
+			svāt hōn lyki þik liþum.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Beware of sleep<sep />on a witch's bosom,<br />
+			Nor let her limbs ensnare thee.
+		</translation>
+	</block>
+	<block class="stanza" number="114">
+		<original>
+			Hōn svā gørir,<sep />at þū gaïr eigi<br />
+			þings nē þjōþarmāls;<br />
+			mat þū villat<sep />nē mannskis gaman,<br />
+			ferr þū sorgafullr at sofa.
+		</original>
+		<translation>
+			Such is her might<sep />that thou hast no mind<br />
+			For the council or meeting of men;<br />
+			Meat thou hatest,<sep />joy thou hast not,<br />
+			And sadly to slumber thou farest.
+		</translation>
+	</block>
+	<block class="stanza" number="115">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			annars konu<sep />teyg þēr aldrigi<br />
+			eyrarūnu at.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Seek never to win<sep />the wife of another,<br />
+			Or long for her secret love.
+		</translation>
+	</block>
+	<block class="stanza" number="116">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			ā fjalli eþa firþi<sep />ef þik fara tīþir,<br />
+			fāsktu at virþi vel.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			If o'er mountains or gulfs<sep />thou fain wouldst go,<br />
+			Look well to thy food for the way.
+		</translation>
+	</block>
+	<block class="stanza" number="117">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			illan mann<sep />lāttu aldrigi<br />
+			ōhǫpp at þēr vita,<br />
+			þvīt af illum manni<sep />fǣr þū aldrigi<br />
+			gjǫld ens gōþa hugar.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			An evil man<sep />thou must not let<br />
+			Bring aught of ill to thee;<br />
+			For an evil man<sep />will never make<br />
+			Reward for a worthy thought.
+		</translation>
+	</block>
+	<block class="stanza" number="118">
+		<original>
+			Ofarla bīta<sep />ek sā einum hal<br />
+			orþ illrar konu;<br />
+			flārǭþ tunga<sep />varþ hǭnum at fjǫrlagi,<br />
+			ok þeygi of sanna sǫk.
+		</original>
+		<translation>
+			I saw a man<sep />who was wounded sore<br />
+			By an evil woman's word;<br />
+			A lying tongue<sep />his death-blow launched,<br />
+			And no word of truth there was.
+		</translation>
+	</block>
+	<block class="stanza" number="119">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			veiztu ef vin ātt<sep />þanns þū vel truir,<br />
+			farþu at finna opt,<br />
+			þvīt hrīsi vex<sep />ok hǭvu grasi<br />
+			vegr es vǣtki trøþr.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			If a friend thou hast<sep />whom thou fully wilt trust,<br />
+			Then fare to find him oft;<br />
+			For brambles grow<sep />and waving grass<br />
+			On the rarely trodden road.
+		</translation>
+	</block>
+	<block class="stanza" number="120">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			gōþan mann<sep />teyg þer at gamanrūnum<br />
+			ok nem līknargaldr meþan lifir.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			A good man find<sep />to hold in friendship,<br />
+			And give heed to his healing charms.
+		</translation>
+	</block>
+	<block class="stanza" number="121">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			vin þīnum<sep />ves þū aldrigi<br />
+			fyrri at flaumslitum;<br />
+			sorg etr hjarta,<sep />ef þū segja nē naïr<br />
+			einhverjum allan hug.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Be never the first<sep />to break with thy friend<br />
+			The bond that holds you both;<br />
+			Care eats the heart<sep />if thou canst not speak<br />
+			To another all thy thought.
+		</translation>
+	</block>
+	<block class="stanza" number="122">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			orþum skipta<sep />þū skalt aldrigi<br />
+			viþ ōsvinna apa;
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Exchange of words<sep />with a witless ape<br />
+			Thou must not ever make.
+		</translation>
+	</block>
+	<block class="stanza" number="123">
+		<original>
+			þvīt af illum manni<sep />mundu aldrigi<br />
+			gōþs laun of geta,<br />
+			en gōþr maþr<sep />mun þik gørva mega<br />
+			līknfastan at lofi.
+		</original>
+		<translation>
+			For never thou mayst<sep />from an evil man<br />
+			A good requital get;<br />
+			But a good man oft<sep />the greatest love<br />
+			Through words of praise will win thee.
+		</translation>
+	</block>
+	<block class="stanza" number="124">
+		<original>
+			Sifjum's þā blandat,<sep />hverrs segja rǣþr<br />
+			einum allan hug;<br />
+			allt es betra<sep />an sē brigþum at vesa,<br />
+			esat vinr es vilt eitt segir.
+		</original>
+		<translation>
+			Mingled is love<sep />when a man can speak<br />
+			To another all his thought;<br />
+			Nought is so bad<sep />as false to be,<br />
+			No friend speaks only fair.
+		</translation>
+	</block>
+	<block class="stanza" number="125">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			þrimr orþum senna<sep />skalta þēr viþ verra mann;<br />
+			opt enn betri bilar,<br />
+			þās enn verri vegr.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			With a worse man speak not<sep />three words in dispute,<br />
+			Ill fares the better oft<br />
+			When the worse man wields a sword.
+		</translation>
+	</block>
+	<block class="stanza" number="126">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			skōsmiþr þū vesir<sep />nē skeptismiþr,<br />
+			nema þēr sjǫlfum sēr:<br />
+			skōr's skapaþr illa<sep />eþa skapt sē rangt,<br />
+			þā's þēr bǫls beþit.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			A shoemaker be,<sep />or a maker of shafts,<br />
+			For only thy single self;<br />
+			If the shoe is ill made,<sep />or the shaft prove false,<br />
+			Then evil of thee men think.
+		</translation>
+	</block>
+	<block class="stanza" number="127">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			hvars bǫl kannt,<sep />kveþu þer bǫlvi at<br />
+			ok gefat fiǫndum friþ.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			If evil thou knowest,<sep />as evil proclaim it,<br />
+			And make no friendship with foes.
+		</translation>
+	</block>
+	<block class="stanza" number="128">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			illu feginn<sep />ves þū aldrigi,<br />
+			en lāt þer at gōþu getit.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			In evil never<sep />joy shalt thou know,<br />
+			But glad the good shall make thee.
+		</translation>
+	</block>
+	<block class="stanza" number="129">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			upp līta<sep />skalattu ī orrostu—<br />
+			gjalti glīkir<sep />verþa gumna synir—<br />
+			sīþr þitt of heilli halir.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Look not up<sep />when the battle is on,—<br />
+			[Like madmen the sons<sep />of men become,—]<br />
+			Lest men bewitch thy wits.
+		</translation>
+		<comment>
+			Line 5 is apparently interpolated.
+		</comment>
+	</block>
+	<block class="stanza" number="130">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			ef vill þēr gōþa konu<sep />kveþja at gamanrūnum<br />
+			ok fā fǫgnuþ af,<br />
+			fǫgru skalt heita<sep />ok lāta fast vesa;<br />
+			leiþisk manngi gott, ef getr.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			If thou fain wouldst win<sep />a woman's love,<br />
+			And gladness get from her,<br />
+			Fair be thy promise<sep />and well fulfilled;<br />
+			None loathes what good he gets.
+		</translation>
+	</block>
+	<block class="stanza" number="131">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			varan biþk þik vesa<sep />ok eigi ofvaran;<br />
+			ves viþ ǫl varastr<sep />ok viþ annars konu<br />
+			ok viþ þat et þriþja,<sep />at þik þjōfar nē leiki.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			I bid thee be wary,<sep />but be not fearful;<br />
+			[Beware most with ale<sep />or another's wife,<br />
+			And third beware<sep />lest a thief outwit thee.]
+		</translation>
+		<comment>
+			Lines 5–6 probably were inserted from a different poem.
+		</comment>
+	</block>
+	<block class="stanza" number="132">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			at hāþi nē hlātri<sep />hafþu aldrigi<br />
+			gest nē ganganda;
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Scorn or mocking<sep />ne'er shalt thou make<br />
+			Of a guest or a journey-goer.
+		</translation>
+	</block>
+	<block class="stanza" number="133">
+		<original>
+			opt vitu ōgǫrla<sep />þeirs sitja inni fyrir,<br />
+			hvers þeir'u kyns es koma.<br />
+			[Esat maþr svā gōþr,<sep />at galli nē fylgi,<br />
+			nē svā illr, at einugi dugi.]
+		</original>
+		<translation>
+			Oft scarcely he knows<sep />who sits in the house<br />
+			What kind is the man who comes;<br />
+			None so good is found<sep />that faults he has not,<br />
+			Nor so wicked that nought he is worth.
+		</translation>
+		<comment>
+			Many editors reject the last two lines of this stanza as spurious, putting the first two lines at the end of the preceding stanza.
+			Others, attaching lines 3 and 4 to stanza <stanzaref chapter="Hovamol">132</stanzaref>, insert as the first two lines of stanza <stanzaref chapter="Hovamol">133</stanzaref> two lines from a late paper manuscript, running:
+			<textstanza>
+				Evil and good<sep />do men's sons ever<br />
+				Mingled bear in their breasts.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="134">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			at hǭrum þul<sep />hlǣþu aldrigi,<br />
+			opt's gott þats gamlir kveþa;<br />
+			opt ōr skǫrpum belg<sep />skilin orþ koma<br />
+			þeims hangir meþ hǭm<br />
+			ok skollir meþ skrǭm<br />
+			ok vāfir meþ vilmǫgum.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Scorn not ever<sep />the gray-haired singer,<br />
+			Oft do the old speak good;<br />
+			[Oft from shrivelled skin<sep />come skillful counsels,<br />
+			Though it hang with the hides,<br />
+			And flap with the pelts,<br />
+			And is blown with the bellies.]
+		</translation>
+		<comment>
+			Presumably the last four lines have been added to this stanza, for the parallelism in the last three makes it probable that they belong together.
+			The wrinkled skin of the old man is compared with the dried skins and bellies of animals kept for various purposes hanging in an Icelandic house.
+		</comment>
+	</block>
+	<block class="stanza" number="135">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			gest nē geyja<sep />ne ā grind hrøkkvir,<br />
+			get þū vǭluþum vel.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			Curse not thy guest,<sep />nor show him thy gate,<br />
+			Deal well with a man in want.
+		</translation>
+	</block>
+	<block class="stanza" number="136">
+		<original>
+			Ramt's þat trē<sep />es rīþa skal<br />
+			ǫllum at upploki:<br />
+			baug þū gef,<sep />eþa þat biþja mun<br />
+			þēr lǣs hvers ā liþu.
+		</original>
+		<translation>
+			Strong is the beam<sep />that raised must be<br />
+			To give an entrance to all;<br />
+			Give it a ring,<sep />or grim will be<br />
+			The wish it would work on thee.
+		</translation>
+		<comment>
+			This stanza suggests the dangers of too much hospitality.
+			The beam (bolt) which is ever being raised to admit guests be comes weak thereby.
+			It needs a ring to help it in keeping the door closed, and without the ability at times to ward off guests a man becomes the victim of his own generosity.
+		</comment>
+	</block>
+	<block class="stanza" number="137">
+		<original>
+			Rǭþumk þēr, Loddfāfnir!<sep />en þū rǭþ nemir,<br />
+			njōta mundu, ef nemr,<br />
+			þēr munu gōþ, ef getr:<br />
+			hvars ǫl drekkr,<sep />kjōstu þēr jarþarmegin—<br />
+			[þvīt jǫrþ tekr viþ ǫlþri,<sep />en eldr viþ sōttum,<br />
+			eik viþ abbindi,<sep />ax viþ fjǫlkyngi,<br />
+			hǫll viþ hȳrōgi,<sep />heiptum skal māna kveþja,<br />
+			beiti viþ bitsōttum,<sep />en viþ bǫlvi rūnar—]<br />
+			fold skal viþ flōþi taka.
+		</original>
+		<translation>
+			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
+			Profit thou hast if thou hearest,<br />
+			Great thy gain if thou learnest:<br />
+			When ale thou drinkest]<sep />seek might of earth,<br />
+			[For earth cures drink,<sep />and fire cures ills,<br />
+			The oak cures tightness,<sep />the ear cures magic,<br />
+			Rye cures rupture,<sep />the moon cures rage,<br />
+			Grass cures the scab,<sep />and runes the sword-cut;]<br />
+			The field absorbs the flood.
+		</translation>
+		<comment>
+			The list of “household remedies” in this stanza is doubtless interpolated.
+			Their nature needs no comment here.
+		</comment>
+	</block>
+	<block class="stanza" number="138">
+		<original>
+			Nū 'ru Hǭva mǭl<sep />kveþin hǫllu ī,<br />
+			allþǫrf ȳta sunum,<br />
+			ōþǫrf jǫtna sunum;<br />
+			heill sās kvaþ!<sep />heill sās kann!<br />
+			njōti sās nam!<br />
+			heilir þeirs hlȳddu <conj>ā</conj>!
+		</original>
+		<translation>
+			Now are Hor's words<sep />spoken in the hall,<br />
+			Kind for the kindred of men,<br />
+			Cursed for the kindred of giants:<br />
+			Hail to the speaker,<sep />and to him who learns!<br />
+			Profit be his who has them!<br />
+			Hail to them who hearken!
+		</translation>
+		<comment>
+			In the manuscript this stanza comes at the end of the entire poem, following stanza <stanzaref chapter="Hovamol">165</stanzaref>.
+			Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza <stanzaref chapter="Hovamol">111</stanzaref>.
+		</comment>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="139">
+		<original>
+			Veitk at hekk<sep />vindga meiþi ā<br />
+			nǣtr allar niu,<br />
+			geiri undaþr<sep />ok gefinn Ōþni,<br />
+			sjalfr sjǫlfum mēr,<br />
+			[ā þeim meiþi,<sep />es manngi veit,<br />
+			hvers hann af rōtum rinnr.]
+		</original>
+		<translation>
+			I ween that I hung<sep />on the windy tree,<br />
+			Hung there for nights full nine;<br />
+			With the spear I was wounded,<sep />and offered I was<br />
+			To Othin, myself to myself,<br />
+			On the tree that none<sep />may ever know<br />
+			What root beneath it runs.
+		</translation>
+		<comment>
+			With this stanza begins the most confusing part of the <chapterref>Hovamol</chapterref>: the group of eight stanzas leading up to the Ljothatal, or list of charms.
+			Certain paper manuscripts have before this stanza a title: “Othin's Tale of the Runes.”
+			Apparently stanzas <stanzaref chapter="Hovamol">139</stanzaref>, <stanzaref chapter="Hovamol">140</stanzaref> and <stanzaref chapter="Hovamol">142</stanzaref> are fragments of an account of how Othin obtained the runes; <stanzaref chapter="Hovamol">141</stanzaref> is erroneously inserted from some version of the magic mead story (cf. stanzas <stanzaref chapter="Hovamol">104</stanzaref>–<stanzaref chapter="Hovamol">110</stanzaref>); and stanzas <stanzaref chapter="Hovamol">143</stanzaref>, <stanzaref chapter="Hovamol">144</stanzaref>, <stanzaref chapter="Hovamol">145</stanzaref>, and <stanzaref chapter="Hovamol">146</stanzaref> are from miscellaneous sources, all, however, dealing with the general subject of runes.
+			With stanza <stanzaref chapter="Hovamol">147</stanzaref> a clearly continuous passage begins once more.
+			<expl>The windy tree</expl>: the ash Yggdrasil (literally “the Horse of Othin,” so called because of this story), on which Othin, in order to win the magic runes, hanged himself as an offering to himself, and wounded himself with his own spear.
+			Lines 5 and 6 have presumably been borrowed from <chapterref>Svipdagsmol</chapterref>, <stanzaref chapter="Svipdagsmol">30</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="140">
+		<original>
+			Viþ hleifi mik sǣldu<sep />nē viþ hornigi;<br />
+			nȳsta ek niþr:<br />
+			namk upp rūnar,<sep />ø̄pandi namk;<br />
+			fell ek aptr þaþan.
+		</original>
+		<translation>
+			None made me happy<sep />with loaf or horn,<br />
+			And there below I looked;<br />
+			I took up the runes,<sep />shrieking I took them,<br />
+			And forthwith back I fell.
+		</translation>
+	</block>
+	<block class="stanza" number="141">
+		<original>
+			Fimbulljōþ niu<sep />namk af enum frǣgja syni<br />
+			Bǫlþorns Bestlu fǫþur;<br />
+			ok drykk of gatk,<sep />ens dȳra mjaþar<br />
+			ausenn Ōþrøri.
+		</original>
+		<translation>
+			Nine mighty songs<sep />I got from the son<br />
+			Of Bolthorn, Bestla's father;<br />
+			And a drink I got<sep />of the goodly mead<br />
+			Poured out from Othrörir.
+		</translation>
+		<comment>
+			This stanza, interrupting as it does the account of Othin's winning the runes, appears to be an interpolation.
+			The meaning of the stanza is most obscure.
+			Bolthorn was Othin's grandfather, and Bestla his mother.
+			We do not know the name of the uncle here mentioned, but it has been suggested that this son of Bolthorn was Mimir (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref> and note, and <stanzaref chapter="Voluspo">47</stanzaref> and note).
+			In any case, the nine magic songs which he learned from his uncle seem to have enabled him to win the magic mead (cf. stanzas <stanzaref chapter="Hovamol">104</stanzaref>–<stanzaref chapter="Hovamol">110</stanzaref>).
+			Concerning <emph>Othrörir</emph>, here used as the name of the vessel containing the mead, cf. stanza <stanzaref chapter="Hovamol">107</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="142">
+		<original>
+			Þā namk frǣvask<sep />ok frōþr vesa<br />
+			ok vaxa ok vel hafask:<br />
+			orþ mēr af orþi<sep />orþs leitaþi,<br />
+			verk mēr af verki verks.
+		</original>
+		<translation>
+			Then began I to thrive,<sep />and wisdom to get,<br />
+			I grew and well I was;<br />
+			Each word led me on<sep />to another word,<br />
+			Each deed to another deed.
+		</translation>
+	</block>
+	<block class="stanza" number="143">
+		<original>
+			Rūnar munt finna<sep />ok rāþna stafi,<br />
+			es fāþi fimbulþulr<br />
+			ok gørþu ginnregin,<br />
+			mjǫk stōra stafi,<sep />mjǫk stinna stafi<br />
+			es reist ragna hrōptr:
+		</original>
+		<translation>
+			Runes shalt thou find,<sep />and fateful signs,<br />
+			That the king of singers colored,<br />
+			And the mighty gods have made;<br />
+			Full strong the signs,<sep />full mighty the signs<br />
+			That the ruler of gods doth write.
+		</translation>
+		<comment>
+			This and the following stanza belong together, and in many editions appear as a single stanza.
+			They presumably come from some lost poem on the authorship of the runes.
+			Lines 2 and 3 follow line 4 in the manuscript; the transposition was suggested by Bugge.
+			<expl>The king of singers</expl>: Othin.
+			The magic signs (runes) were commonly carved in wood, then colored red.
+		</comment>
+	</block>
+	<block class="stanza" number="144">
+		<original>
+			Ōþinn meþ ǭsum,<sep />en fyr ǫlfum Daïnn,<br />
+			Dvalinn dvergum fyrir,<br />
+			Alsviþr meþ jǫtnum,<sep /><conj>en fyr ȳta sunum</conj><br />
+			reistk sjalfr sumar.
+		</original>
+		<translation>
+			Othin for the gods,<sep />Dain for the elves,<br />
+			And Dvalin for the dwarfs,<br />
+			Alsvith for giants<sep />and all mankind,<br />
+			And some myself I wrote.
+		</translation>
+		<comment>
+			<expl>Dain</expl> and <emph>Dvalin</emph>: dwarfs; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">14</stanzaref>, and note.
+			Dain, however, may here be one of the elves rather than the dwarf of that name.
+			The two names also appear together in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">33</stanzaref>, where they are applied to two of the four harts that nibble at the topmost twigs of Yggdrasil.
+			<expl>Alsvith</expl> (“the All Wise”) appears nowhere else as a giant's name.
+			<expl>Myself</expl>: Othin.
+			We have no further information concerning the list of those who wrote the runes for the various races, and these four lines seem like a confusion of names in the rather hazy mind of some reciter.
+		</comment>
+	</block>
+	<block class="stanza" number="145">
+		<original>
+			Veiztu hvē rīsta skal,<sep />veiztu hvē rāþa skal?<br />
+			veiztu hvē fā skal,<sep />veiztu hvē freista skal?<br />
+			veiztu hvē biþja skal,<sep />veiztu hvē blōta skal?<br />
+			veiztu hvē senda skal,<sep />veiztu hvē soa skal?
+		</original>
+		<translation>
+			Knowest how one shall write,<sep />knowest how one shall rede?<br />
+			Knowest how one shall tint,<sep />knowest how one makes trial?<br />
+			Knowest how one shall ask,<sep />knowest how one shall offer?<br />
+			Knowest how one shall send,<sep />knowest how one shall sacrifice?
+		</translation>
+		<comment>
+			This Malahattr stanza appears to be a regular religious formula, concerned less with the runes which one “writes” and “tints” (cf. stanza <stanzaref chapter="Hovamol">79</stanzaref>) than with the prayers which one “asks” and the sacrifices which one “offers” and “sends.”
+			Its origin is wholly uncertain, but it is clearly an interpolation here.
+			In the manuscript the phrase “knowest?” is abbreviated after the first line.
+		</comment>
+	</block>
+	<block class="stanza" number="146">
+		<original>
+			Betra's ōbeþit<sep />an sē ofblōtit,<br />
+			ey sēr til gildis gjǫf;<br />
+			betra's ōsent<sep />an sē ofsoït<br />
+			<lacuna /><br />
+			Svā Þundr of reist<sep />fyr þjōþa røk,<br />
+			þar hann upp of reis,<sep />es hann aptr of kvam.
+		</original>
+		<translation>
+			Better no prayer<sep />than too big an offering,<br />
+			By thy getting measure thy gift;<br />
+			Better is none<sep />than too big a sacrifice,<br />
+			<lacuna /><br />
+			So Thund of old wrote<sep />ere man's race began,<br />
+			Where he rose on high<sep />when home he came.
+		</translation>
+		<comment>
+			This stanza as translated here follows the manuscript reading, except in assuming a gap between lines 3 and 5.
+			In Vigfusson and Powell's <source>Corpus Poeticum Boreale</source> the first three lines have somehow been expanded into eight.
+			The last two lines are almost certainly misplaced; Bugge suggests that they belong at the end of stanza <stanzaref chapter="Hovamol">144</stanzaref>.
+			<expl>Thund</expl>: another name for Othin.
+			<expl>When home he came</expl>: presumably after obtaining the runes as described in stanzas <stanzaref chapter="Hovamol">139</stanzaref> and <stanzaref chapter="Hovamol">140</stanzaref>.
+		</comment>
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="147">
+		<original>
+			Þau ljōþ kannk<sep />es kannat þjōþans kona<br />
+			nē mannskis mǫgr:<br />
+			hjǫlp heitir eitt,<sep />en þat þēr hjalpa mun<br />
+			viþ sorgum ok sūtum ok sǫkum.
+		</original>
+		<translation>
+			The songs I know<sep />that king's wives know not,<br />
+			Nor men that are sons of men;<br />
+			The first is called help,<sep />and help it can bring thee<br />
+			In sorrow and pain and sickness.
+		</translation>
+		<comment>
+			With this stanza begins the Ljothatal, or list of charms.
+			The magic songs themselves are not given, but in each case the peculiar application of the charm is explained.
+			The passage, which is certainly approximately complete as far as it goes, runs to the end of the poem.
+			In the manuscript and in most editions line 4 falls into two half-lines, running:
+			<textstanza>
+				In sickness and pain<sep />and every sorrow.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="148">
+		<original>
+			Þat kannk annat<sep />es þurfu ȳta synir<br />
+			þeirs vilja lǣknar lifa<br />
+			<lacuna /><br />
+			<lacuna />
+		</original>
+		<translation>
+			A second I know,<sep />that men shall need<br />
+			Who leechcraft long to use;<br />
+			<lacuna /><br />
+			<lacuna />
+		</translation>
+		<comment>
+			<expl>Second</expl>, etc., appear in the manuscript as Roman numerals.
+			The manuscript indicates no gap after line 2.
+		</comment>
+	</block>
+	<block class="stanza" number="149">
+		<original>
+			Þat kannk et þriþja,<sep />ef mēr verþr þǫrf mikil<br />
+			hapts viþ heiptmǫgu:<br />
+			eggjar deyfik<sep />minna andskota,<br />
+			bītat þeim vǭpn nē velir.
+		</original>
+		<translation>
+			A third I know,<sep />if great is my need<br />
+			Of fetters to hold my foe;<br />
+			Blunt do I make<sep />mine enemy's blade,<br />
+			Nor bites his sword or staff.
+		</translation>
+	</block>
+	<block class="stanza" number="150">
+		<original>
+			Þat kannk et fjōrþa,<sep />ef mēr fyrþar bera<br />
+			bǫnd at boglimum:<br />
+			svā ek gel,<sep />at ek ganga mā,<br />
+			sprettr af fǫtum fjǫturr,<br />
+			en af hǫndum hapt.
+		</original>
+		<translation>
+			A fourth I know,<sep />if men shall fasten<br />
+			Bonds on my bended legs;<br />
+			So great is the charm<sep />that forth I may go,<br />
+			The fetters spring from my feet,<br />
+			Broken the bonds from my hands.
+		</translation>
+	</block>
+	<block class="stanza" number="151">
+		<original>
+			Þat kannk et fimta,<sep />ef sēk af fāri skotinn<br />
+			flein ī folki vaþa:<br />
+			flȳgra svā stint,<sep />at ek stǫþvigak,<br />
+			ef ek hann sjōnum of sēk.
+		</original>
+		<translation>
+			A fifth I know,<sep />if I see from afar<br />
+			An arrow fly 'gainst the folk;<br />
+			It flies not so swift<sep />that I stop it not,<br />
+			If ever my eyes behold it.
+		</translation>
+		<comment>
+			The sending of a root with runes written thereon was an excellent way of causing death.
+			So died the Icelandic hero Grettir the Strong.
+		</comment>
+	</block>
+	<block class="stanza" number="152">
+		<original>
+			Þat kannk et sētta,<sep />ef mik sǣrir þegn<br />
+			ā rōtum rās viþar:<br />
+			ok þann hal,<sep />es mik heipta kveþr,<br />
+			eta mein heldr an mik.
+		</original>
+		<translation>
+			A sixth I know,<sep />if harm one seeks<br />
+			With a sapling's roots to send me;<br />
+			The hero himself<sep />who wreaks his hate<br />
+			Shall taste the ill ere I.
+		</translation>
+	</block>
+	<block class="stanza" number="153">
+		<original>
+			Þat kannk et sjaunda,<sep />ef sēk <conj>sviþinn</conj> loga<br />
+			sal of sessmǫgum<br />
+			brinnrat svā breitt,<sep />at ek bjargigak;<br />
+			þann kannk galdr at gala.
+		</original>
+		<translation>
+			A seventh I know,<sep />if I see in flames<br />
+			The hall o'er my comrades' heads;<br />
+			It burns not so wide<sep />that I will not quench it,<br />
+			I know that song to sing.
+		</translation>
+	</block>
+	<block class="stanza" number="154">
+		<original>
+			Þat kannk et ātta,<sep />es ǫllum es<br />
+			nytsamlikt at nema:<br />
+			hvars hatr vex<sep />meþ hildings sunum,<br />
+			þat māk bø̄ta brātt.
+		</original>
+		<translation>
+			An eighth I know,<sep />that is to all<br />
+			Of greatest good to learn;<br />
+			When hatred grows<sep />among heroes' sons,<br />
+			I soon can set it right.
+		</translation>
+	</block>
+	<block class="stanza" number="155">
+		<original>
+			Þat kannk et niunda,<sep />ef mik nauþr of stendr<br />
+			at bjarga fari ā floti:<br />
+			vind ek kyrri<sep />vāgi ā,<br />
+			ok svǣfik allan sǣ.
+		</original>
+		<translation>
+			A ninth I know,<sep />if need there comes<br />
+			To shelter my ship on the flood;<br />
+			The wind I calm<sep />upon the waves,<br />
+			And the sea I put to sleep.
+		</translation>
+	</block>
+	<block class="stanza" number="156">
+		<original>
+			Þat kannk et tiunda,<sep />ef ek sē tūnriþur<br />
+			leika lopti ā:<br />
+			ek svā vinnk,<sep />at þǣr villar fara<br />
+			sinna heimhama,<br />
+			sinna heimhaga.
+		</original>
+		<translation>
+			A tenth I know,<sep />what time I see<br />
+			House-riders flying on high;<br />
+			So can I work<sep />that wildly they go,<br />
+			Showing their true shapes,<br />
+			Hence to their own homes.
+		</translation>
+		<comment>
+			<expl>House-riders</expl>: witches, who ride by night on the roofs of houses, generally in the form of wild beasts.
+			Possibly one of the last two lines is spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="157">
+		<original>
+			Þat kannk et ellifta,<sep />ef skalk til orrostu<br />
+			leiþa langvini:<br />
+			und randir gelk,<sep />en þeir meþ rīki fara<br />
+			heilir hildar til,<br />
+			heilir hildi frā,<br />
+			koma þeir heilir hvaþan.
+		</original>
+		<translation>
+			An eleventh I know,<sep />if needs I must lead<br />
+			To the fight my long-loved friends;<br />
+			I sing in the shields,<sep />and in strength they go<br />
+			Whole to the field of fight,<br />
+			Whole from the field of fight,<br />
+			And whole they come thence home.
+		</translation>
+		<comment>
+			The last line looks like an unwarranted addition, and line 4 may likewise be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="158">
+		<original>
+			Þat kannk et tolfta,<sep />ef sēk ā trē uppi<br />
+			vāfa virgilnā:<br />
+			svā ek rīst<sep />ok ī rūnum fāk,<br />
+			at sā gengr gumi<br />
+			ok mǣlir viþ mik.
+		</original>
+		<translation>
+			A twelfth I know,<sep />if high on a tree<br />
+			I see a hanged man swing;<br />
+			So do I write<sep />and color the runes<br />
+			That forth he fares,<br />
+			And to me talks.
+		</translation>
+		<comment>
+			Lines 4–5 are probably expanded from a single line.
+		</comment>
+	</block>
+	<block class="stanza" number="159">
+		<original>
+			Þat kannk et þrettānda,<sep />ef skalk þegn ungan<br />
+			verpa vatni ā:<br />
+			munat hann falla,<sep />þōt ī folk komi,<br />
+			hnīgra sā halr fyr hjǫrum.
+		</original>
+		<translation>
+			A thirteenth I know,<sep />if a thane full young<br />
+			With water I sprinkle well;<br />
+			He shall not fall,<sep />though he fares mid the host,<br />
+			Nor sink beneath the swords.
+		</translation>
+		<comment>
+			The sprinkling of a child with water was an established custom long before Christianity brought its conception of baptism.
+		</comment>
+	</block>
+	<block class="stanza" number="160">
+		<original>
+			Þat kannk et fjogrtānda,<sep />ef skalk fyrþa liþi<br />
+			telja tīva fyrir:<br />
+			āsa ok alfa<sep />ek kann allra skil,<br />
+			fār kann ōsnotr svā.
+		</original>
+		<translation>
+			A fourteenth I know,<sep />if fain I would name<br />
+			To men the mighty gods;<br />
+			All know I well<sep />of the gods and elves,<br />
+			Few be the fools know this.
+		</translation>
+	</block>
+	<block class="stanza" number="161">
+		<original>
+			Þat kannk et fimtānda,<sep />es gōl Þjōþrørir<br />
+			dvergr fyr Dellings durum:<br />
+			afl gōl hann ǭsum,<sep />en ǫlfum frama,<br />
+			hyggju Hrōptatȳ.
+		</original>
+		<translation>
+			A fifteenth I know,<sep />that before the doors<br />
+			Of Delling sang Thjothrörir the dwarf;<br />
+			Might he sang for the gods,<sep />and glory for elves,<br />
+			And wisdom for Hroptatyr wise.
+		</translation>
+		<comment>
+			This stanza, according to Müllenhoff, was the original conclusion of the poem, the phrase “a fifteenth” being inserted only after stanzas <stanzaref chapter="Hovamol">162</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref> had crept in.
+			<expl>Delling</expl>: a seldom mentioned god who married Not (Night).
+			Their son was Dag (Day).
+			<expl>Thjothrörir</expl>: not mentioned elsewhere.
+			<expl>Hroptatyr</expl>: Othin.
+		</comment>
+	</block>
+	<block class="stanza" number="162">
+		<original>
+			Þat kannk et sextānda,<sep />ef vilk ens svinna mans<br />
+			hafa geþ allt ok gaman:<br />
+			hugi ek hverfi<sep />hvītarmri konu<br />
+			ok snȳk hennar ǫllum sefa.
+		</original>
+		<translation>
+			A sixteenth I know,<sep />if I seek delight<br />
+			To win from a maiden wise;<br />
+			The mind I turn<sep />of the white-armed maid,<br />
+			And thus change all her thoughts.
+		</translation>
+	</block>
+	<block class="stanza" number="163">
+		<original>
+			Þat kannk et sjautjānda,<sep />at mik seint mun firrask<br />
+			et manunga man.<br />
+			<lacuna /><br />
+			<lacuna />
+		</original>
+		<translation>
+			A seventeenth I know,<sep />so that seldom shall go<br />
+			A maiden young from me;<br />
+			<lacuna /><br />
+			<lacuna />
+		</translation>
+		<comment>
+			Some editors have combined these two lines with stanza <stanzaref chapter="Hovamol">164</stanzaref>.
+			Others have assumed that the gap follows the first half-line, making “so that—from me” the end of the stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="164">
+		<original>
+			Ljōþa þessa<sep />mundu, Loddfāfnir!<br />
+			lengi vanr vesa,<br />
+			þōt þēr gōþ seï,<sep />ef <conj>geta mǣttir</conj>,<br />
+			nȳt, ef þū nemr,<br />
+			þǫrf, ef þū þiggr.
+		</original>
+		<translation>
+			Long these songs<sep />thou shalt, Loddfafnir,<br />
+			Seek in vain to sing;<br />
+			Yet good it were<sep />if thou mightest get them,<br />
+			Well, if thou wouldst them learn,<br />
+			Help, if thou hadst them.
+		</translation>
+		<comment>
+			This stanza is almost certainly an interpolation, and seems to have been introduced after the list of charms and the <source>Loddfafnismol</source> (stanzas <stanzaref chapter="Hovamol">111</stanzaref>–<stanzaref chapter="Hovamol">138</stanzaref>) were combined in a single poem, for there is no other apparent excuse for the reference to Loddfafnir at this point.
+			The words “if thou mightest get them” are a conjectural emendation.
+		</comment>
+	</block>
+	<block class="stanza" number="165">
+		<original>
+			Þat kannk et āttjānda,<sep />es ek ǣva kennik<br />
+			mey nē manns konu—<br />
+			allt es betra<sep />es einn of kann,<br />
+			þat fylgir ljōþa lokum—<br />
+			nema þeiri einni,<sep />es mik armi verr<br />
+			eþa mīn systir seï
+		</original>
+		<translation>
+			An eighteenth I know,<sep />that ne'er will I tell<br />
+			To maiden or wife of man,—<br />
+			The best is what none<sep />but one's self doth know,<br />
+			So comes the end of the songs,—<br />
+			Save only to her<sep />in whose arms I lie,<br />
+			Or who else my sister is.
+		</translation>
+		<comment>
+			This stanza is almost totally obscure.
+			The third and fourth lines look like interpolations.
+		</comment>
+	</block>
+</chapter>

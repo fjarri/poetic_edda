@@ -1,0 +1,1308 @@
+<chapter english_name="Vafthruthnismol" icelandic_name="Vafþrūþnismǭl" translation="The Ballad of Vafthruthnir">
+	<block class="text">
+		The <chapterref>Vafthruthnismol</chapterref> follows the <chapterref>Hovamol</chapterref> in the Codex Regius.
+		From stanza <stanzaref chapter="Vafthruthnismol">20</stanzaref> on it is also included in the <source>Arnamagnæan Codex</source>, the first part evidently having appeared on leaf now lost.
+		Snorri quotes eight stanzas of it in the <source>Prose Edda</source>, and in his prose text closely paraphrases many others.
+	</block>
+	<block class="text">
+		The poem is wholly in dialogue form except for a single narrative stanza (stanza <stanzaref chapter="Vafthruthnismol">5</stanzaref>).
+		After a brief introductory discussion between Othin and his wife, Frigg, concerning the reputed wisdom of the giant Vafthruthnir, Othin, always in quest of wisdom, seeks out the giant, calling himself Gagnrath.
+		The giant immediately insists that they shall demonstrate which is the wiser of the two, and propounds four questions (stanzas <stanzaref chapter="Vafthruthnismol">11</stanzaref>, <stanzaref chapter="Vafthruthnismol">13</stanzaref>, <stanzaref chapter="Vafthruthnismol">15</stanzaref>, and <stanzaref chapter="Vafthruthnismol">17</stanzaref>), each of which Othin answers.
+		It is then the god's turn to ask, and he begins with a series of twelve numbered questions regarding the origins and past history of life.
+		These Vafthruthnir answers, and Othin asks five more questions, this time referring to what is to follow the destruction of the gods, the last one asking the name of his own slayer.
+		Again Vafthruthnir answers, and Othin finally propounds the unanswerable question: “What spake Othin himself in the ears of his son, ere in the bale-fire he burned?”
+		Vafthruthnir, recognizing his questioner as Othin himself, admits his inferiority in wisdom, and so the contest ends.
+	</block>
+	<block class="text">
+		The whole poem is essentially encyclopædic in character, and thus was particularly useful to Snorri in his preparation of the <source>Prose Edda</source>.
+		The encyclopædic poem with a slight narrative outline seems to have been exceedingly popular; the <chapterref>Grimnismol</chapterref> and the much later <chapterref>Alvissmol</chapterref> represent different phases of the same type.
+		The <chapterref>Vafthruthnismol</chapterref> and <chapterref>Grimnismol</chapterref> together, indeed, constitute a fairly complete dictionary of Norse mythology.
+		There has been much discussion as to the probable date of the <chapterref>Vafthruthnismol</chapterref>, but it appears to belong to about the same period as the <chapterref>Voluspo</chapterref>: in other words, the middle of the tenth century.
+		While there may be a few interpolated passages in the poem as we now have it, it is clearly a united whole, and evidently in relatively good condition.
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="1">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Rāþ mēr nū, Frigg!<sep />alls mik fara tīþir<br />
+			at vitja Vafþrūþnis;<br />
+			forvitni mikla<sep />kveþk mēr ā fornum stǫfum<br />
+			viþ enn alsvinna jǫtun.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Counsel me, Frigg,<sep />for I long to fare,<br />
+			And Vafthruthnir fain would find;<br />
+			fit wisdom old<sep />with the giant wise<br />
+			Myself would I seek to match.”
+		</translation>
+		<comment>
+			The phrases “Othin spake,” “Frigg spake,” etc., appear in abbreviated form in both manuscripts.
+			<expl>Frigg</expl>: Othin's wife; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">34</stanzaref> and note.
+			<expl>Vafthruthnir</expl> (“the Mighty in Riddles”): nothing is known of this giant beyond what is told in this poem.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original_prelude>
+			Frigg kvaþ:
+		</original_prelude>
+		<original>
+			“Heima letja<sep />mundak Herjafǫþr<br />
+			goþa gǫrþum ī;<br />
+			þvīt engi jǫtun<sep />hugþak jafnramman<br />
+			sem Vafþrūþni vesa.”
+		</original>
+		<translation_prelude>
+			Frigg spake:
+		</translation_prelude>
+		<translation>
+			“Heerfather here<sep />at home would I keep,<br />
+			Where the gods together dwell;<br />
+			Amid all the giants<sep />an equal in might<br />
+			To Vafthruthnir know I none.”
+		</translation>
+		<comment>
+			<expl>Heerfather</expl> (“Father of the Host”): Othin.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin;<br />
+			hitt viljak vita,<sep />hvē Vafþrūþnis<br />
+			salakynni seï.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found.<br />
+			Much have I got from the gods;<br />
+			And fain would I know<sep />how Vafthruthnir now<br />
+			Lives in his lofty hall.”
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original_prelude>
+			Frigg kvaþ:
+		</original_prelude>
+		<original>
+			“Heill þū farir!<sep />heill aptr komir!<br />
+			heill þu ā sinnum sēr!<br />
+			ø̄þi þēr dugi,<sep />hvars skalt, Aldafǫþr!<br />
+			orþum mǣla jǫtun.”
+		</original>
+		<translation_prelude>
+			Frigg spake:
+		</translation_prelude>
+		<translation>
+			“Safe mayst thou go,<sep />safe come again,<br />
+			And safe be the way thou wendest!<br />
+			Father of men,<sep />let thy mind be keen<br />
+			When speech with the giant thou seekest.”
+		</translation>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			Fōr þā Ōþinn<sep />at freista orþspeki<br />
+			þess ens alsvinna jǫtuns:<br />
+			at hǫllu hann kvam<sep />ok ātti <dagger /> Ims faþir,<br />
+			inn gekk Yggr þegar.
+		</original>
+		<translation>
+			The wisdom then<sep />of the giant wise<br />
+			Forth did he fare to try;<br />
+			He found the hall<sep />of the father of Im,<br />
+			And in forthwith went Ygg.
+		</translation>
+		<comment>
+			This single narrative stanza is presumably a later interpolation.
+			<expl>Im</expl>: the name appears to be corrupt, but we know nothing of any son of Vafthruthnir.
+			<expl>Ygg</expl> (“the Terrible”): Othin.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Heill þū, Valþrūþnir!<sep />nū'mk ī hǫll kominn,<br />
+			ā þik sjalfan at sea;<br />
+			hitt viljak fyrst vita,<sep />ef þū frōþr seïr<br />
+			eþa alsviþr, jǫtunn!”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Vafthruthnir, hail!<sep />to thy hall am I come,<br />
+			For thyself I fain would see;<br />
+			And first would I ask<sep />if wise thou art,<br />
+			Or, giant, all wisdom hast won.”
+		</translation>
+	</block>
+	<block class="stanza" number="7">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Hvat's þat manna<sep />es ī mīnum sal<br />
+			verpumk orþi ā?<br />
+			ūt nē kømr<sep />ōrum hǫllum frā,<br />
+			nema þū enn snotrari seïr.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Who is the man<sep />that speaks to me,<br />
+			Here in my lofty hall?<br />
+			Forth from our dwelling<sep />thou never shalt fare,<br />
+			Unless wiser than I thou art.”
+		</translation>
+	</block>
+	<block class="stanza" number="8">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Gagnrāþr heitik,<sep />nū'mk af gǫngu kominn<br />
+			þyrstr til þinna sala;<br />
+			laþar þurfi<sep />hef ek lengi farit<br />
+			ok andfanga, jǫtunn!”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Gagnrath they call me,<sep />and thirsty I come<br />
+			From a journey hard to thy hall;<br />
+			Welcome I look for,<sep />for long have I fared,<br />
+			And gentle greeting, giant.”
+		</translation>
+		<comment>
+			<expl>Gagnrath</expl> (“the Gain-Counsellor”): Othin on his travels always assumes a name other than his own.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Hvī þu þā, Gagnrāþr!<sep />mǣlisk af golfi fyrir?<br />
+			farþu ī sess ī sal!<br />
+			þā skal freista,<sep />hvaþarr fleira viti,<br />
+			gestr eþa enn gamli þulr.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Why standest thou there<sep />on the floor whilst thou speakest?<br />
+			A seat shalt thou have in my hall;<br />
+			Then soon shall we know<sep />whose knowledge is more,<br />
+			The guest's or the sage's gray.”
+		</translation>
+	</block>
+	<block class="stanza" number="10">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Ōauþugr maþr,<sep />es til auþugs kømr,<br />
+			mǣli þarft eþa þegi!<br />
+			ofrmǣlgi mikil<sep />hykk at illa geti<br />
+			hveims viþ kaldrifjaþan kømr.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“If a poor man reaches<sep />the home of the rich,<br />
+			Let him wisely speak or be still;<br />
+			For to him who speaks<sep />with the hard of heart<br />
+			Will chattering ever work ill.”
+		</translation>
+		<comment>
+			This stanza sounds very much like many of those in the first part of the <chapterref>Hovamol</chapterref>, and may have been introduced here from some such source.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Seg mēr, Gagnrāþr!<sep />alls þu ā golfi vill<br />
+			þīns of freista frama:<br />
+			hvē sā hestr heitir<sep />es hverjan dregr<br />
+			dag of drōttmǫgu?”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Speak forth now, Gagnrath,<sep />if there from the floor<br />
+			Thou wouldst thy wisdom make known:<br />
+			What name has the steed<sep />that each morn anew<br />
+			The day for mankind doth draw?”
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Skinfaxi heitir<sep />es enn skīra dregr<br />
+			dag of drōttmǫgu;<br />
+			hesta baztr<sep />þykkir meþ Hreiþgotum,<br />
+			ey lȳsir mǫn af mari.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Skinfaxi is he,<sep />the steed who for men<br />
+			The glittering day doth draw;<br />
+			The best of horses<sep />to heroes he seems,<br />
+			And brightly his mane doth burn.”
+		</translation>
+		<comment>
+			<expl>Skinfaxi</expl>: “Shining-Mane.”
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat, Gagnrāþr!<sep />alls þu ā golfi vill<br />
+			þīns of freista frama:<br />
+			hvē sā jōr heitir<sep />es austan dregr<br />
+			nǭtt of nȳt regin?”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Speak forth now, Gagnrath,<sep />if there from the floor<br />
+			Thou wouldst thy wisdom make known:<br />
+			What name has the steed<sep />that from East anew<br />
+			Brings night for the noble gods?”
+		</translation>
+		<comment>
+			Here, and in general throughout the poem, the two-line introductory formulæ are abbreviated in the manuscripts.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Hrīmfaxi heitir<sep />es hverja dregr<br />
+			nǭtt of nȳt regin;<br />
+			mēldropa fellir<sep />hann morgin hvern,<br />
+			þaþan kømr dǫgg of dali.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Hrimfaxi name they<sep />the steed that anew<br />
+			Brings night for the noble gods;<br />
+			Each morning foam<sep />from his bit there falls,<br />
+			And thence come the dews in the dales.”
+		</translation>
+		<comment>
+			<expl>Hrimfaxi</expl>: “Frosty-Mane.”
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat, Gagnrāþr!<sep />alls þu ā golfi vill<br />
+			þīns of freista frama:<br />
+			hvē sū ǭ heitir<sep />es deilir meþ jǫtna sunum<br />
+			grund auk meþ goþum?
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Speak forth now, Gagnrath,<sep />if there from the floor<br />
+			Thou wouldst thy wisdom make known:<br />
+			What name has the river<sep />that 'twixt the realms<br />
+			Of the gods and the giants goes?”
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Ifing heitir ǭ<sep />es deilir meþ jǫtna sunum<br />
+			grund auk meþ goþum;<br />
+			opin rinna<sep />hōn skal of aldrdaga,<br />
+			verþrat īss ā ǭ.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Ifing is the river<sep />that 'twixt the realms<br />
+			Of the gods and the giants goes;<br />
+			For all time ever<sep />open it flows,<br />
+			No ice on the river there is.”
+		</translation>
+		<comment>
+			<expl>Ifing</expl>: there is no other reference to this river, which never freezes, so that the giants cannot cross it.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat, Gagnrāþr!<sep />alls þu ā golfi vill<br />
+			þīns of freista frama:<br />
+			hvē sā vǫllr heitir<sep />es finnask vīgi at<br />
+			Surtr ok en svǭsu goþ?”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Speak forth now, Gagnrath,<sep />if there from the floor<br />
+			Thou wouldst thy wisdom make known:<br />
+			What name has the field<sep />where in fight shall meet<br />
+			Surt and the gracious gods?”
+		</translation>
+		<comment>
+			<expl>Surt</expl>: the ruler of the fire-world (Muspellsheim), who comes to attack the gods in the last battle; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">52</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Vīgrīþr heitir vǫllr<sep />es finnask vīgi at<br />
+			Surtr ok en svǭsu goþ;<br />
+			hundraþ rasta<sep />hann's ā hverjan veg,<br />
+			sā's þeim vǫllr vitaþr.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Vigrith is the field<sep />where in fight shall meet<br />
+			Surt and the gracious gods;<br />
+			A hundred miles<sep />each way does it measure.<br />
+			And so are its boundaries set.”
+		</translation>
+		<comment>
+			<expl>Vigrith</expl>: “the Field of Battle.”
+			Snorri quotes this stanza.
+			<expl>A hundred miles</expl>: a general phrase for a vast distance.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Frōþr est, gestr!<sep />farþu ā bekk jǫtuns,<br />
+			ok mǣlumsk ī sessi saman!<br />
+			hǫfþi veþja<sep />vit skulum hǫllu ī,<br />
+			gestr! of geþspeki.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Wise art thou, guest!<sep />To my bench shalt thou go,<br />
+			In our seats let us speak together;<br />
+			Here in the hall<sep />our heads, O guest,<br />
+			Shall we wager our wisdom upon.”
+		</translation>
+		<comment>
+			With this stanza Vafthruthnir, sufficiently impressed with his guest's wisdom to invite him to share his own seat, resigns the questioning to Othin.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et eina,<sep />ef þitt ø̄þi dugir<br />
+			ok þū, Vafþrūþnir! vitir:<br />
+			hvaþan jǫrþ of kvam<sep />eþa upphiminn<br />
+			fyrst, enn frōþi jǫtunn?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“First answer me well,<sep />if thy wisdom avails,<br />
+			And thou knowest it, Vafthruthnir, now:<br />
+			In earliest time<sep />whence came the earth,<br />
+			Or the sky, thou giant sage?”
+		</translation>
+		<comment>
+			The fragmentary version of this poem in the <source>Arnamagnæan Codex</source> begins in the middle of the first line of this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ōr Ymis holdi<sep />vas jǫrþ of skǫpuþ<br />
+			en ōr beinum bjǫrg,<br />
+			himinn ōr hausi<sep />ens hrīmkalda jǫtuns,<br />
+			en ōr sveita sǣr.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Out of Ymir's flesh<sep />was fashioned the earth,<br />
+			And the mountains were made of his bones;<br />
+			The sky from the frost-cold<sep />giant's skull,<br />
+			And the ocean out of his blood.”
+		</translation>
+		<comment>
+			<expl>Ymir</expl>: the giant out of whose body the gods made the world; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">3</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat annat,<sep />ef þitt ø̄þi dugir<br />
+			ok þū, Vafþrūþnir! vitir:<br />
+			hvaþan māni of kvam,<sep />sās ferr menn yfir,<br />
+			eþa sōl et sama?
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Next answer me well,<sep />if thy wisdom avails,<br />
+			And thou knowest it, Vafthruthnir, now:<br />
+			Whence came the moon,<sep />o'er the world of men<br />
+			That fares, and the flaming sun?”
+		</translation>
+		<comment>
+			In this and in Othin's following questions, both manuscripts replace the words “next,” “third,” “fourth,” etc., by Roman numerals.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Mundilferi heitir,<sep />hann es Māna faþir<br />
+			ok svā Sōlar et sama;<br />
+			himin hverfa<sep />þau skulu hverjan dag<br />
+			ǫldum at ārtali.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Mundilferi is he<sep />who begat the moon,<br />
+			And fathered the flaming sun;<br />
+			The round of heaven<sep />each day they run,<br />
+			To tell the time for men.”
+		</translation>
+		<comment>
+			<expl>Mundilferi</expl> (“the Turner”?): known only as the father of Mani (the Moon) and Sol (the Sun).
+			Note that, curiously enough, Mani is the boy and Sol the girl.
+			According to Snorri, Sol drove the horses of the sun, and Mani those of the moon, for the gods, indignant that they should have been given such imposing names, took them from their father to perform these tasks.
+			Cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">37</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et þriþja,<sep />alls þik svinnan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hvaþan dagr of kvam,<sep />sās ferr drōtt yfir,<br />
+			eþa nǭtt meþ niþum?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Third answer me well,<sep />if wise thou art called,<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			Whence came the day,<sep />o'er mankind that fares,<br />
+			Or night with the narrowing moon?”
+		</translation>
+	</block>
+	<block class="stanza" number="25">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Dellingr heitir,<sep />hann es Dags faþir,<br />
+			en Nǭtt vas Nǫrvi borin;<br />
+			nȳ ok niþ<sep />skōpu nȳt regin<br />
+			ǫldum at ārtali.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“The father of day<sep />is Delling called,<br />
+			And the night was begotten by Nor;<br />
+			Full moon and old<sep />by the gods were fashioned,<br />
+			To tell the time for men.”
+		</translation>
+		<comment>
+			<expl>Delling</expl> (“the Dayspring”? Probably another form of the name, Dogling, meaning “Son of the Dew” is more correct): the husband of Not (Night); their son was Dag (Day); cf. <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>.
+			<expl>Nor</expl>: Snorri calls the father of Night Norvi or Narfi, and puts him among the giants.
+			Lines 3–4: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">6</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et fjōrþa,<sep />alls þik frōþan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hvaþan vetr of kvam<sep />eþa varmt sumar<br />
+			fyrst meþ frōþ regin?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Fourth answer me well,<sep />if wise thou art called,<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			Whence did winter come,<sep />or the summer warm,<br />
+			First with the gracious gods?”
+		</translation>
+	</block>
+	<block class="stanza" number="27">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Vindsvalr heitir,<sep />hann es Vetrar faþir,<br />
+			en Svǭsuþr Sumars;”<br />
+			<lacuna /><br />
+			<lacuna />
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Vindsval he was<sep />who was winter's father,<br />
+			And Svosuth summer begat;”<br />
+			<lacuna /><br />
+			<lacuna />
+		</translation>
+		<comment>
+			Neither the Regius nor the <source>Arnamagnæan Codex</source> indicates a lacuna.
+			Most editors have filled out the stanza with two lines from late paper manuscripts:
+			<textstanza>
+				And both of these<sep />shall ever be,<br />
+				Till the gods to destruction go.
+			</textstanza>
+			Bugge ingeniously paraphrases Snorri's prose:
+			
+			<textstanza>
+				Vindsval's father<sep />was Vosuth called,<br />
+				And rough is all his race.
+			</textstanza>
+			
+			<expl>Vindsval</expl>: “the Wind-Cold,” also called Vindljoni, “the Wind-Man.”
+			<expl>Svosuth</expl>: “the Gentle.”
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et fimta,<sep />alls þik frōþan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hverr jǫtna elztr<sep />eþa Ymis niþja<br />
+			yrþi ī ārdaga?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Fifth answer me well,<sep />if wise thou art called,<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			What giant first<sep />was fashioned of old,<br />
+			And the eldest of Ymir's kin?”
+		</translation>
+		<comment>
+			<expl>Ymir's kin</expl>: the giants.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ørōfi vetra,<sep />āþr vǣri jǫrþ of skǫpuþ,<br />
+			þā vas Bergelmir borinn;<br />
+			Þrūþgelmir<sep />vas þess faþir,<br />
+			en Aurgelmir afi.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Winters unmeasured<sep />ere earth was made<br />
+			Was the birth of Bergelmir;<br />
+			Thruthgelmir's son<sep />was the giant strong,<br />
+			And Aurgelmir's grandson of old.”
+		</translation>
+		<comment>
+			<expl>Bergelmir</expl>: when the gods slew Ymir in order to make the world out of his body, so much blood flowed from him that all the frost-giants were drowned except Bergelmir and his wife, who escaped in a boat; cf. stanza <stanzaref chapter="Vafthruthnismol">35</stanzaref>.
+			Of <emph>Thruthgelmir</emph> (“the Mightily Burning”) we know nothing, but Aurgelmir was the frost-giants' name for Ymir himself.
+			Thus Ymir was the first of the giants, and so Othin's question is answered.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et sētta,<sep />alls þik svinnan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hvaþan Aurgelmir<sep />kvam meþ jǫtna sunum<br />
+			fyrst, enn frōþi jǫtunn?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Sixth answer me well,<sep />if wise thou art called,<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			Whence did Aurgelmir come<sep />with the giants' kin,<br />
+			Long since, thou giant sage?”
+		</translation>
+	</block>
+	<block class="stanza" number="31">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ōr Ēlivǭgum<sep />stukku eitrdropar,<br />
+			svā ōx unz ōr varþ jǫtunn;<br />
+			þar ōrar ǣttir<sep />kvǭmu allar saman,<br />
+			þvī's þat ǣ allt til atalt.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Down from Elivagar<sep />did venom drop,<br />
+			And waxed till a giant it was;<br />
+			And thence arose<sep />our giants' race,<br />
+			And thus so fierce are we found.”
+		</translation>
+		<comment>
+			Snorri quotes this stanza, and the last two lines are taken from his version, as both of the manuscripts omit them.
+			<expl>Elivagar</expl> (“Stormy Waves”): Mogk suggests that this river may have been the Milky Way.
+			At any rate, the venom carried in its waters froze into ice-banks over Ginnunga-gap (the “yawning gap” referred to in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">3</stanzaref>), and then dripped down to make the giant Ymir.
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et sjaunda,<sep />alls þik svinnan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hvē sā bǫrn of gat<sep />enn baldni jǫtunn,<br />
+			es hann hafþit gȳgjar gaman?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Seventh answer me well,<sep />if wise thou art called,<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			How begat he children,<sep />the giant grim,<br />
+			Who never a giantess knew?”
+		</translation>
+	</block>
+	<block class="stanza" number="33">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Und hendi vaxa<sep />kvǭþu hrīmþursi<br />
+			mey ok mǫg saman;<br />
+			fōtr viþ fø̄ti<sep />gat ens frōþa jǫtuns<br />
+			sexhǫfþaþan sun.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“They say 'neath the arms<sep />of the giant of ice<br />
+			Grew man-child and maid together;<br />
+			And foot with foot<sep />did the wise one fashion<br />
+			A son that six heads bore.”
+		</translation>
+		<comment>
+			Snorri gives, without materially elaborating on it, the same account of how Ymir's son and daughter were born under his left arm, and how his feet together created a son.
+			That this offspring should have had six heads is nothing out of the ordinary, for various giants had more than the normal number, and Ymir's mother is credited with a little matter of nine hundred heads; cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">8</stanzaref>.
+			Of the career of Ymir's six headed son we know nothing; he may have been the Thruthgelmir of stanza <stanzaref chapter="Vafthruthnismol">29</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="34">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et ātta,<sep />alls þik svinnan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hvat fyrst of mant<sep />eþa fremst of veizt?<br />
+			þū 'st alsviþr, jǫtunn!”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Eighth answer me well,<sep />if wise thou art called,<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			What farthest back<sep />dost thou bear in mind?<br />
+			For wide is thy wisdom, giant!”
+		</translation>
+	</block>
+	<block class="stanza" number="35">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ørōfi vetra<sep />āþr vǣri jǫrþ of skǫpuþ,<br />
+			þā vas Bergelmir borinn;<br />
+			þat ek fyrst of man,<sep />es sa enn frōþi jǫtunn<br />
+			ā vas lūþr of lagiþr.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Winters unmeasured<sep />ere earth was made<br />
+			Was the birth of Bergelmir;<br />
+			This first knew I well,<sep />when the giant wise<br />
+			In a boat of old was borne.”
+		</translation>
+		<comment>
+			Snorri quotes this stanza.
+			<expl>Bergelmir</expl>: on him and his boat cf. stanza <stanzaref chapter="Vafthruthnismol">29</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et niunda,<sep />alls þik svinnan kveþa,<br />
+			ef þū, Vafþrūþnir! vitir:<br />
+			hvaþan vindr of kømr<sep />sās ferr vāg yfir?<br />
+			ǣ menn hann sjalfan of sea.”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Ninth answer me well,<sep />if wise thou art called<br />
+			If thou knowest it, Vafthruthnir, now:<br />
+			Whence comes the wind<sep />that fares o'er the waves<br />
+			Yet never itself is seen?”
+		</translation>
+	</block>
+	<block class="stanza" number="37">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Hrǣsvelgr heitir<sep />es sitr ā himins enda,<br />
+			jǫtunn ī arnar ham;<br />
+			af hans vǣngjum<sep />kveþa vind koma<br />
+			alla menn yfir.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“In an eagle's guise<sep />at the end of heaven<br />
+			Hræsvelg sits, they say;<br />
+			And from his wings<sep />does the wind come forth<br />
+			To move o'er the world of men.”
+		</translation>
+		<comment>
+			Snorri quotes this stanza.
+			<expl>Hræsvelg</expl> (“the Corpse-Eater”) on this giant in eagle's form cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">50</stanzaref>, and <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">27</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et tiunda,<sep />alls þū tīva røk<br />
+			ǫll, Vafþrūþnir! vitir:<br />
+			hvaþan Njǫrþr of kvam<sep />meþ <conj>niþjum</conj> āsa—<br />
+			[hofum ok hǫrgum<sep />hann rǣþr hundmǫrgum—]<br />
+			ok vasat hann ǭsum alinn?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Tenth answer me now,<sep />if thou knowest all<br />
+			The fate that is fixed for the gods:<br />
+			Whence came up Njorth<sep />to the kin of the gods,—<br />
+			[Rich in temples<sep />and shrines he rules,—]<br />
+			Though of gods he was never begot?”
+		</translation>
+		<comment>
+			With this stanza the question-formula changes, and Othin's questions from this point on concern more or less directly the great final struggle.
+			Line 4 is presumably spurious.
+			<expl>Njorth</expl>: on Njorth and the Wanes, who gave him as a hostage to the gods at the end of their war, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="39">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ī Vanaheimi<sep />skōpu hann vīs regin<br />
+			ok seldu at gīslingu goþum;<br />
+			ī aldar røk<sep />hann mun aptr koma<br />
+			heim meþ vīsum vǫnum.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“In the home of the Wanes<sep />did the wise ones create him,<br />
+			And gave him as pledge to the gods;<br />
+			At the fall of the world<sep />shall he fare once more<br />
+			Home to the Wanes so wise.”
+		</translation>
+	</block>
+	<block class="stanza" number="40">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et ellifta,<sep /><conj>alls þik svinnan kveþa</conj>,<br />
+			<conj>ef þū, Vafþrūþnir! vitir</conj>:<br />
+			<conj>hverir'u ȳtar</conj><sep /><conj>es Ōþins</conj> tūnum ī<br />
+			hǫggvask hverjan dag?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Eleventh answer me well,<sep /><lacuna /><br />
+			<lacuna /><br />
+			What men <lacuna /><sep />in <lacuna /> home<br />
+			Each day to fight go forth?”
+		</translation>
+		<comment>
+			In both manuscripts, apparently through the carelessness of some older copyist, stanzas <stanzaref chapter="Vafthruthnismol">40</stanzaref> and <stanzaref chapter="Vafthruthnismol">41</stanzaref> are run together:
+			“Eleventh answer me well, what men in the home mightily battle each day? They fell each other, and fare from the fight all healed full soon to sit.”
+			Luckily Snorri quotes stanza <stanzaref chapter="Vafthruthnismol">41</stanzaref> in full, and the translation is from his version.
+			Stanza <stanzaref chapter="Vafthruthnismol">40</stanzaref> should probably run something like this:
+			<textstanza>
+				Eleventh answer me well,<sep />if thou knowest all<br />
+				The fate that is fixed for the gods:<br />
+				What men are they<sep />who in Othin's home<br />
+				Each day to fight go forth?
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Allir einherjar<sep />Ōþins tūnum ī<br />
+			hǫggvask hverjan dag;<br />
+			val þeir kjōsa<sep />ok rīþa vīgi frā,<br />
+			sitja meirr of sāttir saman.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“The heroes all<sep />in Othin's hall<br />
+			Each day to fight go forth;<br />
+			They fell each other,<sep />and fare from the fight<br />
+			All healed full soon to sit.”
+		</translation>
+		<comment>
+			<expl>The heroes</expl>: those brought to Valhall by the Valkyries.
+			After the day's fighting they are healed of their wounds and all feast together.
+		</comment>
+	</block>
+	<block class="stanza" number="42">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Seg þat et tolfta,<sep />hvī þū tīva røk<br />
+			ǫll, Vafþrūþnir! vitir?<br />
+			frā jǫtna rūnum<sep />ok allra goþa<br />
+			segir þu et sannasta,<br />
+			enn alsvinni jǫtunn!”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Twelfth answer me now<sep />how all thou knowest<br />
+			Of the fate that is fixed for the gods;<br />
+			Of the runes of the gods<sep />and the giants' race<br />
+			The truth indeed dost thou tell,<br />
+			[And wide is thy wisdom, giant!]”
+		</translation>
+	</block>
+	<block class="stanza" number="43">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Frā jǫtna rūnum<sep />ok allra goþa<br />
+			ek kann segja satt,<br />
+			þvīt hvern hefk heim of komit:<br />
+			niu kvamk heima<sep />fyr Niflhel neþan,<br />
+			hinig deyja [ōr helju] halir.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“Of the runes of the gods<sep />and the giants' race<br />
+			The truth indeed can I tell,<br />
+			[For to every world have I won;]<br />
+			To nine worlds came I,<sep />to Niflhel beneath,<br />
+			The home where dead men dwell.”
+		</translation>
+		<comment>
+			<expl>Nine worlds</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">2</stanzaref>.
+			<expl>Niflhel</expl>: “Dark-Hell.”
+		</comment>
+	</block>
+	<block class="stanza" number="44">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin:<br />
+			hvat lifir manna,<sep />þās enn mǣra līþr<br />
+			fimbulvetr meþ firum?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found,<br />
+			Much have I got of the gods:<br />
+			What shall live of mankind<sep />when at last there comes<br />
+			The mighty winter to men?”
+		</translation>
+		<comment>
+			<expl>The mighty winter</expl>: Before the final destruction three winters follow one another with no intervening summers.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Līf ok Līfþrasir,<sep />en þau leynask munu<br />
+			ī holti Hoddmimis;<br />
+			morgindǫggvar<sep />þau ser at mat hafa<br />
+			en þaþan af aldir alask.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“In Hoddmimir's wood<sep />shall hide themselves<br />
+			Lif and Lifthrasir then;<br />
+			The morning dews<sep />for meat shall they have,<br />
+			Such food shall men then find.”
+		</translation>
+		<comment>
+			Snorri quotes this stanza.
+			<expl>Hoddmimir's wood</expl>: probably this is the ash-tree Yggdrasil, which is sometimes referred to as “Mimir's Tree,” because Mimir waters it from his well; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref> and note, and <chapterref>Svipdagsmol</chapterref>, <stanzaref chapter="Svipdagsmol">30</stanzaref> and note.
+			Hoddmimir is presumably another name for Mimir.
+			<expl>Lif</expl> (“Life”) and <emph>Lifthrasir</emph> (“Sturdy of Life”?): nothing further is known of this pair, from whom the new race of men is to spring.
+		</comment>
+	</block>
+	<block class="stanza" number="46">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin:<br />
+			hvaþan kømr sōl<sep />ā enn slētta himin,<br />
+			þās þessi hefr Fenrir farit?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found,<br />
+			Much have I got of the gods:<br />
+			Whence comes the sun<sep />to the smooth sky back,<br />
+			When Fenrir has snatched it forth?”
+		</translation>
+		<comment>
+			<expl>Fenrir</expl>: there appears to be a confusion between the wolf Fenrir (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref> and note) and his son, the wolf Skoll, who steals the sun (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">40</stanzaref> and note).
+		</comment>
+	</block>
+	<block class="stanza" number="47">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Eina dōttur<sep />berr Alfrǫþull,<br />
+			āþr henni Fenrir fari;<br />
+			sū skal rīþa,<sep />þās regin deyja,<br />
+			mǫþur' brautir mǣr.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“A daughter bright<sep />Alfrothul bears<br />
+			Ere Fenrir snatches her forth;<br />
+			Her mother's paths<sep />shall the maiden tread<br />
+			When the gods to death have gone.”
+		</translation>
+		<comment>
+			Snorri quotes this stanza.
+			<expl>Alfrothul</expl> (“the Elf-Beam”) the sun.
+		</comment>
+	</block>
+	<block class="stanza" number="48">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin:<br />
+			hverjar 'u meyjar<sep />es līþa mar yfir,<br />
+			frōþgeþjaþar fara?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found,<br />
+			Much have I got of the gods:<br />
+			What maidens are they,<sep />so wise of mind.<br />
+			That forth o'er the sea shall fare?”
+		</translation>
+	</block>
+	<block class="stanza" number="49">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Þriar þjōþir<sep />falla þorp yfir<br />
+			meyja Mǫgþrasis,<br />
+			hamingjur einar<sep />þǣrs ī heimi 'rū,<br />
+			þō þǣr meþ jǫtnum alask.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“O'er Mogthrasir's hill<sep />shall the maidens pass,<br />
+			And three are their throngs that come;<br />
+			They all shall protect<sep />the dwellers on earth,<br />
+			Though they come of the giants' kin.”
+		</translation>
+		<comment>
+			<expl>Mogthrasir</expl> (“Desiring Sons”): not mentioned elsewhere in the Eddic poems, or by Snorri.
+			<expl>The maidens</expl>: apparently Norns, like the “giant-maids” in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">8</stanzaref>.
+			These Norns, however, are kindly to men.
+		</comment>
+	</block>
+	<block class="stanza" number="50">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin:<br />
+			hverir rāþa ǣsir<sep />eignum goþa,<br />
+			þās sloknar Surta logi?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found,<br />
+			Much have I got of the gods:<br />
+			Who then shall rule<sep />the realm of the gods,<br />
+			When the fires of Surt have sunk?”
+		</translation>
+		<comment>
+			<expl>Surt</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">52</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="51">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Vīþarr ok Vāli<sep />byggva vē goþa,<br />
+			þās sloknar Surta logi;<br />
+			Mōþi ok Magni<sep />skulu Mjǫllni hafa<br />
+			Vingnis at vīgþroti.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“In the gods' home Vithar<sep />and Vali shall dwell,<br />
+			When the fires of Surt have sunk;<br />
+			Mothi and Magni<sep />shall Mjollnir have<br />
+			When Vingnir falls in fight.”
+		</translation>
+		<comment>
+			<expl>Vithar</expl>: a son of Othin, who slays the wolf Fenrir; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">54</stanzaref> and note.
+			<expl>Vali</expl>: the son whom Othin begot to avenge Baldr's death; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref> and note.
+			<expl>Mothi</expl> (“Wrath”) and Magni (“Might”): the sons of the god Thor, who after his death inherit his famous hammer, Mjollnir.
+			Concerning this hammer cf. especially <chapterref>Thrymskvitha</chapterref>, passim.
+			<expl>Vingnir</expl> (“the Hurler”): Thor.
+			Concerning his death cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">56</stanzaref>.
+			This stanza is quoted by Snorri.
+		</comment>
+	</block>
+	<block class="stanza" number="52">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin:<br />
+			hvat verþr Ōþni<sep />at aldrlagi,<br />
+			þās of rjūfask regin?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found,<br />
+			Much have I got of the gods:<br />
+			What shall bring the doom<sep />of death to Othin,<br />
+			When the gods to destruction go?”
+		</translation>
+	</block>
+	<block class="stanza" number="53">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ulfr gleypa<sep />mun Aldafǫþr,<br />
+			þess mun Vīþarr vreka;<br />
+			kalda kjapta<sep />hann klyfja mun<br />
+			vitnis vīgi at.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“The wolf shall fell<sep />the father of men,<br />
+			And this shall Vithar avenge;<br />
+			The terrible jaws<sep />shall he tear apart,<br />
+			And so the wolf shall he slay.”
+		</translation>
+		<comment>
+			<expl>The wolf</expl>: Fenrir; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">53</stanzaref> and <stanzaref chapter="Voluspo">54</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="54">
+		<original_prelude>
+			Ōþinn kvaþ:
+		</original_prelude>
+		<original>
+			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
+			fjǫlþ of reyndak regin:<br />
+			hvat mǣlti Ōþinn,<sep />āþr ā bāl stigi,<br />
+			sjalfr ī eyra syni?”
+		</original>
+		<translation_prelude>
+			Othin spake:
+		</translation_prelude>
+		<translation>
+			“Much have I fared,<sep />much have I found,<br />
+			Much have I got from the gods:<br />
+			What spake Othin himself<sep />in the ears of his son,<br />
+			Ere in the bale-fire he burned?”
+		</translation>
+		<comment>
+			<expl>His son</expl>: Baldr.
+			Bugge changes lines 3–4 to run:
+			<textstanza>
+				What did Othin speak<sep />in the ear of Baldr,<br />
+				When to the bale-fire they bore him?
+			</textstanza>
+			For Baldr's death cf. 
+			<chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and note.
+			The question is, of course, unanswerable save by Othin himself, and so the giant at last recognizes his guest.
+		</comment>
+	</block>
+	<block class="stanza" number="55">
+		<original_prelude>
+			Vafþrūþnir kvaþ:
+		</original_prelude>
+		<original>
+			“Ey manni þat veit,<sep />hvat þu ī ārdaga<br />
+			sagþir ī eyra syni:<br />
+			feigum munni<sep />mǣltak mīna forna stafi<br />
+			auk of ragna røk.<br />
+			Nū viþ Ōþin<sep />deildak orþspeki,<br />
+			þū'st ǣ vīsastr vera.”
+		</original>
+		<translation_prelude>
+			Vafthruthnir spake:
+		</translation_prelude>
+		<translation>
+			“No man can tell<sep />what in olden time<br />
+			Thou spak'st in the ears of thy son;<br />
+			With fated mouth<sep />the fall of the gods<br />
+			And mine olden tales have I told;<br />
+			With Othin in knowledge<sep />now have I striven,<br />
+			And ever the wiser thou art.”
+		</translation>
+		<comment>
+			<expl>Fated</expl>: in stanza <stanzaref chapter="Vafthruthnismol">19</stanzaref> Vafthruthnir was rash enough to wager his head against his guest's on the outcome of the contest of wisdom, so he knows that his defeat means his death.
+		</comment>
+	</block>
+</chapter>

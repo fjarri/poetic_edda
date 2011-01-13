@@ -1,0 +1,71 @@
+<chapter english_name="Pronouncing index of proper names">
+	<block class="text">
+		The pronunciations indicated in the following index are in many cases, at best, mere approximations, and in some cases the pronunciation of the Old Norse is itself more or less conjectural.
+		For the sake of clarity it has seemed advisable to keep the number of phonetic symbols as small as possible, even though the result is occasional failure to distinguish between closely related sounds.
+		In every instance the object has been to provide the reader with a clearly comprehensible and approximately correct pronunciation, for which reason, particularly in such matters as division of syllables, etymology has frequently been disregarded for the sake of phonetic clearness.
+		For example, when a root syllable ends in a long (double) consonant, the division has arbitrarily been made so as to indicate the sounding of both elements (e. g., Am-ma, not Amm-a).
+	</block>
+	<block class="text">
+		As many proper names occur in the notes but not in the text, and as frequently the more important incidents connected with the names are outlined in notes which would not be indicated by textual references alone, the page numbers include all appearances of proper names in the notes as well as in the text.
+	</block>
+	<block class="text">
+		The following general rules govern the application of the phonetic symbols used in the index, and also indicate the approximate pronunciation of the unmarked vowels and consonants.
+	</block>
+	<block class="text">
+		<inlinesection>Vowels.</inlinesection> The vowels are pronounced approximately as follows:
+	</block>
+	<block class="text">
+		<table>
+a—as in “alone” &amp; u—as <emph>ou</emph> in “would”<br />
+ā—as in “father” &amp; ū—as <emph>ou</emph> in “wound”
+</table>
+	</block>
+	<block class="text">
+		% I could this whole list in one table, but that would require some tricks with multirow/multicolumn and look ugly
+		% Moreover, this variant can span over a pagebreak
+		% FIXME: I may have to tune "em" lengths for different book formats
+		<table>
+e—as in “men” &amp; y—as <emph>i</emph> in “is”  &amp; <multirow><large>}</large></multirow> &amp;
+	<multirow>Both with a slight<br /> sound of German ü</multirow><br />
+ē—as <emph>a</emph> in “fate” &amp; ȳ—as <emph>ee</emph> in “free”  &amp; &amp;<br />
+</table>
+	</block>
+	<block class="text">
+		<table>
+i—as in “is” &amp; æ—as <emph>e</emph> in “men”<br />
+ī—as in “machine” &amp; ǣ—as <emph>a</emph> in “fate”<br />
+o—as in “on” &amp; ei—as <emph>ey</emph> in “they”<br />
+ō—as in “old” &amp; ey—as in “they”<br />
+ø—as in German “öffnen” &amp; au—as <emph>ou</emph> in “out”<br />
+ø̄—as in German “schön” &amp; ai—as <emph>i</emph> in “fine”<br />
+ǭ—as <emph>aw</emph> in “law”
+</table>
+	</block>
+	<block class="text">
+		No attempt has been made to differentiate between the short open “o” and the short closed “o,” which for speakers of English closely resemble one another.
+	</block>
+	<block class="text">
+		<inlinesection>Consonants.</inlinesection> The consonants are pronounced approximately as in English, with the following special points to be noted:
+	</block>
+	<block class="text">
+		<emph>G</emph> is always hard, as in “get,” never soft, as in “gem;” following “n” it has the same sound as in “sing.”
+	</block>
+	<block class="text">
+		<emph>J</emph> is pronounced as y in “young.”
+	</block>
+	<block class="text">
+		<emph>Þ</emph> following a vowel is soft, as in “with;” at the beginning of a word or following a consonant it is hard, as in “thin.”
+	</block>
+	<block class="text">
+		The long (doubled) consonants should be pronounced as in Italian, both elements being distinctly sounded; e. g., “Am-ma.”
+	</block>
+	<block class="text">
+		<emph>S</emph> is always hard, as in “so,” “this,” never soft, as in “as.”
+	</block>
+	<block class="text">
+		<emph>H</emph> enters into combinations with various following consonants; with “v” the sound is approximately that of wh in “what”; with “l” “r” and “n” it produces sounds which have no exact English equivalents, but which can be approximated by pronouncing the consonants with a marked initial breathing.
+	</block>
+	<block class="text">
+		<inlinesection>Accents</inlinesection>. The accented syllable in each name is indicated by the acute accent (´). In many names, however, and particularly in compounds, there is both a primary and a secondary, accent, and where this is the case the primary, stress is indicated by a double acute accent (˝) and the secondary one by a single acute accent (´). To avoid possible confusion with the long vowel marks used in Old Norse texts, the accents are placed, not over the vowels, but after the accented syllables.
+	</block>
+</chapter>

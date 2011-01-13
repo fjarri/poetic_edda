@@ -1,0 +1,1207 @@
+<chapter english_name="Harbarthsljoth" icelandic_name="Hārbarþsljōþ" translation="The Poem of Harbarth">
+	<block class="text">
+		The <chapterref>Harbarthsljoth</chapterref> is found complete in the <source>Codex Regius</source>, where it follows the <chapterref>Skirnismol</chapterref>, and from the fourth line of stanza <stanzaref chapter="Harbarthsljoth">19</stanzaref> to the end of the poem in the <source>Arnamagnæan Codex</source>, of which it occupies the first page and a half.
+	</block>
+	<block class="text">
+		The poem differs sharply from those which precede it in the <source>Codex Regius</source>, both in metrical form and in spirit.
+		It is, indeed, the most nearly formless of all the Eddic poems.
+		The normal metre is the Malahattr (cf. <ref chapter="General Introduction">General Introduction</ref>, where an example is given).
+		The name of this verse-form means “in the manner of conversation,” and the <chapterref label="Harbarthsljoth">Harbarthsljoth's</chapterref> verse fully justifies the term.
+		The Atli poems exemplify the conventional use of Malahattr, but in the <chapterref>Harbarthsljoth</chapterref> the form is used with extraordinary freedom, and other metrical forms are frequently employed.
+		A few of the speeches of which the poem is composed cannot be twisted into any known Old Norse metre, and appear to be simply prose.
+	</block>
+	<block class="text">
+		How far this confusion is due to interpolations and faulty transmission of the original poem is uncertain.
+		Finnur Jonsson has attempted a wholesale purification of the poem, but his arbitrary condemnation of words, lines, and entire stanzas as spurious is quite unjustified by any positive evidence.
+		I have accepted Mogk's theory that the author was “a first-rate psychologist, but a poor poet,” and have translated the poem as it stands in the manuscripts.
+		I have preserved the metrical confusion of the original by keeping throughout so far as possible to the metres found in the poem; if the rhythm of the translation is often hard to catch, the difficulty is no less with the original Norse.
+	</block>
+	<block class="text">
+		The poem is simply a contest of abuse, such as the early Norwegian and Icelander delighted in, the opposing figures being Thor and Othin, the latter appearing in the disguise of the ferryman Harbarth.
+		Such billingsgate lent itself readily to changes, interpolations and omissions, and it is little wonder that the poem is chaotic.
+		It consists mainly of boasting and of references, often luckily obscure, to disreputable events in the life of one or the other of the disputants.
+		Some editors have sought to read a complex symbolism into it, particularly by representing it as a contest between the noble or warrior class (Othin) and the peasant (Thor).
+		But it seems a pity to take such a vigorous piece of broad farce too seriously.
+	</block>
+	<block class="text">
+		Verse-form, substance, and certain linguistic peculiarities, notably the suffixed articles, point to a relatively late date (eleventh century) for the poem in its present form.
+		Probably it had its origin in the early days, but its colloquial nature and its vulgarity made it readily susceptible to changes.
+	</block>
+	<block class="text">
+		Owing to the chaotic state of the text, and the fact that none of the editors or commentators have succeeded in improving it much, I have not in this case attempted to give all the important emendations and suggestions.
+		The stanza-divisions are largely arbitrary.
+	</block>
+	<block class="sepline" />
+	<block class="prose" label="introduction">
+		<original>
+			Þōrr fōr ōr austrvegi ok kom at sundi einu; ǫþrum megum sundsins var ferjukarlinn meþ skipit.<br />
+			Þōrr kallaþi:
+		</original>
+		<translation>
+			Thor was on his way back from a journey in the East, and came to a sound; on the other side of the sound was a ferryman with a boat.<br />
+			Thor called out:
+		</translation>
+		<comment>
+			<expl>Harbarth</expl> (“Gray-Beard”): Othin.
+			On the nature of the prose notes found in the manuscripts, cf. <chapterref>Grimnismol</chapterref>, <proseref chapter="Grimnismol">introduction</proseref>.
+			<expl>Thor</expl>: the journeys of the thunder-god were almost as numerous as those of Othin; cf. <chapterref>Thrymskvitha</chapterref> and <chapterref>Hymiskvitha</chapterref>.
+			Like the Robin Hood of the British ballads, Thor was often temporarily worsted, but always managed to come out ahead in the end.
+			His “Journey in the East” is presumably the famous episode, related in full by Snorri, in the course of which he en countered the giant Skrymir, and in the house of Utgartha-Loki lifted the cat which turned out to be Mithgarthsorm.
+			The <chapterref>Hymiskvitha</chapterref> relates a further incident of this journey.
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			“Hverr es sā sveinn sveina,<sep />es stendr fyr sundit handan?”
+		</original>
+		<translation>
+			“Who is the fellow yonder,<sep />on the farther shore of the sound?”
+		</translation>
+	</block>
+	<block class="stanza" number="2">
+		<original_prelude>
+			Ferjukarlinn kvaþ:
+		</original_prelude>
+		<original>
+			“Hverr es sā karl karla,<sep />es kallar of vāginn?”
+		</original>
+		<translation_prelude>
+			The ferryman spake:
+		</translation_prelude>
+		<translation>
+			“What kind of a peasant is yon,<sep />that calls o'er the bay?”
+		</translation>
+		<comment>
+			The superscriptions to the speeches are badly confused in the manuscripts, but editors have agreed fairly well as to where they belong.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Ferþu mik of sundit!<sep />fø̄þik þik ā morgin:<br />
+			meis hefk ā baki,<sep />verþra matr enn betri.<br />
+			Āt ek ī hvīlþ,<sep />āþr ek heiman fōr,<br />
+			sildr ok hafra:<sep />saþr emk enn þess.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Ferry me over the sound;<sep />I will feed thee therefor in the morning;<br />
+			A basket I have on my back,<sep />and food therein, none better;<br />
+			At leisure I ate,<sep />ere the house I left,<br />
+			Of herrings and porridge,<sep />so plenty I had.”
+		</translation>
+		<comment>
+			From the fact that in <source>Regius</source> line 3 begins with a capital letter, it is possible that lines 3–4 constitute the ferryman's reply, with something lost before stanza <stanzaref chapter="Harbarthsljoth">4</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original_prelude>
+			Ferjukarlinn kvaþ:
+		</original_prelude>
+		<original>
+			“Ārligum verkum hrōsar þū verþinum;<sep />veiztattu fyrir gǫrla:<br />
+			dōpr eru þīn heimkynni,<sep />dauþ hykk at þīn mōþir sē.”
+		</original>
+		<translation_prelude>
+			The ferryman spake:
+		</translation_prelude>
+		<translation>
+			“Of thy morning feats art thou proud,<sep />but the future thou knowest not wholly;<br />
+			Doleful thine home-coming is:<sep />thy mother, me thinks, is dead.”
+		</translation>
+		<comment>
+			<expl>Thy mother</expl>: Jorth (Earth).
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Þat segir þū nū,<sep />es hverjum þykkir<br />
+			mest at vita,<sep />at mīn mōþir dauþ sē.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Now hast thou said<sep />what to each must seem<br />
+			The mightiest grief,<sep />that my mother is dead.”
+		</translation>
+		<comment>
+			Some editors assume a lacuna after this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+			Ferjukarlinn kvaþ:
+		</original_prelude>
+		<original>
+			“Þeygi es sem þū<sep />þrjū bū gōþ eigir:<br />
+			berbeinn þū stendr<sep />ok hefr brautinga gørvi;<br />
+			þatki at þū hafir brø̄kr þīnar!”
+		</original>
+		<translation_prelude>
+			The ferryman spake:
+		</translation_prelude>
+		<translation>
+			“Three good dwellings,<sep />methinks, thou hast not;<br />
+			Barefoot thou standest,<sep />and wearest a beggar's dress;<br />
+			Not even hose dost thou have.”
+		</translation>
+		<comment>
+			<expl>Three good dwellings</expl>: this has been generally assumed to mean three separate establishments, but it may refer simply to the three parts of a single farm, the dwelling proper, the cattle barn and the storehouse; i.e., Thor is not even a respectable peasant.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Stȳrþu hingat eikjunni!<sep />ek mun þēr stǫþna kenna;<br />
+			eþa hverr ā skipit<sep />es þū heldr viþ landit?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Steer thou hither the boat;<sep />the landing here shall I show thee;<br />
+			But whose the craft<sep />that thou keepest on the shore?”
+		</translation>
+	</block>
+	<block class="stanza" number="8">
+		<original_prelude>
+			Ferjukarlinn kvaþ:
+		</original_prelude>
+		<original>
+			“Hildolfr sā heitir,<sep />es mik halda baþ,<br />
+			rekkr enn rāþsvinni,<sep />es bȳr ī Rāþseyjarsundi;<br />
+			baþat hann hlennimenn flytja<sep />eþa hrossa þjōfa,<br />
+			gōþa eina<sep />ok þās ek gǫrva kunna.<br />
+			Segþu til nafns þīns,<sep />ef þū vill of sundit fara.”
+		</original>
+		<translation_prelude>
+			The ferryman spake:
+		</translation_prelude>
+		<translation>
+			“Hildolf is he<sep />who bade me have it,<br />
+			A hero wise;<sep />his home is at Rathsey's sound.<br />
+			He bade me no robbers to steer,<sep />nor stealers of steeds,<br />
+			But worthy men,<sep />and those whom well do I know.<br />
+			Say now thy name,<sep />if over the sound thou wilt fare.”
+		</translation>
+	</block>
+	<block class="stanza" number="9">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Segja munk til nafns mīns,<sep />þōt ek sekr seak,<br />
+			ok til alls øþlis:<sep />ek em Ōþins sunr,<br />
+			Meila brōþir,<sep />en Magna faþir,<br />
+			þrūþvaldr goþa;<sep />viþ Þōr knāttu hēr dø̄ma.<br />
+			Hins viljak nū spyrja,<sep />hvat þū heitir.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“My name indeed shall I tell,<sep />though in danger I am,<br />
+			And all my race;<sep />I am Othin's son,<br />
+			Meili's brother,<sep />and Magni's father,<br />
+			The strong one of the gods;<sep />with Thor now speech canst thou get.<br />
+			And now would I know<sep />what name thou hast.”
+		</translation>
+		<comment>
+			<expl>In danger</expl>: Thor is “sekr,” i.e., without the protection of any law, so long as he is in the territory of his enemies, the giants.
+			<expl>Meili</expl>: a practically unknown son of Othin, mentioned here only in the Edda.
+			<expl>Magni</expl>: son of Thor and the giantess Jarnsaxa; after Thor's fight with Hrungnir (cf. stanza <stanzaref chapter="Harbarthsljoth">14</stanzaref>, note) Magni, though but three days old, was the only one of the gods strong enough to lift the dead giant's foot from Thor's neck.
+			After rescuing his father, Magni said to him: “There would have been little trouble, father, had I but come sooner; I think I should have sent this giant to hell with my fist if I had met him first.”
+			Magni and his brother, Mothi, inherit Thor's hammer.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original_prelude>
+			Ferjukarlinn kvaþ:
+		</original_prelude>
+		<original>
+			“Hārbarþr ek heiti,<sep />hylk of nafn sjaldan.”
+		</original>
+		<translation_prelude>
+			The ferryman spake:
+		</translation_prelude>
+		<translation>
+			“Harbarth am I,<sep />and seldom I hide my name.”
+		</translation>
+	</block>
+	<block class="stanza" number="11">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Hvat skaltu of nafn hylja,<sep />nema þū sakar eigir?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Why shouldst thou hide thy name,<sep />if quarrel thou hast not?”
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“En þōt ek sakar eiga,<sep />fyr slīkum sem þū est<br />
+			munk forþa þō<sep />fjǫrvi mīnu,<br />
+			nema ek feigr sē.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“And though I had a quarrel,<sep />from such as thou art<br />
+			Yet none the less<sep />my life would I guard,<br />
+			Unless I be doomed to die.”
+		</translation>
+		<comment>
+			This stanza is hopelessly confused as to form, but none of the editorial rearrangements have materially altered the meaning.
+			<expl>Doomed to die</expl>: the word “feigr” occurs constantly in the Old Norse poems and sagas; the idea of an inevitable but unknown fate seems to have been practically universal through out the pre-Christian period.
+			On the concealment of names from enemies, cf. <chapterref>Fafnismol</chapterref>, <proseref chapter="Fafnismol" label="prose1">prose</proseref> after stanza <stanzaref chapter="Fafnismol">1</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Harm ljōtan<sep /><conj>hykk</conj> mēr ī þvī <conj>vesa</conj>,<br />
+			at vaþa of vāginn til þīn<sep />ok vǣta ǫgur minn;<br />
+			skyldak launa kǫgursveini þīnum<sep />kanginyrþi,<br />
+			ef ek komumk of sundit.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Great trouble, methinks,<sep />would it be to come to thee,<br />
+			To wade the waters across,<sep />and wet my middle;<br />
+			Weakling, well shall I pay<sep />thy mocking words,<br />
+			if across the sound I come.”
+		</translation>
+		<comment>
+			This stanza, like the preceding one, is peculiarly chaotic in the manuscript, and has been variously emended.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Hēr munk standa<sep />ok þīn heþan bīþa;<br />
+			fanntattu mann enn harþara<sep />at Hrungni dauþan.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Here shall I stand<sep />and await thee here;<br />
+			Thou hast found since Hrungnir died<sep />no fiercer man.”
+		</translation>
+		<comment>
+			<expl>Hrungnir</expl>: this giant rashly wagered his head that his horse, Gullfaxi, was swifter than Othin's Sleipnir.
+			In the race, which Hrungnir lost, he managed to dash uninvited into the home of the gods, where he became very drunk.
+			Thor ejected him, and accepted his challenge to a duel.
+			Hrungnir, terrified, had a helper made for him in the form of a dummy giant nine miles high and three miles broad.
+			Hrungnir himself had a three-horned heart of stone and a head of stone; his shield was of stone and his weapon was a grindstone.
+			But Thjalfi, Thor's servant, told him the god would attack him out of the ground, wherefore Hrungnir laid down his shield and stood on it.
+			The hammer Mjollnir shattered both the grindstone and Hrungnir's head, but part of the grindstone knocked Thor down, and the giant fell with his foot on Thor's neck (cf. note on stanza <stanzaref chapter="Harbarthsljoth">9</stanzaref>).
+			Meanwhile Thjalfi dispatched the dummy giant without trouble.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Hins vildu nū geta,<sep />es vit Hrungnir deildum,<br />
+			sā enn stōrūþgi jǫtunn,<sep />es ōr steini vas hǫfuþit ā;<br />
+			þō lētk hann falla<sep />ok fyrir hnīga.<br />
+			Hvat vanntu þā meþan, Hārbarþr?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Fain art thou to tell<sep />how with Hrungnir I fought,<br />
+			The haughty giant,<sep />whose head of stone was made;<br />
+			And yet I felled him,<sep />and stretched him before me.<br />
+			What, Harbarth, didst thou the while?”
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Vask meþ Fjǫlvari<sep />fimm vetr alla<br />
+			ī eyju þeiri<sep />es Algrø̄n heitir;<br />
+			vega vēr þar knǭttum<sep />ok val fella,<br />
+			margs at freista,<sep />mans at kosta.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Five full winters<sep />with Fjolvar was I,<br />
+			And dwelt in the isle<sep />that is Algrön called;<br />
+			There could we fight,<sep />and fell the slain,<br />
+			Much could we seek,<sep />and maids could master.”
+		</translation>
+		<comment>
+			<expl>Fjolvar</expl>: not elsewhere mentioned in the poems; perhaps the father of the “seven sisters” referred to in stanza <stanzaref chapter="Harbarthsljoth">18</stanzaref>.
+			<expl>Algrön</expl>: “The All-Green”: not mentioned elsewhere in the Edda.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Hversu snūnuþu yþr konur yþrar?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“How won ye success with your women?”
+		</translation>
+		<comment>
+			Thor is always eager for stories of this sort; cf. stanzas <stanzaref chapter="Harbarthsljoth">31</stanzaref> and <stanzaref chapter="Harbarthsljoth">33</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Sparkar ǭttum vēr konur,<sep />ef oss at spǫkum yrþi;<br />
+			horskar ǭttum vēr konur,<sep />ef oss hollar vǣri:<br />
+			þǣr ōr sandi<sep />sīma undu<br />
+			ok grund ōr dali<sep />djūpum grōfu.<br />
+			Varþk þeim einn ǫllum<sep />øfri at rǭþum,<br />
+			hvīldak hjā<sep />þeim systrum sjau<br />
+			ok hafþak geþ<sep />þeira allt ok gaman.<br />
+			Hvat vanntu þā meþan, Þōrr?”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Lively women we had,<sep />if they wise for us were;<br />
+			Wise were the women we had,<sep />if they kind for us were;<br />
+			For ropes of sand<sep />they would seek to wind,<br />
+			And the bottom to dig<sep />from the deepest dale.<br />
+			Wiser than all<sep />in counsel I was,<br />
+			And there I slept<sep />by the sisters seven,<br />
+			And joy full great<sep />did I get from each.<br />
+			What, Thor, didst thou the while?”
+		</translation>
+	</block>
+	<block class="stanza" number="19">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek drap Þjaza,<sep />enn þrūþmōþga jǫtun,<br />
+			upp ek varp augum<sep />Alvalda sunar<br />
+			ā þann enn heiþa himin;<br />
+			þau eru merki mest<sep />minna verka,<br />
+			þaus allir menn sīþan of sē.<br />
+			Hvat vanntu meþan, Hārbarþr?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Thjazi I felled,<sep />the giant fierce,<br />
+			And I hurled the eyes<sep />of Alvaldi's son<br />
+			To the heavens hot above;<br />
+			Of my deeds the mightiest<sep />marks are these,<br />
+			That all men since can see.<br />
+			What, Harbarth, didst thou the while?”
+		</translation>
+		<comment>
+			<expl>Thjazi</expl>: this giant, by a trick, secured possession of the goddess Ithun and her apples (cf. <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">19</stanzaref>, note), and carried her off into Jotunheim.
+			Loki, through whose fault she had been betrayed, was sent after her by the gods.
+			He went in Freyja's “hawk's-dress” (cf. <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">3</stanzaref>), turned Ithun into a nut, and flew back with her.
+			Thjazi, in the shape of an eagle, gave chase.
+			But the gods kindled a fire which burnt the eagle's wings, and then they killed him.
+			Snorri's prose version does not attribute this feat particularly to Thor.
+			Thjazi's daughter was Skathi, whom the gods permitted to marry Njorth as a recompense for her father's death.
+			<expl>Alvaldi</expl>: of him we know only that he was the father of Thjazi, Ithi and Gang, who divided his wealth, each taking a mouthful of gold.
+			The name is variously spelled.
+			It is not known which stars were called “Thjazi's Eyes.” In the middle of line 4 begins the fragmentary version of the poem found in the <source>Arnamagnæan Codex</source>.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Miklar manvēlar<sep />ek hafþa viþ myrkriþur,<br />
+			þās ek vēlta þǣr frā verum;<br />
+			harþan jǫtun<sep />hugþak Hlēbarþ vesa:<br />
+			gaf hann mēr gambantein,<br />
+			en ek vēlta hann ōr viti.”
+		</original>
+		<translation_prelude>
+			Harbarth spoke:
+		</translation_prelude>
+		<translation>
+			“Much love-craft I wrought<sep />with them who ride by night,<br />
+			When I stole them by stealth from their husbands;<br />
+			A giant hard<sep />was Hlebarth, methinks:<br />
+			His wand he gave me as gift,<br />
+			And I stole his wits away.”
+		</translation>
+		<comment>
+			<expl>Riders by night</expl>: witches, who were supposed to ride on wolves in the dark.
+			Nothing further is known of this adventure.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Illum huga launaþir þū þā gōþar gjafar.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Thou didst repay good gifts with evil mind.”
+		</translation>
+	</block>
+	<block class="stanza" number="22">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Þat hefr eik<sep />es af annarri skefr:<br />
+			of sik es hverr ī slīku.<br />
+			Hvat vanntu meþan, Þōrr?”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“The oak must have<sep />what it shaves from another;<br />
+			In such things each for himself.<br />
+			What, Thor, didst thou the while?”
+		</translation>
+		<comment>
+			<expl>The oak, etc.</expl>: this proverb is found elsewhere (e.g., <emph>Grettissaga</emph>) in approximately the same words.
+			Its force is much like our “to the victor belong the spoils.”
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek vas austr<sep />ok jǫtna barþak<br />
+			brūþir bǫlvīsar<sep />es til bjargs gengu:<br />
+			mikil mundi ǣtt jǫtna,<sep />ef allir lifþi,<br />
+			vǣtr mundi manna<sep />und miþgarþi.<br />
+			Hvat vanntu meþan, Hārbarþr?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Eastward I fared,<sep />of the giants I felled<br />
+			Their ill-working women<sep />who went to the mountain;<br />
+			And large were the giants' throng<sep />if all were alive;<br />
+			No men would there be<sep />in Mithgarth more.<br />
+			What, Harbarth, didst thou the while?”
+		</translation>
+		<comment>
+			Thor killed no women of the giants' race on the “journey to the East” so fully described by Snorri, his great giant-killing adventure being the one narrated in the <chapterref>Thrymskvitha</chapterref>.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Vask ā Vallandi<sep />ok vīgum fylgþak,<br />
+			attak jǫfrum,<sep />en aldri sǣttak.<br />
+			Ōþinn ā jarla<sep />þās ī val falla,<br />
+			en Þōrr ā þrǣla kyn.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“In Valland I was,<sep />and wars I raised,<br />
+			Princes I angered,<sep />and peace brought never;<br />
+			The noble who fall<sep />in the fight hath Othin,<br />
+			And Thor hath the race of the thralls.”
+		</translation>
+		<comment>
+			<expl>Valland</expl>: this mythical place (“Land of Slaughter”) is elsewhere mentioned, but not further characterised; cf. prose introduction to <chapterref>Völundarkvitha</chapterref>, and <chapterref>Helreith Brynhildar</chapterref>, <stanzaref chapter="Helreith Brynhildar">2</stanzaref>.
+			On the bringing of slain heroes to Othin, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref> and note, and, for a somewhat different version, <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">14</stanzaref>.
+			Nowhere else is it indicated that Thor has an asylum for dead peasants.
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Ōjafnt skipta<sep />es þū mundir meþ ǭsum liþi,<br />
+			ef þū ǣttir vilgi mikils vald.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Unequal gifts<sep />of men wouldst thou give to the gods,<br />
+			If might too much thou shouldst have.”
+		</translation>
+	</block>
+	<block class="stanza" number="26">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Þōrr ā afl ø̄rit,<sep />en etki hjarta:<br />
+			af hrǣzlu ok hugbleyþi<sep />vas þēr ī hanzka troþit<br />
+			[ok þōttiska þū þā Þōrr vesa;]<br />
+			hvārki þū þā þorþir<sep />fyr hrǣzlu þinni<br />
+			fīsa nē hnjōsa,<sep />svāt Fjalarr heyrþi.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Thor has might enough,<sep />but never a heart;<br />
+			For cowardly fear<sep />in a glove wast thou fain to crawl,<br />
+			And there forgot thou wast Thor;<br />
+			Afraid there thou wast,<sep />thy fear was such,<br />
+			To fart or sneeze<sep />lest Fjalar should hear.”
+		</translation>
+		<comment>
+			The reference here is to one of the most familiar episodes in Thor's eastward journey.
+			He and his companions came to a house in the forest, and went in to spend the night.
+			Being disturbed by an earthquake and a terrific noise, they all crawled into a smaller room opening from the main one.
+			In the morning, however, they discovered that the earthquake had been occasioned by the giant Skrymir's lying down near them, and the noise by his snoring.
+			The house in which they had taken refuge was his glove, the smaller room being the thumb.
+			Skrymir was in fact Utgartha-Loki himself.
+			That he is in this stanza called Fjalar (the name occurs also in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">14</stanzaref>) is probably due to a confusion of the names by which Utgartha-Loki went.
+			Loki taunts Thor with this adventure in <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">60</stanzaref> and <stanzaref chapter="Lokasenna">62</stanzaref>, line 3 of this stanza being perhaps interpolated from <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">60</stanzaref>, 4.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Hārbarþr enn ragi!<sep />ek munda þik ī hel drepa,<br />
+			ef ek mǣtta seilask of sund.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Thou womanish Harbarth,<sep />to hell would I smite thee straight,<br />
+			Could mine arm reach over the sound.”
+		</translation>
+	</block>
+	<block class="stanza" number="28">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Hvat skyldir þū of sund seilask,<sep />es sakar'u alls øngvar?<br />
+			Hvat vanntu þā, Þōrr?”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Wherefore reach over the sound,<sep />since strife we have none?<br />
+			What, Thor, didst thou do then?”
+		</translation>
+	</block>
+	<block class="stanza" number="29">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek vas austr<sep />ok ǭna varþak,<br />
+			þās mik sōttu<sep />þeir Svārangs synir;<br />
+			grjōti þeir mik bǫrþu,<sep />gagni urþu þeir þō lītt fegnir,<br />
+			urþu þeir mik fyrri<sep />friþar at biþja.<br />
+			Hvat vanntu þā meþan, Hārbarþr?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Eastward I was,<sep />and the river I guarded well,<br />
+			Where the sons of Svarang<sep />sought me there;<br />
+			Stones did they hurl;<sep />small joy did they have of winning;<br />
+			Before me there<sep />to ask for peace did they fare.<br />
+			What, Harbarth, didst thou the while?”
+		</translation>
+		<comment>
+			<expl>The river</expl>: probably Ifing, which flows between the land of the gods and that of the giants; cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">16</stanzaref>.
+			<expl>Sons of Svarang</expl>: presumably the giants; Svarang is not else where mentioned in the poems, nor is there any other account of Thor's defense of the passage.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek vas austr<sep />ok viþ einhverja dø̄mþak,<br />
+			lēk ek viþ ena līnhvītu<sep />ok launþing hāþak,<br />
+			gladdak ena gollbjǫrtu,<sep />gamni mǣr unþi.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Eastward I was,<sep />and spake with a certain one,<br />
+			I played with the linen-white maid,<sep />and met her by stealth;<br />
+			I gladdened the gold-decked one,<sep />and she granted me joy.”
+		</translation>
+		<comment>
+			Othin's adventures of this sort were too numerous to make it possible to identify this particular person.
+			<expl>By stealth</expl>: so the <source>Arnamagnæan Codex</source>; <source>Regius</source>, followed by several editors, has “long meeting with her.”
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Gōþ ǭttuþ ēr mankynni þar þā.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Full fair was thy woman-finding.”
+		</translation>
+	</block>
+	<block class="stanza" number="32">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Liþs þīns vǣrak þā þurfi, Þōrr!<sep />at ek helda þeiri enni līnhvītu mey.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Thy help did I need then, Thor,<sep />to hold the white maid fast.”
+		</translation>
+	</block>
+	<block class="stanza" number="33">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek munda þēr þā þat veita,<sep />ef ek viþr of kvǣmumk.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Gladly, had I been there,<sep />my help to thee had been given.”
+		</translation>
+	</block>
+	<block class="stanza" number="34">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek munda þēr þā trua,<sep />nema þū mik ī trygþ vēltir.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“I might have trusted thee then,<sep />didst thou not betray thy troth.”
+		</translation>
+	</block>
+	<block class="stanza" number="35">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Emkat ek sā hǣlbītr<sep />sem hūþskōr forn ā vār.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“No heel-biter am I, in truth,<sep />like an old leather shoe in spring.”
+		</translation>
+		<comment>
+			<expl>Heel-biter</expl>: this effective parallel to our “back-biter” is not found elsewhere in Old Norse.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Hvat vanntu meþan, Þōrr?”
+		</original>
+		<translation_prelude>
+			Harbarth spoke:
+		</translation_prelude>
+		<translation>
+			“What, Thor, didst thou the while?”
+		</translation>
+	</block>
+	<block class="stanza" number="37">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Brūþir berserkja<sep />barþak ī Hlēseyju,<br />
+			þǣr hǫfþu verst unnit,<sep />vilta þjōþ alla.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“In Hlesey the brides<sep />of the Berserkers slew I;<br />
+			Most evil they were,<sep />and all they betrayed.”
+		</translation>
+		<comment>
+			<expl>Hlesey</expl>: “the Island of the Sea-God” (Hler = Ægir), identified with the Danish island Läsö, in the Kattegat.
+			It appears again, much out of place, in <chapterref>Oddrunargratr</chapterref>, <stanzaref chapter="Oddrunargratr">28</stanzaref>.
+			<expl>Berserkers</expl>: originally men who could turn themselves into bears, hence the name, “bear-shirts”; cf. the werewolf or loupgarou.
+			Later the name was applied to men who at times became seized with a madness for bloodshed; cf. <chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">23</stanzaref> and note.
+			The women here mentioned are obviously of the earlier type.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Klǣki vanntu þā, Þōrr!<sep />es þū ā konum barþir.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Shame didst thou win,<sep />that women thou slewest, Thor.”
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Vargynjur vǭru þǣr,<sep />en varla konur;<br />
+			skeldu skip mitt<sep />es ek skorþat hafþak;<br />
+			ø̄gþu mēr ïarnlurki,<sep />en eltu Þjalfa.<br />
+			Hvat vanntu meþan, Hārbarþr?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“She-wolves they were like,<sep />and women but little;<br />
+			My ship, which well<sep />I had trimmed, did they shake;<br />
+			With clubs of iron they threatened,<sep />and Thjalfi they drove off.<br />
+			What, Harbarth, didst thou the while?”
+		</translation>
+		<comment>
+			<expl>Thjalfi</expl>: Thor's servant; cf. note on stanza <stanzaref chapter="Harbarthsljoth">14</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Ek vask ī hernum<sep />es hingat gørþisk<br />
+			gnǣfa gunnfana,<sep />geir at rjōþa.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“In the host I was<sep />that hither fared,<br />
+			The banners to raise,<sep />and the spear to redden.”
+		</translation>
+		<comment>
+			To what expedition this refers is unknown, but apparently Othin speaks of himself as allied to the foes of the gods.
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Þess vildu nū geta,<sep />es þū fōrt oss ōljūfan at bjōþa.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Wilt thou now say<sep />that hatred thou soughtest to bring us?”
+		</translation>
+		<comment>
+			<expl>Hatred</expl>: so <source>Regius</source>; the other manuscript has, apparently, “sickness.”
+		</comment>
+	</block>
+	<block class="stanza" number="42">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Bø̄ta skal þēr þat þā<sep />baugi mundar,<br />
+			sem jafnendr unnu<sep />þeirs okkr vilja sǣtta.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“A ring for thy hand<sep />shall make all right for thee,<br />
+			As the judge decides<sep />who sets us two at peace.”
+		</translation>
+		<comment>
+			Just what Othin means, or why his words should so have enraged Thor, is not evident, though he may imply that Thor is open to bribery.
+			Perhaps a passage has dropped out before stanza <stanzaref chapter="Harbarthsljoth">43</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Hvar namtu<sep />þessi en hnø̄filigu orþ,<br />
+			es ek heyrþa aldri<sep />in hnø̄filigri?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Where foundest thou<sep />so foul and scornful a speech?<br />
+			More foul a speech<sep />I never before have heard.”
+		</translation>
+	</block>
+	<block class="stanza" number="44">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Nam ek at mǫnnum<sep />þeim enum aldrø̄num<br />
+			es bua ī heimis haugum.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“I learned it from men,<sep />the men so old,<br />
+			Who dwell in the hills of home.”
+		</translation>
+		<comment>
+			Othin refers to the dead, from whom he seeks information through his magic power.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Þā gefr þū<sep />gott nafn dysjum,<br />
+			es þū kallar þǣr heimis hauga.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“A name full good<sep />to heaps of stones thou givest<br />
+			When thou callest them hills of home.”
+		</translation>
+	</block>
+	<block class="stanza" number="46">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Svā dø̄mi ek slīkt far.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Of such things speak I so.”
+		</translation>
+	</block>
+	<block class="stanza" number="47">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Orþkringi þīn<sep />mun þēr illa koma,<br />
+			ef ek ræþ ā vāg at vaþa;<br />
+			ulfi hǣra<sep />hykk þik ø̄pa munu,<br />
+			ef þū hlȳtr af hamri hǫgg.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Ill for thee comes<sep />thy keenness of tongue,<br />
+			If the water I choose to wade;<br />
+			Louder, I ween,<sep />than a wolf thou cryest,<br />
+			If a blow of my hammer thou hast.”
+		</translation>
+	</block>
+	<block class="stanza" number="48">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Sif ā hōr heima,<sep />hans mundu fund vilja,<br />
+			þann mundu þrek drȳgja,<sep />þat es þēr skyldara.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Sif has a lover at home,<sep />and him shouldst thou meet;<br />
+			More fitting it were<sep />on him to put forth thy strength.”
+		</translation>
+		<comment>
+			<expl>Sif</expl>: Thor's wife, the lover being presumably Loki; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">54</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="49">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Mǣlir þū at munns rāþi,<sep />svāt mēr skyldi verst þykkja,<br />
+			halr enn hugblauþi!<sep />hykk at þū ljūgir.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Thy tongue still makes thee say<sep />what seems most ill to me,<br />
+			Thou witless man!<sep />Thou liest, I ween.”
+		</translation>
+	</block>
+	<block class="stanza" number="50">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Satt hykk mik segja;<sep />seinn estu at fǫr þinni;<br />
+			langt mundir þū nū kominn, Þōrr!<sep />ef þū liþ of fø̄rir.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Truth do I speak,<sep />but slow on thy way thou art;<br />
+			Far hadst thou gone<sep />if now in the boat thou hadst fared.”
+		</translation>
+	</block>
+	<block class="stanza" number="51">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Hārbarþr enn ragi!<sep />heldr hefr þū nū mik dvalþan.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Thou womanish Harbarth!<sep />here hast thou held me too long.”
+		</translation>
+	</block>
+	<block class="stanza" number="52">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Āsaþōri<sep />hugþak aldri mundu<br />
+			glepja farhirþi farar.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“I thought not ever<sep />that Asathor would be hindered<br />
+			By a ferryman thus from faring.”
+		</translation>
+		<comment>
+			<expl>Asathor</expl>: Thor goes by various names in the poems: e.g., Vingthor, Vingnir, Hlorrithi.
+			Asathor means “Thor of the Gods.”
+		</comment>
+	</block>
+	<block class="stanza" number="53">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Rāþ munk þēr nū rāþa:<sep />rō þū hingat bātinum;<br />
+			hǣttum hø̄tingi,<sep />hittu fǫþur Magna!”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“One counsel I bring thee now:<sep />row hither thy boat;<br />
+			No more of scoffing;<sep />set Magni's father across.”
+		</translation>
+		<comment>
+			<expl>Magni</expl>: Thor's son; cf. stanza <stanzaref chapter="Harbarthsljoth">9</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="54">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Farþu firr sundi!<sep />þēr skal fars synja.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“From the sound go hence;<sep />the passage thou hast not.”
+		</translation>
+	</block>
+	<block class="stanza" number="55">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Vīsa þū mēr nū leiþina,<sep />alls þū vill mik eigi of vāginn ferja!”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“The way now show me,<sep />since thou takest me not o'er the water.”
+		</translation>
+	</block>
+	<block class="stanza" number="56">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Lītit es at synja,<sep />langt es at fara:<br />
+			stund es til stokksins,<sep />ǫnnur til steinsins,<br />
+			haltu svā til vinstra vegsins,<sep />unz þū hittir Verland.<br />
+			Þar mun Fjǫrgyn<sep />hitta Þōr sun sinn<br />
+			ok mun hōn kenna hǭnum ǭttunga brautir<sep />til Ōþins landa.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“To refuse it is little,<sep />to fare it is long;<br />
+			A while to the stock,<sep />and a while to the stone;<br />
+			Then the road to thy left,<sep />till Verland thou reachest;<br />
+			And there shall Fjorgyn<sep />her son Thor find,<br />
+			And the road of her children<sep />she shows him to Othin's realm.”
+		</translation>
+		<comment>
+			<expl>Line 2</expl>: the phrases mean simply “a long way”; cf. “over stock and stone.”
+			<expl>Verland</expl>: the “Land of Men” to which Thor must come from the land of the giants.
+			The <source>Arnamagnæan Codex</source> has “Valland” (cf. stanza <stanzaref chapter="Harbarthsljoth">24</stanzaref> and note), but this is obviously an error.
+			<expl>Fjorgyn</expl>: a feminine form of the same name, which belongs to Othin (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">56</stanzaref> and note); here it evidently means Jorth (Earth), Thor's mother.
+			<expl>The road</expl>: the rainbow bridge, Bifrost; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">29</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="57">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Mun ek taka þangat ī dag?”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“May I come so far in a day?”
+		</translation>
+	</block>
+	<block class="stanza" number="58">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Taka viþ vīl ok erfiþi<br />
+			at uppvesandi sōlu,<sep />es ek get þāna.”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“With toil and trouble perchance,<br />
+			While the sun still shines,<sep />or so I think.”
+		</translation>
+		<comment>
+			<expl>Line 2</expl>: so <source>Regius</source>; the other manuscript has “ere sunrise.”
+		</comment>
+	</block>
+	<block class="stanza" number="59">
+		<original_prelude>
+			Þōrr kvaþ:
+		</original_prelude>
+		<original>
+			“Skamt mun nū māl okkat,<sep />alls þū mēr skø̄tingu einni svarar;<br />
+			launa munk þēr farsynjun,<sep />ef vit finnumsk ī sinn annat.”
+		</original>
+		<translation_prelude>
+			Thor spake:
+		</translation_prelude>
+		<translation>
+			“Short now shall be our speech,<sep />for thou speakest in mockery only;<br />
+			The passage thou gavest me not<sep />I shall pay thee if ever we meet.”
+		</translation>
+	</block>
+	<block class="stanza" number="60">
+		<original_prelude>
+			Hārbarþr kvaþ:
+		</original_prelude>
+		<original>
+			“Farþu nū þars þik hafi allan gramir!”
+		</original>
+		<translation_prelude>
+			Harbarth spake:
+		</translation_prelude>
+		<translation>
+			“Get hence where every evil thing shall have thee!”
+		</translation>
+		<comment>
+			The <source>Arnamagnæan Codex</source> clearly indicates Harbarth as the speaker of this line, but <source>Regius</source> has no superscription, and begins the line with a small letter not preceded by a period, thereby assigning it to Thor.
+		</comment>
+	</block>
+</chapter>
