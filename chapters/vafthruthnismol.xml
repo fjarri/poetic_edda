@@ -619,17 +619,23 @@
 		<comment>
 			Neither the Regius nor the <source>Arnamagnæan Codex</source> indicates a lacuna.
 			Most editors have filled out the stanza with two lines from late paper manuscripts:
-			<textstanza>
+			<textstanza class="translation">
 				And both of these<sep />shall ever be,<br />
 				Till the gods to destruction go.
 			</textstanza>
+			<textstanza class="original">
+				(ār of bǣþi þau<sep />skulu ey fara<br />
+				unz rjūfask regin;)
+			</textstanza>
 			Bugge ingeniously paraphrases Snorri's prose:
-			
-			<textstanza>
+			<textstanza class="translation">
 				Vindsval's father<sep />was Vosuth called,<br />
 				And rough is all his race.
 			</textstanza>
-			
+			<textstanza class="original">
+				(Vindsvals faþir<sep />vas Vǭsuþr of heitinn<br />
+				ǫll es sū ǣtt til ǫtul;)
+			</textstanza>
 			<expl>Vindsval</expl>: “the Wind-Cold,” also called Vindljoni, “the Wind-Man.”
 			<expl>Svosuth</expl>: “the Gentle.”
 		</comment>
@@ -678,7 +684,7 @@
 		</translation>
 		<comment>
 			<expl>Bergelmir</expl>: when the gods slew Ymir in order to make the world out of his body, so much blood flowed from him that all the frost-giants were drowned except Bergelmir and his wife, who escaped in a boat; cf. stanza <stanzaref chapter="Vafthruthnismol">35</stanzaref>.
-			Of <emph>Thruthgelmir</emph> (“the Mightily Burning”) we know nothing, but Aurgelmir was the frost-giants' name for Ymir himself.
+			Of <expl>Thruthgelmir</expl> (“the Mightily Burning”) we know nothing, but Aurgelmir was the frost-giants' name for Ymir himself.
 			Thus Ymir was the first of the giants, and so Othin's question is answered.
 		</comment>
 	</block>
@@ -931,7 +937,7 @@
 			“Eleventh answer me well, what men in the home mightily battle each day? They fell each other, and fare from the fight all healed full soon to sit.”
 			Luckily Snorri quotes stanza <stanzaref chapter="Vafthruthnismol">41</stanzaref> in full, and the translation is from his version.
 			Stanza <stanzaref chapter="Vafthruthnismol">40</stanzaref> should probably run something like this:
-			<textstanza>
+			<textstanza class="translation">
 				Eleventh answer me well,<sep />if thou knowest all<br />
 				The fate that is fixed for the gods:<br />
 				What men are they<sep />who in Othin's home<br />
@@ -1057,7 +1063,7 @@
 			Snorri quotes this stanza.
 			<expl>Hoddmimir's wood</expl>: probably this is the ash-tree Yggdrasil, which is sometimes referred to as “Mimir's Tree,” because Mimir waters it from his well; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref> and note, and <chapterref>Svipdagsmol</chapterref>, <stanzaref chapter="Svipdagsmol">30</stanzaref> and note.
 			Hoddmimir is presumably another name for Mimir.
-			<expl>Lif</expl> (“Life”) and <emph>Lifthrasir</emph> (“Sturdy of Life”?): nothing further is known of this pair, from whom the new race of men is to spring.
+			<expl>Lif</expl> (“Life”) and <expl>Lifthrasir</expl> (“Sturdy of Life”?): nothing further is known of this pair, from whom the new race of men is to spring.
 		</comment>
 	</block>
 	<block class="stanza" number="46">
@@ -1269,12 +1275,15 @@
 		<comment>
 			<expl>His son</expl>: Baldr.
 			Bugge changes lines 3–4 to run:
-			<textstanza>
+			<textstanza class="translation">
 				What did Othin speak<sep />in the ear of Baldr,<br />
 				When to the bale-fire they bore him?
 			</textstanza>
-			For Baldr's death cf. 
-			<chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and note.
+			<textstanza class="original">
+				(i` eyra Baldri<br />
+				a`þr [hann] vas a` ba`l of borinn?)
+			</textstanza>
+			For Baldr's death cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and note.
 			The question is, of course, unanswerable save by Othin himself, and so the giant at last recognizes his guest.
 		</comment>
 	</block>
