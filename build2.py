@@ -364,9 +364,6 @@ if __name__ == '__main__':
 		if ext != '.xml':
 			continue
 
-		if filename == 'pronounciation.xml':
-			continue
-
 		print "Processing: " + str(filename)
 
 		f = open("chapters/" + filename)
