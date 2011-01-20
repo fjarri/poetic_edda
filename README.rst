@@ -153,6 +153,8 @@ Thrymskvitha (planned)
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
 * Refactor scripts
+* Check Voluspo for typos (I wasn't yet following current procedure,
+  so there may be some)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
