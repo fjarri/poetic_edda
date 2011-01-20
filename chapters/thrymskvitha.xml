@@ -1,0 +1,601 @@
+<chapter english_name="Thrymskvitha" icelandic_name="Þrymskviþa" translation="The Lay of Thrym">
+	<block class="text">
+		The <cr>Thrymskvitha</cr> is found only in the <src>Codex Regius</src>, where it follows the <cr>Lokasenna</cr>.
+		Snorri does not quote from it, nor, rather oddly, does the story occur in the <src>Prose Edda</src>.
+	</block>
+	<block class="text">
+		Artistically the <cr>Thrymskvitha</cr> is one of the best, as it is, next to the <cr>Voluspo</cr>, the most famous, of the entire collection.
+		It has, indeed, been called ``the finest ballad in the world,'' and not without some reason.
+		Its swift, vigorous action, the sharpness of its characterization and the humor of the central situation combine to make it one of the most vivid short narrative poems ever composed.
+		Of course we know nothing specific of its author, but there can be no question that he was a poet of extraordinary ability.
+		The poem assumed its present form, most critics agree, somewhere about 900, and thus it is one of the oldest in the collection.
+		It has been suggested, on the basis of stylistic similarity, that its author may also have composed the <cr>Skirnismol</cr>, and possibly <cr>Baldrs Draumar</cr>.
+		There is also some resemblance between the <cr>Thrymskvitha</cr> and the <cr>Lokasenna</cr> (note, in this connection, Bugge's suggestion that the <cr>Skirnismol</cr> and the <cr>Lokasenna</cr> may have been by the same man), and it is not impossible that all four poems have a single authorship.
+	</block>
+	<block class="text">
+		The <cr>Thrymskvitha</cr> has been preserved in excellent condition, without any serious gaps or interpolations.
+		In striking contrast to many of the poems, it contains no prose narrative links, the story being told in narrative verse---a rare phenomenon in the poems of the Edda.
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Wild was Vingthor<sep />when he awoke,<br />
+			And when his mighty<sep />hammer he missed;<br />
+			He shook his beard,<sep />his hair was bristling,<br />
+			As the son of Jorth<sep />about him sought.
+		</translation>
+		<comment>
+			<expl>Vingthor</expl> (``Thor the Hurler''): another name for Thor, equivalent to Vingnir (<chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">51</stanzaref>).
+			Concerning Thor and his hammer, Mjollnir, cf. <chapterref>Hymiskvitha</chapterref>, <chapterref>Lokasenna</chapterref>, and <chapterref>Harbarthsljoth</chapterref>, <emph>passim</emph>.
+			<expl>Jorth</expl>: Earth, Thor's mother, Othin being his father.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hear now the speech<sep />that first he spake:<br />
+			``Harken, Loki,<sep />and heed my words,<br />
+			Nowhere on earth<sep />is it known to man,<br />
+			Nor in heaven above:<sep />our hammer is stolen.''
+		</translation>
+		<comment>
+			<expl>Loki</expl>: cf. <chapterref>Lokasenna</chapterref>, <emph>passim</emph>.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			To the dwelling fair<sep />of Freyja went they,<br />
+			Hear now the speech<sep />that first he spake:<br />
+			``Wilt thou, Freyja,<sep />thy feather-dress lend me,<br />
+			That so my hammer<sep />I may seek?''
+		</translation>
+		<comment>
+			<expl>Freyja</expl>: Njorth's daughter, and sister of Freyr; cf. <chapterref>Lokasenna</chapterref>, <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref> and note, also <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref>.
+			Freyja's house was Sessrymnir (``Rich in Seats'') built in Folkvang (``Field of the Folk''); cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">14</stanzaref>.
+			<expl>Feather-dress</expl>: this flying equipment of Freyja's is also used in the story of Thjazi, wherein Loki again borrows the ``hawk's dress'' of Freyja, this time to rescue Ithun; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">19</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original_prelude>
+			Freyja spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Thine should it be<sep />though of silver bright,<br />
+			And I would give it<sep />though 'twere of gold.''<br />
+			Then Loki flew,<sep />and the feather-dress whirred,<br />
+			Till he left behind him<sep />the home of the gods,<br />
+			And reached at last<sep />the realm of the giants.
+		</translation>
+		<comment>
+			The manuscript and most editions have lines 1--2 in inverse order.
+			Several editors assume a lacuna before line 1, making a stanza out of the two conjectural lines (Bugge actually supplies them) and lines 1--2 of stanza <sr>4</sr>.
+			Thus they either make a separate stanza out of lines 3--5 or unite them in a six-line stanza with <sr>5</sr>.
+			The manuscript punctuation and capitalization---not wholly trustworthy guides---indicate the stanza divisions as in this translation.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thrym sat on a mound,<sep />the giants' master,<br />
+			Leashes of gold<sep />he laid for his dogs,<br />
+			And stroked and smoothed<sep />the manes of his steeds.
+		</translation>
+		<comment>
+			<expl>Thrym</expl>: a frost-giant.
+			Gering declares that this story of the theft of Thor's hammer symbolizes the fact that thunderstorms rarely occur in winter.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+			Thrym spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``How fare the gods,<sep />how fare the elves?<br />
+			Why comst thou alone<sep />to the giants' land?''<br />
+			<stanzaprelude>Loki spake</stanzaprelude>:<br />
+			``Ill fare the gods,<sep />ill fare the elves!<br />
+			Hast thou hidden<sep />Hlorrithi's hammer?''
+		</translation>
+		<comment>
+			<expl>Line 1</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">48</stanzaref>, 1.
+			The manuscript does not indicate Loki as the speaker of lines 3--4.
+			<expl>Hlorrithi</expl>: Thor.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original_prelude>
+			Thrym spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``I have hidden<sep />Hlorrithi's hammer,<br />
+			Eight miles down<sep />deep in the earth;<br />
+			And back again<sep />shall no man bring it<br />
+			If Freyja I win not<sep />to be my wife.''
+		</translation>
+		<comment>
+			No superscription in the manuscript.
+			Vigfusson made up and inserted lines like ``Then spake Loki<sep />the son of Laufey'' whenever he thought they would be useful.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Loki flew,<sep />and the feather-dress whirred,<br />
+			Till he left behind him<sep />the home of the giants,<br />
+			And reached at last<sep />the realm of the gods.<br />
+			There in the courtyard<sep />Thor he met:<br />
+			Hear now the speech<sep />that first he spake:
+		</translation>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Hast thou found tidings<sep />as well as trouble?<br />
+			Thy news in the air<sep />shalt thou utter now;<br />
+			Oft doth the sitter<sep />his story forget,<br />
+			And lies he speaks<sep />who lays himself down.''
+		</translation>
+		<comment>
+			The manuscript marks line 2, instead of line 1, as the beginning of a stanza, which has caused editors some confusion in grouping the lines of stanzas <sr>8</sr> and <sr>9</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original_prelude>
+			Loki spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Trouble I have,<sep />and tidings as well:<br />
+			Thrym, king of the giants,<sep />keeps thy hammer,<br />
+			And back again<sep />shall no man bring it<br />
+			If Freyja he wins not<sep />to be his wife.''
+		</translation>
+		<comment>
+			No superscription in the manuscript.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Freyja the fair<sep />then went they to find<br />
+			Hear now the speech<sep />that first he spake:<br />
+			``Bind on, Freyja,<sep />the bridal veil,<br />
+			For we two must haste<sep />to the giants' home.''
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Wrathful was Freyja,<sep />and fiercely she snorted,<br />
+			And the dwelling great<sep />of the gods was shaken,<br />
+			And burst was the mighty<sep />Brisings' necklace:<br />
+			``Most lustful indeed<sep />should I look to all<br />
+			If I journeyed with thee<sep />to the giants' home.''
+		</translation>
+		<comment>
+			Many editors have rejected either line 2 or line 3.
+			Vigfusson inserts one of his own lines before line 4.
+			<expl>Brisings' necklace</expl>: a marvelous necklace fashioned by the dwarfs, here called Brisings (i.e., ``Twiners''); cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">20</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then were the gods<sep />together met,<br />
+			And the goddesses came<sep />and council held,<br />
+			And the far-famed ones<sep />a plan would find,<br />
+			How they might Hlorrithi's<sep />hammer win.
+		</translation>
+		<comment>
+			Lines 1--3 are identical with <chapterref>Baldrs Draumar</chapterref>, <stanzaref chapter="Baldrs Draumar">1</stanzaref>, 1--3.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Heimdall spake,<sep />whitest of the gods,<br />
+			Like the Wanes he knew<sep />the future well:<br />
+			"Bind we on Thor<sep />the bridal veil,<br />
+			Let him bear the mighty<sep />Brisings' necklace;
+		</translation>
+		<comment>
+			<expl>Heimdall</expl>: the phrase ``whitest of the gods'' suggests that Heimdall was the god of light as well as being the watchman.
+			His wisdom was probably connected with his sleepless watching over all the worlds; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">47</stanzaref> and note.
+			On the Wanes Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note.
+			They are not elsewhere spoken of as peculiarly gifted with knowledge of future events.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Keys around him<sep />let there rattle,<br />
+			And down to his knees<sep />hang woman's dress;<br />
+			With gems full broad<sep />upon his breast,<br />
+			And a pretty cap<sep />to crown his head.''
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Thor the mighty<sep />his answer made:<br />
+			``Me would the gods<sep />unmanly call<br />
+			If I let bind<sep />the bridal veil.''
+		</translation>
+		<comment>
+			Possibly a line has been lost from this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Loki spake,<sep />the son of Laufey:<br />
+			``Be silent, Thor,<sep />and speak not thus;<br />
+			Else will the giants<sep />in Asgarth dwell<br />
+			If thy hammer is brought not<sep />home to thee.''
+		</translation>
+		<comment>
+			<expl>Laufey</expl>: Loki's mother, cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">52</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then bound they on Thor<sep />the bridal veil,<br />
+			And next the mighty<sep />Brisings' necklace.
+		</translation>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Keys around him<sep />let they rattle,<br />
+			And down to his knees<sep />hung woman's dress;<br />
+			With gems full broad<sep />upon his breast,<br />
+			And a pretty cap<sep />to crown his head.
+		</translation>
+		<comment>
+			<sr>18</sr>--<sr>19</sr>.
+			The manuscript abbreviates all six lines, giving only the initial letters of the words.
+			The stanza division is thus arbitrary; some editors have made one stanza of the six lines, others have combined the last two lines of stanza <sr>19</sr> with stanza <sr>20</sr>.
+			It is possible that a couple of lines have been lost.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Loki spake,<sep />the son of Laufey:<br />
+			``As thy maid-servant thither<sep />I go with thee;<br />
+			We two shall haste<sep />to the giants' home.''
+		</translation>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then home the goats<sep />to the hall were driven,<br />
+			They wrenched at the halters,<sep />swift were they to run;<br />
+			The mountains burst,<sep />earth burned with fire,<br />
+			And Othin's son<sep />sought Jotunheim.
+		</translation>
+		<comment>
+			<expl>Goats</expl>: Thor's wagon was always drawn by goats; cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">38</stanzaref> and note.
+			<expl>Jotunheim</expl>: the world of the giants.
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then loud spake Thrym,<sep />the giants' leader:<br />
+			"Bestir ye, giants,<sep />put straw on the benches;<br />
+			Now Freyja they bring<sep />to be my bride,<br />
+			The daughter of Njorth<sep />out of Noatun.
+		</translation>
+		<comment>
+			<expl>Njorth</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref>, and <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">11</stanzaref> and 16.
+			<expl>Noatun</expl> (``Ships'-Haven''): Njorth's home, where his wife, Skathi, found it impossible to stay; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">11</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Gold-horned cattle<sep />go to my stables,<br />
+			Jet-black oxen,<sep />the giant's joy;<br />
+			Many my gems,<sep />and many my jewels,<br />
+			Freyja alone<sep />did I lack, methinks.''
+		</translation>
+	</block>
+	<block class="stanza" number="24">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Early it was<sep />to evening come,<br />
+			And forth was borne<sep />the beer for the giants;<br />
+			Thor alone ate an ox,<sep />and eight salmon,<br />
+			All the dainties as well<sep />that were set for the women;<br />
+			And drank Sif's mate<sep />three tuns of mead.
+		</translation>
+		<comment>
+			Grundtvig thinks this is all that is left of two stanzas describing Thor's supper.
+			Some editors reject line 4.
+			In line 3 the manuscript has ``he,'' the reference being, of course, to Thor, on whose appetite cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">15</stanzaref>.
+			<expl>Sif</expl>: Thor's wife; cf. <chapterref>Lokasenna</chapterref>, note to <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref> and stanza <stanzaref chapter="Lokasenna">53</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then loud spake Thrym,<sep />the giants' leader:<br />
+			``Who ever saw bride<sep />more keenly bite?<br />
+			I ne'er saw bride<sep />with a broader bite,<br />
+			Nor a maiden who drank<sep />more mead than this!''
+		</translation>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hard by there sat<sep />the serving-maid wise,<br />
+			So well she answered<sep />the giant's words:<br />
+			``From food has Freyja<sep />eight nights fasted,<br />
+			So hot was her longing<sep />for Jotunheim.''
+		</translation>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thrym looked 'neath the veil,<sep />for he longed to kiss,<br />
+			But back he leaped<sep />the length of the hall:<br />
+			``Why are so fearful<sep />the eyes of Freyja?<br />
+			Fire, methinks,<sep />from her eyes burns forth.''
+		</translation>
+		<comment>
+			For clearness I have inserted Thrym's name in place of the pronoun of the original.
+			<expl>Fire</expl>: the noun is lacking in the manuscript; most editors have inserted it, however, following a late paper manuscript.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hard by there sat<sep />the serving-maid wise,<br />
+			So well she answered<sep />the giant's words:<br />
+			``No sleep has Freyja<sep />for eight nights found,<br />
+			So hot was her longing<sep />for Jotunheim.''
+		</translation>
+		<comment>
+			In the manuscript the whole stanza is abbreviated to initial letters, except for ``sleep,'' ``Freyja,'' and ``found.''
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Soon came the giant's<sep />luckless sister,<br />
+			Who feared not to ask<sep />the bridal fee:<br />
+			``From thy hands the rings<sep />of red gold take,<br />
+			If thou wouldst win<sep />my willing love,<br />
+			(My willing love<sep />and welcome glad.)''
+		</translation>
+		<comment>
+			<expl>Luckless</expl>: so the manuscript, but many editors have altered the word ``arma'' to ``aldna,'' meaning ``old,'' to correspond with line 1 of stanza <sr>32</sr>.
+			Line 5 may well be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then loud spake Thrym,<sep />the giants' leader:<br />
+			``Bring in the hammer<sep />to hallow the bride;<br />
+			On the maiden's knees<sep />let Mjollnir lie,<br />
+			That us both the band<sep />of Vor may bless.''
+		</translation>
+		<comment>
+			<expl>Hallow</expl>: just what this means is not clear, but there are references to other kinds of consecration, though not of a bride, with the ``sign of the hammer.''
+			According to Vigfusson, ``the hammer was the holy sign with the heathens, answering to the cross of the Christians.''
+			In Snorri's story of Thor's resuscitation of his cooked goat (cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">38</stanzaref>, note) the god ``hallows'' the goat with his hammer.
+			One of the oldest runic signs, sup posed to have magic power, was named Thor's-hammer.
+			<expl>Vor</expl>: the goddess of vows, particularly between men and women; Snorri lists a number of little-known goddesses similar to Vor, all of them apparently little more than names for Frigg.
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The heart in the breast<sep />of Hlorrithi laughed<br />
+			When the hard-souled one<sep />his hammer beheld;<br />
+			First Thrym, the king<sep />of the giants, he killed,<br />
+			Then all the folk<sep />of the giants he felled.
+		</translation>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The giant's sister<sep />old he slew,<br />
+			She who had begged<sep />the bridal fee;<br />
+			A stroke she got<sep />in the shilling's stead,<br />
+			And for many rings<sep />the might of the hammer.
+		</translation>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			<sep />
+		</original>
+		<translation>
+			And so his hammer<sep />got Othin's son.
+		</translation>
+		<comment>
+			Some editors reject this line, which, from a dramatic stand point, is certainly a pity.
+			In the manuscript it begins with a capital letter, like the opening of a new stanza.
+		</comment>
+	</block>
+</chapter>
