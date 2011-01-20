@@ -18,10 +18,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vreiþr vas Vingþo`rr,<sep />es vaknaþi<br />
+			ok si`ns hamars<sep />of saknaþi;<br />
+			skegg nam hrista,<sep />sko~r nam dy`ja,<br />
+			re`þ Jarþar burr<sep />umb at þreifask.
 		</original>
 		<translation>
 			Wild was Vingthor<sep />when he awoke,<br />
@@ -37,10 +37,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Auk þat orþa<sep />alls fyrst of kvaþ:<br />
+			``Heyr nu`, Loki!<sep />hvat nu` ma_e`lik,<br />
+			es engi veit<sep />jarþar hvergi<br />
+			ne` upphimins:<sep />o~`ss's stolinn hamri!''
 		</original>
 		<translation>
 			Hear now the speech<sep />that first he spake:<br />
@@ -54,10 +54,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gengu fagra<sep />Freyju tu`na,<br />
+			auk þat orþa<sep />alls fyrst of kvaþ:<br />
+			``Munt me`r, Freyja!<sep />fjaþrhams lea,<br />
+			ef minn hamar<sep />ma_e`ttak hitta?''
 		</original>
 		<translation>
 			To the dwelling fair<sep />of Freyja went they,<br />
@@ -76,11 +76,11 @@
 			Freyja spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mundak selja,<sep />þo`t va_e`ri or silfri,<br />
+			ok þo` gefa,<sep />at or golli va_e`ri.''<br />
+			Flo` þa` Loki,<sep />fjaþrhamr dunþi,<br />
+			unz fyr u`tan kvam<sep />a`sa garþa<br />
+			ok fyr innan kvam<sep />jo~tna heima.
 		</original>
 		<translation_prelude>
 
@@ -101,9 +101,9 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þrymr sat a` haugi,<sep />þursa dro`ttinn,<br />
+			greyjum si`num<sep />gollbo~nd sno/ri<br />
+			ok mo~rum si`num<sep />mo~n jafnaþi.
 		</original>
 		<translation>
 			Thrym sat on a mound,<sep />the giants' master,<br />
@@ -120,14 +120,14 @@
 			Thrym spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Hvat's meþ o~`sum,<sep />hvat's meþ o~lfum?<br />
+			hvi`'st einn kominn<sep />i` jo~tunheima?''<br />
+			<stanzaprelude>Loki kvaþ:</stanzaprelude><br />
+			``Illt's meþ o~`sum,<sep />illt's meþ o~lfum!<br />
+			hefr Hlo`rriþa<sep />hamar of folginn?''
 		</original>
 		<translation_prelude>
-
+			Þrymr kvaþ:
 		</translation_prelude>
 		<translation>
 			``How fare the gods,<sep />how fare the elves?<br />
@@ -147,13 +147,13 @@
 			Thrym spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hefk Hlo`rriþa<sep />hamar of folginn<br />
+			a`tta ro~stum<sep />fyr jo~rþ neþan;<br />
+			hann engi maþr<sep />aptr of heimtir,<br />
+			nema fo/`ri me`r<sep />Freyju at kva_e`n.''
 		</original>
 		<translation_prelude>
-
+			Þrymr kvaþ:
 		</translation_prelude>
 		<translation>
 			``I have hidden<sep />Hlorrithi's hammer,<br />
@@ -168,11 +168,11 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Flo` þa` Loki,<sep />fjaþrhamr dunþi,<br />
+			unz fyr u`tan kvam<sep />jo~tna heima<br />
+			ok fyr innan kvam<sep />a`sa garþa;<br />
+			mo/`tti Þo`ri<sep />miþra garþa,<br />
+			auk þat orþa<sep />alls fyrst of kvaþ:
 		</original>
 		<translation>
 			Then Loki flew,<sep />and the feather-dress whirred,<br />
@@ -184,10 +184,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hefr eyrindi<sep />sem erfiþi?<br />
+			segþu a` lopti<sep />lo~ng ti`þindi!<br />
+			opt sitjanda<sep />so~gur of fallask<br />
+			ok liggjandi<sep />lygi of bellir.''
 		</original>
 		<translation>
 			``Hast thou found tidings<sep />as well as trouble?<br />
@@ -204,13 +204,13 @@
 			Loki spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hefk erfiþi<sep />ok eyrindi:<br />
+			Þrymr hefr hamar,<sep />þursa dro`ttinn;<br />
+			hann engi maþr<sep />aptr of heimtir,<br />
+			nema ho~num fo/`ri<sep />Freyju at kva_e`n.''
 		</original>
 		<translation_prelude>
-
+			Loki kvaþ:
 		</translation_prelude>
 		<translation>
 			``Trouble I have,<sep />and tidings as well:<br />
@@ -224,10 +224,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gengu fagra<sep />Freyju at hitta,<br />
+			auk þat orþa<sep />alls fyrst of kvaþ:<br />
+			``Bitt þik, Freyja!<sep />bru`þar li`ni,<br />
+			vit skulum aka tvau<sep />i` jo~tunheima.''
 		</original>
 		<translation>
 			Freyja the fair<sep />then went they to find<br />
@@ -238,11 +238,11 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vreiþ varþ Freyja<sep />ok fna`saþi,<br />
+			allr a`sa salr<sep />undir bifþisk,<br />
+			sto~kk þat et mikla<sep />men Bri`singa:<br />
+			``Mik veizt verþa<sep />vergjarnasta,<br />
+			ef ekk meþ þe`r<sep />i` jo~tunheima.''
 		</original>
 		<translation>
 			Wrathful was Freyja,<sep />and fiercely she snorted,<br />
@@ -259,10 +259,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Senn vo~ru a_e`sir<sep />allir a` þingi<br />
+			ok a`synjur<sep />allar a` ma`li,<br />
+			ok of þat re`þu<sep />ri`kir ti`var,<br />
+			hve` Hlo`rriþa<sep />hamar of so/`tti.
 		</original>
 		<translation>
 			Then were the gods<sep />together met,<br />
@@ -276,10 +276,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Heimdallr,<sep />hvi`tastr a`sa<br />
+			---vissi vel fram<sep />sem vanir aþrir---:<br />
+			``Bindum Þo`r þa`<sep />bru`þar li`ni,<br />
+			hafi et mikla<sep />men Bri`singa!
 		</original>
 		<translation>
 			Then Heimdall spake,<sep />whitest of the gods,<br />
@@ -296,13 +296,13 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Lo~`tum und ho~`num<sep />hrynja lukla<br />
+			ok kvennva`þir<sep />of kne` falla,<br />
+			en a` brjo`sti<sep />breiþa steina,<br />
+			ok hagliga<sep />of ho~fuþ typpum!''
 		</original>
 		<translation>
-			``Keys around him<sep />let there rattle,<br />
+			Keys around him<sep />let there rattle,<br />
 			And down to his knees<sep />hang woman's dress;<br />
 			With gems full broad<sep />upon his breast,<br />
 			And a pretty cap<sep />to crown his head.''
@@ -310,9 +310,9 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Þo`rr,<sep />þru`þugr o~`ss:<br />
+			``Mik munn a_e`sir<sep />argan kalla,<br />
+			ef bindask la_e`tk<sep />bru`þar li`ni.''
 		</original>
 		<translation>
 			Then Thor the mighty<sep />his answer made:<br />
@@ -325,10 +325,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Loki,<sep />Laufeyjar sunr:<br />
+			``Þegi þu`, Þo`rr!<sep />þeira orþa:<br />
+			þegar munu jo~tnar<sep />A`sgarþ bua,<br />
+			nema þinn hamar<sep />þe`r of heimtir.''
 		</original>
 		<translation>
 			Then Loki spake,<sep />the son of Laufey:<br />
@@ -342,8 +342,8 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep />
+			Bundu Þo`r þa`<sep />bru`þar li`ni<br />
+			auk enu miklu<sep />meni Bri`singa.
 		</original>
 		<translation>
 			Then bound they on Thor<sep />the bridal veil,<br />
@@ -352,10 +352,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Le`tu und ho~`num<sep />hrynja lukla<br />
+			ok kvennva`þir<sep />of kne` falla,<br />
+			en a` brjo`sti<sep />breiþa steina,<br />
+			ok hagliga<sep />of ho~fuþ typþu.
 		</original>
 		<translation>
 			Keys around him<sep />let they rattle,<br />
@@ -372,9 +372,9 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Loki,<sep />Laufeyjar sunr:<br />
+			``Munk auk meþ þe`r<sep />ambo~`tt vesa,<br />
+			vit skulum aka tva_e`r<sep />i` jo~tunheima.''
 		</original>
 		<translation>
 			Then Loki spake,<sep />the son of Laufey:<br />
@@ -384,10 +384,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Senn vo~ru hafrar<sep />heim of vreknir,<br />
+			skyndir at sko~klum,<sep />skyldu vel rinna:<br />
+			bjo~rg brotnuþu,<sep />brann jo~rþ loga,
+			o`k O`þins sunr<sep />i` jo~tunheima.
 		</original>
 		<translation>
 			Then home the goats<sep />to the hall were driven,<br />
@@ -402,14 +402,14 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Þrymr,<sep />þursa dro`ttinn:<br />
+			``Standiþ upp, jo~tnar!<sep />ok stai::þ bekki:<br />
+			nu` fo/`ra me`r<sep />Freyju at kva_e`n,<br />
+			Njarþar do`ttur<sep />o`r Noatu`num.
 		</original>
 		<translation>
 			Then loud spake Thrym,<sep />the giants' leader:<br />
-			"Bestir ye, giants,<sep />put straw on the benches;<br />
+			``Bestir ye, giants,<sep />put straw on the benches;<br />
 			Now Freyja they bring<sep />to be my bride,<br />
 			The daughter of Njorth<sep />out of Noatun.
 		</translation>
@@ -420,13 +420,13 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ganga at garþi<sep />gollhyrndar ky`r,<br />
+			o/xn alsvartir,<sep />jo~tni at gamni:<br />
+			fjo~lþ a`k meiþma,<sep />fjo~lþ a`k menja,<br />
+			einnar Freyju<sep />a`vant þykkjumk.''
 		</original>
 		<translation>
-			``Gold-horned cattle<sep />go to my stables,<br />
+			Gold-horned cattle<sep />go to my stables,<br />
 			Jet-black oxen,<sep />the giant's joy;<br />
 			Many my gems,<sep />and many my jewels,<br />
 			Freyja alone<sep />did I lack, methinks.''
@@ -434,11 +434,11 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vas þar at kveldi<sep />of komit snimma<br />
+			auk fyr jo~tna<sep />o~l fram borit;<br />
+			einn a`t oxa,<sep />a`tta laxa,<br />
+			kra`sir allar<sep />þa_e`rs konur skyldu,<br />
+			drakk Sifjar verr<sep />so~`ld þriu mjaþar.
 		</original>
 		<translation>
 			Early it was<sep />to evening come,<br />
@@ -456,10 +456,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Þrymr,<sep />þursa dro`ttinn:<br />
+			``Hvar sa`tt bru`þir<sep />bi`ta hvassara?<br />
+			sa`kak bru`þir<sep />bi`ta breiþara,<br />
+			ne enn meira mjo~þ<sep />mey of drekka.''
 		</original>
 		<translation>
 			Then loud spake Thrym,<sep />the giants' leader:<br />
@@ -470,10 +470,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sat en alsnotra<sep />ambo~`tt fyrir,<br />
+			es orþ of fann<sep />viþ jo~tuns ma`li:<br />
+			``A`t va_e`tr Freyja<sep />a`tta no~`ttum,<br />
+			sva` vas o`þfu`s<sep />i` jo`tunheima.''
 		</original>
 		<translation>
 			Hard by there sat<sep />the serving-maid wise,<br />
@@ -484,10 +484,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Laut und li`nu,<sep />lysti at kyssa,<br />
+			en u`tan sto~kk<sep />endlangan sal:<br />
+			``Hvi` 'ru o~ndo`tt<sep />augu Freyju?<br />
+			þykkjumk o`r augum<sep /><conj>eldr of</conj> brinna.''
 		</original>
 		<translation>
 			Thrym looked 'neath the veil,<sep />for he longed to kiss,<br />
@@ -502,10 +502,10 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sat en alsnotra<sep />ambo~`tt fyrir,<br />
+			es orþ of fann<sep />viþ jo~tuns ma`li:<br />
+			``Svaf va_e`tr Freyja<sep />a`tta no~`ttum,<br />
+			sva` vas o`þfu`s<sep />i` jo~tunheima.''
 		</original>
 		<translation>
 			Hard by there sat<sep />the serving-maid wise,<br />
@@ -519,11 +519,11 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Inn kvam en arma<sep />jo~tna systir,<br />
+			hins bru`þfear<sep />biþja þorþi:<br />
+			``La`t þer af ho~ndum<sep />hringa rauþa,<br />
+			ef o/þlask vill<sep />a`stir mi`nar,<br />
+			a`stir mi`nar,<sep />alla hylli.''
 		</original>
 		<translation>
 			Soon came the giant's<sep />luckless sister,<br />
@@ -539,10 +539,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Þrymr,<sep />þursa dro`ttinn:<br />
+			``Beriþ inn hamar<sep />bru`þi at vi`gja,<br />
+			leggiþ Mjo~llni<sep />i` meyjar kne`,<br />
+			vi`giþ okkr saman<sep />Va`rar hendi!''
 		</original>
 		<translation>
 			Then loud spake Thrym,<sep />the giants' leader:<br />
@@ -560,10 +560,10 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hlo` Hlo`rriþa<sep />hugr i` brjo`sti,<br />
+			es harþhugaþr<sep />hamar of þekþi;<br />
+			Þrym drap fyrstan,<sep />þursa dro`ttin,<br />
+			ok a_e`tt jo~tuns<sep />alla lamþi.
 		</original>
 		<translation>
 			The heart in the breast<sep />of Hlorrithi laughed<br />
@@ -574,10 +574,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Drap ena o~ldnu<sep />jo~tna systur<br />
+			hinas bru`þfear<sep />of beþit hafþi:<br />
+			ho`n skell of hlaut<sep />fyr skillinga,<br />
+			en ho~gg hamars<sep />fyr hringa fjo~lþ.
 		</original>
 		<translation>
 			The giant's sister<sep />old he slew,<br />
@@ -588,7 +588,7 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			<sep />
+			Sva kvam O`þins sunr<sep />endr at hamri.
 		</original>
 		<translation>
 			And so his hammer<sep />got Othin's son.
