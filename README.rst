@@ -146,15 +146,15 @@ Lokasenna (14 Jan 2011)
 Thrymskvitha (planned)
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Thrymskvitha chapter
+* Added Thrymskvitha chapter;
+* Fixed many typos in Voluspo (it was the first chapter and the process
+  of adding it was rather messy);
 * Insert unbreakable spaces where necessary (between "stanza(s)" and stanza number, for example,
   or q.~v., cf.~ChapterName, cf.~note, cf.~stanza)
 * Allow line folding right after mdash (without a space after them Tex fold the ling wrong)
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
 * Refactor scripts
-* Check Voluspo for typos (I wasn't yet following current procedure,
-  so there may be some)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
