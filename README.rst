@@ -25,9 +25,9 @@ Used fonts
 * Lucida Grande and Optima from standard Snow Leopard font pack;
 * Cover page: `Vidir Futhark <http://www.fontspace.com/vidir-thorisson/vidir-futhark>`_
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 Modifications of Gering source
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 I tried to copy Old Norse stanzas from Gering's book as accurate as possible,
 but I had to make a few modifications in order to make them conform to
