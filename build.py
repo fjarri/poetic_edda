@@ -235,6 +235,47 @@ def movePunctuation(l):
 		e[0] = e[0] + l[i+1][0][0] # add punctuation to wrapped text
 		l[i+1][0] = l[i+1][0][1:] # remove punctuation from tail
 
+	# Insert nonbreakable spaces
+	# FIXME: using TeX symbols here, needs to be generalized
+	for i, e in enumerate(l):
+		text, tag, attrib = tuple(e)
+
+		if text is None or isinstance(text, list):
+			continue
+
+		# abbreviations
+
+		if u'q. v.' in text:
+			e[0] = e[0].replace('q. v.', 'q.~v.')
+
+		if u'Q. v.' in text:
+			e[0] = e[0].replace('Q. v.', 'Q.~v.')
+
+		if u'i. e.' in text:
+			e[0] = e[0].replace('i. e.', 'i.~e.')
+
+		# "lines~4--5"
+		if re.search(r'(l|L)ines? \d', text) is not None:
+			e[0] = re.sub(r'(l|L)ine(s?) (\d)', r'\1ine\2~\3', e[0])
+
+		# "cf.~Voluspo"
+		if text.endswith('cf. ') or text.endswith('Cf. '):
+			e[0] = e[0][:-1] + u"~"
+
+		# "stanza~21"
+		if i < len(l) - 1 and (text.endswith('tanza ') or text.endswith('tanzas ')) and \
+				l[i + 1][1] == 'stanzaref':
+			e[0] = e[0][:-1] + u"~"
+
+		# "Voluspo,~33"
+		if i > 0 and i < len(l) - 1 and l[i - 1][1] == 'chapterref' and \
+				l[i + 1][1] == 'stanzaref' and text == ' ':
+			e[0] = '~'
+
+		# "stanza 22,~1" (reference to a line)
+		if i > 0 and l[i - 1][1] == 'stanzaref' and re.match(r', \d', text) is not None:
+			e[0] = u",~" + e[0][2:]
+
 
 def listToTex(l):
 
