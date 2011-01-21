@@ -142,9 +142,9 @@ Lokasenna (14 Jan 2011)
 * Marking conjectures with "[]" in both original and translation (Bellows originally used "()");
 * Added Lokasenna chapter
 
-~~~~~~~~~~~~~~~~~~~~~~
-Thrymskvitha (planned)
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thrymskvitha (22 Jan 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Thrymskvitha chapter;
 * Fixed many typos in Voluspo (it was the first chapter and the process
