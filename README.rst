@@ -150,12 +150,12 @@ Thrymskvitha (planned)
 * Fixed many typos in Voluspo (it was the first chapter and the process
   of adding it was rather messy);
 * Inserting unbreakable spaces during build:
-  * cf.~, i.~e.
-  * stanza~NN
-  * Chapter,~NN
-  * line~N
-  * stanza NN,~N (line reference)
-* Allow line folding right after mdash (without a space after them Tex fold the ling wrong)
+  * "cf.~", "i.~e.",
+  * "stanza~NN",
+  * "Chapter,~NN",
+  * "line~N",
+  * "stanza NN,~N" (line reference);
+* Using en and em dashes with proper linebreaking;
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
 * Refactor scripts

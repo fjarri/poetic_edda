@@ -295,6 +295,10 @@ def listToTex(l):
 			text = text.replace('}', '\\}')
 			text = text.replace('{', '\\{')
 
+			# macros from 'extdash' package - dashes with tuned linebreaks
+			text = text.replace(u'—', u'\---')
+			text = text.replace(u'–', u'\--')
+
 		if tag is None:
 			res.append(text)
 
