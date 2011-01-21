@@ -282,7 +282,7 @@ def listToTex(l):
 	modifying_tags = ['emph', 'chapterref']
 	res = []
 
-	for e in l:
+	for i, e in enumerate(l):
 		text, tag, attrib = tuple(e)
 
 		if tag == 'table':
@@ -363,6 +363,12 @@ def listToTex(l):
 
 		elif tag == 'textstanza':
 			res.append(u'\n\\eddainlinestanza{' + listToTex(text) + u'}\n')
+
+			# don't insert \noindent if it is the last tag in paragraph,
+			# or if two inline stanzas are located next to each other
+			if not (i < len(l) - 2 and l[i + 2][1] == 'textstanza') and \
+					not i == len(l) - 1:
+				res[-1] += u'\\noindent'
 
 		elif tag == 'linestanza':
 			res.append(listToTex(text))

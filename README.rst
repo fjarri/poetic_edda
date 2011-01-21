@@ -158,8 +158,8 @@ Thrymskvitha (planned)
 * Using en and em dashes with proper linebreaking;
 * Fixed bug in TeX replacements, which gave '{[}' instead of '[' in the final text;
 * Added colors for explanations, references and stanza preludes
-  in final mode (we'll see how it goes)
-* Remove text indentation after <textstanza>? Looks kinda ugly.
+  in final mode (we'll see how it goes);
+* Removed text indentation after inline stanzas
 
 ~~~~~~~~~~~~~~~~~~~
 Alvissmol (planned)
