@@ -156,6 +156,7 @@ Thrymskvitha (planned)
   * "line~N",
   * "stanza NN,~N" (line reference);
 * Using en and em dashes with proper linebreaking;
+* Fixed bug in TeX replacements, which gave '{[}' instead of '[' in the final text;
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
 * Refactor scripts

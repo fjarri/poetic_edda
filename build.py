@@ -290,10 +290,10 @@ def listToTex(l):
 			continue
 
 		if isinstance(text, unicode) or isinstance(text, str):
-			text = text.replace('[', '{[}')
-			text = text.replace(']', '{]}')
 			text = text.replace('}', '\\}')
 			text = text.replace('{', '\\{')
+			text = text.replace('[', '{[}')
+			text = text.replace(']', '{]}')
 
 			# macros from 'extdash' package - dashes with tuned linebreaks
 			text = text.replace(u'—', u'\---')
