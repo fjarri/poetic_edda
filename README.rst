@@ -157,7 +157,8 @@ Thrymskvitha (planned)
   * "stanza NN,~N" (line reference);
 * Using en and em dashes with proper linebreaking;
 * Fixed bug in TeX replacements, which gave '{[}' instead of '[' in the final text;
-* Try to add colors in final mode (first candidate: <expl>, will help in long comments)
+* Added colors for explanations, references and stanza preludes
+  in final mode (we'll see how it goes)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
 
 ~~~~~~~~~~~~~~~~~~~

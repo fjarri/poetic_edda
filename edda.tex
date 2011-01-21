@@ -186,19 +186,20 @@
 	\definecolor{chapterrefcolor}{cmyk}{0,0,0.5,0.5}
 	\definecolor{stanzarefcolor}{cmyk}{0,1,0,0.5}
 	\definecolor{proserefcolor}{cmyk}{1,0,0,0}
-	\definecolor{stanzapreludecolor}{cmyk}{1,1,0,0}
+	\definecolor{stanzapreludecolor}{cmyk}{0,1,1,0.5}
 	\definecolor{sourcecolor}{cmyk}{1,0,1,0}
 	\definecolor{conjcolor}{cmyk}{1,0,0,0.5}
 	\definecolor{explcolor}{cmyk}{1,0,1,0.5}
 \else
+	% FIXME: probably colors should be added at build stage, like \textit
 	\definecolor{emphcolor}{cmyk}{0,0,0,1}
-	\definecolor{chapterrefcolor}{cmyk}{0,0,0,1}
-	\definecolor{stanzarefcolor}{cmyk}{0,0,0,1}
-	\definecolor{proserefcolor}{cmyk}{0,0,0,1}
-	\definecolor{stanzapreludecolor}{cmyk}{0,0,0,1}
 	\definecolor{sourcecolor}{cmyk}{0,0,0,1}
 	\definecolor{conjcolor}{cmyk}{0,0,0,1}
-	\definecolor{explcolor}{cmyk}{0,0,0,1}
+	\definecolor{explcolor}{cmyk}{1,0,0,0.5}
+	\definecolor{stanzapreludecolor}{cmyk}{0,1,1,0.2}
+	\definecolor{chapterrefcolor}{cmyk}{1,1,0,0.2}
+	\definecolor{stanzarefcolor}{cmyk}{1,1,0,0.2}
+	\definecolor{proserefcolor}{cmyk}{1,1,0,0.2}
 \fi
 
 % No spaces in these macros, because TeX considers them to be significant
@@ -207,9 +208,9 @@
 	\newcommand{\eddastanzaref}[2]{\textcolor{stanzarefcolor}{#2}}
 	\newcommand{\eddaproseref}[3]{\textcolor{proserefcolor}{#3}}
 \else
-	\newcommand{\eddachapterref}[2]{\hyperref[cha:#1]{#2}}
-	\newcommand{\eddastanzaref}[2]{\hyperref[cha:#1:#2]{#2}}
-	\newcommand{\eddaproseref}[3]{\hyperref[cha:#1:#2]{#3}}
+	\newcommand{\eddachapterref}[2]{\hyperref[cha:#1]{\textcolor{chapterrefcolor}{#2}}}
+	\newcommand{\eddastanzaref}[2]{\hyperref[cha:#1:#2]{\textcolor{stanzarefcolor}{#2}}}
+	\newcommand{\eddaproseref}[3]{\hyperref[cha:#1:#2]{\textcolor{proserefcolor}{#3}}}
 \fi
 
 \newcommand{\myemph}[1]{\textcolor{emphcolor}{\emph{#1}}}
