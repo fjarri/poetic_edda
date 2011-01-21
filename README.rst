@@ -150,11 +150,13 @@ Thrymskvitha (22 Jan 2011)
 * Fixed many typos in Voluspo (it was the first chapter and the process
   of adding it was rather messy);
 * Inserting unbreakable spaces during build:
+
   * "cf.~", "i.~e.",
   * "stanza~NN",
   * "Chapter,~NN",
   * "line~N",
   * "stanza NN,~N" (line reference);
+
 * Using en and em dashes with proper linebreaking;
 * Fixed bug in TeX replacements, which gave '{[}' instead of '[' in the final text;
 * Added colors for explanations, references and stanza preludes
