@@ -1,7 +1,7 @@
 import re, codecs
 import sys
 from xml.etree.ElementTree import Element, ElementTree
-from detexify_json import makePretty
+from helpers import makePretty
 
 f = codecs.open(sys.argv[1], 'r', 'utf-8')
 intro = f.read()

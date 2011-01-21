@@ -4,7 +4,7 @@ import codecs
 import re
 import sys
 from xml.etree.ElementTree import Element, ElementTree, XML
-from detexify_json import makePretty
+from helpers import makePretty
 
 input = sys.argv[1]
 output = sys.argv[2]
