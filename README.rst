@@ -159,6 +159,12 @@ Thrymskvitha (planned)
 * Fixed bug in TeX replacements, which gave '{[}' instead of '[' in the final text;
 * Try to add colors in final mode (first candidate: <expl>, will help in long comments)
 * Remove text indentation after <textstanza>? Looks kinda ugly.
+
+~~~~~~~~~~~~~~~~~~~
+Alvissmol (planned)
+~~~~~~~~~~~~~~~~~~~
+
+* Add Alvissmol chapter;
 * Refactor scripts
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
