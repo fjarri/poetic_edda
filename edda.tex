@@ -251,9 +251,13 @@
 
 % separator line
 \newcommand{\eddasepline}{
-	\begin{center}
-	\rule[1ex]{.5\textwidth}{.5pt}
-	\end{center}
+	\nopagebreak
+	\vskip\baselineskip
+	\nopagebreak
+	\centerline{\rule[1ex]{.5\textwidth}{.5pt}}
+	\nopagebreak
+	\vskip\baselineskip
+	\nopagebreak
 }
 
 % dagger (used by Gering and Hildebrand)

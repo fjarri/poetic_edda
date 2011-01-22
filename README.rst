@@ -167,9 +167,9 @@ Thrymskvitha (22 Jan 2011)
 Alvissmol (planned)
 ~~~~~~~~~~~~~~~~~~~
 
+* Disabled page breaks before and after \eddasepline;
 * Add Alvissmol chapter;
-* Refactor scripts;
-* Find a way to disable page break before \eddasepline (see Hymiskvitha for example)
+* Refactor scripts
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
