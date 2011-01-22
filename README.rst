@@ -170,6 +170,11 @@ Alvissmol (planned)
 * Disabled page breaks before and after \eddasepline;
 * Add Alvissmol chapter;
 * Refactor scripts
+* Check usage of single quotation marks:
+
+  * Maybe insert some no-space-but-still-separator marks between double and single quotes,
+  * Or check that TeX can treat them normally,
+  * Need to also insert their Unicode equivalents in XML
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
