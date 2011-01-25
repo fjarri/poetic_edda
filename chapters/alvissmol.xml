@@ -30,9 +30,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Bekki breiþa<sep />nu` skal bru`þr meþ me`r,<br />
+			heim i` sinni snuask;<br />
+			hratat of ma_e`gi<sep />mun hverjum þykkja,<br />
+			heima skalat hvi`lþ nema.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -56,9 +57,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvat's þat fira?<sep />hvi` 'stu sva` fo~lr umb nasar?<br />
+			vastu i` no~`tt meþ nai::?<br />
+			þursa li`ki<sep />þykkjumk a` þe`r vesa,<br />
+			estat þu` til bru`þar borinn.''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -79,9 +81,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Alvi`ss heitik,<sep />by`k fyr jo~rþ neþan,<br />
+			a`k und steini staþ;<br />
+			va`pna verþs<sep />emk a` vit kominn:<br />
+			bregþit fo~stu heiti firar.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -103,9 +106,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ek mun bregþa,<sep />þvi`t ek bru`þar a`<br />
+			flest of ro~`þ sem faþir;<br />
+			vaskak heima,<sep />þa`s þe`r heitit vas,<br />
+			sa` einn es gjo~f's meþ goþum.''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -126,9 +130,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvat's þat rekka<sep />es i` ro~`þum telsk<br />
+			fljo`þs ens fagrgloa?<br />
+			fjarrafleina þik<sep />munu fai::r kunna:<br />
+			<conj>hver</conj> hefr <conj>baga</conj> þik borit?''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -149,9 +154,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Vingþo`rr heitik,<sep />ek hef vi`þa ratat,<br />
+			sunr emk Si`þgrana;<br />
+			at o`so~`tt minni<sep />skaltu þat et unga man hafa<br />
+			ok þat gjaforþ geta.''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -172,9 +178,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Sa`ttir þi`nar<sep />es vilk snimma hafa<br />
+			ok þat gjaforþ geta;<br />
+			eiga viljak<sep />heldr an o~`n vesa<br />
+			þat et mjallhvi`ta man.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -191,15 +198,16 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Meyjar o~`stum<sep />muna þe`r verþa,<br />
+			vi`si gestr! of varit,<br />
+			ef o`r heimi kannt<sep />hverjum at segja<br />
+			allt þats viljak vita.
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
 		</translation_prelude>
 		<translation>
-			"The love of the maid<sep />I may not keep thee<br />
+			``The love of the maid<sep />I may not keep thee<br />
 			From winning, thou guest so wise,<br />
 			If of every world<sep />thou canst tell me all<br />
 			That now I wish to know.
@@ -213,16 +221,23 @@
 				Oft have I fared<sep />in the nine worlds all,<br />
 				And wide is my wisdom of each.''
 			</textstanza>
+			<textstanza class="original">
+				(``Freista ma`tta, Vingþo`rr!<sep />alls þu` frekr ert,<br />
+				dvergs at reyna dug;<br />
+				heima alla niu<sep />hefik of farit<br />
+				ok vitat va_e`tna hvat.'')
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` su` jo~rþ heitir,<sep />es liggr fyr alda sunum,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the earth,<sep />that lies before all,<br />
 			In each and every world?''
@@ -233,9 +248,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Jo~rþ heitir meþ mo~nnum,<sep />en meþ o~`sum fold,<br />
+			kalla vega vanir,<br />
+			i`gro/`n jo~tnar,<sep />alfar groandi,<br />
+			kalla aur uppregin.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -261,9 +277,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` sa` himinn heitir<sep /><dagger /> erakendi,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -285,9 +302,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Himinn heitir meþ mo~nnum,<sep />en hlyrnir meþ goþum,<br />
+			kalla vindofni vanir,<br />
+			uppheim jo~tnar,<sep />alfar fagra ra_e`fr,<br />
+			dvergar drju`pan sal.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -304,9 +322,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hversu ma`ni heitir,<sep />sa`s menn sea,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -323,9 +342,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ma`ni heitir meþ mo~nnum,<sep />en mylinn meþ goþum,<br />
+			kalla hve`l helju i`,<br />
+			skyndi jo~tnar,<sep />en skin dvergar,<br />
+			kalla alfar a`rtala.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -346,9 +366,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` su` so`l heitir,<sep />es sea alda synir,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -365,9 +386,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``So`l heitir meþ mo~nnum,<sep />en sunna meþ goþum,<br />
+			kalla dvergar Dvalins leika,<br />
+			eyglo` jo~tnar,<sep />alfar fagra hve`l,<br />
+			alski`r a`sa synir.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -390,9 +412,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` þau sky` heita,<sep />es sku`rum blandask,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -409,18 +432,19 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Sky` heita meþ mo~nnum,<sep />en sku`rvo~`n meþ goþum,<br />
+			kalla vindflot vanir,<br />
+			u`rvo~`n jo~tnar,<sep />alfar veþrmegin,<br />
+			kalla i` helju hjalm huliþs.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
 		</translation_prelude>
 		<translation>
-			``'Clouds' men name them,<sep />`Rain-Hope' gods call them,<br />
+			`` `Clouds' men name them,<sep />`Rain-Hope' gods call them,<br />
 			The Wanes call them `Kites of the Wind';<br />
 			`Water-Hope' giants,<sep />`Weather-Might' elves,<br />
-			`The Helmet of Secrets' in hell.' ''
+			`The Helmet of Secrets' in hell.''
 		</translation>
 	</block>
 	<block class="stanza" number="19">
@@ -428,9 +452,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` sa` vindr heitir,<sep />es vi`þast ferr,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -447,9 +472,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Vindr heitir meþ mo~nnum,<sep />en vo~`fuþr meþ goþum,<br />
+			kalla gneggjuþ ginnregin,<br />
+			o/`pi jo~tnar,<sep />alfar dynfara,<br />
+			kalla i` helju hviþuþ.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -471,9 +497,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` þat logn heitir,<sep />es liggja skal,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -490,9 +517,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Logn heitir meþ mo~nnum,<sep />en lo/`gi meþ goþum,<br />
+			kalla vindslot vanir,<br />
+			ofhly` jo~tnar,<sep />alfar dagsefa,<br />
+			kalla dvergar dags veru.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -513,9 +541,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` sa` marr heitir,<sep />es menn roa,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -532,9 +561,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Sa_e`r heitir meþ mo~nnum,<sep />en si`la_e`gja meþ goþum,<br />
+			kalla va`g vanir,<br />
+			a`lheim jo~tnar,<sep />alfar la`gastaf,<br />
+			kalla dvergar dju`pan mar.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -554,9 +584,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` sa` eldr heitir,<sep />es brinnr fyr alda sunum,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -573,9 +604,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Eldr heitir meþ mo~nnum,<sep />en meþ o~`sum funi,<br />
+			kalla va_e`gin vanir,<br />
+			freka jo~tnar,<sep />en forbrenni dvergar,<br />
+			kalla i` helju hro~þuþ.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -595,9 +627,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` sa` viþr heitir,<sep />es vex fyr alda sunum,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -614,9 +647,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Viþr heitir meþ mo~nnum,<sep />en vallar fax meþ goþum,<br />
+			kalla hli`þþang halir,<br />
+			eldi jo~tnar,<sep />alfar fagrlima,<br />
+			kalla vo~nd vanir.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -636,9 +670,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` su` no~`tt heitir,<sep />en No~rvi kenda,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -659,9 +694,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``No~`tt heitir meþ mo~nnum,<sep />en njo`l meþ goþum,<br />
+			kalla gri`mu ginnregin,<br />
+			o`ljo`s jo~tnar,<sep />alfar svefngaman,<br />
+			kalla dvergar draumnjo~run.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -683,9 +719,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` þat sa`þ heitir,<sep />es sa` alda synir,<br />
+			heimi hverjum i`?
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -702,9 +739,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Bygg heitir meþ mo~nnum,<sep />en barr meþ goþum,<br />
+			kalla vo~xt vanir,<br />
+			a_e`ti jo~tnar,<sep />alfar la`gastaf,<br />
+			kalla i` helju hnipinn.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -726,9 +764,10 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
+			vo~rumk, dvergr! at vitir:<br />
+			hve` þat o~l heitir,<sep />es drekka alda synir,<br />
+			heimi hverjum i`?''
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
@@ -745,9 +784,10 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``O~l heitir meþ mo~nnum,<sep />en meþ o~`sum bjo`rr,<br />
+			kalla veig vanir,<br />
+			hreina lo~g jo~tnar,<sep />en i` helju mjo~þ,<br />
+			kalla sumbl Suttungs synir.''
 		</original>
 		<translation_prelude>
 			Alvi`ss kvaþ:
@@ -769,11 +809,11 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<br />
+			``I` einu brjo`sti<sep />ek sa`k aldrigi<br />
+			fleiri forna stafi;<br />
+			to~`lum miklum<sep />ek kveþ ta_e`ldan þik:<br />
+			uppi est, dvergr! of dagaþr,<br />
+			nu` ski`nn so`l i` sali.''<br />
 		</original>
 		<translation_prelude>
 			Þo`rr kvaþ:
