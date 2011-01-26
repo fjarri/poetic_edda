@@ -257,10 +257,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Earth' to men, `Field'<sep />to the gods it is,<br />
-			`The Ways' is it called by the Wanes;<br />
-			`Ever Green' by the giants,<sep />`The Grower' by elves,<br />
-			`The Moist' by the holy ones high.”
+			“‘Earth’ to men, ‘Field’<sep />to the gods it is,<br />
+			‘The Ways’ is it called by the Wanes;<br />
+			‘Ever Green’ by the giants,<sep />‘The Grower’ by elves,<br />
+			‘The Moist’ by the holy ones high.”
 		</translation>
 		<comment>
 			<expl>Men</expl>, etc.: nothing could more clearly indicate the author's mythological inaccuracy than his confusion of the inhabitants of the nine worlds.
@@ -311,10 +311,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Heaven' men call it,<sep />`The Height' the gods,<br />
-			The Wanes `The Weaver of Winds';<br />
-			Giants `The Up-World,'<sep />elves `The Fair-Roof,'<br />
-			The dwarfs `The Dripping Hall.' ”
+			“‘Heaven’ men call it,<sep />‘The Height’ the gods,<br />
+			The Wanes ‘The Weaver of Winds’;<br />
+			Giants ‘The Up-World,’<sep />elves ‘The Fair-Roof,’<br />
+			The dwarfs ‘The Dripping Hall.’”
 		</translation>
 	</block>
 	<block class="stanza" number="13">
@@ -351,10 +351,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Moon' with men, `Flame'<sep />the gods among,<br />
-			`The Wheel' in the house of hell;<br />
-			`The Goer' the giants,<sep />`The Gleamer' the dwarfs,<br />
-			The elves `The Teller of Time.' ”
+			“‘Moon’ with men, ‘Flame’<sep />the gods among,<br />
+			‘The Wheel’ in the house of hell;<br />
+			‘The Goer’ the giants,<sep />‘The Gleamer’ the dwarfs,<br />
+			The elves ‘The Teller of Time.’”
 		</translation>
 		<comment>
 			<expl>Flame</expl>: a doubtful word; Vigfusson suggests that it properly means a “mock sun.”
@@ -441,10 +441,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Clouds' men name them,<sep />`Rain-Hope' gods call them,<br />
-			The Wanes call them `Kites of the Wind';<br />
-			`Water-Hope' giants,<sep />`Weather-Might' elves,<br />
-			`The Helmet of Secrets' in hell.”
+			“‘Clouds’ men name them,<sep />‘Rain-Hope’ gods call them,<br />
+			The Wanes call them ‘Kites of the Wind’;<br />
+			‘Water-Hope’ giants,<sep />‘Weather-Might’ elves,<br />
+			‘The Helmet of Secrets’ in hell.”
 		</translation>
 	</block>
 	<block class="stanza" number="19">
@@ -481,10 +481,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Wind' do men call it,<sep />the gods `The Waverer,'<br />
-			`The Neigher' the holy ones high;<br />
-			`The Wailer' the giants,<sep />`Roaring Wender' the elves,<br />
-			In hell `The Blustering Blast.' ”
+			“‘Wind’ do men call it,<sep />the gods ‘The Waverer,’<br />
+			‘The Neigher’ the holy ones high;<br />
+			‘The Wailer’ the giants,<sep />‘Roaring Wender’ the elves,<br />
+			In hell ‘The Blustering Blast.’”
 		</translation>
 		<comment>
 			Snorri quotes this stanza in the <source>Skaldskaparmal</source>.
@@ -526,10 +526,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Calm' men call it,<sep />`The Quiet' the gods,<br />
-			The Wanes `The Hush of the Winds';<br />
-			`The Sultry' the giants,<sep />elves `Day's Stillness,'<br />
-			The dwarfs `The Shelter of Day.' ”
+			“‘Calm’ men call it,<sep />‘The Quiet’ the gods,<br />
+			The Wanes ‘The Hush of the Winds’;<br />
+			‘The Sultry’ the giants,<sep />elves ‘Day’s Stillness,'<br />
+			The dwarfs ‘The Shelter of Day.’”
 		</translation>
 		<comment>
 			<expl>Hush</expl>, etc.: the manuscript, by inserting an additional letter, makes the word practically identical with that translated “Kite” in stanza <stanzaref chapter="Alvissmol">18</stanzaref>.
@@ -570,10 +570,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Sea' men call it,<sep />gods `The Smooth-Lying,'<br />
-			`The Wave' is it called by the Wanes;<br />
-			`Eel-Home' the giants,<sep />`Drink-Stuff' the elves,<br />
-			For the dwarfs its name is `The Deep.' ”
+			“‘Sea’ men call it,<sep />gods ‘The Smooth-Lying,’<br />
+			‘The Wave’ is it called by the Wanes;<br />
+			‘Eel-Home’ the giants,<sep />‘Drink-Stuff’ the elves,<br />
+			For the dwarfs its name is ‘The Deep.’”
 		</translation>
 		<comment>
 			<expl>Drink-Stuff</expl>: Gering translates the word thus; I doubt it, but can suggest nothing better.
@@ -613,10 +613,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Fire' men call it,<sep />and `Flame' the gods,<br />
-			By the Wanes is it `Wildfire' called;<br />
-			`The Biter' by giants,<sep />`The Burner' by dwarfs,<br />
-			`The Swift' in the house of hell.”
+			“‘Fire’ men call it,<sep />and ‘Flame’ the gods,<br />
+			By the Wanes is it ‘Wildfire’ called;<br />
+			‘The Biter’ by giants,<sep />‘The Burner’ by dwarfs,<br />
+			‘The Swift’ in the house of hell.”
 		</translation>
 		<comment>
 			<expl>Wildfire</expl>: the word may mean any one of various things, including “Wave,” which is not unlikely.
@@ -656,10 +656,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“Men call it `The Wood,'<sep />gods `The Mane of the Field,'<br />
-			`Seaweed of Hills' in hell;<br />
-			`Flame-Food' the giants,<sep />`Fair-Limbed' the elves,<br />
-			`The Wand' is it called by the Wanes.”
+			“Men call it ‘The Wood,’<sep />gods ‘The Mane of the Field,’<br />
+			‘Seaweed of Hills’ in hell;<br />
+			‘Flame-Food’ the giants,<sep />‘Fair-Limbed’ the elves,<br />
+			‘The Wand’ is it called by the Wanes.”
 		</translation>
 		<comment>
 			<expl>In hell</expl>: the word simply means “men,” and it is only a guess, though a generally accepted one, that here it refers to the dead.
@@ -703,10 +703,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Night' men call it,<sep />`Darkness' gods name it,<br />
-			`The Hood' the holy ones high;<br />
-			The giants `The Lightless,'<sep />the elves `Sleep's joy,'<br />
-			The dwarfs `The Weaver of Dreams.' ”
+			“‘Night’ men call it,<sep />‘Darkness’ gods name it,<br />
+			‘The Hood’ the holy ones high;<br />
+			The giants ‘The Lightless,’<sep />the elves ‘Sleep’s joy,'<br />
+			The dwarfs ‘The Weaver of Dreams.’”
 		</translation>
 		<comment>
 			Snorri quotes this stanza in the <source>Skaldskaparmal</source>.
@@ -748,10 +748,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“Men call it `Grain,'<sep />and `Corn' the gods,<br />
-			`Growth' in the world of the Wanes;<br />
-			`The Eaten' by giants,<sep />`Drink-Stuff' by elves,<br />
-			In hell `The Slender Stem.' ”
+			“Men call it ‘Grain,’<sep />and ‘Corn’ the gods,<br />
+			‘Growth’ in the world of the Wanes;<br />
+			‘The Eaten’ by giants,<sep />‘Drink-Stuff’ by elves,<br />
+			In hell ‘The Slender Stem.’”
 		</translation>
 		<comment>
 			<expl>Grain</expl>: the two words translated “grain” and “corn” apparently both meant primarily barley, and thence grain in general, the first being the commoner term of the two.
@@ -793,10 +793,10 @@
 			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			“ `Ale' among men,<sep />`Beer' the gods among,<br />
-			In the world of the Wanes `The Foaming';<br />
-			`Bright Draught' with giants,<sep />`Mead' with dwellers in hell,<br />
-			`The Feast-Draught' with Suttung's sons.”
+			“‘Ale’ among men,<sep />‘Beer’ the gods among,<br />
+			In the world of the Wanes ‘The Foaming’;<br />
+			‘Bright Draught’ with giants,<sep />‘Mead’ with dwellers in hell,<br />
+			‘The Feast-Draught’ with Suttung's sons.”
 		</translation>
 		<comment>
 			<expl>Suttung's sons</expl>: these ought to be the giants, but the giants are specifically mentioned in line 3.
