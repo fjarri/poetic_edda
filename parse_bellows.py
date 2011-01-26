@@ -225,9 +225,9 @@ if __name__ == '__main__':
 
 			if 'prelude' in block:
 				original_prelude = Element('original_prelude')
-				original_prelude.text = block['prelude']
+				original_prelude.text = u""
 				translation_prelude = Element('translation_prelude')
-				translation_prelude.text = u""
+				translation_prelude.text = block['prelude']
 
 				elem.append(original_prelude)
 				elem.append(original)
