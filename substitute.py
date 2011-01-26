@@ -3,6 +3,7 @@
 from xml.etree.ElementTree import ElementTree
 import codecs
 import sys
+import re
 
 input = sys.argv[1]
 output = sys.argv[2]
@@ -52,6 +53,10 @@ def substituteText(s, tag):
 
 	for src, dst in substitutions:
 		s = s.replace(src, dst)
+
+	s = re.sub(ur"`([^']+)'", ur"‘\1’", s)
+	s = s.replace(u"“ ‘", u"“‘")
+	s = s.replace(u"’ ”", u"’”")
 
 	if tag in ('original', 'translation'):
 		s = s.replace(u'(', u'[')
