@@ -1,23 +1,23 @@
-<chapter english_name="Alvissmol" icelandic_name="Alvi`ssmo~`l" translation="The Ballad of Alvis">
+<chapter english_name="Alvissmol" icelandic_name="Alvīssmǭl" translation="The Ballad of Alvis">
 	<block class="text">
-		No better summary of the <cr>Alvissmol</cr> can be given than Gering's statement that ``it is a versified chapter from the skaldic Poetics.''
-		The narrative skeleton, contained solely in stanzas <sr>1</sr>--<sr>8</sr> and in <sr>35</sr>, is of the slightest; the dwarf Alvis, desirous of marrying Thor's daughter, is compelled by the god to answer a number of questions to test his knowledge.
+		No better summary of the <chapterref>Alvissmol</chapterref> can be given than Gering's statement that “it is a versified chapter from the skaldic Poetics.”
+		The narrative skeleton, contained solely in stanzas <stanzaref chapter="Alvissmol">1</stanzaref>–<stanzaref chapter="Alvissmol">8</stanzaref> and in <stanzaref chapter="Alvissmol">35</stanzaref>, is of the slightest; the dwarf Alvis, desirous of marrying Thor's daughter, is compelled by the god to answer a number of questions to test his knowledge.
 		That all his answers are quite satisfactory makes no difference whatever to the outcome.
-		The questions and answers differ radically from those of the <cr>Vafthruthnismol</cr>.
+		The questions and answers differ radically from those of the <chapterref>Vafthruthnismol</chapterref>.
 		Instead of being essentially mythological, they all concern synonyms.
-		Thor asks what the earth, the sky, the moon, and so on, are called ``in each of all the worlds,'' but there is no apparent significance in the f act that the gods call the earth one thing and the giants call it another; the answers are simply strings of poetic circumlocutions, or ``kennings.''
-		Concerning the use of these ``kennings'' in skaldic poetry, cf. <ref chapter="Hymiskvitha">introductory note</ref> to the <cr>Hymiskvitha</cr>.
+		Thor asks what the earth, the sky, the moon, and so on, are called “in each of all the worlds,” but there is no apparent significance in the f act that the gods call the earth one thing and the giants call it another; the answers are simply strings of poetic circumlocutions, or “kennings.”
+		Concerning the use of these “kennings” in skaldic poetry, cf. <ref chapter="Hymiskvitha">introductory note</ref> to the <chapterref>Hymiskvitha</chapterref>.
 	</block>
 	<block class="text">
-		Mogk is presumably right in dating the poem as late as the twelfth century, assigning it to the period of ``the Icelandic renaissance of skaldic poetry.''
-		It appears to have been the work of a man skilled in poetic construction,---Thor's questions, for instance, are neatly balanced in pairs,---and fully familiar with the intricacies of skaldic diction, but distinctly weak in his mythology.
+		Mogk is presumably right in dating the poem as late as the twelfth century, assigning it to the period of “the Icelandic renaissance of skaldic poetry.”
+		It appears to have been the work of a man skilled in poetic construction,—Thor's questions, for instance, are neatly balanced in pairs,—and fully familiar with the intricacies of skaldic diction, but distinctly weak in his mythology.
 		In other words, it is learned rather than spontaneous poetry.
 		Finnur Jonsson's attempt to make it a tenth century Norwegian poem baffles logic.
-		Vigfusson is pretty sure the poem shows marked traces of Celtic influence, which is by no means incompatible with Mogk's theory (cf. <ref chapter="Rigsthula">introductory note</ref> to the <cr>Rigsthula</cr>).
+		Vigfusson is pretty sure the poem shows marked traces of Celtic influence, which is by no means incompatible with Mogk's theory (cf. <ref chapter="Rigsthula">introductory note</ref> to the <chapterref>Rigsthula</chapterref>).
 	</block>
 	<block class="text">
-		The poem is found only in <src>Regius</src>, where it follows the <cr>Thrymskvitha</cr>.
-		Snorri quotes stanzas <sr>20</sr>, and <sr>30</sr>, the manuscripts of the <src>Prose Edda</src> giving the name of the poem as <src>Alvissmol</src>, <src>Alsvinnsmol</src> or <src>Olvismol</src>.
+		The poem is found only in <source>Regius</source>, where it follows the <chapterref>Thrymskvitha</chapterref>.
+		Snorri quotes stanzas <stanzaref chapter="Alvissmol">20</stanzaref>, and <stanzaref chapter="Alvissmol">30</stanzaref>, the manuscripts of the <source>Prose Edda</source> giving the name of the poem as <source>Alvissmol</source>, <source>Alsvinnsmol</source> or <source>Olvismol</source>.
 		It is apparently in excellent condition, without serious errors of transmission, although interpolations or omissions in such a poem might have been made so easily as to defy detection.
 	</block>
 	<block class="text">
@@ -30,24 +30,24 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Bekki breiþa<sep />nu` skal bru`þr meþ me`r,<br />
-			heim i` sinni snuask;<br />
-			hratat of ma_e`gi<sep />mun hverjum þykkja,<br />
-			heima skalat hvi`lþ nema.''
+			“Bekki breiþa<sep />nū skal brūþr meþ mēr,<br />
+			heim ī sinni snuask;<br />
+			hratat of mǣgi<sep />mun hverjum þykkja,<br />
+			heima skalat hvīlþ nema.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``Now shall the bride<sep />my benches adorn,<br />
+			“Now shall the bride<sep />my benches adorn,<br />
 			And homeward haste forthwith;<br />
 			Eager for wedlock<sep />to all shall I seem,<br />
-			Nor at home shall they rob me of rest.''
+			Nor at home shall they rob me of rest.”
 		</translation>
 		<comment>
-			<expl>Alvis</expl> (``All-Knowing''): a dwarf, not elsewhere mentioned.
+			<expl>Alvis</expl> (“All-Knowing”): a dwarf, not elsewhere mentioned.
 			The manuscript nowhere indicates the speakers' name.
-			The bride in question is Thor's daughter; Thruth (``Might'') is the only daughter of his whose name is recorded, and she does not appear elsewhere in the poems.
+			The bride in question is Thor's daughter; Thruth (“Might”) is the only daughter of his whose name is recorded, and she does not appear elsewhere in the poems.
 			Her mother was Sif, Thor's wife, whereas the god's sons were born of a giantess.
 			<expl>Benches</expl>: cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">15</stanzaref> and note.
 		</comment>
@@ -57,22 +57,22 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Hvat's þat fira?<sep />hvi` 'stu sva` fo~lr umb nasar?<br />
-			vastu i` no~`tt meþ nai::?<br />
-			þursa li`ki<sep />þykkjumk a` þe`r vesa,<br />
-			estat þu` til bru`þar borinn.''
+			“Hvat's þat fira?<sep />hvī 'stu svā fǫlr umb nasar?<br />
+			vastu ī nǭtt meþ naï?<br />
+			þursa līki<sep />þykkjumk ā þēr vesa,<br />
+			estat þū til brūþar borinn.”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``What, pray, art thou?<sep />Why so pale round the nose?<br />
+			“What, pray, art thou?<sep />Why so pale round the nose?<br />
 			By the dead hast thou lain of late?<br />
 			To a giant like<sep />dost thou look, methinks;<br />
-			Thou wast not born for the bride.''
+			Thou wast not born for the bride.”
 		</translation>
 		<comment>
-			The dwarfs, living beyond the reach of the sun, which was fatal to them (cf. stanzas <sr>16</sr> and <sr>35</sr>), were necessarily pale.
+			The dwarfs, living beyond the reach of the sun, which was fatal to them (cf. stanzas <stanzaref chapter="Alvissmol">16</stanzaref> and <stanzaref chapter="Alvissmol">35</stanzaref>), were necessarily pale.
 			Line 3 is, of course, ironical.
 		</comment>
 	</block>
@@ -81,23 +81,23 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Alvi`ss heitik,<sep />by`k fyr jo~rþ neþan,<br />
-			a`k und steini staþ;<br />
-			va`pna verþs<sep />emk a` vit kominn:<br />
-			bregþit fo~stu heiti firar.''
+			“Alvīss heitik,<sep />bȳk fyr jǫrþ neþan,<br />
+			āk und steini staþ;<br />
+			vāpna verþs<sep />emk ā vit kominn:<br />
+			bregþit fǫstu heiti firar.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``Alvis am I,<sep />and under the earth<br />
+			“Alvis am I,<sep />and under the earth<br />
 			My home 'neath the rocks I have;<br />
 			With the wagon-guider<sep />a word do I seek,<br />
-			Let the gods their bond not break.''
+			Let the gods their bond not break.”
 		</translation>
 		<comment>
 			<expl>Wagon-guider</expl>: Thor, who travels habitually on his goat drawn wagon.
-			Bugge changes ``Vagna vets'' to ``Vapna verþs,'' rendering the line ``I am come to seek<sep />the cost of the weapons.''
+			Bugge changes “Vagna vets” to “Vapna verþs,” rendering the line “I am come to seek<sep />the cost of the weapons.”
 			In either case, Alvis does not as yet recognize Thor.
 		</comment>
 	</block>
@@ -106,22 +106,22 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Ek mun bregþa,<sep />þvi`t ek bru`þar a`<br />
-			flest of ro~`þ sem faþir;<br />
-			vaskak heima,<sep />þa`s þe`r heitit vas,<br />
-			sa` einn es gjo~f's meþ goþum.''
+			“Ek mun bregþa,<sep />þvīt ek brūþar ā<br />
+			flest of rǭþ sem faþir;<br />
+			vaskak heima,<sep />þās þēr heitit vas,<br />
+			sā einn es gjǫf's meþ goþum.”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Break it shall I,<sep />for over the bride<br />
+			“Break it shall I,<sep />for over the bride<br />
 			Her father has foremost right;<br />
 			At home was I not<sep />when the promise thou hadst,<br />
-			And I give her alone of the gods.''
+			And I give her alone of the gods.”
 		</translation>
 		<comment>
-			Apparently the gods promised Thor's daughter in marriage to Alvis during her father's absence, perhaps as a reward for some craftsmanship of his (cf. Bugge's suggestion as to stanza <sr>3</sr>).
+			Apparently the gods promised Thor's daughter in marriage to Alvis during her father's absence, perhaps as a reward for some craftsmanship of his (cf. Bugge's suggestion as to stanza <stanzaref chapter="Alvissmol">3</stanzaref>).
 			The text of line 4 is most uncertain.
 		</comment>
 	</block>
@@ -130,23 +130,23 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Hvat's þat rekka<sep />es i` ro~`þum telsk<br />
-			fljo`þs ens fagrgloa?<br />
-			fjarrafleina þik<sep />munu fai::r kunna:<br />
-			<conj>hver</conj> hefr <conj>baga</conj> þik borit?''
+			“Hvat's þat rekka<sep />es ī rǭþum telsk<br />
+			fljōþs ens fagrgloa?<br />
+			fjarrafleina þik<sep />munu faïr kunna:<br />
+			<conj>hver</conj> hefr <conj>baga</conj> þik borit?”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``What hero claims<sep />such right to hold<br />
+			“What hero claims<sep />such right to hold<br />
 			O'er the bride that shines so bright?<br />
 			Not many will know thee,<sep />thou wandering man!<br />
-			Who was bought with rings to bear thee?''
+			Who was bought with rings to bear thee?”
 		</translation>
 		<comment>
 			<expl>Hero</expl>: ironically spoken; Alvis takes Thor for a tramp, the god's uncouth appearance often leading to such mistakes; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">6</stanzaref>.
-			Line 4 is a trifle uncertain; some editors alter the wording to read ``What worthless woman bore thee?''
+			Line 4 is a trifle uncertain; some editors alter the wording to read “What worthless woman bore thee?”
 		</comment>
 	</block>
 	<block class="stanza" number="6">
@@ -154,23 +154,23 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Vingþo`rr heitik,<sep />ek hef vi`þa ratat,<br />
-			sunr emk Si`þgrana;<br />
-			at o`so~`tt minni<sep />skaltu þat et unga man hafa<br />
-			ok þat gjaforþ geta.''
+			“Vingþōrr heitik,<sep />ek hef vīþa ratat,<br />
+			sunr emk Sīþgrana;<br />
+			at ōsǭtt minni<sep />skaltu þat et unga man hafa<br />
+			ok þat gjaforþ geta.”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Vingthor, the wanderer<sep />wide, am I,<br />
+			“Vingthor, the wanderer<sep />wide, am I,<br />
 			And I am Sithgrani's son;<br />
 			Against my will<sep />shalt thou get the maid,<br />
-			And win the marriage word.''
+			And win the marriage word.”
 		</translation>
 		<comment>
-			<expl>Vingthor</expl> (``Thor the Hurler''): cf. <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">1</stanzaref>.
-			<expl>Sithgrani</expl> (``Long-Beard''): Othin.
+			<expl>Vingthor</expl> (“Thor the Hurler”): cf. <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">1</stanzaref>.
+			<expl>Sithgrani</expl> (“Long-Beard”): Othin.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
@@ -178,19 +178,19 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Sa`ttir þi`nar<sep />es vilk snimma hafa<br />
+			“Sāttir þīnar<sep />es vilk snimma hafa<br />
 			ok þat gjaforþ geta;<br />
-			eiga viljak<sep />heldr an o~`n vesa<br />
-			þat et mjallhvi`ta man.''
+			eiga viljak<sep />heldr an ǭn vesa<br />
+			þat et mjallhvīta man.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``Thy good-will now<sep />shall I quickly get,<br />
+			“Thy good-will now<sep />shall I quickly get,<br />
 			And win the marriage word;<br />
 			I long to have,<sep />and I would not lack,<br />
-			This snow-white maid for mine.''
+			This snow-white maid for mine.”
 		</translation>
 	</block>
 	<block class="stanza" number="8">
@@ -198,16 +198,16 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Meyjar o~`stum<sep />muna þe`r verþa,<br />
-			vi`si gestr! of varit,<br />
-			ef o`r heimi kannt<sep />hverjum at segja<br />
+			“Meyjar ǭstum<sep />muna þēr verþa,<br />
+			vīsi gestr! of varit,<br />
+			ef ōr heimi kannt<sep />hverjum at segja<br />
 			allt þats viljak vita.
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``The love of the maid<sep />I may not keep thee<br />
+			“The love of the maid<sep />I may not keep thee<br />
 			From winning, thou guest so wise,<br />
 			If of every world<sep />thou canst tell me all<br />
 			That now I wish to know.
@@ -216,31 +216,31 @@
 			<expl>Every world</expl>: concerning the nine worlds, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">2</stanzaref> and note.
 			Many editors follow this stanza with one spoken by Alvis, found in late paper manuscripts, as follows:
 			<textstanza class="translation">
-				``Ask then, Vingthor,<sep />since eager thou art<br />
+				“Ask then, Vingthor,<sep />since eager thou art<br />
 				The lore of the dwarf to learn;<br />
 				Oft have I fared<sep />in the nine worlds all,<br />
-				And wide is my wisdom of each.''
+				And wide is my wisdom of each.”
 			</textstanza>
 			<textstanza class="original">
-				(``Freista ma`tta, Vingþo`rr!<sep />alls þu` frekr ert,<br />
+				(“Freista mātta, Vingþōrr!<sep />alls þū frekr ert,<br />
 				dvergs at reyna dug;<br />
 				heima alla niu<sep />hefik of farit<br />
-				ok vitat va_e`tna hvat.'')
+				ok vitat vǣtna hvat.”)
 			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` su` jo~rþ heitir,<sep />es liggr fyr alda sunum,<br />
-			heimi hverjum i`?''
+			Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sū jǫrþ heitir,<sep />es liggr fyr alda sunum,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation>
 			Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the earth,<sep />that lies before all,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="10">
@@ -248,27 +248,27 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Jo~rþ heitir meþ mo~nnum,<sep />en meþ o~`sum fold,<br />
+			“Jǫrþ heitir meþ mǫnnum,<sep />en meþ ǭsum fold,<br />
 			kalla vega vanir,<br />
-			i`gro/`n jo~tnar,<sep />alfar groandi,<br />
-			kalla aur uppregin.''
+			īgrø̄n jǫtnar,<sep />alfar groandi,<br />
+			kalla aur uppregin.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Earth' to men, `Field'<sep />to the gods it is,<br />
+			“ `Earth' to men, `Field'<sep />to the gods it is,<br />
 			`The Ways' is it called by the Wanes;<br />
 			`Ever Green' by the giants,<sep />`The Grower' by elves,<br />
-			`The Moist' by the holy ones high.''
+			`The Moist' by the holy ones high.”
 		</translation>
 		<comment>
 			<expl>Men</expl>, etc.: nothing could more clearly indicate the author's mythological inaccuracy than his confusion of the inhabitants of the nine worlds.
 			Men (dwellers in Mithgarth) appear in each of Alvis's thirteen answers; so do the gods (Asgarth) and the giants (Jotunheim).
 			The elves (Alfheim) appear in eleven answers, the Wanes (Vanaheim) in nine, and the dwarfs (who occupied no special world, unless one identifies them with the dark elves of Svartalfaheim) in seven.
-			The dwellers ``in hell'' appear in six stanzas; the phrase probably refers to the world of the dead, though Mogk thinks it may mean the dwarfs.
-			In stanzas where the gods are already listed appear names else where applied only to them,---``holy ones,'' ``sons of the gods'' and ``high ones,''---as if these names meant beings of a separate race.
-			``Men'' appears twice in the same stanza, and so do the giants, if one assumes that they are ``the sons of Suttung.''
+			The dwellers “in hell” appear in six stanzas; the phrase probably refers to the world of the dead, though Mogk thinks it may mean the dwarfs.
+			In stanzas where the gods are already listed appear names else where applied only to them,—“holy ones,” “sons of the gods” and “high ones,”—as if these names meant beings of a separate race.
+			“Men” appears twice in the same stanza, and so do the giants, if one assumes that they are “the sons of Suttung.”
 			Altogether it is useless to pay much attention to the mythology of Alvis's replies.
 		</comment>
 	</block>
@@ -277,24 +277,24 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` sa` himinn heitir<sep /><dagger /> erakendi,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sā himinn heitir<sep /><dagger /> erakendi,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the heaven,<sep />beheld of the high one,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 		<comment>
 			Lines 1, 2, and 4 of Thor's questions are regularly abbreviated in the manuscript.
 			<expl>Beheld</expl>, etc.: the word in the manuscript is almost certainly an error, and all kinds of guesses have been made to rectify it.
-			All that can be said is that it means ``beheld of'' or ``known to'' somebody.
+			All that can be said is that it means “beheld of” or “known to” somebody.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
@@ -302,19 +302,19 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Himinn heitir meþ mo~nnum,<sep />en hlyrnir meþ goþum,<br />
+			“Himinn heitir meþ mǫnnum,<sep />en hlyrnir meþ goþum,<br />
 			kalla vindofni vanir,<br />
-			uppheim jo~tnar,<sep />alfar fagra ra_e`fr,<br />
-			dvergar drju`pan sal.''
+			uppheim jǫtnar,<sep />alfar fagra rǣfr,<br />
+			dvergar drjūpan sal.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Heaven' men call it,<sep />`The Height' the gods,<br />
+			“ `Heaven' men call it,<sep />`The Height' the gods,<br />
 			The Wanes `The Weaver of Winds';<br />
 			Giants `The Up-World,'<sep />elves `The Fair-Roof,'<br />
-			The dwarfs `The Dripping Hall.' ''
+			The dwarfs `The Dripping Hall.' ”
 		</translation>
 	</block>
 	<block class="stanza" number="13">
@@ -322,19 +322,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hversu ma`ni heitir,<sep />sa`s menn sea,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hversu māni heitir,<sep />sās menn sea,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men.:<br />
 			What call they the moon,<sep />that men behold,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="14">
@@ -342,23 +342,23 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Ma`ni heitir meþ mo~nnum,<sep />en mylinn meþ goþum,<br />
-			kalla hve`l helju i`,<br />
-			skyndi jo~tnar,<sep />en skin dvergar,<br />
-			kalla alfar a`rtala.''
+			“Māni heitir meþ mǫnnum,<sep />en mylinn meþ goþum,<br />
+			kalla hvēl helju ī,<br />
+			skyndi jǫtnar,<sep />en skin dvergar,<br />
+			kalla alfar ārtala.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Moon' with men, `Flame'<sep />the gods among,<br />
+			“ `Moon' with men, `Flame'<sep />the gods among,<br />
 			`The Wheel' in the house of hell;<br />
 			`The Goer' the giants,<sep />`The Gleamer' the dwarfs,<br />
-			The elves `The Teller of Time.' ''
+			The elves `The Teller of Time.' ”
 		</translation>
 		<comment>
-			<expl>Flame</expl>: a doubtful word; Vigfusson suggests that it properly means a ``mock sun.''
-			<expl>Wheel</expl>: the manuscript adds the adjective ``whirling,'' to the destruction of the metre; cf. <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">84</stanzaref>, 3.
+			<expl>Flame</expl>: a doubtful word; Vigfusson suggests that it properly means a “mock sun.”
+			<expl>Wheel</expl>: the manuscript adds the adjective “whirling,” to the destruction of the metre; cf. <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">84</stanzaref>, 3.
 		</comment>
 	</block>
 	<block class="stanza" number="15">
@@ -366,19 +366,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` su` so`l heitir,<sep />es sea alda synir,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sū sōl heitir,<sep />es sea alda synir,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the sun,<sep />that all men see,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="16">
@@ -386,25 +386,25 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``So`l heitir meþ mo~nnum,<sep />en sunna meþ goþum,<br />
+			“Sōl heitir meþ mǫnnum,<sep />en sunna meþ goþum,<br />
 			kalla dvergar Dvalins leika,<br />
-			eyglo` jo~tnar,<sep />alfar fagra hve`l,<br />
-			alski`r a`sa synir.''
+			eyglō jǫtnar,<sep />alfar fagra hvēl,<br />
+			alskīr āsa synir.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``Men call it 'Sun,'<sep />gods 'Orb of the Sun,'<br />
+			“Men call it 'Sun,'<sep />gods 'Orb of the Sun,'<br />
 			'The Deceiver of Dvalin' the dwarfs;<br />
 			The giants 'The Ever-Bright,'<sep />elves 'Fair Wheel,'<br />
-			'All-Glowing' the sons of the gods.''
+			'All-Glowing' the sons of the gods.”
 		</translation>
 		<comment>
 			<expl>Deceiver of Dvalin</expl>: Dvalin was one of the foremost dwarfs; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">14</stanzaref>, <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">13</stanzaref>, and <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">144</stanzaref>.
-			The sun ``deceives'' him because, like the other dwarfs living under ground, he cannot live in its light, and always fears lest sunrise may catch him unaware.
+			The sun “deceives” him because, like the other dwarfs living under ground, he cannot live in its light, and always fears lest sunrise may catch him unaware.
 			The sun's rays have power to turn the dwarfs into stone, and the giantess Hrimgerth meets a similar fate (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <stanzaref chapter="Helgakvitha Hjorvarthssonar">30</stanzaref>).
-			Alvis suffers in the same way; cf. stanza <sr>35</sr>.
+			Alvis suffers in the same way; cf. stanza <stanzaref chapter="Alvissmol">35</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="17">
@@ -412,19 +412,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` þau sky` heita,<sep />es sku`rum blandask,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē þau skȳ heita,<sep />es skūrum blandask,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the clouds,<sep />that keep the rains,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="18">
@@ -432,19 +432,19 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Sky` heita meþ mo~nnum,<sep />en sku`rvo~`n meþ goþum,<br />
+			“Skȳ heita meþ mǫnnum,<sep />en skūrvǭn meþ goþum,<br />
 			kalla vindflot vanir,<br />
-			u`rvo~`n jo~tnar,<sep />alfar veþrmegin,<br />
-			kalla i` helju hjalm huliþs.''
+			ūrvǭn jǫtnar,<sep />alfar veþrmegin,<br />
+			kalla ī helju hjalm huliþs.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Clouds' men name them,<sep />`Rain-Hope' gods call them,<br />
+			“ `Clouds' men name them,<sep />`Rain-Hope' gods call them,<br />
 			The Wanes call them `Kites of the Wind';<br />
 			`Water-Hope' giants,<sep />`Weather-Might' elves,<br />
-			`The Helmet of Secrets' in hell.''
+			`The Helmet of Secrets' in hell.”
 		</translation>
 	</block>
 	<block class="stanza" number="19">
@@ -452,19 +452,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` sa` vindr heitir,<sep />es vi`þast ferr,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sā vindr heitir,<sep />es vīþast ferr,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the wind,<sep />that widest fares,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="20">
@@ -472,24 +472,24 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Vindr heitir meþ mo~nnum,<sep />en vo~`fuþr meþ goþum,<br />
+			“Vindr heitir meþ mǫnnum,<sep />en vǭfuþr meþ goþum,<br />
 			kalla gneggjuþ ginnregin,<br />
-			o/`pi jo~tnar,<sep />alfar dynfara,<br />
-			kalla i` helju hviþuþ.''
+			ø̄pi jǫtnar,<sep />alfar dynfara,<br />
+			kalla ī helju hviþuþ.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Wind' do men call it,<sep />the gods `The Waverer,'<br />
+			“ `Wind' do men call it,<sep />the gods `The Waverer,'<br />
 			`The Neigher' the holy ones high;<br />
 			`The Wailer' the giants,<sep />`Roaring Wender' the elves,<br />
-			In hell `The Blustering Blast.' ''
+			In hell `The Blustering Blast.' ”
 		</translation>
 		<comment>
-			Snorri quotes this stanza in the <src>Skaldskaparmal</src>.
-			<expl>Waverer</expl>: the word is uncertain, the <src>Prose Edda</src> manuscripts giving it in various forms.
-			<expl>Blustering Blast</expl>: two <src>Prose Edda</src> manuscripts give a totally different word, meaning ``The Pounder.''
+			Snorri quotes this stanza in the <source>Skaldskaparmal</source>.
+			<expl>Waverer</expl>: the word is uncertain, the <source>Prose Edda</source> manuscripts giving it in various forms.
+			<expl>Blustering Blast</expl>: two <source>Prose Edda</source> manuscripts give a totally different word, meaning “The Pounder.”
 		</comment>
 	</block>
 	<block class="stanza" number="21">
@@ -497,19 +497,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` þat logn heitir,<sep />es liggja skal,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē þat logn heitir,<sep />es liggja skal,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all<br />
+			“Answer me, Alvis!<sep />thou knowest all<br />
 			Dwarf, of the doom of men:<br />
 			What call they the calm,<sep />that quiet lies,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="22">
@@ -517,22 +517,22 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Logn heitir meþ mo~nnum,<sep />en lo/`gi meþ goþum,<br />
+			“Logn heitir meþ mǫnnum,<sep />en lø̄gi meþ goþum,<br />
 			kalla vindslot vanir,<br />
-			ofhly` jo~tnar,<sep />alfar dagsefa,<br />
-			kalla dvergar dags veru.''
+			ofhlȳ jǫtnar,<sep />alfar dagsefa,<br />
+			kalla dvergar dags veru.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Calm' men call it,<sep />`The Quiet' the gods,<br />
+			“ `Calm' men call it,<sep />`The Quiet' the gods,<br />
 			The Wanes `The Hush of the Winds';<br />
 			`The Sultry' the giants,<sep />elves `Day's Stillness,'<br />
-			The dwarfs `The Shelter of Day.' ''
+			The dwarfs `The Shelter of Day.' ”
 		</translation>
 		<comment>
-			<expl>Hush</expl>, etc.: the manuscript, by inserting an additional letter, makes the word practically identical with that translated ``Kite'' in stanza <sr>18</sr>.
+			<expl>Hush</expl>, etc.: the manuscript, by inserting an additional letter, makes the word practically identical with that translated “Kite” in stanza <stanzaref chapter="Alvissmol">18</stanzaref>.
 			Most editors have agreed as to the emendation.
 		</comment>
 	</block>
@@ -541,19 +541,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` sa` marr heitir,<sep />es menn roa,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sā marr heitir,<sep />es menn roa,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the sea,<sep />whereon men sail,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="24">
@@ -561,19 +561,19 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Sa_e`r heitir meþ mo~nnum,<sep />en si`la_e`gja meþ goþum,<br />
-			kalla va`g vanir,<br />
-			a`lheim jo~tnar,<sep />alfar la`gastaf,<br />
-			kalla dvergar dju`pan mar.''
+			“Sǣr heitir meþ mǫnnum,<sep />en sīlǣgja meþ goþum,<br />
+			kalla vāg vanir,<br />
+			ālheim jǫtnar,<sep />alfar lāgastaf,<br />
+			kalla dvergar djūpan mar.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Sea' men call it,<sep />gods `The Smooth-Lying,'<br />
+			“ `Sea' men call it,<sep />gods `The Smooth-Lying,'<br />
 			`The Wave' is it called by the Wanes;<br />
 			`Eel-Home' the giants,<sep />`Drink-Stuff' the elves,<br />
-			For the dwarfs its name is `The Deep.' ''
+			For the dwarfs its name is `The Deep.' ”
 		</translation>
 		<comment>
 			<expl>Drink-Stuff</expl>: Gering translates the word thus; I doubt it, but can suggest nothing better.
@@ -584,19 +584,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` sa` eldr heitir,<sep />es brinnr fyr alda sunum,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sā eldr heitir,<sep />es brinnr fyr alda sunum,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the fire,<sep />that flames for men,<br />
-			In each of all the worlds?''
+			In each of all the worlds?”
 		</translation>
 	</block>
 	<block class="stanza" number="26">
@@ -604,22 +604,22 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Eldr heitir meþ mo~nnum,<sep />en meþ o~`sum funi,<br />
-			kalla va_e`gin vanir,<br />
-			freka jo~tnar,<sep />en forbrenni dvergar,<br />
-			kalla i` helju hro~þuþ.''
+			“Eldr heitir meþ mǫnnum,<sep />en meþ ǭsum funi,<br />
+			kalla vǣgin vanir,<br />
+			freka jǫtnar,<sep />en forbrenni dvergar,<br />
+			kalla ī helju hrǫþuþ.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Fire' men call it,<sep />and `Flame' the gods,<br />
+			“ `Fire' men call it,<sep />and `Flame' the gods,<br />
 			By the Wanes is it `Wildfire' called;<br />
 			`The Biter' by giants,<sep />`The Burner' by dwarfs,<br />
-			`The Swift' in the house of hell.''
+			`The Swift' in the house of hell.”
 		</translation>
 		<comment>
-			<expl>Wildfire</expl>: the word may mean any one of various things, including ``Wave,'' which is not unlikely.
+			<expl>Wildfire</expl>: the word may mean any one of various things, including “Wave,” which is not unlikely.
 		</comment>
 	</block>
 	<block class="stanza" number="27">
@@ -627,19 +627,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` sa` viþr heitir,<sep />es vex fyr alda sunum,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sā viþr heitir,<sep />es vex fyr alda sunum,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the wood,<sep />that grows for mankind,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="28">
@@ -647,22 +647,22 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Viþr heitir meþ mo~nnum,<sep />en vallar fax meþ goþum,<br />
-			kalla hli`þþang halir,<br />
-			eldi jo~tnar,<sep />alfar fagrlima,<br />
-			kalla vo~nd vanir.''
+			“Viþr heitir meþ mǫnnum,<sep />en vallar fax meþ goþum,<br />
+			kalla hlīþþang halir,<br />
+			eldi jǫtnar,<sep />alfar fagrlima,<br />
+			kalla vǫnd vanir.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``Men call it `The Wood,'<sep />gods `The Mane of the Field,'<br />
+			“Men call it `The Wood,'<sep />gods `The Mane of the Field,'<br />
 			`Seaweed of Hills' in hell;<br />
 			`Flame-Food' the giants,<sep />`Fair-Limbed' the elves,<br />
-			`The Wand' is it called by the Wanes.''
+			`The Wand' is it called by the Wanes.”
 		</translation>
 		<comment>
-			<expl>In hell</expl>: the word simply means ``men,'' and it is only a guess, though a generally accepted one, that here it refers to the dead.
+			<expl>In hell</expl>: the word simply means “men,” and it is only a guess, though a generally accepted one, that here it refers to the dead.
 		</comment>
 	</block>
 	<block class="stanza" number="29">
@@ -670,19 +670,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` su` no~`tt heitir,<sep />en No~rvi kenda,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē sū nǭtt heitir,<sep />en Nǫrvi kenda,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the night,<sep />the daughter of Nor,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 		<comment>
 			<expl>Nor</expl>: presumably the giant whom Snorri calls Norvi or Narfi, father of Not (Night) and grandfather of Dag (Day).
@@ -694,24 +694,24 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``No~`tt heitir meþ mo~nnum,<sep />en njo`l meþ goþum,<br />
-			kalla gri`mu ginnregin,<br />
-			o`ljo`s jo~tnar,<sep />alfar svefngaman,<br />
-			kalla dvergar draumnjo~run.''
+			“Nǭtt heitir meþ mǫnnum,<sep />en njōl meþ goþum,<br />
+			kalla grīmu ginnregin,<br />
+			ōljōs jǫtnar,<sep />alfar svefngaman,<br />
+			kalla dvergar draumnjǫrun.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Night' men call it,<sep />`Darkness' gods name it,<br />
+			“ `Night' men call it,<sep />`Darkness' gods name it,<br />
 			`The Hood' the holy ones high;<br />
 			The giants `The Lightless,'<sep />the elves `Sleep's joy,'<br />
-			The dwarfs `The Weaver of Dreams.' ''
+			The dwarfs `The Weaver of Dreams.' ”
 		</translation>
 		<comment>
-			Snorri quotes this stanza in the <src>Skaldskaparmal</src>.
+			Snorri quotes this stanza in the <source>Skaldskaparmal</source>.
 			The various Prose Edda manuscripts differ considerably in naming the gods, the giants, etc.
-			<expl>Lightless</expl>: some manuscripts have ``The Unsorrowing.''
+			<expl>Lightless</expl>: some manuscripts have “The Unsorrowing.”
 		</comment>
 	</block>
 	<block class="stanza" number="31">
@@ -719,19 +719,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` þat sa`þ heitir,<sep />es sa` alda synir,<br />
-			heimi hverjum i`?
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē þat sāþ heitir,<sep />es sā alda synir,<br />
+			heimi hverjum ī?
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the seed,<sep />that is sown by men,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="32">
@@ -739,23 +739,23 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``Bygg heitir meþ mo~nnum,<sep />en barr meþ goþum,<br />
-			kalla vo~xt vanir,<br />
-			a_e`ti jo~tnar,<sep />alfar la`gastaf,<br />
-			kalla i` helju hnipinn.''
+			“Bygg heitir meþ mǫnnum,<sep />en barr meþ goþum,<br />
+			kalla vǫxt vanir,<br />
+			ǣti jǫtnar,<sep />alfar lāgastaf,<br />
+			kalla ī helju hnipinn.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			``Men call it `Grain,'<sep />and `Corn' the gods,<br />
+			“Men call it `Grain,'<sep />and `Corn' the gods,<br />
 			`Growth' in the world of the Wanes;<br />
 			`The Eaten' by giants,<sep />`Drink-Stuff' by elves,<br />
-			In hell `The Slender Stem.' ''
+			In hell `The Slender Stem.' ”
 		</translation>
 		<comment>
-			<expl>Grain</expl>: the two words translated ``grain'' and ``corn'' apparently both meant primarily barley, and thence grain in general, the first being the commoner term of the two.
-			<expl>Drink-Stuff</expl>: the word is identical with the one used, and commented on, in stanza <sr>24</sr>, and again I have followed Gering's interpretation for want of a better one.
+			<expl>Grain</expl>: the two words translated “grain” and “corn” apparently both meant primarily barley, and thence grain in general, the first being the commoner term of the two.
+			<expl>Drink-Stuff</expl>: the word is identical with the one used, and commented on, in stanza <stanzaref chapter="Alvissmol">24</stanzaref>, and again I have followed Gering's interpretation for want of a better one.
 			If his guess is correct, the reference here is evidently to grain as the material from which beer and other drinks are brewed.
 		</comment>
 	</block>
@@ -764,19 +764,19 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Alvi`ss!<sep />o~ll of ro/k fira<br />
-			vo~rumk, dvergr! at vitir:<br />
-			hve` þat o~l heitir,<sep />es drekka alda synir,<br />
-			heimi hverjum i`?''
+			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
+			vǫrumk, dvergr! at vitir:<br />
+			hvē þat ǫl heitir,<sep />es drekka alda synir,<br />
+			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``Answer me, Alvis!<sep />thou knowest all,<br />
+			“Answer me, Alvis!<sep />thou knowest all,<br />
 			Dwarf, of the doom of men:<br />
 			What call they the ale,<sep />that is quaffed of men,<br />
-			In each and every world?''
+			In each and every world?”
 		</translation>
 	</block>
 	<block class="stanza" number="34">
@@ -784,23 +784,23 @@
 			Alvis spake:
 		</original_prelude>
 		<original>
-			``O~l heitir meþ mo~nnum,<sep />en meþ o~`sum bjo`rr,<br />
+			“Ǫl heitir meþ mǫnnum,<sep />en meþ ǭsum bjōrr,<br />
 			kalla veig vanir,<br />
-			hreina lo~g jo~tnar,<sep />en i` helju mjo~þ,<br />
-			kalla sumbl Suttungs synir.''
+			hreina lǫg jǫtnar,<sep />en ī helju mjǫþ,<br />
+			kalla sumbl Suttungs synir.”
 		</original>
 		<translation_prelude>
-			Alvi`ss kvaþ:
+			Alvīss kvaþ:
 		</translation_prelude>
 		<translation>
-			`` `Ale' among men,<sep />`Beer' the gods among,<br />
+			“ `Ale' among men,<sep />`Beer' the gods among,<br />
 			In the world of the Wanes `The Foaming';<br />
 			`Bright Draught' with giants,<sep />`Mead' with dwellers in hell,<br />
-			`The Feast-Draught' with Suttung's sons.''
+			`The Feast-Draught' with Suttung's sons.”
 		</translation>
 		<comment>
 			<expl>Suttung's sons</expl>: these ought to be the giants, but the giants are specifically mentioned in line 3.
-			The phrase ``Suttung's sons'' occurs in <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">34</stanzaref>, clearly meaning the giants.
+			The phrase “Suttung's sons” occurs in <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">34</stanzaref>, clearly meaning the giants.
 			Concerning Suttung as the possessor of the mead of poetry, cf. <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">104</stanzaref>.
 		</comment>
 	</block>
@@ -809,24 +809,24 @@
 			Thor spake:
 		</original_prelude>
 		<original>
-			``I` einu brjo`sti<sep />ek sa`k aldrigi<br />
+			“Ī einu brjōsti<sep />ek sāk aldrigi<br />
 			fleiri forna stafi;<br />
-			to~`lum miklum<sep />ek kveþ ta_e`ldan þik:<br />
+			tǭlum miklum<sep />ek kveþ tǣldan þik:<br />
 			uppi est, dvergr! of dagaþr,<br />
-			nu` ski`nn so`l i` sali.''<br />
+			nū skīnn sōl ī sali.”<br />
 		</original>
 		<translation_prelude>
-			Þo`rr kvaþ:
+			Þōrr kvaþ:
 		</translation_prelude>
 		<translation>
-			``In a single breast<sep />I never have seen<br />
+			“In a single breast<sep />I never have seen<br />
 			More wealth of wisdom old;<br />
 			But with treacherous wiles<sep />must I now betray thee:<br />
 			The day has caught thee, dwarf!<br />
-			(Now the sun shines here in the hall.)''<br />
+			(Now the sun shines here in the hall.)”<br />
 		</translation>
 		<comment>
-			Concerning the inability of the dwarfs to endure sunlight, which turns them into stone, cf. stanza <sr>16</sr> and note.
+			Concerning the inability of the dwarfs to endure sunlight, which turns them into stone, cf. stanza <stanzaref chapter="Alvissmol">16</stanzaref> and note.
 			Line 5 may be spurious.
 		</comment>
 	</block>
