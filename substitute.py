@@ -6,7 +6,11 @@ import sys
 import re
 
 input = sys.argv[1]
-output = sys.argv[2]
+
+if len(sys.argv) > 2:
+	output = sys.argv[2]
+else:
+	output = input
 
 substitutions = [
 	(u"a_e`", u"ǣ"),
