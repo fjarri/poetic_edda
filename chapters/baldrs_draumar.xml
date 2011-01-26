@@ -1,18 +1,18 @@
 <chapter english_name="Baldrs Draumar" icelandic_name="Baldrs Draumar" translation="">
 	<block class="text">
-		<cr>Baldrs Draumar</cr> is found only in the <src>Arnamagnæan Codex</src>, where it follows the <cr>Harbarthsljoth</cr> fragment.
+		<chapterref>Baldrs Draumar</chapterref> is found only in the <source>Arnamagnæan Codex</source>, where it follows the <chapterref>Harbarthsljoth</chapterref> fragment.
 		It is preserved in various late paper manuscripts, with the title Vegtamskvitha (The Lay of Vegtam), which has been used by some editors.
 	</block>
 	<block class="text">
 		The poem, which contains but fourteen stanzas, has apparently been preserved in excellent condition.
-		Its subject-matter and style link it closely with the <cr>Voluspo</cr>.
-		Four of the five lines of stanza <sr>11</sr> appear, almost without change, in the <cr>Voluspo</cr>, <sr>32</sr>--<sr>33</sr>, and the entire poem is simply an elaboration of the episode outlined in those and the preceding stanzas.
-		It has been suggested that <cr>Baldrs Draumar</cr> and the <cr>Voluspo</cr> may have been by the same author.
-		There is also enough similarity in style between <cr>Baldrs Draumar</cr> and the <cr>Thrymskvitha</cr> (note especially the opening stanza) to give color to Vigfusson's guess that these two poems had a common authorship.
-		In any case, <cr>Baldrs Draumar</cr> presumably assumed its present form not later than the first half of the tenth century.
+		Its subject-matter and style link it closely with the <chapterref>Voluspo</chapterref>.
+		Four of the five lines of stanza <stanzaref chapter="Baldrs Draumar">11</stanzaref> appear, almost without change, in the <chapterref>Voluspo</chapterref>, <stanzaref chapter="Baldrs Draumar">32</stanzaref>–<stanzaref chapter="Baldrs Draumar">33</stanzaref>, and the entire poem is simply an elaboration of the episode outlined in those and the preceding stanzas.
+		It has been suggested that <chapterref>Baldrs Draumar</chapterref> and the <chapterref>Voluspo</chapterref> may have been by the same author.
+		There is also enough similarity in style between <chapterref>Baldrs Draumar</chapterref> and the <chapterref>Thrymskvitha</chapterref> (note especially the opening stanza) to give color to Vigfusson's guess that these two poems had a common authorship.
+		In any case, <chapterref>Baldrs Draumar</chapterref> presumably assumed its present form not later than the first half of the tenth century.
 	</block>
 	<block class="text">
-		Whether the Volva (wise-woman) of the poem is identical with the speaker in the <cr>Voluspo</cr> is purely a matter for conjecture.
+		Whether the Volva (wise-woman) of the poem is identical with the speaker in the <chapterref>Voluspo</chapterref> is purely a matter for conjecture.
 		Nothing definitely opposes such a supposition.
 		As in the longer poem she foretells the fall of the gods, so in this case she prophesies the first incident of that fall, the death of Baldr.
 		Here she is called up from the dead by Othin, anxious to know the meaning of Baldr's evil dreams; in the Voluspo it is likewise intimated that the Volva has risen from the grave.
@@ -22,10 +22,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			Senn vo~ru a_e`sir<sep />allir a` þingi<br />
-			ok a`synjur<sep />allar a` ma`li,<br />
-			ok of þat re`þu<sep />ri`kir ti`var,<br />
-			hvi` va_eri Baldri<sep />ballir draumar.
+			Senn vǫru ǣsir<sep />allir ā þingi<br />
+			ok āsynjur<sep />allar ā māli,<br />
+			ok of þat rēþu<sep />rīkir tīvar,<br />
+			hvī væri Baldri<sep />ballir draumar.
 		</original>
 		<translation>
 			Once were the gods<sep />together met,<br />
@@ -34,18 +34,18 @@
 			Why baleful dreams<sep />to Baldr had come.
 		</translation>
 		<comment>
-			Lines 1--3 are identical with <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">13</stanzaref>, 1--3.
+			Lines 1–3 are identical with <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">13</stanzaref>, 1–3.
 			Baldr: concerning this best and noblest of the gods, the son of Othin and Frigg, who comes again among the survivors after the final battle, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and <stanzaref chapter="Voluspo">62</stanzaref>, and notes.
 			He is almost never mentioned anywhere except in connection with the story of his death, though Snorri has one short passage praising his virtue and beauty.
-			After stanza <sr>1</sr> two old editions, and one later one, insert four stanzas from late paper manuscripts.
+			After stanza <stanzaref chapter="Baldrs Draumar">1</stanzaref> two old editions, and one later one, insert four stanzas from late paper manuscripts.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Upp reis O`þinn,<sep />aldinn gautr,<br />
-			auk a` Sleipni<sep />so~þul of lagþi;<br />
+			Upp reis Ōþinn,<sep />aldinn gautr,<br />
+			auk ā Sleipni<sep />sǫþul of lagþi;<br />
 			reiþ niþr þaþan<sep />Niflheljar til,<br />
-			mo/`tti hvelpi<sep />es o`r helju kvam.
+			mø̄tti hvelpi<sep />es ōr helju kvam.
 		</original>
 		<translation>
 			Then Othin rose,<sep />the enchanter old,<br />
@@ -55,16 +55,16 @@
 		</translation>
 		<comment>
 			<expl>Sleipnir</expl>: Othin's eight-legged horse, the son of Loki and the stallion Svathilfari; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">23</stanzaref>, and <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">44</stanzaref>, and notes.
-			<expl>Niflhel</expl>: the murky (``nifl'') dwelling of Hel, goddess of the dead.
+			<expl>Niflhel</expl>: the murky (“nifl”) dwelling of Hel, goddess of the dead.
 			<expl>The hound</expl>: Garm; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">44</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			Sa` vas blo`þugr<sep />of brjo`st framan<br />
-			ok galdrs fo~þur<sep />go` of lengi;<br />
-			fram reiþ O`þinn,<sep />foldvegr dunþi,<br />
-			hann kvam at ho~`vu<sep />Heljar ranni.
+			Sā vas blōþugr<sep />of brjōst framan<br />
+			ok galdrs fǫþur<sep />gō of lengi;<br />
+			fram reiþ Ōþinn,<sep />foldvegr dunþi,<br />
+			hann kvam at hǭvu<sep />Heljar ranni.
 		</original>
 		<translation>
 			Bloody he was<sep />on his breast before,<br />
@@ -81,10 +81,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			Þa` reiþ O`þinn<sep />fyr austan dyrr,<br />
-			þars hann vissi<sep />vo~lvu leiþi,<br />
+			Þā reiþ Ōþinn<sep />fyr austan dyrr,<br />
+			þars hann vissi<sep />vǫlvu leiþi,<br />
 			nam vittugri<sep />valgaldr kveþa,<br />
-			unz nauþug reis,<sep />na`s orþ of kvaþ:
+			unz nauþug reis,<sep />nās orþ of kvaþ:
 		</original>
 		<translation>
 			Then Othin rode<sep />to the eastern door,<br />
@@ -95,40 +95,40 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			``Hvat's manna þat<sep />me`r o`kunnra<br />
-			es ho~fumk aukit<sep />erfitt sinni?<br />
-			vask snivin snjo`vi<sep />ok slegin regni<br />
-			ok drifin do~ggu,<sep />dauþ vask lengi.''
+			“Hvat's manna þat<sep />mēr ōkunnra<br />
+			es hǫfumk aukit<sep />erfitt sinni?<br />
+			vask snivin snjōvi<sep />ok slegin regni<br />
+			ok drifin dǫggu,<sep />dauþ vask lengi.”
 		</original>
 		<translation>
-			``What is the man,<sep />to me unknown,<br />
+			“What is the man,<sep />to me unknown,<br />
 			That has made me travel<sep />the troublous road?<br />
 			I was snowed on with snow,<sep />and smitten with rain,<br />
-			And drenched with dew;<sep />long was I dead.''
+			And drenched with dew;<sep />long was I dead.”
 		</translation>
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-			O`þinn kvaþ:
+			Ōþinn kvaþ:
 		</original_prelude>
 		<original>
-			``Vegtamr heitik,<sep />sunr emk Valtams;<br />
-			seg mer o`r helju,<sep />ek mun o`r heimi:<br />
-			hveim eru bekkir<sep />baugum sa`nir,<br />
-			flet fagrliga<sep />flo`iþ gulli?''
+			“Vegtamr heitik,<sep />sunr emk Valtams;<br />
+			seg mer ōr helju,<sep />ek mun ōr heimi:<br />
+			hveim eru bekkir<sep />baugum sānir,<br />
+			flet fagrliga<sep />flōiþ gulli?”
 		</original>
 		<translation_prelude>
 			Othin spake:
 		</translation_prelude>
 		<translation>
-			``Vegtam my name,<sep />I am Valtam's son;<br />
+			“Vegtam my name,<sep />I am Valtam's son;<br />
 			Speak thou of hell,<sep />for of heaven I know:<br />
 			For whom are the benches<sep />bright with rings,<br />
-			And the platforms gay<sep />bedecked with gold?''
+			And the platforms gay<sep />bedecked with gold?”
 		</translation>
 		<comment>
 			The manuscript has no superscriptions indicating the speakers.
-			<expl>Vegtam</expl> (``The Wanderer''): Othin, as usual, conceals his identity, calling himself the son of Valtam (``The Fighter'').
+			<expl>Vegtam</expl> (“The Wanderer”): Othin, as usual, conceals his identity, calling himself the son of Valtam (“The Fighter”).
 			In this instance he has unusual need to do so, for as the wise-woman belongs apparently to the race of the giants, she would be unwilling to answer a god's questions.
 			<expl>Heaven</expl>: the word used includes all the upper worlds, in contrast to hell.
 			<expl>Benches</expl>, etc.: the adornment of the benches and raised platforms, or elevated parts of the house, was a regular part of the preparation for a feast of welcome.
@@ -137,22 +137,22 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-			Vo~lva kvaþ:
+			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			``He`r stendr Baldri<sep />of brugginn mjo~þr,<br />
-			ski`rar veigar,<sep />liggr skjo~ldr yfir;<br />
-			en a`smegir<sep />i` ofva_e`ni.<br />
-			Nauþug sagþak,<sep />nu` munk þegja.''
+			“Hēr stendr Baldri<sep />of brugginn mjǫþr,<br />
+			skīrar veigar,<sep />liggr skjǫldr yfir;<br />
+			en āsmegir<sep />ī ofvǣni.<br />
+			Nauþug sagþak,<sep />nū munk þegja.”
 		</original>
 		<translation_prelude>
 			The Wise-Woman spake:
 		</translation_prelude>
 		<translation>
-			``Here for Baldr<sep />the mead is brewed,<br />
+			“Here for Baldr<sep />the mead is brewed,<br />
 			The shining drink,<sep />and a shield lies o'er it;<br />
 			But their hope is gone<sep />from the mighty gods.<br />
-			Unwilling I spake,<sep />and now would be still.''
+			Unwilling I spake,<sep />and now would be still.”
 		</translation>
 		<comment>
 			Grundtvig, followed by, Edzardi, thinks a line has been lost between lines 3 and 4.
@@ -160,144 +160,144 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-			O`þinn kvaþ:
+			Ōþinn kvaþ:
 		</original_prelude>
 		<original>
-			``Þegjat, vo~lva!<sep />þik vilk fregna,<br />
+			“Þegjat, vǫlva!<sep />þik vilk fregna,<br />
 			unz alkunna,<sep />vilk enn vita:<br />
 			hverr mun Baldri<sep />at bana verþa<br />
-			ok O`þins sun<sep />aldri ra_e`na?''
+			ok Ōþins sun<sep />aldri rǣna?”
 		</original>
 		<translation_prelude>
 			Othin spake:
 		</translation_prelude>
 		<translation>
-			``Wise-woman, cease not!<sep />I seek from thee<br />
+			“Wise-woman, cease not!<sep />I seek from thee<br />
 			All to know<sep />that I fain would ask:<br />
 			Who shall the bane<sep />of Baldr become,<br />
-			And steal the life<sep />from Othin's son?''
+			And steal the life<sep />from Othin's son?”
 		</translation>
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-			Vo~lva kvaþ:
+			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			``Ho~þr berr ho~`van<sep />hro`þrbaþm þinig,<br />
+			“Hǫþr berr hǭvan<sep />hrōþrbaþm þinig,<br />
 			hann mun Baldri<sep />at bana verþa<br />
-			ok O`þins sun<sep />aldri ra_e`na.<br />
-			Nauþug sagþak,<sep />nu` munk þegja.''
+			ok Ōþins sun<sep />aldri rǣna.<br />
+			Nauþug sagþak,<sep />nū munk þegja.”
 		</original>
 		<translation_prelude>
 			The Wise-Woman spake:
 		</translation_prelude>
 		<translation>
-			``Hoth thither bears<sep />the far-famed branch,<br />
+			“Hoth thither bears<sep />the far-famed branch,<br />
 			He shall the bane<sep />of Baldr become,<br />
 			And steal the life<sep />from Othin's son.<br />
-			Unwilling I spake,<sep />and now would be still.''
+			Unwilling I spake,<sep />and now would be still.”
 		</translation>
 		<comment>
-			Concerning the blind Hoth, who, at Loki's instigation, cast the fatal mistletoe at Baldr, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref>--<stanzaref chapter="Voluspo">33</stanzaref> and notes.
-			In the manuscript the last line is abbreviated, as also in stanza <sr>11</sr>.
+			Concerning the blind Hoth, who, at Loki's instigation, cast the fatal mistletoe at Baldr, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref>–<stanzaref chapter="Voluspo">33</stanzaref> and notes.
+			In the manuscript the last line is abbreviated, as also in stanza <stanzaref chapter="Baldrs Draumar">11</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-			O`þinn kvaþ:
+			Ōþinn kvaþ:
 		</original_prelude>
 		<original>
-			``Þegjat, vo~lva!<sep />þik vilk fregna,<br />
+			“Þegjat, vǫlva!<sep />þik vilk fregna,<br />
 			unz alkunna,<sep />vilk enn vita:<br />
 			hverr mun heiptar [Heþi]<sep />hefnt of vinna<br />
-			eþa Baldrs bana<sep />a` ba`l vega?''
+			eþa Baldrs bana<sep />ā bāl vega?”
 		</original>
 		<translation_prelude>
 			Othin spake:
 		</translation_prelude>
 		<translation>
-			``Wise-woman, cease not!<sep />I seek from thee<br />
+			“Wise-woman, cease not!<sep />I seek from thee<br />
 			All to know<sep />that I fain would ask:<br />
 			Who shall vengeance win<sep />for the evil work,<br />
-			Or bring to the flames<sep />the slayer of Baldr?''
+			Or bring to the flames<sep />the slayer of Baldr?”
 		</translation>
 		<comment>
-			In the manuscript lines 1--2 are abbreviated, as also in stanza <sr>12</sr>.
+			In the manuscript lines 1–2 are abbreviated, as also in stanza <stanzaref chapter="Baldrs Draumar">12</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-			Vo~lva kvaþ:
+			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			``<conj>Va`la</conj> berr Rindr<sep />i` vestrso~lum,<br />
-			sa mun O`þins sunr<sep />einna_e`ttr vega;<br />
-			ho~nd of þva_e`rat<sep />ne` ho~fuþ kembir,<br />
-			a`þr a` ba`l of berr<sep />Baldrs andskota.<br />
-			Nauþug sagþak,<sep />nu` munk þegja.''
+			“<conj>Vāla</conj> berr Rindr<sep />ī vestrsǫlum,<br />
+			sa mun Ōþins sunr<sep />einnǣttr vega;<br />
+			hǫnd of þvǣrat<sep />nē hǫfuþ kembir,<br />
+			āþr ā bāl of berr<sep />Baldrs andskota.<br />
+			Nauþug sagþak,<sep />nū munk þegja.”
 		</original>
 		<translation_prelude>
 			The Wise-Woman spake:
 		</translation_prelude>
 		<translation>
-			``Rind bears Vali<sep />in Vestrsalir,<br />
+			“Rind bears Vali<sep />in Vestrsalir,<br />
 			And one night old<sep />fights Othin's son;<br />
 			His hands he shall wash not,<sep />his hair he shall comb not,<br />
 			Till the slayer of Baldr<sep />he brings to the flames.<br />
-			Unwilling I spake,<sep />and now would be still.''
+			Unwilling I spake,<sep />and now would be still.”
 		</translation>
 		<comment>
 			<expl>Rind</expl>: mentioned by Snorri as one of the goddesses.
-			Concerning her son Vali, begotten by Othin for the express purpose of avenging Baldr's death, and his slaying of Hoth the day after his birth, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>--<stanzaref chapter="Voluspo">34</stanzaref>, where the lines of this stanza appear practically verbatim.
-			<expl>Vestrsalir</expl> (``The Western Hall''): not else where mentioned in the poems.
+			Concerning her son Vali, begotten by Othin for the express purpose of avenging Baldr's death, and his slaying of Hoth the day after his birth, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>–<stanzaref chapter="Voluspo">34</stanzaref>, where the lines of this stanza appear practically verbatim.
+			<expl>Vestrsalir</expl> (“The Western Hall”): not else where mentioned in the poems.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
 		<original_prelude>
-			O`þinn kvaþ:
+			Ōþinn kvaþ:
 		</original_prelude>
 		<original>
-			``Þegjat, vo~lva!<sep />þik vilk fregna,<br />
+			“Þegjat, vǫlva!<sep />þik vilk fregna,<br />
 			unz alkunna,<sep />vilk enn vita:<br />
-			hverjar'u meyjar<sep />es at muni gra`ta<br />
-			ok a` himin verpa<sep />halsa skautum?''
+			hverjar'u meyjar<sep />es at muni grāta<br />
+			ok ā himin verpa<sep />halsa skautum?”
 		</original>
 		<translation_prelude>
 			Othin spake:
 		</translation_prelude>
 		<translation>
-			``Wise-woman, cease not!<sep />I seek from thee<br />
+			“Wise-woman, cease not!<sep />I seek from thee<br />
 			All to know<sep />that I fain would ask:<br />
 			What maidens are they<sep />who then shall weep,<br />
-			And toss to the sky<sep />the yards of the sails?''
+			And toss to the sky<sep />the yards of the sails?”
 		</translation>
 		<comment>
 			The manuscript marks the third line as the beginning of a stanza; something may have been lost.
-			Lines 3--4 are thoroughly obscure.
+			Lines 3–4 are thoroughly obscure.
 			According to Bugge the maidens who are to weep for Baldr are the daughters of the sea-god Ægir, the waves, whose grief will be so tempestuous that they will toss the ships up to the very sky.
-			``Yards of the sails'' is a doubtfully accurate rendering; the two words, at any rate in later Norse nautical speech, meant respectively the ``tack'' and the ``sheet'' of the square sail.
+			“Yards of the sails” is a doubtfully accurate rendering; the two words, at any rate in later Norse nautical speech, meant respectively the “tack” and the “sheet” of the square sail.
 		</comment>
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-			Vo~lva kvaþ:
+			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			``Estat Vegtamr,<sep />sem ek hugþa,<br />
-			heldr est O`þinn,<sep />aldinn gautr!''<br />
-			<stanzaprelude>O`þinn kvaþ:</stanzaprelude><br />
-			``Estat vo~lva<sep />ne` vi`s kona,<br />
-			heldr est þriggja<sep />þursa mo`þir!''
+			“Estat Vegtamr,<sep />sem ek hugþa,<br />
+			heldr est Ōþinn,<sep />aldinn gautr!”<br />
+			<stanzaprelude>Ōþinn kvaþ:</stanzaprelude><br />
+			“Estat vǫlva<sep />nē vīs kona,<br />
+			heldr est þriggja<sep />þursa mōþir!”
 		</original>
 		<translation_prelude>
 			The Wise-Woman spake:
 		</translation_prelude>
 		<translation>
-			``Vegtam thou art not,<sep />as erstwhile I thought;<br />
-			Othin thou art,<sep />the enchanter old.''<br />
+			“Vegtam thou art not,<sep />as erstwhile I thought;<br />
+			Othin thou art,<sep />the enchanter old.”<br />
 			<stanzaprelude>Othin spake:</stanzaprelude><br />
-			``No wise-woman art thou,<sep />nor wisdom hast;<br />
-			Of giants three<sep />the mother art thou.''
+			“No wise-woman art thou,<sep />nor wisdom hast;<br />
+			Of giants three<sep />the mother art thou.”
 		</translation>
 		<comment>
 			Possibly two separate stanzas.
@@ -306,22 +306,22 @@
 	</block>
 	<block class="stanza" number="14">
 		<original_prelude>
-			Vo~lva kvaþ:
+			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			``Heim ri`þ, O`þinn!<sep />ok ves hro`þugr:<br />
-			sva` komir manna<sep />meirr aptr a` vit,<br />
-			es lauss Loki<sep />li`þr o`r bo~ndum<br />
-			ok i` ragna ro/k<sep />rju`fendr koma.''
+			“Heim rīþ, Ōþinn!<sep />ok ves hrōþugr:<br />
+			svā komir manna<sep />meirr aptr ā vit,<br />
+			es lauss Loki<sep />līþr ōr bǫndum<br />
+			ok ī ragna røk<sep />rjūfendr koma.”
 		</original>
 		<translation_prelude>
 			The Wise-Woman spake:
 		</translation_prelude>
 		<translation>
-			``Home ride, Othin,<sep />be ever proud;<br />
+			“Home ride, Othin,<sep />be ever proud;<br />
 			For no one of men<sep />shall seek me more<br />
 			Till Loki wanders<sep />loose from his bonds,<br />
-			And to the last strife<sep />the destroyers come.''
+			And to the last strife<sep />the destroyers come.”
 		</translation>
 		<comment>
 			Concerning Loki's escape and his relation to the destruction of the gods, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref> and <stanzaref chapter="Voluspo">51</stanzaref>, and notes.
