@@ -1,0 +1,331 @@
+<chapter english_name="Baldrs Draumar" icelandic_name="Baldrs Draumar" translation="">
+	<block class="text">
+		<cr>Baldrs Draumar<cr> is found only in the <src>Arnamagnæan Codex</src>, where it follows the <cr>Harbarthsljoth</cr> fragment.
+		It is preserved in various late paper manuscripts, with the title Vegtamskvitha (The Lay of Vegtam), which has been used by some editors.
+	</block>
+	<block class="text">
+		The poem, which contains but fourteen stanzas, has apparently been preserved in excellent condition.
+		Its subject-matter and style link it closely with the <cr>Voluspo</cr>.
+		Four of the five lines of stanza <sr>11</sr> appear, almost without change, in the <cr>Voluspo</cr>, <sr>32</sr>--<sr>33</sr>, and the entire poem is simply an elaboration of the episode outlined in those and the preceding stanzas.
+		It has been suggested that <cr>Baldrs Draumar</cr> and the <cr>Voluspo</cr> may have been by the same author.
+		There is also enough similarity in style between <cr>Baldrs Draumar</cr> and the <cr>Thrymskvitha</cr> (note especially the opening stanza) to give color to Vigfusson's guess that these two poems had a common authorship.
+		In any case, <cr>Baldrs Draumar</cr> presumably assumed its present form not later than the first half of the tenth century.
+	</block>
+	<block class="text">
+		Whether the Volva (wise-woman) of the poem is identical with the speaker in the <cr>Voluspo</cr> is purely a matter for conjecture.
+		Nothing definitely opposes such a supposition.
+		As in the longer poem she foretells the fall of the gods, so in this case she prophesies the first incident of that fall, the death of Baldr.
+		Here she is called up from the dead by Othin, anxious to know the meaning of Baldr's evil dreams; in the Voluspo it is likewise intimated that the Volva has risen from the grave.
+	</block>
+	<block class="text">
+		The poem, like most of the others in the collection, is essentially dramatic rather than narrative, summarizing a story which was doubtless familiar to every one who heard the poem recited.
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Once were the gods<sep />together met,<br />
+			And the goddesses came<sep />and council held,<br />
+			And the far-famed ones<sep />the truth would find,<br />
+			Why baleful dreams<sep />to Baldr had come.
+		</translation>
+		<comment>
+			Lines 1--3 are identical with <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">13</stanzaref>, 1--3.
+			Baldr: concerning this best and noblest of the gods, the son of Othin and Frigg, who comes again among the survivors after the final battle, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and <stanzaref chapter="Voluspo">62</stanzaref>, and notes.
+			He is almost never mentioned anywhere except in connection with the story of his death, though Snorri has one short passage praising his virtue and beauty.
+			After stanza <sr>1</sr> two old editions, and one later one, insert four stanzas from late paper manuscripts.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Othin rose,<sep />the enchanter old,<br />
+			And the saddle he laid<sep />on Sleipnir's back;<br />
+			Thence rode he down<sep />to Niflhel deep,<br />
+			And the hound he met<sep />that came from hell.
+		</translation>
+		<comment>
+			<expl>Sleipnir</expl>: Othin's eight-legged horse, the son of Loki and the stallion Svathilfari; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">23</stanzaref>, and <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">44</stanzaref>, and notes.
+			<expl>Niflhel</expl>: the murky (``nifl'') dwelling of Hel, goddess of the dead.
+			<expl>The hound</expl>: Garm; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">44</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Bloody he was<sep />on his breast before,<br />
+			At the father of magic<sep />he howled from afar;<br />
+			Forward rode Othin,<sep />the earth resounded<br />
+			Till the house so high<sep />of Hel he reached.
+		</translation>
+		<comment>
+			Father of magic: Othin appears constantly as the god of magic.
+			<expl>Hel</expl>: offspring of Loki and the giantess Angrbotha, as were the wolf Fenrir and Mithgarthsorm.
+			She ruled the world of the unhappy dead, either those who had led evil lives or, according to another tradition, those who had not died in battle.
+			The manuscript marks line 3 as the beginning of a stanza, and thus the editions vary in their grouping of the lines of this and the succeeding stanzas.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Othin rode<sep />to the eastern door,<br />
+			There, he knew well,<sep />was the wise-woman's grave;<br />
+			Magic he spoke<sep />and mighty charms,<br />
+			Till spell-bound she rose,<sep />and in death she spoke:
+		</translation>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``What is the man,<sep />to me unknown,<br />
+			That has made me travel<sep />the troublous road?<br />
+			I was snowed on with snow,<sep />and smitten with rain,<br />
+			And drenched with dew;<sep />long was I dead.''
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+			Othin spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Vegtam my name,<sep />I am Valtam's son;<br />
+			Speak thou of hell,<sep />for of heaven I know:<br />
+			For whom are the benches<sep />bright with rings,<br />
+			And the platforms gay<sep />bedecked with gold?''
+		</translation>
+		<comment>
+			The manuscript has no superscriptions indicating the speakers.
+			<expl>Vegtam</expl> (``The Wanderer''): Othin, as usual, conceals his identity, calling himself the son of Valtam (``The Fighter'').
+			In this instance he has unusual need to do so, for as the wise-woman belongs apparently to the race of the giants, she would be unwilling to answer a god's questions.
+			<expl>Heaven</expl>: the word used includes all the upper worlds, in contrast to hell.
+			<expl>Benches</expl>, etc.: the adornment of the benches and raised platforms, or elevated parts of the house, was a regular part of the preparation for a feast of welcome.
+			The text of the two last lines is somewhat uncertain.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original_prelude>
+			The Wise-Woman spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Here for Baldr<sep />the mead is brewed,<br />
+			The shining drink,<sep />and a shield lies o'er it;<br />
+			But their hope is gone<sep />from the mighty gods.<br />
+			Unwilling I spake,<sep />and now would be still.''
+		</translation>
+		<comment>
+			Grundtvig, followed by, Edzardi, thinks a line has been lost between lines 3 and 4.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original_prelude>
+			Othin spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Wise-woman, cease not!<sep />I seek from thee<br />
+			All to know<sep />that I fain would ask:<br />
+			Who shall the bane<sep />of Baldr become,<br />
+			And steal the life<sep />from Othin's son?''
+		</translation>
+	</block>
+	<block class="stanza" number="9">
+		<original_prelude>
+			The Wise-Woman spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Hoth thither bears<sep />the far-famed branch,<br />
+			He shall the bane<sep />of Baldr become,<br />
+			And steal the life<sep />from Othin's son.<br />
+			Unwilling I spake,<sep />and now would be still.''
+		</translation>
+		<comment>
+			Concerning the blind Hoth, who, at Loki's instigation, cast the fatal mistletoe at Baldr, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref>--<stanzaref chapter="Voluspo">33</stanzaref> and notes.
+			In the manuscript the last line is abbreviated, as also in stanza <sr>11</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original_prelude>
+			Othin spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Wise-woman, cease not!<sep />I seek from thee<br />
+			All to know<sep />that I fain would ask:<br />
+			Who shall vengeance win<sep />for the evil work,<br />
+			Or bring to the flames<sep />the slayer of Baldr?''
+		</translation>
+		<comment>
+			In the manuscript lines 1--2 are abbreviated, as also in stanza <sr>12</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original_prelude>
+			The Wise-Woman spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Rind bears Vali<sep />in Vestrsalir,<br />
+			And one night old<sep />fights Othin's son;<br />
+			His hands he shall wash not,<sep />his hair he shall comb not,<br />
+			Till the slayer of Baldr<sep />he brings to the flames.<br />
+			Unwilling I spake,<sep />and now would be still.''
+		</translation>
+		<comment>
+			<expl>Rind</expl>: mentioned by Snorri as one of the goddesses.
+			Concerning her son Vali, begotten by Othin for the express purpose of avenging Baldr's death, and his slaying of Hoth the day after his birth, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>--<stanzaref chapter="Voluspo">34</stanzaref>, where the lines of this stanza appear practically verbatim.
+			<expl>Vestrsalir</expl> (``The Western Hall''): not else where mentioned in the poems.
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original_prelude>
+			Othin spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Wise-woman, cease not!<sep />I seek from thee<br />
+			All to know<sep />that I fain would ask:<br />
+			What maidens are they<sep />who then shall weep,<br />
+			And toss to the sky<sep />the yards of the sails?''
+		</translation>
+		<comment>
+			The manuscript marks the third line as the beginning of a stanza; something may have been lost.
+			Lines 3--4 are thoroughly obscure.
+			According to Bugge the maidens who are to weep for Baldr are the daughters of the sea-god Ægir, the waves, whose grief will be so tempestuous that they will toss the ships up to the very sky.
+			``Yards of the sails'' is a doubtfully accurate rendering; the two words, at any rate in later Norse nautical speech, meant respectively the ``tack'' and the ``sheet'' of the square sail.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original_prelude>
+			The Wise-Woman spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Vegtam thou art not,<sep />as erstwhile I thought;<br />
+			Othin thou art,<sep />the enchanter old.''<br />
+			<stanzaprelude>Othin spake:</stanzaprelude><br />
+			``No wise-woman art thou,<sep />nor wisdom hast;<br />
+			Of giants three<sep />the mother art thou.''
+		</translation>
+		<comment>
+			Possibly two separate stanzas.
+			<expl>Enchanter</expl>: the meaning of the original word is most uncertain.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original_prelude>
+			The Wise-Woman spake:
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+
+		</translation_prelude>
+		<translation>
+			``Home ride, Othin,<sep />be ever proud;<br />
+			For no one of men<sep />shall seek me more<br />
+			Till Loki wanders<sep />loose from his bonds,<br />
+			And to the last strife<sep />the destroyers come.''
+		</translation>
+		<comment>
+			Concerning Loki's escape and his relation to the destruction of the gods, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref> and <stanzaref chapter="Voluspo">51</stanzaref>, and notes.
+			While the wise-woman probably means only that she will never speak again till the end of the world, it has been suggested, and is certainly possible, that she intends to give Loki her counsel, thus revenging herself on Othin.
+		</comment>
+	</block>
+</chapter>
