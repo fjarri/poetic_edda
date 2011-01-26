@@ -172,9 +172,9 @@ Alvissmol (26 Jan 2011)
 * Performed forgotten substitutions for inline stanza in Vafthruthnismol;
 * Added processing of adjacent single and double quotation marks in build script
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-Baldrs Draumar (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Baldrs Draumar (27 Jan 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Baldrs Draumar chapter;
 * Added missing prelude to Thrymskvitha, 4;
