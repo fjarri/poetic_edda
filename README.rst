@@ -163,14 +163,26 @@ Thrymskvitha (22 Jan 2011)
   in final mode (we'll see how it goes);
 * Removed text indentation after inline stanzas
 
-~~~~~~~~~~~~~~~~~~~
-Alvissmol (planned)
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+Alvissmol (26 Jan 2011)
+~~~~~~~~~~~~~~~~~~~~~~~
 
 * Disabled page breaks before and after \eddasepline;
 * Added Alvissmol chapter;
 * Performed forgotten substitutions for inline stanza in Vafthruthnismol;
-* Added processing of adjacent single and double quotation marks in build script;
+* Added processing of adjacent single and double quotation marks in build script
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Baldrs Draumar (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Baldrs Draumar chapter
+
+~~~~~~~~~~~~~~~~~~~
+Rigsthula (planned)
+~~~~~~~~~~~~~~~~~~~
+
+* Add Rigsthula chapter
 * Refactor scripts
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
