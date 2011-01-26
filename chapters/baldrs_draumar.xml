@@ -22,10 +22,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Senn vo~ru a_e`sir<sep />allir a` þingi<br />
+			ok a`synjur<sep />allar a` ma`li,<br />
+			ok of þat re`þu<sep />ri`kir ti`var,<br />
+			hvi` va_e`ri Baldri<sep />ballir draumar.
 		</original>
 		<translation>
 			Once were the gods<sep />together met,<br />
@@ -42,10 +42,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Upp rels O`þinn,<sep />aldinn gautr,<br />
+			auk a` Sleipni<sep />so~þul of lagþi;<br />
+			reiþ niþr þaþan<sep />Niflheljar til,<br />
+			mo/`tti hvelpi<sep />es o`r helju kvam.
 		</original>
 		<translation>
 			Then Othin rose,<sep />the enchanter old,<br />
@@ -61,10 +61,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sa` vas blo`þugr<sep />of brjo`st framan<br />
+			ok galdrs fo~þur<sep />go` of lengi;<br />
+			fram reiþ O`þinn,<sep />foldvegr dunþi,<br />
+			hann kvam at ho~`vu<sep />Heljar ranni.
 		</original>
 		<translation>
 			Bloody he was<sep />on his breast before,<br />
@@ -81,10 +81,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` reiþ O`þinn<sep />fyr austan dyrr,<br />
+			þars hann vissi<sep />vo~lvu leiþi,<br />
+			nam vittugri<sep />valgaldr kveþa,<br />
+			unz nauþug reis,<sep />na`s orþ of kvaþ:
 		</original>
 		<translation>
 			Then Othin rode<sep />to the eastern door,<br />
@@ -95,10 +95,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat's manna þat<sep />me`r o`kunnra<br />
+			es ho~fumk aukit<sep />erfitt sinni?<br />
+			vask snivin snjo`vi<sep />ok slegin regni<br />
+			ok drifin do~ggu,<sep />dauþ vask lengi.''
 		</original>
 		<translation>
 			``What is the man,<sep />to me unknown,<br />
@@ -112,13 +112,13 @@
 			Othin spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vegtamr heitik,<sep />sunr emk Valtams;<br />
+			seg mer o`r helju,<sep />ek mun o`r heimi:<br />
+			hveim eru bekkir<sep />baugum sa`nir,<br />
+			flet fagrliga<sep />flo`iþ gulli?''
 		</original>
 		<translation_prelude>
-
+			O`þinn kvaþ:
 		</translation_prelude>
 		<translation>
 			``Vegtam my name,<sep />I am Valtam's son;<br />
@@ -140,13 +140,13 @@
 			The Wise-Woman spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``He`r stendr Baldri<sep />of brugginn mjo~þr,<br />
+			ski`rar veigar,<sep />liggr skjo~ldr yfir;<br />
+			en a`smegir<sep />i` ofva_e`ni.<br />
+			Nauþug sagþak,<sep />nu` munk þegja.''
 		</original>
 		<translation_prelude>
-
+			Vo~lva kvaþ:
 		</translation_prelude>
 		<translation>
 			``Here for Baldr<sep />the mead is brewed,<br />
@@ -163,13 +163,13 @@
 			Othin spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þegjat, vo~lva!<sep />þik vilk fregna,<br />
+			unz alkunna,<sep />vilk enn vita:<br />
+			hverr mun Baldri<sep />at bana verþa<br />
+			ok O`þins sun<sep />aldri ra_e`na?''
 		</original>
 		<translation_prelude>
-
+			O`þinn kvaþ:
 		</translation_prelude>
 		<translation>
 			``Wise-woman, cease not!<sep />I seek from thee<br />
@@ -183,13 +183,13 @@
 			The Wise-Woman spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ho~þr berr ho~`van<sep />hro`þrbaþm þinig,<br />
+			hann mun Baldri<sep />at bana verþa<br />
+			ok O`þins sun<sep />aldri ra_e`na.<br />
+			Nauþug sagþak,<sep />nu` munk þegja.''
 		</original>
 		<translation_prelude>
-
+			Vo~lva kvaþ:
 		</translation_prelude>
 		<translation>
 			``Hoth thither bears<sep />the far-famed branch,<br />
@@ -207,13 +207,13 @@
 			Othin spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þegjat, vo~lva!<sep />þik vilk fregna,<br />
+			unz alkunna,<sep />vilk enn vita:<br />
+			hverr mun heiptar [Heþi]<sep />hefnt of vinna<br />
+			eþa Baldrs bana<sep />a` ba`l vega?''
 		</original>
 		<translation_prelude>
-
+			O`þinn kvaþ:
 		</translation_prelude>
 		<translation>
 			``Wise-woman, cease not!<sep />I seek from thee<br />
@@ -230,14 +230,14 @@
 			The Wise-Woman spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``<conj>Va`la</conj> berr Rindr<sep />i` vestrso~lum,<br />
+			sa mun O`þins sunr<sep />einna_e`ttr vega;<br />
+			ho~nd of þva_e`rat<sep />ne` ho~fuþ kembir,<br />
+			a`þr a` ba`l of berr<sep />Baldrs andskota.<br />
+			Nauþug sagþak,<sep />nu` munk þegja.''
 		</original>
 		<translation_prelude>
-
+			Vo~lva kvaþ:
 		</translation_prelude>
 		<translation>
 			``Rind bears Vali<sep />in Vestrsalir,<br />
@@ -257,13 +257,13 @@
 			Othin spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þegjat, vo~lva!<sep />þik vilk fregna,<br />
+			unz alkunna,<sep />vilk enn vita:<br />
+			hverjar'u meyjar<sep />es at muni gra`ta<br />
+			ok a` himin verpa<sep />halsa skautum?''
 		</original>
 		<translation_prelude>
-
+			O`þinn kvaþ:
 		</translation_prelude>
 		<translation>
 			``Wise-woman, cease not!<sep />I seek from thee<br />
@@ -283,14 +283,14 @@
 			The Wise-Woman spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Estat Vegtamr,<sep />sem ek hugþa,<br />
+			heldr est O`þinn,<sep />aldinn gautr!''<br />
+			<stanzaprelude>O`þinn kvaþ:</stanzaprelude><br />
+			``Estat vo~lva<sep />ne` vi`s kona,<br />
+			heldr est þriggja<sep />þursa mo`þir!''
 		</original>
 		<translation_prelude>
-
+			Vo~lva kvaþ:
 		</translation_prelude>
 		<translation>
 			``Vegtam thou art not,<sep />as erstwhile I thought;<br />
@@ -309,13 +309,13 @@
 			The Wise-Woman spake:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Heim ri`þ, O`þinn!<sep />ok ves hro`þugr:<br />
+			sva` komir manna<sep />meirr aptr a` vit,<br />
+			es lauss Loki<sep />li`þr o`r bo~ndum<br />
+			ok i` ragna ro/k<sep />rju`fendr koma.''
 		</original>
 		<translation_prelude>
-
+			Vo~lva kvaþ:
 		</translation_prelude>
 		<translation>
 			``Home ride, Othin,<sep />be ever proud;<br />
