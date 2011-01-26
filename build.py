@@ -243,6 +243,10 @@ def movePunctuation(l):
 		if text is None or isinstance(text, list):
 			continue
 
+		# neighbouring single and double quotations
+		e[0] = e[0].replace(u"\u201c\u2018", u"\u201c~\u2018")
+		e[0] = e[0].replace(u"\u2019\u201d", u"\u2019~\u201d")
+
 		# abbreviations
 
 		if u'q. v.' in text:
