@@ -176,7 +176,9 @@ Alvissmol (26 Jan 2011)
 Baldrs Draumar (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Baldrs Draumar chapter
+* Added Baldrs Draumar chapter;
+* Added missing prelude to Thrymskvitha, 4;
+* Fixed original/translation preludes confusion in Thrymskvitha and Alvissmol
 
 ~~~~~~~~~~~~~~~~~~~
 Rigsthula (planned)
