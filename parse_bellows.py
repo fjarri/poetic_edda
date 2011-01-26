@@ -144,6 +144,8 @@ if __name__ == '__main__':
 
 	blocks = blocks[i+1:]
 
+	c.append(Element('block', attrib={'class': 'sepline'}))
+
 	# glue blocks, mark stanzas and comments
 	new_blocks = []
 	comments = []
