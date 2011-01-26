@@ -74,7 +74,7 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-			Freyja spake:
+			Freyja kvaþ:
 		</original_prelude>
 		<original>
 			“Mundak selja,<sep />þōt vǣri or silfri,<br />
@@ -84,7 +84,7 @@
 			ok fyr innan kvam<sep />jǫtna heima.
 		</original>
 		<translation_prelude>
-			Freyja kvaþ:
+			Freyja spake:
 		</translation_prelude>
 		<translation>
 			“Thine should it be<sep />though of silver bright,<br />
@@ -118,7 +118,7 @@
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-			Thrym spake:
+			Þrymr kvaþ:
 		</original_prelude>
 		<original>
 			“Hvat's meþ ǭsum,<sep />hvat's meþ ǫlfum?<br />
@@ -128,7 +128,7 @@
 			hefr Hlōrriþa<sep />hamar of folginn?”
 		</original>
 		<translation_prelude>
-			Þrymr kvaþ:
+			Thrym spake:
 		</translation_prelude>
 		<translation>
 			“How fare the gods,<sep />how fare the elves?<br />
@@ -145,7 +145,7 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-			Thrym spake:
+			Þrymr kvaþ:
 		</original_prelude>
 		<original>
 			“Hefk Hlōrriþa<sep />hamar of folginn<br />
@@ -154,7 +154,7 @@
 			nema fø̄ri mēr<sep />Freyju at kvǣn.”
 		</original>
 		<translation_prelude>
-			Þrymr kvaþ:
+			Thrym spake:
 		</translation_prelude>
 		<translation>
 			“I have hidden<sep />Hlorrithi's hammer,<br />
@@ -202,7 +202,7 @@
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-			Loki spake:
+			Loki kvaþ:
 		</original_prelude>
 		<original>
 			“Hefk erfiþi<sep />ok eyrindi:<br />
@@ -211,7 +211,7 @@
 			nema hǫnum fø̄ri<sep />Freyju at kvǣn.”
 		</original>
 		<translation_prelude>
-			Loki kvaþ:
+			Loki spake:
 		</translation_prelude>
 		<translation>
 			“Trouble I have,<sep />and tidings as well:<br />

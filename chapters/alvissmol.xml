@@ -27,7 +27,7 @@
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Bekki breiþa<sep />nū skal brūþr meþ mēr,<br />
@@ -36,7 +36,7 @@
 			heima skalat hvīlþ nema.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“Now shall the bride<sep />my benches adorn,<br />
@@ -54,7 +54,7 @@
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Hvat's þat fira?<sep />hvī 'stu svā fǫlr umb nasar?<br />
@@ -63,7 +63,7 @@
 			estat þū til brūþar borinn.”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“What, pray, art thou?<sep />Why so pale round the nose?<br />
@@ -78,7 +78,7 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Alvīss heitik,<sep />bȳk fyr jǫrþ neþan,<br />
@@ -87,7 +87,7 @@
 			bregþit fǫstu heiti firar.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“Alvis am I,<sep />and under the earth<br />
@@ -103,7 +103,7 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Ek mun bregþa,<sep />þvīt ek brūþar ā<br />
@@ -112,7 +112,7 @@
 			sā einn es gjǫf's meþ goþum.”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Break it shall I,<sep />for over the bride<br />
@@ -127,7 +127,7 @@
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Hvat's þat rekka<sep />es ī rǭþum telsk<br />
@@ -136,7 +136,7 @@
 			<conj>hver</conj> hefr <conj>baga</conj> þik borit?”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“What hero claims<sep />such right to hold<br />
@@ -151,7 +151,7 @@
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Vingþōrr heitik,<sep />ek hef vīþa ratat,<br />
@@ -160,7 +160,7 @@
 			ok þat gjaforþ geta.”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Vingthor, the wanderer<sep />wide, am I,<br />
@@ -175,7 +175,7 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Sāttir þīnar<sep />es vilk snimma hafa<br />
@@ -184,7 +184,7 @@
 			þat et mjallhvīta man.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“Thy good-will now<sep />shall I quickly get,<br />
@@ -195,7 +195,7 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Meyjar ǭstum<sep />muna þēr verþa,<br />
@@ -204,7 +204,7 @@
 			allt þats viljak vita.
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“The love of the maid<sep />I may not keep thee<br />
@@ -245,7 +245,7 @@
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Jǫrþ heitir meþ mǫnnum,<sep />en meþ ǭsum fold,<br />
@@ -254,7 +254,7 @@
 			kalla aur uppregin.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Earth’ to men, ‘Field’<sep />to the gods it is,<br />
@@ -274,7 +274,7 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -283,7 +283,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -299,7 +299,7 @@
 	</block>
 	<block class="stanza" number="12">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Himinn heitir meþ mǫnnum,<sep />en hlyrnir meþ goþum,<br />
@@ -308,7 +308,7 @@
 			dvergar drjūpan sal.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Heaven’ men call it,<sep />‘The Height’ the gods,<br />
@@ -319,7 +319,7 @@
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -328,7 +328,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -339,7 +339,7 @@
 	</block>
 	<block class="stanza" number="14">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Māni heitir meþ mǫnnum,<sep />en mylinn meþ goþum,<br />
@@ -348,7 +348,7 @@
 			kalla alfar ārtala.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Moon’ with men, ‘Flame’<sep />the gods among,<br />
@@ -363,7 +363,7 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -372,7 +372,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -383,7 +383,7 @@
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Sōl heitir meþ mǫnnum,<sep />en sunna meþ goþum,<br />
@@ -392,7 +392,7 @@
 			alskīr āsa synir.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“Men call it 'Sun,'<sep />gods 'Orb of the Sun,'<br />
@@ -409,7 +409,7 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -418,7 +418,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -429,7 +429,7 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Skȳ heita meþ mǫnnum,<sep />en skūrvǭn meþ goþum,<br />
@@ -438,7 +438,7 @@
 			kalla ī helju hjalm huliþs.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Clouds’ men name them,<sep />‘Rain-Hope’ gods call them,<br />
@@ -449,7 +449,7 @@
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -458,7 +458,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -469,7 +469,7 @@
 	</block>
 	<block class="stanza" number="20">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Vindr heitir meþ mǫnnum,<sep />en vǭfuþr meþ goþum,<br />
@@ -478,7 +478,7 @@
 			kalla ī helju hviþuþ.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Wind’ do men call it,<sep />the gods ‘The Waverer,’<br />
@@ -494,7 +494,7 @@
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -503,7 +503,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all<br />
@@ -514,7 +514,7 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Logn heitir meþ mǫnnum,<sep />en lø̄gi meþ goþum,<br />
@@ -523,7 +523,7 @@
 			kalla dvergar dags veru.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Calm’ men call it,<sep />‘The Quiet’ the gods,<br />
@@ -538,7 +538,7 @@
 	</block>
 	<block class="stanza" number="23">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -547,7 +547,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -558,7 +558,7 @@
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Sǣr heitir meþ mǫnnum,<sep />en sīlǣgja meþ goþum,<br />
@@ -567,7 +567,7 @@
 			kalla dvergar djūpan mar.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Sea’ men call it,<sep />gods ‘The Smooth-Lying,’<br />
@@ -581,7 +581,7 @@
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -590,7 +590,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -601,7 +601,7 @@
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Eldr heitir meþ mǫnnum,<sep />en meþ ǭsum funi,<br />
@@ -610,7 +610,7 @@
 			kalla ī helju hrǫþuþ.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Fire’ men call it,<sep />and ‘Flame’ the gods,<br />
@@ -624,7 +624,7 @@
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -633,7 +633,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -644,7 +644,7 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Viþr heitir meþ mǫnnum,<sep />en vallar fax meþ goþum,<br />
@@ -653,7 +653,7 @@
 			kalla vǫnd vanir.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“Men call it ‘The Wood,’<sep />gods ‘The Mane of the Field,’<br />
@@ -667,7 +667,7 @@
 	</block>
 	<block class="stanza" number="29">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -676,7 +676,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -691,7 +691,7 @@
 	</block>
 	<block class="stanza" number="30">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Nǭtt heitir meþ mǫnnum,<sep />en njōl meþ goþum,<br />
@@ -700,7 +700,7 @@
 			kalla dvergar draumnjǫrun.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Night’ men call it,<sep />‘Darkness’ gods name it,<br />
@@ -716,7 +716,7 @@
 	</block>
 	<block class="stanza" number="31">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -725,7 +725,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -736,7 +736,7 @@
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Bygg heitir meþ mǫnnum,<sep />en barr meþ goþum,<br />
@@ -745,7 +745,7 @@
 			kalla ī helju hnipinn.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“Men call it ‘Grain,’<sep />and ‘Corn’ the gods,<br />
@@ -761,7 +761,7 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
@@ -770,7 +770,7 @@
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“Answer me, Alvis!<sep />thou knowest all,<br />
@@ -781,7 +781,7 @@
 	</block>
 	<block class="stanza" number="34">
 		<original_prelude>
-			Alvis spake:
+			Alvīss kvaþ:
 		</original_prelude>
 		<original>
 			“Ǫl heitir meþ mǫnnum,<sep />en meþ ǭsum bjōrr,<br />
@@ -790,7 +790,7 @@
 			kalla sumbl Suttungs synir.”
 		</original>
 		<translation_prelude>
-			Alvīss kvaþ:
+			Alvis spake:
 		</translation_prelude>
 		<translation>
 			“‘Ale’ among men,<sep />‘Beer’ the gods among,<br />
@@ -806,7 +806,7 @@
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-			Thor spake:
+			Þōrr kvaþ:
 		</original_prelude>
 		<original>
 			“Ī einu brjōsti<sep />ek sāk aldrigi<br />
@@ -816,7 +816,7 @@
 			nū skīnn sōl ī sali.”<br />
 		</original>
 		<translation_prelude>
-			Þōrr kvaþ:
+			Thor spake:
 		</translation_prelude>
 		<translation>
 			“In a single breast<sep />I never have seen<br />
