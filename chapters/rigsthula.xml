@@ -1,0 +1,920 @@
+<chapter english_name="Rigsthula" icelandic_name="Ri`gsþula" translation="The Song of Rig">
+	<block class="text">
+		The <cr>Rigsthula</cr> is found in neither of the principal codices.
+		The only manuscript containing it is the so-called <src>Codex Wormanius</src>, a manuscript of Snorri's <src>Prose Edda</src>.
+		The poem appears on the last sheet of this manuscript, which unluckily is incomplete, and thus the end of the poem is lacking.
+		In the <src>Codex Wormanius</src> itself the poem has no title, but a fragmentary parchment included with it calls the poem the <cr>Rigsthula</cr>.
+		Some late paper manuscripts give it the title of <src>Rigsmol</src>.
+	</block>
+	<block class="text">
+		The <cr>Rigsthula</cr> is essentially unlike anything else which editors have agreed to include in the so-called <src>Edda</src>.
+		It is a definitely cultural poem, explaining, on a mythological basis, the origin of the different castes of early society: the thralls, the peasants, and the warriors.
+		From the warriors, finally, springs one who is destined to become a king, and thus the whole poem is a song in praise of the royal estate.
+		This fact in itself would suffice to indicate that the <cr>Rigsthula</cr> was not composed in Iceland, where for centuries kings were regarded with profound disapproval.
+	</block>
+	<block class="text">
+		Not only does the <cr>Rigsthula</cr> praise royalty, but it has many of the earmarks of a poem composed in praise of a particular king.
+		The manuscript breaks off at a most exasperating point, just as the connection between the mythical ``Young Kon'' (Konr ungr, konungr, ``king''; but cf. stanza <sr>44</sr>, note) and the monarch in question is about to be established.
+		Owing to the character of the Norse settlements in Iceland, Ireland, and the western islands generally, search for a specific king leads back to either Norway or Denmark; despite the arguments advanced by Edzardi, Vigfusson, Powell, and others, it seems most improbable that such a poem should have been produced elsewhere than on the Continent, the region where Scandinavian royalty most flourished.
+		Finnur Jonsson's claim for Norway, with Harald the Fair-Haired as the probable king in question, is much less impressive than Mogk's ingenious demonstration that the poem was in all probability composed in Denmark, in honor of either Gorm the Old or Harald Blue-Tooth.
+		His proof is based chiefly on the evidence provided by stanza <sr>49</sr>, and is summarized in the note to that stanza.
+	</block>
+	<block class="text">
+		The poet, however, was certainly not a Dane, but probably a wandering Norse singer, who may have had a dozen homes, and who clearly had spent much time in some part of the western island world chiefly inhabited by Celts.
+		The extent of Celtic influence on the Eddic poems in general is a matter of sharp dispute.
+		Powell, for example, claims almost all the poems for the ``Western Isles,'' and attributes nearly all their good qualities to Celtic influence.
+		Without here attempting to enter into the details of the argument, it may be said that the weight of authoritative opinion, while clearly recognizing the marks of Celtic influence in the poems, is against this view; contact between the roving Norsemen of Norway and Iceland and the Celts of Ireland and the ``Western Isles,'' and particularly the Orkneys, was so extensive as to make the presumption of an actual Celtic home for the poems seem quite unnecessary.
+	</block>
+	<block class="text">
+		In the case of the <cr>Rigsthula</cr> the poet unquestionably had not only picked up bits of the Celtic speech (the name Rig itself is almost certainly of Celtic origin, and there are various other Celtic words employed), but also had caught something of the Celtic literary spirit.
+		This explains the cultural nature of the poem, quite foreign to Norse poetry in general.
+		On the other hand, the style as a whole is vigorously Norse, and thus the explanation that the poem was composed by an itinerant Norse poet who had lived for some time in the Celtic islands, and who was on a visit to the court of a Danish king, fits the ascertainable facts exceedingly well.
+		As Christianity was introduced into Denmark around 960, the <cr>Rigsthula</cr> is not likely to have been composed much after that date, and probably belongs to the first half of the tenth century.
+		Gorm the Old died about the year 935, and was succeeded by Harald Blue-Tooth, who died about 985.
+	</block>
+	<block class="text">
+		The fourteenth (or late thirteenth) century annotator identifies Rig with Heimdall, but there is nothing in the poem itself, and very little anywhere else, to warrant this, and it seems likely that the poet had Othin, and not Heimdall, in mind, his purpose being to trace the origin of the royal estate to the chief of the gods.
+		The evidence bearing on this identification is briefly summed up in the note on the introductory prose passage, but the question involves complex and baffling problems in mythology, and from very early times the status of Heimdall was unquestionably confusing to the Norse mind.
+	</block>
+	<block class="sepline" />
+	<block class="prose" label="introduction">
+		<original>
+			<br />
+		</original>
+		<translation>
+			They tell in old stories that one of the gods, whose name was Heimdall, went on his way along a certain seashore, and came to a dwelling, where he called himself Rig.<br />
+			According to these stories is the following poem:
+		</translation>
+		<comment>
+			It would be interesting to know how much the annotator meant by the phrase old stories.
+			Was he familiar with the tradition in forms other than that of the poem? If so, his introductory note was scanty, for, outside of identifying Rig as Heimdall, he provides no information not found in the poem.
+			Probably he meant simply to refer to the poem itself as a relic of antiquity, and the identification of Rig as Heimdall may well have been an attempt at constructive criticism of his own.
+			The note was presumably written somewhere about 1300, or even later, and there is no reason for crediting the annotator with any considerable knowledge of mythology.
+			There is little to favor the identification of Rig with Heimdall, the watchman of the gods, beyond a few rather vague passages in the other poems.
+			Thus in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">1</stanzaref>, the Volva asks hearing ``from Heimdall's sons both high and low''; in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">13</stanzaref>, there is a very doubtful line which may mean that Heimdall ``o'er men holds sway, it is said,'' and in ``the Short <chapterref>Voluspo</chapterref>'' (<chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">40</stanzaref>) he is called ``the kinsman of men.''
+			On the other hand, everything in the <chapterref>Rigsthula</chapterref>, including the phrase ``the aged and wise'' in stanza <sr>1</sr>, and the references to runes in stanzas <sr>36</sr>, <sr>44</sr>, and <sr>46</sr>, fits Othin exceedingly well.
+			It seems probable that the annotator was wrong, and that Rig is Othin, and not Heimdall.
+			<expl>Rig</expl>: almost certainly based on the Old Irish word for ``king,'' ``ri'' or ``rig.''
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Men say there went<sep />by ways so green<br />
+			Of old the god,<sep />the aged and wise,<br />
+			Mighty and strong<sep />did Rig go striding.<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			No gap is indicated, but editors have generally assumed one.
+			Some editors, however, add line 1 of stanza <sr>2</sr> to stanza <sr>1</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Forward he went<sep />on the midmost way,<br />
+			He came to a dwelling,<sep />a door on its posts;<br />
+			In did he fare,<sep />on the floor was a fire,<br />
+			Two hoary ones<sep />by the hearth there sat,<br />
+			Ai and Edda,<sep />in olden dress.
+		</translation>
+		<comment>
+			Most editions make line 5 a part of the stanza, as here, but some indicate it as the sole remnant of one or more stanzas descriptive of Ai and Edda, just as Afi and Amma, Fathir and Mothir, are later described.
+			<expl>Ai and Edda</expl>: Great-Grandfather and Great-Grandmother; the latter name was responsible for Jakob Grimm's famous guess at the meaning of the word ``Edda'' as applied to the whole collection (cf. <chapterref label="General Introduction">Introduction</chapterref>).
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Rig knew well<sep />wise words to speak,<br />
+			Soon in the midst<sep />of the room he sat,<br />
+			And on either side<sep />the others were.
+		</translation>
+		<comment>
+			A line may have been lost from this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A loaf of bread<sep />did Edda bring,<br />
+			Heavy and thick<sep />and swollen with husks;<br />
+			Forth on the table<sep />she set the fare,<br />
+			And broth for the meal<sep />in a bowl there was.<br />
+			[Calf's flesh boiled<sep />was the best of the dainties.]
+		</translation>
+		<comment>
+			Line 5 has generally been rejected as spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Rig knew well<sep />wise words to speak,<br />
+			Thence did he rise,<sep />made ready to sleep;<br />
+			Soon in the bed<sep />himself did he lay,<br />
+			And on either side<sep />the others were.
+		</translation>
+		<comment>
+			The manuscript has lines 1--2 in inverse order, but marks the word ``Rig'' as the beginning of a stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thus was he there<sep />for three nights long,<br />
+			Then forward he went<sep />on the midmost way,<br />
+			And so nine months<sep />were soon passed by.
+		</translation>
+		<comment>
+			The manuscript does not indicate that these lines form a separate stanza, and as only one line and a fragment of another are left of stanza <sr>7</sr>, the editions have grouped the lines in all sorts of ways, with, of course, various conjectures as to where lines may have been lost.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A son bore Edda,<sep />with water they sprinkled him,<br />
+			With a cloth his hair<sep />so black they covered;<br />
+			Thræll they named him,<sep /><lacuna />
+		</translation>
+		<comment>
+			After line 1 the manuscript has only four words: ``cloth,'' ``black,'' ``named,'' and ``Thræll.''
+			No gap is anywhere indicated.
+			Editors have pieced out the passage in various ways.
+			<expl>Water</expl>, etc.: concerning the custom of sprinkling water on children, which long antedated the introduction of Christianity, cf. <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">159</stanzaref> and note.
+			<expl>Black</expl>: dark hair, among the blond Scandinavians, was the mark of a foreigner, hence of a slave.
+			<expl>Thræll</expl>: Thrall or Slave.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The skin was wrinkled<sep />and rough on his hands,<br />
+			Knotted his knuckles,<sep /><lacuna /><br />
+			Thick his fingers,<sep />and ugly his face,<br />
+			Twisted his back,<sep />and big his heels.
+		</translation>
+		<comment>
+			In the manuscript line 1 of stanza <sr>9</sr> stands before stanza <sr>8</sr>, neither line being capitalized as the beginning of a stanza.
+			I have followed Bugge's rearrangement.
+			The manuscript indicates no gap in line 2, but nearly all editors have assumed one, Grundtvig supplying ``and rough his nails.''
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			He began to grow,<sep />and to gain in strength,<br />
+			Soon of his might<sep />good use he made;<br />
+			With bast he bound,<sep />and burdens carried,<br />
+			Home bore faggots<sep />the whole day long.
+		</translation>
+		<comment>
+			The manuscript marks line 2 as the beginning of a stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			One came to their home,<sep />crooked her legs,<br />
+			Stained were her feet,<sep />and sunburned her arms,<br />
+			Flat was her nose;<sep />her name was Thir.
+		</translation>
+		<comment>
+			A line may well have dropped out, but the manuscript is too uncertain as to the stanza-divisions to make any guess safe.
+			<expl>Crooked</expl>: the word in the original is obscure.
+			<expl>Stained</expl>: literally, ``water was on her soles.''
+			<expl>Thir</expl>: ``Serving-Woman.''
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Soon in the midst<sep />of the room she sat,<br />
+			By her side there sat<sep />the son of the house;<br />
+			They whispered both,<sep />and the bed made ready,<br />
+			Thræll and Thir,<sep />till the day was through.
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Children they had,<sep />they lived and were happy,<br />
+			Fjosnir and Klur<sep />they were called, methinks,<br />
+			Hreim and Kleggi,<sep />Kefsir, Fulnir,<br />
+			Drumb, Digraldi,<sep />Drott and Leggjaldi,<br />
+			Lut and Hosvir;<sep />the house they cared for,<br />
+			Ground they dunged,<sep />and swine they guarded,<br />
+			Goats they tended,<sep />and turf they dug.
+		</translation>
+		<comment>
+			There is some confusion as to the arrangement of th lines and division into stanzas of <sr>12</sr> and <sr>13</sr>.
+			The names mean: Fjosnir, ``Cattle-Man''; Klur, ``The Coarse''; Hreim, ``The Shouter''; Kleggi, ``The Horse-Fly''; Kefsir, ``Concubine-Keeper''; Fulnir, ``The Stinking''; Drumb, ``The Log''; Digraldi, ``The Fat''; Drott, ``The Sluggard''; Leggjaldi, ``The Big-Legged''; Lut, ``The Bent''; Hosvir, ``The Grey.''
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Daughters had they,<sep />Drumba and Kumba,<br />
+			Ökkvinkalfa,<sep />Arinnefla,<br />
+			Ysja and Ambott,<sep />Eikintjasna,<br />
+			Totrughypja<sep />and Tronubeina;<br />
+			And thence has risen<sep />the race of thralls.
+		</translation>
+		<comment>
+			The names mean: Drumba, ``The Log''; Kumba, ``The Stumpy''; Ökkvinkalfa, ``Fat-Legged''; Arinnefla, ``Homely Nosed''; Ysja, ``The Noisy''; Ambott, ``The Servant''; Eikintjasna, ``The Oaken Peg'' (?); Totrughypja, ``Clothed in Rags''; Tronubeina, ``Crane-Legged.''
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Forward went Rig,<sep />his road was straight,<br />
+			To a hall he came,<sep />and a door there hung;<br />
+			In did he fare,<sep />on the floor was a fire:<br />
+			Afi and Amma<sep />owned the house.
+		</translation>
+		<comment>
+			In the manuscript line 4 stands after line 4 of stanza <sr>16</sr>, but several editors have rearranged the lines, as here.
+			<expl>Afi and Amma</expl>: Grandfather and Grandmother.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			There sat the twain,<sep />and worked at their tasks:<br />
+			The man hewed wood<sep />for the weaver's beam;<br />
+			His beard was trimmed,<sep />o'er his brow a curl,<br />
+			His clothes fitted close;<sep />in the corner a chest.
+		</translation>
+		<comment>
+			There is considerable confusion among the editors as to where this stanza begins and ends.
+		</comment>
+	</block>
+	<block class="stanza" number="16">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The woman sat<sep />and the distaff wielded,<br />
+			At the weaving with arms<sep />outstretched she worked;<br />
+			On her head was a band,<sep />on her breast a smock;<br />
+			On her shoulders a kerchief<sep />with clasps there was.
+		</translation>
+		<comment>
+			The manuscript marks line 3 as the beginning of a stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Rig knew well<sep />wise words to speak,<br />
+			Soon in the midst<sep />of the room he sat,<br />
+			And on either side<sep />the others were.
+		</translation>
+		<comment>
+			The manuscript jumps from stanza <sr>17</sr>, line 1, to stanza <sr>19</sr>, line 2.
+			Bugge points out that the copyist's eye was presumably led astray by the fact that <sr>17</sr>, 1, and <sr>19</sr>, 1, were identical.
+			Lines 2--3 of <sr>17</sr> are supplied from stanzas <sr>3</sr> and <sr>29</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then took Amma<sep /><lacuna /><br />
+			The vessels full<sep />with the fare she set,<br />
+			Calf's flesh boiled<sep />was the best of the dainties.
+		</translation>
+		<comment>
+			I have followed Bugge's conjectural construction of the missing stanza, taking lines 2 and 3 from stanzas <sr>31</sr> and <sr>4</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Rig knew well<sep />wise words to speak,<br />
+			He rose from the board,<sep />made ready to sleep;<br />
+			Soon in the bed<sep />himself did he lay,<br />
+			And on either side<sep />the others were.
+		</translation>
+		<comment>
+			The manuscript marks line 2 as the beginning of a stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thus was he there<sep />for three nights long,<br />
+			Then forward he went<sep />on the midmost way,<br />
+			And so nine months<sep />were soon passed by.
+		</translation>
+		<comment>
+			The manuscript omits line 2, supplied by analogy with stanza <sr>6</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A son bore Amma,<sep />with water they sprinkled him,<br />
+			Karl they named him;<sep />in a cloth she wrapped him,<br />
+			He was ruddy of face,<sep />and flashing his eyes.
+		</translation>
+		<comment>
+			Most editors assume a lacuna, after either line 2 or line 3.
+			Sijmons assumes, on the analogy of stanza <sr>8</sr>, that a complete stanza describing Karl (``Yeoman'') has been lost between stanzas <sr>21</sr> and <sr>22</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			He began to grow,<sep />and to gain in strength,<br />
+			Oxen he ruled,<sep />and plows made ready,<br />
+			Houses he built,<sep />and barns he fashioned,<br />
+			Carts he made,<sep />and the plow he managed.
+		</translation>
+		<comment>
+			No line indicated in the manuscript as beginning a stanza.
+			<expl>Cart</expl>: the word in the original, ``kartr,'' is one of the clear signs of the Celtic influence noted in the introduction.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Home did they bring<sep />the bride for Karl,<br />
+			In goatskins clad,<sep />and keys she bore;<br />
+			Snör was her name,<sep />'neath the veil she sat;<br />
+			A home they made ready,<sep />and rings exchanged,<br />
+			The bed they decked,<sep />and a dwelling made.
+		</translation>
+		<comment>
+			<expl>Bring</expl>: the word literally means ``drove in a wagon''---a mark of the bride's social status.
+			<expl>Snör</expl>: ``Daughter-in-Law.''
+			Bugge, followed by several editors, maintains that line 4 was wrongly interpolated here from a missing stanza describing the marriage of Kon.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Sons they had,<sep />they lived and were happy:<br />
+			Hal and Dreng,<sep />Holth, Thegn and Smith,<br />
+			Breith and Bondi,<sep />Bundinskeggi,<br />
+			Bui and Boddi,<sep />Brattskegg and Segg.
+		</translation>
+		<comment>
+			No line indicated in the manuscript as beginning a stanza.
+			The names mean: Hal, ``Man''; Dreng, ``The Strong''; Holth, ``The Holder of Land''; Thegn, ``Freeman''; Smith, ``Craftsman''; Breith, ``The Broad-Shouldered''; Bondi, ``Yeoman''; Bundinskeggi, ``With Beard Bound'' (i.e., not allowed to hang unkempt); Bui, ``Dwelling-Owner''; Boddi, ``Farm-Holder''; Brattskegg, ``With Beard Carried High''; Segg, ``Man.''
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Daughters they had,<sep />and their names are here:<br />
+			Snot, Bruth, Svanni,<sep />Svarri, Sprakki,<br />
+			Fljoth, Sprund and Vif,<sep />Feima, Ristil:<br />
+			And thence has risen<sep />the yeomen's race.
+		</translation>
+		<comment>
+			No line indicated in the manuscript as beginning a stanza.
+			The names mean: Snot, ``Worthy Woman''; Bruth, ``Bride''; Svanni, ``The Slender''; Svarri, ``The Proud''; Sprakki, ``The Fair''; Fljoth, ``Woman'' (?); Sprund, ``The Proud''; Vif, ``Wife''; Feima, ``The Bashful''; Ristil, ``The Graceful.''
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thence went Rig,<sep />his road was straight,<br />
+			A hall he saw,<sep />the doors faced south;<br />
+			The portal stood wide,<sep />on the posts was a ring,<br />
+			Then in he fared;<sep />the floor was strewn.
+		</translation>
+		<comment>
+			Many editors make a stanza out of line 4 and lines 1--2 of the following stanza.
+			<expl>Strewn</expl>: with fresh straw in preparation for a feast; cf. <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">22</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Within two gazed<sep />in each other's eyes,<br />
+			Fathir and Mothir,<sep />and played with their fingers;<br />
+			There sat the house-lord,<sep />wound strings for the bow,<br />
+			Shafts he fashioned,<sep />and bows he shaped.
+		</translation>
+		<comment>
+			<expl>Fathir and Mothir</expl>: Father and Mother.
+			Perhaps lines 3--4 should form a stanza with <sr>28</sr>, 1--3.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The lady sat,<sep />at her arms she looked,<br />
+			She smoothed the cloth,<sep />and fitted the sleeves;<br />
+			Gay was her cap,<sep />on her breast were clasps,<br />
+			Broad was her train,<sep />of blue was her gown,<br />
+			Her brows were bright,<sep />her breast was shining,<br />
+			Whiter her neck<sep />than new-fallen snow.
+		</translation>
+		<comment>
+			Bugge thinks lines 5--6, like <sr>23</sr>, 4, got in here from the lost stanzas describing Kon's bride and his marriage.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Rig knew<sep />well wise words to speak,<br />
+			Soon in the midst<sep />of the room he sat,<br />
+			And on either side<sep />the others were.
+		</translation>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Mothir brought<sep />a broidered cloth,<br />
+			Of linen bright,<sep />and the board she covered;<br />
+			And then she took<sep />the loaves so thin,<br />
+			And laid them, white<sep />from the wheat, on the cloth.
+		</translation>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then forth she brought<sep />the vessels full,<br />
+			With silver covered,<sep />and set before them,<br />
+			Meat all browned,<sep />and well-cooked birds;<br />
+			In the pitcher was wine,<sep />of plate were the cups,<br />
+			So drank they and talked<sep />till the day was gone.
+		</translation>
+		<comment>
+			The manuscript of lines 1--3 is obviously defective, as there are too many words for two lines, and not enough for the full three.
+			The meaning, however, is clearly very much as indicated in the translation.
+			Gering's emendation, which I have followed, consists simply in shifting ``set before them'' from the first line to the second--where the manuscript has no verb,---and supplying the verb ``brought'' in line 1.
+			The various editions contain all sorts of suggestions.
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Rig knew well<sep />wise words to speak,<br />
+			Soon did he rise,<sep />made ready to sleep;<br />
+			So in the bed<sep />himself did he lay,<br />
+			And on either side<sep />the others were.
+		</translation>
+		<comment>
+			The manuscript begins both line 1 and line 2 with a capital preceded by a period, which has led to all sorts of strange stanza-combinations and guesses at lost lines in the various editions.
+			The confusion includes stanza <sr>33</sr>, wherein no line is marked in the manuscript as beginning a stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thus was he there<sep />for three nights long,<br />
+			Then forward he went<sep />on the midmost way,<br />
+			And so nine months<sep />were soon passed by.
+		</translation>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A son had Mothir,<sep />in silk they wrapped him,<br />
+			With water they sprinkled him,<sep />Jarl he was;<br />
+			Blond was his hair,<sep />and bright his cheeks,<br />
+			Grim as a snake's<sep />were his glowing eyes.
+		</translation>
+		<comment>
+			Jarl: ``Nobly-Born.''
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			To grow in the house<sep />did Jarl begin,<br />
+			Shields he brandished,<sep />and bow-strings wound,<br />
+			Bows he shot,<sep />and shafts he fashioned,<br />
+			Arrows he loosened,<sep />and lances wielded,<br />
+			Horses he rode,<sep />and hounds unleashed,<br />
+			Swords he handled,<sep />and sounds he swam.
+		</translation>
+		<comment>
+			Various lines have been regarded as interpolations, 3 and 6 being most often thus rejected.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Straight from the grove<sep />came striding Rig,<br />
+			Rig came striding,<sep />and runes he taught him;<br />
+			By his name he called him,<sep />as son he claimed him,<br />
+			And bade him hold<sep />his heritage wide,<br />
+			His heritage wide,<sep />the ancient homes.
+		</translation>
+		<comment>
+			Lines 1, 2, and 5 all begin with capitals preceded by periods, a fact which, taken in conjunction with the obviously defective state of the following stanza, has led to all sorts of conjectural emendations.
+			The exact significance of Rig's giving his own name to Jarl (cf. stanza <sr>46</sr>), and thus recognizing him, potentially at least, as a king, depends on the conditions under which the poem was composed (cf. <chapterref chatper="Rigsthula">Introductory Note</chapterref>).
+			The whole stanza, particularly the reference to the teaching of magic (runes), fits Othin far better than Heimdall.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><br />
+			Forward he rode<sep />through the forest dark,<br />
+			O'er the frosty crags,<sep />till a hall he found.
+		</translation>
+		<comment>
+			Something---one or two lines, or a longer passage---has clearly been lost, describing the beginning of Jarl's journey.
+			Yet many editors, relying on the manuscript punctuation, make <sr>37</sr> and <sr>38</sr> into a single stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			His spear he shook,<sep />his shield he brandished,<br />
+			His horse he spurred,<sep />with his sword he hewed;<br />
+			Wars he raised,<sep />and reddened the field,<br />
+			Warriors slew he,<sep />and land he won.
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Eighteen halls<sep />ere long did he hold,<br />
+			Wealth did he get,<sep />and gave to all,<br />
+			Stones and jewels<sep />and slim-flanked steeds,<br />
+			Rings he offered,<sep />and arm-rings shared.
+		</translation>
+		<comment>
+			The manuscript marks both lines 1 and 2 as beginning stanzas.
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			His messengers went<sep />by the ways so wet,<br />
+			And came to the hall<sep />where Hersir dwelt;<br />
+			His daughter was fair<sep />and slender-fingered,<br />
+			Erna the wise<sep />the maiden was.
+		</translation>
+		<comment>
+			<expl>Hersir</expl>: ``Lord''; the hersir was, in the early days before the establishment of a kingdom in Norway, the local chief, and hence the highest recognized authority.
+			During and after the time of Harald the Fair-Haired the name lost something of its distinction, the hersir coming to take rank below the jarl.
+			<expl>Erna</expl>: ``The Capable.''
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Her hand they sought,<sep />and home they brought her,<br />
+			Wedded to Jarl<sep />the veil she wore;<br />
+			Together they dwelt,<sep />their joy was great,<br />
+			Children they had,<sep />and happy they lived.
+		</translation>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Bur was the eldest,<sep />and Barn the next,<br />
+			Joth and Athal,<sep />Arfi, Mog,<br />
+			Nith and Svein,<sep />soon they began-<br />
+			Sun and Nithjung--<sep />to play and swim;<br />
+			Kund was one,<sep />and the youngest Kon.
+		</translation>
+		<comment>
+			The names mean: Bur, ``Son''; Barn, ``Child''; Joth, ``Child''; Athal, ``Offspring''; Arfi, ``Heir''; Mog, ``Son''; Nith, ``Descendant''; Svein, ``Boy''; Sun, ``Son''; Nithjung, ``Descend ant''; Kund, ``Kinsman''; Kon, ``Son'' (of noble birth).
+			Concerning the use made of this last name, see note on stanza <sr>44</sr>.
+			It is curious that there is no list of the daughters of Jarl and Erna, and accordingly Vigfusson inserts here the names listed in stanza <sr>25</sr>.
+			Grundtvig rearranges the lines of stanzas <sr>42</sr> and <sr>43</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Soon grew up<sep />the sons of Jarl,<br />
+			Beasts they tamed,<sep />and bucklers rounded,<br />
+			Shafts they fashioned,<sep />and spears they shook.
+		</translation>
+	</block>
+	<block class="stanza" number="44">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			But Kon the Young<sep />learned runes to use,<br />
+			Runes everlasting,<sep />the runes of life;<br />
+			Soon could he well<sep />the warriors shield,<br />
+			Dull the swordblade,<sep />and still the seas.
+		</translation>
+		<comment>
+			The manuscript indicates no line as beginning a stanza.
+			<expl>Kon the Young</expl>: a remarkable bit of fanciful etymology; the phrase is ``Konr ungr,'' which could readily be contracted into ``Konungr,'' the regular word meaning ``king.''
+			The ``kon'' part is actually not far out, but the second syllable of ``konungr'' has nothing to do with ``ungr'' meaning ``young.''
+			<expl>Runes</expl>: a long list of just such magic charms, dulling swordblades, quenching flames, and so on, is given in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">147</stanzaref>--<stanzaref chapter="Hovamol">163</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep />
+		</original>
+		<translation>
+			Bird-chatter learned he,<sep />flames could he lessen.,<br />
+			Minds could quiet,<sep />and sorrows calm;<br />
+			<lacuna /><br />
+			The might and strength<sep />of twice four men.
+		</translation>
+		<comment>
+			The manuscript indicates no line as beginning a stanza.
+			<expl>Minds</expl>: possibly ``seas,''' the word being doubtful.
+			Most editors assume the gap as indicated.
+		</comment>
+	</block>
+	<block class="stanza" number="46">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			With Rig-Jarl soon<sep />the runes he shared,<br />
+			More crafty he was,<sep />and greater his wisdom;<br />
+			The right he sought,<sep />and soon he won it,<br />
+			Rig to be called,<sep />and runes to know.
+		</translation>
+		<comment>
+			The manuscript indicates no line as beginning a stanza.
+			<expl>Rig-Jarl</expl>: Kon's father; cf. stanza <sr>36</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="47">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Young Kon rode forth<sep />through forest and grove,<br />
+			Shafts let loose,<sep />and birds he lured;<br />
+			There spake a crow<sep />on a bough that sat:<br />
+			``Why lurest thou, Kon,<sep />the birds to come?
+		</translation>
+		<comment>
+			This stanza has often been combined with 48, either as a whole or in part.
+			<expl>Crow</expl>: birds frequently play the part of mentor in Norse literature; cf., for example, <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">5</stanzaref>, and <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">32</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="48">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			'Twere better forth<sep />on thy steed to fare,<br />
+			<lacuna /><sep />and the host to slay.
+		</translation>
+		<comment>
+			This fragment is not indicated as a separate stanza in the manuscript.
+			Perhaps half a line has disappeared, or, as seems more likely, the gap includes two lines and a half.
+			Sijmons actually constructs these lines, largely on the basis of stanzas <sr>35</sr> and <sr>38</sr>, Bugge fills in the half-line lacuna as indicated above with ``The sword to wield.''
+		</comment>
+	</block>
+	<block class="stanza" number="49">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The halls of Dan<sep />and Danp are noble,<br />
+			Greater their wealth<sep />than thou bast gained;<br />
+			Good are they<sep />at guiding the keel,<br />
+			Trying of weapons,<sep />and giving of wounds.''
+		</translation>
+		<comment>
+			<expl>Dan and Danp</expl>: These names are largely responsible for the theory that the <chapterref>Rigsthula</chapterref> was composed in Denmark.
+			According to the Latin epitome of the <src>Skjöldungasaga</src> by Arngrimur Jonsson, ``Rig (Rigus) was a man not the least among the great ones of his time.
+			He married the daughter of a certain Danp, lord of Danpsted, whose name was Dana; and later, having won the royal title for his province, left as his heir his son by Dana, called Dan or Danum, all of whose subjects were called Danes.''
+			This may or may not be conclusive, and it is a great pity that the manuscript breaks off abruptly at this stanza.
+		</comment>
+	</block>
+</chapter>
