@@ -185,7 +185,7 @@ Rigsthula (planned)
 ~~~~~~~~~~~~~~~~~~~
 
 * Add Rigsthula chapter
-* Refactor scripts
+* Add 'Introductory note' in the beginning of each chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -199,3 +199,4 @@ Tasks for distant future
   know how long the stanza names in other chapters will be).
 * Proofread everything
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
+* Refactor scripts
