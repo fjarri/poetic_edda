@@ -39,7 +39,8 @@
 	<block class="sepline" />
 	<block class="prose" label="introduction">
 		<original>
-			<br />
+			Sva` segja menn i` fornum so~gum, at einhverr af a`sum, sa` er Heimdallr he`t, fo`r ferþar sinnar ok fram meþ sjo`varstro~ndu no~kkurri, kom at einum hu`sabo_e ok nefndiz Ri`gr.<br />
+			Eptir þeiri so~gu er kva_eþi þetta:
 		</original>
 		<translation>
 			They tell in old stories that one of the gods, whose name was Heimdall, went on his way along a certain seashore, and came to a dwelling, where he called himself Rig.<br />
@@ -59,9 +60,9 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
+			A`r kvo~þu ganga<sep />gro/`nar brautir<br />
+			o~flgan ok aldinn<sep />o~`s kunnigan,<br />
+			ramman ok ro~skvan<sep />Ri`g sti`ganda,<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -77,11 +78,11 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gekk meirr at þat<sep />miþrar brautar;<br />
+			kvam hann at hu`si,<sep />hurþ vas a` ga_e`tti;<br />
+			inn nam ganga,<sep />eldr vas a` golfi,<br />
+			hjo`n so~`tu þar<sep />ho~`r at arni.<br />
+			Ai ok Edda<sep />aldinfalda.
 		</original>
 		<translation>
 			Forward he went<sep />on the midmost way,<br />
@@ -97,9 +98,9 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`gr kunni þeim<sep />ro~`þ at segja,<br />
+			meirr settisk hann<sep />miþra fletja,<br />
+			en a` hliþ hva`ra<sep />hjo`n salkynna.
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -112,11 +113,11 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` to`k Edda<sep />o/kkvinn hleif,<br />
+			þungan ok þykkvan,<sep />þrunginn so~`þum;<br />
+			bar meirr at þat<sep />miþra skulta,<br />
+			soþ vas i` bolla,<sep />setti a` bjo`þ.<br />
+			[vas kalfr soþinn<sep />kra`sa baztr.]
 		</original>
 		<translation>
 			A loaf of bread<sep />did Edda bring,<br />
@@ -131,10 +132,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`gr kunni þeim<sep />ro~`þ at segja,<br />
+			reis upp þaþan,<sep />re`zk at sofna;<br />
+			meirr lagþisk hann<sep />miþrar rekkju,<br />
+			en a` hliþ hva`ra<sep />hjo`n salkynna.
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -148,9 +149,9 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þat vas at þat<sep />þriar na_e`tr saman,<br />
+			gekk meirr at þat<sep />miþrar brautar,<br />
+			liþu meirr at þat<sep />mo~`nuþr niu.
 		</original>
 		<translation>
 			Thus was he there<sep />for three nights long,<br />
@@ -163,9 +164,9 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Jo`þ o`l Edda,<sep />jo`su vatni,<br />
+			<conj>sveip</conj> ho~rvi <conj>kona</conj><sep /><conj>ho~rund</conj>svartan;<br />
+			he`tu Þra_e`l<sep /></lacuna>
 		</original>
 		<translation>
 			A son bore Edda,<sep />with water they sprinkled him,<br />
@@ -183,10 +184,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vas þar a` ho~ndum<sep />hrokkit skinn,<br />
+			kropnir knuar,<sep /><lacuna /><br />
+			fingr digrir,<sep />fu`lligt andlit,<br />
+			lu`tr hryggr,<sep />langir ha_e`lar.
 		</original>
 		<translation>
 			The skin was wrinkled<sep />and rough on his hands,<br />
@@ -202,10 +203,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hann nam at vaxa<sep />ok vel dafna,<br />
+			nam meirr at þat<sep />megins of kosta,<br />
+			bast at binda,<sep />byrþar go/rva,<br />
+			bar heim at þat<sep />hri`s go/rstan dag.
 		</original>
 		<translation>
 			He began to grow,<sep />and to gain in strength,<br />
@@ -219,9 +220,9 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þar kvam at garþi<sep />gengilbeina,<br />
+			aurr vas a` iljum,<sep />armr so`lbrunnin,<br />
+			niþrbju`gt es nef,<sep />nefndisk Þi`r.
 		</original>
 		<translation>
 			One came to their home,<sep />crooked her legs,<br />
@@ -237,10 +238,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Meirr settisk ho`n<sep />miþra fletja,<br />
+			sat hja` henni<sep />sunr hu`ss,<br />
+			ro/`ddu ok ry`ndu,<sep />rekkju go/rþu<br />
+			Þra_e`ll ok Þi`r<sep />þrungin do/`gr.
 		</original>
 		<translation>
 			Soon in the midst<sep />of the room she sat,<br />
@@ -251,13 +252,13 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bo~rn o~`lu þau,<sep />bjuggu ok unþu;<br />
+			hykk at he`ti<sep />Hreimr ok Fjo`snir,<br />
+			Klu`rr ok Kleggi,<sep />Kefsir, Fulnir,<br />
+			Drumbr, Digraldi,<sep />Dro~ttr ok Ho~svir,<br />
+			Lu`tr, Leggjaldi:<sep />lo~gþu garþa,<br />
+			akra to~ddu,<sep />unnu at svi`num,<br />
+			geita ga_e`ttu,<sep />gro`fu torf.
 		</original>
 		<translation>
 			Children they had,<sep />they lived and were happy,<br />
@@ -275,11 +276,11 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Do/`tr vo~`ru þa_e`r<sep />Drumba ok Kumba,<br />
+			O/kkvinkalfa<sep />ok Arinnefja,<br />
+			Ysja ok Ambo~`tt,<sep />Eikintjasna,<br />
+			To~trughypja<sep />ok Tro~nubeina:<br />
+			þaþan eru komnar<sep />þra_e`la a_e`ttir.
 		</original>
 		<translation>
 			Daughters had they,<sep />Drumba and Kumba,<br />
@@ -294,10 +295,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gekk Ri`gr at þat<sep />re`ttar brautir;<br />
+			kvam hann at ho~llu,<sep />hurþ vas a` ski`þi;<br />
+			inn nam ganga,<sep />eldr vas a` golfi:<br />
+			Afi ok Amma<sep />o~`ttu hu`s.
 		</original>
 		<translation>
 			Forward went Rig,<sep />his road was straight,<br />
@@ -312,10 +313,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hjo`n so~`tu þar,<sep />heldu a` sy`slu:<br />
+			maþr telgþi þar<sep />meiþ til rifjar;<br />
+			vas skegg skapat,<sep />sko~r vas fyr enni,<br />
+			skyrtu þro~ngva,<sep />skokkr vas a` golfi.
 		</original>
 		<translation>
 			There sat the twain,<sep />and worked at their tasks:<br />
@@ -329,10 +330,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sat þar kona,<sep />sveigþi rokk,<br />
+			breiddi faþm,<sep />bjo` til va`þar;<br />
+			sveigr vas a` ho~fþi,<sep />smokkr vas a` bringu,<br />
+			du`kr vas a` halsi,<sep />dvergar a` o~xlum.
 		</original>
 		<translation>
 			The woman sat<sep />and the distaff wielded,<br />
@@ -346,9 +347,9 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`gr kunni þeim<sep />ro~`þ at segja,<br />
+			meirr settisk hann<sep />miþra fletja,<br />
+			en a` hliþ hva`ra<sep />hjo`n salkynna.
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -363,9 +364,9 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` to`k Amma<sep /><lacuna /><br />
+			fram setti ho`n<sep />fulla skutla,<br />
+			vas kalfr soþinn<sep />kra`sa baztr.
 		</original>
 		<translation>
 			Then took Amma<sep /><lacuna /><br />
@@ -378,10 +379,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`gr kunni þeim<sep />ro~`þ at segja,<br />
+			reis fra` borþi,<sep />re`zk at sofna,<br />
+			meirr lagþisk hann<sep />miþrar rekkju,<br />
+			en a` hliþ hva`ra<sep />hjo`n salkynna.
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -395,9 +396,9 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þar vas at þat<sep />þriar na_e`tr saman,<br />
+			gekk meirr at þat<sep />miþrar brautar,<br />
+			liþu meirr at þat<sep />mo~`nuþr niu.
 		</original>
 		<translation>
 			Thus was he there<sep />for three nights long,<br />
@@ -410,9 +411,9 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Jo`þ o`l Amma,<sep />jo`su vatni,<br />
+			ko~lluþu Karl;<sep />kona sveip ripti<br />
+			rauþan ok rjo`þan,<sep />riþuþu augu.
 		</original>
 		<translation>
 			A son bore Amma,<sep />with water they sprinkled him,<br />
@@ -426,10 +427,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hann nam at vaxa<sep />ok vel dafna,<br />
+			o/xn nam temja,<sep />arþr at go/rva,<br />
+			hu`s at timbra<sep />ok hlo~þur smi`þa,<br />
+			karta at go/rva<sep />ok keyra plo`g.
 		</original>
 		<translation>
 			He began to grow,<sep />and to gain in strength,<br />
@@ -444,11 +445,11 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Heim o`ku þa`<sep />hanginluklu,<br />
+			geitakyrtlu,<sep />giptu Karli;<br />
+			Sno/r heitir su`,<sep />settisk und ripti,<br />
+			bjuggu hjo`n,<sep />bauga deildu,<br />
+			breiddu bla_e`jur<sep />ok bu` go/rþu.
 		</original>
 		<translation>
 			Home did they bring<sep />the bride for Karl,<br />
@@ -465,10 +466,10 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bo~rn o`lu þau,<sep />bjuggu ok unþu;<br />
+			he`t Halr ok Drengr,<sep />Ho~lþr, Þegn ok Smiþr,<br />
+			Breiþr, Bo`ndi,<sep />Bundinskeggi,<br />
+			Bui ok Boddi,<sep />Brattskeggr ok Seggr.
 		</original>
 		<translation>
 			Sons they had,<sep />they lived and were happy:<br />
@@ -483,10 +484,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Enn he`tu sva`<sep />o`þrum no~fnum:<br />
+			Sno`t, Bru`þr, Svanni,<sep />Svarri, Sprakki,<br />
+			Fljo`þ, Sprund ok Vi`f,<sep />Feima, Ristill:<br />
+			þaþan eru kommar<sep />karla a_e`ttir.
 		</original>
 		<translation>
 			Daughters they had,<sep />and their names are here:<br />
@@ -501,10 +502,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gekk Ri`gr þaþan<sep />re`ttar brautir,<br />
+			kvam hann at sal,<sep />suþr horfþu dyrr;<br />
+			vas hurþ hnigin,<sep />hringr vas i` ga_e`tti,<br />
+			gekk inn at þat:<sep />golf vas strai::t.
 		</original>
 		<translation>
 			Thence went Rig,<sep />his road was straight,<br />
@@ -519,10 +520,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			So~`tu hjo`n,<sep />so~usk i` augu,<br />
+			Faþir ok Mo`þir,<sep />fingrum at leika;<br />
+			sat hu`sgumi<sep />ok sno/ri streng,<br />
+			alm of bendi,<sep />o~rvar skepti.
 		</original>
 		<translation>
 			Within two gazed<sep />in each other's eyes,<br />
@@ -537,12 +538,12 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En hu`skona<sep />hugþi at o~rmum,<br />
+			strauk of ripti,<sep />sterti ermar,<br />
+			keistr vas faldr,<sep />kinga a` bringu,<br />
+			si`þar slo/`þur,<sep />serk bla`faan,<br />
+			bru`n bjartari,<sep />brjo`st ljo`sara,<br />
+			hals hvi`tari<sep />hreinni mjo~llu.
 		</original>
 		<translation>
 			The lady sat,<sep />at her arms she looked,<br />
@@ -558,9 +559,9 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`gr kunni þeim<sep />ro~`þ at segja,<br />
+			meirr settisk hann<sep />miþra fletja,<br />
+			en a` hliþ hva`ra<sep />hjo`n salkynna.
 		</original>
 		<translation>
 			Rig knew<sep />well wise words to speak,<br />
@@ -570,10 +571,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` to`k Mo`þir<sep />merkþan du`k,<br />
+			hvi`tan af ho~rvi,<sep />hulþi bjo`þ;<br />
+			ho`n to`k at þat<sep />hleifa þunna,<br />
+			hvi`ta af hveiti,<sep />ok hulþi du`k.
 		</original>
 		<translation>
 			Then Mothir brought<sep />a broidered cloth,<br />
@@ -584,11 +585,11 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fram <conj>bar at þat</conj><sep />fulla skulta<br />
+			silfri varþa,<sep /><conj>setti</conj> a` bjo`þ,<br />
+			fai::n fleski,<sep />fogla steikþa;<br />
+			vi`n vas i` ko~nnu,<sep />varþir kalkar,<br />
+			drukku ok do/`mþu,<sep />dagr vas a` sinnum.
 		</original>
 		<translation>
 			Then forth she brought<sep />the vessels full,<br />
@@ -606,10 +607,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`gr kunni þeim<sep />ro~`þ at segja,<br />
+			reis hann at þat,<sep />rekkju go/rþi;<br />
+			meirr lagþisk hann<sep />miþrar rekkju,<br />
+			en a` hliþ hva`ra<sep />hjo`n salkynna.
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -624,9 +625,9 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þar vas at þat<sep />þriar na_e`tr saman,<br />
+			gekk meirr at þat<sep />miþrar brautar,<br />
+			liþu meirr at þat<sep />mo~`nuþr niu.
 		</original>
 		<translation>
 			Thus was he there<sep />for three nights long,<br />
@@ -636,10 +637,10 @@
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Svein o`l Mo`þir,<sep />silki vafþi,<br />
+			jo`su vatni,<sep />Jarl le`tu heita;<br />
+			bleikt vas ha`r,<sep />bjartir vangar,<br />
+			o~tul vo~ru augu<sep />sem yrmlingi.
 		</original>
 		<translation>
 			A son had Mothir,<sep />in silk they wrapped him,<br />
@@ -648,17 +649,17 @@
 			Grim as a snake's<sep />were his glowing eyes.
 		</translation>
 		<comment>
-			Jarl: ``Nobly-Born.''
+			<expl>Jarl</expl>: ``Nobly-Born.''
 		</comment>
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Upp o`x þar<sep />Jarl a` fletjum,<br />
+			lind nam skelfa,<sep />leggja strengi,<br />
+			alm at beygja,<sep />o~rvar skepta,<br />
+			fleini fleygja,<sep />fro~kkur dy`ja,<br />
+			hestum ri`þa,<sep />hundum verpa,<br />
+			sverþum bregþa,<sep />sund at fremja.
 		</original>
 		<translation>
 			To grow in the house<sep />did Jarl begin,<br />
@@ -674,11 +675,11 @@
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvam þar o`r runni<sep />Ri`gr gangandi,<br />
+			Ri`gr gangandi,<sep />ru`nar kendi;<br />
+			sitt gaf heiti,<sep />sun kvezk eiga,<br />
+			þann baþ eignask<sep />o`þalvo~llu,<br />
+			o`þalvo~llu,<sep />aldnar bygþir.
 		</original>
 		<translation>
 			Straight from the grove<sep />came striding Rig,<br />
@@ -695,12 +696,12 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<br />
-			<sep /><br />
-			<sep />
+			<lacuna /><sep /><lacuna /><br />
+			reiþ meirr þaþan<sep />myrkvan viþ,<br />
+			he`lug fjo~ll,<sep />unz at ho~llu kvam.
 		</original>
 		<translation>
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			Forward he rode<sep />through the forest dark,<br />
 			O'er the frosty crags,<sep />till a hall he found.
 		</translation>
@@ -711,10 +712,10 @@
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Skapt nam dy`ja,<sep />skelfþi lind,<br />
+			hesti hleypþi<sep />ok hjo~rvi bra`;<br />
+			vi`g nam vekja,<sep />vo~ll nam rjo`þa,<br />
+			val nam fella,<sep />va` til landa.
 		</original>
 		<translation>
 			His spear he shook,<sep />his shield he brandished,<br />
@@ -725,10 +726,10 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Re`þ einn at þat<sep />a`tja`n buum,<br />
+			auþ nam skipta,<sep />o~llum veita:<br />
+			meiþmar ok mo~sma,<sep />mara svangrifja;<br />
+			hringum hreytti,<sep />hjo` sundr baug.
 		</original>
 		<translation>
 			Eighteen halls<sep />ere long did he hold,<br />
@@ -742,10 +743,10 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O`ku a_e`rir<sep />u`rgar brautir,<br />
+			kvo~`mu at ho~llu<sep />þars Hersir bjo`;<br />
+			mey a`tti hann<sep />mjo`fingraþa,<br />
+			hvi`ta ok horska:<sep />he`tu Ernu.
 		</original>
 		<translation>
 			His messengers went<sep />by the ways so wet,<br />
@@ -761,10 +762,10 @@
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bo~`þu hennar<sep />ok heim o`ku,<br />
+			giptu Jarli,<sep />gekk und li`ni;<br />
+			saman bjuggu þau<sep />ok se`r unþu,<br />
+			a_e`ttir jo`ku<sep />ok aldrs nutu.
 		</original>
 		<translation>
 			Her hand they sought,<sep />and home they brought her,<br />
@@ -775,17 +776,17 @@
 	</block>
 	<block class="stanza" number="42">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Burr vas enn elzti,<sep />en Barn annat,<br />
+			Jo`þ ok Aþal,<sep />Arfi, Mo~gr,<br />
+			Niþr ok Niþjungr<sep />(no~`mu leika)<br />
+			Sunr ok Sveinn<sep />(sund ok tafl);<br />
+			Kundr he`t einn,<sep />Konr vas enn yngsti.
 		</original>
 		<translation>
 			Bur was the eldest,<sep />and Barn the next,<br />
 			Joth and Athal,<sep />Arfi, Mog,<br />
-			Nith and Svein,<sep />soon they began-<br />
-			Sun and Nithjung--<sep />to play and swim;<br />
+			Nith and Svein,<sep />soon they began---<br />
+			Sun and Nithjung---<sep />to play and swim;<br />
 			Kund was one,<sep />and the youngest Kon.
 		</translation>
 		<comment>
@@ -797,9 +798,9 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Upp o`xu þar<sep />Jarli bornir,<br />
+			hesta to~mþu,<sep />hli`far bendu,<br />
+			skeyti sko`fu,<sep />skelfþu aska.
 		</original>
 		<translation>
 			Soon grew up<sep />the sons of Jarl,<br />
@@ -809,10 +810,10 @@
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En Konr ungr<sep />kunni ru`nar,<br />
+			a_e`finru`nar<sep />ok aldrru`nar;<br />
+			meirr kunni hann<sep />mo~nnum bjarga,<br />
+			eggjar deyfa,<sep />a_e`gi la_e`gja.
 		</original>
 		<translation>
 			But Kon the Young<sep />learned runes to use,<br />
@@ -829,15 +830,15 @@
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep />
+			Klo`k nam fogla,<sep />kyrra elda,<br />
+			sefa of svefja,<sep />sorgir la_e`gja;<br />
+			<lacuna /><sep /><lacuna /><br />
+			afl ok eljun<sep />a`tta manna.
 		</original>
 		<translation>
 			Bird-chatter learned he,<sep />flames could he lessen.,<br />
 			Minds could quiet,<sep />and sorrows calm;<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			The might and strength<sep />of twice four men.
 		</translation>
 		<comment>
@@ -848,10 +849,10 @@
 	</block>
 	<block class="stanza" number="46">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hann viþ Ri`g Jarl<sep />ru`nar deildi,<br />
+			bro~gþum beitti<sep />ok betr kunni;<br />
+			þa` o/þlaþisk<sep />ok eiga gat<br />
+			Ri`gr at heita,<sep />ru`nar kunna.
 		</original>
 		<translation>
 			With Rig-Jarl soon<sep />the runes he shared,<br />
@@ -866,10 +867,10 @@
 	</block>
 	<block class="stanza" number="47">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Reiþ Konr ungr<sep />kjo~rr ok sko`ga,<br />
+			kolfi fleygþi,<sep />kyrþi fogla;<br />
+			þa` kvaþ þat kra`ka,<sep />sat a` kvisti ein:<br />
+			``hvat skalt, Konr ungr!<sep />kyrra fogla?
 		</original>
 		<translation>
 			Young Kon rode forth<sep />through forest and grove,<br />
@@ -878,14 +879,14 @@
 			``Why lurest thou, Kon,<sep />the birds to come?
 		</translation>
 		<comment>
-			This stanza has often been combined with 48, either as a whole or in part.
+			This stanza has often been combined with <sr>48</sr>, either as a whole or in part.
 			<expl>Crow</expl>: birds frequently play the part of mentor in Norse literature; cf., for example, <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">5</stanzaref>, and <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">32</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="48">
 		<original>
-			<sep /><br />
-			<sep />
+			Heldr ma_e`ttiþ e`r<sep />hestum ri`þa<br />
+			<lacuna /><sep />ok her fella.
 		</original>
 		<translation>
 			'Twere better forth<sep />on thy steed to fare,<br />
@@ -899,10 +900,10 @@
 	</block>
 	<block class="stanza" number="49">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			A` Danr ok Danpr<sep />dy`rar hallir,<br />
+			o/`þra o`þal<sep />an e`r hafiþ;<br />
+			þeir kunnu vel<sep />kjo`l at ri`þa,<br />
+			egg at kenna,<sep />undir rju`fa.''
 		</original>
 		<translation>
 			The halls of Dan<sep />and Danp are noble,<br />
