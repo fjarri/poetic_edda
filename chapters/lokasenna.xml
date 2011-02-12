@@ -279,7 +279,7 @@
 		</translation>
 		<comment>
 			In stanzas <stanzaref chapter="Lokasenna">10</stanzaref>–<stanzaref chapter="Lokasenna">31</stanzaref> the manuscript has nothing to indicate the identity of the several speakers, but these are uniformly clear enough through the context.
-			<expl>Vithar</expl>: cf. note on <proseref chapter="Lokasenna" label="introduction">introductory prose</proseref>.
+			<expl>Vithar</expl>: cf. note on <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
 			<expl>The wolf's father</expl>: Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref> and note.
 		</comment>
 	</block>

@@ -93,7 +93,7 @@
 		</translation>
 		<comment>
 			Most editions make line 5 a part of the stanza, as here, but some indicate it as the sole remnant of one or more stanzas descriptive of Ai and Edda, just as Afi and Amma, Fathir and Mothir, are later described.
-			<expl>Ai and Edda</expl>: Great-Grandfather and Great-Grandmother; the latter name was responsible for Jakob Grimm's famous guess at the meaning of the word “Edda” as applied to the whole collection (cf. <chapterref label="General Introduction">Introduction</chapterref>).
+			<expl>Ai and Edda</expl>: Great-Grandfather and Great-Grandmother; the latter name was responsible for Jakob Grimm's famous guess at the meaning of the word “Edda” as applied to the whole collection (cf. <ref chapter="General Introduction">Introduction</ref>).
 		</comment>
 	</block>
 	<block class="stanza" number="3">
@@ -690,7 +690,7 @@
 		</translation>
 		<comment>
 			Lines 1, 2, and 5 all begin with capitals preceded by periods, a fact which, taken in conjunction with the obviously defective state of the following stanza, has led to all sorts of conjectural emendations.
-			The exact significance of Rig's giving his own name to Jarl (cf. stanza <stanzaref chapter="Rigsthula">46</stanzaref>), and thus recognizing him, potentially at least, as a king, depends on the conditions under which the poem was composed (cf. <chapterref chatper="Rigsthula">Introductory Note</chapterref>).
+			The exact significance of Rig's giving his own name to Jarl (cf. stanza <stanzaref chapter="Rigsthula">46</stanzaref>), and thus recognizing him, potentially at least, as a king, depends on the conditions under which the poem was composed (cf. <chapterref chapter="Rigsthula">Introductory Note</chapterref>).
 			The whole stanza, particularly the reference to the teaching of magic (runes), fits Othin far better than Heimdall.
 		</comment>
 	</block>

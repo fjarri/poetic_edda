@@ -398,7 +398,7 @@ def printChapterHeader(block):
 		return u"\\eddachapter{" + block.attrib['icelandic_name'] + \
 			u"}{" + block.attrib['english_name'] + u"}{" + block.attrib['translation'] + u"}"
 	else:
-		return u"\\addchap{" + block.attrib['english_name'] + u'}'
+		return u"\\eddasimplechapter{" + block.attrib['english_name'] + u'}'
 
 def printSepline(block):
 	return u"\\eddasepline"
