@@ -1,5 +1,8 @@
 <chapter english_name="Grimnismol" icelandic_name="Grimnismǭl" translation="The Ballad of Grimnir">
 	<block class="text">
+		<section>Introductory Note</section>
+	</block>
+	<block class="text">
 		The <chapterref>Grimnismol</chapterref> follows the <chapterref>Vafthruthnismol</chapterref> in the <source>Codex Regius</source> and is also found complete in the <source>Arnamagnæan Codex</source>, where also it follows the <chapterref>Vafthruthnismol</chapterref>.
 		Snorri quotes over twenty of its stanzas.
 	</block>

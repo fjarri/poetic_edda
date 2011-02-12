@@ -1,5 +1,8 @@
 <chapter english_name="Hovamol" icelandic_name="Hǫvamǭl" translation="The Ballad of the High One">
 	<block class="text">
+		<section>Introductory Note</section>
+	</block>
+	<block class="text">
 		This poem follows the <chapterref>Voluspo</chapterref> in the <source>Codex Regius</source>, but is preserved in no other manuscript.
 		The first stanza is quoted by Snorri, and two lines of stanza <stanzaref chapter="Hovamol">84</stanzaref> appear in one of the sagas.
 	</block>

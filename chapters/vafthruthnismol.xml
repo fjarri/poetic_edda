@@ -1,5 +1,8 @@
 <chapter english_name="Vafthruthnismol" icelandic_name="Vafþrūþnismǭl" translation="The Ballad of Vafthruthnir">
 	<block class="text">
+		<section>Introductory Note</section>
+	</block>
+	<block class="text">
 		The <chapterref>Vafthruthnismol</chapterref> follows the <chapterref>Hovamol</chapterref> in the Codex Regius.
 		From stanza <stanzaref chapter="Vafthruthnismol">20</stanzaref> on it is also included in the <source>Arnamagnæan Codex</source>, the first part evidently having appeared on leaf now lost.
 		Snorri quotes eight stanzas of it in the <source>Prose Edda</source>, and in his prose text closely paraphrases many others.

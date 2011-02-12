@@ -1,5 +1,8 @@
 <chapter english_name="Harbarthsljoth" icelandic_name="Hārbarþsljōþ" translation="The Poem of Harbarth">
 	<block class="text">
+		<section>Introductory Note</section>
+	</block>
+	<block class="text">
 		The <chapterref>Harbarthsljoth</chapterref> is found complete in the <source>Codex Regius</source>, where it follows the <chapterref>Skirnismol</chapterref>, and from the fourth line of stanza <stanzaref chapter="Harbarthsljoth">19</stanzaref> to the end of the poem in the <source>Arnamagnæan Codex</source>, of which it occupies the first page and a half.
 	</block>
 	<block class="text">

@@ -1,5 +1,8 @@
 <chapter english_name="Skirnismol" icelandic_name="Skirnismǭl" translation="The Ballad of Skirnir">
 	<block class="text">
+		<section>Introductory Note</section>
+	</block>
+	<block class="text">
 		The Skirnismol is found complete in the <source>Codex Regius</source>, and through stanza <stanzaref chapter="Skirnismol">27</stanzaref> in the <source>Arnamagnæan Codex</source>.
 		Snorri quotes the concluding stanza.
 		In Regius the poem is entitled “For Scirnis” (“Skirnir's journey”).
