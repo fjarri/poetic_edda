@@ -181,7 +181,7 @@ Baldrs Draumar (27 Jan 2011)
 * Fixed original/translation preludes confusion in Thrymskvitha and Alvissmol
 
 ~~~~~~~~~~~~~~~~~~~~~~~
-Rigsthula (12 Feb 2010)
+Rigsthula (12 Feb 2011)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Rigsthula chapter;
