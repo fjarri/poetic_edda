@@ -274,7 +274,7 @@
 		</translation>
 		<comment>
 			There is some confusion as to the arrangement of th lines and division into stanzas of <stanzaref chapter="Rigsthula">12</stanzaref> and <stanzaref chapter="Rigsthula">13</stanzaref>.
-			The names mean: Fjosnir, “Cattle-Man”; Klur, “The Coarse”; Hreim, “The Shouter”; Kleggi, “The Horse-Fly”; Kefsir, “Concubine-Keeper”; Fulnir, “The Stinking”; Drumb, “The Log”; Digraldi, “The Fat”; Drott, “The Sluggard”; Leggjaldi, “The Big-Legged”; Lut, “The Bent”; Hosvir, “The Grey.”
+			The names mean: <expl>Fjosnir</expl>, “Cattle-Man”; <expl>Klur</expl>, “The Coarse”; <expl>Hreim</expl>, “The Shouter”; <expl>Kleggi</expl>, “The Horse-Fly”; <expl>Kefsir</expl>, “Concubine-Keeper”; <expl>Fulnir</expl>, “The Stinking”; <expl>Drumb</expl>, “The Log”; <expl>Digraldi</expl>, “The Fat”; <expl>Drott</expl>, “The Sluggard”; <expl>Leggjaldi</expl>, “The Big-Legged”; <expl>Lut</expl>, “The Bent”; <expl>Hosvir</expl>, “The Grey.”
 		</comment>
 	</block>
 	<block class="stanza" number="13">
@@ -293,7 +293,7 @@
 			And thence has risen<sep />the race of thralls.
 		</translation>
 		<comment>
-			The names mean: Drumba, “The Log”; Kumba, “The Stumpy”; Ökkvinkalfa, “Fat-Legged”; Arinnefla, “Homely Nosed”; Ysja, “The Noisy”; Ambott, “The Servant”; Eikintjasna, “The Oaken Peg” (?); Totrughypja, “Clothed in Rags”; Tronubeina, “Crane-Legged.”
+			The names mean: <expl>Drumba</expl>, “The Log”; <expl>Kumba</expl>, “The Stumpy”; <expl>Ökkvinkalfa</expl>, “Fat-Legged”; <expl>Arinnefla</expl>, “Homely Nosed”; <expl>Ysja</expl>, “The Noisy”; <expl>Ambott</expl>, “The Servant”; <expl>Eikintjasna</expl>, “The Oaken Peg” (?); <expl>Totrughypja</expl>, “Clothed in Rags”; <expl>Tronubeina</expl>, “Crane-Legged.”
 		</comment>
 	</block>
 	<block class="stanza" number="14">
@@ -425,7 +425,7 @@
 		</translation>
 		<comment>
 			Most editors assume a lacuna, after either line 2 or line 3.
-			Sijmons assumes, on the analogy of stanza <stanzaref chapter="Rigsthula">8</stanzaref>, that a complete stanza describing Karl (“Yeoman”) has been lost between stanzas <stanzaref chapter="Rigsthula">21</stanzaref> and <stanzaref chapter="Rigsthula">22</stanzaref>.
+			Sijmons assumes, on the analogy of stanza <stanzaref chapter="Rigsthula">8</stanzaref>, that a complete stanza describing <expl>Karl</expl> (“Yeoman”) has been lost between stanzas <stanzaref chapter="Rigsthula">21</stanzaref> and <stanzaref chapter="Rigsthula">22</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="22">
@@ -482,7 +482,7 @@
 		</translation>
 		<comment>
 			No line indicated in the manuscript as beginning a stanza.
-			The names mean: Hal, “Man”; Dreng, “The Strong”; Holth, “The Holder of Land”; Thegn, “Freeman”; Smith, “Craftsman”; Breith, “The Broad-Shouldered”; Bondi, “Yeoman”; Bundinskeggi, “With Beard Bound” (i.e., not allowed to hang unkempt); Bui, “Dwelling-Owner”; Boddi, “Farm-Holder”; Brattskegg, “With Beard Carried High”; Segg, “Man.”
+			The names mean: <expl>Hal</expl>, “Man”; <expl>Dreng</expl>, “The Strong”; <expl>Holth</expl>, “The Holder of Land”; <expl>Thegn</expl>, “Freeman”; <expl>Smith</expl>, “Craftsman”; <expl>Breith</expl>, “The Broad-Shouldered”; <expl>Bondi</expl>, “Yeoman”; <expl>Bundinskeggi</expl>, “With Beard Bound” (i.e., not allowed to hang unkempt); <expl>Bui</expl>, “Dwelling-Owner”; <expl>Boddi</expl>, “Farm-Holder”; <expl>Brattskegg</expl>, “With Beard Carried High”; <expl>Segg</expl>, “Man.”
 		</comment>
 	</block>
 	<block class="stanza" number="25">
@@ -500,7 +500,7 @@
 		</translation>
 		<comment>
 			No line indicated in the manuscript as beginning a stanza.
-			The names mean: Snot, “Worthy Woman”; Bruth, “Bride”; Svanni, “The Slender”; Svarri, “The Proud”; Sprakki, “The Fair”; Fljoth, “Woman” (?); Sprund, “The Proud”; Vif, “Wife”; Feima, “The Bashful”; Ristil, “The Graceful.”
+			The names mean: <expl>Snot</expl>, “Worthy Woman”; <expl>Bruth</expl>, “Bride”; <expl>Svanni</expl>, “The Slender”; <expl>Svarri</expl>, “The Proud”; <expl>Sprakki</expl>, “The Fair”; <expl>Fljoth</expl>, “Woman” (?); <expl>Sprund</expl>, “The Proud”; <expl>Vif</expl>, “Wife”; <expl>Feima</expl>, “The Bashful”; <expl>Ristil</expl>, “The Graceful.”
 		</comment>
 	</block>
 	<block class="stanza" number="26">
@@ -793,7 +793,7 @@
 			Kund was one,<sep />and the youngest Kon.
 		</translation>
 		<comment>
-			The names mean: Bur, “Son”; Barn, “Child”; Joth, “Child”; Athal, “Offspring”; Arfi, “Heir”; Mog, “Son”; Nith, “Descendant”; Svein, “Boy”; Sun, “Son”; Nithjung, “Descend ant”; Kund, “Kinsman”; Kon, “Son” (of noble birth).
+			The names mean: <expl>Bur</expl>, “Son”; <expl>Barn</expl>, “Child”; <expl>Joth</expl>, “Child”; <expl>Athal</expl>, “Offspring”; <expl>Arfi</expl>, “Heir”; <expl>Mog</expl>, “Son”; <expl>Nith</expl>, “Descendant”; <expl>Svein</expl>, “Boy”; <expl>Sun</expl>, “Son”; <expl>Nithjung</expl>, “Descend ant”; <expl>Kund</expl>, “Kinsman”; <expl>Kon</expl>, “Son” (of noble birth).
 			Concerning the use made of this last name, see note on stanza <stanzaref chapter="Rigsthula">44</stanzaref>.
 			It is curious that there is no list of the daughters of Jarl and Erna, and accordingly Vigfusson inserts here the names listed in stanza <stanzaref chapter="Rigsthula">25</stanzaref>.
 			Grundtvig rearranges the lines of stanzas <stanzaref chapter="Rigsthula">42</stanzaref> and <stanzaref chapter="Rigsthula">43</stanzaref>.
