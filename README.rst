@@ -187,6 +187,12 @@ Rigsthula (planned)
 * Add Rigsthula chapter
 * Add 'Introductory note' in the beginning of each chapter
 
+~~~~~~~~~~~~~~~~~~~~~
+Hyndluljoth (planned)
+~~~~~~~~~~~~~~~~~~~~~
+
+* Add Hyndluljoth chapter
+
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
 ~~~~~~~~~~~~~~~~~~~~~~~~
