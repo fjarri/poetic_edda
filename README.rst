@@ -180,12 +180,13 @@ Baldrs Draumar (27 Jan 2011)
 * Added missing prelude to Thrymskvitha, 4;
 * Fixed original/translation preludes confusion in Thrymskvitha and Alvissmol
 
-~~~~~~~~~~~~~~~~~~~
-Rigsthula (planned)
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+Rigsthula (12 Feb 2010)
+~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Rigsthula chapter
-* Add 'Introductory note' in the beginning of each chapter
+* Added Rigsthula chapter;
+* Fixed references to Global Introduction;
+* Added 'Introductory note' section in the beginning of each chapter
 
 ~~~~~~~~~~~~~~~~~~~~~
 Hyndluljoth (planned)
