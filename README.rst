@@ -193,6 +193,8 @@ Hyndluljoth (planned)
 ~~~~~~~~~~~~~~~~~~~~~
 
 * Add Hyndluljoth chapter
+* Output references like "<cr>Guthrunarkvitha II</cr>" in form
+  "<i>Guthrunarkvitha</i> II" (i.e., do not italicise part number)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
