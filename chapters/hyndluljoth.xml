@@ -1,0 +1,1007 @@
+<chapter english_name="Hyndluljoth" icelandic_name="Hyndluljo`þ" translation="The Poem of Hyndla">
+	<block class="text">
+		The <cr>Hyndluljoth</cr> is found in neither of the great manuscripts of the <src>Poetic Edda</src>, but is included in the so-called <src>Flateyjarbok</src> (Book of the Flat Island), an enormous compilation made somewhere about 1400.
+		The lateness of this manuscript would of itself be enough to cast a doubt upon the condition in which the poem has been preserved, and there can be no question that what we have of it is in very poor shape.
+		It is, in fact, two separate poems, or parts of them, clumsily put together.
+		The longer one, the <src>Poem of Hyndla</src> proper, is chiefly a collection of names, not strictly mythological but belonging to the semi-historical hero-sagas of Norse tradition.
+		The wise-woman, Hyndla, being asked by Freyja to trace the ancestry of her favorite, Ottar, for the purpose of deciding a wager, gives a complex genealogy including many of the heroes who appear in the popular sagas handed down from days long before the Icelandic settlements.
+		The poet was learned, but without enthusiasm; it is not likely that he composed the <cr>Hyndluljoth</cr> much before the twelfth century, though the material of which it is compounded must have been very much older.
+		Although the genealogies are essentially continental, the poem seems rather like a product of the archæological period of Iceland.
+	</block>
+	<block class="text">
+		Inserted bodily in the <cr>Hyndluljoth</cr> proper is a fragment of fifty-one lines, taken from a poem of which, by a curious chance, we know the name.
+		Snorri quotes one stanza of it, calling it ``the short <cr>Voluspo</cr>.''
+		The fragment preserved gives, of course, no indication of the length of the original poem, but it shows that it was a late and very inferior imitation of the great <cr>Voluspo</cr>.
+		Like the <cr>Hyndluljoth</cr> proper, it apparently comes from the twelfth century; but there is nothing whatever to indicate that the two poems were the work of the same man, or were ever connected in any way until some blundering copyist mixed them up.
+		Certainly the connection did not exist in the middle of the thirteenth century, when Snorri quoted ``the short <cr>Voluspo</cr>.''
+	</block>
+	<block class="text">
+		Neither poem is of any great value, either as mythology or as poetry.
+		The author of ``the short <cr>Voluspo</cr>'' seems, indeed, to have been more or less confused as to his facts; and both poets were too late to feel anything of the enthusiasm of the earlier school.
+		The names of Hyndla's heroes, of course, suggest an unlimited number of stories, but as most of these have no direct relation to the poems of the Edda, I have limited the notes to a mere record of who the persons mentioned were, and the saga-groups in which they appeared.
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="1">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Freyja spake:
+		</translation_prelude>
+		<translation>
+			``Maiden, awake!<sep />wake thee, my friend,<br />
+			My sister Hyndla,<sep />in thy hollow cave!<br />
+			Already comes darkness,<sep />and ride must we<br />
+			To Valhall to seek<sep />the sacred hall.
+		</translation>
+		<comment>
+			<expl>Freyja</expl>: The names of the speakers do not appear in the manuscripts.
+			On Freyja cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note; <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note; <chapterref>Lokasenna</chapterref>, <proseref chapter="Lokasenna" prose="introduction">introductory prose</chapterref> and note.
+			As stanzas <sr>9</sr>--<sr>10</sr> show, Ottar has made a wager of his entire inheritance with Angantyr regarding the relative loftiness of their ancestry, and by rich offerings (Hyndla hints at less commendable methods) has induced Freyja to assist him in establishing his genealogy.
+			Freyja, having turned Ottar for purposes of disguise into a boar, calls on the giantess <expl>Hyndla</expl> (``She-Dog'') to aid her.
+			Hyndla does not appear elsewhere in the poems.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The favor of Heerfather<sep />seek we to find,<br />
+			To his followers gold<sep />he gladly gives;<br />
+			To Hermoth gave he<sep />helm and mail-coat,<br />
+			And to Sigmund he gave<sep />a sword as gift.
+		</translation>
+		<comment>
+			<expl>Heerfather</expl>: Othin; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">30</stanzaref>.
+			<expl>Hermoth</expl>: mentioned in the <src>Prose Edda</src> as a son of Othin who is sent to Hel to ask for the return of the slain Baldr.
+			<expl>Sigmund</expl>: according to the <src>Volsungasaga</src> Sigmund was the son of Volsung, and hence Othin's great-great-grandson (note that Wagner eliminates all the intervening generations by the simple expedient of using Volsung's name as one of Othin's many appellations).
+			Sigmund alone was able to draw from the tree the sword which a mysterious stranger (Othin, of course) had thrust into it (compare the first act of Wagner's <src>Die Walküre</src>).
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Triumph to some,<sep />and treasure to others,<br />
+			To many wisdom<sep />and skill in words,<br />
+			Fair winds to the sailor,<sep />to the singer his art,<br />
+			And a manly heart<sep />to many a hero.
+		</translation>
+		<comment>
+			Sijmons suggests that this stanza may be an interpolation.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep />
+		</original>
+		<translation>
+			Thor shall I honor,<sep />and this shall I ask,<br />
+			That his favor true<sep />mayst thou ever find;<br />
+			<lacuna /><sep /><lacuna /><br />
+			Though little the brides<sep />of the giants he loves.
+		</translation>
+		<comment>
+			No lacuna after line 2 is indicated in the manuscript.
+			Editors have attempted various experiments in rearranging this and the following stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From the stall now<sep />one of thy wolves lead forth,<br />
+			And along with my boar<sep />shalt thou let him run;<br />
+			For slow my boar goes<sep />on the road of the gods,<br />
+			And I would not weary<sep />my worthy steed.''
+		</translation>
+		<comment>
+			Some editors, following Simrock, assign this whole stanza to Hyndla; others assign to her lines 3--4.
+			Giving the entire stanza to Freyja makes better sense than any other arrangement, but is dependent on changing the manuscript's ``thy'' in line 3 to ``my'', as suggested by Bugge.
+			The boar on which Freyja rides (``my worthy steed'') is, of course, Ottar.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hyndla spake:
+		</translation_prelude>
+		<translation>
+			``Falsely thou askest me,<sep />Freyja, to go,<br />
+			For so in the glance<sep />of thine eyes I see;<br />
+			On the way of the slain<sep />thy lover goes with thee.<br />
+			Ottar the young,<sep />the son of Instein.''
+		</translation>
+		<comment>
+			Hyndla detects Ottar, and accuses Freyja of having her lover with her.
+			Unless Ottar is identical with Oth (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">25</stanzaref> and note), which seems most unlikely, there is no other reference to this love affair.
+			<expl>The way of the slain</expl>: the road to Valhall.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Freyja spake:
+		</translation_prelude>
+		<translation>
+			``Wild dreams, methinks,<sep />are thine when thou sayest<br />
+			My lover is with me<sep />on the way of the slain;<br />
+			There shines the boar<sep />with bristles of gold,<br />
+			Hildisvini,<sep />he who was made<br />
+			By Dain and Nabbi,<sep />the cunning dwarfs.
+		</translation>
+		<comment>
+			Various experiments have been made in condensing the stanza into four lines, or in combining it with stanza <sr>8</sr>.
+			<expl>Hildisvini</expl> (``Battle-Swine''): perhaps Freyja refers to the boar with golden bristles given, according to Snorri, to her brother Freyr by the dwarfs.
+			<expl>Dain</expl>: a dwarf; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">11</stanzaref>.
+			<expl>Nabbi</expl>: a dwarf nowhere else mentioned.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+		</original>
+		<translation>
+			Now let us down<sep />from our saddles leap,<br />
+			And talk of the race<sep />of the heroes twain;<br />
+			The men who were born<sep />of the gods above,<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			The first line is obviously corrupt in the manuscript, and has been variously emended.
+			The general assumption is that in the interval between stanzas <sr>7</sr> and <sr>8</sr> Freyja and Hyndla have arrived at Valhall.
+			No lacuna is indicated in the manuscript.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A wager have made<sep />in the foreign metal<br />
+			Ottar the young<sep />and Angantyr;<br />
+			We must guard, for the hero<sep />young to have,<br />
+			His father's wealth,<sep />the fruits of his race.
+		</translation>
+		<comment>
+			<expl>Foreign metal</expl>: gold.
+			The word <emph>valr</emph>, meaning ``foreign,'' and akin to ``Welsh,'' is interesting in this connection, and some editors interpret it frankly as ``Celtic,'' i.e., Irish.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			For me a shrine<sep />of stones he made,---<br />
+			And now to glass<sep />the rock has grown;---<br />
+			Oft with the blood<sep />of beasts was it red;<br />
+			In the goddesses ever<sep />did Ottar trust.
+		</translation>
+		<comment>
+			<expl>To glass</expl>: i.e., the constant fires on the altar have fused the stone into glass.
+			Glass beads, etc., were of very early use, though the use of glass for windows probably did not begin in Iceland much before 1200.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Tell to me now<sep />the ancient names,<br />
+			And the races of all<sep />that were born of old:<br />
+			Who are of the Skjoldungs,<sep />who of the Skilfings,<br />
+			Who of the Othlings,<sep />who of the Ylfings,<br />
+			Who are the free-born,<sep />who are the high-born,<br />
+			The noblest of men<sep />that in Mithgarth dwell?''
+		</translation>
+		<comment>
+			Possibly two stanzas, or perhaps one with interpolations.
+			The manuscript omits the first half of line 4, here filled out from stanza <sr>16</sr>, line 2.
+			<expl>Skjoldungs</expl>: the descendants of Skjold, a mythical king who was Othin's son and the ancestor of the Danish kings; cf. <src>Snorri's Edda</src>, <src>Skaldskaparmal</src>, 43.
+			<expl>Skilfings</expl>: mentioned by Snorri as descendants of King Skelfir, a mythical ruler in ``the East.''
+			In <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">54</stanzaref>, the name Skilfing appears as one of Othin's many appellations.
+			<expl>Othlings</expl>: Snorri derives this race from Authi, the son of Halfdan the Old (cf. stanza <sr>14</sr>).
+			<expl>Ylfings</expl>: some editors have changed this to ``Ynglings,'' as in stanza <sr>16</sr>, referring to the descendants of Yng or Yngvi, another son of Halfdan, but the reference may be to the same mythical family to which Helgi Hundingsbane belonged (cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">5</stanzaref>).
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hyndla spake:
+		</translation_prelude>
+		<translation>
+			``Thou art, Ottar,<sep />the son of Instein,<br />
+			And Instein the son<sep />of Alf the Old,<br />
+			Alf of Ulf,<sep />Ulf of Sæfari,<br />
+			And Sæfari's father<sep />was Svan the Red.
+		</translation>
+		<comment>
+			<expl>Instein</expl>: mentioned in the Halfssaga as one of the warriors of King Half of Horthaland (the so-called Halfsrekkar).
+			The others mentioned in this stanza appear in one of the later mythical accounts of the settlement of Norway.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thy mother, bright<sep />with bracelets fair,<br />
+			Hight, methinks,<sep />the priestess Hledis;<br />
+			Frothi her father,<sep />and Friaut her mother;---<br />
+			Her race of the mightiest<sep />men must seem.
+		</translation>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Of old the noblest<sep />of all was Ali,<br />
+			Before him Halfdan,<sep />foremost of Skjoldungs;<br />
+			Famed were the battles<sep />the hero fought,<br />
+			To the corners of heaven<sep />his deeds were carried.
+		</translation>
+		<comment>
+			Stanzas <sr>14</sr>--<sr>16</sr> are clearly interpolated, as Friaut (stanza <sr>13</sr>, line S) is the daughter of Hildigun (stanza <sr>17</sr>, line 1).
+			<expl>Halfdan</expl> the Old, a mythical king of Denmark, called by Snorri ``the most famous of all kings,'' of whom it was foretold that ``for three hundred years there should be no woman and no man in his line who was not of great repute.''
+			After the slaying of Sigtrygg he married Almveig (or Alvig), daughter of King Eymund of Holmgarth (i.e., Russia), who bore him eighteen sons, nine at one birth.
+			These nine were all slain, but the other nine were traditionally the ancestors of the most famous families in Northern hero lore.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Strengthened by Eymund,<sep />the strongest of men,<br />
+			Sigtrygg he slew<sep />with the ice-cold sword;<br />
+			His bride was Almveig,<sep />the best of women,<br />
+			And eighteen boys<sep />did Almveig bear him.
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hence come the Skjoldungs,<sep />hence the Skilfings,<br />
+			Hence the Othlings,<sep />hence the Ynglings,<br />
+			Hence come the free-born,<sep />hence the high-born,<br />
+			The noblest of men<sep />that in Mithgarth dwell:<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			Compare stanza <sr>11</sr>.
+			All or part of this stanza may be interpolated.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hildigun then<sep />her mother hight,<br />
+			The daughter of Svava<sep />and Sækonung;<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!<br />
+			It is much to know,--<sep />wilt thou hear yet more?
+		</translation>
+		<comment>
+			<expl>Hildigun</expl> (or Hildiguth): with this the poem returns to Ottar's direct ancestry, Hildigun being Friaut's mother.
+			<expl>Line 4</expl>: cf. the refrain-line in the <chapterref>Voluspo</chapterref> (stanzas <stanzaref chapter="Voluspo">27</stanzaref>, <stanzaref chapter="Voluspo">29</stanzaref>, etc.).
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The mate of Dag<sep />was a mother of heroes,<br />
+			Thora, who bore him<sep />the bravest of fighters,<br />
+			Frathmar and Gyrth<sep />and the Frekis twain,<br />
+			Am and Jofurmar,<sep />Alf the Old;<br />
+			It is much to know,--<sep />wilt thou hear yet more?
+		</translation>
+		<comment>
+			Another interpolation, as Ketil (stanza <sr>19</sr>, line 1) is the husband of Hildigun (stanza 17).
+			<expl>Dag</expl>: one of Halfdan's sons, and ancestor of the Döglings.
+			Line 5 may be a late addition.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Her husband was Ketil,<sep />the heir of Klypp,<br />
+			He was of thy mother<sep />the mother's-father;<br />
+			Before the days<sep />of Kari was Frothi,<br />
+			And horn of Hild<sep />was Hoalf then.
+		</translation>
+		<comment>
+			<expl>Ketil</expl>: the semi-mythical Ketil Hortha-Kari, from whom various Icelandic families traced their descent.
+			<expl>Hoalf</expl>: probably King Half of Horthaland, hero of the <src>Halfssaga</src>, and son of Hjorleif and Hild (cf. stanza <sr>12</sr>, note).
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Next was Nanna,<sep />daughter of Nokkvi,<br />
+			Thy father's kinsman<sep />her son became;<br />
+			Old is the line,<sep />and longer still,<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			<expl>Nanna</expl>: the manuscript has ``Manna.''
+			Of Nanna and her father, Nokkvi, we know nothing, but apparently Nanna's son married a sister of Instein, Ottar's father.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Isolf and Osolf,<sep />the sons of Olmoth,<br />
+			Whose wife was Skurhild,<sep />the daughter of Skekkil,<br />
+			Count them among<sep />the heroes mighty,<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			<expl>Olmoth</expl>: one of the sons of Ketil Hortha-Kari.
+			<expl>Line 4</expl>: here, and generally hereafter when it appears in the poem, this refrain-line is abbreviated in the manuscript to the word ``all.''
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Gunnar the Bulwark,<sep />Grim the Hardy,<br />
+			Thorir the Iron-shield,<sep />Ulf the Gaper,<br />
+			Brodd and Hörvir<sep />both did I know;<br />
+			In the household they were<sep />of Hrolf the Old.
+		</translation>
+		<comment>
+			An isolated stanza, which some editors place after stanza <sr>24</sr>, others combining lines 1--2 with the fragmentary stanza <sr>23</sr> In the manuscript lines 3--4 stand after stanza <sr>24</sr>, where they fail to connect clearly with anything.
+			<expl>Hrolf the Old</expl>: probably King Hrolf Gautreksson of Gautland, in the saga relating to whom (<src>Fornaldar sögur</src> III, 57 ff.) appear the names of Thorir the iron-shield and Grim Thorkelsson.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hervarth, Hjorvarth,<sep />Hrani, Angantyr,<br />
+			Bui and Brami,<sep />Barri and Reifnir,<br />
+			Tind and Tyrfing,<sep />the Haddings twain,--<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			Stanzas <sr>23</sr> and <sr>24</sr> name the twelve Berserkers, the sons of Arngrim and Eyfura, the story of whom is told in the <src>Hervararsaga</src> and the <src>Orvar-Oddssaga</src>.
+			Saxo Grammaticus tells of the battle between them and Hjalmar and Orvar-Odd.
+			Line 1 does not appear in the manuscript, but is added from the list of names given in the sagas.
+			The Berserkers were wild warriors, distinguished above all by the fits of frenzy to which they were subject in battle; during these fits they howled like wild beasts, foamed at the mouth, and gnawed the iron rims of their shields.
+			At such times they were proof against steel or fire, but when the fever abated they were weak.
+			The etymology of the word <emph>berserk</emph> is disputed; probably, however, it means ``bear-shirt.''
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Eastward in Bolm<sep />were born of old<br />
+			The sons of Arngrim<sep />and Eyfura;<br />
+			With berserk-tumult<sep />and baleful deed<br />
+			Like fire o'er land<sep />and sea they fared,<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			The manuscript omits the first half of line 1, here supplied from the <src>Orvar-Oddssaga</src>.
+			<expl>Bolm</expl>: probably the island of Bolmsö, in the Swedish province of Smaland.
+			In the manuscript and in most editions stanza <sr>24</sr> is followed by lines 3--4 of stanza <sr>22</sr>.
+			Some editors reject line 5 as spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The sons of Jormunrek<sep />all of yore<br />
+			To the gods in death<sep />were as offerings given;<br />
+			He was kinsman of Sigurth,---<sep />hear well what I say,---<br />
+			The foe of hosts,<sep />and Fafnir's slayer.
+		</translation>
+		<comment>
+			In the manuscript line 1 stands after line 4 of stanza <sr>29</sr>.
+			Probably a stanza enumerating Jormunrek's sons has been lost.
+			Many editors combine lines 3--4 of stanza <sr>22</sr> and lines 2--4 of stanza <sr>25</sr> into one stanza.
+			<expl>Jormunrek</expl>: the historical Ermanarich, king of the Goths, who died about 376.
+			According to Norse tradition, in which Jormunrek played a large part, he slew his own sons (cf. <chapterref>Guthrunarhvot</chapterref> and <chapterref>Hamthesmol</chapterref>).
+			In the saga Jormunrek married Sigurth's daughter, Svanhild.
+			Stanzas 25--27 connect Ottar's descent with the whole Volsung-Sigurth-Jormunrek-Gjuki genealogy.
+			The story of <expl>Sigurth</expl> is the basis for most of the heroic poems of the <src>Edda</src>, of the famous <src>Volsungasaga</src>, and, in Germany, of the <src>Nibelungenlied</src>.
+			On his battle with the dragon <expl>Fafnir</expl> cf. <chapterref>Fafnismol</chapterref>.
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From Volsung's seed<sep />was the hero sprung,<br />
+			And Hjordis was born<sep />of Hrauthung's race,<br />
+			And Eylimi<sep />from the Othlings came,--<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			<expl>Volsung</expl>: Sigurth's grandfather and Othin's great-grand son.
+			<expl>Hjordis</expl>: daughter of King Eylimi, wife of Sigmund and mother of Sigurth.
+			<expl>Othlings</expl>: cf. stanza <sr>11</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Gunnar and Hogni,<sep />the heirs of Gjuki,<br />
+			And Guthrun as well,<sep />who their sister was;<br />
+			But Gotthorm was not<sep />of Gjuki's race,<br />
+			Although the brother<sep />of both he was:<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!
+		</translation>
+		<comment>
+			<expl>Gunnar</expl>, <expl>Hogni</expl>, and <expl>Guthrun</expl>: the three children of the Burgundian king <expl>Gjuki</expl> and his wife Grimhild (Kriemhild); Guthrun was Sigurth's wife.
+			<expl>Gotthorm</expl>, the third brother, who killed Sigurth at Brynhild's behest, was Grimhild's son, and thus a step-son of Gjuki.
+			These four play an important part in the heroic cycle of Eddic poems.
+			Cf. <chapterref>Gripisspo</chapterref>, introductory note.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			<sep /><br />
+			<sep /><br />
+		</original>
+		<translation>
+			"Of Hvethna's sons<sep />was Haki the best,<br />
+			And Hjorvarth the father<sep />of Hvethna was;<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			In the manuscript and in many editions these two lines stand between stanzas <sr>33</sr> and <sr>34</sr>.
+			The change here made follows Bugge.
+			The manuscript indicates no gap between stanzas <sr>27</sr> and <sr>29</sr>.
+			<expl>Hvethna</expl>: wife of King Halfdan of Denmark.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Harald Battle-tooth<sep />of Auth was born,<br />
+			Hrörek the Ring-giver<sep />her husband was;<br />
+			Auth the Deep-minded<sep />was Ivar's daughter,<br />
+			But Rathbarth the father<sep />of Randver was:<br />
+			And all are thy kinsmen,<sep />Ottar, thou fool!''
+		</translation>
+		<comment>
+			The manuscript and many editions include line 1 of stanza <sr>25</sr> after line 4 of stanza <sr>29</sr>.
+			The story of <expl>Harald Battle-tooth</expl> is told in detail by Saxo Grammaticus.
+			Harald's father was <expl>Hrörek</expl>, king of Denmark; his mother was <expl>Auth</expl>, daughter of Ivar, king of Sweden.
+			After Ivar had treacherously detroyed Hrörek, Auth fled with Harald to Russia, where she married King <expl>Rathbarth</expl>.
+			Harald's warlike career in Norway, and his death on the Bravalla-field at the hands of his nephew, Sigurth Ring, son of <expl>Randver</expl> and grandson of Rathbarth and Auth, were favorite saga themes.
+		</comment>
+	</block>
+	<block class="sepline" />
+	<block class="text">
+		<section>Fragment of ``The Short Voluspo''</section>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Eleven in number<sep />the gods were known,<br />
+			When Baldr o'er the hill<sep />of death was bowed;<br />
+			And this to avenge<sep />was Vali swift,<br />
+			When his brother's slayer<sep />soon he slew.
+		</translation>
+		<comment>
+			At this point begins the fragmentary and interpolated ``short <chapterref>Voluspo</chapterref>'' identified by Snorri.
+			The manuscript gives no indication of the break in the poem's continuity.
+			<expl>Eleven</expl>: there are various references to the ``twelve'' gods (including Baldr) Snorri (<src>Gylfaginning</src>, 20--33) lists the following twelve in addition to Othin: Thor, Baldr, Njorth, Freyr, Tyr, Bragi, Heimdall, Hoth, Vithar, Vali, Ull and Forseti; he adds Loki as of doubtful divinity.
+			<expl>Baldr</expl> and <expl>Vali</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref>--<stanzaref chapter="Voluspo">33</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			<sep /><br />
+		</original>
+		<translation>
+			The father of Baldr<sep />was the heir of Bur,<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			The fragmentary stanzas <sr>31</sr>--<sr>34</sr> have been regrouped in various ways, and with many conjectures as to omissions, none of which are indicated in the manuscript.
+			The order here is as in the manuscript, except that lines 1--2 of stanza <sr>28</sr> have been transposed from after line 2 of stanza <sr>33</sr>.
+			<expl>Bur's heir</expl>: Othin; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">4</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Freyr's wife was Gerth,<sep />the daughter of Gymir,<br />
+			Of the giants' brood,<sep />and Aurbotha bore her;<br />
+			To these as well<sep />was Thjazi kin,<br />
+			The dark-loving giant;<sep />his daughter was Skathi.
+		</translation>
+		<comment>
+			<expl>Freyr</expl>, <expl>Gerth</expl>, <expl>Gymir</expl>: cf. <chapterref>Skirnismol</chapterref>.
+			<expl>Aurbotha</expl>: a giantess, mother of Gerth.
+			<expl>Thjazi</expl> and <expl>Skathi</expl>: cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">49</stanzaref>, and <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">19</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Much have I told thee,<sep />and further will tell;<br />
+			There is much that I know;--<sep />wilt thou hear yet more?
+		</translation>
+		<comment>
+			Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">44</stanzaref> and <stanzaref chapter="Voluspo">27</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			<sep /><br />
+		</original>
+		<translation>
+			Heith and Hrossthjof,<sep />the children of Hrimnir.<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			<expl>Heith</expl> (``Witch'') and <expl>Hrossthjof</expl> (``Horse-thief''): the only other reference to the giant <expl>Hrimnir</expl> (<chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">28</stanzaref>) makes no mention of his children.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The sybils arose<sep />from Vitholf's race,<br />
+			From Vilmeith all<sep />the seers are,<br />
+			And the workers of charms<sep />are Svarthofthi's children,<br />
+			And from Ymir sprang<sep />the giants all.
+		</translation>
+		<comment>
+			This stanza is quoted by Snorri (<src>Gylfaginning</src>, 5).
+			Of <expl>Vitholf</expl> (``Forest Wolf'), <expl>Vilmeith</expl> (''Wish-Tree``) and <expl>Svarthofthi</expl> (''Black Head") nothing further is known.
+			<expl>Ymir</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">3</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Much have I told thee,<sep />and further will tell;<br />
+			There is much that I know;---<sep />wilt thou hear yet more?
+		</translation>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			One there was born<sep />in the bygone days,<br />
+			Of the race of the gods,<sep />and great was his might;<br />
+			Nine giant women,<sep />at the world's edge,<br />
+			Once bore the man<sep />so mighty in arms.
+		</translation>
+		<comment>
+			According to Snorri (<src>Gylfaginning</src>, 27) Heimdall was the son of Othin and of nine sisters.
+			As Heimdall was the watch man of the gods, this has given rise to much ``solar myth'' discussion.
+			The names of his nine giantess mothers are frequently said to denote attributes of the sea.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Gjolp there bore him,<sep />Greip there bore him,<br />
+			Eistla bore him,<sep />and Eyrgjafa,<br />
+			Ulfrun bore him,<sep />and Angeyja,<br />
+			Imth and Atla,<sep />and Jarnsaxa.
+		</translation>
+		<comment>
+			The names of Heimdall's mothers may be rendered ``Yelper,'' ``Griper,'' ``Foamer,'' ``Sand-Strewer,'' ``She-Wolf,'' ``Sorrow-Whelmer,'' ``Dusk,'' ``Fury,'' and ``Iron-Sword.''
+		</comment>
+	</block>
+	<block class="stanza" number="39">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Strong was he made<sep />with the strength of earth,<br />
+			With the ice-cold sea,<sep />and the blood of swine.
+		</translation>
+		<comment>
+			It has been suggested that these lines were interpolated from <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">22</stanzaref>.
+			Some editors add the refrain of stanza <sr>36</sr>.
+			<expl>Swine's blood</expl>: to Heimdall's strength drawn from earth and sea was added that derived from sacrifice.
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			One there was born,<sep />the best of all,<br />
+			And strong was he made<sep />with the strength of earth;<br />
+			The proudest is called<sep />the kinsman of men<br />
+			Of the rulers all<sep />throughout the world.
+		</translation>
+		<comment>
+			In the manuscript this stanza stands after stanza <sr>44</sr>.
+			Regarding Heimdall's kinship to the three great classes of men, cf. <chapterref>Rigsthula</chapterref>, introductory note, wherein the apparent confusion of his attributes with those of Othin is discussed.
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Much have I told thee,<sep />and further will tell;<br />
+			There is much that I know;---<sep />wilt thou hear yet more?
+		</translation>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The wolf did Loki<sep />with Angrbotha win,<br />
+			And Sleipnir bore he<sep />to Svathilfari;<br />
+			The worst of marvels<sep />seemed the one<br />
+			That sprang from the brother<sep />of Byleist then.
+		</translation>
+		<comment>
+			Probably a lacuna before this stanza.
+			Regarding the <expl>wolf</expl> Fenrir, born of <expl>Loki</expl> and the giantess <expl>Angrbotha</expl>, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref> and note.
+			<expl>Sleipnir</expl>: Othin's eight-legged horse, born of the stallion <expl>Svathilfari</expl> and of Loki in the guise of a mare (cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">44</stanzaref>).
+			<expl>The worst</expl>: doubtless referring to Mithgarthsorm, another child of Loki.
+			<expl>The brother of Byleist</expl>: Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">51</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A heart ate Loki,---<sep />in the embers it lay,<br />
+			And half-cooked found he<sep />the woman's heart;---<br />
+			With child from the woman<sep />Lopt soon was,<br />
+			And thence among men<sep />came the monsters all.
+		</translation>
+		<comment>
+			Nothing further is known of the myth here referred to, wherein Loki (Lopt) eats the cooked heart of a woman and thus himself gives birth to a monster.
+			The reference is not likely to be to the serpent, as, according to Snorri (<src>Gylfaginning</src>, 34), the wolf, the serpent, and Hel were all the children of Loki and Angrbotha.
+		</comment>
+	</block>
+	<block class="stanza" number="44">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The sea, storm-driven,<sep />seeks heaven itself,<br />
+			O'er the earth it flows,<sep />the air grows sterile;<br />
+			Then follow the snows<sep />and the furious winds,<br />
+			For the gods are doomed,<sep />and the end is death.
+		</translation>
+		<comment>
+			Probably an omission, perhaps of considerable length, before this stanza.
+			For the description of the destruction of the world, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">57</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then comes another,<sep />a greater than all,<br />
+			Though never I dare<sep />his name to speak;<br />
+			Few are they now<sep />that farther can see<br />
+			Than the moment when Othin<sep />shall meet the wolf.
+		</translation>
+		<comment>
+			Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">65</stanzaref>, where the possible reference to Christianity is noted.
+			With this stanza the fragmentary ``short <chapterref>Voluspo</chapterref>'' ends, and the dialogue between Freyja and Hyndla continues.
+		</comment>
+	</block>
+	<block class="sepline">
+	<block class="stanza" number="46">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Freyja spake:
+		</translation_prelude>
+		<translation>
+			``To my boar now bring<sep />the memory-beer,<br />
+			So that all thy words,<sep />that well thou hast spoken,<br />
+			The third morn hence<sep />he may hold in mind,<br />
+			When their races Ottar<sep />and Angantyr tell.''
+		</translation>
+		<comment>
+			Freyja now admits the identity of her boar as Ottar, who with the help of the ``memory-beer'' is to recall the entire genealogy he has just heard, and thus win his wager with Angantyr.
+		</comment>
+	</block>
+	<block class="stanza" number="47">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hyndla spake:
+		</translation_prelude>
+		<translation>
+			``Hence shalt thou fare,<sep />for fain would I sleep,<br />
+			From me thou gettest<sep />few favors good;<br />
+			My noble one, out<sep />in the night thou leapest<br />
+			As. Heithrun goes<sep />the goats among.
+		</translation>
+		<comment>
+			<expl>Heithrun</expl>: the she-goat that stands by Valhall (cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">25</stanzaref>), the name being here used simply of she-goats in general, in caustic comment on Freyja's morals.
+			Of these Loki entertained a similar view; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">30</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="48">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			To Oth didst thou run,<sep />who loved thee ever,<br />
+			And many under<sep />thy apron have crawled;<br />
+			My noble one, out<sep />in the night thou leapest,<br />
+			As Heithrun goes<sep />the goats among.''
+		</translation>
+		<comment>
+			<expl>Oth</expl>: cf. stanza <sr>6</sr> and note, and <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">25</stanzaref> and note.
+			Lines 3--4, abbreviated in the manuscript, are very likely repeated here by mistake.
+		</comment>
+	</block>
+	<block class="stanza" number="49">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Freyja spake:
+		</translation_prelude>
+		<translation>
+			``Around the giantess<sep />flames shall I raise,<br />
+			So that forth unburned<sep />thou mayst not fare.''
+		</translation>
+		<comment>
+			The manuscript repeats once again lines 3--4 of stanza <sr>47</sr> as the last two lines of this stanza.
+			It seems probable that two lines have been lost, to the effect that Freyja will burn the giantess alive
+			<textstanza class="translation">
+				``If swiftly now<sep />thou dost not seek,<br />
+				And hither bring<sep />the memory-beer.''
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="50">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hyndla spake:
+		</translation_prelude>
+		<translation>
+			``Flames I see burning,<sep />the earth is on fire,<br />
+			And each for his life<sep />the price must lose;<br />
+			Bring then to Ottar<sep />the draught of beer,<br />
+			Of venom full<sep />for an evil fate.''
+		</translation>
+	</block>
+	<block class="stanza" number="51">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Freyja spake:
+		</translation_prelude>
+		<translation>
+			``Thine evil words<sep />shall work no ill,<br />
+			Though, giantess, bitter<sep />thy baleful threats;<br />
+			A drink full fair<sep />shall Ottar find,<br />
+			If of all the gods<sep />the favor I get.''
+		</translation>
+	</block>
+</chapter>
