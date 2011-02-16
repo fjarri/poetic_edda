@@ -130,6 +130,13 @@ if __name__ == '__main__':
 
 	c = Element('chapter', icelandic_name="", english_name="", translation="")
 
+	# Add block with 'Introductory Note' header
+	intro_block = Element('block', attrib={'class': 'text'})
+	intro_section = Element('section')
+	intro_section.text = 'Introductory Note'
+	intro.block.append(intro_section)
+	c.append(intro_block)
+
 	# remove page marks
 	blocks = [x for x in blocks if not re.match(ur'^p\. \d+', x)]
 
