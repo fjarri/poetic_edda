@@ -400,6 +400,19 @@ def printChapterHeader(block):
 	else:
 		return u"\\eddasimplechapter{" + block.attrib['english_name'] + u'}'
 
+def printStanzaHeader(block):
+
+	# helper functions for wrapping table cells
+	leftField = lambda x: u"\\eddaproseleft{\\textit{\\Large " + x + u"}}"
+	rightField = lambda x: u"\\eddaproseright{\\textit{\\Large " + x + u"}}"
+
+	# get info from block
+	original = printText(block.find('original'))
+	translation = printText(block.find('translation'))
+
+	return "\\eddaheader\n" + \
+		u"{" + leftField(original) + u"}{" + rightField(translation) + u"}\n\n"
+
 def printSepline(block):
 	return u"\\eddasepline"
 
@@ -411,7 +424,8 @@ if __name__ == '__main__':
 		'text': printText,
 		'prose': printProseTable,
 		'chapter': printChapterHeader,
-		'sepline': printSepline
+		'sepline': printSepline,
+		'header': printStanzaHeader
 	}
 
 	filenames = os.listdir('chapters')

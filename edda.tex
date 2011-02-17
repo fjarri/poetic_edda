@@ -306,6 +306,17 @@
 	}
 }
 
+% command for inline header
+\newcommand{\eddaheader}[2]{ % paired headers
+	\begin{longtable}{@{} p{0.075\textwidth} @{} p{0.425\textwidth} @{} p{0.48\textwidth}}
+	{} & #1 & #2
+	\end{longtable}
+	\nopagebreak
+	\vskip 1.5\baselineskip
+	\nopagebreak
+}
+
+
 % base command for stanza pair
 \newcommand{\eddastanza}[3][\@empty]{
 

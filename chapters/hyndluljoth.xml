@@ -615,8 +615,13 @@
 		</comment>
 	</block>
 	<block class="sepline" />
-	<block class="text">
-		<section>Fragment of “The Short Voluspo” (Vǫluspǭ en skamma)</section>
+	<block class="header">
+		<original>
+			Vǫluspǭ en skamma
+		</original>
+		<translation>
+			Fragment of<br />“The Short Voluspo”
+		</translation>
 	</block>
 	<block class="stanza" number="30">
 		<original>
