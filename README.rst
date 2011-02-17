@@ -188,13 +188,20 @@ Rigsthula (12 Feb 2011)
 * Fixed references to Global Introduction;
 * Added 'Introductory note' section in the beginning of each chapter
 
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Hyndluljoth (17 Feb 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Added Hyndluljoth chapter;
+* Printing references like "<cr>Guthrunarkvitha II</cr>" in form
+  "<i>Guthrunarkvitha</i> II" (i.e., not italicising part number);
+* Fixed reference in Harbarthsljoth introduction
+
 ~~~~~~~~~~~~~~~~~~~~~
-Hyndluljoth (planned)
+Svipdagsmol (planned)
 ~~~~~~~~~~~~~~~~~~~~~
 
-* Add Hyndluljoth chapter
-* Output references like "<cr>Guthrunarkvitha II</cr>" in form
-  "<i>Guthrunarkvitha</i> II" (i.e., do not italicise part number)
+* Add Svipdagsmol chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
