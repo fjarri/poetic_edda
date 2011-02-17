@@ -265,10 +265,10 @@
 			Hyndla kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` est, O`ttarr!<sep />borinn Innsteini,<br />
+			en Innsteinn vas<sep />Alfi gamla,<br />
+			Alfr vas Ulfi,<sep />Ulfr Sa_e`fara,<br />
+			en Sa_e`fari<sep />Svan enum rauþa.
 		</original>
 		<translation_prelude>
 			Hyndla spake:
@@ -286,10 +286,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Mo`þur a`ttir<sep />menjum go~fga,<br />
+			hykk at he`ti<sep />Hle`di`s gyþja;<br />
+			Fro`þi vas faþir,<sep />en <dagger /> Friaut mo`þir:<br />
+			o~ll þo`tti a_e`tt su`<sep />meþ yfirmo~nnum.
 		</original>
 		<translation>
 			Thy mother, bright<sep />with bracelets fair,<br />
@@ -300,10 +300,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			A`li vas a`þr<sep />o~flgastr manna,<br />
+			Halfdanr fyrri<sep />ha_e`str Skjo~ldunga;<br />
+			fra_e`g vo~ru folkvi`g<sep />þaus framr go/rþi,<br />
+			hvo~rfluþu hans verk<sep />meþ himins skautum.
 		</original>
 		<translation>
 			Of old the noblest<sep />of all was Ali,<br />
@@ -320,10 +320,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Efldisk viþ Eymund,<sep />o/`ztan manna,<br />
+			en Sigtrygg <conj>slo`</conj><sep />meþ svo~lum eggjum;<br />
+			a`tti Almveigu,<sep />o/`zta kvenna,<br />
+			o`lu ok o~`ttu<sep />a`tja`n sunu.
 		</original>
 		<translation>
 			Strengthened by Eymund,<sep />the strongest of men,<br />
@@ -334,11 +334,11 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þaþan Skjo~ldungar,<sep />þaþan Skilfingar,<br />
+			þaþan O~þlingar,<sep />þaþan Ynglingar,<br />
+			þaþan ho~lþborit,<sep />þaþan hersborit,<br />
+			mest manna val<sep />und miþgarþi;<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			Hence come the Skjoldungs,<sep />hence the Skilfings,<br />
@@ -354,10 +354,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vas Hildiguþr<sep />hennar mo`þir,<br />
+			Svo~`vu barn<sep />ok Sa_e`konungs;<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!<br />
+			varþar at viti sva`,<sep />vilt enn lengra?
 		</original>
 		<translation>
 			Hildigun then<sep />her mother hight,<br />
@@ -372,11 +372,11 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Dagr a`tti Þo`ru<sep />drengjamo`þur,<br />
+			o`lusk i` a_e`tt þar<sep />o/`ztir kappar:<br />
+			Fraþmarr ok Gyrþr<sep />ok Frekar ba`þir,<br />
+			A`mr ok Jo~furmarr,<sep />Alfr enn gamli;<br />
+			varþar at viti sva`,<sep />vilt enn lengra?
 		</original>
 		<translation>
 			The mate of Dag<sep />was a mother of heroes,<br />
@@ -393,10 +393,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ketill vas vinr þeirar,<sep />Klypps arfþegi,<br />
+			vas mo`þurfaþir<sep />mo`þur þinnar;<br />
+			þar vas Fro`þi<sep />fyrr an Ka`ri,<br />
+			en Hildi vas<sep />Ho~alfr of getinn.
 		</original>
 		<translation>
 			Her husband was Ketil,<sep />the heir of Klypp,<br />
@@ -411,10 +411,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Nanna vas na_e`st þar<sep />No~kkva do`ttir,<br />
+			vas mo~gr hennar<sep />ma`gr þi`ns fo~þur;<br />
+			fyrnd es su` ma_e`gþ,<sep />fram telk lengra:<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			Next was Nanna,<sep />daughter of Nokkvi,<br />
@@ -429,10 +429,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			I`solfr ok O~`solfr<sep />O~lmo`þs synir<br />
+			ok Sku`rhildar<sep />Skekkils do`ttur,<br />
+			skalt til telja<sep />skatna margra:<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			Isolf and Osolf,<sep />the sons of Olmoth,<br />
@@ -447,10 +447,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gunnarr balkr,<sep />Gri`mr harþskafi,<br />
+			jarnskjo~ldr Þo`rir,<sep />Ulfr gi`nandi;<br />
+			kunnak ba`þa<sep />Brodd ok Ho/rvi,<br />
+			vo~ru þeir i` hirþ<sep />Hrolfs ens gamla.
 		</original>
 		<translation>
 			Gunnar the Bulwark,<sep />Grim the Hardy,<br />
@@ -465,10 +465,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Hervarþr</conj>, <conj>Hjo~rvarþr</conj>,<sep /><conj>Hrani</conj>, <conj>Anganty`r</conj>,<br />
+			Bui ok Bra`mi,<sep />Barri ok Reifnir,<br />
+			Tindr ok Tyrfingr,<sep />tveir Haddingjar:<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			Hervarth, Hjorvarth,<sep />Hrani, Angantyr,<br />
@@ -487,11 +487,11 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Þeir i Bolm austr</conj><sep />bornir vo~`ru<br />
+			Arngri`ms synir<sep />ok Eyfuru;<br />
+			bro~kun berserkja<sep />bo~ls margskonar,<br />
+			of lo~nd ok of lo~g<sep />sem logi fo/`ri:<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			Eastward in Bolm<sep />were born of old<br />
@@ -509,10 +509,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þeir vo~ru gumnar<sep />goþum signaþir,<br />
+			allir bornir<sep />Jo~rmunreki,<br />
+			Sigurþar ma`gi,<sep />---hly`þ so~gu minni!---<br />
+			folkum grims<sep />es Fa`fni va`.
 		</original>
 		<translation>
 			The sons of Jormunrek<sep />all of yore<br />
@@ -534,10 +534,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sa` vas vi`sir<sep />fra` Vo~lsungi<br />
+			ok Hjo~rdi`s<sep />fra` Hrauþungi,<br />
+			en Eylimi<sep />fra` O~þlingum:<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			From Volsung's seed<sep />was the hero sprung,<br />
@@ -553,11 +553,11 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gunnarr ok Ho~gni<sep />Gju`ka arfar<br />
+			ok et sama Guþru`n,<sep />systir þeira:<br />
+			eigi vas Gotþormr<sep />Gju`ka a_e`ttar,<br />
+			þo` vas bro`þir<sep />beggja þeira:<br />
+			allt's þat a_e`tt þi`n,<sep />O`ttarr heimski!
 		</original>
 		<translation>
 			Gunnar and Hogni,<sep />the heirs of Gjuki,<br />
@@ -575,11 +575,12 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			Haki vas Hveþnu<sep />ho`ti baztr sona,<br />
+			en Hveþnu vas<sep />Hjo~rvarþr faþir<br />
+			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
-			"Of Hvethna's sons<sep />was Haki the best,<br />
+			Of Hvethna's sons<sep />was Haki the best,<br />
 			And Hjorvarth the father<sep />of Hvethna was;<br />
 			<lacuna /><sep /><lacuna />
 		</translation>
@@ -592,11 +593,11 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Haraldr hildito~nn<sep />borinn Hro/`reki<br />
+			slo/ngvanbauga,<sep />sunr vas hann Auþar,<br />
+			Auþr dju`pu`þga<sep />I`vars do`ttir,<br />
+			en Ra`þbarþr vas<sep />Randve`s faþir:<br />
+			allt's þat a_e`tt þi`n,<sep />Ottarr heimski!''
 		</original>
 		<translation>
 			Harald Battle-tooth<sep />of Auth was born,<br />
@@ -615,14 +616,14 @@
 	</block>
 	<block class="sepline" />
 	<block class="text">
-		<section>Fragment of ``The Short Voluspo''</section>
+		<section>Fragment of ``The Short Voluspo'' (Vo~luspo~` en skamma)</section>
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vo~`ru ellifu<sep />a_e`sir talþir,<br />
+			Baldr es hne`<sep />viþ banaþu`fu;<br />
+			þess le`zk Va`li<sep />verþr at hefna,<br />
+			es si`ns bro`þur<sep />slo` handbana.
 		</original>
 		<translation>
 			Eleven in number<sep />the gods were known,<br />
@@ -639,7 +640,8 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
+			Vas Baldrs faþir<sep />Burs arfþegi<br />
+			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
 			The father of Baldr<sep />was the heir of Bur,<br />
@@ -653,10 +655,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Freyr a`tti Gerþi,<sep />vas Gymis do`ttir,<br />
+			jo~tna a_e`ttar<sep />ok Aurboþu:<br />
+			þa` vas Þjazi<sep />þeira fra_e`ndi,<br />
+			skautgjarn jo~tunn,<sep />vas Skaþi do`ttir.
 		</original>
 		<translation>
 			Freyr's wife was Gerth,<sep />the daughter of Gymir,<br />
@@ -672,8 +674,8 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			<sep /><br />
-			<sep />
+			Mart segjum þe`r<sep />ok munum fleira;<br />
+			vo~rumk at viti sva`,<sep />vilt enn lengra?
 		</original>
 		<translation>
 			Much have I told thee,<sep />and further will tell;<br />
@@ -685,7 +687,8 @@
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<sep /><br />
+			Heiþr ok Hrossþjo`fr<sep />Hrimnis kindar.<br />
+			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
 			Heith and Hrossthjof,<sep />the children of Hrimnir.<br />
@@ -697,10 +700,10 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Eru vo~lur allar<sep />fra` Vi`þolfi,<br />
+			vitkar allir<sep />fra` Vilmeiþi,<br />
+			en seiþberendr<sep />fra` Svartho~fþa,<br />
+			jo~tnar allir<sep />fra` Ymi komnir.
 		</original>
 		<translation>
 			The sybils arose<sep />from Vitholf's race,<br />
@@ -716,8 +719,8 @@
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep />
+			Mart segjum þe`r<sep />ok munum fleira;<br />
+			vo~rumk at viti sva`,<sep />vilt enn lengra?
 		</original>
 		<translation>
 			Much have I told thee,<sep />and further will tell;<br />
@@ -726,10 +729,10 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Varþ einn borinn<sep />i` a`rdaga<br />
+			rammaukinn mjo~k<sep />ragna kindar;<br />
+			niu bo~`ru þann,<sep />naddgo~fgan mann,<br />
+			jo~tna meyjar<sep />viþ jarþar þro~m.
 		</original>
 		<translation>
 			One there was born<sep />in the bygone days,<br />
@@ -745,10 +748,10 @@
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hann Gjo~lp of bar,<sep />hann Greip of bar,<br />
+			bar hann Eistla<sep />ok Eyrgjafa,<br />
+			hann bar Ulfru`n<sep />ok Angeyja,<br />
+			Imþr ok Atla<sep />ok I::arnsaxa.
 		</original>
 		<translation>
 			Gjolp there bore him,<sep />Greip there bore him,<br />
@@ -762,8 +765,8 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			<sep /><br />
-			<sep />
+			Sa` vas aukinn<sep />jarþar megni,<br />
+			svalko~ldum sa_e`<sep />ok sonardreyra.
 		</original>
 		<translation>
 			Strong was he made<sep />with the strength of earth,<br />
@@ -777,10 +780,10 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Varþ einn borinn<sep />o~llum meiri,<br />
+			sa` vas aukinn<sep />jarþar megni;<br />
+			þann kveþa stilli<sep />sto`ru`þgastan,<br />
+			Sif sifjaþan,<sep />sjo~tum go~rvo~llum.
 		</original>
 		<translation>
 			One there was born,<sep />the best of all,<br />
@@ -795,8 +798,8 @@
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep />
+			Mart segjum þe`r<sep />ok munum fleira;<br />
+			vo~rumk at viti sva`,<sep />vilt enn lengra?
 		</original>
 		<translation>
 			Much have I told thee,<sep />and further will tell;<br />
@@ -805,10 +808,10 @@
 	</block>
 	<block class="stanza" number="42">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O`l ulf Loki<sep />viþ Angrboþu,<br />
+			en Sleipni gat<sep />viþ Svaþilfera;<br />
+			eitt þo`tti skars<sep />allra feiknast,<br />
+			þat vas bro`þur fra`<sep />By`leists komit.
 		</original>
 		<translation>
 			The wolf did Loki<sep />with Angrbotha win,<br />
@@ -826,10 +829,10 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Loki <conj>a`t</conj> hjarta---<sep />lindi brendu<br />
+			fann halfsviþinn<sep />hugstein konu---;<br />
+			varþ Loptr kviþugr<sep />af konu illri:<br />
+			þaþan's a` foldu<sep />flagþ hvert komit.
 		</original>
 		<translation>
 			A heart ate Loki,---<sep />in the embers it lay,<br />
@@ -844,10 +847,10 @@
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Haf gengr hri`þum<sep />viþ himin sjalfan,<br />
+			li`þr lo~nd yfir,<sep />en lopt bilar;<br />
+			þaþan koma snjo`var<sep />ok snarir vindar,<br />
+			þa`'s i` ra`þi,<sep />at regin of þrjo`ti.
 		</original>
 		<translation>
 			The sea, storm-driven,<sep />seeks heaven itself,<br />
@@ -862,10 +865,10 @@
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` ko/mr annarr<sep />enn mo~`tkari,<br />
+			þo` þorik eigi<sep />þann at nefna;<br />
+			fai::r sea nu`<sep />fram of lengra,<br />
+			an O`þinn mun<sep />ulfi mo/`ta.
 		</original>
 		<translation>
 			Then comes another,<sep />a greater than all,<br />
@@ -884,10 +887,10 @@
 			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ber minniso~l<sep />mi`num gelti,<br />
+			sva`t o~ll muni<sep />orþ at ti`na,<br />
+			þessa ro/`þu,<sep />a` þriþja morni,<br />
+			þa`s þeir Anganty`r<sep />a_e`ttir rekja.''
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -907,10 +910,10 @@
 			Hyndla kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Snuþu braut heþan!<sep />sofa lystir mik,<br />
+			fa_e`r fa`tt af me`r<sep />fri`þra kosta:<br />
+			hleypr, eþlvina!<sep />u`ti a` no~`ttum,<br />
+			sem meþ ho~frum<sep />Heiþru`n fari.
 		</original>
 		<translation_prelude>
 			Hyndla spake:
@@ -928,10 +931,10 @@
 	</block>
 	<block class="stanza" number="48">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Rannt at O`þi<sep />ey þreyjandi:<br />
+			skutusk þe`r fleiri<sep />und fyrirskyrtu;<br />
+			hleypr, eþlvina!<sep />u`ti a` no~`ttum,<br />
+			sem meþ ho~frum<sep />Heiþru`n fari.''
 		</original>
 		<translation>
 			To Oth didst thou run,<sep />who loved thee ever,<br />
@@ -949,8 +952,8 @@
 			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep />
+			``Ek sla_e` eldi<sep />of i`viþju,<br />
+			sva`t eigi ko/msk<sep />o`brend heþan;
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -973,10 +976,10 @@
 			Hyndla kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hyr se`k brinna<sep />en hauþr loga,<br />
+			verþa flestir<sep />fjo~rlausn þola:<br />
+			ber O`ttari<sep />bjo`r at hendi<br />
+			eitrblandinn mjo~k,<sep />illu heilli!''
 		</original>
 		<translation_prelude>
 			Hyndla spake:
@@ -993,10 +996,10 @@
 			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Orþheill þi`n skal<sep />o/ngu ra`þa,<br />
+			þo`t, bru`þr jo~tuns!<sep />bo~lvi heitir;<br />
+			hann skal drekka<sep />dy`rar veigar,<br />
+			biþk O`ttari<sep />o~ll goþ duga.''
 		</original>
 		<translation_prelude>
 			Freyja spake:
