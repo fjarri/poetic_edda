@@ -45,7 +45,7 @@
 		</translation>
 		<comment>
 			<expl>Freyja</expl>: The names of the speakers do not appear in the manuscripts.
-			On Freyja cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note; <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note; <chapterref>Lokasenna</chapterref>, <proseref chapter="Lokasenna" prose="introduction">introductory prose</chapterref> and note.
+			On Freyja cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note; <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note; <chapterref>Lokasenna</chapterref>, <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref> and note.
 			As stanzas <sr>9</sr>--<sr>10</sr> show, Ottar has made a wager of his entire inheritance with Angantyr regarding the relative loftiness of their ancestry, and by rich offerings (Hyndla hints at less commendable methods) has induced Freyja to assist him in establishing his genealogy.
 			Freyja, having turned Ottar for purposes of disguise into a boar, calls on the giantess <expl>Hyndla</expl> (``She-Dog'') to aid her.
 			Hyndla does not appear elsewhere in the poems.
@@ -111,7 +111,7 @@
 			Nu` tak ulf þinn<sep />einn af stalli,<br />
 			la`t hann rinna<sep />meþ runa mi`num:<br />
 			seinn es go~ltr minn<sep />goþveg troþa,<br />
-			vilkak mar minn<sep />ma_e`tan hlo/`þa.
+			vilkak mar minn<sep />ma_e`tan hlo/`þa.''
 		</original>
 		<translation>
 			From the stall now<sep />one of thy wolves lead forth,<br />
@@ -180,7 +180,7 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<conj>Senn nu</conj> o`r <conj>so~þlum</conj><sep /><conj>si`gask lo~`tum</conj><br />
+			<conj>Senn nu</conj> o`r so~þlum<sep /><conj>si`gask lo~`tum</conj><br />
 			auk of jo~fra<sep />a_e`ttir do/`ma;<br />
 			gumna þeira<sep />es fra` goþum kvo~`mu<br />
 			<lacuna /><sep /><lacuna />
@@ -217,7 +217,7 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Ho~rg me`r go/rþi<sep /><conj>of</conj>hlaþinn steinum<br />
+			Ho~rg me`r go/rþi<sep /><conj>of</conj> hlaþinn steinum<br />
 			---nu` es grjo`t þat<sep />at gleri orþit---,<br />
 			rauþ i` ny`ju<sep />nauta blo`þi;<br />
 			a_e` tru`þi O`ttarr<sep />a` a`synjur.
@@ -237,10 +237,10 @@
 		<original>
 			Nu` la`t forna<sep />niþja talþa<br />
 			ok upp bornar<sep />a_e`ttir manna:<br />
-			<conj>hvat's O~þlinga</conj><sep />hvat's Ylfinga,<br />
+			hvat's Skjo~ldunga,<sep />hvat's Skilfinga,<br />
+			<conj>hvat's O~þlinga</conj>,<sep />hvat's Ylfinga,<br />
 			hvat's ho~lþborit,<sep />hvat's hersborit,<br />
-			mest manna val<sep />und miþgarþi?''<br />
-			<sep />
+			mest manna val<sep />und miþgarþi?''
 		</original>
 		<translation>
 			Tell to me now<sep />the ancient names,<br />
@@ -881,7 +881,7 @@
 			With this stanza the fragmentary ``short <chapterref>Voluspo</chapterref>'' ends, and the dialogue between Freyja and Hyndla continues.
 		</comment>
 	</block>
-	<block class="sepline">
+	<block class="sepline" />
 	<block class="stanza" number="46">
 		<original_prelude>
 			Freyja kvaþ:
@@ -953,7 +953,7 @@
 		</original_prelude>
 		<original>
 			``Ek sla_e` eldi<sep />of i`viþju,<br />
-			sva`t eigi ko/msk<sep />o`brend heþan;
+			sva`t eigi ko/msk<sep />o`brend heþan;''
 		</original>
 		<translation_prelude>
 			Freyja spake:
