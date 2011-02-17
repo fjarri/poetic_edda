@@ -26,13 +26,13 @@
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original_prelude>
-
+			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vaki, ma_e`r meyja!<sep />vaki, mi`n vina!<br />
+			Hyndla systir,<sep />es i` helli by`r!<br />
+			nu`'s ro/kkr ro/kkra:<sep />ri`þa vit skulum<br />
+			til Valhallar,<sep />til ve`s heilags.
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -53,10 +53,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Biþjum Herfo~þr<sep />i` hugum sitja;<br />
+			hann geldr ok gefr<sep />goll verþungu:<br />
+			gaf Hermo`þi<sep />hjalm ok brynju,<br />
+			en Sigmundi<sep />sverþ at þiggja.
 		</original>
 		<translation>
 			The favor of Heerfather<sep />seek we to find,<br />
@@ -73,10 +73,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gefr sigr sumum,<sep />en sumum aura,<br />
+			ma_e`lsku mo~rgum<sep />ok mannvit firum;<br />
+			byri gefr bro~gnum<sep />en brag sko~ldum,<br />
+			gefr mannsemi<sep />mo~rgum rekki.
 		</original>
 		<translation>
 			Triumph to some,<sep />and treasure to others,<br />
@@ -90,10 +90,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep />
+			Þo`r munk blo`ta,<sep />þess munk biþja,<br />
+			at a_e` viþ þik<sep />einart la`ti;<br />
+			<lacuna /><sep /><lacuna /><br />
+			þo`'s ho~nnum o`ti`tt<sep />viþ jo~tuns bru`þir.
 		</original>
 		<translation>
 			Thor shall I honor,<sep />and this shall I ask,<br />
@@ -108,10 +108,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Nu` tak ulf þinn<sep />einn af stalli,<br />
+			la`t hann rinna<sep />meþ runa mi`num:<br />
+			seinn es go~ltr minn<sep />goþveg troþa,<br />
+			vilkak mar minn<sep />ma_e`tan hlo/`þa.
 		</original>
 		<translation>
 			From the stall now<sep />one of thy wolves lead forth,<br />
@@ -127,13 +127,13 @@
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-
+			Hyndla kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Flo~` est, Freyja!<sep />es freistar mi`n,<br />
+			vi`sar augum<sep />a` oss þanig,<br />
+			es hefr ver þinn<sep />i` valsinni,<br />
+			O`ttar unga,<sep />Innsteins bur.''
 		</original>
 		<translation_prelude>
 			Hyndla spake:
@@ -152,14 +152,14 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-
+			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Duliþ est, Hyndla!<sep />draums a_e`tlak þe`r,<br />
+			es kveþr ver minn<sep />i` valsinni,<br />
+			þars go~ltr gloar<sep />gollinbursti,<br />
+			Hildisvi`ni,<sep />es mer hagir go/rþu<br />
+			dvergar tveir<sep />Dai::nn ok Nabbi.
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -180,9 +180,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
+			<conj>Senn nu</conj> o`r <conj>so~þlum</conj><sep /><conj>si`gask lo~`tum</conj><br />
+			auk of jo~fra<sep />a_e`ttir do/`ma;<br />
+			gumna þeira<sep />es fra` goþum kvo~`mu<br />
+			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
 			Now let us down<sep />from our saddles leap,<br />
@@ -198,10 +199,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þeir hafa veþjat<sep />Va`la malmi,<br />
+			O`ttarr ungi<sep />ok Anganty`r:<br />
+			skylt's at veita,<sep />sva`t skati enn ungi<br />
+			fo~þurleifþ hafi<sep />ept fra_e`ndr si`na.
 		</original>
 		<translation>
 			A wager have made<sep />in the foreign metal<br />
@@ -216,10 +217,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ho~rg me`r go/rþi<sep /><conj>of</conj>hlaþinn steinum<br />
+			---nu` es grjo`t þat<sep />at gleri orþit---,<br />
+			rauþ i` ny`ju<sep />nauta blo`þi;<br />
+			a_e` tru`þi O`ttarr<sep />a` a`synjur.
 		</original>
 		<translation>
 			For me a shrine<sep />of stones he made,---<br />
@@ -234,11 +235,11 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
+			Nu` la`t forna<sep />niþja talþa<br />
+			ok upp bornar<sep />a_e`ttir manna:<br />
+			<conj>hvat's O~þlinga</conj><sep />hvat's Ylfinga,<br />
+			hvat's ho~lþborit,<sep />hvat's hersborit,<br />
+			mest manna val<sep />und miþgarþi?''<br />
 			<sep />
 		</original>
 		<translation>
@@ -261,7 +262,7 @@
 	</block>
 	<block class="stanza" number="12">
 		<original_prelude>
-
+			Hyndla kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -880,7 +881,7 @@
 	<block class="sepline">
 	<block class="stanza" number="46">
 		<original_prelude>
-
+			Freyja kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -903,7 +904,7 @@
 	</block>
 	<block class="stanza" number="47">
 		<original_prelude>
-
+			Hyndla kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -945,7 +946,7 @@
 	</block>
 	<block class="stanza" number="49">
 		<original_prelude>
-
+			Freyja kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -969,7 +970,7 @@
 	</block>
 	<block class="stanza" number="50">
 		<original_prelude>
-
+			Hyndla kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -989,7 +990,7 @@
 	</block>
 	<block class="stanza" number="51">
 		<original_prelude>
-
+			Freyja kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
