@@ -1,4 +1,4 @@
-<chapter english_name="Svipdagsmol" icelandic_name="" translation="The ballad of Svipdag">
+<chapter english_name="Svipdagsmol" icelandic_name="Svipdagsmo~`l" translation="The ballad of Svipdag">
 	<block class="text">
 		<section>Introductory Note</section>
 	</block>
@@ -361,7 +361,7 @@
 			``Hvers þu` leitar<sep />eþa hvers a` leitum est,<br />
 			eþa hvat vilt, vinlauss! vita?<br />
 			u`rgar brautir<sep />a`rnaþu aptr heþan!<br />
-			a`tat he`r, verndarvanr! veru.''
+			a`ttat he`r, verndarvanr! veru.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -381,7 +381,7 @@
 			``Hvat's þat flagþa,<sep />es stendr fyr forgarþi<br />
 			ok by`þrat li`þo~ndum lo~þ?''<br />
 			<stanzaprelude>Fjo~lsviþr kvaþ:</stanzaprelude><br />
-			``So/mþarorþa lauss<sep />hefr þu`, seggr! of lifat,<br />
+			``So/`mþarorþa lauss<sep />hefr þu`, seggr! of lifat,<br />
 			ok haltu heim heþan!
 		</original>
 		<translation_prelude>
@@ -405,7 +405,7 @@
 		<translation>
 			Fjolsvith am I,<sep />and wise am I found,<br />
 			But miserly am I with meat;<br />
-			Thou never shalt enter<sep />within the house,--<br />
+			Thou never shalt enter<sep />within the house,---<br />
 			Go forth like a wolf on thy way!''
 		</translation>
 	</block>
@@ -1277,7 +1277,7 @@
 		<translation>
 			``Hearken, Mengloth,<sep />a man is come;<br />
 			Go thou the guest to see!<br />
-			The hounds are fawning,<sep />the house bursts open,--<br />
+			The hounds are fawning,<sep />the house bursts open,---<br />
 			Svipdag, methinks, is there.''
 		</translation>
 	</block>
