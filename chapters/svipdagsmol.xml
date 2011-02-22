@@ -1,0 +1,1327 @@
+<chapter english_name="Svipdagsmol" icelandic_name="" translation="The ballad of Svipdag">
+	<block class="text">
+		<section>Introductory Note</section>
+	</block>
+	<block class="text">
+		The two poems, <src>Grougaldr (Groa's Spell)</src> and <src>Fjolsvinnsmol (the Ballad of Fjolsvith)</src>, which many editors have, very wisely, united under the single title of <cr>Svipdagsmol</cr>, are found only in paper manuscripts, none of them antedating the seventeenth century.
+		Everything points to a relatively late origin for the poems: their extensive use of ``kennings'' or poetical circumlocutions, their romantic spirit, quite foreign to the character of the unquestionably older poems, the absence of any reference to them in the earlier documents, the frequent errors in mythology, and, finally, the fact that the poems appear to have been preserved in unusually good condition.
+		Whether or not a connecting link of narrative verse joining the two parts has been lost is an open question; on the whole it seems likely that the story was sufficiently well known so that the reciter of the poem (or poems) merely filled in the gap with a brief prose summary in pretty much his own words.
+		The general relationship between dialogue and narrative in the Eddic poems is discussed in the introductory note to the <cr>Grimnismol</cr>, in connection with the use of prose links.
+	</block>
+	<block class="text">
+		The love story of Svipdag and Mengloth is not referred to elsewhere in the <src>Poetic Edda</src>, nor does Snorri mention it; however, Groa, who here appears as Svipdag's mother, is spoken of by Snorri as a wise woman, the wife of Orvandil, who helps Thor with her magic charms.
+		On the other hand, the essence of the story, the hero's winning of a bride ringed about by flames, is strongly suggestive of parts of the Sigurth-Brynhild traditions.
+		Whether or not it is to be regarded as a nature or solar myth depends entirely on one's view of the whole ``solar myth'' school of criticism, not so highly esteemed today as formerly; such an interpretation is certainly not necessary to explain what is, under any circumstances, a very charming romance told, in the main, with dramatic effectiveness.
+	</block>
+	<block class="text">
+		In later years the story of Svipdag and Mengloth became popular throughout the North, and was made the subject of many Danish and Swedish as well as Norwegian ballads.
+		These have greatly assisted in the reconstruction of the outlines of the narrative surrounding the dialogue poems here given.
+	</block>
+	<block class="sepline" />
+	<block class="header">
+		<original>
+
+		</original>
+		<translation>
+			Grougaldr (Groa's spell)
+		</translation>
+	</block>
+	<block class="stanza" number="1">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Wake thee, Groa!<sep />wake, mother good!<br />
+			At the doors of the dead I call thee;<br />
+			Thy son, bethink thee,<sep />thou badst to seek<br />
+			Thy help at the hill of death.''
+		</translation>
+		<comment>
+			<expl>Svipdag</expl> (``Swift Day''): the names of the speakers are lacking in the manuscripts.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Groa spake:
+		</translation_prelude>
+		<translation>
+			``What evil vexes<sep />mine only son,<br />
+			What baleful fate hast thou found,<br />
+			That thou callest thy mother,<sep />who lies in the mould,<br />
+			And the world of the living has left?''
+		</translation>
+	</block>
+	<block class="stanza" number="3">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``The woman false<sep />whom my father embraced<br />
+			Has brought me a baleful game;<br />
+			For she bade me go forth<sep />where none may fare,<br />
+			And Mengloth the maid to seek.''
+		</translation>
+		<comment>
+			<expl>The woman</expl>: Svipdag's stepmother, who is responsible for his search for <expl>Mengloth</expl> (``Necklace-Glad'').
+			This name has suggested that Mengloth is really Frigg, possessor of the famous Brisings' necklace, or else Freyja (cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">20</stanzaref>, note).
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Groa spake:
+		</translation_prelude>
+		<translation>
+			``Long is the way,<sep />long must thou wander,<br />
+			But long is love as well;<br />
+			Thou mayst find, perchance,<sep />what thou fain wouldst have,<br />
+			If the fates their favor will give.''
+		</translation>
+	</block>
+	<block class="stanza" number="5">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Charms full good<sep />then chant to me, mother,<br />
+			And seek thy son to guard;<br />
+			For death do I fear<sep />on the way I shall fare,<br />
+			And in years am I young, methinks.''
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Groa spake:
+		</translation_prelude>
+		<translation>
+			``Then first I will chant thee<sep />the charm oft-tried,<br />
+			That Rani taught to Rind;<br />
+			From the shoulder whate'er<sep />mislikes thee shake,<br />
+			For helper thyself shalt thou have.
+		</translation>
+		<comment>
+			For this catalogue of charms (stanzas <sr>6</sr>--<sr>14</sr>) cf. the Ljothatal (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">147</stanzaref>--<stanzaref chapter="Hovamol">165</stanzaref>).
+			<expl>Rani</expl> and <expl>Rind</expl>: the manuscripts, have these words in inverse relation; I have followed Neckel's emendation.
+			Rind was the giantess who became the mother of Vali, Othin's son, the one-night-old avenger of Baldr (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>--<stanzaref chapter="Voluspo">34</stanzaref>, and <chapterref>Baldrs Draumar</chapterref>, <stanzaref chapter="Baldrs Draumar">11</stanzaref> and note).
+			Rani is presumably Othin, who, according to a skaldic poem, won Rind by magic.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then next I will chant thee,<sep />if needs thou must travel,<br />
+			And wander a purposeless way:<br />
+			The bolts of Urth<sep />shall on every side<br />
+			Be thy guards on the road thou goest.
+		</translation>
+		<comment>
+			<expl>Urth</expl>: one of the three Norns, or Fates; Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">20</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then third I will chant thee,<sep />if threatening streams<br />
+			The danger of death shall bring:<br />
+			Yet to Hel shall turn<sep />both Horn and Ruth,<br />
+			And before thee the waters shall fail.
+		</translation>
+		<comment>
+			<expl>Horn</expl> and <expl>Ruth</expl>: these two rivers, here used merely to symbolize all dangerous streams, are not included in the catalogue of rivers given in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">27</stanzaref>--<stanzaref chapter="Grimnismol">29</stanzaref>, for which reason some editors have changed the names to Hron and Hrith.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then fourth I will chant thee,<sep />if come thy foes<br />
+			On the gallows-way against thee:<br />
+			Into thine hands<sep />shall their hearts be given,<br />
+			And peace shall the warriors wish.
+		</translation>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<br />
+		</original>
+		<translation>
+			Then fifth I will chant thee,<sep />if fetters perchance<br />
+			Shall bind thy bending limbs:<br />
+			O'er thy thighs do I chant<sep />a loosening-charm,<br />
+			And the lock is burst from the limbs,<br />
+			And the fetters fall from the feet.
+		</translation>
+		<comment>
+			This stanza is a close parallel to <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">150</stanzaref>, and the fifth line may well be an interpolation from line 4 of that stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then sixth I will chant thee,<sep />if storms on the sea<br />
+			Have might unknown to man:<br />
+			Yet never shall wind<sep />or wave do harm,<br />
+			And calm is the course of thy boat.
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then seventh I chant thee,<sep />if frost shall seek<br />
+			To kill thee on lofty crags:<br />
+			The fatal cold<sep />shall not grip thy flesh,<br />
+			And whole thy body shall be.
+		</translation>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then eighth will I chant thee,<sep />if ever by night<br />
+			Thou shalt wander on murky ways:<br />
+			Yet never the curse<sep />of a Christian woman<br />
+			From the dead shall do thee harm.
+		</translation>
+		<comment>
+			<expl>A dead Christian woman</expl>: this passage has distressed many editors, who have sought to emend the text so as to make it mean simply ``a dead witch.'' The fact seems to be, however, that this particular charm was composed at a time when Christians were regarded by all conservative pagans as emissaries of darkness.
+			A dead woman's curse would naturally be more potent, whether she was Christian or otherwise, than a living one's.
+			Presumably this charm is much older than the poem in which it here stands.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Then ninth will I chant thee,<sep />if needs thou must strive<br />
+			With a warlike giant in words:<br />
+			Thy heart good store<sep />of wit shall have,<br />
+			And thy mouth of words full wise.
+		</translation>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Now fare on the way<sep />where danger waits,<br />
+			Let evils not lessen thy love!<br />
+			I have stood at the door<sep />of the earth-fixed stones,<br />
+			The while I chanted thee charms.
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Bear hence, my son,<sep />what thy mother hath said,<br />
+			And let it live in thy breast;<br />
+			Thine ever shall be the<sep />best of fortune,<br />
+			So long as my words shall last.''
+		</translation>
+		<comment>
+			At this point Groa's song ends, and Svipdag, thus fortified, goes to seek Mengloth.
+			All the link that is needed between the poems is approximately this: ``Then Svipdag searched long for Mengloth, and at last he came to a great house set all about with flames.
+			And before the house there was a giant.''
+		</comment>
+	</block>
+	<block class="header">
+		<original>
+
+		</original>
+		<translation>
+			Fjolminnsmol (The lay of Fjolsvith)
+		</translation>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Before the house<sep />he beheld one coming<br />
+			To the home of the giants high.<br />
+			Svipdag spake:<br />
+			``What giant is here,<sep />in front of the house,<br />
+			And around him fires are flaming?''
+		</translation>
+		<comment>
+			Most editors have here begun a new series of stanza numbers, but if the <src>Grougaldr</src> and the <src>Fjolsvinnsmol</src> are to be considered as a single poem, it seems more reasonable to continue the stanza numbers consecutively.
+			Bugge thinks a stanza has been lost before <sr>17</sr>, including Fjolsvith's name, so that the ``he'' in line 1 might have something to refer to.
+			However, just such a prose link as I have suggested in the note on stanza 16 would serve the purpose.
+			Editors have suggested various rearrange merits in the lines of stanzas <sr>17</sr>--<sr>19</sr>.
+			The substance, however, is clear enough.
+			The giant <expl>Fjolsvith</expl> (``Much-Wise''), the warder of the house in which Mengloth dwells, sees Svipdag coming and stops him with the customary threats.
+			The assignment of the speeches in stanzas <sr>17</sr>--<sr>20</sr>, in the absence of any indications in the manuscripts, is more or less guesswork.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``What seekest thou here?<sep />for what is thy search?<br />
+			What, friendless one, fain wouldst thou know?<br />
+			By the ways so wet<sep />must thou wander hence,<br />
+			For, weakling, no home hast thou here.''
+		</translation>
+	</block>
+	<block class="stanza" number="19">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``What giant is here,<sep />in front of the house,<br />
+			To the wayfarer welcome denying?''<br />
+			<stanzaprelude>Fjolsvith spake:</stanzaprelude><br />
+			``Greeting full fair<sep />thou never shalt find,<br />
+			So hence shalt thou get thee home.
+		</translation>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Fjolsvith am I,<sep />and wise am I found,<br />
+			But miserly am I with meat;<br />
+			Thou never shalt enter<sep />within the house,--<br />
+			Go forth like a wolf on thy way!''
+		</translation>
+	</block>
+	<block class="stanza" number="21">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Few from the joy<sep />of their eyes will go forth,<br />
+			When the sight of their loves they seek;<br />
+			Full bright are the gates<sep />of the golden hall,<br />
+			And a home shall I here enjoy.''
+		</translation>
+	</block>
+	<block class="stanza" number="22">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Tell me now, fellow,<sep />what father thou hast,<br />
+			And the kindred of whom thou camst.''<br />
+			<stanzaprelude>Svipdag spake:</stanzaprelude><br />
+			``Vindkald am I,<sep />and Varkald's son,<br />
+			And Fjolkald his father was.
+		</translation>
+		<comment>
+			<expl>Vindkald</expl> (``Wind-Cold''), <expl>Varkald</expl> (``Cold of Early Spring') and <expl>Fjolkald</expl> (''Much Cold"): Svipdag apparently seeks to persuade Fjolsvith that he belongs to the frost giants.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			Who is it that holds<sep />and has for his own<br />
+			The rule of the hall so rich?''
+		</translation>
+	</block>
+	<block class="stanza" number="24">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Mengloth is she,<sep />her mother bore her<br />
+			To the son of Svafrthorin;<br />
+			She is it that holds<sep />and has for her own<br />
+			The rule of the hall so rich.''
+		</translation>
+		<comment>
+			<expl>Svafrthorin</expl>: who he was, or what his name means, or who his son was, are all unknown.
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What call they the gate?<sep />for among the gods<br />
+			Ne'er saw man so grim a sight.''
+		</translation>
+	</block>
+	<block class="stanza" number="26">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Thrymgjol they call it;<sep />'twas made by the three,<br />
+			The sons of Solblindi;<br />
+			And fast as a fetter<sep />the farer it holds,<br />
+			Whoever shall lift the latch.''
+		</translation>
+		<comment>
+			<expl>Thrymgjol</expl> (``Loud-Clanging''): this gate, like the gate of the dead, shuts so fast as to trap those who attempt to use it (cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">68</stanzaref> and note).
+			It was made by the dwarfs, sons of <expl>Solblindi</expl> (``Sun-Blinded''), the traditional crafts men, who could not endure the light of day.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What call they the house?<sep />for no man beheld<br />
+			'Mongst the gods so grim a sight.''
+		</translation>
+	</block>
+	<block class="stanza" number="28">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Gastropnir is it,<sep />of old I made it<br />
+			From the limbs of Leirbrimir;<br />
+			I braced it so strongly<sep />that fast it shall stand<br />
+			So long as the world shall last.''
+		</translation>
+		<comment>
+			<expl>Gastropnir</expl>: ``Guest-Crusher.''
+			<expl>Leirbrimir's</expl> (``Clay-Giant's'') <expl>limbs</expl>: a poetic circumlocution for ``clay''; cf. the description of the making of earth from the body of the giant Ymir, <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">21</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What call they the tree<sep />that casts abroad<br />
+			Its limbs o'er every land?''
+		</translation>
+	</block>
+	<block class="stanza" number="30">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Mimameith its name,<sep />and no man knows<br />
+			What root beneath it runs;<br />
+			And few can guess<sep />what shall fell the tree,<br />
+			For fire nor iron shall fell it.''
+		</translation>
+		<comment>
+			<expl>Mimameith</expl> (``Mimir's Tree''): the ash Yggdrasil, that overshadows the whole world.
+			The well of Mimir was situated at its base; Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref>--<stanzaref chapter="Voluspo">29</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What grows from the seed<sep />of the tree so great,<br />
+			That fire nor iron shall fell?''
+		</translation>
+	</block>
+	<block class="stanza" number="32">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Women, sick<sep />with child, shall seek<br />
+			Its fruit to the flames to bear;<br />
+			Then out shall come<sep />what within was hid,<br />
+			And so is it mighty with men.''
+		</translation>
+		<comment>
+			Gering suggests that two stanzas have been lost between stanzas <sr>31</sr> and <sr>32</sr>, but the giant's answer fits the question quite well enough.
+			The fruit of Yggdrasil, when cooked, is here assumed to have the power of assuring safe childbirth.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What cock is he<sep />on the highest bough,<br />
+			That glitters all with gold?''
+		</translation>
+	</block>
+	<block class="stanza" number="34">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Vithofnir his name,<sep />and now he shines<br />
+			Like lightning on Mimameith's limbs;<br />
+			And great is the trouble<sep />with which he grieves<br />
+			Both Surt and Sinmora.''
+		</translation>
+		<comment>
+			<expl>Vithofnir</expl> (``Tree-Snake''): apparently identical with either the cock Gollinkambi (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">43</stanzaref>) or Fjalar (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">42</stanzaref>), the former of which wakes the gods to battle, and the latter the giants.
+			<expl>Surt</expl>: the giant mentioned in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">52</stanzaref>, as ruler of the fire-world; here used to represent the giants in general, who are constantly in terror of the cock's eternal watchfulness.
+			<expl>Sinmora</expl>: presumably Surt's wife, the giantess who possesses the weapon by which alone the cock Vithofnir may be slain.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What call they the hounds,<sep />that before the house<br />
+			So fierce and angry are?''
+		</translation>
+		<comment>
+			The last two lines have been variously emended.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Gif call they one,<sep />and Geri the other,<br />
+			If now the truth thou wouldst know;<br />
+			Great they are,<sep />and their might will grow,<br />
+			Till the gods to death are doomed.''
+		</translation>
+		<comment>
+			<expl>Gif</expl> and <expl>Geri</expl>: both names signify ``Greedy.''
+			The first part of line 3 is conjectural; the manuscripts indicate the word ``eleven,'' which clearly fails to make sense.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			May no man hope<sep />the house to enter,<br />
+			While the hungry hounds are sleeping?''
+		</translation>
+	</block>
+	<block class="stanza" number="38">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Together they sleep not,<sep />for so was it fixed<br />
+			When the guard to them was given;<br />
+			One sleeps by night,<sep />the next by day,<br />
+			So no man may enter ever.''
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			Is there no meat<sep />that men may give them,<br />
+			And leap within while they eat?''
+		</translation>
+	</block>
+	<block class="stanza" number="40">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Two wing-joints there be<sep />in Vithofnir's body,<br />
+			If now the truth thou wouldst know;<br />
+			That alone is the meat<sep />that men may give them,<br />
+			And leap within while they eat.''
+		</translation>
+	</block>
+	<block class="stanza" number="41">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What weapon can send<sep />Vithofnir to seek<br />
+			The house of Hel below?''
+		</translation>
+	</block>
+	<block class="stanza" number="42">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Lævatein is there,<sep />that Lopt with runes<br />
+			Once made by the doors of death;<br />
+			In Lægjarn's chest<sep />by Sinmora lies it,<br />
+			And nine locks fasten it firm.''
+		</translation>
+		<comment>
+			<expl>Lævetein</expl> (``Wounding Wand''): the manuscripts differ as to the form of this name.
+			The suggestion that the reference is to the mistletoe with which Baldr was killed seems hardly reason able.
+			<expl>Lopt</expl>: Loki.
+			<expl>Lægjarn</expl> (``Lover of Ill''): Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref>, where the term appears as an adjective applied to Loki.
+			This is Falk's emendation for the manuscripts' ``Sægjarn,'' meaning ``Sea Lover.''
+			<expl>Sinmora</expl>: cf. stanza <sr>34</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			May a man come thence,<sep />who thither goes,<br />
+			And tries the sword to take?''
+		</translation>
+	</block>
+	<block class="stanza" number="44">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Thence may he come<sep />who thither goes,<br />
+			And tries the sword to take,<br />
+			If with him he carries<sep />what few can win,<br />
+			To give to the goddess of gold.''
+		</translation>
+		<comment>
+			<expl>Goddess of gold</expl>: poetic circumlocution for ``woman,'' here meaning Sinmora.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What treasure is there<sep />that men may take<br />
+			To rejoice the giantess pale?''
+		</translation>
+	</block>
+	<block class="stanza" number="46">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``The sickle bright<sep />in thy wallet bear,<br />
+			Mid Vithofnir's feathers found;<br />
+			To Sinmora give it,<sep />and then shall she grant<br />
+			That the weapon by thee be won.''
+		</translation>
+		<comment>
+			<expl>Sickle</expl>: i.e., tail feather.
+			With this the circle of impossibilities is completed.
+			To get past the dogs, they must be fed with the wing-joints of the cock Vithofnir; the cock can be killed only with the sword in Sinmora's possession, and Sinmora will give up the sword only in return for the tail feather of the cock.
+		</comment>
+	</block>
+	<block class="stanza" number="47">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What call they the hall,<sep />encompassed here<br />
+			With flickering magic flames?''
+		</translation>
+	</block>
+	<block class="stanza" number="48">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Lyr is it called,<sep />and long it shall<br />
+			On the tip of a spear-point tremble;<br />
+			Of the noble house<sep />mankind has heard,<br />
+			But more has it never known.''
+		</translation>
+		<comment>
+			<expl>Lyr</expl> (``Heat-Holding''): just what the spear-point reference means is not altogether clear.
+			Presumably it refers to the way in which the glowing brightness of the lofty hall makes it seem to quiver and turn in the air, but the tradition, never baffled by physical laws, may have actually balanced the whole building on a single point to add to the difficulties of entrance.
+		</comment>
+	</block>
+	<block class="stanza" number="49">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What one of the gods<sep />has made so great<br />
+			The hall I behold within?''
+		</translation>
+	</block>
+	<block class="stanza" number="50">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Uni and Iri,<sep />Bari and Jari,<br />
+			Var and Vegdrasil,<br />
+			Dori and Ori,<sep />Delling, and there<br />
+			Was Loki, the fear of the folk.''
+		</translation>
+		<comment>
+			<expl>Loki</expl>, the one god named, was the builder of the hall, with the aid of the nine dwarfs.
+			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <sr>13</sr> and <sr>15</sr>); Delling appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to some one else.
+			The other dwarfs' names do not appear elsewhere.
+			The manuscripts differ as to the forms of many of these names.
+		</comment>
+	</block>
+	<block class="stanza" number="51">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What call they the mountain<sep />on which the maid<br />
+			Is lying so lovely to see?''
+		</translation>
+	</block>
+	<block class="stanza" number="52">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Lyfjaberg is it,<sep />and long shall it be<br />
+			A joy to the sick and the sore;<br />
+			For well shall grow<sep />each woman who climbs it,<br />
+			Though sick full long she has lain.''
+		</translation>
+		<comment>
+			<expl>Lyfjaberg</expl> (``Hill of Healing''): the manuscripts vary as to this name; I have followed Bugge's suggestion.
+			This stanza implies that Mengloth is a goddess of healing, and hence, perhaps, an hypostasis of Frigg, as already intimated by her name (cf. stanza <sr>3</sr>, note).
+			In stanza <sr>54</sr> Eir appears as one of Mengloth's handmaidens, and Eir, according to Snorri (<src>Gylfaginning</src>, 35) is herself the Norse Hygeia.
+			Compare this stanza with stanza <sr>32</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="53">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			What maidens are they<sep />that at Mengloth's knees<br />
+			Are sitting so gladly together?''
+		</translation>
+	</block>
+	<block class="stanza" number="54">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Hlif is one named,<sep />Hlifthrasa another,<br />
+			Thjothvara call they the third;<br />
+			Bjort and Bleik,<sep />Blith and Frith,<br />
+			Eir and Aurbotha.''
+		</translation>
+		<comment>
+			The manuscripts and editions show many variations in these names.
+			They may be approximately rendered thus: Helper, Help-Breather, Folk-Guardian, Shining, White, Blithe, Peaceful, Kindly (?), and Gold-Giver.
+		</comment>
+	</block>
+	<block class="stanza" number="55">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			Aid bring they to all<sep />who offerings give,<br />
+			If need be found therefor?''
+		</translation>
+		<comment>
+			One of the manuscripts omits stanzas <sr>55</sr> and <sr>56</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="56">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Soon aid they all<sep />who offerings give<br />
+			On the holy altars high;<br />
+			And if danger they see<sep />for the sons of men,<br />
+			Then each from ill do they guard.''
+		</translation>
+		<comment>
+			The first line is based on a conjectural emendation.
+		</comment>
+	</block>
+	<block class="stanza" number="57">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			For now the truth would I know:<br />
+			Lives there the man<sep />who in Mengloth's arms<br />
+			So fair may seek to sleep?''
+		</translation>
+	</block>
+	<block class="stanza" number="58">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``No man there is<sep />who in Mengloth's arms<br />
+			So fair may seek to sleep,<br />
+			Save Svipdag alone,<sep />for the sun-bright maid<br />
+			Is destined his bride to be.''
+		</translation>
+	</block>
+	<block class="stanza" number="59">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Fling back the gates!<sep />make the gateway wide!<br />
+			Here mayst thou Svipdag see!<br />
+			Hence get thee to find<sep />if gladness soon<br />
+			Mengloth to me will give.''
+		</translation>
+	</block>
+	<block class="stanza" number="60">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Fjolsvith spake:
+		</translation_prelude>
+		<translation>
+			``Hearken, Mengloth,<sep />a man is come;<br />
+			Go thou the guest to see!<br />
+			The hounds are fawning,<sep />the house bursts open,--<br />
+			Svipdag, methinks, is there.''
+		</translation>
+	</block>
+	<block class="stanza" number="61">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Mengloth spake:
+		</translation_prelude>
+		<translation>
+			"On the gallows high<sep />shall hungry ravens<br />
+			Soon thine eyes pluck out,<br />
+			If thou liest in saying<sep />that here at last<br />
+			The hero is come to my hall.
+		</translation>
+	</block>
+	<block class="stanza" number="62">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Whence camest thou hither?<sep />how camest thou here?<br />
+			What name do thy kinsmen call thee?<br />
+			Thy race and thy name<sep />as a sign must I know,<br />
+			That thy bride I am destined to be.''
+		</translation>
+	</block>
+	<block class="stanza" number="63">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Svipdag spake:
+		</translation_prelude>
+		<translation>
+			``Svipdag am I,<sep />and Solbjart's son;<br />
+			Thence came I by wind-cold ways;<br />
+			With the words of Urth<sep />shall no man war,<br />
+			Though unearned her gifts be given.''
+		</translation>
+		<comment>
+			<expl>Solbjart</expl> (``Sun-Bright''): not elsewhere mentioned.
+			<expl>The words of Urth</expl>: i.e., the decrees of fate; cf. stanza <sr>7</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="64">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation_prelude>
+			Mengloth spake:
+		</translation_prelude>
+		<translation>
+			``Welcome thou art,<sep />for long have I waited;<br />
+			The welcoming kiss shalt thou win!<br />
+			For two who love<sep />is the longed-for meeting<br />
+			The greatest gladness of all.
+		</translation>
+	</block>
+	<block class="stanza" number="65">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Long have I sat<sep />on Lyfjaberg here,<br />
+			Awaiting thee day by day;<br />
+			And now I have<sep />what I ever hoped,<br />
+			For here thou art come to my hall.
+		</translation>
+		<comment>
+			<expl>Lyfjaberg</expl>: cf. stanza <sr>52</sr> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="66">
+		<original>
+			<sep /><br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			Alike we yearned;<sep />I longed for thee,<br />
+			And thou for my love hast longed;<br />
+			But now henceforth<sep />together we know<br />
+			Our lives to the end we shall live.''
+		</translation>
+	</block>
+</chapter>
