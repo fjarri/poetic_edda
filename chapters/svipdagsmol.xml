@@ -1,17 +1,17 @@
-<chapter english_name="Svipdagsmol" icelandic_name="Svipdagsmo~`l" translation="The ballad of Svipdag">
+<chapter english_name="Svipdagsmol" icelandic_name="Svipdagsmǭl" translation="The ballad of Svipdag">
 	<block class="text">
 		<section>Introductory Note</section>
 	</block>
 	<block class="text">
-		The two poems, <src>Grougaldr (Groa's Spell)</src> and <src>Fjolsvinnsmol (the Ballad of Fjolsvith)</src>, which many editors have, very wisely, united under the single title of <cr>Svipdagsmol</cr>, are found only in paper manuscripts, none of them antedating the seventeenth century.
-		Everything points to a relatively late origin for the poems: their extensive use of ``kennings'' or poetical circumlocutions, their romantic spirit, quite foreign to the character of the unquestionably older poems, the absence of any reference to them in the earlier documents, the frequent errors in mythology, and, finally, the fact that the poems appear to have been preserved in unusually good condition.
+		The two poems, <source>Grougaldr (Groa's Spell)</source> and <source>Fjolsvinnsmol (the Ballad of Fjolsvith)</source>, which many editors have, very wisely, united under the single title of <chapterref>Svipdagsmol</chapterref>, are found only in paper manuscripts, none of them antedating the seventeenth century.
+		Everything points to a relatively late origin for the poems: their extensive use of “kennings” or poetical circumlocutions, their romantic spirit, quite foreign to the character of the unquestionably older poems, the absence of any reference to them in the earlier documents, the frequent errors in mythology, and, finally, the fact that the poems appear to have been preserved in unusually good condition.
 		Whether or not a connecting link of narrative verse joining the two parts has been lost is an open question; on the whole it seems likely that the story was sufficiently well known so that the reciter of the poem (or poems) merely filled in the gap with a brief prose summary in pretty much his own words.
-		The general relationship between dialogue and narrative in the Eddic poems is discussed in the introductory note to the <cr>Grimnismol</cr>, in connection with the use of prose links.
+		The general relationship between dialogue and narrative in the Eddic poems is discussed in the introductory note to the <chapterref>Grimnismol</chapterref>, in connection with the use of prose links.
 	</block>
 	<block class="text">
-		The love story of Svipdag and Mengloth is not referred to elsewhere in the <src>Poetic Edda</src>, nor does Snorri mention it; however, Groa, who here appears as Svipdag's mother, is spoken of by Snorri as a wise woman, the wife of Orvandil, who helps Thor with her magic charms.
+		The love story of Svipdag and Mengloth is not referred to elsewhere in the <source>Poetic Edda</source>, nor does Snorri mention it; however, Groa, who here appears as Svipdag's mother, is spoken of by Snorri as a wise woman, the wife of Orvandil, who helps Thor with her magic charms.
 		On the other hand, the essence of the story, the hero's winning of a bride ringed about by flames, is strongly suggestive of parts of the Sigurth-Brynhild traditions.
-		Whether or not it is to be regarded as a nature or solar myth depends entirely on one's view of the whole ``solar myth'' school of criticism, not so highly esteemed today as formerly; such an interpretation is certainly not necessary to explain what is, under any circumstances, a very charming romance told, in the main, with dramatic effectiveness.
+		Whether or not it is to be regarded as a nature or solar myth depends entirely on one's view of the whole “solar myth” school of criticism, not so highly esteemed today as formerly; such an interpretation is certainly not necessary to explain what is, under any circumstances, a very charming romance told, in the main, with dramatic effectiveness.
 	</block>
 	<block class="text">
 		In later years the story of Svipdag and Mengloth became popular throughout the North, and was made the subject of many Danish and Swedish as well as Norwegian ballads.
@@ -20,7 +20,7 @@
 	<block class="sepline" />
 	<block class="header">
 		<original>
-			Gro`ugaldr
+			Grōugaldr
 		</original>
 		<translation>
 			Grougaldr (Groa's spell)
@@ -31,42 +31,42 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Vaki þu`, Groa!<sep />vaki þu`, go`þ kona!<br />
+			“Vaki þū, Groa!<sep />vaki þū, gōþ kona!<br />
 			vekk þik dauþra dura:<br />
-			ef þat mant,<sep />at þinn mo~g ba_e`þir<br />
-			til kumbldysjar koma.''
+			ef þat mant,<sep />at þinn mǫg bǣþir<br />
+			til kumbldysjar koma.”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Wake thee, Groa!<sep />wake, mother good!<br />
+			“Wake thee, Groa!<sep />wake, mother good!<br />
 			At the doors of the dead I call thee;<br />
 			Thy son, bethink thee,<sep />thou badst to seek<br />
-			Thy help at the hill of death.''
+			Thy help at the hill of death.”
 		</translation>
 		<comment>
-			<expl>Svipdag</expl> (``Swift Day''): the names of the speakers are lacking in the manuscripts.
+			<expl>Svipdag</expl> (“Swift Day”): the names of the speakers are lacking in the manuscripts.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-			Gro`a kvaþ:
+			Grōa kvaþ:
 		</original_prelude>
 		<original>
-			``Hvat's nu` ant<sep />mi`num einga syni,<br />
-			hverju 'st bo~lvi borinn:<br />
-			es þu` mo`þur kallar<sep />þa`s til moldar es komin<br />
-			ok o`r ljo`þheimum liþin?''
+			“Hvat's nū ant<sep />mīnum einga syni,<br />
+			hverju 'st bǫlvi borinn:<br />
+			es þū mōþur kallar<sep />þās til moldar es komin<br />
+			ok ōr ljōþheimum liþin?”
 		</original>
 		<translation_prelude>
 			Groa spake:
 		</translation_prelude>
 		<translation>
-			``What evil vexes<sep />mine only son,<br />
+			“What evil vexes<sep />mine only son,<br />
 			What baleful fate hast thou found,<br />
 			That thou callest thy mother,<sep />who lies in the mould,<br />
-			And the world of the living has left?''
+			And the world of the living has left?”
 		</translation>
 	</block>
 	<block class="stanza" number="3">
@@ -74,43 +74,43 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Ljo`tu leikborþi<sep />skaut fyr mik en la_e`vi`sa kona<br />
-			su`s faþmaþi minn fo~þur:<br />
-			þar baþ mik koma,<sep />es kva_e`mtki veit,<br />
-			mo`ti Menglo~þu.''
+			“Ljōtu leikborþi<sep />skaut fyr mik en lǣvīsa kona<br />
+			sūs faþmaþi minn fǫþur:<br />
+			þar baþ mik koma,<sep />es kvǣmtki veit,<br />
+			mōti Menglǫþu.”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``The woman false<sep />whom my father embraced<br />
+			“The woman false<sep />whom my father embraced<br />
 			Has brought me a baleful game;<br />
 			For she bade me go forth<sep />where none may fare,<br />
-			And Mengloth the maid to seek.''
+			And Mengloth the maid to seek.”
 		</translation>
 		<comment>
-			<expl>The woman</expl>: Svipdag's stepmother, who is responsible for his search for <expl>Mengloth</expl> (``Necklace-Glad'').
+			<expl>The woman</expl>: Svipdag's stepmother, who is responsible for his search for <expl>Mengloth</expl> (“Necklace-Glad”).
 			This name has suggested that Mengloth is really Frigg, possessor of the famous Brisings' necklace, or else Freyja (cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">20</stanzaref>, note).
 		</comment>
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-			Gro`a kvaþ:
+			Grōa kvaþ:
 		</original_prelude>
 		<original>
-			``Lo~ng es fo~r,<sep />langir'u farvegar,<br />
+			“Lǫng es fǫr,<sep />langir'u farvegar,<br />
 			langir'u manna munir;<br />
-			ef þat verþr,<sep />at þu þinn vilja bi`þr,<br />
-			ok skeikar þo` Skuldar at sko~pum.''
+			ef þat verþr,<sep />at þu þinn vilja bīþr,<br />
+			ok skeikar þō Skuldar at skǫpum.”
 		</original>
 		<translation_prelude>
 			Groa spake:
 		</translation_prelude>
 		<translation>
-			``Long is the way,<sep />long must thou wander,<br />
+			“Long is the way,<sep />long must thou wander,<br />
 			But long is love as well;<br />
 			Thou mayst find, perchance,<sep />what thou fain wouldst have,<br />
-			If the fates their favor will give.''
+			If the fates their favor will give.”
 		</translation>
 	</block>
 	<block class="stanza" number="5">
@@ -118,53 +118,53 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Galdra mer gal<sep />þa`s go`þir'u`,<br />
-			bjarg þu`, mo`þir! megi:<br />
-			a` vegum allr<sep />hykk at ek verþa muna,<br />
-			þykkjumk til ungr afi.''
+			“Galdra mer gal<sep />þās gōþir'ū,<br />
+			bjarg þū, mōþir! megi:<br />
+			ā vegum allr<sep />hykk at ek verþa muna,<br />
+			þykkjumk til ungr afi.”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Charms full good<sep />then chant to me, mother,<br />
+			“Charms full good<sep />then chant to me, mother,<br />
 			And seek thy son to guard;<br />
 			For death do I fear<sep />on the way I shall fare,<br />
-			And in years am I young, methinks.''
+			And in years am I young, methinks.”
 		</translation>
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-			Gro`a kvaþ:
+			Grōa kvaþ:
 		</original_prelude>
 		<original>
-			``Þann gelk þe`r fyrstan,<sep />þann kveþa fjo~lny`tan,<br />
-			þann go`l Rindr Rani:<br />
-			at of o~xl skjo`tir<sep />þvi`s þe`r atalt þykkir;<br />
+			“Þann gelk þēr fyrstan,<sep />þann kveþa fjǫlnȳtan,<br />
+			þann gōl Rindr Rani:<br />
+			at of ǫxl skjōtir<sep />þvīs þēr atalt þykkir;<br />
 			sjalfr leiþ sjalfan þik!
 		</original>
 		<translation_prelude>
 			Groa spake:
 		</translation_prelude>
 		<translation>
-			``Then first I will chant thee<sep />the charm oft-tried,<br />
+			“Then first I will chant thee<sep />the charm oft-tried,<br />
 			That Rani taught to Rind;<br />
 			From the shoulder whate'er<sep />mislikes thee shake,<br />
 			For helper thyself shalt thou have.
 		</translation>
 		<comment>
-			For this catalogue of charms (stanzas <sr>6</sr>--<sr>14</sr>) cf. the Ljothatal (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">147</stanzaref>--<stanzaref chapter="Hovamol">165</stanzaref>).
+			For this catalogue of charms (stanzas <stanzaref chapter="Svipdagsmol">6</stanzaref>–<stanzaref chapter="Svipdagsmol">14</stanzaref>) cf. the Ljothatal (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">147</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref>).
 			<expl>Rani</expl> and <expl>Rind</expl>: the manuscripts, have these words in inverse relation; I have followed Neckel's emendation.
-			Rind was the giantess who became the mother of Vali, Othin's son, the one-night-old avenger of Baldr (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>--<stanzaref chapter="Voluspo">34</stanzaref>, and <chapterref>Baldrs Draumar</chapterref>, <stanzaref chapter="Baldrs Draumar">11</stanzaref> and note).
+			Rind was the giantess who became the mother of Vali, Othin's son, the one-night-old avenger of Baldr (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>–<stanzaref chapter="Voluspo">34</stanzaref>, and <chapterref>Baldrs Draumar</chapterref>, <stanzaref chapter="Baldrs Draumar">11</stanzaref> and note).
 			Rani is presumably Othin, who, according to a skaldic poem, won Rind by magic.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Þann gelk þe`r annan,<sep />ef þu` a`rna skalt<br />
-			viljalauss a` vegum:<br />
-			Urþar lokur<sep />haldi þe`r o~llum megum,<br />
-			<conj>þa`s</conj> þu a` <conj>sinnum</conj> se`r!
+			Þann gelk þēr annan,<sep />ef þū ārna skalt<br />
+			viljalauss ā vegum:<br />
+			Urþar lokur<sep />haldi þēr ǫllum megum,<br />
+			<conj>þās</conj> þu ā <conj>sinnum</conj> sēr!
 		</original>
 		<translation>
 			Then next I will chant thee,<sep />if needs thou must travel,<br />
@@ -178,10 +178,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			Þann gelk þer enn þriþja,<sep />ef þe`r þjo`þaar<br />
-			falla at fjo~rlokum:<br />
+			Þann gelk þer enn þriþja,<sep />ef þēr þjōþaar<br />
+			falla at fjǫrlokum:<br />
 			til heljar heþan<sep />snuisk Horn ok Ruþr,<br />
-			en þverri a_e` fyr þe`r.
+			en þverri ǣ fyr þēr.
 		</original>
 		<translation>
 			Then third I will chant thee,<sep />if threatening streams<br />
@@ -190,15 +190,15 @@
 			And before thee the waters shall fail.
 		</translation>
 		<comment>
-			<expl>Horn</expl> and <expl>Ruth</expl>: these two rivers, here used merely to symbolize all dangerous streams, are not included in the catalogue of rivers given in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">27</stanzaref>--<stanzaref chapter="Grimnismol">29</stanzaref>, for which reason some editors have changed the names to Hron and Hrith.
+			<expl>Horn</expl> and <expl>Ruth</expl>: these two rivers, here used merely to symbolize all dangerous streams, are not included in the catalogue of rivers given in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">27</stanzaref>–<stanzaref chapter="Grimnismol">29</stanzaref>, for which reason some editors have changed the names to Hron and Hrith.
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Þann gelk þer enn fjo`rþa,<sep />ef þik fiandr standa<br />
-			go~rvir a` galgvegi:<br />
-			hugr þeim hverfi<sep />til handa þe`r<br />
-			ok snuisk tl sa`tta sefi.
+			Þann gelk þer enn fjōrþa,<sep />ef þik fiandr standa<br />
+			gǫrvir ā galgvegi:<br />
+			hugr þeim hverfi<sep />til handa þēr<br />
+			ok snuisk tl sātta sefi.
 		</original>
 		<translation>
 			Then fourth I will chant thee,<sep />if come thy foes<br />
@@ -209,11 +209,11 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Þann gelk þer enn fimta,<sep />ef þe`r fjo~turr verþr<br />
+			Þann gelk þer enn fimta,<sep />ef þēr fjǫturr verþr<br />
 			borinn at boglimum:<br />
-			leysigaldr<sep />la_e`tk þer fyr legg of kveþinn,<br />
-			ok sto/kkr þa` la`ss af limum,<br />
-			[en af fo`tum fjo~turr.]
+			leysigaldr<sep />lǣtk þer fyr legg of kveþinn,<br />
+			ok støkkr þā lāss af limum,<br />
+			[en af fōtum fjǫturr.]
 		</original>
 		<translation>
 			Then fifth I will chant thee,<sep />if fetters perchance<br />
@@ -228,10 +228,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Þann gelk þer enn se`tta,<sep />ef a` sjo` ko/mr<br />
+			Þann gelk þer enn sētta,<sep />ef ā sjō kømr<br />
 			meira an menn viti:<br />
-			lopt ok lo~gr<sep />gangi þer i` lu`þr saman<br />
-			ok le` þer a_e` friþdrju`grar farar.
+			lopt ok lǫgr<sep />gangi þer ī lūþr saman<br />
+			ok lē þer ǣ friþdrjūgrar farar.
 		</original>
 		<translation>
 			Then sixth I will chant thee,<sep />if storms on the sea<br />
@@ -242,10 +242,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Þann gelk þer enn sjaunda,<sep />ef þik so/`kja ko/mr<br />
-			frost a` fjalli ho~`:<br />
-			hra_e`vakulþi<sep />megit þi`nu holdi fara,<br />
-			ok haldi þe`r li`k at liþum.
+			Þann gelk þer enn sjaunda,<sep />ef þik sø̄kja kømr<br />
+			frost ā fjalli hǭ:<br />
+			hrǣvakulþi<sep />megit þīnu holdi fara,<br />
+			ok haldi þēr līk at liþum.
 		</original>
 		<translation>
 			Then seventh I chant thee,<sep />if frost shall seek<br />
@@ -256,9 +256,9 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Þann gelk þer enn a`tta,<sep />ef þik u`ti nemr<br />
-			no~`tt a` niflvegi:<br />
-			at þvi` <conj>miþr</conj> megi<sep />þe`r til meins go/rva<br />
+			Þann gelk þer enn ātta,<sep />ef þik ūti nemr<br />
+			nǭtt ā niflvegi:<br />
+			at þvī <conj>miþr</conj> megi<sep />þēr til meins gørva<br />
 			kristin dauþ kona.
 		</original>
 		<translation>
@@ -268,17 +268,17 @@
 			From the dead shall do thee harm.
 		</translation>
 		<comment>
-			<expl>A dead Christian woman</expl>: this passage has distressed many editors, who have sought to emend the text so as to make it mean simply ``a dead witch.'' The fact seems to be, however, that this particular charm was composed at a time when Christians were regarded by all conservative pagans as emissaries of darkness.
+			<expl>A dead Christian woman</expl>: this passage has distressed many editors, who have sought to emend the text so as to make it mean simply “a dead witch.” The fact seems to be, however, that this particular charm was composed at a time when Christians were regarded by all conservative pagans as emissaries of darkness.
 			A dead woman's curse would naturally be more potent, whether she was Christian or otherwise, than a living one's.
 			Presumably this charm is much older than the poem in which it here stands.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			Þann gelk þer enn niunda,<sep />ef viþ enn naddgo~fga<br />
-			orþum skiptir jo~tun:<br />
-			ma`ls ok mannvits<sep />se` þer a` <conj>munn ok</conj> hjarta<br />
-			gno`ga of gefit.
+			Þann gelk þer enn niunda,<sep />ef viþ enn naddgǫfga<br />
+			orþum skiptir jǫtun:<br />
+			māls ok mannvits<sep />sē þer ā <conj>munn ok</conj> hjarta<br />
+			gnōga of gefit.
 		</original>
 		<translation>
 			Then ninth will I chant thee,<sep />if needs thou must strive<br />
@@ -289,10 +289,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<conj>Fo~r þi`n</conj> nu a_e`va<sep />þe`r foraþ <conj>þykki</conj><br />
+			<conj>Fǫr þīn</conj> nu ǣva<sep />þēr foraþ <conj>þykki</conj><br />
 			ok standit þer mein fyr munum!<br />
-			a` jarþfo~stum steini<sep />sto`þk innan dura,<br />
-			meþan þe`r galdra go`lk.
+			ā jarþfǫstum steini<sep />stōþk innan dura,<br />
+			meþan þēr galdra gōlk.
 		</original>
 		<translation>
 			Now fare on the way<sep />where danger waits,<br />
@@ -303,26 +303,26 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			Mo`þur orþ<sep />berþu, mo~gr! heþan<br />
-			ok la`t þer i` brjo`sti bua!<br />
-			iþgno`ga heill<sep />skalt of aldr hafa,<br />
-			meþan mi`n orþ of mant.''
+			Mōþur orþ<sep />berþu, mǫgr! heþan<br />
+			ok lāt þer ī brjōsti bua!<br />
+			iþgnōga heill<sep />skalt of aldr hafa,<br />
+			meþan mīn orþ of mant.”
 		</original>
 		<translation>
 			Bear hence, my son,<sep />what thy mother hath said,<br />
 			And let it live in thy breast;<br />
 			Thine ever shall be the<sep />best of fortune,<br />
-			So long as my words shall last.''
+			So long as my words shall last.”
 		</translation>
 		<comment>
 			At this point Groa's song ends, and Svipdag, thus fortified, goes to seek Mengloth.
-			All the link that is needed between the poems is approximately this: ``Then Svipdag searched long for Mengloth, and at last he came to a great house set all about with flames.
-			And before the house there was a giant.''
+			All the link that is needed between the poems is approximately this: “Then Svipdag searched long for Mengloth, and at last he came to a great house set all about with flames.
+			And before the house there was a giant.”
 		</comment>
 	</block>
 	<block class="header">
 		<original>
-			Fjo`lsvinnsmo~`l
+			Fjōlsvinnsmǭl
 		</original>
 		<translation>
 			Fjolminnsmol (The lay of Fjolsvith)
@@ -330,47 +330,47 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			U`tan garþa<sep />sa` hann upp of koma<br />
-			þursa þjo`þar sjo~t.<br />
+			U`tan garþa<sep />sā hann upp of koma<br />
+			þursa þjōþar sjǫt.<br />
 			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
-			``Hvat's þat flagþa,<sep />es stendr fyr forgo~rþum<br />
-			ok hvarflar umb ha_e`ttan loga?''
+			“Hvat's þat flagþa,<sep />es stendr fyr forgǫrþum<br />
+			ok hvarflar umb hǣttan loga?”
 		</original>
 		<translation>
 			Before the house<sep />he beheld one coming<br />
 			To the home of the giants high.<br />
 			<stanzaprelude>Svipdag spake:</stanzaprelude><br />
-			``What giant is here,<sep />in front of the house,<br />
-			And around him fires are flaming?''
+			“What giant is here,<sep />in front of the house,<br />
+			And around him fires are flaming?”
 		</translation>
 		<comment>
-			Most editors have here begun a new series of stanza numbers, but if the <src>Grougaldr</src> and the <src>Fjolsvinnsmol</src> are to be considered as a single poem, it seems more reasonable to continue the stanza numbers consecutively.
-			Bugge thinks a stanza has been lost before <sr>17</sr>, including Fjolsvith's name, so that the ``he'' in line 1 might have something to refer to.
-			However, just such a prose link as I have suggested in the note on stanza <sr>16</sr> would serve the purpose.
-			Editors have suggested various rearrange merits in the lines of stanzas <sr>17</sr>--<sr>19</sr>.
+			Most editors have here begun a new series of stanza numbers, but if the <source>Grougaldr</source> and the <source>Fjolsvinnsmol</source> are to be considered as a single poem, it seems more reasonable to continue the stanza numbers consecutively.
+			Bugge thinks a stanza has been lost before <stanzaref chapter="Svipdagsmol">17</stanzaref>, including Fjolsvith's name, so that the “he” in line 1 might have something to refer to.
+			However, just such a prose link as I have suggested in the note on stanza <stanzaref chapter="Svipdagsmol">16</stanzaref> would serve the purpose.
+			Editors have suggested various rearrange merits in the lines of stanzas <stanzaref chapter="Svipdagsmol">17</stanzaref>–<stanzaref chapter="Svipdagsmol">19</stanzaref>.
 			The substance, however, is clear enough.
-			The giant <expl>Fjolsvith</expl> (``Much-Wise''), the warder of the house in which Mengloth dwells, sees Svipdag coming and stops him with the customary threats.
-			The assignment of the speeches in stanzas <sr>17</sr>--<sr>20</sr>, in the absence of any indications in the manuscripts, is more or less guesswork.
+			The giant <expl>Fjolsvith</expl> (“Much-Wise”), the warder of the house in which Mengloth dwells, sees Svipdag coming and stops him with the customary threats.
+			The assignment of the speeches in stanzas <stanzaref chapter="Svipdagsmol">17</stanzaref>–<stanzaref chapter="Svipdagsmol">20</stanzaref>, in the absence of any indications in the manuscripts, is more or less guesswork.
 		</comment>
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hvers þu` leitar<sep />eþa hvers a` leitum est,<br />
+			“Hvers þū leitar<sep />eþa hvers ā leitum est,<br />
 			eþa hvat vilt, vinlauss! vita?<br />
-			u`rgar brautir<sep />a`rnaþu aptr heþan!<br />
-			a`ttat he`r, verndarvanr! veru.''
+			ūrgar brautir<sep />ārnaþu aptr heþan!<br />
+			āttat hēr, verndarvanr! veru.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``What seekest thou here?<sep />for what is thy search?<br />
+			“What seekest thou here?<sep />for what is thy search?<br />
 			What, friendless one, fain wouldst thou know?<br />
 			By the ways so wet<sep />must thou wander hence,<br />
-			For, weakling, no home hast thou here.''
+			For, weakling, no home hast thou here.”
 		</translation>
 	</block>
 	<block class="stanza" number="19">
@@ -378,35 +378,35 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Hvat's þat flagþa,<sep />es stendr fyr forgarþi<br />
-			ok by`þrat li`þo~ndum lo~þ?''<br />
-			<stanzaprelude>Fjo~lsviþr kvaþ:</stanzaprelude><br />
-			``So/`mþarorþa lauss<sep />hefr þu`, seggr! of lifat,<br />
+			“Hvat's þat flagþa,<sep />es stendr fyr forgarþi<br />
+			ok bȳþrat līþǫndum lǫþ?”<br />
+			<stanzaprelude>Fjǫlsviþr kvaþ:</stanzaprelude><br />
+			“Sø̄mþarorþa lauss<sep />hefr þū, seggr! of lifat,<br />
 			ok haltu heim heþan!
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``What giant is here,<sep />in front of the house,<br />
-			To the wayfarer welcome denying?''<br />
+			“What giant is here,<sep />in front of the house,<br />
+			To the wayfarer welcome denying?”<br />
 			<stanzaprelude>Fjolsvith spake:</stanzaprelude><br />
-			``Greeting full fair<sep />thou never shalt find,<br />
+			“Greeting full fair<sep />thou never shalt find,<br />
 			So hence shalt thou get thee home.
 		</translation>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Fjo~lsviþr ek heiti,<sep />en ek a` fro`þan sefa,<br />
-			þeygi emk mi`ns mildr matar:<br />
-			innan garþa<sep />þu` ko/mr aldrigi,<br />
-			ok dri`f þu nu` vargr at vegi!''
+			Fjǫlsviþr ek heiti,<sep />en ek ā frōþan sefa,<br />
+			þeygi emk mīns mildr matar:<br />
+			innan garþa<sep />þū kømr aldrigi,<br />
+			ok drīf þu nū vargr at vegi!”
 		</original>
 		<translation>
 			Fjolsvith am I,<sep />and wise am I found,<br />
 			But miserly am I with meat;<br />
-			Thou never shalt enter<sep />within the house,---<br />
-			Go forth like a wolf on thy way!''
+			Thou never shalt enter<sep />within the house,—<br />
+			Go forth like a wolf on thy way!”
 		</translation>
 	</block>
 	<block class="stanza" number="21">
@@ -414,78 +414,78 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Augna gamans<sep />fy`sir aptr <conj>flestan</conj>,<br />
-			hvars getr sva`st at sea:<br />
+			“Augna gamans<sep />fȳsir aptr <conj>flestan</conj>,<br />
+			hvars getr svāst at sea:<br />
 			garþar gloa<sep />þykkjumk of gollna sali,<br />
-			he`r mundak o/þli una.''
+			hēr mundak øþli una.”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Few from the joy<sep />of their eyes will go forth,<br />
+			“Few from the joy<sep />of their eyes will go forth,<br />
 			When the sight of their loves they seek;<br />
 			Full bright are the gates<sep />of the golden hall,<br />
-			And a home shall I here enjoy.''
+			And a home shall I here enjoy.”
 		</translation>
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg me`r, hverjum<sep />estu, sveinn! of borinn<br />
-			eþa hverra'st manna mo~gr?''<br />
+			“Seg mēr, hverjum<sep />estu, sveinn! of borinn<br />
+			eþa hverra'st manna mǫgr?”<br />
 			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
-			``Vindkaldr heitik,<sep />Va`rkaldr he`t minn faþir,<br />
-			þess vas Fjo~lkaldr faþir.
+			“Vindkaldr heitik,<sep />Vārkaldr hēt minn faþir,<br />
+			þess vas Fjǫlkaldr faþir.
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Tell me now, fellow,<sep />what father thou hast,<br />
-			And the kindred of whom thou camst.''<br />
+			“Tell me now, fellow,<sep />what father thou hast,<br />
+			And the kindred of whom thou camst.”<br />
 			<stanzaprelude>Svipdag spake:</stanzaprelude><br />
-			``Vindkald am I,<sep />and Varkald's son,<br />
+			“Vindkald am I,<sep />and Varkald's son,<br />
 			And Fjolkald his father was.
 		</translation>
 		<comment>
-			<expl>Vindkald</expl> (``Wind-Cold''), <expl>Varkald</expl> (``Cold of Early Spring') and <expl>Fjolkald</expl> (''Much Cold"): Svipdag apparently seeks to persuade Fjolsvith that he belongs to the frost giants.
+			<expl>Vindkald</expl> (“Wind-Cold”), <expl>Varkald</expl> (“Cold of Early Spring') and <expl>Fjolkald</expl> (”Much Cold"): Svipdag apparently seeks to persuade Fjolsvith that he belongs to the frost giants.
 		</comment>
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hverr he`r ra_e`þr<sep />---ok ri`ki hefr---<br />
-			eign ok auþso~lum?''
+			hverr hēr rǣþr<sep />—ok rīki hefr—<br />
+			eign ok auþsǫlum?”
 		</original>
 		<translation>
 			Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			Who is it that holds<sep />and has for his own<br />
-			The rule of the hall so rich?''
+			The rule of the hall so rich?”
 		</translation>
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Menglo~þ of heitir,<sep />en hana mo`þir of gat<br />
+			“Menglǫþ of heitir,<sep />en hana mōþir of gat<br />
 			viþ Svafrþorins syni:<br />
-			ho`n he`r ra_e`þr<sep />---ok ri`ki hefr---<br />
-			eign ok auþso~lum.''
+			hōn hēr rǣþr<sep />—ok rīki hefr—<br />
+			eign ok auþsǫlum.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Mengloth is she,<sep />her mother bore her<br />
+			“Mengloth is she,<sep />her mother bore her<br />
 			To the son of Svafrthorin;<br />
 			She is it that holds<sep />and has for her own<br />
-			The rule of the hall so rich.''
+			The rule of the hall so rich.”
 		</translation>
 		<comment>
 			<expl>Svafrthorin</expl>: who he was, or what his name means, or who his son was, are all unknown.
@@ -496,43 +496,43 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat su` grind heitir,<sep />es meþ goþum so~ut<br />
-			menn et meira foraþ?''
+			hvat sū grind heitir,<sep />es meþ goþum sǫut<br />
+			menn et meira foraþ?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What call they the gate?<sep />for among the gods<br />
-			Ne'er saw man so grim a sight.''
+			Ne'er saw man so grim a sight.”
 		</translation>
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Þrymgjo~ll ho`n heitir,<sep />en hana þri`r go/rþu<br />
-			So`lblinda synir;<br />
-			fjo~turr fastr<sep />verþr viþ faranda hverjan,<br />
-			es hana hefr fra` hliþi.''
+			“Þrymgjǫll hōn heitir,<sep />en hana þrīr gørþu<br />
+			Sōlblinda synir;<br />
+			fjǫturr fastr<sep />verþr viþ faranda hverjan,<br />
+			es hana hefr frā hliþi.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Thrymgjol they call it;<sep />'twas made by the three,<br />
+			“Thrymgjol they call it;<sep />'twas made by the three,<br />
 			The sons of Solblindi;<br />
 			And fast as a fetter<sep />the farer it holds,<br />
-			Whoever shall lift the latch.''
+			Whoever shall lift the latch.”
 		</translation>
 		<comment>
-			<expl>Thrymgjol</expl> (``Loud-Clanging''): this gate, like the gate of the dead, shuts so fast as to trap those who attempt to use it (cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">68</stanzaref> and note).
-			It was made by the dwarfs, sons of <expl>Solblindi</expl> (``Sun-Blinded''), the traditional crafts men, who could not endure the light of day.
+			<expl>Thrymgjol</expl> (“Loud-Clanging”): this gate, like the gate of the dead, shuts so fast as to trap those who attempt to use it (cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">68</stanzaref> and note).
+			It was made by the dwarfs, sons of <expl>Solblindi</expl> (“Sun-Blinded”), the traditional crafts men, who could not endure the light of day.
 		</comment>
 	</block>
 	<block class="stanza" number="27">
@@ -540,43 +540,43 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat sa` garþr heitir,<sep />es meþ goþum so~ut<br />
-			menn et meira foraþ?''
+			hvat sā garþr heitir,<sep />es meþ goþum sǫut<br />
+			menn et meira foraþ?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What call they the house?<sep />for no man beheld<br />
-			'Mongst the gods so grim a sight.''
+			'Mongst the gods so grim a sight.”
 		</translation>
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Gastropnir heitir,<sep />en ek hann go~rvan hefk<br />
-			o`r Leirbrimis limum;<br />
-			sva` hefk studdan,<sep />at hann standa mun<br />
-			a_e` meþan o~ld lifir.''
+			“Gastropnir heitir,<sep />en ek hann gǫrvan hefk<br />
+			ōr Leirbrimis limum;<br />
+			svā hefk studdan,<sep />at hann standa mun<br />
+			ǣ meþan ǫld lifir.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Gastropnir is it,<sep />of old I made it<br />
+			“Gastropnir is it,<sep />of old I made it<br />
 			From the limbs of Leirbrimir;<br />
 			I braced it so strongly<sep />that fast it shall stand<br />
-			So long as the world shall last.''
+			So long as the world shall last.”
 		</translation>
 		<comment>
-			<expl>Gastropnir</expl>: ``Guest-Crusher.''
-			<expl>Leirbrimir's</expl> (``Clay-Giant's'') <expl>limbs</expl>: a poetic circumlocution for ``clay''; cf. the description of the making of earth from the body of the giant Ymir, <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">21</stanzaref>.
+			<expl>Gastropnir</expl>: “Guest-Crusher.”
+			<expl>Leirbrimir's</expl> (“Clay-Giant's”) <expl>limbs</expl>: a poetic circumlocution for “clay”; cf. the description of the making of earth from the body of the giant Ymir, <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">21</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="29">
@@ -584,43 +584,43 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat þat barr heitir,<sep />es breiþask <conj>se`k</conj><br />
-			of lo~nd o~ll limar?''
+			hvat þat barr heitir,<sep />es breiþask <conj>sēk</conj><br />
+			of lǫnd ǫll limar?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What call they the tree<sep />that casts abroad<br />
-			Its limbs o'er every land?''
+			Its limbs o'er every land?”
 		</translation>
 	</block>
 	<block class="stanza" number="30">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Mimameiþr hann heitir,<sep />en þat mangi veit,<br />
-			hvers hann af ro`tum rinnr;<br />
-			viþ þat hann fellr,<sep />es fa_e`stan varir:<br />
-			fellir hann eldr ne` jarn.''
+			“Mimameiþr hann heitir,<sep />en þat mangi veit,<br />
+			hvers hann af rōtum rinnr;<br />
+			viþ þat hann fellr,<sep />es fǣstan varir:<br />
+			fellir hann eldr nē jarn.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Mimameith its name,<sep />and no man knows<br />
+			“Mimameith its name,<sep />and no man knows<br />
 			What root beneath it runs;<br />
 			And few can guess<sep />what shall fell the tree,<br />
-			For fire nor iron shall fell it.''
+			For fire nor iron shall fell it.”
 		</translation>
 		<comment>
-			<expl>Mimameith</expl> (``Mimir's Tree''): the ash Yggdrasil, that overshadows the whole world.
-			The well of Mimir was situated at its base; Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref>--<stanzaref chapter="Voluspo">29</stanzaref>.
+			<expl>Mimameith</expl> (“Mimir's Tree”): the ash Yggdrasil, that overshadows the whole world.
+			The well of Mimir was situated at its base; Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref>–<stanzaref chapter="Voluspo">29</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="31">
@@ -628,42 +628,42 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat af moþi verþr<sep />þess ens ma_e`ra viþar,<br />
-			es hann fellir eldr ne` jarn?''
+			hvat af moþi verþr<sep />þess ens mǣra viþar,<br />
+			es hann fellir eldr nē jarn?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What grows from the seed<sep />of the tree so great,<br />
-			That fire nor iron shall fell?''
+			That fire nor iron shall fell?”
 		</translation>
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``U`t af hans aldni<sep />skal a` eld bera<br />
-			fyr killisju`kar konur:<br />
-			u`tar hverfa þess<sep />þeirs innar skyldu,<br />
-			sa`s hann meþ mo~nnum mjo~tuþr.''
+			“U`t af hans aldni<sep />skal ā eld bera<br />
+			fyr killisjūkar konur:<br />
+			ūtar hverfa þess<sep />þeirs innar skyldu,<br />
+			sās hann meþ mǫnnum mjǫtuþr.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Women, sick<sep />with child, shall seek<br />
+			“Women, sick<sep />with child, shall seek<br />
 			Its fruit to the flames to bear;<br />
 			Then out shall come<sep />what within was hid,<br />
-			And so is it mighty with men.''
+			And so is it mighty with men.”
 		</translation>
 		<comment>
-			Gering suggests that two stanzas have been lost between stanzas <sr>31</sr> and <sr>32</sr>, but the giant's answer fits the question quite well enough.
+			Gering suggests that two stanzas have been lost between stanzas <stanzaref chapter="Svipdagsmol">31</stanzaref> and <stanzaref chapter="Svipdagsmol">32</stanzaref>, but the giant's answer fits the question quite well enough.
 			The fruit of Yggdrasil, when cooked, is here assumed to have the power of assuring safe childbirth.
 		</comment>
 	</block>
@@ -672,42 +672,42 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat sa` hani heitir,<sep />es sitr i` enum ho~`va viþi,<br />
-			allr viþ goll gloi::r?''
+			hvat sā hani heitir,<sep />es sitr ī enum hǭva viþi,<br />
+			allr viþ goll gloïr?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What cock is he<sep />on the highest bough,<br />
-			That glitters all with gold?''
+			That glitters all with gold?”
 		</translation>
 	</block>
 	<block class="stanza" number="34">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Viþofnir heitir,<sep />en hann stendr veþrglasi<br />
-			a` meiþs kvistum Mima:<br />
-			einum ekka<sep />þryngr hann o/ro`fsaman<br />
-			<conj>Surt ok Sinmo~ru</conj>.''
+			“Viþofnir heitir,<sep />en hann stendr veþrglasi<br />
+			ā meiþs kvistum Mima:<br />
+			einum ekka<sep />þryngr hann ørōfsaman<br />
+			<conj>Surt ok Sinmǫru</conj>.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Vithofnir his name,<sep />and now he shines<br />
+			“Vithofnir his name,<sep />and now he shines<br />
 			Like lightning on Mimameith's limbs;<br />
 			And great is the trouble<sep />with which he grieves<br />
-			Both Surt and Sinmora.''
+			Both Surt and Sinmora.”
 		</translation>
 		<comment>
-			<expl>Vithofnir</expl> (``Tree-Snake''): apparently identical with either the cock Gollinkambi (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">43</stanzaref>) or Fjalar (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">42</stanzaref>), the former of which wakes the gods to battle, and the latter the giants.
+			<expl>Vithofnir</expl> (“Tree-Snake”): apparently identical with either the cock Gollinkambi (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">43</stanzaref>) or Fjalar (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">42</stanzaref>), the former of which wakes the gods to battle, and the latter the giants.
 			<expl>Surt</expl>: the giant mentioned in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">52</stanzaref>, as ruler of the fire-world; here used to represent the giants in general, who are constantly in terror of the cock's eternal watchfulness.
 			<expl>Sinmora</expl>: presumably Surt's wife, the giantess who possesses the weapon by which alone the cock Vithofnir may be slain.
 		</comment>
@@ -717,19 +717,19 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat þeir garmar heita,<sep />es go~rþum fyrir<br />
-			<conj>lyndi lymsku</conj> rata?''
+			hvat þeir garmar heita,<sep />es gǫrþum fyrir<br />
+			<conj>lyndi lymsku</conj> rata?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What call they the hounds,<sep />that before the house<br />
-			So fierce and angry are?''
+			So fierce and angry are?”
 		</translation>
 		<comment>
 			The last two lines have been variously emended.
@@ -737,26 +737,26 @@
 	</block>
 	<block class="stanza" number="36">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Gi`fr heitir annarr,<sep />en Geri annarr,<br />
-			ef þu` vill þat vita:<br />
-			<conj>verþir'u o~flgir</conj>,<sep />en þeir varþa,<br />
-			unz rju`fask regin.''
+			“Gīfr heitir annarr,<sep />en Geri annarr,<br />
+			ef þū vill þat vita:<br />
+			<conj>verþir'u ǫflgir</conj>,<sep />en þeir varþa,<br />
+			unz rjūfask regin.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Gif call they one,<sep />and Geri the other,<br />
+			“Gif call they one,<sep />and Geri the other,<br />
 			If now the truth thou wouldst know;<br />
 			Great they are,<sep />and their might will grow,<br />
-			Till the gods to death are doomed.''
+			Till the gods to death are doomed.”
 		</translation>
 		<comment>
-			<expl>Gif</expl> and <expl>Geri</expl>: both names signify ``Greedy.''
-			The first part of line 3 is conjectural; the manuscripts indicate the word ``eleven,'' which clearly fails to make sense.
+			<expl>Gif</expl> and <expl>Geri</expl>: both names signify “Greedy.”
+			The first part of line 3 is conjectural; the manuscripts indicate the word “eleven,” which clearly fails to make sense.
 		</comment>
 	</block>
 	<block class="stanza" number="37">
@@ -764,39 +764,39 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt se` manna nekkvat<sep />þats megi inn koma,<br />
-			meþan so`kndjarfir sofa?''
+			hvārt sē manna nekkvat<sep />þats megi inn koma,<br />
+			meþan sōkndjarfir sofa?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			May no man hope<sep />the house to enter,<br />
-			While the hungry hounds are sleeping?''
+			While the hungry hounds are sleeping?”
 		</translation>
 	</block>
 	<block class="stanza" number="38">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Missvefni mikit<sep />vas þeim mjo~k of lagit,<br />
-			si`þans þeim vas varzla vituþ:<br />
-			annarr of na_e`tr sefr,<sep />en annarr of daga,<br />
-			ok ko/msk þa` va_e`tr, ef kvam.''
+			“Missvefni mikit<sep />vas þeim mjǫk of lagit,<br />
+			sīþans þeim vas varzla vituþ:<br />
+			annarr of nǣtr sefr,<sep />en annarr of daga,<br />
+			ok kømsk þā vǣtr, ef kvam.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Together they sleep not,<sep />for so was it fixed<br />
+			“Together they sleep not,<sep />for so was it fixed<br />
 			When the guard to them was given;<br />
 			One sleeps by night,<sep />the next by day,<br />
-			So no man may enter ever.''
+			So no man may enter ever.”
 		</translation>
 	</block>
 	<block class="stanza" number="39">
@@ -804,39 +804,39 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt se` matar nekkvat<sep />þats þeim menn gefi,<br />
-			ok hlaupi inn, meþan eta?''
+			hvārt sē matar nekkvat<sep />þats þeim menn gefi,<br />
+			ok hlaupi inn, meþan eta?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			Is there no meat<sep />that men may give them,<br />
-			And leap within while they eat?''
+			And leap within while they eat?”
 		</translation>
 	</block>
 	<block class="stanza" number="40">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Va_e`ngbra`þir tva_e`r<sep />liggja i` Viþofnis liþum,<br />
-			ef þu` vill þat vita:<br />
-			þat eitt's sva` matar,<sep />at þeim menn of gefi,<br />
-			ok hlaupi inn, meþan eta.''
+			“Vǣngbrāþir tvǣr<sep />liggja ī Viþofnis liþum,<br />
+			ef þū vill þat vita:<br />
+			þat eitt's svā matar,<sep />at þeim menn of gefi,<br />
+			ok hlaupi inn, meþan eta.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Two wing-joints there be<sep />in Vithofnir's body,<br />
+			“Two wing-joints there be<sep />in Vithofnir's body,<br />
 			If now the truth thou wouldst know;<br />
 			That alone is the meat<sep />that men may give them,<br />
-			And leap within while they eat.''
+			And leap within while they eat.”
 		</translation>
 	</block>
 	<block class="stanza" number="41">
@@ -844,47 +844,47 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg met þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg met þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt se` va`pna nekkvat,<sep />þats knegi Viþofnir fyrir<br />
-			hni`ga a` Heljar sjo~t?''
+			hvārt sē vāpna nekkvat,<sep />þats knegi Viþofnir fyrir<br />
+			hnīga ā Heljar sjǫt?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What weapon can send<sep />Vithofnir to seek<br />
-			The house of Hel below?''
+			The house of Hel below?”
 		</translation>
 	</block>
 	<block class="stanza" number="42">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``La_e`vateinn heitir,<sep />es go/rþi Loptr ru`num<br />
-			fyr na`grindr neþan;<br />
-			i` La_e`gjarns keri<sep />liggr hja` Sinmo~ru,<br />
-			ok halda njarþla`sar niu.''
+			“Lǣvateinn heitir,<sep />es gørþi Loptr rūnum<br />
+			fyr nāgrindr neþan;<br />
+			ī Lǣgjarns keri<sep />liggr hjā Sinmǫru,<br />
+			ok halda njarþlāsar niu.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Lævatein is there,<sep />that Lopt with runes<br />
+			“Lævatein is there,<sep />that Lopt with runes<br />
 			Once made by the doors of death;<br />
 			In Lægjarn's chest<sep />by Sinmora lies it,<br />
-			And nine locks fasten it firm.''
+			And nine locks fasten it firm.”
 		</translation>
 		<comment>
-			<expl>Lævetein</expl> (``Wounding Wand''): the manuscripts differ as to the form of this name.
+			<expl>Lævetein</expl> (“Wounding Wand”): the manuscripts differ as to the form of this name.
 			The suggestion that the reference is to the mistletoe with which Baldr was killed seems hardly reason able.
 			<expl>Lopt</expl>: Loki.
-			<expl>Lægjarn</expl> (``Lover of Ill''): Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref>, where the term appears as an adjective applied to Loki.
-			This is Falk's emendation for the manuscripts' ``Sægjarn,'' meaning ``Sea Lover.''
-			<expl>Sinmora</expl>: cf. stanza <sr>34</sr>.
+			<expl>Lægjarn</expl> (“Lover of Ill”): Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref>, where the term appears as an adjective applied to Loki.
+			This is Falk's emendation for the manuscripts' “Sægjarn,” meaning “Sea Lover.”
+			<expl>Sinmora</expl>: cf. stanza <stanzaref chapter="Svipdagsmol">34</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="43">
@@ -892,42 +892,42 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt aptr ko/mr<sep />sa`s eptir ferr<br />
-			ok vill þann tein taka?''
+			hvārt aptr kømr<sep />sās eptir ferr<br />
+			ok vill þann tein taka?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			May a man come thence,<sep />who thither goes,<br />
-			And tries the sword to take?''
+			And tries the sword to take?”
 		</translation>
 	</block>
 	<block class="stanza" number="44">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Aptr mun koma<sep />sa`s eptir ferr<br />
+			“Aptr mun koma<sep />sās eptir ferr<br />
 			ok vill þann tein taka,<br />
-			ef þat fo/`rir,<sep />sem fai::r eigu,<br />
-			eiri aurglasis.''
+			ef þat fø̄rir,<sep />sem faïr eigu,<br />
+			eiri aurglasis.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Thence may he come<sep />who thither goes,<br />
+			“Thence may he come<sep />who thither goes,<br />
 			And tries the sword to take,<br />
 			If with him he carries<sep />what few can win,<br />
-			To give to the goddess of gold.''
+			To give to the goddess of gold.”
 		</translation>
 		<comment>
-			<expl>Goddess of gold</expl>: poetic circumlocution for ``woman,'' here meaning Sinmora.
+			<expl>Goddess of gold</expl>: poetic circumlocution for “woman,” here meaning Sinmora.
 		</comment>
 	</block>
 	<block class="stanza" number="45">
@@ -935,39 +935,39 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt se` ma_e`ta nekkvat,<sep />þats menn hafi,<br />
-			ok verþr þvi` en fo~lva gy`gr fegin?''
+			hvārt sē mǣta nekkvat,<sep />þats menn hafi,<br />
+			ok verþr þvī en fǫlva gȳgr fegin?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What treasure is there<sep />that men may take<br />
-			To rejoice the giantess pale?''
+			To rejoice the giantess pale?”
 		</translation>
 	</block>
 	<block class="stanza" number="46">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Ljo`san lea<sep />skaltu i` lu`þr bera<br />
-			þanns liggr i` Viþofnis vo~lum,<br />
-			Sinmo~ru at selja,<sep />a`þr ho`n so~m telisk<br />
-			va`pn til vi`gs at lea.''
+			“Ljōsan lea<sep />skaltu ī lūþr bera<br />
+			þanns liggr ī Viþofnis vǫlum,<br />
+			Sinmǫru at selja,<sep />āþr hōn sǫm telisk<br />
+			vāpn til vīgs at lea.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``The sickle bright<sep />in thy wallet bear,<br />
+			“The sickle bright<sep />in thy wallet bear,<br />
 			Mid Vithofnir's feathers found;<br />
 			To Sinmora give it,<sep />and then shall she grant<br />
-			That the weapon by thee be won.''
+			That the weapon by thee be won.”
 		</translation>
 		<comment>
 			<expl>Sickle</expl>: i.e., tail feather.
@@ -980,42 +980,42 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat sa` salr heitir,<sep />es slunginn es<br />
-			vi`sum vafrloga?''
+			hvat sā salr heitir,<sep />es slunginn es<br />
+			vīsum vafrloga?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What call they the hall,<sep />encompassed here<br />
-			With flickering magic flames?''
+			With flickering magic flames?”
 		</translation>
 	</block>
 	<block class="stanza" number="48">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Ly`r hann heitir,<sep />en hann lengi mun<br />
-			a` brodds oddi bifask;<br />
+			“Lȳr hann heitir,<sep />en hann lengi mun<br />
+			ā brodds oddi bifask;<br />
 			auþranns þess<sep />munu of aldr hafa<br />
-			fre`tt eina firar.''
+			frētt eina firar.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Lyr is it called,<sep />and long it shall<br />
+			“Lyr is it called,<sep />and long it shall<br />
 			On the tip of a spear-point tremble;<br />
 			Of the noble house<sep />mankind has heard,<br />
-			But more has it never known.''
+			But more has it never known.”
 		</translation>
 		<comment>
-			<expl>Lyr</expl> (``Heat-Holding''): just what the spear-point reference means is not altogether clear.
+			<expl>Lyr</expl> (“Heat-Holding”): just what the spear-point reference means is not altogether clear.
 			Presumably it refers to the way in which the glowing brightness of the lofty hall makes it seem to quiver and turn in the air, but the tradition, never baffled by physical laws, may have actually balanced the whole building on a single point to add to the difficulties of entrance.
 		</comment>
 	</block>
@@ -1024,43 +1024,43 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hverr þat go/rþi,<sep />es fyr garþ sa`k<br />
-			innan a`smaga?''
+			hverr þat gørþi,<sep />es fyr garþ sāk<br />
+			innan āsmaga?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What one of the gods<sep />has made so great<br />
-			The hall I behold within?''
+			The hall I behold within?”
 		</translation>
 	</block>
 	<block class="stanza" number="50">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Uni ok Iri,<sep />Bari ok Jari,<br />
+			“Uni ok Iri,<sep />Bari ok Jari,<br />
 			Varr ok Vegdrasill,<br />
-			Do`ri ok O`ri,<sep />Dellingr, at vas þar<br />
-			liþskjalfr Loki.''
+			Dōri ok Ōri,<sep />Dellingr, at vas þar<br />
+			liþskjalfr Loki.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Uni and Iri,<sep />Bari and Jari,<br />
+			“Uni and Iri,<sep />Bari and Jari,<br />
 			Var and Vegdrasil,<br />
 			Dori and Ori,<sep />Delling, and there<br />
-			Was Loki, the fear of the folk.''
+			Was Loki, the fear of the folk.”
 		</translation>
 		<comment>
 			<expl>Loki</expl>, the one god named, was the builder of the hall, with the aid of the nine dwarfs.
-			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <sr>13</sr> and <sr>15</sr>); Delling appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to some one else.
+			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <stanzaref chapter="Svipdagsmol">13</stanzaref> and <stanzaref chapter="Svipdagsmol">15</stanzaref>); Delling appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to some one else.
 			The other dwarfs' names do not appear elsewhere.
 			The manuscripts differ as to the forms of many of these names.
 		</comment>
@@ -1070,45 +1070,45 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvat þat bjarg heitir,<sep />es ek se` bru`þi a`<br />
-			þjo`þma_e`ra þruma?''
+			hvat þat bjarg heitir,<sep />es ek sē brūþi ā<br />
+			þjōþmǣra þruma?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What call they the mountain<sep />on which the maid<br />
-			Is lying so lovely to see?''
+			Is lying so lovely to see?”
 		</translation>
 	</block>
 	<block class="stanza" number="52">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
 			Lyfjaberg heitir,<sep />en þat hefr lengi verit<br />
-			sju`kum ok so~`rum gaman:<br />
-			heil verþr hver,<sep />þo`t hafi <dagger /> a`rs so`tt,<br />
-			ef þat kli`fr, kona.''
+			sjūkum ok sǭrum gaman:<br />
+			heil verþr hver,<sep />þōt hafi <dagger /> ārs sōtt,<br />
+			ef þat klīfr, kona.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Lyfjaberg is it,<sep />and long shall it be<br />
+			“Lyfjaberg is it,<sep />and long shall it be<br />
 			A joy to the sick and the sore;<br />
 			For well shall grow<sep />each woman who climbs it,<br />
-			Though sick full long she has lain.''
+			Though sick full long she has lain.”
 		</translation>
 		<comment>
-			<expl>Lyfjaberg</expl> (``Hill of Healing''): the manuscripts vary as to this name; I have followed Bugge's suggestion.
-			This stanza implies that Mengloth is a goddess of healing, and hence, perhaps, an hypostasis of Frigg, as already intimated by her name (cf. stanza <sr>3</sr>, note).
-			In stanza <sr>54</sr> Eir appears as one of Mengloth's handmaidens, and Eir, according to Snorri (<src>Gylfaginning</src>, 35) is herself the Norse Hygeia.
-			Compare this stanza with stanza <sr>32</sr>.
+			<expl>Lyfjaberg</expl> (“Hill of Healing”): the manuscripts vary as to this name; I have followed Bugge's suggestion.
+			This stanza implies that Mengloth is a goddess of healing, and hence, perhaps, an hypostasis of Frigg, as already intimated by her name (cf. stanza <stanzaref chapter="Svipdagsmol">3</stanzaref>, note).
+			In stanza <stanzaref chapter="Svipdagsmol">54</stanzaref> Eir appears as one of Mengloth's handmaidens, and Eir, according to Snorri (<source>Gylfaginning</source>, 35) is herself the Norse Hygeia.
+			Compare this stanza with stanza <stanzaref chapter="Svipdagsmol">32</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="53">
@@ -1116,39 +1116,39 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<ebr />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<ebr />
 			auk ek vilja vita:<br />
-			hvat þa_e`r meyjar heita,<sep />es fyr Menglaþar kne::um<br />
-			sitja sa`ttar saman?''
+			hvat þǣr meyjar heita,<sep />es fyr Menglaþar knëum<br />
+			sitja sāttar saman?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			What maidens are they<sep />that at Mengloth's knees<br />
-			Are sitting so gladly together?''
+			Are sitting so gladly together?”
 		</translation>
 	</block>
 	<block class="stanza" number="54">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hli`f heitir ein,<sep />o~nnur Hli`fþrasa,<br />
-			þriþja Þjo`þvara,<br />
-			Bjo~rt ok Bleik,<sep />Bli`þ ok Fri`þ,<br />
-			Eir ok Aurboþa.''
+			“Hlīf heitir ein,<sep />ǫnnur Hlīfþrasa,<br />
+			þriþja Þjōþvara,<br />
+			Bjǫrt ok Bleik,<sep />Blīþ ok Frīþ,<br />
+			Eir ok Aurboþa.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Hlif is one named,<sep />Hlifthrasa another,<br />
+			“Hlif is one named,<sep />Hlifthrasa another,<br />
 			Thjothvara call they the third;<br />
 			Bjort and Bleik,<sep />Blith and Frith,<br />
-			Eir and Aurbotha.''
+			Eir and Aurbotha.”
 		</translation>
 		<comment>
 			The manuscripts and editions show many variations in these names.
@@ -1160,42 +1160,42 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt þa_e`r bjarga<sep />þeims blo`ta þa_e`r,<br />
-			ef go/rvask þarfar þess?''
+			hvārt þǣr bjarga<sep />þeims blōta þǣr,<br />
+			ef gørvask þarfar þess?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			Aid bring they to all<sep />who offerings give,<br />
-			If need be found therefor?''
+			If need be found therefor?”
 		</translation>
 		<comment>
-			One of the manuscripts omits stanzas <sr>55</sr> and <sr>56</sr>.
+			One of the manuscripts omits stanzas <stanzaref chapter="Svipdagsmol">55</stanzaref> and <stanzaref chapter="Svipdagsmol">56</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="56">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``<conj>Bjarga svinnar</conj>,<sep />hvars menn blo`ta þa_e`r<br />
-			a` stallhelgum staþ:<br />
-			ey sva` ho~`tt foraþ<sep />ko/mr at ho~lþa sunum,<br />
-			hverjan o`r nauþum nema.''
+			“<conj>Bjarga svinnar</conj>,<sep />hvars menn blōta þǣr<br />
+			ā stallhelgum staþ:<br />
+			ey svā hǭtt foraþ<sep />kømr at hǫlþa sunum,<br />
+			hverjan ōr nauþum nema.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Soon aid they all<sep />who offerings give<br />
+			“Soon aid they all<sep />who offerings give<br />
 			On the holy altars high;<br />
 			And if danger they see<sep />for the sons of men,<br />
-			Then each from ill do they guard.''
+			Then each from ill do they guard.”
 		</translation>
 		<comment>
 			The first line is based on a conjectural emendation.
@@ -1206,39 +1206,39 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			“Seg mer þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hva`rt se` manna nekkvat,<sep />þats knegi a` Menglaþar<br />
-			svo~`sum armi sofa?''
+			hvārt sē manna nekkvat,<sep />þats knegi ā Menglaþar<br />
+			svǭsum armi sofa?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Now answer me, Fjolsvith,<sep />the question I ask,<br />
+			“Now answer me, Fjolsvith,<sep />the question I ask,<br />
 			For now the truth would I know:<br />
 			Lives there the man<sep />who in Mengloth's arms<br />
-			So fair may seek to sleep?''
+			So fair may seek to sleep?”
 		</translation>
 	</block>
 	<block class="stanza" number="58">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Va_e`tr's þat manna,<sep />es knegi a` Menglaþar<br />
-			svo~`sum armi sofa,<br />
-			nema Svipdagr einn,<sep />ho~`num vas en so`lbjarta<br />
-			bru`þr at kvo~`n of kveþin.''
+			“Vǣtr's þat manna,<sep />es knegi ā Menglaþar<br />
+			svǭsum armi sofa,<br />
+			nema Svipdagr einn,<sep />hǭnum vas en sōlbjarta<br />
+			brūþr at kvǭn of kveþin.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``No man there is<sep />who in Mengloth's arms<br />
+			“No man there is<sep />who in Mengloth's arms<br />
 			So fair may seek to sleep,<br />
 			Save Svipdag alone,<sep />for the sun-bright maid<br />
-			Is destined his bride to be.''
+			Is destined his bride to be.”
 		</translation>
 	</block>
 	<block class="stanza" number="59">
@@ -1246,56 +1246,56 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Hritt a` hurþir,<sep />la`ttu hliþ ru`m!<br />
-			he`r ma`tt Svipdag sea;<br />
-			þo` vita far,<sep />ef vilja muni<br />
-			Menglo~þ mitt gaman.''
+			“Hritt ā hurþir,<sep />lāttu hliþ rūm!<br />
+			hēr mātt Svipdag sea;<br />
+			þō vita far,<sep />ef vilja muni<br />
+			Menglǫþ mitt gaman.”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Fling back the gates!<sep />make the gateway wide!<br />
+			“Fling back the gates!<sep />make the gateway wide!<br />
 			Here mayst thou Svipdag see!<br />
 			Hence get thee to find<sep />if gladness soon<br />
-			Mengloth to me will give.''
+			Mengloth to me will give.”
 		</translation>
 	</block>
 	<block class="stanza" number="60">
 		<original_prelude>
-			Fjo~lsviþr kvaþ:
+			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			``Heyrþu, Menglo~þ!<sep />he`r es maþr kominn,<br />
-			gakk a` gest sea!<br />
-			hundar fagna,<sep />hu`s hefr upp lokizk:<br />
-			hykk at Svipdagr sei::.''
+			“Heyrþu, Menglǫþ!<sep />hēr es maþr kominn,<br />
+			gakk ā gest sea!<br />
+			hundar fagna,<sep />hūs hefr upp lokizk:<br />
+			hykk at Svipdagr seï.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
 		</translation_prelude>
 		<translation>
-			``Hearken, Mengloth,<sep />a man is come;<br />
+			“Hearken, Mengloth,<sep />a man is come;<br />
 			Go thou the guest to see!<br />
-			The hounds are fawning,<sep />the house bursts open,---<br />
-			Svipdag, methinks, is there.''
+			The hounds are fawning,<sep />the house bursts open,—<br />
+			Svipdag, methinks, is there.”
 		</translation>
 	</block>
 	<block class="stanza" number="61">
 		<original_prelude>
-			Menglo~þ kvaþ:
+			Menglǫþ kvaþ:
 		</original_prelude>
 		<original>
-			``Horskir hrafnar<sep />skulu þer a` ho~`m galga<br />
-			sli`ta sjo`nir o`r,<br />
-			ef þat ly`gr,<sep />at he`r se` langt kominn<br />
-			mo~gr til minna sala.
+			“Horskir hrafnar<sep />skulu þer ā hǭm galga<br />
+			slīta sjōnir ōr,<br />
+			ef þat lȳgr,<sep />at hēr sē langt kominn<br />
+			mǫgr til minna sala.
 		</original>
 		<translation_prelude>
 			Mengloth spake:
 		</translation_prelude>
 		<translation>
-			``On the gallows high<sep />shall hungry ravens<br />
+			“On the gallows high<sep />shall hungry ravens<br />
 			Soon thine eyes pluck out,<br />
 			If thou liest in saying<sep />that here at last<br />
 			The hero is come to my hall.
@@ -1303,16 +1303,16 @@
 	</block>
 	<block class="stanza" number="62">
 		<original>
-			Hvaþan þu` fo`rt,<sep />hvaþan þu` fo~r go/rþir,<br />
-			hve` þik he`tu hiu?<br />
-			at a_e`tt ok nafni<sep />skalk jartegn vita,<br />
-			ef ek vas þer at kvo~`n of kveþin.''
+			Hvaþan þū fōrt,<sep />hvaþan þū fǫr gørþir,<br />
+			hvē þik hētu hiu?<br />
+			at ǣtt ok nafni<sep />skalk jartegn vita,<br />
+			ef ek vas þer at kvǭn of kveþin.”
 		</original>
 		<translation>
 			Whence camest thou hither?<sep />how camest thou here?<br />
 			What name do thy kinsmen call thee?<br />
 			Thy race and thy name<sep />as a sign must I know,<br />
-			That thy bride I am destined to be.''
+			That thy bride I am destined to be.”
 		</translation>
 	</block>
 	<block class="stanza" number="63">
@@ -1320,40 +1320,40 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			``Svipdagr heitik,<sep />So`lbjartr he`t faþir,<br />
-			þaþan vro~`kumk vindkalda vegu;<br />
+			“Svipdagr heitik,<sep />Sōlbjartr hēt faþir,<br />
+			þaþan vrǭkumk vindkalda vegu;<br />
 			Urþar orþi<sep />viþr engi maþr,<br />
-			þo`t se` viþ lo~st lagit.''
+			þōt sē viþ lǫst lagit.”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
 		</translation_prelude>
 		<translation>
-			``Svipdag am I,<sep />and Solbjart's son;<br />
+			“Svipdag am I,<sep />and Solbjart's son;<br />
 			Thence came I by wind-cold ways;<br />
 			With the words of Urth<sep />shall no man war,<br />
-			Though unearned her gifts be given.''
+			Though unearned her gifts be given.”
 		</translation>
 		<comment>
-			<expl>Solbjart</expl> (``Sun-Bright''): not elsewhere mentioned.
-			<expl>The words of Urth</expl>: i.e., the decrees of fate; cf. stanza <sr>7</sr>.
+			<expl>Solbjart</expl> (“Sun-Bright”): not elsewhere mentioned.
+			<expl>The words of Urth</expl>: i.e., the decrees of fate; cf. stanza <stanzaref chapter="Svipdagsmol">7</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="64">
 		<original_prelude>
-			Menglo~þ kvaþ:
+			Menglǫþ kvaþ:
 		</original_prelude>
 		<original>
-			``Vel þu` nu` kominn!<sep />hefk minn vilja beþit,<br />
+			“Vel þū nū kominn!<sep />hefk minn vilja beþit,<br />
 			fylgja skal kveþju koss;<br />
-			forkunnar sy`n<sep />mun flestan glaþa,<br />
-			hverrs hefr viþ annan o~`st.
+			forkunnar sȳn<sep />mun flestan glaþa,<br />
+			hverrs hefr viþ annan ǭst.
 		</original>
 		<translation_prelude>
 			Mengloth spake:
 		</translation_prelude>
 		<translation>
-			``Welcome thou art,<sep />for long have I waited;<br />
+			“Welcome thou art,<sep />for long have I waited;<br />
 			The welcoming kiss shalt thou win!<br />
 			For two who love<sep />is the longed-for meeting<br />
 			The greatest gladness of all.
@@ -1361,10 +1361,10 @@
 	</block>
 	<block class="stanza" number="65">
 		<original>
-			Lengi satk<sep />Lyfjabergi a`,<br />
-			beiþk þi`n do/`gr ok daga:<br />
-			nu` þat varþ<sep />es ek va_e`tt hefi,<br />
-			at kvamt, mo~gr! til minna sala.
+			Lengi satk<sep />Lyfjabergi ā,<br />
+			beiþk þīn dø̄gr ok daga:<br />
+			nū þat varþ<sep />es ek vǣtt hefi,<br />
+			at kvamt, mǫgr! til minna sala.
 		</original>
 		<translation>
 			Long have I sat<sep />on Lyfjaberg here,<br />
@@ -1373,21 +1373,21 @@
 			For here thou art come to my hall.
 		</translation>
 		<comment>
-			<expl>Lyfjaberg</expl>: cf. stanza <sr>52</sr> and note.
+			<expl>Lyfjaberg</expl>: cf. stanza <stanzaref chapter="Svipdagsmol">52</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="66">
 		<original>
-			Þra`r hafþar<sep />es ek hef til þi`ns gamans,<br />
-			en þu` til mi`ns munar;<br />
-			nu`'s þat satt,<sep />es vit sli`ta skulum<br />
-			a_e`vi ok aldri saman.''
+			Þrār hafþar<sep />es ek hef til þīns gamans,<br />
+			en þū til mīns munar;<br />
+			nū's þat satt,<sep />es vit slīta skulum<br />
+			ǣvi ok aldri saman.”
 		</original>
 		<translation>
 			Alike we yearned;<sep />I longed for thee,<br />
 			And thou for my love hast longed;<br />
 			But now henceforth<sep />together we know<br />
-			Our lives to the end we shall live.''
+			Our lives to the end we shall live.”
 		</translation>
 	</block>
 </chapter>
