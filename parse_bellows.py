@@ -88,7 +88,7 @@ def processComment(t):
 		u'Helgakvitha Hundingsbana II', u'Fra Dautha Sinfjotla',
 		u'Gripisspo', u'Reginsmol', u'Fafnismol', u'Sigrdrifumol',
 		u'Brot af Sigurtharkvithu', u'Guthrunarkvitha I',
-		u'Sigurtharkvitha en Skamma', u'Helreith Brynhildar',
+		u'Sigurtharkvitha en skamma', u'Helreith Brynhildar',
 		u'Drap Niflunga', u'Guthrunarkvitha II', u'Guthrunarkvitha III',
 		u'Oddrunargratr', u'Atlakvitha en Grönlenzka', u'Atlamol en Grönlenzku',
 		u'Guthrunarhvot', u'Hamthesmol']
