@@ -31,9 +31,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Vaki þu`, Groa!<sep />vaki þu`, go`þ kona!<br />
+			vekk þik dauþra dura:<br />
+			ef þat mant,<sep />at þinn mo~g ba_e`þir<br />
+			til kumbldysjar koma.''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -53,9 +54,10 @@
 			Gro`a kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvat's nu` ant<sep />mi`num einga syni,<br />
+			hverju 'st bo~lvi borinn:<br />
+			es þu` mo`þur kallar<sep />þa`s til moldar es komin<br />
+			ok o`r ljo`þheimum liþin?''
 		</original>
 		<translation_prelude>
 			Groa spake:
@@ -72,9 +74,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ljo`tu leikborþi<sep />skaut fyr mik en la_e`vi`sa kona<br />
+			su`s faþmaþi minn fo~þur:<br />
+			þar baþ mik koma,<sep />es kva_e`mtki veit,<br />
+			mo`ti Menglo~þu.''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -95,9 +98,10 @@
 			Gro`a kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Lo~ng es fo~r,<sep />langir'u farvegar,<br />
+			langir'u manna munir;<br />
+			ef þat verþr,<sep />at þu þinn vilja bi`þr,<br />
+			ok skeikar þo` Skuldar at sko~pum.''
 		</original>
 		<translation_prelude>
 			Groa spake:
@@ -114,9 +118,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Galdra mer gal<sep />þa`s go`þir'u`,<br />
+			bjarg þu`, mo`þir! megi:<br />
+			a` vegum allr<sep />hykk at ek verþa muna,<br />
+			þykkjumk til ungr afi.''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -133,9 +138,10 @@
 			Gro`a kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þann gelk þe`r fyrstan,<sep />þann kveþa fjo~lny`tan,<br />
+			þann go`l Rindr Rani:<br />
+			at of o~xl skjo`tir<sep />þvi`s þe`r atalt þykkir;<br />
+			sjalfr leiþ sjalfan þik!
 		</original>
 		<translation_prelude>
 			Groa spake:
@@ -155,9 +161,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þe`r annan,<sep />ef þu` a`rna skalt<br />
+			viljalauss a` vegum:<br />
+			Urþar lokur<sep />haldi þe`r o~llum megum,<br />
+			<conj>þa`s</conj> þu a` <conj>sinnum</conj> se`r!
 		</original>
 		<translation>
 			Then next I will chant thee,<sep />if needs thou must travel,<br />
@@ -171,9 +178,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þer enn þriþja,<sep />ef þe`r þjo`þaar<br />
+			falla at fjo~rlokum:<br />
+			til heljar heþan<sep />snuisk Horn ok Ruþr,<br />
+			en þverri a_e` fyr þe`r.
 		</original>
 		<translation>
 			Then third I will chant thee,<sep />if threatening streams<br />
@@ -187,9 +195,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þer enn fjo`rþa,<sep />ef þik fiandr standa<br />
+			go~rvir a` galgvegi:<br />
+			hugr þeim hverfi<sep />til handa þe`r<br />
+			ok snuisk tl sa`tta sefi.
 		</original>
 		<translation>
 			Then fourth I will chant thee,<sep />if come thy foes<br />
@@ -200,10 +209,11 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
+			Þann gelk þer enn fimta,<sep />ef þe`r fjo~turr verþr<br />
+			borinn at boglimum:<br />
+			leysigaldr<sep />la_e`tk þer fyr legg of kveþinn,<br />
+			ok sto/kkr þa` la`ss af limum,<br />
+			[en af fo`tum fjo~turr.]
 		</original>
 		<translation>
 			Then fifth I will chant thee,<sep />if fetters perchance<br />
@@ -218,9 +228,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þer enn se`tta,<sep />ef a` sjo` ko/mr<br />
+			meira an menn viti:<br />
+			lopt ok lo~gr<sep />gangi þer i` lu`þr saman<br />
+			ok le` þer a_e` friþdrju`grar farar.
 		</original>
 		<translation>
 			Then sixth I will chant thee,<sep />if storms on the sea<br />
@@ -231,9 +242,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þer enn sjaunda,<sep />ef þik so/`kja ko/mr<br />
+			frost a` fjalli ho~`:<br />
+			hra_e`vakulþi<sep />megit þi`nu holdi fara,<br />
+			ok haldi þe`r li`k at liþum.
 		</original>
 		<translation>
 			Then seventh I chant thee,<sep />if frost shall seek<br />
@@ -244,9 +256,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þer enn a`tta,<sep />ef þik u`ti nemr<br />
+			no~`tt a` niflvegi:<br />
+			at þvi` <conj>miþr</conj> megi<sep />þe`r til meins go/rva<br />
+			kristin dauþ kona.
 		</original>
 		<translation>
 			Then eighth will I chant thee,<sep />if ever by night<br />
@@ -262,9 +275,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þann gelk þer enn niunda,<sep />ef viþ enn naddgo~fga<br />
+			orþum skiptir jo~tun:<br />
+			ma`ls ok mannvits<sep />se` þer a` <conj>munn ok</conj> hjarta<br />
+			gno`ga of gefit.
 		</original>
 		<translation>
 			Then ninth will I chant thee,<sep />if needs thou must strive<br />
@@ -275,9 +289,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			<conj>Fo~r þi`n</conj> nu a_e`va<sep />þe`r foraþ <conj>þykki</conj><br />
+			ok standit þer mein fyr munum!<br />
+			a` jarþfo~stum steini<sep />sto`þk innan dura,<br />
+			meþan þe`r galdra go`lk.
 		</original>
 		<translation>
 			Now fare on the way<sep />where danger waits,<br />
@@ -288,9 +303,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Mo`þur orþ<sep />berþu, mo~gr! heþan<br />
+			ok la`t þer i` brjo`sti bua!<br />
+			iþgno`ga heill<sep />skalt of aldr hafa,<br />
+			meþan mi`n orþ of mant.''
 		</original>
 		<translation>
 			Bear hence, my son,<sep />what thy mother hath said,<br />
@@ -306,7 +322,7 @@
 	</block>
 	<block class="header">
 		<original>
-
+			Fjo`lsvinnsmo~`l
 		</original>
 		<translation>
 			Fjolminnsmol (The lay of Fjolsvith)
@@ -314,10 +330,11 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<br />
+			U`tan garþa<sep />sa` hann upp of koma<br />
+			þursa þjo`þar sjo~t.<br />
 			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
-			<sep /><br />
+			``Hvat's þat flagþa,<sep />es stendr fyr forgo~rþum<br />
+			ok hvarflar umb ha_e`ttan loga?''
 		</original>
 		<translation>
 			Before the house<sep />he beheld one coming<br />
@@ -329,7 +346,7 @@
 		<comment>
 			Most editors have here begun a new series of stanza numbers, but if the <src>Grougaldr</src> and the <src>Fjolsvinnsmol</src> are to be considered as a single poem, it seems more reasonable to continue the stanza numbers consecutively.
 			Bugge thinks a stanza has been lost before <sr>17</sr>, including Fjolsvith's name, so that the ``he'' in line 1 might have something to refer to.
-			However, just such a prose link as I have suggested in the note on stanza 16 would serve the purpose.
+			However, just such a prose link as I have suggested in the note on stanza <sr>16</sr> would serve the purpose.
 			Editors have suggested various rearrange merits in the lines of stanzas <sr>17</sr>--<sr>19</sr>.
 			The substance, however, is clear enough.
 			The giant <expl>Fjolsvith</expl> (``Much-Wise''), the warder of the house in which Mengloth dwells, sees Svipdag coming and stops him with the customary threats.
@@ -341,9 +358,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvers þu` leitar<sep />eþa hvers a` leitum est,<br />
+			eþa hvat vilt, vinlauss! vita?<br />
+			u`rgar brautir<sep />a`rnaþu aptr heþan!<br />
+			a`tat he`r, verndarvanr! veru.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -360,10 +378,11 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
+			``Hvat's þat flagþa,<sep />es stendr fyr forgarþi<br />
+			ok by`þrat li`þo~ndum lo~þ?''<br />
 			<stanzaprelude>Fjo~lsviþr kvaþ:</stanzaprelude><br />
-			<sep /><br />
+			``So/mþarorþa lauss<sep />hefr þu`, seggr! of lifat,<br />
+			ok haltu heim heþan!
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -378,9 +397,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Fjo~lsviþr ek heiti,<sep />en ek a` fro`þan sefa,<br />
+			þeygi emk mi`ns mildr matar:<br />
+			innan garþa<sep />þu` ko/mr aldrigi,<br />
+			ok dri`f þu nu` vargr at vegi!''
 		</original>
 		<translation>
 			Fjolsvith am I,<sep />and wise am I found,<br />
@@ -394,9 +414,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Augna gamans<sep />fy`sir aptr <conj>flestan</conj>,<br />
+			hvars getr sva`st at sea:<br />
+			garþar gloa<sep />þykkjumk of gollna sali,<br />
+			he`r mundak o/þli una.''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -413,10 +434,11 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
+			``Seg me`r, hverjum<sep />estu, sveinn! of borinn<br />
+			eþa hverra'st manna mo~gr?''<br />
 			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
-			<sep /><br />
+			``Vindkaldr heitik,<sep />Va`rkaldr he`t minn faþir,<br />
+			þess vas Fjo~lkaldr faþir.
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -434,9 +456,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hverr he`r ra_e`þr<sep />---ok ri`ki hefr---<br />
+			eign ok auþso~lum?''
 		</original>
 		<translation>
 			Now answer me, Fjolsvith,<sep />the question I ask,<br />
@@ -450,9 +473,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Menglo~þ of heitir,<sep />en hana mo`þir of gat<br />
+			viþ Svafrþorins syni:<br />
+			ho`n he`r ra_e`þr<sep />---ok ri`ki hefr---<br />
+			eign ok auþso~lum.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -472,9 +496,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat su` grind heitir,<sep />es meþ goþum so~ut<br />
+			menn et meira foraþ?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -491,9 +516,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þrymgjo~ll ho`n heitir,<sep />en hana þri`r go/rþu<br />
+			So`lblinda synir;<br />
+			fjo~turr fastr<sep />verþr viþ faranda hverjan,<br />
+			es hana hefr fra` hliþi.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -514,9 +540,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat sa` garþr heitir,<sep />es meþ goþum so~ut<br />
+			menn et meira foraþ?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -533,9 +560,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Gastropnir heitir,<sep />en ek hann go~rvan hefk<br />
+			o`r Leirbrimis limum;<br />
+			sva` hefk studdan,<sep />at hann standa mun<br />
+			a_e` meþan o~ld lifir.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -556,9 +584,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat þat barr heitir,<sep />es breiþask <conj>se`k</conj><br />
+			of lo~nd o~ll limar?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -575,9 +604,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Mimameiþr hann heitir,<sep />en þat mangi veit,<br />
+			hvers hann af ro`tum rinnr;<br />
+			viþ þat hann fellr,<sep />es fa_e`stan varir:<br />
+			fellir hann eldr ne` jarn.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -598,9 +628,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat af moþi verþr<sep />þess ens ma_e`ra viþar,<br />
+			es hann fellir eldr ne` jarn?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -617,9 +648,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``U`t af hans aldni<sep />skal a` eld bera<br />
+			fyr killisju`kar konur:<br />
+			u`tar hverfa þess<sep />þeirs innar skyldu,<br />
+			sa`s hann meþ mo~nnum mjo~tuþr.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -640,9 +672,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat sa` hani heitir,<sep />es sitr i` enum ho~`va viþi,<br />
+			allr viþ goll gloi::r?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -659,9 +692,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Viþofnir heitir,<sep />en hann stendr veþrglasi<br />
+			a` meiþs kvistum Mima:<br />
+			einum ekka<sep />þryngr hann o/ro`fsaman<br />
+			<conj>Surt ok Sinmo~ru</conj>.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -683,9 +717,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat þeir garmar heita,<sep />es go~rþum fyrir<br />
+			<conj>lyndi lymsku</conj> rata?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -705,9 +740,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Gi`fr heitir annarr,<sep />en Geri annarr,<br />
+			ef þu` vill þat vita:<br />
+			<conj>verþir'u o~flgir</conj>,<sep />en þeir varþa,<br />
+			unz rju`fask regin.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -728,9 +764,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt se` manna nekkvat<sep />þats megi inn koma,<br />
+			meþan so`kndjarfir sofa?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -747,9 +784,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Missvefni mikit<sep />vas þeim mjo~k of lagit,<br />
+			si`þans þeim vas varzla vituþ:<br />
+			annarr of na_e`tr sefr,<sep />en annarr of daga,<br />
+			ok ko/msk þa` va_e`tr, ef kvam.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -766,9 +804,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg me`r þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt se` matar nekkvat<sep />þats þeim menn gefi,<br />
+			ok hlaupi inn, meþan eta?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -785,9 +824,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Va_e`ngbra`þir tva_e`r<sep />liggja i` Viþofnis liþum,<br />
+			ef þu` vill þat vita:<br />
+			þat eitt's sva` matar,<sep />at þeim menn of gefi,<br />
+			ok hlaupi inn, meþan eta.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -804,9 +844,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg met þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt se` va`pna nekkvat,<sep />þats knegi Viþofnir fyrir<br />
+			hni`ga a` Heljar sjo~t?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -823,9 +864,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``La_e`vateinn heitir,<sep />es go/rþi Loptr ru`num<br />
+			fyr na`grindr neþan;<br />
+			i` La_e`gjarns keri<sep />liggr hja` Sinmo~ru,<br />
+			ok halda njarþla`sar niu.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -850,9 +892,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt aptr ko/mr<sep />sa`s eptir ferr<br />
+			ok vill þann tein taka?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -869,9 +912,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Aptr mun koma<sep />sa`s eptir ferr<br />
+			ok vill þann tein taka,<br />
+			ef þat fo/`rir,<sep />sem fai::r eigu,<br />
+			eiri aurglasis.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -891,9 +935,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt se` ma_e`ta nekkvat,<sep />þats menn hafi,<br />
+			ok verþr þvi` en fo~lva gy`gr fegin?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -910,9 +955,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ljo`san lea<sep />skaltu i` lu`þr bera<br />
+			þanns liggr i` Viþofnis vo~lum,<br />
+			Sinmo~ru at selja,<sep />a`þr ho`n so~m telisk<br />
+			va`pn til vi`gs at lea.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -934,9 +980,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat sa` salr heitir,<sep />es slunginn es<br />
+			vi`sum vafrloga?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -953,9 +1000,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ly`r hann heitir,<sep />en hann lengi mun<br />
+			a` brodds oddi bifask;<br />
+			auþranns þess<sep />munu of aldr hafa<br />
+			fre`tt eina firar.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -976,9 +1024,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hverr þat go/rþi,<sep />es fyr garþ sa`k<br />
+			innan a`smaga?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -995,9 +1044,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Uni ok Iri,<sep />Bari ok Jari,<br />
+			Varr ok Vegdrasill,<br />
+			Do`ri ok O`ri,<sep />Dellingr, at vas þar<br />
+			liþskjalfr Loki.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1020,9 +1070,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hvat þat bjarg heitir,<sep />es ek se` bru`þi a`<br />
+			þjo`þma_e`ra þruma?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -1039,9 +1090,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Lyfjaberg heitir,<sep />en þat hefr lengi verit<br />
+			sju`kum ok so~`rum gaman:<br />
+			heil verþr hver,<sep />þo`t hafi <dagger /> a`rs so`tt,<br />
+			ef þat kli`fr, kona.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1064,9 +1116,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<ebr />
+			auk ek vilja vita:<br />
+			hvat þa_e`r meyjar heita,<sep />es fyr Menglaþar kne::um<br />
+			sitja sa`ttar saman?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -1083,9 +1136,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hli`f heitir ein,<sep />o~nnur Hli`fþrasa,<br />
+			þriþja Þjo`þvara,<br />
+			Bjo~rt ok Bleik,<sep />Bli`þ ok Fri`þ,<br />
+			Eir ok Aurboþa.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1106,9 +1160,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt þa_e`r bjarga<sep />þeims blo`ta þa_e`r,<br />
+			ef go/rvask þarfar þess?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -1128,9 +1183,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``<conj>Bjarga svinnar</conj>,<sep />hvars menn blo`ta þa_e`r<br />
+			a` stallhelgum staþ:<br />
+			ey sva` ho~`tt foraþ<sep />ko/mr at ho~lþa sunum,<br />
+			hverjan o`r nauþum nema.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1150,9 +1206,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fjo~lsviþr!<sep />es ek þik fregna mun<br />
+			auk ek vilja vita:<br />
+			hva`rt se` manna nekkvat,<sep />þats knegi a` Menglaþar<br />
+			svo~`sum armi sofa?''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -1169,9 +1226,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Va_e`tr's þat manna,<sep />es knegi a` Menglaþar<br />
+			svo~`sum armi sofa,<br />
+			nema Svipdagr einn,<sep />ho~`num vas en so`lbjarta<br />
+			bru`þr at kvo~`n of kveþin.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1188,9 +1246,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hritt a` hurþir,<sep />la`ttu hliþ ru`m!<br />
+			he`r ma`tt Svipdag sea;<br />
+			þo` vita far,<sep />ef vilja muni<br />
+			Menglo~þ mitt gaman.''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -1207,9 +1266,10 @@
 			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heyrþu, Menglo~þ!<sep />he`r es maþr kominn,<br />
+			gakk a` gest sea!<br />
+			hundar fagna,<sep />hu`s hefr upp lokizk:<br />
+			hykk at Svipdagr sei::.''
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1223,18 +1283,19 @@
 	</block>
 	<block class="stanza" number="61">
 		<original_prelude>
-
+			Menglo~þ kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Horskir hrafnar<sep />skulu þer a` ho~`m galga<br />
+			sli`ta sjo`nir o`r,<br />
+			ef þat ly`gr,<sep />at he`r se` langt kominn<br />
+			mo~gr til minna sala.
 		</original>
 		<translation_prelude>
 			Mengloth spake:
 		</translation_prelude>
 		<translation>
-			"On the gallows high<sep />shall hungry ravens<br />
+			``On the gallows high<sep />shall hungry ravens<br />
 			Soon thine eyes pluck out,<br />
 			If thou liest in saying<sep />that here at last<br />
 			The hero is come to my hall.
@@ -1242,12 +1303,13 @@
 	</block>
 	<block class="stanza" number="62">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Hvaþan þu` fo`rt,<sep />hvaþan þu` fo~r go/rþir,<br />
+			hve` þik he`tu hiu?<br />
+			at a_e`tt ok nafni<sep />skalk jartegn vita,<br />
+			ef ek vas þer at kvo~`n of kveþin.''
 		</original>
 		<translation>
-			``Whence camest thou hither?<sep />how camest thou here?<br />
+			Whence camest thou hither?<sep />how camest thou here?<br />
 			What name do thy kinsmen call thee?<br />
 			Thy race and thy name<sep />as a sign must I know,<br />
 			That thy bride I am destined to be.''
@@ -1258,9 +1320,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Svipdagr heitik,<sep />So`lbjartr he`t faþir,<br />
+			þaþan vro~`kumk vindkalda vegu;<br />
+			Urþar orþi<sep />viþr engi maþr,<br />
+			þo`t se` viþ lo~st lagit.''
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -1281,9 +1344,10 @@
 			Menglo~þ kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Vel þu` nu` kominn!<sep />hefk minn vilja beþit,<br />
+			fylgja skal kveþju koss;<br />
+			forkunnar sy`n<sep />mun flestan glaþa,<br />
+			hverrs hefr viþ annan o~`st.
 		</original>
 		<translation_prelude>
 			Mengloth spake:
@@ -1297,9 +1361,10 @@
 	</block>
 	<block class="stanza" number="65">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Lengi satk<sep />Lyfjabergi a`,<br />
+			beiþk þi`n do/`gr ok daga:<br />
+			nu` þat varþ<sep />es ek va_e`tt hefi,<br />
+			at kvamt, mo~gr! til minna sala.
 		</original>
 		<translation>
 			Long have I sat<sep />on Lyfjaberg here,<br />
@@ -1313,9 +1378,10 @@
 	</block>
 	<block class="stanza" number="66">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þra`r hafþar<sep />es ek hef til þi`ns gamans,<br />
+			en þu` til mi`ns munar;<br />
+			nu`'s þat satt,<sep />es vit sli`ta skulum<br />
+			a_e`vi ok aldri saman.''
 		</original>
 		<translation>
 			Alike we yearned;<sep />I longed for thee,<br />
