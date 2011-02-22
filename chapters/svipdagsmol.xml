@@ -20,7 +20,7 @@
 	<block class="sepline" />
 	<block class="header">
 		<original>
-
+			Gro`ugaldr
 		</original>
 		<translation>
 			Grougaldr (Groa's spell)
@@ -28,7 +28,7 @@
 	</block>
 	<block class="stanza" number="1">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -50,7 +50,7 @@
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-
+			Gro`a kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -69,7 +69,7 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -92,7 +92,7 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-
+			Gro`a kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -111,7 +111,7 @@
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -130,7 +130,7 @@
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-
+			Gro`a kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -316,13 +316,13 @@
 		<original>
 			<sep /><br />
 			<br />
-			<br />
+			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
 			<sep /><br />
 		</original>
 		<translation>
 			Before the house<sep />he beheld one coming<br />
 			To the home of the giants high.<br />
-			Svipdag spake:<br />
+			<stanzaprelude>Svipdag spake:</stanzaprelude><br />
 			``What giant is here,<sep />in front of the house,<br />
 			And around him fires are flaming?''
 		</translation>
@@ -338,7 +338,7 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -357,12 +357,12 @@
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
 			<br />
-			<br />
+			<stanzaprelude>Fjo~lsviþr kvaþ:</stanzaprelude><br />
 			<sep /><br />
 		</original>
 		<translation_prelude>
@@ -391,7 +391,7 @@
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -410,12 +410,12 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
 			<br />
-			<br />
+			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
 			<sep /><br />
 		</original>
 		<translation_prelude>
@@ -447,7 +447,7 @@
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -469,7 +469,7 @@
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -488,7 +488,7 @@
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -511,7 +511,7 @@
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -530,7 +530,7 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -553,7 +553,7 @@
 	</block>
 	<block class="stanza" number="29">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -572,7 +572,7 @@
 	</block>
 	<block class="stanza" number="30">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -595,7 +595,7 @@
 	</block>
 	<block class="stanza" number="31">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -614,7 +614,7 @@
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -637,7 +637,7 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -656,7 +656,7 @@
 	</block>
 	<block class="stanza" number="34">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -680,7 +680,7 @@
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -702,7 +702,7 @@
 	</block>
 	<block class="stanza" number="36">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -725,7 +725,7 @@
 	</block>
 	<block class="stanza" number="37">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -744,7 +744,7 @@
 	</block>
 	<block class="stanza" number="38">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -763,7 +763,7 @@
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -782,7 +782,7 @@
 	</block>
 	<block class="stanza" number="40">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -801,7 +801,7 @@
 	</block>
 	<block class="stanza" number="41">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -820,7 +820,7 @@
 	</block>
 	<block class="stanza" number="42">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -847,7 +847,7 @@
 	</block>
 	<block class="stanza" number="43">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -866,7 +866,7 @@
 	</block>
 	<block class="stanza" number="44">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -888,7 +888,7 @@
 	</block>
 	<block class="stanza" number="45">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -907,7 +907,7 @@
 	</block>
 	<block class="stanza" number="46">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -931,7 +931,7 @@
 	</block>
 	<block class="stanza" number="47">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -950,7 +950,7 @@
 	</block>
 	<block class="stanza" number="48">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -973,7 +973,7 @@
 	</block>
 	<block class="stanza" number="49">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -992,7 +992,7 @@
 	</block>
 	<block class="stanza" number="50">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1017,7 +1017,7 @@
 	</block>
 	<block class="stanza" number="51">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1036,7 +1036,7 @@
 	</block>
 	<block class="stanza" number="52">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1061,7 +1061,7 @@
 	</block>
 	<block class="stanza" number="53">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1080,7 +1080,7 @@
 	</block>
 	<block class="stanza" number="54">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1103,7 +1103,7 @@
 	</block>
 	<block class="stanza" number="55">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1125,7 +1125,7 @@
 	</block>
 	<block class="stanza" number="56">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1147,7 +1147,7 @@
 	</block>
 	<block class="stanza" number="57">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1166,7 +1166,7 @@
 	</block>
 	<block class="stanza" number="58">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1185,7 +1185,7 @@
 	</block>
 	<block class="stanza" number="59">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1204,7 +1204,7 @@
 	</block>
 	<block class="stanza" number="60">
 		<original_prelude>
-
+			Fjo~lsviþr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1255,7 +1255,7 @@
 	</block>
 	<block class="stanza" number="63">
 		<original_prelude>
-
+			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
@@ -1278,7 +1278,7 @@
 	</block>
 	<block class="stanza" number="64">
 		<original_prelude>
-
+			Menglo~þ kvaþ:
 		</original_prelude>
 		<original>
 			<sep /><br />
