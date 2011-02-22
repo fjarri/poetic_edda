@@ -134,7 +134,7 @@ if __name__ == '__main__':
 	intro_block = Element('block', attrib={'class': 'text'})
 	intro_section = Element('section')
 	intro_section.text = 'Introductory Note'
-	intro.block.append(intro_section)
+	intro_block.append(intro_section)
 	c.append(intro_block)
 
 	# remove page marks
