@@ -197,11 +197,22 @@ Hyndluljoth (17 Feb 2011)
   "<i>Guthrunarkvitha</i> II" (i.e., not italicising part number);
 * Fixed reference in Harbarthsljoth introduction
 
-~~~~~~~~~~~~~~~~~~~~~
-Svipdagsmol (planned)
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Svipdagsmol (26 Feb 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Svipdagsmol chapter
+* Added Svipdagsmol chapter;
+* Printing headings in English instead of Old Norse (like in Bellows)
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Volundarkvitha (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Volundarkvitha chapter
+* Fix the problem with not working \nopagebreak between \addsec and longtable
+  (see Svipdagsmol as an example; need to remove temporary workaround from there)
+* Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
+  (this may help to avoid uneven cell spacing)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
