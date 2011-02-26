@@ -405,25 +405,19 @@ def printText(block):
 	else:
 		return res
 
+def printEddaChapterHeader(block):
+	return u"\\eddachapter{" + block.find('transliteration').text + \
+		u"}{" + block.find('translation').text + u"}"
+
 def printChapterHeader(block):
-	if 'icelandic_name' in block.attrib:
-		return u"\\eddachapter{" + block.attrib['icelandic_name'] + \
-			u"}{" + block.attrib['english_name'] + u"}{" + block.attrib['translation'] + u"}"
-	else:
-		return u"\\eddasimplechapter{" + block.attrib['english_name'] + u'}'
+	return u"\\eddasimplechapter{" + block.text + u'}'
 
-def printStanzaHeader(block):
+def printSectionHeader(block):
+	return u"\\addsec*{" + block.text + u"}"
 
-	# helper functions for wrapping table cells
-	leftField = lambda x: u"\\eddaproseleft{\\textit{\\Large " + x + u"}}"
-	rightField = lambda x: u"\\eddaproseright{\\textit{\\Large " + x + u"}}"
-
-	# get info from block
-	original = printText(block.find('original'))
-	translation = printText(block.find('translation'))
-
-	return "\\eddaheader\n" + \
-		u"{" + leftField(original) + u"}{" + rightField(translation) + u"}\n\n"
+def printEddaSectionHeader(block):
+	return u"\\eddasepline\n\n\\eddasection{" + block.find('transliteration').text + \
+		u"}{" + block.find('translation').text + u"}"
 
 def printSepline(block):
 	return u"\\eddasepline"
@@ -436,8 +430,10 @@ if __name__ == '__main__':
 		'text': printText,
 		'prose': printProseTable,
 		'chapter': printChapterHeader,
+		'eddachapter': printEddaChapterHeader,
 		'sepline': printSepline,
-		'header': printStanzaHeader
+		'section': printSectionHeader,
+		'eddasection': printEddaSectionHeader,
 	}
 
 	filenames = os.listdir('chapters')
@@ -461,8 +457,7 @@ if __name__ == '__main__':
 		root = tree.getroot()
 		deprettify(root)
 
-		res = handlers['chapter'](root) + u"\n\n" + \
-			u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
+		res = u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
 
 		f = codecs.open("build/" + name + ".tex", "w", "utf-8")
 		f.write(res)
