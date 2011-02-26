@@ -8,7 +8,7 @@ from xml.etree.ElementTree import Element, ElementTree, XML
 
 def makePretty(elem, depth=0):
     divs = ['chapter', 'block', 'original', 'translation', 'comment',
-        'original_prelude', 'translation_prelude', 'textstanza']
+        'original_prelude', 'translation_prelude', 'textstanza', 'transliteration']
 
     if elem.tag not in divs:
         return

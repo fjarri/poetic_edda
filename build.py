@@ -7,7 +7,7 @@ import re
 
 def deprettify(elem):
 	divs = ['chapter', 'block', 'original', 'translation', 'comment',
-		'original_prelude', 'translation_prelude', 'textstanza']
+		'original_prelude', 'translation_prelude', 'textstanza', 'transliteration']
 
 	delete_spaces = lambda s: re.sub(ur'\s+', ' ', s, flags=re.UNICODE)
 
