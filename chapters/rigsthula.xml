@@ -1,6 +1,17 @@
-<chapter english_name="Rigsthula" icelandic_name="Rīgsþula" translation="The Song of Rig">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Rigsthula">
+	<block class="eddachapter">
+		<original>
+			Rīgsþula
+		</original>
+		<transliteration>
+			Rigsthula
+		</transliteration>
+		<translation>
+			The Song of Rig
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The <chapterref>Rigsthula</chapterref> is found in neither of the principal codices.

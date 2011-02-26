@@ -1,6 +1,17 @@
-<chapter english_name="Hyndluljoth" icelandic_name="Hyndluljōþ" translation="The Poem of Hyndla">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Hyndluljoth">
+	<block class="eddachapter">
+		<original>
+			Hyndluljōþ
+		</original>
+		<transliteration>
+			Hyndluljoth
+		</transliteration>
+		<translation>
+			The Poem of Hyndla
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The <chapterref>Hyndluljoth</chapterref> is found in neither of the great manuscripts of the <source>Poetic Edda</source>, but is included in the so-called <source>Flateyjarbok</source> (Book of the Flat Island), an enormous compilation made somewhere about 1400.
@@ -615,12 +626,15 @@
 		</comment>
 	</block>
 	<block class="sepline" />
-	<block class="header">
+	<block class="eddasection">
 		<original>
 			Vǫluspǭ en skamma
 		</original>
+		<transliteration>
+			Voluspo en skamma
+		</transliteration>
 		<translation>
-			Voluspo en skamma (Fragment of “The Short Voluspo”)
+			Fragment of “The Short Voluspo”
 		</translation>
 	</block>
 	<block class="stanza" number="30">

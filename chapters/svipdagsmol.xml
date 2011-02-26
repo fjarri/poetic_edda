@@ -1,6 +1,17 @@
-<chapter english_name="Svipdagsmol" icelandic_name="Svipdagsmǭl" translation="The ballad of Svipdag">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Svipdagsmol">
+	<block class="eddachapter">
+		<original>
+			Svipdagsmǭl
+		</original>
+		<transliteration>
+			Svipdagsmol
+		</transliteration>
+		<translation>
+			The ballad of Svipdag
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The two poems, <source>Grougaldr (Groa's Spell)</source> and <source>Fjolsvinnsmol (the Ballad of Fjolsvith)</source>, which many editors have, very wisely, united under the single title of <chapterref>Svipdagsmol</chapterref>, are found only in paper manuscripts, none of them antedating the seventeenth century.
@@ -18,12 +29,15 @@
 		These have greatly assisted in the reconstruction of the outlines of the narrative surrounding the dialogue poems here given.
 	</block>
 	<block class="sepline" />
-	<block class="header">
+	<block class="eddasection">
 		<original>
 			Grōugaldr
 		</original>
+		<transliteration>
+			Grougaldr
+		</transliteration>
 		<translation>
-			Grougaldr (Groa's spell)
+			Groa's spell
 		</translation>
 	</block>
 	<block class="stanza" number="1">
@@ -320,12 +334,15 @@
 			And before the house there was a giant.”
 		</comment>
 	</block>
-	<block class="header">
+	<block class="eddasection">
 		<original>
 			Fjōlsvinnsmǭl
 		</original>
+		<transliteration>
+			Fjolsvinnsmol
+		</transliteration>
 		<translation>
-			Fjolsvinnsmol (The lay of Fjolsvith)
+			The lay of Fjolsvith
 		</translation>
 	</block>
 	<block class="stanza" number="17">

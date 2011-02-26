@@ -1,6 +1,17 @@
-<chapter english_name="Vafthruthnismol" icelandic_name="Vafþrūþnismǭl" translation="The Ballad of Vafthruthnir">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Vafthruthnismol">
+	<block class="eddachapter">
+		<original>
+			Vafþrūþnismǭl
+		</original>
+		<transliteration>
+			Vafthruthnismol
+		</transliteration>
+		<translation>
+			The Ballad of Vafthruthnir
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The <chapterref>Vafthruthnismol</chapterref> follows the <chapterref>Hovamol</chapterref> in the Codex Regius.

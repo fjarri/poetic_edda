@@ -1,6 +1,17 @@
-<chapter english_name="Hymiskvitha" icelandic_name="Hymiskviþa" translation="The Lay of Hymir">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Hymiskvitha">
+	<block class="eddachapter">
+		<original>
+			Hymiskviþa
+		</original>
+		<transliteration>
+			Hymiskvitha
+		</transliteration>
+		<translation>
+			The Lay of Hymir
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The <chapterref>Hymiskvitha</chapterref> is found complete in both manuscripts; in <source>Regius</source> it follows the <chapterref>Harbarthsljoth</chapterref>, while in the <source>Arnamagnæan Codex</source> it comes after the <chapterref>Grimnismol</chapterref>.

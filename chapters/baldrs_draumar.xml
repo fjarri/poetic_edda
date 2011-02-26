@@ -1,6 +1,17 @@
-<chapter english_name="Baldrs Draumar" icelandic_name="Baldrs Draumar" translation="Baldr's Dreams">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Baldrs Draumar">
+	<block class="eddachapter">
+		<original>
+			Baldrs Draumar
+		</original>
+		<transliteration>
+			Baldrs Draumar
+		</transliteration>
+		<translation>
+			Baldr's Dreams
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		<chapterref>Baldrs Draumar</chapterref> is found only in the <source>Arnamagnæan Codex</source>, where it follows the <chapterref>Harbarthsljoth</chapterref> fragment.

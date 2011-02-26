@@ -1,6 +1,17 @@
-<chapter english_name="Hovamol" icelandic_name="Hǫvamǭl" translation="The Ballad of the High One">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Hovamol">
+	<block class="eddachapter">
+		<original>
+			Hǫvamǭl
+		</original>
+		<transliteration>
+			Hovamol
+		</transliteration>
+		<translation>
+			The Ballad of the High One
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		This poem follows the <chapterref>Voluspo</chapterref> in the <source>Codex Regius</source>, but is preserved in no other manuscript.

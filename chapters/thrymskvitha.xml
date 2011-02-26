@@ -1,6 +1,17 @@
-<chapter english_name="Thrymskvitha" icelandic_name="Þrymskviþa" translation="The Lay of Thrym">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Thrymskvitha">
+	<block class="eddachapter">
+		<original>
+			Þrymskviþa
+		</original>
+		<transliteration>
+			Thrymskvitha
+		</transliteration>
+		<translation>
+			The Lay of Thrym
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The <chapterref>Thrymskvitha</chapterref> is found only in the <source>Codex Regius</source>, where it follows the <chapterref>Lokasenna</chapterref>.

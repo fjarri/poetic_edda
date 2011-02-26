@@ -1,4 +1,7 @@
-<chapter english_name="General Introduction">
+<chapter label="General Introduction">
+	<block class="chapter">
+		General Introduction
+	</block>
 	<block class="text">
 		There is scarcely any literary work of great importance which has been less readily available for the general reader, or even for the serious student of literature, than the Poetic Edda.
 		Translations have been far from numerous, and only in Germany has the complete work of translation been done in the full light of recent scholarship.
@@ -18,8 +21,8 @@
 		The hero poems give us, in its oldest and most vivid extant form, the story of Sigurth, Brynhild, and Atli, the Norse parallel to the German <source>Nibelungenlied</source>. The Poetic Edda is not only of great interest to the student of antiquity; it is a collection including some of the most remark able poems which have been preserved to us from the period before the pen and the printing-press. replaced the poet-singer and oral tradition.
 		It is above all else the desire to make better known the dramatic force, the vivid and often tremendous imagery, and the superb conceptions embodied in these poems which has called forth the present translation.
 	</block>
-	<block class="text">
-		<section>What is the Poetic Edda?</section>
+	<block class="section">
+		What is the Poetic Edda?
 	</block>
 	<block class="text">
 		Even if the poems of the so-called Edda were not so significant and intrinsically so valuable, the long series of scholarly struggles which have been going on over them for the better part of three centuries would in itself give them a peculiar interest.
@@ -72,8 +75,8 @@
 		All that is reasonably certain is that by the middle or last of the twelfth century there existed in Iceland one or more written collections of Old Norse mythological and heroic poems, that the <source>Codex Regius</source>, a copy made a hundred years or so later, represents at least a considerable part of one of these, and that the collection of thirty-four poems which we now know as the <source>Poetic</source> or <source>Elder Edda</source> is practically all that has come down to us of Old Norse poetry of this type.
 		Anything more is largely guesswork, and both the name of the compiler and the meaning of the title “Edda” are conjectural.
 	</block>
-	<block class="text">
-		<section>The origin of the Eddic poems</section>
+	<block class="section">
+		The origin of the Eddic poems
 	</block>
 	<block class="text">
 		There is even less agreement about the birthplace, authorship and date of the Eddic poems themselves than about the nature of the existing collection.
@@ -103,8 +106,8 @@
 		During a considerable part of the ninth and tenth centuries, Scandinavians were active in Ireland and in most of the western islands inhabited by branches of the Celtic race.
 		Some scholars have, indeed, claimed nearly all the Eddic poems for these “Western Isles.” However, as Iceland early came to be the true cultural center of this Scandinavian island world, it may be said that the preponderant evidence concerning the development of the Eddic poems in anything like their present form points in that direction, and certainly it was in Iceland that they were chiefly preserved.
 	</block>
-	<block class="text">
-		<section>The Edda and Old Norse literature</section>
+	<block class="section">
+		The Edda and Old Norse literature
 	</block>
 	<block class="text">
 		Within the proper limits of an introduction it would be impossible to give any adequate summary of the history and literature with which the Eddic poems are indissolubly connected, but a mere mention of a few of the salient facts may be of some service to those who are unfamiliar with the subject.
@@ -141,8 +144,8 @@
 		There is no absolute line to be drawn between the poetry of the skalds and the poems of the <source>Edda</source>, which we may call the third group; but in addition to the remarkable artificiality of style which marks the skaldic poetry, and which is seldom found in the poems of the <source>Edda</source>, the skalds dealt almost exclusively with their own emotions, whereas the Eddic poems are quite impersonal.
 		Finally, there is the fourth group, made up of didactic works, religious and legal treatises, and so on, studies which originated chiefly in the later period of learned activity.
 	</block>
-	<block class="text">
-		<section>Preservation of the Eddic poems</section>
+	<block class="section">
+		Preservation of the Eddic poems
 	</block>
 	<block class="text">
 		Most of the poems of the <source>Poetic Edda</source> have unquestionably reached us in rather bad shape.
@@ -158,8 +161,8 @@
 		For this reason, and because guesswork necessarily plays so large a part in any edition or translation of the Eddic poems, I have risked overloading the pages with textual notes in order to show, as nearly as possible, the exact state of the original together with all the more significant emendations.
 		I have done this particularly in the case of transpositions, many of which appear absolutely necessary, and in the indication of passages which appear to be interpolations.
 	</block>
-	<block class="text">
-		<section>The verse-forms of the Eddic poems</section>
+	<block class="section">
+		The verse-forms of the Eddic poems
 	</block>
 	<block class="text">
 		The many problems connected with the verse-forms found in the Eddic poems have been analyzed in great detail by Sievers, Neckel, and others.
@@ -246,8 +249,8 @@
 			The <stress>sea</stress> they should <stress>sail,</stress><sep />while her<stress>self</stress> she should <stress>go</stress> not.
 		</textstanza>
 	</block>
-	<block class="text">
-		<section>Proper Names</section>
+	<block class="section">
+		Proper Names
 	</block>
 	<block class="text">
 		The forms in which the proper names appear in this translation will undoubtedly perplex and annoy those who have become accustomed to one or another of the current methods of anglicising Old Norse names.
@@ -257,8 +260,8 @@
 		To avoid confusion with accents the long vowel marks of the Icelandic are consistently omitted, as likewise in modern Icelandic proper names.
 		The index at the end of the book indicates the pronunciation in each case.
 	</block>
-	<block class="text">
-		<section>Conclusion</section>
+	<block class="section">
+		Conclusion
 	</block>
 	<block class="text">
 		That this translation may be of some value to those who can read the poems of the <source>Edda</source> in the original language I earnestly hope.

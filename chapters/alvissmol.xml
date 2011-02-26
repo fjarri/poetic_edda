@@ -1,6 +1,17 @@
-<chapter english_name="Alvissmol" icelandic_name="Alvīssmǭl" translation="The Ballad of Alvis">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Alvissmol">
+	<block class="eddachapter">
+		<original>
+			Alvīssmǭl
+		</original>
+		<transliteration>
+			Alvissmol
+		</transliteration>
+		<translation>
+			The Ballad of Alvis
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		No better summary of the <chapterref>Alvissmol</chapterref> can be given than Gering's statement that “it is a versified chapter from the skaldic Poetics.”

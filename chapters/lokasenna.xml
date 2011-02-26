@@ -1,6 +1,17 @@
-<chapter english_name="Lokasenna" icelandic_name="Lokasenna" translation="Loki's Wrangling">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Lokasenna">
+	<block class="eddachapter">
+		<original>
+			Lokasenna
+		</original>
+		<transliteration>
+			Lokasenna
+		</transliteration>
+		<translation>
+			Loki's Wrangling
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		The <chapterref>Lokasenna</chapterref> is found only in <source>Regius</source>, where it follows the <chapterref>Hymiskvitha</chapterref>; Snorri quotes four lines of it, grouped together as a single stanza.

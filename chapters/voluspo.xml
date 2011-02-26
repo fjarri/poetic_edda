@@ -1,6 +1,17 @@
-<chapter english_name="Voluspo" icelandic_name="Vǫluspǭ" translation="The Wise-Woman's Prophecy">
-	<block class="text">
-		<section>Introductory Note</section>
+<chapter label="Voluspo">
+	<block class="eddachapter">
+		<original>
+			Vǫluspǭ
+		</original>
+		<transliteration>
+			Voluspo
+		</transliteration>
+		<translation>
+			The Wise-Woman's Prophecy
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
 	</block>
 	<block class="text">
 		At the beginning of the collection in the <source>Codex Regius</source> stands the Voluspo, the most famous and important, as it is likewise the most debated, of all the Eddic poems.
