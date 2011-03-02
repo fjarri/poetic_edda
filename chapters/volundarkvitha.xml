@@ -1,0 +1,987 @@
+<chapter label="Völundarkvitha">
+	<block class="eddachapter">
+		<original>
+			Vo/`lundarkviþa
+		</original>
+		<transliteration>
+			Völundarkvitha
+		</transliteration>
+		<translation>
+			The Lay of Völund
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
+	</block>
+	<block class="text">
+		Between the <cr>Thrymskvitha</cr> and the <cr>Alvissmol</cr> in the <src>Codex Regius</src> stands the <cr>Völundarkvitha</cr>.
+		It was also included in the <src>Arnamagnæan Codex</src>, but unluckily it begins at the very end of the fragment which has been preserved, and thus only a few lines of the opening prose remain.
+		This is doubly regrettable because the text in <src>Regius</src> is unquestionably in very bad shape, and the other manuscript would doubtless have been of great assistance in the reconstruction of the poem.
+	</block>
+	<block class="text">
+		There has been a vast amount written regarding the Weland tradition as a whole, discussing particularly the relations between the <cr>Völundarkvitha</cr> and the Weland passage in <src>Deor's Lament</src>.
+		There can be little question that the story came to the North from Saxon regions, along with many of the other early hero tales.
+		In stanza <sr>16</sr> the Rhine is specifically mentioned as the home of treasure; and the presence of the story in Anglo-Saxon poetry probably as early as the first part of the eighth century proves beyond a doubt that the legend cannot have been a native product of Scandinavia.
+		In one form or another, however, the legend of the smith persisted for centuries throughout all the Teutonic lands, and the name of Wayland Smith is familiar to all readers of Walter Scott, and even of Rudyard Kipling's tales of England.
+	</block>
+	<block class="text">
+		In what form this story reached the North is uncertain.
+		Sundry striking parallels between the diction of the <cr>Völundarkvitha</cr> and that of the Weland passage in <src>Deor's Lament</src> make it distinctly probable that a Saxon song on this subject had found its way to Scandinavia or Iceland.
+		But the prose introduction to the poem mentions the ``old sagas'' in which Völund was celebrated, and in the <src>Thithrekssaga</src> we have definite evidence of the existence of such prose narrative in the form of the <src>Velentssaga</src> (Velent, Völund, Weland, and Wayland all being, of course, identical), which gives a long story for which the <cr>Völundarkvitha</cr> can have supplied relatively little, if any, of the material.
+		It is probable, then, that Weland stories were current in both prose and verse in Scandinavia as early as the latter part of the ninth century.
+	</block>
+	<block class="text">
+		Once let a figure become popular in oral tradition, and the number and variety of the incidents connected with his name will increase very rapidly.
+		Doubtless there were scores of Weland stories current in the eighth, ninth, and tenth centuries, many of them with very little if any traditional authority.
+		The main one, however, the story of the laming of the smith by King Nithuth (or by some other enemy) and of Weland's terrible revenge, forms the basis of the <cr>Völundarkvitha</cr>.
+		To this, by way of introduction, has been added the story of Völund and the wan-maiden, who, to make things even more complex, is likewise aid to be a Valkyrie.
+		Some critics maintain that these two sections were originally two distinct poems, merely strung together by the compiler with the help of narrative prose links; but the poem as a whole has a kind of dramatic unity which suggests rather that an early poet---for linguistically the poem belongs among the oldest of the Eddic collection---used two distinct legends, whether in prose or verse, as the basis for the composition of a new and homogeneous poem.
+	</block>
+	<block class="text">
+		The swan-maiden story appears, of course, in many places quite distinct from the Weland tradition, and, in another form, became one of the most popular of German folk tales.
+		Like the story of Weland, however, it is of German rather than Scandinavian origin, and the identification of the swan-maidens as Valkyries, which may have taken place before the legend reached the North, may, on the other hand, have been simply an attempt to connect southern tradition with figures well known in northern mythology.
+	</block>
+	<block class="text">
+		The <cr>Völundarkvitha</cr> is full of prose narrative links, including an introduction.
+		The nature of such prose links has already been discussed in the introductory note to the <cr>Grimnismol</cr>; the <cr>Völundarkvitha</cr> is a striking illustration of the way in which the function of the earlier Eddic verse was limited chiefly to dialogue or description, the narrative outline being provided, if at all, in prose.
+		This prose was put in by each reciter according to his fancy and knowledge, and his estimate of his hearers' need for such explanations; some of it, as in this instance, eventually found its way into the written record.
+	</block>
+	<block class="text">
+		The manuscript of the <cr>Völundarkvitha</cr> is in such bad shape, and the conjectural emendations have been so numerous, that in the notes I have attempted to record only the most important of them.
+	</block>
+	<block class="sepline" />
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			There was a king in Sweden named Nithuth.<br />
+			He had two sons and one daughter; her name was Bothvild.<br />
+			There were three brothers, sons of a king of the Finns: one was called Slagfith, another Egil, the third Völund.<br />
+			They went on snowshoes and hunted wild beasts.<br />
+			They came into Ulfdalir and there they built themselves a house; there was a lake there which is called Ulfsjar.<br />
+			Early one morning they found on the shore of the lake three women, who were spinning flax.<br />
+			Near them were their swan garments, for they were Valkyries.<br />
+			Two of them were daughters of King Hlothver, Hlathguth the Swan-White and Hervor the All-Wise, and the third was Olrun, daughter of Kjar from Valland.<br />
+			These did they bring home to their hall with them.<br />
+			Egil took Olrun, and Slagfith Swan-White, and Völund All-Wise.<br />
+			There they dwelt seven winters; but then they flew away to find battles, and came back no more.<br />
+			Then Egil set forth on his snowshoes to follow Olrun, and Slagfith followed Swan White, but Völund stayed in Ulfdalir.<br />
+			He was a most skillful man, as men know from old tales.<br />
+			King Nithuth had him taken by force, as the poem here tells.
+		</translation>
+		<comment>
+			<expl>Nithuth</expl> (``Bitter Hater''): here identified as a king of Sweden, is in the poem (stanzas <sr>9</sr>, <sr>15</sr> and <sr>32</sr>) called lord of the Njars, which may refer to the people of the Swedish district of Nerike.
+			In any case, the scene of the story has moved from Saxon lands into the Northeast.
+			The first and last sentences of the introduction refer to the second part of the poem; the rest of it concerns the swan-maidens episode.
+			<expl>Bothvild</expl> (``Warlike Maid''): Völund's victim in the latter part of the poem.
+			<expl>King of the Finns</expl>: this notion, clearly later than the poem, which calls Völund an elf, may perhaps be ascribed to the annotator who composed the prose introduction.
+			The Finns, meaning the dwellers in Lapland, were generally credited with magic powers.
+			Egil appears in the <src>Thithrekssaga</src> as Völund's brother, but Slagfith is not elsewhere mentioned.
+			<expl>Ulfdalir</expl> (``Wolf-Dale''), <expl>Ulfsjar</expl> (``Wolf-Sea''), <expl>Valland</expl> (``Slaughter-Land''): mythical places without historical identification.
+			<expl>Valkyries</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref> and note; there is nothing in the poem to identify the three swan maidens as Valkyries except one obscure word in line 2 of stanza <sr>1</sr> and again in line 5 of stanza <sr>5</sr>, which may mean, as Gering translates it, ``helmed,'' or else ``fair and wise.''
+			I suspect that the annotator, anxious to give the Saxon legend as much northern local color as possible, was mistaken in his mythology, and that the poet never conceived of his swan-maidens as Valkyries at all.
+			However, this identification of swan-maidens with Valkyries was not uncommon; cf. <chapterref>Helreith Brynhildar</chapterref>, <stanzaref chapter="Helreith Brynhildar">7</stanzaref>.
+			The three maidens' names, <expl>Hlathguth</expl>, <expl>Hervor</expl>, and <expl>Olrun</expl>, do not appear in the lists of Valkyries.
+			<expl>King Hlothver</expl>: this name suggests the southern origin of the story, as it is the northern form of Ludwig; the name appears again in <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">26</stanzaref>, and that of <expl>Kjar</expl> is found in <chapterref chapter="Atlakvitha en Grönlenzka">Atlakvitha</cr>, <stanzaref chapter="Atlakvitha en Grönlenzka">7</stanzaref>, both of these poems being based on German stories.
+			It is worth noting that the composer of this introductory note seems to have had little or no information beyond what was actually contained in the poem as it has come down to us; he refers to the ``old stories'' about Völund, but either he was unfamiliar with them in detail or else he thought it needless to make use of them.
+			His note simply puts in clear and connected form what the verse tells somewhat obscurely; his only additions are making Nithuth a king of Sweden and Völund's father a king of the Finns, supplying the name Ulfsjar for the lake, identifying the swan-maidens as Valkyries, and giving Kjar a home in Valland.
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Maids from the south<sep />through Myrkwood flew,<br />
+			Fair and young,<sep />their fate to follow;<br />
+			On the shore of the sea<sep />to rest them they sat,<br />
+			The maids of the south,<sep />and flax they spun.
+		</translation>
+		<comment>
+			The manuscript indicates line 3 as the beginning of a stanza; two lines may have been lost before or after lines 1--2, and two more, or even six, with the additional stanza describing the theft of the swan-garments, after line 4.
+			<expl>Myrkwood</expl>: a stock name for a magic, dark forest; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">42</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			Hlathguth and Hervor,<sep />Hlothver's children,<br />
+			And Olrun the Wise<sep />Kjar's daughter was.
+		</translation>
+		<comment>
+			In the manuscript these two lines stand after stanza <sr>16</sr>; editors have tried to fit them into various places, but the prose indicates that they belong here, with a gap assumed.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			One in her arms<sep />took Egil then<br />
+			To her bosom white,<sep />the woman fair.
+		</translation>
+		<comment>
+			In the manuscript these two lines follow stanza <sr>1</sr>, with no gap indicated, and the first line marked as the beginning of a stanza.
+			Many editors have combined them with stanza <sr>4</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Swan-White second,---<sep />swan-feathers she wore,<br />
+			<lacuna /><sep /><lacuna /><br />
+			And her arms the third<sep />of the sisters threw<br />
+			Next round Völund's<sep />neck so white.
+		</translation>
+		<comment>
+			No lacuna indicated in the manuscript; one editor fills the stanza out with a second line running: ``Then to her breast Slagfith embraced.''
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			There did they sit<sep />for seven winters,<br />
+			In the eighth at last<sep />came their longing again,<br />
+			(And in the ninth<sep />did need divide them).<br />
+			The maidens yearned<sep />for the murky wood,<br />
+			The fair young maids,<sep />their fate to follow.
+		</translation>
+		<comment>
+			Line 3 looks like an interpolation, but line 5, identical with line 2 of stanza <sr>1</sr>, may be the superfluous one.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Völund home<sep />from his hunting came,<br />
+			From a weary way,<sep />the weather-wise bowman,<br />
+			Slagfith and Egil<sep />the hall found empty,<br />
+			Out and in went they,<sep />everywhere seeking.
+		</translation>
+		<comment>
+			The phrase ``Völund home from a weary way'' is an emendation of Bugge's, accepted by many editors.
+			Some of those who do not include it reject line 4, and combine the remainder of the stanza with all or part of stanza <sr>7</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			East fared Egil<sep />after Olrun,<br />
+			And Slagfith south<sep />to seek for Swan-White;<br />
+			Völund alone<sep />in Ulfdalir lay,<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			The manuscript marks the second, and not the first, line as the beginning of a stanza.
+			Some editors combine lines 2--3 with all or part of stanza <sr>8</sr>.
+			No gap is indicated in the manuscript, but many editors have assumed one, some of them accepting Bugge's suggested ``Till back the maiden bright should come.''
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Red gold he fashioned<sep />with fairest gems,<br />
+			And rings he strung<sep />on ropes of bast;<br />
+			So for his wife<sep />he waited long,<br />
+			If the fair one home<sep />might come to him.
+		</translation>
+		<comment>
+			No line in this stanza is indicated in the manuscript as beginning a new stanza; editors have tried all sorts of experiments in regrouping the lines into stanzas with those of stanzas <sr>7</sr> and <sr>9</sr>.
+			In line 3 the word long is sheer guesswork, as the line in the manuscript contains a metrical error.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			This Nithuth learned,<sep />the lord of the Njars,<br />
+			That Völund alone<sep />in Ulfdalir lay;<br />
+			By night went his men,<sep />their mail-coats were studded,<br />
+			Their shields in the waning<sep />moonlight shone.
+		</translation>
+		<comment>
+			Some editors combine the first two lines with parts of stanza <sr>8</sr>, and the last two with the first half of stanza <sr>10</sr>.
+			<expl>Njars</expl>: there has been much, and inconclusive, discussion as to what this name means; probably it applies to a semi-mythical people somewhere vaguely in ``the East.''
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From their saddles the gable<sep />wall they sought,<br />
+			And in they went<sep />at the end of the hall;<br />
+			Rings they saw there<sep />on ropes of bast,<br />
+			Seven hundred<sep />the hero had.
+		</translation>
+		<comment>
+			Some editors combine lines 3--4 with the fragmentary stanza <sr>11</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Off they took them,<sep />but all they left<br />
+			Save one alone<sep />which they bore away.<br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			No gap indicated in the manuscript; some editors combine these lines with lines 3--4 of stanza to, while others combine them with the first two lines of stanza <sr>12</sr>.
+			The one ring which Nithuth's men steal is given to Bothvild, and proves the cause of her undoing.
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Völund home<sep />from his hunting came,<br />
+			From a weary way,<sep />the weather-wise bowman;<br />
+			A brown bear's flesh<sep />would he roast with fire;<br />
+			Soon the wood so dry<sep />was burning well,<br />
+			(The wind-dried wood<sep />that Völund's was).
+		</translation>
+		<comment>
+			The manuscript indicates line 3, and not line 1, as the beginning of a stanza, which has given rise to a large amount of conjectural rearrangement.
+			Line 2 of the original is identical with the phrase added by Bugge in stanza <sr>6</sr>.
+			Line 5 may be spurious, or lines 4--5 may have been expanded out of a single line running
+			<textstanza class="translation">
+				The wind-dried wood for<sep />Völund burned well.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			On the bearskin he rested,<sep />and counted the rings,<br />
+			The master of elves,<sep />but one he missed;<br />
+			That Hlothver's daughter<sep />had it he thought,<br />
+			And the all-wise maid<sep />had come once more.
+		</translation>
+		<comment>
+			<expl>Elves</expl>: the poem here identifies Völund as belonging to the race of the elves.
+			<expl>Hlothver's daughter</expl>: Hervor; many editors treat the adjective ``all-wise'' here as a proper name.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			So long he sat<sep />that he fell asleep,<br />
+			His waking empty<sep />of gladness was;<br />
+			Heavy chains<sep />he saw on his hands,<br />
+			And fetters bound<sep />his feet together.
+		</translation>
+	</block>
+	<block class="stanza" number="15">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Völund spake:
+		</translation_prelude>
+		<translation>
+			``What men are they<sep />who thus have laid<br />
+			Ropes of bast<sep />to bind me now?''<br />
+			Then Nithuth called,<sep />the lord of the Njars:<br />
+			``How gottest thou, Völund,<sep />greatest of elves,<br />
+			These treasures of ours<sep />in Ulfdalir?''
+		</translation>
+		<comment>
+			In this poem the manuscript indicates the speakers.
+			Some editors make lines 1--2 into a separate stanza, linking lines 3--5 (or 4--5) with stanza <sr>16</sr>.
+			Line 3 is very possibly spurious, a mere expansion of ``Nithuth spake.''
+			Nithuth, of course, has come with his men to capture Völund, and now charges him with having stolen his treasure.
+		</comment>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Völund spake:
+		</translation_prelude>
+		<translation>
+			``The gold was not<sep />on Grani's way,<br />
+			Far, methinks, is our realm<sep />from the hills of the Rhine;<br />
+			I mind me that treasures<sep />more we had<br />
+			When happy together<sep />at home we were.''
+		</translation>
+		<comment>
+			The manuscript definitely assigns this stanza to Völund, but many editors give the first two lines to Nithuth.
+			In the manuscript stanza <sr>16</sr> is followed by the two lines of stanza 2, and many editions make of lines 3--4 of stanza <sr>16</sr> and stanza <sr>2</sr> a single speech by Völund.
+			<expl>Grani's way</expl>: Grani was Sigurth's horse, on which he rode to slay Fafnir and win Andvari's hoard; this and the reference to the <expl>Rhine</expl> as the home of wealth betray the southern source of the story.
+			If lines 1--2 belong to Völund, they mean that Nithuth got his wealth in the Rhine country, and that Völund's hoard has nothing to do with it; if the speaker is Nithuth, they mean that Völund presumably has not killed a dragon, and that he is far from the wealth of the Rhine, so that he must have stolen his treasure from Nithuth himself.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Without stood the wife<sep />of Nithuth wise,<br />
+			And in she came<sep />from the end of the hall;<br />
+			On the floor she stood,<sep />and softly spoke:<br />
+			``Not kind does he look<sep />who comes from the wood.''
+		</translation>
+		<comment>
+			Line 1 is lacking in the manuscript, lines 2--4 following immediately after the two lines here given as stanza <sr>2</sr>.
+			Line 1, borrowed from line 1 of stanza <sr>32</sr>, is placed here by many editors, following Bugge's suggestion.
+			Certainly it is Nithuth's wife who utters line 4.
+			<expl>Who comes from the wood</expl>: Völund, noted as a hunter.
+			Gering assumes that with the entrance of Nithuth's wife the scene has changed from Völund's house to Nithuth's, but I cannot see that this is necessary.
+		</comment>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+		</original>
+		<translation>
+			King Nithuth gave to his daughter Bothvild the gold ring that he had taken from the bast rope in Völund's<br />
+			house, and he himself wore the sword that Völund had had.<br />
+			The queen spake:
+		</translation>
+		<comment>
+			The annotator inserted this note rather clumsily in the midst of the speech of Nithuth's wife.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``The glow of his eyes<sep />is like gleaming snakes,<br />
+			His teeth he gnashes<sep />if now is shown<br />
+			The sword, or Bothvild's<sep />ring he sees;<br />
+			Let them straightway cut<sep />his sinews of strength,<br />
+			And set him then<sep />in Sævarstath.''
+		</translation>
+		<comment>
+			In the manuscript lines 2--3 stand before line 1; many editors have made the transposition here indicated.
+			Some editors reject line 3 as spurious.
+			<expl>Sævarstath</expl>: ``Sea-Stead.''
+		</comment>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			So was it done: the sinews in his knee-joints were cut, and he was set in an island which was near the mainland, and was called Sævarstath.<br />
+			There he smithied for the king all kinds of precious things.<br />
+			No man dared to go to him, save only the king himself.<br />
+			Völund spake:
+		</translation>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``At Nithuth's girdle<sep />gleams the sword<br />
+			That I sharpened keen<sep />with cunningest craft,<br />
+			(And hardened the steel<sep />with highest skill;)<br />
+			The bright blade far<sep />forever is borne,<br />
+			(Nor back shall I see it<sep />borne to my smithy;)<br />
+			Now Bothvild gets<sep />the golden ring<br />
+			(That was once my bride's,---<sep />ne'er well shall it be.)''
+		</translation>
+		<comment>
+			This stanza is obviously in bad shape.
+			Vigfusson makes two stanzas of it by adding a first line:
+			<textstanza class="translation">
+				Then did Völund speak,<sep />sagest of elves.
+			</textstanza>
+			Editors have rejected various lines, and some have regrouped the last lines with the first two of stanza <sr>20</sr>.
+			The elimination of the passages in parenthesis produces a four-line stanza which is metrically correct, but it has little more than guesswork to support it.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			He sat, nor slept,<sep />and smote with his hammer,<br />
+			Fast for Nithuth<sep />wonders he fashioned;<br />
+			Two boys did go<sep />in his door to gaze,<br />
+			Nithuth's sons,<sep />into Sævarstath.
+		</translation>
+		<comment>
+			The editions vary radically in combining the lines of this stanza with those of stanzas <sr>19</sr> and <sr>21</sr>, particularly as the manuscript indicates the third line as the beginning of a stanza.
+			The meaning, however, remains unchanged.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			They came to the chest,<sep />and they craved the keys,<br />
+			The evil was open<sep />when in they looked;<br />
+			To the boys it seemed<sep />that gems they saw,<br />
+			Gold in plenty<sep />and precious stones.
+		</translation>
+		<comment>
+			Several editions make one stanza out of lines 1--4 of stanza <sr>20</sr> and lines 1--2 of stanza <sr>21</sr>, and another out of the next four lines.
+			<expl>The evil was open</expl>: i.e., the gold in the chest was destined to be their undoing.
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Völund spake:
+		</translation_prelude>
+		<translation>
+			``Come ye alone,<sep />the next day come,<br />
+			Gold to you both<sep />shall then be given;<br />
+			Tell not the maids<sep />or the men of the hall,<br />
+			To no one say<sep />that me you have sought.''
+		</translation>
+		<comment>
+			The manuscript indicates line 3 as the beginning of a stanza, and several editors have adopted this grouping.
+			In the <src>Thithrekssaga</src> Völund sends the boys away with instructions not to come back until just after a fall of snow, and then to approach his dwelling walking backward.
+			The boys do this, and when, after he has killed them, Völund is questioned regarding them, he points to the tracks in the snow as evidence that they had left his house.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			Early did brother<sep />to brother call:<br />
+			``Swift let us go<sep />the rings to see.''
+		</translation>
+		<comment>
+			No gap indicated in the manuscript.
+			Some editors assume it, as here; some group the lines with lines 3--4 of stanza <sr>22</sr>, and some with lines 1--2 of stanza <sr>24</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			They came to the chest,<sep />and they craved the keys,<br />
+			The evil was open<sep />when in they looked;<br />
+			He smote off their heads,<sep />and their feet he hid<br />
+			Under the sooty<sep />straps of the bellows.
+		</translation>
+		<comment>
+			Some editions begin a new stanza with line 3.
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Their skulls, once hid<sep />by their hair, he took,<br />
+			Set them in silver<sep />and sent them to Nithuth;<br />
+			Gems full fair<sep />from their eyes he fashioned,<br />
+			To Nithuth's wife<sep />so wise he gave them.
+		</translation>
+		<comment>
+			The manuscript indicates line 3 as the beginning of a stanza, and many editors have adopted this grouping.
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			And from the teeth<sep />of the twain he wrought<br />
+			A brooch for the breast,<sep />to Bothvild he sent it;<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			These two lines have been grouped in various ways, either with lines 3--4 of stanza <sr>25</sr> or with the fragmentary stanza <sr>27</sr>.
+			No gap is indicated in the manuscript, but the loss of something is so obvious that practically all editors have noted it, although they have differed as to the number of lines lost.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Bothvild then<sep />of her ring did boast,<br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep />``The ring I have broken,<br />
+			I dare not say it<sep />save to thee.''
+		</translation>
+		<comment>
+			No gap indicated in the manuscript; the line and a half might be filled out (partly with the aid of late paper manuscripts) thus:
+			<textstanza class="translation">
+				But soon it broke,<sep />and swiftly to Völund<br />
+				She bore it and said---
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Völund spake:
+		</translation_prelude>
+		<translation>
+			'I shall weld the break<sep />in the gold so well<br />
+			That fairer than ever<sep />thy father shall find it,<br />
+			And better much<sep />thy mother shall think it,<br />
+			And thou no worse<sep />than ever it was."
+		</translation>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Beer he brought,<sep />he was better in cunning,<br />
+			Until in her seat<sep />full soon she slept.<br />
+			<stanzaprelude>Völund spake:</stanzaprelude><br />
+			``Now vengeance I have<sep />for all my hurts,<br />
+			Save one alone,<sep />on the evil woman.''
+		</translation>
+		<comment>
+			The manuscript does not name Völund as the speaker before line 3; Vigfusson again inserts his convenient line,
+			<textstanza class="translation">
+				Then Völund spake,<sep />sagest of elves.
+			</textstanza>
+			A few editions combine lines 3--4 with the two lines of stanza <sr>30</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
+			Quoth Völund: ``Would<sep />that well were the sinews<br />
+			Maimed in my feet<sep />by Nithuth's men.''
+		</translation>
+		<comment>
+			No gap indicated in the manuscript; some editors combine the two lines with lines 3--4 of stanza <sr>29</sr>, and many with the three lines of stanza <sr>31</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Laughing Völund<sep />rose aloft,<br />
+			Weeping Bothvild<sep />went from the isle,<br />
+			For her lover's flight<sep />and her father's wrath.
+		</translation>
+		<comment>
+			Something has probably been lost before this stanza, explaining how Völund made himself wings, as otherwise, owing to his lameness, he could not leave the island.
+			The <src>Thithrekssaga</src> tells the story of how Völund's brother, Egil, shot birds and gave him the feathers, out of which he made a feather-garment.
+			This break in the narrative illustrates the lack of knowledge apparently possessed by the compiler who was responsible for the prose notes; had he known the story told in the <src>Thithrekssaga</src>, it is hardly conceivable that he would have failed to indicate the necessary connecting link at this point.
+			Some editors reject line 3 as spurious.
+			The manuscript does not indicate any lacuna.
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Without stood the wife<sep />of Nithuth wise,<br />
+			And in she came<sep />from the end of the hall;<br />
+			But he by the wall<sep />in weariness sat:<br />
+			``Wakest thou, Nithuth,<sep />lord of the Njars?''
+		</translation>
+		<comment>
+			The manuscript indicates line 4 as the beginning of a stanza, and many editors have followed this arrangement.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Nithuth spake:
+		</translation_prelude>
+		<translation>
+			``Always I wake,<sep />and ever joyless,<br />
+			Little I sleep<sep />since my sons were slain;<br />
+			Cold is my head,<sep />cold was thy counsel,<br />
+			One thing, with Völund<sep />to speak, I wish.
+		</translation>
+		<comment>
+			The manuscript does not name the speaker.
+			It indicates line 3 as the beginning of a new stanza.
+			Vigfusson adds before line 1,
+			<textstanza class="translation">
+				Then spake Nithuth,<sep />lord of the Njars.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			Answer me, Völund,<sep />greatest of elves,<br />
+			What happed with my boys<sep />that hale once were?''
+		</translation>
+		<comment>
+			No gap indicated in the manuscript, but it seems clear that something has been lost.
+			Some editors combine these two lines with lines 3--4 of stanza <sr>33</sr>.
+			Völund is now flying over Nithuth's hall.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Völund spake:
+		</translation_prelude>
+		<translation>
+			``First shalt thou all<sep />the oaths now swear,<br />
+			By the rail of ship,<sep />and the rim of shield,<br />
+			By the shoulder of steed,<sep />and the edge of sword,<br />
+			That to Völund's wife<sep />thou wilt work no ill,<br />
+			Nor yet my bride<sep />to her death wilt bring,<br />
+			Though a wife I should have<sep />that well thou knowest,<br />
+			And a child I should have<sep />within thy hall.
+		</translation>
+		<comment>
+			The manuscript does not name the speaker; Vigfusson again makes two full stanzas with the line,
+			<textstanza class="translation">
+				Then did Völund speak,<sep />sagest of elves.
+			</textstanza>
+			Some editors begin a new stanza with line 4, while others reject as interpolations lines 2--3 or 5--7.
+			<expl>Völund's wife</expl>: the reference is to Bothvild, as Völund wishes to have his vengeance fall more heavily on her father than on her.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Seek the smithy<sep />that thou didst set,<br />
+			Thou shalt find the bellows<sep />sprinkled with blood;<br />
+			I smote off the heads<sep />of both thy sons,<br />
+			And their feet 'neath the sooty<sep />straps I hid.
+		</translation>
+		<comment>
+			Lines 3--4 are nearly identical with lines 3--4 of stanza <sr>24</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Their skulls, once hid<sep />by their hair, I took,<br />
+			Set them in silver<sep />and sent them to Nithuth;<br />
+			Gems full fair<sep />from their eyes I fashioned,<br />
+			To Nithuth's wife<sep />so wise I gave them.
+		</translation>
+		<comment>
+			Identical, except for the pronouns, with stanza <sr>25</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			And from the teeth<sep />of the twain I wrought<br />
+			A brooch for the breast,<sep />to Bothvild I gave it;<br />
+			Now big with child<sep />does Bothvild go,<br />
+			The only daughter<sep />ye two had ever.''
+		</translation>
+		<comment>
+			<expl>Lines 1--2</expl>: Cf. stanza <sr>26</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="39">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Nithuth spake:
+		</translation_prelude>
+		<translation>
+			``Never spakest thou word<sep />that worse could hurt me,<br />
+			Nor that made me, Völund,<sep />more bitter for vengeance;<br />
+			There is no man so high<sep />from thy horse to take thee,<br />
+			Or so doughty an archer<sep />as down to shoot thee,<br />
+			While high in the clouds<sep />thy course thou takest.''
+		</translation>
+		<comment>
+			The manuscript does not name the speaker.
+			Either line 4 or line 5 may be an interpolation; two editions reject lines 3--5, combining lines 1--2 with stanza <sr>40</sr>.
+			In the <src>Thithrekssaga</src> Nithuth actually compels Egil, Völund's brother, to shoot at Völund.
+			The latter has concealed a bladder full of blood under his left arm, and when his brother's arrow pierces this, Nithuth assumes that his enemy has been killed.
+			This episode likewise appears among the scenes from Völund's career rudely carved on an ancient casket of ivory, bearing an Anglo-Saxon inscription in runic letters, which has been preserved.
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Laughing Völund<sep />rose aloft,<br />
+			But left in sadness<sep />Nithuth sat.<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			<expl>Line 1</expl>: cf. stanza <sr>31</sr>.
+			The manuscript indicates no lacuna.
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then spake Nithuth,<sep />lord of the Njars:<br />
+			``Rise up, Thakkrath,<sep />best of my thralls,<br />
+			Bid Bothvild come,<sep />the bright-browed maid,<br />
+			Bedecked so fair,<sep />with her father to speak.''
+		</translation>
+		<comment>
+			The first line is a conjectural addition.
+			<expl>Thakkrath</expl> is probably the northern form of the Middle High German name Dancrat.
+		</comment>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			``Is it true, Bothvild,<sep />that which was told me;<br />
+			Once in the isle<sep />with Völund wert thou?''
+		</translation>
+		<comment>
+			The manuscript indicates no gap, but indicates line 3 as the beginning of a stanza; Vigfusson's added
+			<textstanza class="translation">
+				Then Nithuth spake,<sep />lord of the Njars
+			</textstanza>
+			seems plausible enough.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Bothvild spake:
+		</translation_prelude>
+		<translation>
+			``True is it, Nithuth,<sep />that which was told thee,<br />
+			Once in the isle<sep />with Völund was I,<br />
+			An hour of lust,<sep />alas it should be!<br />
+			Nought was my might<sep />with such a man,<br />
+			Nor from his strength<sep />could I save myself.''
+		</translation>
+		<comment>
+			The manuscript does not name the speaker.
+			Different editors have rejected one or another of the last three lines, and as the manuscript indicates line 4 as the beginning of a new stanza, the loss of two or three lines has likewise been suggested.
+			According to the <src>Thithrekssaga</src>, the son of Völund and Bothvild was Vithga, or Witege, one of the heroes of Dietrich of Bern.
+		</comment>
+	</block>
+</chapter>
