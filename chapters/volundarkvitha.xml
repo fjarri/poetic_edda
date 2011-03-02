@@ -50,21 +50,22 @@
 		The manuscript of the <cr>Völundarkvitha</cr> is in such bad shape, and the conjectural emendations have been so numerous, that in the notes I have attempted to record only the most important of them.
 	</block>
 	<block class="sepline" />
-	<block class="prose">
+	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Ni`þuþr he`t konungr i` Svi`þjo`þ.<br />
+			Hann a`tti tva` sonu ok eina do`ttur; hon he`t Bo~þvildr.<br />
+			Bro_eþr va`ru þri`r, synir Finnakonungs: he`t einn Slagfiþr, annarr Egill, þriþi Vo_elundr.<br />
+			Þeir skriþu ok veiddu dy`r.<br />
+			Þeir ko`mu i` U`lfdali ok go/rþu se`r þar hu`s; þar er vatn er heitir U`lfsja`r.<br />
+			Snemma of morgin fundu þeir a` vatnsstro~ndu konur þrja`r, ok spunnu li`n.<br />
+			Þar va`ru hja` þeim a`lptarhamir þeira: þat va`ru valkyrjur.<br />
+			Þar va`ru tva_er do_etr Hlo~þves konungs, Hlaþguþr svanhvi`t ok Hervo~r alvitr, en þriþja var O~lru`n Kja`rs do`ttir af Vallandi.<br />
+			Þeir ho~fþu þa_er heim til ska`la meþ se`r.<br />
+			Fekk Egill O~lru`nar, en Slagfiþr Svanhvi`trar, en Vo_elundr Alvitrar.<br />
+			Þau bjuggu sjau vetr; þa` flugu þa_er at vitja vi`ga ok ko`mu eigi aptr.<br />
+			Þa` skreiþ Egill at leita O~lru`nar, en Slagfiþr leitaþi Svanhvi`trar, en Vo_elundr sat i` U`lfdo~lum.<br />
+			Hann var hagastr maþr, sva` at menn viti i` fornum so~gum.<br />
+			Ni`þuþr konungr le`t hann ho~ndum taka, sva` sem he`r er um kveþit.
 		</original>
 		<translation>
 			There was a king in Sweden named Nithuth.<br />
@@ -102,10 +103,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Meyjar flugu sunnan<sep />myrkviþ i` go/gnum,<br />
+			alvi`tr ungar,<sep />o/rlo~g dry`gja;<br />
+			þa_e`r a` sa_e`varstro~nd<sep />settusk at hvi`lask,<br />
+			dro`sir suþro/`nar<sep />dy`rt li`n spunnu.
 		</original>
 		<translation>
 			Maids from the south<sep />through Myrkwood flew,<br />
@@ -121,8 +122,8 @@
 	<block class="stanza" number="2">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			Hlaþguþr ok Hervo~r,<sep /><conj>Hlo~þve` bornar</conj>,<br />
+			kunn vas O~lru`n<sep />Ki::ars do`ttir.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -136,8 +137,8 @@
 	<block class="stanza" number="3">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			ein nam þeira<sep />Egil at verja,<br />
+			fo~gr ma_e`r fira,<sep />faþmi ljo`sum.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -151,10 +152,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
+			O~nnur vas svanhvi`t,<sep />svanfjaþrar dro`<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			en en þriþja,<sep />þeira systir,<br />
+			varþi hvi`tan<sep />hals Vo/`lundar.
 		</original>
 		<translation>
 			Swan-White second,---<sep />swan-feathers she wore,<br />
@@ -168,16 +169,16 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			So~`tu si`þan<sep />sjau vetr at þat,<br />
+			en enn a`tta<sep />allan þro~`þu,<br />
+			[en enn niunda<sep />nauþr of skilþi;]<br />
+			meyjar fy`stusk<sep />a` myrkvan viþ,<br />
+			alvi`tr ungar,<sep />o/rlo~g dry`gja.
 		</original>
 		<translation>
 			There did they sit<sep />for seven winters,<br />
 			In the eighth at last<sep />came their longing again,<br />
-			(And in the ninth<sep />did need divide them).<br />
+			[And in the ninth<sep />did need divide them.]<br />
 			The maidens yearned<sep />for the murky wood,<br />
 			The fair young maids,<sep />their fate to follow.
 		</translation>
@@ -187,10 +188,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvam þar af veiþi<sep />veþreygr skyti,<br />
+			<conj>Vo_elundr li`þandi</conj><sep /><conj>of langan veg,</conj><br />
+			Slagfiþr ok Egill,<sep />sali fundu auþa,<br />
+			gengu u`t ok inn<sep />ok umb so~usk.
 		</original>
 		<translation>
 			Völund home<sep />from his hunting came,<br />
@@ -205,9 +206,9 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
+			Austr skreiþ Egill<sep />at O~lru`nu,<br />
+			en suþr Slagfiþr<sep />at Svanhvi`tu,<br />
+			en einn Vo/`lundr<sep />sat i` Ulfdo~lum.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -219,15 +220,21 @@
 		<comment>
 			The manuscript marks the second, and not the first, line as the beginning of a stanza.
 			Some editors combine lines 2--3 with all or part of stanza <sr>8</sr>.
-			No gap is indicated in the manuscript, but many editors have assumed one, some of them accepting Bugge's suggested ``Till back the maiden bright should come.''
+			No gap is indicated in the manuscript, but many editors have assumed one, some of them accepting Bugge's suggested
+			<textstanza class="translation">
+				Till back the maiden<sep />bright should come.
+			</textstanza>
+			<textstanza class="original">
+				(unz Alvitr unga<sep />aptr ko/`mi)
+			</textstanza
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hann slo` gull rautt<sep />viþ gim fa`stan,<br />
+			lukþi hann alla<sep />lind bauga vel;<br />
+			sva` beiþ <conj>lengi</conj><sep />ljo`ssar sinnar<br />
+			kva`nar, ef ho~`num<sep />of koma go/rþi.
 		</original>
 		<translation>
 			Red gold he fashioned<sep />with fairest gems,<br />
@@ -242,10 +249,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þat spyrr Ni`þo~þr,<sep />Ni::ara dro`ttinn,<br />
+			at einn Vo/`lundr<sep />sat i` Ulfdo~lum:<br />
+			no~`ttum fo`ru seggir,<sep />negldar vo~`ru brynjur,<br />
+			skildir bliku þeira<sep />viþ enn skarþa ma`na.
 		</original>
 		<translation>
 			This Nithuth learned,<sep />the lord of the Njars,<br />
@@ -260,10 +267,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Stigu o`r so~þlum<sep />at salar gafli,<br />
+			gengu inn þaþan<sep />endlangan sal;<br />
+			so~u þeir a` basti<sep />bauga dregna,<br />
+			sjau hundruþ allra<sep />es sa` seggr a`tti.
 		</original>
 		<translation>
 			From their saddles the gable<sep />wall they sought,<br />
@@ -277,8 +284,8 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			Ok þeir af to`ku<sep />ok þeir a` le`tu<br />
+			fyr einn u`tan,<sep />es þeir af le`tu;<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -295,18 +302,18 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvam þar af veiþi<sep />veþreygr skyti,<br />
+			Vo/`lundr li`þandi<sep />of langan veg;<br />
+			gekk bru`nnar<sep />beru hold steikja,<br />
+			a`r brann hri`si<sep />allþurru fu`rr,<br />
+			[viþr enn vindþurri<sep />fyr Vo/`lundi.]
 		</original>
 		<translation>
 			Völund home<sep />from his hunting came,<br />
 			From a weary way,<sep />the weather-wise bowman;<br />
 			A brown bear's flesh<sep />would he roast with fire;<br />
 			Soon the wood so dry<sep />was burning well,<br />
-			(The wind-dried wood<sep />that Völund's was).
+			[The wind-dried wood<sep />that Völund's was.]
 		</translation>
 		<comment>
 			The manuscript indicates line 3, and not line 1, as the beginning of a stanza, which has given rise to a large amount of conjectural rearrangement.
@@ -319,10 +326,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sat a` berfjalli,<sep />bauga talþi<br />
+			alfa ljo`þi,<sep />eins saknaþi;<br />
+			hugþi at hefþi<sep />Hlo~þve`s do`ttir,<br />
+			alvi`tr unga,<sep />va_eri aptr komin.
 		</original>
 		<translation>
 			On the bearskin he rested,<sep />and counted the rings,<br />
@@ -337,10 +344,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sat sva` lengi,<sep />at sofnaþi,<br />
+			ok vaknaþi<sep />viljalauss:<br />
+			vissi ser a` ho~ndum<sep />ho~fgar nauþir,<br />
+			en a` fo`tum<sep />fjo~tur of spentan.
 		</original>
 		<translation>
 			So long he sat<sep />that he fell asleep,<br />
@@ -351,14 +358,14 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-
+			Vo_elundr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hverir'u jo~frar<sep />þeirs a` lo~gþu<br />
+			bestisi`ma<sep />ok mik bundu?''<br />
+			[Kallaþi Ni`þo~þr,<sep />Ni::ara dro`ttinn:]<br />
+			``Hvar gazt, Vo/`lundr,<sep />vi`si alfa!<br />
+			o`ra aura<sep />i` Ulfdo~lum?''
 		</original>
 		<translation_prelude>
 			Völund spake:
@@ -379,13 +386,13 @@
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-
+			Vo_elundr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Goll vas þar eigi<sep />a` Grana leiþu,<br />
+			fjarri hykk va`rt<sep />land fjo~llum Ri`nar;<br />
+			mank at meiri<sep />ma_e`ti o~`ttum,<br />
+			es heil hiu<sep />heima vo~`rum.''
 		</original>
 		<translation_prelude>
 			Völund spake:
@@ -405,10 +412,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>U`ti stendr kunnig</conj><sep /><conj>kvo~`n Ni`þaþar</conj>,<br />
+			ho`n inn of gekk<sep />endlangan sal,<br />
+			sto`þ a` golfi,<sep />stilti ro~ddu:<br />
+			``Esa sa` nu` hy`rr<sep />es o`r holti ferr.''
 		</original>
 		<translation>
 			Without stood the wife<sep />of Nithuth wise,<br />
@@ -424,14 +431,13 @@
 			Gering assumes that with the entrance of Nithuth's wife the scene has changed from Völund's house to Nithuth's, but I cannot see that this is necessary.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="p18">
 		<original>
-			<br />
-			<br />
+			Ni`þuþr konungr gaf do`ttur sinni Bo~þvildi gullhring þann er hann to`k af bastinu at Vo_elundar, en hann sja`lfr bar sverþit er Vo_elundr a`tti.<br />
+			En drottning kvaþ:
 		</original>
 		<translation>
-			King Nithuth gave to his daughter Bothvild the gold ring that he had taken from the bast rope in Völund's<br />
-			house, and he himself wore the sword that Völund had had.<br />
+			King Nithuth gave to his daughter Bothvild the gold ring that he had taken from the bast rope in Völund's house, and he himself wore the sword that Völund had had.<br />
 			The queen spake:
 		</translation>
 		<comment>
@@ -440,11 +446,11 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``A`mun eru augu<sep />ormi fra`na,<br />
+			tenn ho~num teygjask,<sep />es te`t es sverþ<br />
+			ok Bo~þvildar<sep />baug of þekkir;<br />
+			sni`þiþ e`r hann<sep />sinva magni<br />
+			ok setiþ si`þan<sep />i` Sa_e`varsto~þ.''
 		</original>
 		<translation>
 			``The glow of his eyes<sep />is like gleaming snakes,<br />
@@ -459,11 +465,12 @@
 			<expl>Sævarstath</expl>: ``Sea-Stead.''
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="p19">
 		<original>
-			<br />
-			<br />
-			<br />
+			Sva` var go~rt, at skornar va`ru sinar i` kne`sfo`tum, ok settr i` ho`lm einn er þar var fyr landi, er he`t Sa_evarstaþr.<br />
+			Þar smi`þaþi hann konungi allskyns go/rsimar.<br />
+			Engi maþr þorþi at fara til hans nema konungr einn.<br />
+			Vo_elundr kvaþ:
 		</original>
 		<translation>
 			So was it done: the sinews in his knee-joints were cut, and he was set in an island which was near the mainland, and was called Sævarstath.<br />
@@ -474,22 +481,22 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ski`nn Ni`þaþi<sep /><conj>narr</conj> a` linda<br />
+			<conj>sa`s</conj> ek hvesta<sep />sem hagast kunnak<br />
+			[ok ek herþak<sep />sem ho/`gst þo`ttumk;]<br />
+			sa`'s me`r fra`nn ma_e`kir<sep />a_e` fjarri borinn,<br />
+			[se`kka þann Vo/`lundi<sep />til smiþju borinn,]<br />
+			nu` berr Bo~þvildr<sep />[bru`þar minnar<br />
+			---bi`þka þess bo`t---]<sep />bauga rauþa.''
 		</original>
 		<translation>
 			``At Nithuth's girdle<sep />gleams the sword<br />
 			That I sharpened keen<sep />with cunningest craft,<br />
-			(And hardened the steel<sep />with highest skill;)<br />
+			[And hardened the steel<sep />with highest skill;]<br />
 			The bright blade far<sep />forever is borne,<br />
-			(Nor back shall I see it<sep />borne to my smithy;)<br />
+			[Nor back shall I see it<sep />borne to my smithy;]<br />
 			Now Bothvild gets<sep />the golden ring<br />
-			(That was once my bride's,---<sep />ne'er well shall it be.)''
+			[That was once my bride's,---<sep />ne'er well shall it be.]''
 		</translation>
 		<comment>
 			This stanza is obviously in bad shape.
@@ -497,16 +504,19 @@
 			<textstanza class="translation">
 				Then did Völund speak,<sep />sagest of elves.
 			</textstanza>
+			<textstanza class="original">
+				(Þa` kvaþ þat Vo/`lundr,<sep />vi`si alfa.)
+			</textstanza
 			Editors have rejected various lines, and some have regrouped the last lines with the first two of stanza <sr>20</sr>.
 			The elimination of the passages in parenthesis produces a four-line stanza which is metrically correct, but it has little more than guesswork to support it.
 		</comment>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sat, ne` svaf, ofvalt<sep />ok slo` hamri,<br />
+			ve`l go/rþi heldr<sep />hvatt Ni`þaþi;<br />
+			drifu ungir tveir<sep />a` dyrr sea<br />
+			synir Ni`þaþar<sep />i` Sa_e`varsto~þ.
 		</original>
 		<translation>
 			He sat, nor slept,<sep />and smote with his hammer,<br />
@@ -521,10 +531,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvo~`mu til kistu,<sep />kro~fþu lukla,<br />
+			opin vas illu`þ<sep />es i` so~u;<br />
+			vas þar menja fjo~lþ,<sep />es mo~gum sy`ndisk<br />
+			goll rautt <conj>vesa</conj><sep />ok go/rsimar.
 		</original>
 		<translation>
 			They came to the chest,<sep />and they craved the keys,<br />
@@ -539,13 +549,13 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-
+			Vo_elundr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Komiþ einir tveir,<sep />komiþ annars dags!<br />
+			la_e`tk goll þat ykkr<sep />of gefit verþa:<br />
+			segiþa meyjum<sep />ne` salþjo`þum,<br />
+			manni o/ngum,<sep />at mik fyndiþ.''
 		</original>
 		<translation_prelude>
 			Völund spake:
@@ -565,8 +575,8 @@
 	<block class="stanza" number="23">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			snimma kallaþi<sep />seggr a` annan,<br />
+			bro`þir a` bro`þur:<sep />``go~ngum baug sea!''
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -580,10 +590,10 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvo~`mu til kistu,<sep />kro~fþu lukla,<br />
+			opin vas illu`þ<sep />es i` litu;<br />
+			sneiþ af haufuþ<sep />hu`na þeira<br />
+			ok und fen fjo~turs<sep />fo/`tr of lagþi.
 		</original>
 		<translation>
 			They came to the chest,<sep />and they craved the keys,<br />
@@ -597,10 +607,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En ska`lar þa_e`r,<sep />es und sko~rum vo~`ru,<br />
+			sveip u`tan silfri,<sep />seldi Ni`þaþi,<br />
+			en o`r augum<sep />jarknasteina,<br />
+			sendi kunnigri<sep />kvo~`n Ni`þaþar.
 		</original>
 		<translation>
 			Their skulls, once hid<sep />by their hair, he took,<br />
@@ -614,8 +624,8 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			En o`r to~nnum<sep />tveggja þeira<br />
+			slo` brjo`stkringlur,<sep />sendi Bo~þvildi;<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -630,10 +640,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
+			Þa nam Bo~þvildr<sep />baugi at hro`sa<br />
 			<lacuna /><sep /><lacuna /><br />
-			<lacuna /><sep /><br />
-			<sep />
+			<lacuna /><sep />es brotit hafþi:<br />
+			``Þorigak segja<sep />nema þe`r einum.''
 		</original>
 		<translation>
 			Bothvild then<sep />of her ring did boast,<br />
@@ -651,31 +661,31 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-
+			Vo_elundr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ek bo/`ti sva`<sep />brest a` golli,<br />
+			at feþr þi`num<sep />fegri þykkir,<br />
+			ok mo/`þr þinni<sep />miklu betri,<br />
+			ok sjalfri þe`r<sep />at sama ho`fi.''
 		</original>
 		<translation_prelude>
 			Völund spake:
 		</translation_prelude>
 		<translation>
-			'I shall weld the break<sep />in the gold so well<br />
+			``I shall weld the break<sep />in the gold so well<br />
 			That fairer than ever<sep />thy father shall find it,<br />
 			And better much<sep />thy mother shall think it,<br />
-			And thou no worse<sep />than ever it was."
+			And thou no worse<sep />than ever it was.''
 		</translation>
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			Bar hana bjo`ri,<sep />þvi`t hann betr kunni,<br />
+			sva`t i` sessi ho`n<sep />of sofnaþi:<br />
+			<stanzaprelude>Vo_elundr kvaþ:</stanzaprelude><br />
+			``Nu` hefk of hefnt<br />harma minna
+			allra nema eins<sep />i`viþgjarnri.''
 		</original>
 		<translation>
 			Beer he brought,<sep />he was better in cunning,<br />
@@ -689,6 +699,9 @@
 			<textstanza class="translation">
 				Then Völund spake,<sep />sagest of elves.
 			</textstanza>
+			<textstanza class="original">
+				(Þa` kvaþ þat Vo/`lundr, vi`si alfa.)
+			</textstanza>
 			A few editions combine lines 3--4 with the two lines of stanza <sr>30</sr>.
 		</comment>
 	</block>
@@ -696,8 +709,8 @@
 		<original>
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			``Vel ek,'' kvaþ Vo/`lundr,<sep />``verþak a` fitjum<br />
+			þeims mik Ni`þaþar<sep />no~`mu rekkar.''
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -711,9 +724,9 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hla_e`jandi Vo/`lundr,<sep />ho`fsk at lopti,<br />
+			gra`tandi Bo~þvildr<sep />gekk o`r eyju;<br />
+			tregþi fo~r friþils<sep />ok fo~þur vreiþi
 		</original>
 		<translation>
 			Laughing Völund<sep />rose aloft,<br />
@@ -730,10 +743,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			U`ti stendr kunnig<sep />kvo~`n Ni`þaþar,<br />
+			ho`n inn of gekk<sep />endlangan sal;<br />
+			en hann a` salgarþ<sep />settisk at hvi`lask:<br />
+			``Vakir þu`, Ni`þo~þr,<sep />Ni::ara dro`ttinn?''
 		</original>
 		<translation>
 			Without stood the wife<sep />of Nithuth wise,<br />
@@ -747,13 +760,13 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-
+			Ni`þuþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vaki ek ofvalt<sep />viljalauss,<br />
+			sofna ek minst<sep />si`z sunu dauþa;<br />
+			ko~lumk i` haufuþ,<sep />ko~ld erumk ro~`þ þi`n,<br />
+			vilnumk þess nu`,<sep />at viþ Vo/`lund do/`mak.
 		</original>
 		<translation_prelude>
 			Nithuth spake:
@@ -771,13 +784,16 @@
 			<textstanza class="translation">
 				Then spake Nithuth,<sep />lord of the Njars.
 			</textstanza>
+			<textstanza class="original">
+				(Þa` kvaþ þat Ni`þoþr,<sep />Ni::ara dro`ttinn.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<br />
-			<sep /><br />
-			<sep />
+			<lacuna /><sep /><lacuna /><br />
+			Seg mer þat, Vo/`lundr,<sep />vi`si alfa!<br />
+			af heilum hvat varþ<sep /><conj>hu`num</conj> mi`num?''
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -792,16 +808,16 @@
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-
+			Vo_elundr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Eiþa skalt a`þr<sep />alla vinna<br />
+			at skips borþi<sep />ok at skjaldar ro~nd,<br />
+			at mars bo/`gi<sep />ok at ma_e`kis egg:<br />
+			at þu` kveljat<sep />kvo~`n Vo/`lundar<br />
+			ne` bru`þi minni<sep />at bana verþir,<br />
+			þo`t kvo~`n eigim<sep />þa`s e`r kunnuþ,<br />
+			eþa jo`þ eigim<sep />innan hallar.
 		</original>
 		<translation_prelude>
 			Völund spake:
@@ -820,16 +836,19 @@
 			<textstanza class="translation">
 				Then did Völund speak,<sep />sagest of elves.
 			</textstanza>
+			<textstanza class="original">
+				(Þa` kvaþ þat Vo/`lundr, vi`si alfa.)
+			</textstanza>
 			Some editors begin a new stanza with line 4, while others reject as interpolations lines 2--3 or 5--7.
 			<expl>Völund's wife</expl>: the reference is to Bothvild, as Völund wishes to have his vengeance fall more heavily on her father than on her.
 		</comment>
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gakk til smiþju<sep />es þu` go/rþir,<br />
+			þar fiþr belgi<sep />blo`þi stokkna;<br />
+			sneiþk af haufuþ<sep />hu`na þinna<br />
+			ok und fen fjo~turs<sep />fo/`tr of lagþak.
 		</original>
 		<translation>
 			Seek the smithy<sep />that thou didst set,<br />
@@ -843,10 +862,10 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En ska`lar þa_e`r<sep />es und sko~rum vo~`ru<br />
+			sveipk u`tan silfri,<sep />seldak Ni`þaþi,<br />
+			en o`r augum<sep />jarknasteina<br />
+			sendak kunnigri<sep />kvo~`n Ni`þaþar.
 		</original>
 		<translation>
 			Their skulls, once hid<sep />by their hair, I took,<br />
@@ -860,10 +879,10 @@
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En o`r to~nnum<sep />tveggja þeira<br />
+			slo`k brjo`stkringlur,<sep />sendak Bo~þvildi;<br />
+			nu` gengr Bo~þvildr<sep />barni aukin,<br />
+			eingado`ttir<sep />ykkur beggja.''
 		</original>
 		<translation>
 			And from the teeth<sep />of the twain I wrought<br />
@@ -877,14 +896,14 @@
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-
+			Ni`þuþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ma_e`ltira ma`l<sep />es mik meirr tregi,<br />
+			ne` þik viljak, Vo/`lundr!<sep />verr of neita:<br />
+			esat sva` maþr ho~`r,<sep />at þik af hesti taki,<br />
+			ne` sva` o~flugr,<sep />at þik neþan skjo`ti,<br />
+			þars þu` skollir<sep />viþ sky` uppi.''
 		</original>
 		<translation_prelude>
 			Nithuth spake:
@@ -906,8 +925,8 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			Hla_e`jandi Vo/`lundr<sep />ho`fsk at lopti,<br />
+			en o`ka`tr Ni`þo~þr<sep />sat þa` eptir.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -920,12 +939,13 @@
 			The manuscript indicates no lacuna.
 		</comment>
 	</block>
+	<block class="sepline" />
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Þa` kvaþ þat Ni`þo~þr,</conj><sep /><conj>Ni::ara dro`ttinn:</conj><br />
+			``Upp ri`s, Þakkra`þr,<sep />þra_e`ll minn bazti!<br />
+			biþ Bo~þvildi<sep />ena bra`hvi`tu,<br />
+			gangi fagrvariþ<sep />viþ fo~þur ro/`þa.''
 		</original>
 		<translation>
 			Then spake Nithuth,<sep />lord of the Njars:<br />
@@ -941,8 +961,8 @@
 	<block class="stanza" number="42">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			``Es þat satt, Bo~þvildr!<sep />es so~gþu me`r:<br />
+			so~`tuþ it Vo/`lundr<sep />saman i` holmi?''
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -954,19 +974,22 @@
 			<textstanza class="translation">
 				Then Nithuth spake,<sep />lord of the Njars
 			</textstanza>
+			<textstanza class="original">
+				(Þa` kvaþ þat Ni`þo~þr,<sep />Ni::ara dro`ttinn)
+			</textstanza>
 			seems plausible enough.
 		</comment>
 	</block>
 	<block class="stanza" number="43">
 		<original_prelude>
-
+			Bo~þvildr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Satt's þat, Ni`þo~þr!<sep />es sagþi þe`r:<br />
+			so~`tum vit Vo/`lundr<sep />saman i` holmi<br />
+			eina o~gurstund,<sep />a_e`va skyldi!<br />
+			ek va_e`tr ho~`num<sep />vinna kunnak,<br />
+			ek va_e`tr ho~`num<sep />vinna ma`ttak.''
 		</original>
 		<translation_prelude>
 			Bothvild spake:
