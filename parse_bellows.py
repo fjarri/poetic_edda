@@ -128,13 +128,19 @@ if __name__ == '__main__':
 	blocks = f.read().split(u"\n\n")
 	f.close()
 
-	c = Element('chapter', icelandic_name="", english_name="", translation="")
+	c = Element('chapter', label="")
+
+	# Add block with chapter header
+	header_block = Element('block', attrib={'class': 'eddachapter'})
+	for tag in ('original', 'transliteration', 'translation'):
+		elem = Element(tag)
+		elem.text = ""
+		header_block.append(elem)
+	c.append(header_block)
 
 	# Add block with 'Introductory Note' header
-	intro_block = Element('block', attrib={'class': 'text'})
-	intro_section = Element('section')
-	intro_section.text = 'Introductory Note'
-	intro_block.append(intro_section)
+	intro_block = Element('block', attrib={'class': 'section'})
+	intro_block.text = 'Introductory Note'
 	c.append(intro_block)
 
 	# remove page marks
