@@ -204,9 +204,9 @@ Svipdagsmol (26 Feb 2011)
 * Added Svipdagsmol chapter;
 * Printing headings in English instead of Old Norse (like in Bellows)
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-Volundarkvitha (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Volundarkvitha (4 Mar 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Volundarkvitha chapter;
 * Fixed some non-substituted 'U+macron' symbols in Svipdagsmol;
