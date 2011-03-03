@@ -164,7 +164,13 @@
 			Next round Völund's<sep />neck so white.
 		</translation>
 		<comment>
-			No lacuna indicated in the manuscript; one editor fills the stanza out with a second line running: “Then to her breast Slagfith embraced.”
+			No lacuna indicated in the manuscript; one editor fills the stanza out with a second line running:
+			<textstanza class="translation">
+				Then to her breast<sep />Slagfith embraced.
+			</textstanza>
+			<textstanza class="original">
+				(es Slagfinni<sep />hendr um sløngþi.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="5">
