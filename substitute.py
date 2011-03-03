@@ -73,7 +73,7 @@ def substitute(elem, chapter=None):
 	elem.tail = substituteText(elem.tail, elem.tag)
 
 	if elem.tag == 'chapter':
-		chapter = elem.attrib['english_name']
+		chapter = elem.attrib['label']
 
 	if elem.tag == 'src':
 		elem.tag = 'source'
