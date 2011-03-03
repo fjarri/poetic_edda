@@ -457,7 +457,19 @@ if __name__ == '__main__':
 		root = tree.getroot()
 		deprettify(root)
 
-		res = u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
+		res = ""
+
+		# FIXME: temporary workaround to make last chapters start at root of ToC
+		# and not belong to any of two parts.
+		# This can be derived from the document structure itself,
+		# when I start to keep it in XML too (instead of TeX)
+
+		# Now it just resets the ToC depth counter using package 'bookmark'
+		if 'resetpart' in root.attrib and root.attrib['resetpart'] == 'true':
+			res += u"\\bookmarksetup{startatroot}\n" + \
+				"\\addtocontents{toc}{\\protect\\vspace*{\\baselineskip}\\protect}\n\n"
+
+		res += u"\n\n".join([handlers[block.attrib['class']](block) for block in root])
 
 		f = codecs.open("build/" + name + ".tex", "w", "utf-8")
 		f.write(res)
