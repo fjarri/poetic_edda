@@ -122,7 +122,7 @@
 	<block class="stanza" number="2">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			Hlaþguþr ok Hervo~r,<sep /><conj>Hlo~þve` bornar</conj>,<br />
+			Hlaþguþr ok Hervo~r,<sep /><conj>Hlo~þve` bornar,</conj><br />
 			kunn vas O~lru`n<sep />Ki::ars do`ttir.
 		</original>
 		<translation>
@@ -225,7 +225,7 @@
 				Till back the maiden<sep />bright should come.
 			</textstanza>
 			<textstanza class="original">
-				(unz Alvitr unga<sep />aptr ko/`mi)
+				(unz Alvitr unga<sep />aptr ko/`mi.)
 			</textstanza
 		</comment>
 	</block>
@@ -390,7 +390,7 @@
 		</original_prelude>
 		<original>
 			``Goll vas þar eigi<sep />a` Grana leiþu,<br />
-			fjarri hykk va`rt<sep />land fjo~llum Ri`nar;<br />
+			fjarri hykk va`rt land<sep />fjo~llum Ri`nar;<br />
 			mank at meiri<sep />ma_e`ti o~`ttum,<br />
 			es heil hiu<sep />heima vo~`rum.''
 		</original>
@@ -412,7 +412,7 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<conj>U`ti stendr kunnig</conj><sep /><conj>kvo~`n Ni`þaþar</conj>,<br />
+			<conj>U`ti stendr kunnig</conj><sep /><conj>kvo~`n Ni`þaþar,</conj><br />
 			ho`n inn of gekk<sep />endlangan sal,<br />
 			sto`þ a` golfi,<sep />stilti ro~ddu:<br />
 			``Esa sa` nu` hy`rr<sep />es o`r holti ferr.''
@@ -553,7 +553,7 @@
 		</original_prelude>
 		<original>
 			``Komiþ einir tveir,<sep />komiþ annars dags!<br />
-			la_e`tk goll þat ykkr<sep />of gefit verþa:<br />
+			la_e`tk goll þat ykkr<sep />of gefit verþa;<br />
 			segiþa meyjum<sep />ne` salþjo`þum,<br />
 			manni o/ngum,<sep />at mik fyndiþ.''
 		</original>
@@ -640,7 +640,7 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			Þa nam Bo~þvildr<sep />baugi at hro`sa<br />
+			Þa` nam Bo~þvildr<sep />baugi at hro`sa<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep />es brotit hafþi:<br />
 			``Þorigak segja<sep />nema þe`r einum.''
@@ -726,7 +726,7 @@
 		<original>
 			Hla_e`jandi Vo/`lundr,<sep />ho`fsk at lopti,<br />
 			gra`tandi Bo~þvildr<sep />gekk o`r eyju;<br />
-			tregþi fo~r friþils<sep />ok fo~þur vreiþi
+			tregþi fo~r friþils<sep />ok fo~þur vreiþi.
 		</original>
 		<translation>
 			Laughing Völund<sep />rose aloft,<br />
