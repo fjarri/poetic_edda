@@ -208,7 +208,14 @@ Svipdagsmol (26 Feb 2011)
 Volundarkvitha (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Volundarkvitha chapter
+* Added Volundarkvitha chapter;
+* Fixed some non-substituted 'U+macron' symbols in Svipdagsmol
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helgakvitha Hjorvarthssonar (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Helgakvitha Hjorvarthssonar chapter
 * Fix the problem with not working \nopagebreak between \addsec and longtable
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
@@ -231,3 +238,5 @@ Tasks for distant future
   (or just tune the column widths to avoid oversized hboxes in stanzas)
 * Do not break the line after ndash separating two numbers
 * Refactor scripts
+* Add all missing text from paperback (i.e., Acknowledgement and
+  list of proper names)
