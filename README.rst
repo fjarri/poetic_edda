@@ -209,7 +209,8 @@ Volundarkvitha (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Volundarkvitha chapter;
-* Fixed some non-substituted 'U+macron' symbols in Svipdagsmol
+* Fixed some non-substituted 'U+macron' symbols in Svipdagsmol;
+* Fixed disappeared running headings (the bug was introduced in Rigsthula)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Helgakvitha Hjorvarthssonar (planned)

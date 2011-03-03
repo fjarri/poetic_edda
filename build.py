@@ -413,7 +413,7 @@ def printChapterHeader(block):
 	return u"\\eddasimplechapter{" + block.text + u'}'
 
 def printSectionHeader(block):
-	return u"\\addsec*{" + block.text + u"}"
+	return u"\\section*{" + block.text + u"}"
 
 def printEddaSectionHeader(block):
 	return u"\\eddasepline\n\n\\eddasection{" + block.find('transliteration').text + \
