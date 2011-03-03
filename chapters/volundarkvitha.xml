@@ -1,7 +1,7 @@
 <chapter label="Völundarkvitha">
 	<block class="eddachapter">
 		<original>
-			Vo/`lundarkviþa
+			Vø̄lundarkviþa
 		</original>
 		<transliteration>
 			Völundarkvitha
@@ -14,58 +14,58 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		Between the <cr>Thrymskvitha</cr> and the <cr>Alvissmol</cr> in the <src>Codex Regius</src> stands the <cr>Völundarkvitha</cr>.
-		It was also included in the <src>Arnamagnæan Codex</src>, but unluckily it begins at the very end of the fragment which has been preserved, and thus only a few lines of the opening prose remain.
-		This is doubly regrettable because the text in <src>Regius</src> is unquestionably in very bad shape, and the other manuscript would doubtless have been of great assistance in the reconstruction of the poem.
+		Between the <chapterref>Thrymskvitha</chapterref> and the <chapterref>Alvissmol</chapterref> in the <source>Codex Regius</source> stands the <chapterref>Völundarkvitha</chapterref>.
+		It was also included in the <source>Arnamagnæan Codex</source>, but unluckily it begins at the very end of the fragment which has been preserved, and thus only a few lines of the opening prose remain.
+		This is doubly regrettable because the text in <source>Regius</source> is unquestionably in very bad shape, and the other manuscript would doubtless have been of great assistance in the reconstruction of the poem.
 	</block>
 	<block class="text">
-		There has been a vast amount written regarding the Weland tradition as a whole, discussing particularly the relations between the <cr>Völundarkvitha</cr> and the Weland passage in <src>Deor's Lament</src>.
+		There has been a vast amount written regarding the Weland tradition as a whole, discussing particularly the relations between the <chapterref>Völundarkvitha</chapterref> and the Weland passage in <source>Deor's Lament</source>.
 		There can be little question that the story came to the North from Saxon regions, along with many of the other early hero tales.
-		In stanza <sr>16</sr> the Rhine is specifically mentioned as the home of treasure; and the presence of the story in Anglo-Saxon poetry probably as early as the first part of the eighth century proves beyond a doubt that the legend cannot have been a native product of Scandinavia.
+		In stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> the Rhine is specifically mentioned as the home of treasure; and the presence of the story in Anglo-Saxon poetry probably as early as the first part of the eighth century proves beyond a doubt that the legend cannot have been a native product of Scandinavia.
 		In one form or another, however, the legend of the smith persisted for centuries throughout all the Teutonic lands, and the name of Wayland Smith is familiar to all readers of Walter Scott, and even of Rudyard Kipling's tales of England.
 	</block>
 	<block class="text">
 		In what form this story reached the North is uncertain.
-		Sundry striking parallels between the diction of the <cr>Völundarkvitha</cr> and that of the Weland passage in <src>Deor's Lament</src> make it distinctly probable that a Saxon song on this subject had found its way to Scandinavia or Iceland.
-		But the prose introduction to the poem mentions the ``old sagas'' in which Völund was celebrated, and in the <src>Thithrekssaga</src> we have definite evidence of the existence of such prose narrative in the form of the <src>Velentssaga</src> (Velent, Völund, Weland, and Wayland all being, of course, identical), which gives a long story for which the <cr>Völundarkvitha</cr> can have supplied relatively little, if any, of the material.
+		Sundry striking parallels between the diction of the <chapterref>Völundarkvitha</chapterref> and that of the Weland passage in <source>Deor's Lament</source> make it distinctly probable that a Saxon song on this subject had found its way to Scandinavia or Iceland.
+		But the prose introduction to the poem mentions the “old sagas” in which Völund was celebrated, and in the <source>Thithrekssaga</source> we have definite evidence of the existence of such prose narrative in the form of the <source>Velentssaga</source> (Velent, Völund, Weland, and Wayland all being, of course, identical), which gives a long story for which the <chapterref>Völundarkvitha</chapterref> can have supplied relatively little, if any, of the material.
 		It is probable, then, that Weland stories were current in both prose and verse in Scandinavia as early as the latter part of the ninth century.
 	</block>
 	<block class="text">
 		Once let a figure become popular in oral tradition, and the number and variety of the incidents connected with his name will increase very rapidly.
 		Doubtless there were scores of Weland stories current in the eighth, ninth, and tenth centuries, many of them with very little if any traditional authority.
-		The main one, however, the story of the laming of the smith by King Nithuth (or by some other enemy) and of Weland's terrible revenge, forms the basis of the <cr>Völundarkvitha</cr>.
+		The main one, however, the story of the laming of the smith by King Nithuth (or by some other enemy) and of Weland's terrible revenge, forms the basis of the <chapterref>Völundarkvitha</chapterref>.
 		To this, by way of introduction, has been added the story of Völund and the wan-maiden, who, to make things even more complex, is likewise aid to be a Valkyrie.
-		Some critics maintain that these two sections were originally two distinct poems, merely strung together by the compiler with the help of narrative prose links; but the poem as a whole has a kind of dramatic unity which suggests rather that an early poet---for linguistically the poem belongs among the oldest of the Eddic collection---used two distinct legends, whether in prose or verse, as the basis for the composition of a new and homogeneous poem.
+		Some critics maintain that these two sections were originally two distinct poems, merely strung together by the compiler with the help of narrative prose links; but the poem as a whole has a kind of dramatic unity which suggests rather that an early poet—for linguistically the poem belongs among the oldest of the Eddic collection—used two distinct legends, whether in prose or verse, as the basis for the composition of a new and homogeneous poem.
 	</block>
 	<block class="text">
 		The swan-maiden story appears, of course, in many places quite distinct from the Weland tradition, and, in another form, became one of the most popular of German folk tales.
 		Like the story of Weland, however, it is of German rather than Scandinavian origin, and the identification of the swan-maidens as Valkyries, which may have taken place before the legend reached the North, may, on the other hand, have been simply an attempt to connect southern tradition with figures well known in northern mythology.
 	</block>
 	<block class="text">
-		The <cr>Völundarkvitha</cr> is full of prose narrative links, including an introduction.
-		The nature of such prose links has already been discussed in the introductory note to the <cr>Grimnismol</cr>; the <cr>Völundarkvitha</cr> is a striking illustration of the way in which the function of the earlier Eddic verse was limited chiefly to dialogue or description, the narrative outline being provided, if at all, in prose.
+		The <chapterref>Völundarkvitha</chapterref> is full of prose narrative links, including an introduction.
+		The nature of such prose links has already been discussed in the introductory note to the <chapterref>Grimnismol</chapterref>; the <chapterref>Völundarkvitha</chapterref> is a striking illustration of the way in which the function of the earlier Eddic verse was limited chiefly to dialogue or description, the narrative outline being provided, if at all, in prose.
 		This prose was put in by each reciter according to his fancy and knowledge, and his estimate of his hearers' need for such explanations; some of it, as in this instance, eventually found its way into the written record.
 	</block>
 	<block class="text">
-		The manuscript of the <cr>Völundarkvitha</cr> is in such bad shape, and the conjectural emendations have been so numerous, that in the notes I have attempted to record only the most important of them.
+		The manuscript of the <chapterref>Völundarkvitha</chapterref> is in such bad shape, and the conjectural emendations have been so numerous, that in the notes I have attempted to record only the most important of them.
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Ni`þuþr he`t konungr i` Svi`þjo`þ.<br />
-			Hann a`tti tva` sonu ok eina do`ttur; hon he`t Bo~þvildr.<br />
-			Bro_eþr va`ru þri`r, synir Finnakonungs: he`t einn Slagfiþr, annarr Egill, þriþi Vo_elundr.<br />
-			Þeir skriþu ok veiddu dy`r.<br />
-			Þeir ko`mu i` U`lfdali ok go/rþu se`r þar hu`s; þar er vatn er heitir U`lfsja`r.<br />
-			Snemma of morgin fundu þeir a` vatnsstro~ndu konur þrja`r, ok spunnu li`n.<br />
-			Þar va`ru hja` þeim a`lptarhamir þeira: þat va`ru valkyrjur.<br />
-			Þar va`ru tva_er do_etr Hlo~þves konungs, Hlaþguþr svanhvi`t ok Hervo~r alvitr, en þriþja var O~lru`n Kja`rs do`ttir af Vallandi.<br />
-			Þeir ho~fþu þa_er heim til ska`la meþ se`r.<br />
-			Fekk Egill O~lru`nar, en Slagfiþr Svanhvi`trar, en Vo_elundr Alvitrar.<br />
-			Þau bjuggu sjau vetr; þa` flugu þa_er at vitja vi`ga ok ko`mu eigi aptr.<br />
-			Þa` skreiþ Egill at leita O~lru`nar, en Slagfiþr leitaþi Svanhvi`trar, en Vo_elundr sat i` U`lfdo~lum.<br />
-			Hann var hagastr maþr, sva` at menn viti i` fornum so~gum.<br />
-			Ni`þuþr konungr le`t hann ho~ndum taka, sva` sem he`r er um kveþit.
+			Nīþuþr hēt konungr ī Svīþjōþ.<br />
+			Hann ātti tvā sonu ok eina dōttur; hon hēt Bǫþvildr.<br />
+			Brœþr vāru þrīr, synir Finnakonungs: hēt einn Slagfiþr, annarr Egill, þriþi Vœlundr.<br />
+			Þeir skriþu ok veiddu dȳr.<br />
+			Þeir kōmu ī U`lfdali ok gørþu sēr þar hūs; þar er vatn er heitir U`lfsjār.<br />
+			Snemma of morgin fundu þeir ā vatnsstrǫndu konur þrjār, ok spunnu līn.<br />
+			Þar vāru hjā þeim ālptarhamir þeira: þat vāru valkyrjur.<br />
+			Þar vāru tvær dœtr Hlǫþves konungs, Hlaþguþr svanhvīt ok Hervǫr alvitr, en þriþja var Ǫlrūn Kjārs dōttir af Vallandi.<br />
+			Þeir hǫfþu þær heim til skāla meþ sēr.<br />
+			Fekk Egill Ǫlrūnar, en Slagfiþr Svanhvītrar, en Vœlundr Alvitrar.<br />
+			Þau bjuggu sjau vetr; þā flugu þær at vitja vīga ok kōmu eigi aptr.<br />
+			Þā skreiþ Egill at leita Ǫlrūnar, en Slagfiþr leitaþi Svanhvītrar, en Vœlundr sat ī U`lfdǫlum.<br />
+			Hann var hagastr maþr, svā at menn viti ī fornum sǫgum.<br />
+			Nīþuþr konungr lēt hann hǫndum taka, svā sem hēr er um kveþit.
 		</original>
 		<translation>
 			There was a king in Sweden named Nithuth.<br />
@@ -84,29 +84,29 @@
 			King Nithuth had him taken by force, as the poem here tells.
 		</translation>
 		<comment>
-			<expl>Nithuth</expl> (``Bitter Hater''): here identified as a king of Sweden, is in the poem (stanzas <sr>9</sr>, <sr>15</sr> and <sr>32</sr>) called lord of the Njars, which may refer to the people of the Swedish district of Nerike.
+			<expl>Nithuth</expl> (“Bitter Hater”): here identified as a king of Sweden, is in the poem (stanzas <stanzaref chapter="Völundarkvitha">9</stanzaref>, <stanzaref chapter="Völundarkvitha">15</stanzaref> and <stanzaref chapter="Völundarkvitha">32</stanzaref>) called lord of the Njars, which may refer to the people of the Swedish district of Nerike.
 			In any case, the scene of the story has moved from Saxon lands into the Northeast.
 			The first and last sentences of the introduction refer to the second part of the poem; the rest of it concerns the swan-maidens episode.
-			<expl>Bothvild</expl> (``Warlike Maid''): Völund's victim in the latter part of the poem.
+			<expl>Bothvild</expl> (“Warlike Maid”): Völund's victim in the latter part of the poem.
 			<expl>King of the Finns</expl>: this notion, clearly later than the poem, which calls Völund an elf, may perhaps be ascribed to the annotator who composed the prose introduction.
 			The Finns, meaning the dwellers in Lapland, were generally credited with magic powers.
-			Egil appears in the <src>Thithrekssaga</src> as Völund's brother, but Slagfith is not elsewhere mentioned.
-			<expl>Ulfdalir</expl> (``Wolf-Dale''), <expl>Ulfsjar</expl> (``Wolf-Sea''), <expl>Valland</expl> (``Slaughter-Land''): mythical places without historical identification.
-			<expl>Valkyries</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref> and note; there is nothing in the poem to identify the three swan maidens as Valkyries except one obscure word in line 2 of stanza <sr>1</sr> and again in line 5 of stanza <sr>5</sr>, which may mean, as Gering translates it, ``helmed,'' or else ``fair and wise.''
+			Egil appears in the <source>Thithrekssaga</source> as Völund's brother, but Slagfith is not elsewhere mentioned.
+			<expl>Ulfdalir</expl> (“Wolf-Dale”), <expl>Ulfsjar</expl> (“Wolf-Sea”), <expl>Valland</expl> (“Slaughter-Land”): mythical places without historical identification.
+			<expl>Valkyries</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref> and note; there is nothing in the poem to identify the three swan maidens as Valkyries except one obscure word in line 2 of stanza <stanzaref chapter="Völundarkvitha">1</stanzaref> and again in line 5 of stanza <stanzaref chapter="Völundarkvitha">5</stanzaref>, which may mean, as Gering translates it, “helmed,” or else “fair and wise.”
 			I suspect that the annotator, anxious to give the Saxon legend as much northern local color as possible, was mistaken in his mythology, and that the poet never conceived of his swan-maidens as Valkyries at all.
 			However, this identification of swan-maidens with Valkyries was not uncommon; cf. <chapterref>Helreith Brynhildar</chapterref>, <stanzaref chapter="Helreith Brynhildar">7</stanzaref>.
 			The three maidens' names, <expl>Hlathguth</expl>, <expl>Hervor</expl>, and <expl>Olrun</expl>, do not appear in the lists of Valkyries.
-			<expl>King Hlothver</expl>: this name suggests the southern origin of the story, as it is the northern form of Ludwig; the name appears again in <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">26</stanzaref>, and that of <expl>Kjar</expl> is found in <chapterref chapter="Atlakvitha en Grönlenzka">Atlakvitha</cr>, <stanzaref chapter="Atlakvitha en Grönlenzka">7</stanzaref>, both of these poems being based on German stories.
-			It is worth noting that the composer of this introductory note seems to have had little or no information beyond what was actually contained in the poem as it has come down to us; he refers to the ``old stories'' about Völund, but either he was unfamiliar with them in detail or else he thought it needless to make use of them.
+			<expl>King Hlothver</expl>: this name suggests the southern origin of the story, as it is the northern form of Ludwig; the name appears again in <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">26</stanzaref>, and that of <expl>Kjar</expl> is found in <chapterref chapter="Atlakvitha en Grönlenzka">Atlakvitha</chapterref>, <stanzaref chapter="Atlakvitha en Grönlenzka">7</stanzaref>, both of these poems being based on German stories.
+			It is worth noting that the composer of this introductory note seems to have had little or no information beyond what was actually contained in the poem as it has come down to us; he refers to the “old stories” about Völund, but either he was unfamiliar with them in detail or else he thought it needless to make use of them.
 			His note simply puts in clear and connected form what the verse tells somewhat obscurely; his only additions are making Nithuth a king of Sweden and Völund's father a king of the Finns, supplying the name Ulfsjar for the lake, identifying the swan-maidens as Valkyries, and giving Kjar a home in Valland.
 		</comment>
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			Meyjar flugu sunnan<sep />myrkviþ i` go/gnum,<br />
-			alvi`tr ungar,<sep />o/rlo~g dry`gja;<br />
-			þa_e`r a` sa_e`varstro~nd<sep />settusk at hvi`lask,<br />
-			dro`sir suþro/`nar<sep />dy`rt li`n spunnu.
+			Meyjar flugu sunnan<sep />myrkviþ ī gøgnum,<br />
+			alvītr ungar,<sep />ørlǫg drȳgja;<br />
+			þǣr ā sǣvarstrǫnd<sep />settusk at hvīlask,<br />
+			drōsir suþrø̄nar<sep />dȳrt līn spunnu.
 		</original>
 		<translation>
 			Maids from the south<sep />through Myrkwood flew,<br />
@@ -115,15 +115,15 @@
 			The maids of the south,<sep />and flax they spun.
 		</translation>
 		<comment>
-			The manuscript indicates line 3 as the beginning of a stanza; two lines may have been lost before or after lines 1--2, and two more, or even six, with the additional stanza describing the theft of the swan-garments, after line 4.
+			The manuscript indicates line 3 as the beginning of a stanza; two lines may have been lost before or after lines 1–2, and two more, or even six, with the additional stanza describing the theft of the swan-garments, after line 4.
 			<expl>Myrkwood</expl>: a stock name for a magic, dark forest; cf. <chapterref>Lokasenna</chapterref>, <stanzaref chapter="Lokasenna">42</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			Hlaþguþr ok Hervo~r,<sep /><conj>Hlo~þve` bornar,</conj><br />
-			kunn vas O~lru`n<sep />Ki::ars do`ttir.
+			Hlaþguþr ok Hervǫr,<sep /><conj>Hlǫþvē bornar,</conj><br />
+			kunn vas Ǫlrūn<sep />Kïars dōttir.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -131,14 +131,14 @@
 			And Olrun the Wise<sep />Kjar's daughter was.
 		</translation>
 		<comment>
-			In the manuscript these two lines stand after stanza <sr>16</sr>; editors have tried to fit them into various places, but the prose indicates that they belong here, with a gap assumed.
+			In the manuscript these two lines stand after stanza <stanzaref chapter="Völundarkvitha">16</stanzaref>; editors have tried to fit them into various places, but the prose indicates that they belong here, with a gap assumed.
 		</comment>
 	</block>
 	<block class="stanza" number="3">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
 			ein nam þeira<sep />Egil at verja,<br />
-			fo~gr ma_e`r fira,<sep />faþmi ljo`sum.
+			fǫgr mǣr fira,<sep />faþmi ljōsum.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -146,34 +146,34 @@
 			To her bosom white,<sep />the woman fair.
 		</translation>
 		<comment>
-			In the manuscript these two lines follow stanza <sr>1</sr>, with no gap indicated, and the first line marked as the beginning of a stanza.
-			Many editors have combined them with stanza <sr>4</sr>.
+			In the manuscript these two lines follow stanza <stanzaref chapter="Völundarkvitha">1</stanzaref>, with no gap indicated, and the first line marked as the beginning of a stanza.
+			Many editors have combined them with stanza <stanzaref chapter="Völundarkvitha">4</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			O~nnur vas svanhvi`t,<sep />svanfjaþrar dro`<br />
+			Ǫnnur vas svanhvīt,<sep />svanfjaþrar drō<br />
 			<lacuna /><sep /><lacuna /><br />
 			en en þriþja,<sep />þeira systir,<br />
-			varþi hvi`tan<sep />hals Vo/`lundar.
+			varþi hvītan<sep />hals Vø̄lundar.
 		</original>
 		<translation>
-			Swan-White second,---<sep />swan-feathers she wore,<br />
+			Swan-White second,—<sep />swan-feathers she wore,<br />
 			<lacuna /><sep /><lacuna /><br />
 			And her arms the third<sep />of the sisters threw<br />
 			Next round Völund's<sep />neck so white.
 		</translation>
 		<comment>
-			No lacuna indicated in the manuscript; one editor fills the stanza out with a second line running: ``Then to her breast Slagfith embraced.''
+			No lacuna indicated in the manuscript; one editor fills the stanza out with a second line running: “Then to her breast Slagfith embraced.”
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			So~`tu si`þan<sep />sjau vetr at þat,<br />
-			en enn a`tta<sep />allan þro~`þu,<br />
+			Sǭtu sīþan<sep />sjau vetr at þat,<br />
+			en enn ātta<sep />allan þrǭþu,<br />
 			[en enn niunda<sep />nauþr of skilþi;]<br />
-			meyjar fy`stusk<sep />a` myrkvan viþ,<br />
-			alvi`tr ungar,<sep />o/rlo~g dry`gja.
+			meyjar fȳstusk<sep />ā myrkvan viþ,<br />
+			alvītr ungar,<sep />ørlǫg drȳgja.
 		</original>
 		<translation>
 			There did they sit<sep />for seven winters,<br />
@@ -183,15 +183,15 @@
 			The fair young maids,<sep />their fate to follow.
 		</translation>
 		<comment>
-			Line 3 looks like an interpolation, but line 5, identical with line 2 of stanza <sr>1</sr>, may be the superfluous one.
+			Line 3 looks like an interpolation, but line 5, identical with line 2 of stanza <stanzaref chapter="Völundarkvitha">1</stanzaref>, may be the superfluous one.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
 			Kvam þar af veiþi<sep />veþreygr skyti,<br />
-			<conj>Vo_elundr li`þandi</conj><sep /><conj>of langan veg,</conj><br />
+			<conj>Vœlundr līþandi</conj><sep /><conj>of langan veg,</conj><br />
 			Slagfiþr ok Egill,<sep />sali fundu auþa,<br />
-			gengu u`t ok inn<sep />ok umb so~usk.
+			gengu ūt ok inn<sep />ok umb sǫusk.
 		</original>
 		<translation>
 			Völund home<sep />from his hunting came,<br />
@@ -200,15 +200,15 @@
 			Out and in went they,<sep />everywhere seeking.
 		</translation>
 		<comment>
-			The phrase ``Völund home from a weary way'' is an emendation of Bugge's, accepted by many editors.
-			Some of those who do not include it reject line 4, and combine the remainder of the stanza with all or part of stanza <sr>7</sr>.
+			The phrase “Völund home from a weary way” is an emendation of Bugge's, accepted by many editors.
+			Some of those who do not include it reject line 4, and combine the remainder of the stanza with all or part of stanza <stanzaref chapter="Völundarkvitha">7</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Austr skreiþ Egill<sep />at O~lru`nu,<br />
-			en suþr Slagfiþr<sep />at Svanhvi`tu,<br />
-			en einn Vo/`lundr<sep />sat i` Ulfdo~lum.<br />
+			Austr skreiþ Egill<sep />at Ǫlrūnu,<br />
+			en suþr Slagfiþr<sep />at Svanhvītu,<br />
+			en einn Vø̄lundr<sep />sat ī Ulfdǫlum.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -219,22 +219,22 @@
 		</translation>
 		<comment>
 			The manuscript marks the second, and not the first, line as the beginning of a stanza.
-			Some editors combine lines 2--3 with all or part of stanza <sr>8</sr>.
+			Some editors combine lines 2–3 with all or part of stanza <stanzaref chapter="Völundarkvitha">8</stanzaref>.
 			No gap is indicated in the manuscript, but many editors have assumed one, some of them accepting Bugge's suggested
 			<textstanza class="translation">
 				Till back the maiden<sep />bright should come.
 			</textstanza>
 			<textstanza class="original">
-				(unz Alvitr unga<sep />aptr ko/`mi.)
-			</textstanza
+				(unz Alvitr unga<sep />aptr kø̄mi.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			Hann slo` gull rautt<sep />viþ gim fa`stan,<br />
+			Hann slō gull rautt<sep />viþ gim fāstan,<br />
 			lukþi hann alla<sep />lind bauga vel;<br />
-			sva` beiþ <conj>lengi</conj><sep />ljo`ssar sinnar<br />
-			kva`nar, ef ho~`num<sep />of koma go/rþi.
+			svā beiþ <conj>lengi</conj><sep />ljōssar sinnar<br />
+			kvānar, ef hǭnum<sep />of koma gørþi.
 		</original>
 		<translation>
 			Red gold he fashioned<sep />with fairest gems,<br />
@@ -243,16 +243,16 @@
 			If the fair one home<sep />might come to him.
 		</translation>
 		<comment>
-			No line in this stanza is indicated in the manuscript as beginning a new stanza; editors have tried all sorts of experiments in regrouping the lines into stanzas with those of stanzas <sr>7</sr> and <sr>9</sr>.
+			No line in this stanza is indicated in the manuscript as beginning a new stanza; editors have tried all sorts of experiments in regrouping the lines into stanzas with those of stanzas <stanzaref chapter="Völundarkvitha">7</stanzaref> and <stanzaref chapter="Völundarkvitha">9</stanzaref>.
 			In line 3 the word long is sheer guesswork, as the line in the manuscript contains a metrical error.
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Þat spyrr Ni`þo~þr,<sep />Ni::ara dro`ttinn,<br />
-			at einn Vo/`lundr<sep />sat i` Ulfdo~lum:<br />
-			no~`ttum fo`ru seggir,<sep />negldar vo~`ru brynjur,<br />
-			skildir bliku þeira<sep />viþ enn skarþa ma`na.
+			Þat spyrr Nīþǫþr,<sep />Nïara drōttinn,<br />
+			at einn Vø̄lundr<sep />sat ī Ulfdǫlum:<br />
+			nǭttum fōru seggir,<sep />negldar vǭru brynjur,<br />
+			skildir bliku þeira<sep />viþ enn skarþa māna.
 		</original>
 		<translation>
 			This Nithuth learned,<sep />the lord of the Njars,<br />
@@ -261,16 +261,16 @@
 			Their shields in the waning<sep />moonlight shone.
 		</translation>
 		<comment>
-			Some editors combine the first two lines with parts of stanza <sr>8</sr>, and the last two with the first half of stanza <sr>10</sr>.
-			<expl>Njars</expl>: there has been much, and inconclusive, discussion as to what this name means; probably it applies to a semi-mythical people somewhere vaguely in ``the East.''
+			Some editors combine the first two lines with parts of stanza <stanzaref chapter="Völundarkvitha">8</stanzaref>, and the last two with the first half of stanza <stanzaref chapter="Völundarkvitha">10</stanzaref>.
+			<expl>Njars</expl>: there has been much, and inconclusive, discussion as to what this name means; probably it applies to a semi-mythical people somewhere vaguely in “the East.”
 		</comment>
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Stigu o`r so~þlum<sep />at salar gafli,<br />
+			Stigu ōr sǫþlum<sep />at salar gafli,<br />
 			gengu inn þaþan<sep />endlangan sal;<br />
-			so~u þeir a` basti<sep />bauga dregna,<br />
-			sjau hundruþ allra<sep />es sa` seggr a`tti.
+			sǫu þeir ā basti<sep />bauga dregna,<br />
+			sjau hundruþ allra<sep />es sā seggr ātti.
 		</original>
 		<translation>
 			From their saddles the gable<sep />wall they sought,<br />
@@ -279,13 +279,13 @@
 			Seven hundred<sep />the hero had.
 		</translation>
 		<comment>
-			Some editors combine lines 3--4 with the fragmentary stanza <sr>11</sr>.
+			Some editors combine lines 3–4 with the fragmentary stanza <stanzaref chapter="Völundarkvitha">11</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Ok þeir af to`ku<sep />ok þeir a` le`tu<br />
-			fyr einn u`tan,<sep />es þeir af le`tu;<br />
+			Ok þeir af tōku<sep />ok þeir ā lētu<br />
+			fyr einn ūtan,<sep />es þeir af lētu;<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -296,17 +296,17 @@
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			No gap indicated in the manuscript; some editors combine these lines with lines 3--4 of stanza to, while others combine them with the first two lines of stanza <sr>12</sr>.
+			No gap indicated in the manuscript; some editors combine these lines with lines 3–4 of stanza to, while others combine them with the first two lines of stanza <stanzaref chapter="Völundarkvitha">12</stanzaref>.
 			The one ring which Nithuth's men steal is given to Bothvild, and proves the cause of her undoing.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
 		<original>
 			Kvam þar af veiþi<sep />veþreygr skyti,<br />
-			Vo/`lundr li`þandi<sep />of langan veg;<br />
-			gekk bru`nnar<sep />beru hold steikja,<br />
-			a`r brann hri`si<sep />allþurru fu`rr,<br />
-			[viþr enn vindþurri<sep />fyr Vo/`lundi.]
+			Vø̄lundr līþandi<sep />of langan veg;<br />
+			gekk brūnnar<sep />beru hold steikja,<br />
+			ār brann hrīsi<sep />allþurru fūrr,<br />
+			[viþr enn vindþurri<sep />fyr Vø̄lundi.]
 		</original>
 		<translation>
 			Völund home<sep />from his hunting came,<br />
@@ -317,8 +317,8 @@
 		</translation>
 		<comment>
 			The manuscript indicates line 3, and not line 1, as the beginning of a stanza, which has given rise to a large amount of conjectural rearrangement.
-			Line 2 of the original is identical with the phrase added by Bugge in stanza <sr>6</sr>.
-			Line 5 may be spurious, or lines 4--5 may have been expanded out of a single line running
+			Line 2 of the original is identical with the phrase added by Bugge in stanza <stanzaref chapter="Völundarkvitha">6</stanzaref>.
+			Line 5 may be spurious, or lines 4–5 may have been expanded out of a single line running
 			<textstanza class="translation">
 				The wind-dried wood for<sep />Völund burned well.
 			</textstanza>
@@ -326,10 +326,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Sat a` berfjalli,<sep />bauga talþi<br />
-			alfa ljo`þi,<sep />eins saknaþi;<br />
-			hugþi at hefþi<sep />Hlo~þve`s do`ttir,<br />
-			alvi`tr unga,<sep />va_eri aptr komin.
+			Sat ā berfjalli,<sep />bauga talþi<br />
+			alfa ljōþi,<sep />eins saknaþi;<br />
+			hugþi at hefþi<sep />Hlǫþvēs dōttir,<br />
+			alvītr unga,<sep />væri aptr komin.
 		</original>
 		<translation>
 			On the bearskin he rested,<sep />and counted the rings,<br />
@@ -339,15 +339,15 @@
 		</translation>
 		<comment>
 			<expl>Elves</expl>: the poem here identifies Völund as belonging to the race of the elves.
-			<expl>Hlothver's daughter</expl>: Hervor; many editors treat the adjective ``all-wise'' here as a proper name.
+			<expl>Hlothver's daughter</expl>: Hervor; many editors treat the adjective “all-wise” here as a proper name.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			Sat sva` lengi,<sep />at sofnaþi,<br />
+			Sat svā lengi,<sep />at sofnaþi,<br />
 			ok vaknaþi<sep />viljalauss:<br />
-			vissi ser a` ho~ndum<sep />ho~fgar nauþir,<br />
-			en a` fo`tum<sep />fjo~tur of spentan.
+			vissi ser ā hǫndum<sep />hǫfgar nauþir,<br />
+			en ā fōtum<sep />fjǫtur of spentan.
 		</original>
 		<translation>
 			So long he sat<sep />that he fell asleep,<br />
@@ -358,74 +358,74 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-			Vo_elundr kvaþ:
+			Vœlundr kvaþ:
 		</original_prelude>
 		<original>
-			``Hverir'u jo~frar<sep />þeirs a` lo~gþu<br />
-			bestisi`ma<sep />ok mik bundu?''<br />
-			[Kallaþi Ni`þo~þr,<sep />Ni::ara dro`ttinn:]<br />
-			``Hvar gazt, Vo/`lundr,<sep />vi`si alfa!<br />
-			o`ra aura<sep />i` Ulfdo~lum?''
+			“Hverir'u jǫfrar<sep />þeirs ā lǫgþu<br />
+			bestisīma<sep />ok mik bundu?”<br />
+			[Kallaþi Nīþǫþr,<sep />Nïara drōttinn:]<br />
+			“Hvar gazt, Vø̄lundr,<sep />vīsi alfa!<br />
+			ōra aura<sep />ī Ulfdǫlum?”
 		</original>
 		<translation_prelude>
 			Völund spake:
 		</translation_prelude>
 		<translation>
-			``What men are they<sep />who thus have laid<br />
-			Ropes of bast<sep />to bind me now?''<br />
+			“What men are they<sep />who thus have laid<br />
+			Ropes of bast<sep />to bind me now?”<br />
 			Then Nithuth called,<sep />the lord of the Njars:<br />
-			``How gottest thou, Völund,<sep />greatest of elves,<br />
-			These treasures of ours<sep />in Ulfdalir?''
+			“How gottest thou, Völund,<sep />greatest of elves,<br />
+			These treasures of ours<sep />in Ulfdalir?”
 		</translation>
 		<comment>
 			In this poem the manuscript indicates the speakers.
-			Some editors make lines 1--2 into a separate stanza, linking lines 3--5 (or 4--5) with stanza <sr>16</sr>.
-			Line 3 is very possibly spurious, a mere expansion of ``Nithuth spake.''
+			Some editors make lines 1–2 into a separate stanza, linking lines 3–5 (or 4–5) with stanza <stanzaref chapter="Völundarkvitha">16</stanzaref>.
+			Line 3 is very possibly spurious, a mere expansion of “Nithuth spake.”
 			Nithuth, of course, has come with his men to capture Völund, and now charges him with having stolen his treasure.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-			Vo_elundr kvaþ:
+			Vœlundr kvaþ:
 		</original_prelude>
 		<original>
-			``Goll vas þar eigi<sep />a` Grana leiþu,<br />
-			fjarri hykk va`rt land<sep />fjo~llum Ri`nar;<br />
-			mank at meiri<sep />ma_e`ti o~`ttum,<br />
-			es heil hiu<sep />heima vo~`rum.''
+			“Goll vas þar eigi<sep />ā Grana leiþu,<br />
+			fjarri hykk vārt land<sep />fjǫllum Rīnar;<br />
+			mank at meiri<sep />mǣti ǭttum,<br />
+			es heil hiu<sep />heima vǭrum.”
 		</original>
 		<translation_prelude>
 			Völund spake:
 		</translation_prelude>
 		<translation>
-			``The gold was not<sep />on Grani's way,<br />
+			“The gold was not<sep />on Grani's way,<br />
 			Far, methinks, is our realm<sep />from the hills of the Rhine;<br />
 			I mind me that treasures<sep />more we had<br />
-			When happy together<sep />at home we were.''
+			When happy together<sep />at home we were.”
 		</translation>
 		<comment>
 			The manuscript definitely assigns this stanza to Völund, but many editors give the first two lines to Nithuth.
-			In the manuscript stanza <sr>16</sr> is followed by the two lines of stanza 2, and many editions make of lines 3--4 of stanza <sr>16</sr> and stanza <sr>2</sr> a single speech by Völund.
+			In the manuscript stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> is followed by the two lines of stanza 2, and many editions make of lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> and stanza <stanzaref chapter="Völundarkvitha">2</stanzaref> a single speech by Völund.
 			<expl>Grani's way</expl>: Grani was Sigurth's horse, on which he rode to slay Fafnir and win Andvari's hoard; this and the reference to the <expl>Rhine</expl> as the home of wealth betray the southern source of the story.
-			If lines 1--2 belong to Völund, they mean that Nithuth got his wealth in the Rhine country, and that Völund's hoard has nothing to do with it; if the speaker is Nithuth, they mean that Völund presumably has not killed a dragon, and that he is far from the wealth of the Rhine, so that he must have stolen his treasure from Nithuth himself.
+			If lines 1–2 belong to Völund, they mean that Nithuth got his wealth in the Rhine country, and that Völund's hoard has nothing to do with it; if the speaker is Nithuth, they mean that Völund presumably has not killed a dragon, and that he is far from the wealth of the Rhine, so that he must have stolen his treasure from Nithuth himself.
 		</comment>
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<conj>U`ti stendr kunnig</conj><sep /><conj>kvo~`n Ni`þaþar,</conj><br />
-			ho`n inn of gekk<sep />endlangan sal,<br />
-			sto`þ a` golfi,<sep />stilti ro~ddu:<br />
-			``Esa sa` nu` hy`rr<sep />es o`r holti ferr.''
+			<conj>U`ti stendr kunnig</conj><sep /><conj>kvǭn Nīþaþar,</conj><br />
+			hōn inn of gekk<sep />endlangan sal,<br />
+			stōþ ā golfi,<sep />stilti rǫddu:<br />
+			“Esa sā nū hȳrr<sep />es ōr holti ferr.”
 		</original>
 		<translation>
 			Without stood the wife<sep />of Nithuth wise,<br />
 			And in she came<sep />from the end of the hall;<br />
 			On the floor she stood,<sep />and softly spoke:<br />
-			``Not kind does he look<sep />who comes from the wood.''
+			“Not kind does he look<sep />who comes from the wood.”
 		</translation>
 		<comment>
-			Line 1 is lacking in the manuscript, lines 2--4 following immediately after the two lines here given as stanza <sr>2</sr>.
-			Line 1, borrowed from line 1 of stanza <sr>32</sr>, is placed here by many editors, following Bugge's suggestion.
+			Line 1 is lacking in the manuscript, lines 2–4 following immediately after the two lines here given as stanza <stanzaref chapter="Völundarkvitha">2</stanzaref>.
+			Line 1, borrowed from line 1 of stanza <stanzaref chapter="Völundarkvitha">32</stanzaref>, is placed here by many editors, following Bugge's suggestion.
 			Certainly it is Nithuth's wife who utters line 4.
 			<expl>Who comes from the wood</expl>: Völund, noted as a hunter.
 			Gering assumes that with the entrance of Nithuth's wife the scene has changed from Völund's house to Nithuth's, but I cannot see that this is necessary.
@@ -433,7 +433,7 @@
 	</block>
 	<block class="p18">
 		<original>
-			Ni`þuþr konungr gaf do`ttur sinni Bo~þvildi gullhring þann er hann to`k af bastinu at Vo_elundar, en hann sja`lfr bar sverþit er Vo_elundr a`tti.<br />
+			Nīþuþr konungr gaf dōttur sinni Bǫþvildi gullhring þann er hann tōk af bastinu at Vœlundar, en hann sjālfr bar sverþit er Vœlundr ātti.<br />
 			En drottning kvaþ:
 		</original>
 		<translation>
@@ -446,31 +446,31 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			``A`mun eru augu<sep />ormi fra`na,<br />
-			tenn ho~num teygjask,<sep />es te`t es sverþ<br />
-			ok Bo~þvildar<sep />baug of þekkir;<br />
-			sni`þiþ e`r hann<sep />sinva magni<br />
-			ok setiþ si`þan<sep />i` Sa_e`varsto~þ.''
+			“Āmun eru augu<sep />ormi frāna,<br />
+			tenn hǫnum teygjask,<sep />es tēt es sverþ<br />
+			ok Bǫþvildar<sep />baug of þekkir;<br />
+			snīþiþ ēr hann<sep />sinva magni<br />
+			ok setiþ sīþan<sep />ī Sǣvarstǫþ.”
 		</original>
 		<translation>
-			``The glow of his eyes<sep />is like gleaming snakes,<br />
+			“The glow of his eyes<sep />is like gleaming snakes,<br />
 			His teeth he gnashes<sep />if now is shown<br />
 			The sword, or Bothvild's<sep />ring he sees;<br />
 			Let them straightway cut<sep />his sinews of strength,<br />
-			And set him then<sep />in Sævarstath.''
+			And set him then<sep />in Sævarstath.”
 		</translation>
 		<comment>
-			In the manuscript lines 2--3 stand before line 1; many editors have made the transposition here indicated.
+			In the manuscript lines 2–3 stand before line 1; many editors have made the transposition here indicated.
 			Some editors reject line 3 as spurious.
-			<expl>Sævarstath</expl>: ``Sea-Stead.''
+			<expl>Sævarstath</expl>: “Sea-Stead.”
 		</comment>
 	</block>
 	<block class="p19">
 		<original>
-			Sva` var go~rt, at skornar va`ru sinar i` kne`sfo`tum, ok settr i` ho`lm einn er þar var fyr landi, er he`t Sa_evarstaþr.<br />
-			Þar smi`þaþi hann konungi allskyns go/rsimar.<br />
+			Svā var gǫrt, at skornar vāru sinar ī knēsfōtum, ok settr ī hōlm einn er þar var fyr landi, er hēt Sævarstaþr.<br />
+			Þar smīþaþi hann konungi allskyns gørsimar.<br />
 			Engi maþr þorþi at fara til hans nema konungr einn.<br />
-			Vo_elundr kvaþ:
+			Vœlundr kvaþ:
 		</original>
 		<translation>
 			So was it done: the sinews in his knee-joints were cut, and he was set in an island which was near the mainland, and was called Sævarstath.<br />
@@ -481,22 +481,22 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			``Ski`nn Ni`þaþi<sep /><conj>narr</conj> a` linda<br />
-			<conj>sa`s</conj> ek hvesta<sep />sem hagast kunnak<br />
-			[ok ek herþak<sep />sem ho/`gst þo`ttumk;]<br />
-			sa`'s me`r fra`nn ma_e`kir<sep />a_e` fjarri borinn,<br />
-			[se`kka þann Vo/`lundi<sep />til smiþju borinn,]<br />
-			nu` berr Bo~þvildr<sep />[bru`þar minnar<br />
-			---bi`þka þess bo`t---]<sep />bauga rauþa.''
+			“Skīnn Nīþaþi<sep /><conj>narr</conj> ā linda<br />
+			<conj>sās</conj> ek hvesta<sep />sem hagast kunnak<br />
+			[ok ek herþak<sep />sem hø̄gst þōttumk;]<br />
+			sā's mēr frānn mǣkir<sep />ǣ fjarri borinn,<br />
+			[sēkka þann Vø̄lundi<sep />til smiþju borinn,]<br />
+			nū berr Bǫþvildr<sep />[brūþar minnar<br />
+			—bīþka þess bōt—]<sep />bauga rauþa.”
 		</original>
 		<translation>
-			``At Nithuth's girdle<sep />gleams the sword<br />
+			“At Nithuth's girdle<sep />gleams the sword<br />
 			That I sharpened keen<sep />with cunningest craft,<br />
 			[And hardened the steel<sep />with highest skill;]<br />
 			The bright blade far<sep />forever is borne,<br />
 			[Nor back shall I see it<sep />borne to my smithy;]<br />
 			Now Bothvild gets<sep />the golden ring<br />
-			[That was once my bride's,---<sep />ne'er well shall it be.]''
+			[That was once my bride's,—<sep />ne'er well shall it be.]”
 		</translation>
 		<comment>
 			This stanza is obviously in bad shape.
@@ -505,18 +505,18 @@
 				Then did Völund speak,<sep />sagest of elves.
 			</textstanza>
 			<textstanza class="original">
-				(Þa` kvaþ þat Vo/`lundr,<sep />vi`si alfa.)
-			</textstanza
-			Editors have rejected various lines, and some have regrouped the last lines with the first two of stanza <sr>20</sr>.
+				(Þā kvaþ þat Vø̄lundr,<sep />vīsi alfa.)
+			</textstanza>
+			Editors have rejected various lines, and some have regrouped the last lines with the first two of stanza <stanzaref chapter="Völundarkvitha">20</stanzaref>.
 			The elimination of the passages in parenthesis produces a four-line stanza which is metrically correct, but it has little more than guesswork to support it.
 		</comment>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Sat, ne` svaf, ofvalt<sep />ok slo` hamri,<br />
-			ve`l go/rþi heldr<sep />hvatt Ni`þaþi;<br />
-			drifu ungir tveir<sep />a` dyrr sea<br />
-			synir Ni`þaþar<sep />i` Sa_e`varsto~þ.
+			Sat, nē svaf, ofvalt<sep />ok slō hamri,<br />
+			vēl gørþi heldr<sep />hvatt Nīþaþi;<br />
+			drifu ungir tveir<sep />ā dyrr sea<br />
+			synir Nīþaþar<sep />ī Sǣvarstǫþ.
 		</original>
 		<translation>
 			He sat, nor slept,<sep />and smote with his hammer,<br />
@@ -525,16 +525,16 @@
 			Nithuth's sons,<sep />into Sævarstath.
 		</translation>
 		<comment>
-			The editions vary radically in combining the lines of this stanza with those of stanzas <sr>19</sr> and <sr>21</sr>, particularly as the manuscript indicates the third line as the beginning of a stanza.
+			The editions vary radically in combining the lines of this stanza with those of stanzas <stanzaref chapter="Völundarkvitha">19</stanzaref> and <stanzaref chapter="Völundarkvitha">21</stanzaref>, particularly as the manuscript indicates the third line as the beginning of a stanza.
 			The meaning, however, remains unchanged.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Kvo~`mu til kistu,<sep />kro~fþu lukla,<br />
-			opin vas illu`þ<sep />es i` so~u;<br />
-			vas þar menja fjo~lþ,<sep />es mo~gum sy`ndisk<br />
-			goll rautt <conj>vesa</conj><sep />ok go/rsimar.
+			Kvǭmu til kistu,<sep />krǫfþu lukla,<br />
+			opin vas illūþ<sep />es ī sǫu;<br />
+			vas þar menja fjǫlþ,<sep />es mǫgum sȳndisk<br />
+			goll rautt <conj>vesa</conj><sep />ok gørsimar.
 		</original>
 		<translation>
 			They came to the chest,<sep />and they craved the keys,<br />
@@ -543,57 +543,57 @@
 			Gold in plenty<sep />and precious stones.
 		</translation>
 		<comment>
-			Several editions make one stanza out of lines 1--4 of stanza <sr>20</sr> and lines 1--2 of stanza <sr>21</sr>, and another out of the next four lines.
+			Several editions make one stanza out of lines 1–4 of stanza <stanzaref chapter="Völundarkvitha">20</stanzaref> and lines 1–2 of stanza <stanzaref chapter="Völundarkvitha">21</stanzaref>, and another out of the next four lines.
 			<expl>The evil was open</expl>: i.e., the gold in the chest was destined to be their undoing.
 		</comment>
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-			Vo_elundr kvaþ:
+			Vœlundr kvaþ:
 		</original_prelude>
 		<original>
-			``Komiþ einir tveir,<sep />komiþ annars dags!<br />
-			la_e`tk goll þat ykkr<sep />of gefit verþa;<br />
-			segiþa meyjum<sep />ne` salþjo`þum,<br />
-			manni o/ngum,<sep />at mik fyndiþ.''
+			“Komiþ einir tveir,<sep />komiþ annars dags!<br />
+			lǣtk goll þat ykkr<sep />of gefit verþa;<br />
+			segiþa meyjum<sep />nē salþjōþum,<br />
+			manni øngum,<sep />at mik fyndiþ.”
 		</original>
 		<translation_prelude>
 			Völund spake:
 		</translation_prelude>
 		<translation>
-			``Come ye alone,<sep />the next day come,<br />
+			“Come ye alone,<sep />the next day come,<br />
 			Gold to you both<sep />shall then be given;<br />
 			Tell not the maids<sep />or the men of the hall,<br />
-			To no one say<sep />that me you have sought.''
+			To no one say<sep />that me you have sought.”
 		</translation>
 		<comment>
 			The manuscript indicates line 3 as the beginning of a stanza, and several editors have adopted this grouping.
-			In the <src>Thithrekssaga</src> Völund sends the boys away with instructions not to come back until just after a fall of snow, and then to approach his dwelling walking backward.
+			In the <source>Thithrekssaga</source> Völund sends the boys away with instructions not to come back until just after a fall of snow, and then to approach his dwelling walking backward.
 			The boys do this, and when, after he has killed them, Völund is questioned regarding them, he points to the tracks in the snow as evidence that they had left his house.
 		</comment>
 	</block>
 	<block class="stanza" number="23">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			snimma kallaþi<sep />seggr a` annan,<br />
-			bro`þir a` bro`þur:<sep />``go~ngum baug sea!''
+			snimma kallaþi<sep />seggr ā annan,<br />
+			brōþir ā brōþur:<sep />“gǫngum baug sea!”
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
 			Early did brother<sep />to brother call:<br />
-			``Swift let us go<sep />the rings to see.''
+			“Swift let us go<sep />the rings to see.”
 		</translation>
 		<comment>
 			No gap indicated in the manuscript.
-			Some editors assume it, as here; some group the lines with lines 3--4 of stanza <sr>22</sr>, and some with lines 1--2 of stanza <sr>24</sr>.
+			Some editors assume it, as here; some group the lines with lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">22</stanzaref>, and some with lines 1–2 of stanza <stanzaref chapter="Völundarkvitha">24</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Kvo~`mu til kistu,<sep />kro~fþu lukla,<br />
-			opin vas illu`þ<sep />es i` litu;<br />
-			sneiþ af haufuþ<sep />hu`na þeira<br />
-			ok und fen fjo~turs<sep />fo/`tr of lagþi.
+			Kvǭmu til kistu,<sep />krǫfþu lukla,<br />
+			opin vas illūþ<sep />es ī litu;<br />
+			sneiþ af haufuþ<sep />hūna þeira<br />
+			ok und fen fjǫturs<sep />fø̄tr of lagþi.
 		</original>
 		<translation>
 			They came to the chest,<sep />and they craved the keys,<br />
@@ -607,10 +607,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			En ska`lar þa_e`r,<sep />es und sko~rum vo~`ru,<br />
-			sveip u`tan silfri,<sep />seldi Ni`þaþi,<br />
-			en o`r augum<sep />jarknasteina,<br />
-			sendi kunnigri<sep />kvo~`n Ni`þaþar.
+			En skālar þǣr,<sep />es und skǫrum vǭru,<br />
+			sveip ūtan silfri,<sep />seldi Nīþaþi,<br />
+			en ōr augum<sep />jarknasteina,<br />
+			sendi kunnigri<sep />kvǭn Nīþaþar.
 		</original>
 		<translation>
 			Their skulls, once hid<sep />by their hair, he took,<br />
@@ -624,8 +624,8 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			En o`r to~nnum<sep />tveggja þeira<br />
-			slo` brjo`stkringlur,<sep />sendi Bo~þvildi;<br />
+			En ōr tǫnnum<sep />tveggja þeira<br />
+			slō brjōstkringlur,<sep />sendi Bǫþvildi;<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -634,65 +634,65 @@
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			These two lines have been grouped in various ways, either with lines 3--4 of stanza <sr>25</sr> or with the fragmentary stanza <sr>27</sr>.
+			These two lines have been grouped in various ways, either with lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">25</stanzaref> or with the fragmentary stanza <stanzaref chapter="Völundarkvitha">27</stanzaref>.
 			No gap is indicated in the manuscript, but the loss of something is so obvious that practically all editors have noted it, although they have differed as to the number of lines lost.
 		</comment>
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			Þa` nam Bo~þvildr<sep />baugi at hro`sa<br />
+			Þā nam Bǫþvildr<sep />baugi at hrōsa<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep />es brotit hafþi:<br />
-			``Þorigak segja<sep />nema þe`r einum.''
+			“Þorigak segja<sep />nema þēr einum.”
 		</original>
 		<translation>
 			Bothvild then<sep />of her ring did boast,<br />
 			<lacuna /><sep /><lacuna /><br />
-			<lacuna /><sep />``The ring I have broken,<br />
-			I dare not say it<sep />save to thee.''
+			<lacuna /><sep />“The ring I have broken,<br />
+			I dare not say it<sep />save to thee.”
 		</translation>
 		<comment>
 			No gap indicated in the manuscript; the line and a half might be filled out (partly with the aid of late paper manuscripts) thus:
 			<textstanza class="translation">
 				But soon it broke,<sep />and swiftly to Völund<br />
-				She bore it and said---
+				She bore it and said—
 			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-			Vo_elundr kvaþ:
+			Vœlundr kvaþ:
 		</original_prelude>
 		<original>
-			``Ek bo/`ti sva`<sep />brest a` golli,<br />
-			at feþr þi`num<sep />fegri þykkir,<br />
-			ok mo/`þr þinni<sep />miklu betri,<br />
-			ok sjalfri þe`r<sep />at sama ho`fi.''
+			“Ek bø̄ti svā<sep />brest ā golli,<br />
+			at feþr þīnum<sep />fegri þykkir,<br />
+			ok mø̄þr þinni<sep />miklu betri,<br />
+			ok sjalfri þēr<sep />at sama hōfi.”
 		</original>
 		<translation_prelude>
 			Völund spake:
 		</translation_prelude>
 		<translation>
-			``I shall weld the break<sep />in the gold so well<br />
+			“I shall weld the break<sep />in the gold so well<br />
 			That fairer than ever<sep />thy father shall find it,<br />
 			And better much<sep />thy mother shall think it,<br />
-			And thou no worse<sep />than ever it was.''
+			And thou no worse<sep />than ever it was.”
 		</translation>
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			Bar hana bjo`ri,<sep />þvi`t hann betr kunni,<br />
-			sva`t i` sessi ho`n<sep />of sofnaþi:<br />
-			<stanzaprelude>Vo_elundr kvaþ:</stanzaprelude><br />
-			``Nu` hefk of hefnt<br />harma minna
-			allra nema eins<sep />i`viþgjarnri.''
+			Bar hana bjōri,<sep />þvīt hann betr kunni,<br />
+			svāt ī sessi hōn<sep />of sofnaþi:<br />
+			<stanzaprelude>Vœlundr kvaþ:</stanzaprelude><br />
+			“Nū hefk of hefnt<br />harma minna
+			allra nema eins<sep />īviþgjarnri.”
 		</original>
 		<translation>
 			Beer he brought,<sep />he was better in cunning,<br />
 			Until in her seat<sep />full soon she slept.<br />
 			<stanzaprelude>Völund spake:</stanzaprelude><br />
-			``Now vengeance I have<sep />for all my hurts,<br />
-			Save one alone,<sep />on the evil woman.''
+			“Now vengeance I have<sep />for all my hurts,<br />
+			Save one alone,<sep />on the evil woman.”
 		</translation>
 		<comment>
 			The manuscript does not name Völund as the speaker before line 3; Vigfusson again inserts his convenient line,
@@ -700,33 +700,33 @@
 				Then Völund spake,<sep />sagest of elves.
 			</textstanza>
 			<textstanza class="original">
-				(Þa` kvaþ þat Vo/`lundr, vi`si alfa.)
+				(Þā kvaþ þat Vø̄lundr, vīsi alfa.)
 			</textstanza>
-			A few editions combine lines 3--4 with the two lines of stanza <sr>30</sr>.
+			A few editions combine lines 3–4 with the two lines of stanza <stanzaref chapter="Völundarkvitha">30</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="30">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna /><br />
-			``Vel ek,'' kvaþ Vo/`lundr,<sep />``verþak a` fitjum<br />
-			þeims mik Ni`þaþar<sep />no~`mu rekkar.''
+			“Vel ek,” kvaþ Vø̄lundr,<sep />“verþak ā fitjum<br />
+			þeims mik Nīþaþar<sep />nǭmu rekkar.”
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna /><br />
-			Quoth Völund: ``Would<sep />that well were the sinews<br />
-			Maimed in my feet<sep />by Nithuth's men.''
+			Quoth Völund: “Would<sep />that well were the sinews<br />
+			Maimed in my feet<sep />by Nithuth's men.”
 		</translation>
 		<comment>
-			No gap indicated in the manuscript; some editors combine the two lines with lines 3--4 of stanza <sr>29</sr>, and many with the three lines of stanza <sr>31</sr>.
+			No gap indicated in the manuscript; some editors combine the two lines with lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">29</stanzaref>, and many with the three lines of stanza <stanzaref chapter="Völundarkvitha">31</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			Hla_e`jandi Vo/`lundr,<sep />ho`fsk at lopti,<br />
-			gra`tandi Bo~þvildr<sep />gekk o`r eyju;<br />
-			tregþi fo~r friþils<sep />ok fo~þur vreiþi.
+			Hlǣjandi Vø̄lundr,<sep />hōfsk at lopti,<br />
+			grātandi Bǫþvildr<sep />gekk ōr eyju;<br />
+			tregþi fǫr friþils<sep />ok fǫþur vreiþi.
 		</original>
 		<translation>
 			Laughing Völund<sep />rose aloft,<br />
@@ -735,24 +735,24 @@
 		</translation>
 		<comment>
 			Something has probably been lost before this stanza, explaining how Völund made himself wings, as otherwise, owing to his lameness, he could not leave the island.
-			The <src>Thithrekssaga</src> tells the story of how Völund's brother, Egil, shot birds and gave him the feathers, out of which he made a feather-garment.
-			This break in the narrative illustrates the lack of knowledge apparently possessed by the compiler who was responsible for the prose notes; had he known the story told in the <src>Thithrekssaga</src>, it is hardly conceivable that he would have failed to indicate the necessary connecting link at this point.
+			The <source>Thithrekssaga</source> tells the story of how Völund's brother, Egil, shot birds and gave him the feathers, out of which he made a feather-garment.
+			This break in the narrative illustrates the lack of knowledge apparently possessed by the compiler who was responsible for the prose notes; had he known the story told in the <source>Thithrekssaga</source>, it is hardly conceivable that he would have failed to indicate the necessary connecting link at this point.
 			Some editors reject line 3 as spurious.
 			The manuscript does not indicate any lacuna.
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			U`ti stendr kunnig<sep />kvo~`n Ni`þaþar,<br />
-			ho`n inn of gekk<sep />endlangan sal;<br />
-			en hann a` salgarþ<sep />settisk at hvi`lask:<br />
-			``Vakir þu`, Ni`þo~þr,<sep />Ni::ara dro`ttinn?''
+			U`ti stendr kunnig<sep />kvǭn Nīþaþar,<br />
+			hōn inn of gekk<sep />endlangan sal;<br />
+			en hann ā salgarþ<sep />settisk at hvīlask:<br />
+			“Vakir þū, Nīþǫþr,<sep />Nïara drōttinn?”
 		</original>
 		<translation>
 			Without stood the wife<sep />of Nithuth wise,<br />
 			And in she came<sep />from the end of the hall;<br />
 			But he by the wall<sep />in weariness sat:<br />
-			``Wakest thou, Nithuth,<sep />lord of the Njars?''
+			“Wakest thou, Nithuth,<sep />lord of the Njars?”
 		</translation>
 		<comment>
 			The manuscript indicates line 4 as the beginning of a stanza, and many editors have followed this arrangement.
@@ -760,19 +760,19 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-			Ni`þuþr kvaþ:
+			Nīþuþr kvaþ:
 		</original_prelude>
 		<original>
-			``Vaki ek ofvalt<sep />viljalauss,<br />
-			sofna ek minst<sep />si`z sunu dauþa;<br />
-			ko~lumk i` haufuþ,<sep />ko~ld erumk ro~`þ þi`n,<br />
-			vilnumk þess nu`,<sep />at viþ Vo/`lund do/`mak.
+			“Vaki ek ofvalt<sep />viljalauss,<br />
+			sofna ek minst<sep />sīz sunu dauþa;<br />
+			kǫlumk ī haufuþ,<sep />kǫld erumk rǭþ þīn,<br />
+			vilnumk þess nū,<sep />at viþ Vø̄lund dø̄mak.
 		</original>
 		<translation_prelude>
 			Nithuth spake:
 		</translation_prelude>
 		<translation>
-			``Always I wake,<sep />and ever joyless,<br />
+			“Always I wake,<sep />and ever joyless,<br />
 			Little I sleep<sep />since my sons were slain;<br />
 			Cold is my head,<sep />cold was thy counsel,<br />
 			One thing, with Völund<sep />to speak, I wish.
@@ -785,45 +785,45 @@
 				Then spake Nithuth,<sep />lord of the Njars.
 			</textstanza>
 			<textstanza class="original">
-				(Þa` kvaþ þat Ni`þoþr,<sep />Ni::ara dro`ttinn.)
+				(Þā kvaþ þat Nīþoþr,<sep />Nïara drōttinn.)
 			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="34">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			Seg mer þat, Vo/`lundr,<sep />vi`si alfa!<br />
-			af heilum hvat varþ<sep /><conj>hu`num</conj> mi`num?''
+			Seg mer þat, Vø̄lundr,<sep />vīsi alfa!<br />
+			af heilum hvat varþ<sep /><conj>hūnum</conj> mīnum?”
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
 			Answer me, Völund,<sep />greatest of elves,<br />
-			What happed with my boys<sep />that hale once were?''
+			What happed with my boys<sep />that hale once were?”
 		</translation>
 		<comment>
 			No gap indicated in the manuscript, but it seems clear that something has been lost.
-			Some editors combine these two lines with lines 3--4 of stanza <sr>33</sr>.
+			Some editors combine these two lines with lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">33</stanzaref>.
 			Völund is now flying over Nithuth's hall.
 		</comment>
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-			Vo_elundr kvaþ:
+			Vœlundr kvaþ:
 		</original_prelude>
 		<original>
-			``Eiþa skalt a`þr<sep />alla vinna<br />
-			at skips borþi<sep />ok at skjaldar ro~nd,<br />
-			at mars bo/`gi<sep />ok at ma_e`kis egg:<br />
-			at þu` kveljat<sep />kvo~`n Vo/`lundar<br />
-			ne` bru`þi minni<sep />at bana verþir,<br />
-			þo`t kvo~`n eigim<sep />þa`s e`r kunnuþ,<br />
-			eþa jo`þ eigim<sep />innan hallar.
+			“Eiþa skalt āþr<sep />alla vinna<br />
+			at skips borþi<sep />ok at skjaldar rǫnd,<br />
+			at mars bø̄gi<sep />ok at mǣkis egg:<br />
+			at þū kveljat<sep />kvǭn Vø̄lundar<br />
+			nē brūþi minni<sep />at bana verþir,<br />
+			þōt kvǭn eigim<sep />þās ēr kunnuþ,<br />
+			eþa jōþ eigim<sep />innan hallar.
 		</original>
 		<translation_prelude>
 			Völund spake:
 		</translation_prelude>
 		<translation>
-			``First shalt thou all<sep />the oaths now swear,<br />
+			“First shalt thou all<sep />the oaths now swear,<br />
 			By the rail of ship,<sep />and the rim of shield,<br />
 			By the shoulder of steed,<sep />and the edge of sword,<br />
 			That to Völund's wife<sep />thou wilt work no ill,<br />
@@ -837,18 +837,18 @@
 				Then did Völund speak,<sep />sagest of elves.
 			</textstanza>
 			<textstanza class="original">
-				(Þa` kvaþ þat Vo/`lundr, vi`si alfa.)
+				(Þā kvaþ þat Vø̄lundr, vīsi alfa.)
 			</textstanza>
-			Some editors begin a new stanza with line 4, while others reject as interpolations lines 2--3 or 5--7.
+			Some editors begin a new stanza with line 4, while others reject as interpolations lines 2–3 or 5–7.
 			<expl>Völund's wife</expl>: the reference is to Bothvild, as Völund wishes to have his vengeance fall more heavily on her father than on her.
 		</comment>
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			Gakk til smiþju<sep />es þu` go/rþir,<br />
-			þar fiþr belgi<sep />blo`þi stokkna;<br />
-			sneiþk af haufuþ<sep />hu`na þinna<br />
-			ok und fen fjo~turs<sep />fo/`tr of lagþak.
+			Gakk til smiþju<sep />es þū gørþir,<br />
+			þar fiþr belgi<sep />blōþi stokkna;<br />
+			sneiþk af haufuþ<sep />hūna þinna<br />
+			ok und fen fjǫturs<sep />fø̄tr of lagþak.
 		</original>
 		<translation>
 			Seek the smithy<sep />that thou didst set,<br />
@@ -857,15 +857,15 @@
 			And their feet 'neath the sooty<sep />straps I hid.
 		</translation>
 		<comment>
-			Lines 3--4 are nearly identical with lines 3--4 of stanza <sr>24</sr>.
+			Lines 3–4 are nearly identical with lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">24</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			En ska`lar þa_e`r<sep />es und sko~rum vo~`ru<br />
-			sveipk u`tan silfri,<sep />seldak Ni`þaþi,<br />
-			en o`r augum<sep />jarknasteina<br />
-			sendak kunnigri<sep />kvo~`n Ni`þaþar.
+			En skālar þǣr<sep />es und skǫrum vǭru<br />
+			sveipk ūtan silfri,<sep />seldak Nīþaþi,<br />
+			en ōr augum<sep />jarknasteina<br />
+			sendak kunnigri<sep />kvǭn Nīþaþar.
 		</original>
 		<translation>
 			Their skulls, once hid<sep />by their hair, I took,<br />
@@ -874,59 +874,59 @@
 			To Nithuth's wife<sep />so wise I gave them.
 		</translation>
 		<comment>
-			Identical, except for the pronouns, with stanza <sr>25</sr>.
+			Identical, except for the pronouns, with stanza <stanzaref chapter="Völundarkvitha">25</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			En o`r to~nnum<sep />tveggja þeira<br />
-			slo`k brjo`stkringlur,<sep />sendak Bo~þvildi;<br />
-			nu` gengr Bo~þvildr<sep />barni aukin,<br />
-			eingado`ttir<sep />ykkur beggja.''
+			En ōr tǫnnum<sep />tveggja þeira<br />
+			slōk brjōstkringlur,<sep />sendak Bǫþvildi;<br />
+			nū gengr Bǫþvildr<sep />barni aukin,<br />
+			eingadōttir<sep />ykkur beggja.”
 		</original>
 		<translation>
 			And from the teeth<sep />of the twain I wrought<br />
 			A brooch for the breast,<sep />to Bothvild I gave it;<br />
 			Now big with child<sep />does Bothvild go,<br />
-			The only daughter<sep />ye two had ever.''
+			The only daughter<sep />ye two had ever.”
 		</translation>
 		<comment>
-			<expl>Lines 1--2</expl>: Cf. stanza <sr>26</sr>.
+			<expl>Lines 1–2</expl>: Cf. stanza <stanzaref chapter="Völundarkvitha">26</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-			Ni`þuþr kvaþ:
+			Nīþuþr kvaþ:
 		</original_prelude>
 		<original>
-			``Ma_e`ltira ma`l<sep />es mik meirr tregi,<br />
-			ne` þik viljak, Vo/`lundr!<sep />verr of neita:<br />
-			esat sva` maþr ho~`r,<sep />at þik af hesti taki,<br />
-			ne` sva` o~flugr,<sep />at þik neþan skjo`ti,<br />
-			þars þu` skollir<sep />viþ sky` uppi.''
+			“Mǣltira māl<sep />es mik meirr tregi,<br />
+			nē þik viljak, Vø̄lundr!<sep />verr of neita:<br />
+			esat svā maþr hǭr,<sep />at þik af hesti taki,<br />
+			nē svā ǫflugr,<sep />at þik neþan skjōti,<br />
+			þars þū skollir<sep />viþ skȳ uppi.”
 		</original>
 		<translation_prelude>
 			Nithuth spake:
 		</translation_prelude>
 		<translation>
-			``Never spakest thou word<sep />that worse could hurt me,<br />
+			“Never spakest thou word<sep />that worse could hurt me,<br />
 			Nor that made me, Völund,<sep />more bitter for vengeance;<br />
 			There is no man so high<sep />from thy horse to take thee,<br />
 			Or so doughty an archer<sep />as down to shoot thee,<br />
-			While high in the clouds<sep />thy course thou takest.''
+			While high in the clouds<sep />thy course thou takest.”
 		</translation>
 		<comment>
 			The manuscript does not name the speaker.
-			Either line 4 or line 5 may be an interpolation; two editions reject lines 3--5, combining lines 1--2 with stanza <sr>40</sr>.
-			In the <src>Thithrekssaga</src> Nithuth actually compels Egil, Völund's brother, to shoot at Völund.
+			Either line 4 or line 5 may be an interpolation; two editions reject lines 3–5, combining lines 1–2 with stanza <stanzaref chapter="Völundarkvitha">40</stanzaref>.
+			In the <source>Thithrekssaga</source> Nithuth actually compels Egil, Völund's brother, to shoot at Völund.
 			The latter has concealed a bladder full of blood under his left arm, and when his brother's arrow pierces this, Nithuth assumes that his enemy has been killed.
 			This episode likewise appears among the scenes from Völund's career rudely carved on an ancient casket of ivory, bearing an Anglo-Saxon inscription in runic letters, which has been preserved.
 		</comment>
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			Hla_e`jandi Vo/`lundr<sep />ho`fsk at lopti,<br />
-			en o`ka`tr Ni`þo~þr<sep />sat þa` eptir.<br />
+			Hlǣjandi Vø̄lundr<sep />hōfsk at lopti,<br />
+			en ōkātr Nīþǫþr<sep />sat þā eptir.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -935,23 +935,23 @@
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			<expl>Line 1</expl>: cf. stanza <sr>31</sr>.
+			<expl>Line 1</expl>: cf. stanza <stanzaref chapter="Völundarkvitha">31</stanzaref>.
 			The manuscript indicates no lacuna.
 		</comment>
 	</block>
 	<block class="sepline" />
 	<block class="stanza" number="41">
 		<original>
-			<conj>Þa` kvaþ þat Ni`þo~þr,</conj><sep /><conj>Ni::ara dro`ttinn:</conj><br />
-			``Upp ri`s, Þakkra`þr,<sep />þra_e`ll minn bazti!<br />
-			biþ Bo~þvildi<sep />ena bra`hvi`tu,<br />
-			gangi fagrvariþ<sep />viþ fo~þur ro/`þa.''
+			<conj>Þā kvaþ þat Nīþǫþr,</conj><sep /><conj>Nïara drōttinn:</conj><br />
+			“Upp rīs, Þakkrāþr,<sep />þrǣll minn bazti!<br />
+			biþ Bǫþvildi<sep />ena brāhvītu,<br />
+			gangi fagrvariþ<sep />viþ fǫþur rø̄þa.”
 		</original>
 		<translation>
 			Then spake Nithuth,<sep />lord of the Njars:<br />
-			``Rise up, Thakkrath,<sep />best of my thralls,<br />
+			“Rise up, Thakkrath,<sep />best of my thralls,<br />
 			Bid Bothvild come,<sep />the bright-browed maid,<br />
-			Bedecked so fair,<sep />with her father to speak.''
+			Bedecked so fair,<sep />with her father to speak.”
 		</translation>
 		<comment>
 			The first line is a conjectural addition.
@@ -961,13 +961,13 @@
 	<block class="stanza" number="42">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			``Es þat satt, Bo~þvildr!<sep />es so~gþu me`r:<br />
-			so~`tuþ it Vo/`lundr<sep />saman i` holmi?''
+			“Es þat satt, Bǫþvildr!<sep />es sǫgþu mēr:<br />
+			sǭtuþ it Vø̄lundr<sep />saman ī holmi?”
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
-			``Is it true, Bothvild,<sep />that which was told me;<br />
-			Once in the isle<sep />with Völund wert thou?''
+			“Is it true, Bothvild,<sep />that which was told me;<br />
+			Once in the isle<sep />with Völund wert thou?”
 		</translation>
 		<comment>
 			The manuscript indicates no gap, but indicates line 3 as the beginning of a stanza; Vigfusson's added
@@ -975,36 +975,36 @@
 				Then Nithuth spake,<sep />lord of the Njars
 			</textstanza>
 			<textstanza class="original">
-				(Þa` kvaþ þat Ni`þo~þr,<sep />Ni::ara dro`ttinn)
+				(Þā kvaþ þat Nīþǫþr,<sep />Nïara drōttinn)
 			</textstanza>
 			seems plausible enough.
 		</comment>
 	</block>
 	<block class="stanza" number="43">
 		<original_prelude>
-			Bo~þvildr kvaþ:
+			Bǫþvildr kvaþ:
 		</original_prelude>
 		<original>
-			``Satt's þat, Ni`þo~þr!<sep />es sagþi þe`r:<br />
-			so~`tum vit Vo/`lundr<sep />saman i` holmi<br />
-			eina o~gurstund,<sep />a_e`va skyldi!<br />
-			ek va_e`tr ho~`num<sep />vinna kunnak,<br />
-			ek va_e`tr ho~`num<sep />vinna ma`ttak.''
+			“Satt's þat, Nīþǫþr!<sep />es sagþi þēr:<br />
+			sǭtum vit Vø̄lundr<sep />saman ī holmi<br />
+			eina ǫgurstund,<sep />ǣva skyldi!<br />
+			ek vǣtr hǭnum<sep />vinna kunnak,<br />
+			ek vǣtr hǭnum<sep />vinna māttak.”
 		</original>
 		<translation_prelude>
 			Bothvild spake:
 		</translation_prelude>
 		<translation>
-			``True is it, Nithuth,<sep />that which was told thee,<br />
+			“True is it, Nithuth,<sep />that which was told thee,<br />
 			Once in the isle<sep />with Völund was I,<br />
 			An hour of lust,<sep />alas it should be!<br />
 			Nought was my might<sep />with such a man,<br />
-			Nor from his strength<sep />could I save myself.''
+			Nor from his strength<sep />could I save myself.”
 		</translation>
 		<comment>
 			The manuscript does not name the speaker.
 			Different editors have rejected one or another of the last three lines, and as the manuscript indicates line 4 as the beginning of a new stanza, the loss of two or three lines has likewise been suggested.
-			According to the <src>Thithrekssaga</src>, the son of Völund and Bothvild was Vithga, or Witege, one of the heroes of Dietrich of Bern.
+			According to the <source>Thithrekssaga</source>, the son of Völund and Bothvild was Vithga, or Witege, one of the heroes of Dietrich of Bern.
 		</comment>
 	</block>
 </chapter>
