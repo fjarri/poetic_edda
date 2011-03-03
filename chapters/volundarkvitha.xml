@@ -431,7 +431,7 @@
 			Gering assumes that with the entrance of Nithuth's wife the scene has changed from Völund's house to Nithuth's, but I cannot see that this is necessary.
 		</comment>
 	</block>
-	<block class="p18">
+	<block class="prose" label="p18">
 		<original>
 			Nīþuþr konungr gaf dōttur sinni Bǫþvildi gullhring þann er hann tōk af bastinu at Vœlundar, en hann sjālfr bar sverþit er Vœlundr ātti.<br />
 			En drottning kvaþ:
@@ -465,7 +465,7 @@
 			<expl>Sævarstath</expl>: “Sea-Stead.”
 		</comment>
 	</block>
-	<block class="p19">
+	<block class="prose" label="p19">
 		<original>
 			Svā var gǫrt, at skornar vāru sinar ī knēsfōtum, ok settr ī hōlm einn er þar var fyr landi, er hēt Sævarstaþr.<br />
 			Þar smīþaþi hann konungi allskyns gørsimar.<br />
@@ -684,7 +684,7 @@
 			Bar hana bjōri,<sep />þvīt hann betr kunni,<br />
 			svāt ī sessi hōn<sep />of sofnaþi:<br />
 			<stanzaprelude>Vœlundr kvaþ:</stanzaprelude><br />
-			“Nū hefk of hefnt<br />harma minna
+			“Nū hefk of hefnt<sep />harma minna<br />
 			allra nema eins<sep />īviþgjarnri.”
 		</original>
 		<translation>
