@@ -120,9 +120,10 @@ if __name__ == '__main__':
 	input = sys.argv[1]
 	output = sys.argv[2]
 
-	answers = None
+	answers = []
 	if len(sys.argv) > 3:
 		answers = list(sys.argv[3])
+	remembered_answers = []
 
 	f = codecs.open(input, 'r', 'utf-8')
 	blocks = f.read().split(u"\n\n")
@@ -178,13 +179,15 @@ if __name__ == '__main__':
 			elif len(new_blocks) == 0:
 				new_blocks.append({'type': 'prose', 'text': obj['text'], 'comment': None})
 			else:
-				if answers is not None:
+				if len(answers) > 0:
 					s = answers.pop(0)
 				else:
 					print "* Previous text:\n" + new_blocks[-1]['text'] + \
 						"\n* Current text:\n" + obj['text']
-
 					s = raw_input("(p) new prose, (c) continuation? ")
+
+				remembered_answers.append(s)
+
 				if s.startswith('p'):
 					new_blocks.append({'type': 'prose', 'text': obj['text'], 'comment': None})
 				else:
@@ -285,3 +288,5 @@ if __name__ == '__main__':
 	tree = ElementTree(element=c)
 	makePretty(tree.getroot())
 	tree.write(open(sys.argv[2], mode='wb'), encoding='utf-8')
+
+	print "".join(remembered_answers)
