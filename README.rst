@@ -241,3 +241,6 @@ Tasks for distant future
 * Refactor scripts
 * Add all missing text from paperback (i.e., Acknowledgement and
   list of proper names)
+* Make the vertical space inside the stanza before <stanzaprelude> identical
+  with the space before the actual stanza prelude (to make it look uniform).
+  See any <stanzaprelude> usage in Bellows book.
