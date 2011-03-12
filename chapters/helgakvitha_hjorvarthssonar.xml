@@ -90,15 +90,16 @@
 	</block>
 	<block class="prose">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Hjo~rvarþr he`t konungr, hann a`tti fjo`rar konur: ein he`t A`lfhildr, sonr þeira he`t Heþinn; o~nnur he`t Sa_ereiþr, þeira sonr he`t Humlungr; en þriþja he`t Sinrjo`þ, þeira sonr he`t Hymlingr.<br />
+			Hjo~rvarþr konungr hafþi þess heit strengt at eiga þa` konu er hann vissi va_ensta.<br />
+			Hann spurþi at Sva`fnir konungr a`tti do`ttur allra fegrsta, su` he`t Sigrlinn.<br />
+			Iþmundr he`t jarl hans; Atli var hans sonr, er fo`r at biþja Sigrlinnar til handa konungi.<br />
+			Hann dvalþiz vetrlangt meþ Sva`fni konungi.<br />
+			Fra`nmarr he`t þar jarl, fo`stri Sigrlinnar; do`ttir hans he`t A`lo~f.<br />
+			Jarlinn re`þ at meyjar var synjat, ok fo`r Atli heim.<br />
+			Atli jarls sonr sto`þ einn dag viþ lund no~kkurn, en fugl sat i` limunum uppi yfir honum ok hafþi heyrt til, at hans menn ko~lluþu va_enstar konur þa_er er Hjo~rvarþr konungr a`tti.<br />
+			Fuglinn kvakaþi, en Atli hly`ddi hvat hann sagþi;<br />
+			hann kvaþ:
 		</original>
 		<translation>
 			Hjorvarth was the name of a king, who had four wives: one was called Alfhild, and their son was named Hethin; the second was called Særeith, and their son was named Humlung; the third was called Sinrjoth, and their son was named Hymling.<br />
@@ -132,10 +133,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sa`ttu Sigrlinn<sep />Svafnis do`ttur,<br />
+			meyja fegrsta<sep />i` munarheimi?<br />
+			þo`t hagligar<sep />Hjo~rvarþs konur<br />
+			gumnum þykki<sep />at Glasislundi.''
 		</original>
 		<translation>
 			``Sawest thou Sigrlin,<sep />Svafnir's daughter,<br />
@@ -150,14 +151,14 @@
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Munt viþ Atla<sep />Iþmundar sun,<br />
+			fogl fro`þhugaþr!<sep />fleira ma_e`la?''<br />
+			<stanzaprelude>Fuglinn kvaþ:</stanzaprelude><br />
+			``Munk, ef mik buþlungr<sep />blo`ta vildi,<br />
+			ok ky`sk þats vilk<sep />o`r konungs garþi.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -172,13 +173,13 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Kjo`sat Hjo~rvarþ<sep />ne` hans sunu,<br />
+			ne` enar fo~gru<sep />fylkis bru`þir,<br />
+			eigi bru`þir<sep />þa_e`rs buþlungr a`;<br />
+			vel saman kaupum!<sep />þat's vina kynni.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -192,13 +193,13 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-
+			Fuglinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hof munk kjo`sa,<sep />ho~rga marga,<br />
+			gollhyrndar ky`r<sep />fra` grams bui::,<br />
+			ef ho~num Sigrlinn<sep />sefr a` armi<br />
+			ok o`nauþug<sep />jo~fri fylgir.''
 		</original>
 		<translation_prelude>
 			The bird spake:
@@ -217,6 +218,7 @@
 	</block>
 	<block class="prose" label="p5">
 		<original />
+			Þetta var a`þr Atli fo_eri; en er hann kom heim ok konungr spurþi hann ti`þinda, kvaþ hann:
 		<translation>
 			This was before Atli went on his journey; but when he came home, and the king asked his tidings, he said:
 		</translation>
@@ -226,11 +228,11 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ho~fum erfiþi,<sep />etki eyrindi,<br />
+			mara þraut o`ra<sep />a` meginfjalli;<br />
+			urþum si`þan<sep />Sa_e`morn vaþa;<br />
+			þa` vas oss synjat<sep />Svafnis do`ttur,<br />
+			hringum go/`ddrar,<sep />es hafa vildum.''
 		</original>
 		<translation>
 			``Trouble we had,<sep />but tidings none,<br />
@@ -246,16 +248,19 @@
 	</block>
 	<block class="prose" label="p6_1">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Konungr baþ at þeir skyldu fara annat sinn; fo`r hann sja`lfr.<br />
+			En er þeir ko`mu upp a` fjall, ok sa` a` Sva`valand landsbruna ok jo`reyki sto`ra.<br />
+			Reiþ konungr af fjallinu fram i` landit ok to`k na`ttbo`l viþ a` eina.<br />
+			Atli helt vo~rþ ok fo`r yfir a`na; hann fann eitt hu`s.<br />
+			Fugl mikill sat a` hu`sinu ok ga_etti, ok var sofnaþr.<br />
+			Atli skaut spjo`ti fuglinn til bana, en i` hu`sinu fann hann Sigrlinn konungs do`ttur ok A`lo~fu jarls do`ttur ok hafþi þa_er ba`þar braut meþ se`r.<br />
+			Fra`nmarr jarl hafþi hamaz i` arnar li`ki ok varit þa_er fyr hernum meþ fjo~lkyngi.<br />
+			Hro`þmarr he`t konungr, biþill Sigrlinnar; hann drap Sva`vakonung ok hafþi ra_ent ok brent landit.<br />
+			Hjo~rvarþr konungr fekk Sigrlinnar, en Atli A`lo~far.
 		</original>
 		<translation>
-			The king bade that they should go another time, and he went with them himself, But when they came up on the mountain, they saw Svavaland burning and mighty dust-clouds from many steeds.<br />
+			The king bade that they should go another time, and he went with them himself.<br />
+			But when they came up on the mountain, they saw Svavaland burning and mighty dust-clouds from many steeds.<br />
 			The king rode from the mountain forward into the land, and made a night's stay hard by a stream.<br />
 			Atli kept watch and went over the stream; he found there a house.<br />
 			A great bird sat on the housetop to guard it, but he was asleep.<br />
@@ -278,8 +283,9 @@
 	</block>
 	<block class="prose" label="p6_2">
 		<original>
-			<br />
-			<br />
+			Hjo~rvarþr ok Sigrlinn a`ttu sin mikinn ok va_enan; hann var þo~gull, ekki nafn festiz viþ hann.<br />
+			Hann sat a` haugi, hann sa` ri`þa valkyrjur ni`u, ok var ein go~fugligust;<br />
+			hon kvaþ:
 		</original>
 		<translation>
 			Hjorvarth and Sigrlin had a son, mighty and of noble stature; he was a silent man, and no name stuck fast to him.<br />
@@ -297,15 +303,15 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Si`þ munt, Helgi!<sep />hringum ra`þa,<br />
+			ri`kr ro`gapaldr,<sep />ne` Ro~þulsvo~llum<br />
+			---o~rn go`l a`rla---<sep />ef a_e` þegir,<br />
+			þo`t harþan hug,<sep />hilmir! gjaldir.''
 		</original>
 		<translation>
 			``Late wilt thou, Helgi,<sep />have hoard of rings,<br />
-			Thou battle-tree fierce,<sep />or of shining fields,--<br />
-			The eagle screams soon,--<sep />if never thou speakest,<br />
+			Thou battle-tree fierce,<sep />or of shining fields,---<br />
+			The eagle screams soon,---<sep />if never thou speakest,<br />
 			Though, hero, hard<sep />thy heart may cry.''
 		</translation>
 		<comment>
@@ -315,13 +321,13 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat la_e`tr fylgja<sep />Helga nafni,<br />
+			bru`þr bjartlituþ!<sep />alls bjo`þa ra_e`þr?<br />
+			Hygg fyr o~llum<sep />atkva_e`þum vel!<br />
+			þikk eigi þat,<sep />nema þik hafak.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -338,13 +344,13 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-
+			Valkyrja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sverþ veitk liggja<sep />i` Sigarsholmi<br />
+			fjo`rum fa_e`ri<sep />an fimm to/gu;<br />
+			eitt es þeira<sep />o~llum betra,<br />
+			vi`gnesta bo~l,<sep />ok varit gulli.
 		</original>
 		<translation_prelude>
 			The Valkyrie spake:
@@ -361,10 +367,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Hro`þr's</conj> i` hjalti,<sep />hugr's i` miþju,<br />
+			o`gn's i` oddi<sep />þeims eiga getr;<br />
+			liggr meþ eggju<sep />ormr dreyrfai::þr,<br />
+			en a` valbo~stu<sep />verþr naþr hala.''
 		</original>
 		<translation>
 			In the hilt is fame,<sep />in the haft is courage,<br />
@@ -379,8 +385,9 @@
 	</block>
 	<block class="prose" label="p10">
 		<original>
-			<br />
-			<br />
+			Eylimi he`t konungr, do`ttir hans var Sva`va, hon var valkyrja ok reiþ lopt ok lo~g.<br />
+			Hon gaf Helga nafn þetta ok hli`fþi honum opt si`þan i` orrostum.<br />
+			Helgi kvaþ:
 		</original>
 		<translation>
 			Eylimi was the name of a king, whose daughter was Svava; she was a Valkyrie, and rode air and sea.<br />
@@ -393,13 +400,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Estat, Hjo~rvarþr!<sep />heilra`þr konungr,<br />
+			folks oddviti,<sep />þo`t fra_e`gr sei::r;<br />
+			le`zt eld eta<sep />jo~fra bygþir,<br />
+			en angr viþ þik<sep />etki go/rþu.
 		</original>
 		<translation>
-			"Hjorvarth, king,<sep />unwholesome thy counsels,<br />
+			``Hjorvarth, king,<sep />unwholesome thy counsels,<br />
 			Though famed thou art<sep />in leading the folk,<br />
 			Letting fire the homes<sep />of heroes eat,<br />
 			Who evil deed<sep />had never done thee.
@@ -412,21 +419,23 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<br />
-			<br />
-			<br />
+			En Hro`þmarr skal<sep />hringum ra`þa<br />
+			þeim es o~`ttu<sep />o`rir niþjar;<br />
+			sa` se`sk fylkir<sep />fa_e`st at li`fi,<br />
+			hyggsk aldauþra<sep />arfi ra`þa.''
 		</original>
 		<translation>
-			``Yet Hrothmar still the hoard doth hold,<br />
-			The wealth that once our kinsmen wielded;<br />
-			Full seldom care the king disturbs,<br />
-			Heir to dead men he deems himself.''
+			Yet Hrothmar still<sep />the hoard doth hold,<br />
+			The wealth that once<sep />our kinsmen wielded;<br />
+			Full seldom care<sep />the king disturbs,<br />
+			Heir to dead men<sep />he deems himself.''
 		</translation>
 	</block>
 	<block class="prose" label="p11_1">
 		<original>
-			<br />
-			<br />
+			Hjo~rvarþr svaraþi at hann mundi fa` liþ Helga, ef hann vill hefna mo`þurfo~þur si`ns.<br />
+			Þa` so`tti Helgi sverþit er Sva`va vi`saþi honum til.<br />
+			Þa` fo`r hann ok Atli ok feldu Hro`þmar ok unnu mo~rg þrekvirki.
 		</original>
 		<translation>
 			Hjorvarth answered that he would give Helgi a following if he fain would avenge his mother's father.<br />
@@ -436,20 +445,21 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			(II)
+			(III)
 		</original>
 		<transliteration>
-			(II)
+			(III)
 		</transliteration>
 		<translation>
-			(II)
+			(III)
 		</translation>
 	</block>
 	<block class="prose" label="p11_2">
 		<original>
-			<br />
-			<br />
-			<br />
+			Hann drap Hata jo~tun, er hann sat a` bergi no~kkuru.<br />
+			Helgi ok Atli la`gu skipum i` Hatafirþi.<br />
+			Atli helt vo~rþ enn fyrra hlut na_etrinnar.<br />
+			Hri`mgerþr Hatado`ttir kvaþ:
 		</original>
 		<translation>
 			He slew the giant Hati, whom he found sitting on a certain mountain.<br />
@@ -465,9 +475,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hverir'u ho~lþar<sep />i` Hatafirþi?<br />
+			skjo~ldum's tjaldat a` skipum;<br />
+			fro/`knla la`tiþ,<sep />fa`tt hykk yþr seask:<br />
+			kenniþ me`r nafn konungs.''
 		</original>
 		<translation>
 			``Who are the heroes<sep />in Hatafjord?<br />
@@ -478,12 +489,13 @@
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Helgi hann heitir,<sep />en þu` hvergi ma`tt<br />
+			vinna grand grami;<br />
+			jarnborgir'u`<sep />of o~þlings flota,<br />
+			knegut oss fo~`lur fara.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -500,12 +512,13 @@
 	</block>
 	<block class="stanza" number="14">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hve` þu` heitir,<sep />halr enn a`mo~`tki?<br />
+			hve` þik kalla konir?<br />
+			fylkir þe`r truir,<sep />es þik i` fo~grum la_e`tr<br />
+			beits stafni bua.''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -519,12 +532,13 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Atli heitik,<sep />atall skalk þe`r vesa,<br />
+			mjo~k emk gi`frum gramastr;<br />
+			u`rgan stafn ek hef opt bui::t<sep /><br />
+			ok kvalþar kveldriþur.
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -542,9 +556,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Hve` þu` heitir,<sep />ha`la na`gro~`þug?<br />
+			nefndu þinn, fa`la, fo~þur!<br />
+			niu ro~stum<sep />es skyldir neþarr vesa,<br />
+			ok vaxi a` baþmi barr!''
 		</original>
 		<translation>
 			Corpse-hungry giantess,<sep />how art thou called?<br />
@@ -555,12 +570,13 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hri`mgerþr heitik,<sep />Hati <conj>nefndisk</conj> faþir,<br />
+			þann vissak a`mo~`tkastan jo~tun:<br />
+			margar bru`þir<sep />hann le`t fra` bui:: teknar,<br />
+			unz hann Helgi hjo`.''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -577,12 +593,13 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þu` vast, ha`la!<sep />fyr hildings skipum<br />
+			ok la`tt i` fjarþar mynni fyrir;<br />
+			ra_e`sis rekka<sep />es vildir Ro~`n gefa,<br />
+			ef kva_e`mit i` þverst þvari.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -601,12 +618,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Duliþr est, Atli!<sep />draums kveþk þe`r vesa,<br />
+			si`ga la_e`tr bry`nn fyr braar;<br />
+			mo`þir mi`n<sep />la` fyr mildings skipum,<br />
+			ek drekþa Hlo~þvarþs sunum u` hafi.''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -624,9 +642,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Gneggja myndir, Atli!<sep />ef geldr ne` va_e`rir,<br />
+			brettir sinn Hri`mgerþr hala;<br />
+			aptarla hjarta<sep />hykk at þitt, Atli! sei::,<br />
+			þo`t hafir reina ro~dd.''
 		</original>
 		<translation>
 			``Thou wouldst neigh, Atli,<sep />but gelded thou art,<br />
@@ -640,12 +659,13 @@
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Reini munk þe`r þykkja,<sep />ef þu` reyna kna`tt<br />
+			ok sti`gak land af legi;<br />
+			o~ll munt lemjask,<sep />ef me`r's alhugat,<br />
+			ok sveigja þinn, Hri`mgerþr! hala.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -659,12 +679,13 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Atli! gakk a` land,<sep />ef afli treystisk,<br />
+			ok hittumk i` vi`k Varins;<br />
+			rifja re`tti<sep />es munt, rekkr! faa,<br />
+			ef þu` me`r i` krummur ko/mr.''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -682,12 +703,13 @@
 	</block>
 	<block class="stanza" number="23">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Munkak ganga,<sep />a`þr gumnar vakna,<br />
+			ok halda of vi`sa vo~rþ;<br />
+			esa me`r o/rva_e`nt<sep />na_e`r o`ru komir,<br />
+			skars! upp und skipi.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -701,12 +723,13 @@
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Vaki þu`, Helgi!<sep />ok bo/`t viþ Hri`mgerþi,<br />
+			es le`zt ho~ggvinn Hata;<br />
+			eina no~`tt<sep />kna` ho`n hja` jo~fri sofa,<br />
+			þa` hefr ho`n bo~lva bo/`tr.''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -720,18 +743,19 @@
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Loþinn heitir es þik skal eiga---<sep />leiþ est mannkyni---<br />
+			sa` by`r i` Þolleyju þurs,<br />
+			hundvi`ss jo~tunn,<sep />hraunbua verstr:<br />
+			sa`'s þe`r makligr maþr.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
 		</translation_prelude>
 		<translation>
-			`` 'Tis Lothin shall have thee,---<sep />thou'rt loathsome to men,---<br />
+			``'Tis Lothin shall have thee,---<sep />thou'rt loathsome to men,---<br />
 			His home in Tholley he has;<br />
 			Of the wild-dwellers worst<sep />is the giant wise,<br />
 			He is meet as a mate for thee.''
@@ -743,15 +767,16 @@
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<br />
-			<sep /><br />
+			``Hina vilt heldr, Helgi!<sep />es re`þ hafnir skoþa<br />
+			fyrri no~`tt meþ firum;<br />
+			[marggollin ma_e`r<sep />þo`ttumk <conj>magni</conj> bera;<br />
+			he`r ste` ho`n land af legi<br />
+			ok festi yþvarn flota;]<br />
+			ho`n ein þvi` veldr,<sep />es ek eigi ma`k<br />
+			buþlungs mo~nnum bana.''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -759,9 +784,9 @@
 		<translation>
 			``More thou lovest her<sep />who scanned the harbor,<br />
 			Last night among the men;<br />
-			(The gold-decked maid<sep />bore magic, rnethinks,<br />
+			[The gold-decked maid<sep />bore magic, rnethinks,<br />
 			When the land from the sea she sought,<br />
-			And fast she kept your fleet;)<br />
+			And fast she kept your fleet;]<br />
 			She alone is to blame<sep />that I may not bring<br />
 			Death to the monarch's men.''
 		</translation>
@@ -774,12 +799,13 @@
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heyr nu`, Hri`mgerþr!<sep />ef ek bo/`ti harma þe`r,<br />
+			seg þu` go/rr grami:<br />
+			vas su` ein va_e`tr<sep />es barg o~þlings skipum,<br />
+			eþa fo`ru þa_e`r fleiri saman?''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -793,15 +819,16 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-
+			Hri`mgerþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<br />
-			<br />
+			``Þrinnar niundir meyja,<sep />þo` reiþ ein fyrir<br />
+			hvi`t und hjalmi ma_e`r;<br />
+			marir hristusk,<sep />sto`þ af mo~num þeira<br />
+			do~gg i` dju`pa dali,<br />
+			[hagl i` ho~`va viþu,<br />
+			þaþan ko/mr meþ o~ldum a`r,<br />
+			allt vo~rumk leitt es leitk.]''
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -811,9 +838,9 @@
 			A helmed maid white of hue;<br />
 			Their horses quivered,<sep />there came from their manes<br />
 			Dew in the dales so deep,<br />
-			(Hail on the woods so high,<br />
+			[Hail on the woods so high,<br />
 			Thence men their harvest have,<br />
-			But ill was the sight I saw.)''
+			But ill was the sight I saw.]''
 		</translation>
 		<comment>
 			Again something is clearly wrong, and the last three lines look like interpolations, though some editors have tried to reconstruct two full stanzas.
@@ -822,12 +849,13 @@
 	</block>
 	<block class="stanza" number="29">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Li`t nu` austr, Hri`mgerþr!<sep />en þik lostna hefr<br />
+			Helgi helsto~fum:<br />
+			vatni a`<sep />borgit's o~þlings flota<br />
+			ok siklings mo~nnum et sama.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -846,12 +874,13 @@
 	</block>
 	<block class="stanza" number="30">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Dagr's nu`, Hri`mgerþr!<sep />en þik dvalþa hefr<br />
+			Atli til aldrlaga;<br />
+			hafnarmark<sep />þykkir hlo/`gligt vesa,<br />
+			þars i` steins li`ki stendr.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -880,17 +909,17 @@
 	</block>
 	<block class="prose" label="p31">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Helgi konungr var allmikill hermaþr.<br />
+			Hann kom til Eylima konungs ok baþ Sva`vu do`ttur hans.<br />
+			Þau Helgi ok Sva`va veittuz va`rar ok unnuz furþu mikit.<br />
+			Sva`va var heima meþ si`num, en Helgi i` hernaþi; var Sva`va valkyrja enn sem fyrr.<br />
+			Heþinn var heima meþ fo~þur si`num, Hjo~rvarþi konungi, i` No`regi.<br />
+			Heþinn fo`r einn saman heim o`r sko`gi jo`laaptan ok fann trollkonu; su` reiþ vargi ok hafþi orma at taumum ok bauþ fylgþ si`na Heþni.<br />
+			``Nei'' sagþi hann.<br />
+			Hon sagþi: ``Þess saltu gjalda at bragarfulli.''<br />
+			Um kveldit va`ru heitstrengingar: var framleiddr sonargo~ltr, lo~gþu menn þar a` hendr si`nar ok strengþu menn þa` heit at bragarfulli.<br />
+			Heþinn strengþi heit til Sva`vu Eylima do`ttur, unnustu Helga bro`þur si`ns, ok iþraþiz sva` mjo~k, at hann gekk a` braut villisti`gu suþr a` lo~nd, ok fann Helga bro`þur sinn.<br />
+			Helgi kvaþ:
 		</original>
 		<translation>
 			King Helgi was a mighty warrior.<br />
@@ -898,8 +927,7 @@
 			Then Helgi and Svava exchanged vows, and greatly they loved each other.<br />
 			Svava was at home with her father, while Helgi was in the field; Svava was still a Valkyrie as before.<br />
 			Hethin was at home with his father, King Hjorvarth, in Norway.<br />
-			Hethin was coming home alone from the forest one Yule-eve, and found a troll-woman; she rode on a wolf, and had snakes in place of a bridle.<br />
-			She asked Hethin for his company.<br />
+			Hethin was coming home alone from the forest one Yule-eve, and found a troll-woman; she rode on a wolf, and had snakes in place of a bridle. She asked Hethin for his company.<br />
 			``Nay,'' said he.<br />
 			She said, ``Thou shalt pay for this at the king's toast.''<br />
 			That evening the great vows were taken; the sacred boar was brought in, the men laid their hands thereon, and took their vows at the king's toast.<br />
@@ -921,10 +949,10 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Kom heill, Heþinn!<sep />hvat kant segja<br />
+			ny`ra spjalla<sep />o`r No`regi?<br />
+			hvi`'s þe`r, stillir!<sep />sto/kt o`r landi,<br />
+			ok est einn kominn<sep />oss at finna?''
 		</original>
 		<translation>
 			``Welcome, Hethin!<sep />what hast thou to tell<br />
@@ -938,13 +966,13 @@
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-
+			Heþinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ho~fumk miklu glo/`pr<sep />meiri so`ttan,<br />
+			<conj>an, bro`þir! þe`r</conj><sep /><conj>bo_eta ma_e`ttak:</conj><br />
+			ek hef ko/rna<sep />ena konungbornu,<br />
+			bru`þi þi`na<sep />at bragarfulli.''
 		</original>
 		<translation_prelude>
 			Hethin spake:
@@ -961,15 +989,15 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sakask eigi þu`!<sep />so~nn munu verþa<br />
+			o~lmo~`l, Heþinn!<sep />ykkur beggja:<br />
+			me`r hefr stillir<sep />stefnt til eyrar,<br />
+			[þriggja na`tta<sep />skylak þar koma;]<br />
+			erumk if a` þvi`,<sep />at aptr komak.<br />
+			[þa` ma at go`þu<sep />go/rask sli`kt, ef skal.]''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -978,9 +1006,9 @@
 			``Grieve not, Hethin,<sep />for true shall hold<br />
 			The words we both<sep />by the beer have sworn;<br />
 			To the isle a warrior<sep />wills that I go,<br />
-			(There shall I come<sep />the third night hence;)<br />
+			[There shall I come<sep />the third night hence;]<br />
 			And doubtful must be<sep />my coming back,<br />
-			(So may all be well,<sep />if fate so wills.)''
+			[So may all be well,<sep />if fate so wills.]''
 		</translation>
 		<comment>
 			Perhaps this is the remnant of two stanzas, or perhaps two lines (probably the ones in parenthesis) have been interpolated.
@@ -991,13 +1019,13 @@
 	</block>
 	<block class="stanza" number="34">
 		<original_prelude>
-
+			Heþinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sagþir, Helgi!<sep />at Heþinn va_e`ri<br />
+			go`þs verþr fra` þe`r<sep />ok gjafa sto`rra:<br />
+			þe`r es so/`mra<sep />sverþ at rjo`þa,<br />
+			an friþ gefa<sep />fio~ndum þi`num.''
 		</original>
 		<translation_prelude>
 			Hethin spake:
@@ -1011,12 +1039,13 @@
 	</block>
 	<block class="prose" label="p35">
 		<original>
-			<br />
-			<br />
+			Þat kvaþ Helgi, þvi`at hann grunaþi um feigþ si`na, ok þat at fylgþur hans ho~fþu vitjat Heþins, þa` er hann sa` konuna ri`þa varginum.<br />
+			A`lfr he`t konungr, sonr Hro`þmars, er Helga hafþi vo~ll haslaþan a` Sigarsvelli a` þriggja na`tta fresti.<br />
+			[Þa` kvaþ Helgi:
 		</original>
 		<translation>
 			Helgi spoke thus because he foresaw his death, for his following-spirits had met Hethin when he saw the woman riding on the wolf.<br />
-			Alf was the name of a king, the son of Hrothmar, who had marked out a battle-place with 			Helgi at Sigarsvoll after a stay of three nights.<br />
+			Alf was the name of a king, the son of Hrothmar, who had marked out a battle-place with Helgi at Sigarsvoll after a stay of three nights.<br />
 			Then Helgi spake:
 		</translation>
 		<comment>
@@ -1030,10 +1059,10 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Reiþ a` vargi,<sep />es ro/kvit vas,<br />
+			fljo`þ eitt es hann<sep />fylgju beiddi;<br />
+			ho`n vissi þat,<sep />at veginn mundi<br />
+			Sigrlinnar sunr<sep />a` Sigarsvo~llum.'']
 		</original>
 		<translation>
 			``On a wolf there rode,<sep />when dusk it was,<br />
@@ -1043,17 +1072,19 @@
 		</translation>
 	</block>
 	<block class="prose" label="p36">
-		<original />
+		<original>
+			Þar var orrosta mikil ok fekk þar Helgi banasa`r.
+		</original>
 		<translation>
 			There was a great battle, and there Helgi got a mortal wound.
 		</translation>
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sendi Helgi<sep />Sigar at ri`þa<br />
+			ept Eylima<sep />eingado`ttur:<br />
+			``Biþ bra`þliga<sep />bu`na verþa,<br />
+			ef vill finna<sep />fylki kvikvan.''
 		</original>
 		<translation>
 			Sigar riding<sep />did Helgi send<br />
@@ -1067,13 +1098,13 @@
 	</block>
 	<block class="stanza" number="37">
 		<original_prelude>
-
+			Sigarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mik hefr Helgi<sep />hingat sendan,<br />
+			viþ þik, Sva`va!<sep />sjalfa at ma_e`la;<br />
+			þik kvazk hilmir<sep />hitta vilja,<br />
+			a`þr i`trborinn<sep />o~ndu ty`ndi.''
 		</original>
 		<translation_prelude>
 			Sigar spake:
@@ -1087,13 +1118,13 @@
 	</block>
 	<block class="stanza" number="36">
 		<original_prelude>
-
+			Sva`va kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat varþ Helga<sep />Hjo~rvarþs syni?<br />
+			me`r's harþliga<sep />harma leitat;<br />
+			ef hann sa_e`r of le`k<sep />eþa sverþ of beit,<br />
+			þeim skalk gumna<sep />grand of vinna.''
 		</original>
 		<translation_prelude>
 			Svava spake:
@@ -1107,13 +1138,13 @@
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-
+			Sigarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Fell i` morgun<sep />at Frekasteini<br />
+			buþlungr sa`s vas<sep />baztr und so`lu;<br />
+			Alfr mun sigri<sep />o~llum ra`þa,<br />
+			þo`t þetta sinn<sep />þo~rfgi va_e`ri.''
 		</original>
 		<translation_prelude>
 			Sigar spake:
@@ -1131,13 +1162,13 @@
 	</block>
 	<block class="stanza" number="40">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Heil ves, Sva`va!<sep />hug skalt deila,<br />
+			sja` mun i` heimi<sep />hinztr fundr vesa;<br />
+			tea buþlungi<sep />blo/`þa unþir,<br />
+			ho~fumk hjo~rr komit<sep />hjarta et na_e`sta.
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -1151,10 +1182,10 @@
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Biþk þik, Sva`va!<sep />---bru`þr, gra`ttattu!---<br />
+			ef vill mi`nu<sep />ma`li hly`þa:<br />
+			at þu` Heþni<sep />hvi`lu go/rvir<br />
+			ok jo~fur ungan<sep />o~`stum leiþir.''
 		</original>
 		<translation>
 			I bid thee, Svava,---<sep />weep not, bride,---<br />
@@ -1168,13 +1199,13 @@
 	</block>
 	<block class="stanza" number="42">
 		<original_prelude>
-
+			Sva`va kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ma_e`lt hafþak þat<sep />i` munarheimi,<br />
+			þa`s me`r Helgi<sep />hringa valþi;<br />
+			myndiga lostig<sep />at liþinn fylki<br />
+			jo~fur o`kunnan<sep />armi verja.''
 		</original>
 		<translation_prelude>
 			Svava spake:
@@ -1188,13 +1219,13 @@
 	</block>
 	<block class="stanza" number="43">
 		<original_prelude>
-
+			Heþinn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Kyss mik, Sva`va!<sep />ko/mk eigi a`þr<br />
+			Rogheims a` vit<sep />ne` Ro~þulsfjalla,<br />
+			a`þr hefnt hafak<sep />Hjo~rvarþs sonar,<br />
+			es buþlungr vas<sep />baztr und so`lu.''
 		</original>
 		<translation_prelude>
 			Hethin spake:
@@ -1211,8 +1242,10 @@
 			<expl>Rogheim</expl> (``Rome of Battle'') and <expl>Rothulsfjoll</expl> (``Sun-Mountain''): nowhere else mentioned; Hethin means simply that he will not come back to Svava till he has won fame.
 		</comment>
 	</block>
-	<block class="prose">
-		<original />
+	<block class="prose" label="conclusion">
+		<original>
+			Helgi ok Sva`va er sagt at va_eri endrborin.
+		</original>
 		<translation>
 			Of Helgi and Svava it is said that they were born again.
 		</translation>
