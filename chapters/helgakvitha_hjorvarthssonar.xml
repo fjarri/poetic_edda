@@ -119,8 +119,11 @@
 			This particular Hjorvarth is called by the annotator, but not directly so in the verse, a king of Norway.
 			The name means “Sword-Guardian.”
 			<expl>Four wives</expl>: polygamy, while very infrequent, appears occasionally in the Norse sagas.
-			<expl>Alfhild</expl>: “Elf-Warrior.” Hethin: “Fur-Clothed” (?).
-			<expl>Særeith</expl>: “Sea-Rider.” Sinrjoth: “Ever-Red.” The fourth wife, not here named, may be Sigrlin.
+			<expl>Alfhild</expl>: “Elf-Warrior.”
+			<expl>Hethin</expl>: “Fur-Clothed” (?).
+			<expl>Særeith</expl>: “Sea-Rider.”
+			<expl>Sinrjoth</expl>: “Ever-Red.”
+			The fourth wife, not here named, may be Sigrlin.
 			It has been suggested that Særeith and Sinrjoth may be northern and southern forms of the same name, as also <expl>Humlung</expl> and <expl>Hymling</expl>, their sons.
 			<expl>Svafnir</expl>: the annotator calls him king of Svavaland, apparently a place on the mainland which could be reached from Norway either by land or by sea.
 			<expl>Sigrlin</expl>: “The Conquering Serpent.”
@@ -216,8 +219,9 @@
 		</comment>
 	</block>
 	<block class="prose" label="p5">
-		<original />
+		<original>
 			Þetta var āþr Atli fœri; en er hann kom heim ok konungr spurþi hann tīþinda, kvaþ hann:
+		</original>
 		<translation>
 			This was before Atli went on his journey; but when he came home, and the king asked his tidings, he said:
 		</translation>
@@ -467,7 +471,7 @@
 			Hrimgerth, Hati's daughter, spake:
 		</translation>
 		<comment>
-			The manuscript does not indicate any break, but the episode which forms the basis of the <source>Hrimgertharmol</source> (stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">12</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">30</stanzaref>) clearly begins with the slaying of the giant Hati (“The Hateful” ).
+			The manuscript does not indicate any break, but the episode which forms the basis of the <source>Hrimgertharmol</source> (stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">12</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">30</stanzaref>) clearly begins with the slaying of the giant Hati (“The Hateful”).
 			<expl>Hatafjord</expl>: “Hati's Fjord.”
 			<expl>Hrimgerth</expl>: “Frost Shrouded” (?).
 		</comment>
@@ -536,7 +540,7 @@
 		<original>
 			“Atli heitik,<sep />atall skalk þēr vesa,<br />
 			mjǫk emk gīfrum gramastr;<br />
-			ūrgan stafn ek hef opt buït<sep /><br />
+			ūrgan stafn<sep />ek hef opt buït<br />
 			ok kvalþar kveldriþur.
 		</original>
 		<translation_prelude>
@@ -935,7 +939,7 @@
 		</translation>
 		<comment>
 			The manuscript does not indicate a new section of the poem.
-			<expl>Eylimi</expl>: cf. note on prose after stanza <stanzaref chapter="Helgakvitha Hjorvarthssonar">9</stanzaref>.
+			<expl>Eylimi</expl>: cf. note on <proseref chapter="Helgakvitha Hjorvarthssonar" prose="p10_1">prose</proseref> after stanza <stanzaref chapter="Helgakvitha Hjorvarthssonar">9</stanzaref>.
 			<expl>Valkyrie</expl>: here, as before, the annotator has apparently nothing but his own imagination on which to base his statement.
 			Svava in the ensuing stanzas certainly does not behave like a Valkyrie.
 			<expl>Norway</expl>: the annotator doubtless based this statement on the reference to Norway in line 2 of stanza <stanzaref chapter="Helgakvitha Hjorvarthssonar">31</stanzaref>.
@@ -1115,7 +1119,7 @@
 			Ere life the nobly<sep />born should leave.”
 		</translation>
 	</block>
-	<block class="stanza" number="36">
+	<block class="stanza" number="38">
 		<original_prelude>
 			Svāva kvaþ:
 		</original_prelude>
