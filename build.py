@@ -314,17 +314,24 @@ def listToTex(l):
 			chapter = text if 'chapter' not in attrib else attrib['chapter']
 
 			# In Bellows' book in references like 'Something II, 23'
-			# only first word is italicized; but the reference is still 'Something II'
-			mo = re.match(ur'^(.*?)( [IV]+[,.:;!?]?)$', text)
+			# Roman number is not italicized; but the reference is still 'Something II'
+			mo = re.match(ur'^[IV]+[,.:;!?]?$', text)
 			if mo is not None:
-				itname = mo.group(1)
-				remainder = mo.group(2)
+				res.append(u'\\eddachapterref{{{chapter}}}'
+					'{{{remainder}}}'.format(
+					chapter=chapter, remainder=text))
 			else:
-				itname = text
-				remainder = u''
+				mo = re.match(ur'^(.*?)( [IV]+[,.:;!?]?)$', text)
+				if mo is not None:
+					itname = mo.group(1)
+					remainder = mo.group(2)
+				else:
+					itname = text
+					remainder = u''
 
-			res.append(u'\\eddachapterref{{{chapter}}}{{\\textit{{{itname}}}{remainder}}}'.format(
-				chapter=chapter, itname=itname, remainder=remainder))
+				res.append(u'\\eddachapterref{{{chapter}}}'
+					'{{\\textit{{{itname}}}{remainder}}}'.format(
+					chapter=chapter, itname=itname, remainder=remainder))
 
 		elif tag == 'stanzaref':
 			res.append(u'\\eddastanzaref{{{chapter}}}{{{stanza}}}'.format(
