@@ -212,9 +212,9 @@ Volundarkvitha (4 Mar 2011)
 * Fixed some non-substituted 'U+macron' symbols in Svipdagsmol;
 * Fixed disappeared running headings (the bug was introduced in Rigsthula)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Helgakvitha Hjorvarthssonar (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helgakvitha Hjorvarthssonar (14 Mar 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Helgakvitha Hjorvarthssonar chapter;
 * Made text in stanzas left justified;
