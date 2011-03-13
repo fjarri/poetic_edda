@@ -254,3 +254,5 @@ Tasks for distant future
 * Make the vertical space inside the stanza before <stanzaprelude>
   a bit bigger than between two normal lines.
   See any <stanzaprelude> usage in Bellows book.
+* Check spaces between single and double quotes and between double quotes and apostrophes
+  (thin space needed?)
