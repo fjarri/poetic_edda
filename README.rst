@@ -221,6 +221,8 @@ Helgakvitha Hjorvarthssonar (planned)
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
   (this may help to avoid uneven cell spacing)
+* Make all prose labels uniform ('pN' for those before stanzas
+  and 'conclusion' for the last ones)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
