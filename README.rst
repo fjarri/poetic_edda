@@ -218,19 +218,19 @@ Helgakvitha Hjorvarthssonar (planned)
 
 * Added Helgakvitha Hjorvarthssonar chapter;
 * Made text in stanzas left justified;
-* Need to do something with column width; see stanza 25
-* Fix the problem with not working \nopagebreak between \addsec and longtable
-  (see Svipdagsmol as an example; need to remove temporary workaround from there)
-* Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
-  (this may help to avoid uneven cell spacing)
-* Make all prose labels uniform ('pN' for those before stanzas
-  and 'conclusion' for the last ones)
+* Enabled protrusion in stanzas to handle some badly typeset lines
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Helgakvitha Hundingsbana I (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Helgakvitha Hundingsbana I chapter
+* Fix the problem with not working \nopagebreak between \addsec and longtable
+  (see Svipdagsmol as an example; need to remove temporary workaround from there)
+* Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
+  (this may help to avoid uneven cell spacing)
+* Make all prose labels uniform ('pN' for those before stanzas
+  and 'conclusion' for the last ones)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
