@@ -78,13 +78,13 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[I] Frā Hjǫrvarþi ok Sigrlinn
+			(I) Frā Hjǫrvarþi ok Sigrlinn
 		</original>
 		<transliteration>
 			(I) Fra Hjorvarthi ok Sigrlinn
 		</transliteration>
 		<translation>
-			[I] Of Hjorvarth and Sigrlin
+			Of Hjorvarth and Sigrlin
 		</translation>
 	</block>
 	<block class="prose" label="p1">
@@ -275,14 +275,11 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[II]
+			(II)
 		</original>
 		<transliteration>
 			(II)
 		</transliteration>
-		<translation>
-			[II]
-		</translation>
 	</block>
 	<block class="prose" label="p6_2">
 		<original>
@@ -448,14 +445,11 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[III]
+			(III)
 		</original>
 		<transliteration>
 			(III)
 		</transliteration>
-		<translation>
-			[III]
-		</translation>
 	</block>
 	<block class="prose" label="p11_2">
 		<original>
@@ -901,14 +895,11 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[IV]
+			(IV)
 		</original>
 		<transliteration>
 			(IV)
 		</transliteration>
-		<translation>
-			[IV]
-		</translation>
 	</block>
 	<block class="prose" label="p31">
 		<original>

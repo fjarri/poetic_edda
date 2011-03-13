@@ -416,8 +416,12 @@ def printSectionHeader(block):
 	return u"\\section*{" + block.text + u"}"
 
 def printEddaSectionHeader(block):
-	return u"\\eddasepline\n\n\\eddasection{" + block.find('transliteration').text + \
-		u"}{" + block.find('translation').text + u"}"
+	if block.find('translation') is not None:
+		return u"\\eddasepline\n\n\\eddasection[" + block.find('translation').text + \
+			u"]{" + block.find('transliteration').text + u"}"
+	else:
+		return u"\\eddasepline\n\n\\eddasection{" + block.find('transliteration').text + u"}{"
+
 
 def printSepline(block):
 	return u"\\eddasepline"

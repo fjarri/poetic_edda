@@ -305,11 +305,14 @@
 }
 
 % command for inline header
-\newcommand{\eddasection}[2]{ % subsection inside Edda chapter
-	\addsec*{#1}
-	{\large\sffamily #2}
-	\vskip 1.5\baselineskip
-	\nopagebreak
+\newcommand{\eddasection}[2][\@empty]{ % subsection inside Edda chapter
+	\addsec*{#2}
+	\ifx\@empty#1
+	\else
+		{\large\sffamily #1}
+		\vskip 1.5\baselineskip
+		\nopagebreak
+	\fi
 }
 
 
