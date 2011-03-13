@@ -282,8 +282,8 @@
 
 % The following lines have connected sizes, handle with care
 \newcommand{\eddastanzanumber}[1]{\makebox[0.075\textwidth][l]{\eddastanzanum{#1}}} % stanza number
-\newcommand{\eddastanzaleft}[1]{\begin{minipage}[t]{0.4\textwidth} \texticelandic{\stanzafont #1} \end{minipage}} % original
-\newcommand{\eddastanzaright}[1]{\begin{minipage}[t]{0.48\textwidth} \textenglish{\stanzafont #1} \end{minipage}} % translation
+\newcommand{\eddastanzaleft}[1]{\begin{minipage}[t]{0.4\textwidth} \raggedright \texticelandic{\stanzafont #1} \end{minipage}} % original
+\newcommand{\eddastanzaright}[1]{\begin{minipage}[t]{0.48\textwidth} \raggedright \textenglish{\stanzafont #1} \end{minipage}} % translation
 \newcommand{\eddastanzatable}[1]{ % table with paired stanzas
 	{\renewcommand{\sep}{\eddastanzasep} % local redefinition for \sep; here it should break line
 	\large\setstretch{1.3} % increased size and additional space between lines, to visually separate stanzas from comments

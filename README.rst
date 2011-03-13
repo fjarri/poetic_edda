@@ -216,8 +216,8 @@ Volundarkvitha (4 Mar 2011)
 Helgakvitha Hjorvarthssonar (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Make text in stanzas not justified, but with rugged right
 * Added Helgakvitha Hjorvarthssonar chapter;
+* Made text in stanzas left justified;
 * Need to do something with column width; see stanza 25
 * Fix the problem with not working \nopagebreak between \addsec and longtable
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
