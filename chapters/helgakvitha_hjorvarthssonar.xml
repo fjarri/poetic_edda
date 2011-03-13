@@ -283,7 +283,7 @@
 	</block>
 	<block class="prose" label="p6_2">
 		<original>
-			Hjo~rvarþr ok Sigrlinn a`ttu sin mikinn ok va_enan; hann var þo~gull, ekki nafn festiz viþ hann.<br />
+			Hjo~rvarþr ok Sigrlinn a`ttu son mikinn ok va_enan; hann var þo~gull, ekki nafn festiz viþ hann.<br />
 			Hann sat a` haugi, hann sa` ri`þa valkyrjur ni`u, ok var ein go~fugligust;<br />
 			hon kvaþ:
 		</original>
@@ -370,7 +370,7 @@
 			<conj>Hro`þr's</conj> i` hjalti,<sep />hugr's i` miþju,<br />
 			o`gn's i` oddi<sep />þeims eiga getr;<br />
 			liggr meþ eggju<sep />ormr dreyrfai::þr,<br />
-			en a` valbo~stu<sep />verþr naþr hala.''
+			en a` valbo~stu<sep />verpr naþr hala.''
 		</original>
 		<translation>
 			In the hilt is fame,<sep />in the haft is courage,<br />
@@ -624,13 +624,13 @@
 			``Duliþr est, Atli!<sep />draums kveþk þe`r vesa,<br />
 			si`ga la_e`tr bry`nn fyr braar;<br />
 			mo`þir mi`n<sep />la` fyr mildings skipum,<br />
-			ek drekþa Hlo~þvarþs sunum u` hafi.''
+			ek drekþa Hlo~þvarþs sunum i` hafi.
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
 		</translation_prelude>
 		<translation>
-			"Dull art thou, Atli,<sep />thou dreamest, methinks,<br />
+			``Dull art thou, Atli,<sep />thou dreamest, methinks,<br />
 			The lids lie over thine eyes;<br />
 			By the leader's ships<sep />my mother lay,<br />
 			Hlothvarth's sons on the sea I slew.
@@ -642,13 +642,13 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			``Gneggja myndir, Atli!<sep />ef geldr ne` va_e`rir,<br />
+			Gneggja myndir, Atli!<sep />ef geldr ne` va_e`rir,<br />
 			brettir sinn Hri`mgerþr hala;<br />
 			aptarla hjarta<sep />hykk at þitt, Atli! sei::,<br />
 			þo`t hafir reina ro~dd.''
 		</original>
 		<translation>
-			``Thou wouldst neigh, Atli,<sep />but gelded thou art,<br />
+			Thou wouldst neigh, Atli,<sep />but gelded thou art,<br />
 			See, Hrimgerth hoists her tail;<br />
 			In thy hinder end<sep />is thy heart, methinks,<br />
 			Though thy speech is a stallion's cry.''
