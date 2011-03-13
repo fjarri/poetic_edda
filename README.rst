@@ -217,6 +217,8 @@ Helgakvitha Hjorvarthssonar (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Helgakvitha Hjorvarthssonar chapter
+* Make text in stanzas not justified, but with rugged right
+* Need to do something with column width; see stanza 25
 * Fix the problem with not working \nopagebreak between \addsec and longtable
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
@@ -243,6 +245,6 @@ Tasks for distant future
 * Refactor scripts
 * Add all missing text from paperback (i.e., Acknowledgement and
   list of proper names)
-* Make the vertical space inside the stanza before <stanzaprelude> identical
-  with the space before the actual stanza prelude (to make it look uniform).
+* Make the vertical space inside the stanza before <stanzaprelude>
+  a bit bigger than between two normal lines.
   See any <stanzaprelude> usage in Bellows book.
