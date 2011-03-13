@@ -226,6 +226,12 @@ Helgakvitha Hjorvarthssonar (planned)
 * Make all prose labels uniform ('pN' for those before stanzas
   and 'conclusion' for the last ones)
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helgakvitha Hundingsbana I (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Helgakvitha Hundingsbana I chapter
+
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
 ~~~~~~~~~~~~~~~~~~~~~~~~
