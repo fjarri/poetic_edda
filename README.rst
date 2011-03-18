@@ -225,6 +225,12 @@ Helgakvitha Hundingsbana I (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Helgakvitha Hundingsbana I chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helgakvitha Hundingsbana II (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Helgakvitha Hundingsbana II chapter
 * Fix the problem with not working \nopagebreak between \addsec and longtable
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
@@ -256,3 +262,7 @@ Tasks for distant future
   See any <stanzaprelude> usage in Bellows book.
 * Check spaces between single and double quotes and between double quotes and apostrophes
   (thin space needed?)
+* Put original and translated textstanzas in comments side-by-side
+  (and delete parentheses from original stanzas)
+* Check that phrases like 'prose after stanza 5' are single references to prose,
+  not one ref to prose and one to stanza
