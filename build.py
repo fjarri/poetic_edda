@@ -366,6 +366,9 @@ def listToTex(l):
 		elif tag == 'dagger':
 			res.append(u'{\\eddadagger}')
 
+		elif tag == 'inlineseparator':
+			res.append(u'{\\asterisks}')
+
 		elif tag == 'section':
 			res.append(u'\\addsec*{' + text + u'}')
 
