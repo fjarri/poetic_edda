@@ -220,11 +220,11 @@ Helgakvitha Hjorvarthssonar (14 Mar 2011)
 * Made text in stanzas left justified;
 * Enabled protrusion in stanzas to handle some badly typeset lines
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Helgakvitha Hundingsbana I (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helgakvitha Hundingsbana I (19 Mar 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Helgakvitha Hundingsbana I chapter
+* Added Helgakvitha Hundingsbana I chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Helgakvitha Hundingsbana II (planned)
