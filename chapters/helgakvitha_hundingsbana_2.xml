@@ -1,0 +1,1422 @@
+<chapter label="Helgakvitha Hundingsbana II">
+	<block class="eddachapter">
+		<original>
+			Helga kviþa Hundingsbana II
+		</original>
+		<transliteration>
+			Helgakvitha Hundingsbana II
+		</transliteration>
+		<translation>
+			The Second Lay of Helgi Hundingsbane
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
+	</block>
+	<block class="text">
+		As the general nature of the Helgi tradition has been considered in the introductory note to <cr>Helgakvitha Hjorvarthssonar</cr>, it is necessary here to discuss only the characteristics of this particular poem.
+		<ref chapter="Helgakvitha Hundingsbana II">The second Helgi Hundingsbane lay</ref> is in most respects the exact opposite of the first one: it is in no sense consecutive; it is not a narrative poem, and all or most of it gives evidence of relatively early composition, its origin probably going well back into the tenth century.
+	</block>
+	<block class="text">
+		It is frankly nothing but a piece of, in the main, very clumsy patchwork, made up of eight distinct fragments, pieced together awkwardly by the annotator with copious prose notes.
+		One of these fragments (stanzas <sr>13</sr>--<sr>16</sr>) is specifically identified as coming from ``the old Volsung lay.''
+		What was that poem, and how much more of the extant Helgi-lay compilation was taken from it, and did the annotator know more of it than he included in his patchwork?
+		Conclusive answers to these questions have baffled scholarship, and probably always will do so.
+		My own guess is that the annotator knew little or nothing more than he wrote down; having got <ref chapter="Helgakvitha Hundingsbana I">the first Helgi Hundingsbane lay</ref>, which was obviously in fairly good shape, out of the way, he proceeded to assemble all the odds and ends of verse about Helgi which he could get hold of, putting them together on the basis of the narrative told in <ref chapter="Helgakvitha Hundingsbana I">the first Helgi lay</ref> and of such stories as his knowledge of prose sagas may have yielded.
+	</block>
+	<block class="text">
+		Section I (stanzas <sr>1</sr>--<sr>4</sr>) deals with an early adventure of Helgi's, in which he narrowly escapes capture when he ventures into Hunding's home in disguise.
+		Section II (stanzas <sr>5</sr>--<sr>12</sr>) is a dialogue between Helgi and Sigrun at their first meeting.
+		Section III (stanzas <sr>13</sr>--<sr>16</sr>, the ``old Volsung lay'' group) is another dialogue between Helgi and Sigrun when she invokes his aid to save her from Hothbrodd.
+		Section IV (stanzas <sr>17</sr>--<sr>20</sr>, which may well be from the same poem as Section III, is made up of speeches by Helgi and Sigrun after the battle in which Hothbrodd is killed; stanza <sr>21</sr>, however, is certainly an interpolation from another poem, as it is in a different meter.
+		Section V (stanzas <sr>22</sr>--<sr>27</sr>) is the dispute between Sinfjotli and Gothmund, evidently in an older form than the one included in <ref chapter="Helgakvitha Hundingsbana I">the first Helgi Hundingsbane lay</ref>.
+		Section VI (stanzas <sr>28</sr>--<sr>37</sr>) gives Dag's speech to his sister, Sigrun, telling of Helgi's death, her curse on her brother and her lament for her slain husband.
+		Section VII (stanza <sr>38</sr>) is the remnant of a dispute between Helgi and Hunding, here inserted absurdly out of place.
+		Section VIII (stanzas <sr>39</sr>--<sr>50</sr>) deals with the return of the dead Helgi and Sigrun's visit to him in the burial hill.
+	</block>
+	<block class="text">
+		Sijmons maintains that sections I and II are fragments of the Kara lay mentioned by the annotator in his concluding prose note, and that sections IV, VI, and VIII are from a lost Helgi-Sigrun poem, while Section III comes, of course, from the ``old Volsung lay.''
+		This seems as good a guess as any other, conclusive proof being quite out of the question.
+	</block>
+	<block class="text">
+		Were it not for sections, VI and VIII the poem would be little more than a battle-ground for scholars, but those two sections are in many ways as fine as anything in Old Norse poetry.
+		Sigrun's curse of her brother for the slaying of Helgi and her lament for her dead husband, and the extraordinary vividness of the final scene in the burial hill, have a quality which fully offsets the baffling confusion of the rest of the poem.
+	</block>
+	<block class="sepline" />
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			King Sigmund, the son of Volsung, had as wife Borghild, from Bralund.<br />
+			They named their son Helgi, after Helgi Hjorvarthsson; Hagal was Helgi's foster-father.<br />
+			Hunding was the name of a powerful king, and Hundland is named from him.<br />
+			He was a mighty warrior, and had many sons with him on his campaigns.<br />
+			There was enmity and strife between these two, King Hunding and King Sigmund, and each slew the other's kinsmen.<br />
+			King Sigmund and his family were called Volsungs and Ylfings.<br />
+			Helgi went as a spy to the home of King Hunding in disguise.<br />
+			Hæming, a son of King Hunding's, was at home.<br />
+			When Helgi went forth, then he met a young herdsman, and said:
+		</translation>
+		<comment>
+			In the manuscript the poem is headed ``Of the Volsungs,'' but most editions give it the title used here.
+			<expl>Sigmund</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">6</stanzaref> and note, which also mentions <expl>Volsung</expl>.
+			<expl>Borghild</expl> and <expl>Bralund</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">1</stanzaref> and note.
+			<expl>Helgi</expl>: the annotator's explanation that the child was named after Helgi Hjorvarthsson is a naive way of getting around the difficulties created by the two sets of Helgi stories.
+			He might equally well have said that the new Helgi was the old one born again, as he accounts for Sigrun in this way (``she was Svava reborn'').
+			<expl>Hagal</expl>: not elsewhere mentioned; it was a common custom to have boys brought up by foster-parents.
+			<expl>Hunding</expl> and <expl>Hundland</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">10</stanzaref> and note.
+			<expl>Volsungs</expl> and <expl>Ylfings</expl>: regarding this confusion of family names cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">5</stanzaref> and note.
+			<expl>Hæming</expl>: his name does not appear in the list of Hunding's sons.
+			It is quite possible that these opening stanzas (<sr>1</sr>--<sr>4</sr>) do not refer to Hunding at all.
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Say to Hæming<sep />that Helgi knows<br />
+			Whom the heroes<sep />in armor hid;<br />
+			A gray wolf had they<sep />within their hall,<br />
+			Whom King Hunding<sep />Hamal thought.''
+		</translation>
+		<comment>
+			Helgi appears to have stayed with Hunding under the name of Hamal, but now, thinking himself safe, he sends word of who he really is.
+			<expl>Hunding</expl>: it has been suggested that the compiler may have inserted this name to fit what he thought the story ought to be, in place of Hæming, or even Hadding.
+			If stanzas <sr>1</sr>--<sr>4</sr> are a fragment of the <src>Karuljoth</src> (<src>Lay of Kara</src>), this latter suggestion is quite reasonable, for in that poem, which we do not possess, but which supplied material for the compilers of the <src>Hromundar saga Greipssonar</src>, Helgi appears as Helgi Haddingjaskati (cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">final prose note</proseref>).
+			Nothing beyond this one name connects stanzas <sr>1</sr>--<sr>4</sr> with Hunding.
+		</comment>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+		</original>
+		<translation>
+			Hamal was the name of Hagal's son.<br />
+			King Hunding sent men to Hagal to seek Helgi, and Helgi could not save himself in any other way, so he put on the clothes of a bond-woman and set to work at the mill.<br />
+			They sought Helgi but found him not.
+		</translation>
+		<comment>
+			<expl>Hagal</expl>: Helgi's foster-father, who naturally protects him.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Blind spake out,<sep />the evil-minded:<br />
+			``Of Hagal's bond-woman<sep />bright are the eyes;<br />
+			Yon comes not of churls<sep />who stands at the quern;<br />
+			The millstones break,<sep />the boards are shattered.
+		</translation>
+		<comment>
+			The manuscript indicates line 2 as the beginning of the stanza, the copyist evidently regarding line 1 as prose.
+			This has caused various rearrangements in the different editions.
+			<expl>Blind</expl>: leader of the band sent to capture Helgi.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The hero has<sep />a doom full hard,<br />
+			That barley now<sep />he needs must grind;<br />
+			Better befits<sep />his hand to feel<br />
+			The hilt of the sword<sep />than the millstone's handle.''
+		</translation>
+		<comment>
+			The manuscript marks line 3 as the beginning of a stanza.
+			<expl>Barley</expl>: the word literally means ``foreign grain,'' and would afford an interesting study to students of early commerce.
+		</comment>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			Hagal answered and said:
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Small is the wonder<sep />if boards are splintered<br />
+			By a monarch's daughter<sep />the mill is turned;<br />
+			Once through clouds<sep />she was wont to ride,<br />
+			And battles fought<sep />like fighting men,<br />
+			(Till Helgi a captive<sep />held her fast;<br />
+			Sister she is<sep />of Sigar and Hogni,<br />
+			Thus bright are the eyes<sep />of the Ylfings' maid.)''
+		</translation>
+		<comment>
+			Possibly two stanzas with one line lost, or perhaps the lines in parenthesis are spurious; each editor has his own guess.
+			<expl>Sigar</expl> and <expl>Hogni</expl>: it seems unlikely that Hagal refers to the Hogni who was Sigrun's father, for this part of the story has nothing whatever to do with Sigrun.
+			As Hagal is, of course, deliberately lying, it is useless to test any part of his speech for accuracy.
+		</comment>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+		</original>
+		<translation>
+			Helgi escaped and went to a fighting ship.<br />
+			He slew King Hunding, and thenceforth was called Helgi Hundingsbane.
+		</translation>
+	</block>
+	<block class="eddasection">
+		<original>
+			(II)
+		</original>
+		<transliteration>
+			(II)
+		</transliteration>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			He lay with his host in Brunavagar, and they had there a strand-slaughtering, and ate the flesh raw.<br />
+			Hogni was the name of a king.<br />
+			His daughter was Sigrun; she was a Valkyrie and rode air and water; she was Svava reborn.<br />
+			Sigrun rode to Helgi's ship and said:
+		</translation>
+		<comment>
+			No division indicated in the manuscript.
+			<expl>Brunavagar</expl> (``Bruni's Sea''): mentioned only in this section.
+			<expl>Strand-slaughtering</expl>: a killing on the shore of cattle stolen in a raid.
+			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, concluding prose note) represents a naive form of scholarship.
+			There is nothing in stanzas <sr>5</sr>--<sr>12</sr> which clearly identifies Sigrun as a Valkyrie, or which, except for the last line of stanza <sr>12</sr>, identifies the speaker as Sigrun.
+			Some editors, therefore, call her simply ``the Valkyrie,'' while Vigfusson, who thinks this section is also a remnant of the <src>Karuljoth</src>, calls her Kara.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Who rules the ship<sep />by the shore so steep?<br />
+			Where is the home<sep />ye warriors have?<br />
+			Why do ye bide<sep />in Brunavagar,<br />
+			Or what the way<sep />that ye wish to try?''
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``Hamal's the ship<sep />by the shore so steep,<br />
+			Our home in Hlesey<sep />do we have;<br />
+			For fair wind bide we<sep />in Brunavagar,<br />
+			Eastward the way<sep />that we wish to try.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speakers.
+			<expl>Hamal</expl>: Helgi's assumption of this name seems to link this section (stanzas <sr>5</sr>--<sr>12</sr>) with stanza <sr>1</sr>.
+			<expl>Hlesey</expl> (``Island of Hler''---i.e., Ægir, the sea-god): generally identified as the Danish island of Läsö; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">37</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sigrun spake:
+		</translation_prelude>
+		<translation>
+			``Where hast thou, warrior,<sep />battle wakened,<br />
+			Or gorged the birds<sep />of the sisters of Guth?<br />
+			Why is thy byrnie<sep />spattered with blood,<br />
+			Why helmed dost feast<sep />on food uncooked?''
+		</translation>
+		<comment>
+			<expl>Guth</expl>: a Valkyrie (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref>) the birds of her sisters are the kites and ravens.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``Latest of all,<sep />the Ylfings' son<br />
+			On the western sea,<sep />if know thou wilt,<br />
+			Captured bears<sep />in Bragalund,<br />
+			And fed the eagles<sep />with edge of sword.<br />
+			Now is it shown<sep />why our shirts are bloody,<br />
+			And little our food<sep />with fire is cooked.''
+		</translation>
+		<comment>
+			The manuscript indicates line 5 as the beginning of a new stanza; some editors reject lines 1--2, while others make lines 5--6 into a fragmentary stanza.
+			<expl>Ylfings</expl>: cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="p1">introductory prose</proseref> and note.
+			<expl>Bragalund</expl> (``Bragi's Wood''): a mythical place.
+			<expl>Bears</expl>: presumably Berserkers, regarding whom cf. <chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">23</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sigrun spake:
+		</translation_prelude>
+		<translation>
+			``Of battle thou tellest,<sep />and there was bent<br />
+			Hunding the king<sep />before Helgi down;<br />
+			There was carnage when thou<sep />didst avenge thy kin,<br />
+			And blood flowed fast<sep />on the blade of the sword.''
+		</translation>
+	</block>
+	<block class="stanza" number="10">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``How didst thou know<sep />that now our kin,<br />
+			Maiden wise,<sep />we have well avenged?<br />
+			Many there are<sep />of the sons of the mighty<br />
+			Who share alike<sep />our lofty race.''
+		</translation>
+		<comment>
+			Helgi's meaning in lines 3--4 is that, although he has already declared himself an Ylfing (stanza <sr>8</sr>, line 1), there are many heroes of that race, and he does not understand how Sigrun knows him to be Helgi.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sigrun spake:
+		</translation_prelude>
+		<translation>
+			``Not far was I<sep />from the lord of the folk,<br />
+			Yester morn,<sep />when the monarch was slain;<br />
+			Though crafty the son<sep />of Sigmund, methinks,<br />
+			When he speaks of the fight<sep />in slaughter-runes.
+		</translation>
+		<comment>
+			<expl>Slaughter-runes</expl>: equivocal or deceptive speech regarding the battle.
+			The word ``rune'' had the meaning of ``magic'' or ``mystery'' long before it was applied to the signs or characters with which it was later identified.
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			On the long-ship once<sep />I saw thee well,<br />
+			When in the blood-stained<sep />bow thou wast,<br />
+			(And round thee icy<sep />waves were raging;)<br />
+			Now would the hero<sep />hide from me,<br />
+			But to Hogni's daughter<sep />is Helgi known.''
+		</translation>
+		<comment>
+			Some editors reject line 3, others line 5.
+			The manuscript omits Helgi's name in line 5, thereby destroying both the sense and the meter.
+			Vigfusson, following his <src>Karuljoth</src> theory (cf. note on <proseref chapter="Helgakvitha Hundingsbana II" prose="p5">prose following stanza 4</proseref>), changes Hogni to Halfdan, father of Kara.
+		</comment>
+	</block>
+	<block class="eddasection">
+		<original>
+			(III)
+		</original>
+		<transliteration>
+			(III)
+		</transliteration>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Granmar was the name of a mighty king, who dwelt at Svarin's hill.<br />
+			He had many sons; one was named Hothbrodd, another Gothmund, a third Starkath.<br />
+			Hothbrodd was in a kings' meeting, and he won the promise of having Sigrun, Hogni's daughter, for his wife.<br />
+			But when she heard this, she rode with the Valkyries over air and sea to seek Helgi.<br />
+			Helgi was then at Logafjoll, and had fought with Hunding's sons; there he killed Alf and Eyolf, Hjorvarth and Hervarth.<br />
+			He was all weary with battle, and sat under the eagle-stone.<br />
+			There Sigrun found him, and ran to throw her arms about his neck, and kissed him, and told him her tidings, as is set forth in the old Volsung lay:
+		</translation>
+		<comment>
+			The manuscript indicates no division.
+			Most of this prose passage is evidently based on <cr>Helgakvitha Hundingsbana I</cr>; the only new features are the introduction of <expl>Starkath</expl> as a third son of Granmar, which is clearly an error based on a misunderstanding of stanza <sr>19</sr>, and the reference to the <expl>kings' meeting</expl>, based on stanza <sr>15</sr>.
+			Kings' meetings, or councils, were by no means unusual; the North in early days was prolific in kings.
+			For the remaining names, cf. <cr>Helgakvitha Hundingsbana I</cr>: <expl>Granmar</expl>, stanza <stanzaref chapter="Helgakvitha Hundingsbana I">19</stanzaref>; <expl>Hothbrodd</expl>, stanza <stanzaref chapter="Helgakvitha Hundingsbana I">33</stanzaref>; <expl>Gothmund</expl>, stanza <stanzaref chapter="Helgakvitha Hundingsbana I">33</stanzaref>; <expl>Svarin's hill</expl>, stanza <stanzaref chapter="Helgakvitha Hundingsbana I">32</stanzaref>; <expl>Logafjoll</expl>, stanza <stanzaref chapter="Helgakvitha Hundingsbana I">13</stanzaref>; <expl>Alf</expl>, <expl>Eyjolf</expl>, <expl>Hjorvarth</expl> and <expl>Hervarth</expl>, stanza <stanzaref chapter="Helgakvitha Hundingsbana I">14</stanzaref>.
+			<expl>The old Volsung lay</expl>: cf. <ref chapter="Helgakvitha Hundingsbana II">Introductory Note</ref>.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Sigrun the joyful<sep />chieftain sought,<br />
+			Forthwith Helgi's<sep />hand she took;<br />
+			She greeted the hero<sep />helmed and kissed him,<br />
+			The warrior's heart<sep />to the woman turned.
+		</translation>
+		<comment>
+			Some editions combine lines 3--4, or line 4, with part of stanza <sr>14</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From her heart the daughter<sep />of Hogni spake,<br />
+			Dear was Helgi,<sep />she said, to her;<br />
+			``Long with all<sep />my heart I loved<br />
+			Sigmund's son<sep />ere ever I saw him.
+		</translation>
+		<comment>
+			The lines of stanzas <sr>14</sr> and <sr>15</sr> are here rearranged in accordance with Bugge's emendation; in the manuscript they stand as follows: lines 3--4 of stanza <sr>14</sr>; stanza <sr>15</sr>; lines 1--2 of stanza <sr>14</sr>.
+			This confusion has given rise to various editorial conjectures.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			At the meeting to Hothbrodd<sep />mated I was,<br />
+			But another hero<sep />I fain would have;<br />
+			Though, king, the wrath<sep />of my kin I fear,<br />
+			Since I broke my father's<sep />fairest wish.''
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``Fear not ever<sep />Hogni's anger,<br />
+			Nor yet thy kinsmen's<sep />cruel wrath;<br />
+			Maiden, thou<sep />with me shalt live,<br />
+			Thy kindred, fair one,<sep />I shall not fear.''
+		</translation>
+	</block>
+	<block class="eddasection">
+		<original>
+			(IV)
+		</original>
+		<transliteration>
+			(IV)
+		</transliteration>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Helgi then assembled a great sea-host and went to Frekastein.<br />
+			On the sea he met a perilous storm; lightning flashed overhead and the bolts struck the ship.<br />
+			They saw in the air that nine Valkyries were riding, and recognized Sigrun among them.<br />
+			Then the storm abated, and they came safe and sound to land.<br />
+			Granmar's sons sat on a certain mountain as the ships sailed toward the land.<br />
+			Gothmund leaped on a horse and rode for news to a promontory near the harbor; the Volsungs were even then lowering their sails.<br />
+			Then Gothmund said, as is written before in the Helgi lay:<br />
+		</translation>
+	</block>
+	<block class="prose">
+		<original>
+
+		</original>
+		<translation>
+			``Who is the king<sep />who captains the fleet,<br />
+			And to the land<sep />the warriors leads?''<br />
+		</translation>
+	</block>
+	<block class="prose">
+		<original>
+
+		</original>
+		<translation>
+			Sinfjotli, Sigmund's son, answered him, and that too is written.<br />
+			Gothmund rode home with his tidings of the host; then Granmar's sons summoned an army.<br />
+			Many kings came there; there were Hogni, Sigrun's father, and his sons Bragi and Dag.<br />
+			There was a great battle, and all Granmar's sons were slain and all their allies; only Dag, Hogni's son, was spared, and he swore loyalty to the Volsungs.<br />
+			Sigrun went among the dead and found Hothbrodd at the coming of death.<br />
+			She said:
+		</translation>
+		<comment>
+			The manuscript indicates no division.
+			Here again, the annotator has drawn practically all his information from <chapterref>Helgakvitha Hundingsbana I</chapterref>, which he specifically mentions and even quotes.
+			The only new features are the names of Hogni's sons, <expl>Bragi</expl> and <expl>Dag</expl>.
+			Bragi is mentioned in stanza <sr>19</sr>, though it is not there stated that he is Hogni's son.
+			Dag, who figures largely in stanzas <sr>28</sr>--<sr>34</sr>, is a puzzle, for the verse never names him, and it is an open question where the annotator got his name.
+			<expl>Frekastein</expl>: cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <stanzaref chapter="Helgakvitha Hjorvarthssonar">39</stanzaref> and note.
+			<expl>As is written</expl>: the two lines are quoted, with a change of two words, from <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">33</stanzaref>.
+			<expl>Sinfjotli</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">6</stanzaref> and note, and stanzas <stanzaref chapter="Helgakvitha Hundingsbana I">33</stanzaref>--<stanzaref chapter="Helgakvitha Hundingsbana I">48</stanzaref>, in which the whole dialogue is given.
+			<expl>Loyalty</expl>: apparently the annotator got this bit of information out of stanza <sr>29</sr>, in which Sigrun refers to the oaths which her brother had sworn to Helgi.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Never shall Sigrun<sep />from Sevafjoll,<br />
+			Hothbrodd king,<sep />be held in thine arms;<br />
+			Granmar's sons<sep />full cold have grown,<br />
+			And the giant-steeds gray<sep />on corpses gorge.''
+		</translation>
+		<comment>
+			<expl>Sevafjoll</expl> (``Wet Mountain''): mentioned only in this poem.
+			<expl>Giant-steeds</expl>: wolves, the usual steeds of giantesses; cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">56</stanzaref>.
+		</comment>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			Then she sought out Helgi, and was full of joy He said:
+		</translation>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Maid, not fair<sep />is all thy fortune,<br />
+			The Norris I blame<sep />that this should be;<br />
+			This morn there fell<sep />at Frekastein<br />
+			Bragi and Hogni<sep />beneath my hand.
+		</translation>
+		<comment>
+			<expl>Maid</expl>: the word thus rendered is the same doubtful one which appears in <chapterref>Völundarkvitha</chapterref>, <stanzaref chapter="Völundarkvitha">1</stanzaref> and <stanzaref chapter="Völundarkvitha">5</stanzaref>, and which may mean specifically a Valkyrie (Gering translates it ``helmed'' or ``heroic'') or simply ``wise.'' Cf. <chapterref>Völundarkvitha</chapterref>, note on <proseref chapter="Völundarkvitha" prose="p1">introductory prose</proseref>.
+			<expl>Norns</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">20</stanzaref> and note.
+			In stanza <sr>33</sr> Dag similarly lays the blame for the murder he has committed on Othin.
+			<expl>Bragi</expl>: probably Sigrun's brother.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			At Hlebjorg fell<sep />the sons of Hrollaug,<br />
+			Starkath the king<sep />at Styrkleifar;<br />
+			Fighters more noble<sep />saw I never,<br />
+			The body fought<sep />when the head had fallen.
+		</translation>
+		<comment>
+			This stanza looks like an interpolation, and there is little or nothing to connect it with the slaying of Gramnar's sons.
+			In the manuscript line 2, indicated as the beginning of a stanza, precedes line 1.
+			<expl>Hlebjorg</expl> (``Sea-Mountain'') and <expl>Styrkleifar</expl> (``Battle-Cliffs''): place names not elsewhere mentioned.
+			Of <expl>Hrollaug's sons</expl> nothing further is known.
+			<expl>Starkath</expl>: this name gives a hint of the origin of this stanza, for Saxo Grammaticus tells of the slaying of the Swedish hero Starkath (``The Strong'') the son of Storverk, and describes how his severed head bit the ground in anger (cf. line 4).
+			In all probability this stanza is from an entirely different poem, dealing with the Starkath story, and the annotator's attempt to identify the Swedish hero as a third son of Granmar is quite without foundation.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			On the ground full low<sep />the slain are lying,<br />
+			Most are there<sep />of the men of thy race;<br />
+			Nought hast thou won,<sep />for thy fate it was<br />
+			Brave men to bring<sep />to the battle-field.''<br />
+		</translation>
+	</block>
+	<block class="prose">
+		<original>
+
+		</original>
+		<translation>
+			Then Sigrun wept.<br />
+			Helgi said:
+		</translation>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			<sep /><br />
+			<br />
+			<br />
+			<sep /><br />
+		</original>
+		<translation>
+			``Grieve not, Sigrun,<sep />the battle is gained,<br />
+			The fighter can shun not his fate.''<br />
+			<stanzaprelude>Sigrun spake:</stanzaprelude><br />
+			``To life would I call<sep />them who slaughtered lie,<br />
+			If safe on thy breast I might be.''
+		</translation>
+		<comment>
+			The difference of meter would of itself be enough to indicate that this stanza comes from an entirely different poem.
+			A few editions assign the whole stanza to Helgi, but lines 3--4.
+			are almost certainly Sigrun's, and the manuscript begins line 3 with a large capital letter following a period.
+		</comment>
+	</block>
+	<block class="eddasection">
+		<original>
+			(V)
+		</original>
+		<transliteration>
+			(V)
+		</transliteration>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			This Gothmund the son of Granmar spoke:
+		</translation>
+	</block>
+	<block class="stanza" number="22">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``What hero great<sep />is guiding the ships?<br />
+			A golden flag<sep />on the stem he flies;<br />
+			I find not peace in<sep />the van of your faring,<br />
+			And round the fighters<sep />is battle-light red.''
+		</translation>
+		<comment>
+			With this stanza begins the dispute between Gothmund and Sinfjotli which, together with Helgi's rebuke to his half brother, appears at much greater length in <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">33</stanzaref>--<stanzaref chapter="Helgakvitha Hundingsbana I">48</stanzaref>.
+			It is introduced here manifestly in the wrong place.
+			The version here given is almost certainly the older of the two, but the resemblance is so striking, and in some cases (notably in Helgi's rebuke) the stanzas are so nearly identical, that it seems probable that the composer of the first Helgi Hundingsbane lay borrowed directly from the poem of which the present dialogue is a fragment.
+			<expl>Flag</expl>: the banner (``gunnfani,'' cf. ``gonfalon'') here serves as the signal for war instead of the red shield mentioned in <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">34</stanzaref>.
+			<expl>Battle-light</expl>: perhaps the ``northern lights.''
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sinfjotli spake:
+		</translation_prelude>
+		<translation>
+			``Here may Hothbrodd<sep />Helgi find,<br />
+			The hater of flight,<sep />in the midst of the fleet;<br />
+			The home of all<sep />thy race he has,<br />
+			And over the realm<sep />of the fishes he rules.''
+		</translation>
+		<comment>
+			Lines 3--4 are obscure, and in the manuscript show signs of error.
+			Helgi had not at this time, so far as we know, conquered any of Hothbrodd's land.
+			The realm of the fishes, in line 4, presumably means the sea, but the word here translated ``fishes'' is obscure, and many editors treat it as a proper name, ``the realm of the Fjorsungs,'' but without further suggestion as to who or what the Fjorsungs are.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Gothmund spake:
+		</translation_prelude>
+		<translation>
+			``First shall swords<sep />at Frekastein<br />
+			Prove our worth<sep />in place of words;<br />
+			Time is it, Hothbrodd,<sep />vengeance to have,<br />
+			If in battle worsted<sep />once we were.''
+		</translation>
+		<comment>
+			The word here translated <expl>swords</expl> is a conjectural emendation; the manuscript implies merely an invitation to continue the quarrel at Frekastein.
+			<expl>Hothbrodd</expl>: apparently he is here considered as present during the dispute; some editors, in defiance of the meter, have emended the line to mean
+			<textstanza class="translation">
+				Time is it for Hothbrodd<sep />vengeance to have.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sinfjotli spake:
+		</translation_prelude>
+		<translation>
+			``Better, Gothmund,<sep />to tend the goats,<br />
+			And climb the rocks<sep />of the mountain cliffs;<br />
+			A hazel switch<sep />to hold in thy hand<br />
+			More seemly were<sep />than the hilt of a sword.''
+		</translation>
+	</block>
+	<block class="stanza" number="26">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``Better, Sinfjotli,<sep />thee 'twould beseem<br />
+			Battles to give,<sep />and eagles to gladden,<br />
+			Than vain and empty<sep />speech to utter,<br />
+			Though warriors oft<sep />with words do strive.
+		</translation>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Good I find not<sep />the sons of Granmar,<br />
+			But for heroes 'tis seemly<sep />the truth to speak;<br />
+			At Moinsheimar<sep />proved the men<br />
+			That hearts for the wielding<sep />of swords they had,<br />
+			(And ever brave<sep />the warriors are.)''
+		</translation>
+		<comment>
+			<sr>26</sr>--<sr>27</sr>.
+			Cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">47</stanzaref>--<stanzaref chapter="Helgakvitha Hundingsbana I">48</stanzaref>, which are nearly identical.
+			Stanza <sr>27</sr> in the manuscript is abbreviated to the first letters of the words, except for line 5, which does not appear in the other poem, and which looks like an interpolation.
+		</comment>
+	</block>
+	<block class="eddasection">
+		<original>
+			(VI)
+		</original>
+		<transliteration>
+			(VI)
+		</transliteration>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Helgi took Sigrun to wife, and they had sons.<br />
+			Helgi did not reach old age.<br />
+			Dag, the son of Hogni, offered sacrifice to Othin to be avenged for his father's death; Othin gave Dag his spear.<br />
+			Dag found Helgi, his brother-in-law, at a place which is called Fjoturlund.<br />
+			He thrust the spear through Helgi's body.<br />
+			Then Helgi fell, and Dag rode to Sevafjoll and told Sigrun the tidings:
+		</translation>
+		<comment>
+			Here begins a new section of the poem, dealing with Helgi's death at the hands of <expl>Dag</expl>, Sigrun's brother.
+			The note is based wholly on stanzas <sr>28</sr>--<sr>34</sr>, except for the introduction of Dag's name (cf. note on <proseref chapter="Helgakvitha Hundingsbana II" prose="p17">prose following stanza 16</proseref>), and the reference to <expl>Othin's spear</expl>, the weapon which made victory certain, and which the annotator brought in doubtless on the strength of Dag's statement that Othin was responsible for Helgi's death (stanza <sr>33</sr>).
+			<expl>Fjoturlund</expl> (``Fetter-Wood''): mentioned only here and in stanza <sr>28</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Sad am I, sister,<sep />sorrow to tell thee,<br />
+			Woe to my kin<sep />unwilling I worked;<br />
+			In the morn there fell<sep />at Fjoturlund<br />
+			The noblest prince<sep />the world has known,<br />
+			(And his heel he set<sep />on the heroes' necks.)''
+		</translation>
+		<comment>
+			Line 5 looks like an interpolation.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sigrun spake:
+		</translation_prelude>
+		<translation>
+			``Now may every<sep />oath thee bite<br />
+			That with Helgi<sep />sworn thou hast,<br />
+			By the water<sep />bright of Leipt,<br />
+			And the ice-cold<sep />stone of Uth.
+		</translation>
+		<comment>
+			<expl>Leipt</expl>: this river is mentioned in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">29</stanzaref>.
+			<expl>Uth</expl>: a daughter of the sea-god Ægir; regarding her sacred stone we know nothing.
+			According to the annotator, Dag's life had been spared because he swore loyalty to Helgi.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The ship shall sail not<sep />in which thou sailest,<br />
+			Though a favoring wind<sep />shall follow after;<br />
+			The horse shall run not<sep />whereon thou ridest,<br />
+			Though fain thou art<sep />thy foe to flee.
+		</translation>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
+			The sword shall bite not<sep />which thou bearest,<br />
+			Till thy head itself<sep />it sings about.
+		</translation>
+		<comment>
+			No gap indicated in the manuscript, but most editors have assumed that either the first or the last two lines have been lost.
+			Bugge adds a line:
+			<textstanza class="translation">
+				The shield shall not help thee<sep />which thou holdest.
+			</textstanza>
+			<textstanza class="original">
+				(Hli`fia þe`r sa` skjo~ldr<sep />es þu` hafisk.)
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Vengeance were mine<sep />for Helgi's murder,<br />
+			Wert thou a wolf<sep />in the woods without,<br />
+			Possessing nought<sep />and knowing no joy,<br />
+			Having no food<sep />save corpses to feed on.''
+		</translation>
+	</block>
+	<block class="stanza" number="33">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Dag spake:
+		</translation_prelude>
+		<translation>
+			``Mad art thou, sister,<sep />and wild of mind,<br />
+			Such a curse<sep />on thy brother to cast;<br />
+			Othin is ruler<sep />of every ill,<br />
+			Who sunders kin<sep />with runes of spite.
+		</translation>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thy brother rings<sep />so red will give thee,<br />
+			All Vandilsve<sep />and Vigdalir;<br />
+			Take half my land<sep />to pay the harm,<br />
+			Ring-decked maid,<sep />and as meed for thy sons.''
+		</translation>
+		<comment>
+			<expl>Vandilsve</expl> (``Vandil's Shrine): who Vandil was we do not know; this and Vigdalir (''Battle-Dale") are purely mythical places.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Sigrun spake:
+		</translation_prelude>
+		<translation>
+			``I shall sit not happy<sep />at Sevafjoll,<br />
+			Early or late,<sep />my life to love,<br />
+			If the light cannot show,<sep />in the leader's band,<br />
+			Vigblær bearing him<sep />back to his home,<br />
+			(The golden-bitted;<sep />I shall greet him never.)
+		</translation>
+		<comment>
+			Line 5 may be spurious.
+			<expl>Vigblær</expl> (``Battle-Breather'') Helgi's horse.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Such the fear<sep />that Helgi's foes<br />
+			Ever felt,<sep />and all their kin,<br />
+			As makes the goats<sep />with terror mad<br />
+			Run from the wolf<sep />among the rocks.
+		</translation>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Helgi rose<sep />above heroes all<br />
+			Like the lofty ash<sep />above lowly thorns,<br />
+			Or the noble stag,<sep />with dew besprinkled,<br />
+			Bearing his head<sep />above all beasts,<br />
+			(And his horns gleam bright<sep />to heaven itself.)
+		</translation>
+		<comment>
+			Line 5 (or possibly line 4) may be spurious.
+			Cf. <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">17</stanzaref>, and <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">2</stanzaref>.
+		</comment>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+		</original>
+		<translation>
+			A hill was made in Helgi's memory.<br />
+			And when he<br />
+			came to Valhall, then Othin bade him rule over every thing with himself.
+		</translation>
+		<comment>
+			<expl>Valhall</expl>, etc.: there is no indication as to where the annotator got this notion of Helgi's sharing Othin's rule.
+			It is most unlikely that such an idea ever found place in any of the Helgi poems, or at least in the earlier ones; probably it was a late development of the tradition in a period when Othin was no longer taken seriously.
+		</comment>
+	</block>
+	<block class="eddasection">
+		<original>
+			(VII)
+		</original>
+		<transliteration>
+			(VII)
+		</transliteration>
+	</block>
+	<block class="stanza" number="38">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi said:
+		</translation_prelude>
+		<translation>
+			``Thou shalt, Hunding,<sep />of every hero<br />
+			Wash the feet,<sep />and kindle the fire,<br />
+			Tie up dogs,<sep />and tend the horses,<br />
+			And feed the swine<sep />ere to sleep thou goest.''
+		</translation>
+		<comment>
+			This stanza apparently comes from an otherwise lost passage containing a contest of words between Helgi and Hunding; indeed the name of Hunding may have been substituted for another one beginning with ``H,'' and the stanza originally have had no connection with Helgi at all.
+			The annotator inserts it here through an obvious misunderstanding, taking it to be Helgi's application of the power conferred on him by Othin.
+		</comment>
+	</block>
+	<block class="eddasection">
+		<original>
+			(VIII)
+		</original>
+		<transliteration>
+			(VIII)
+		</transliteration>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			One of Sigrun's maidens went one evening to Helgi's hill, and saw that Helgi rode to the hill with many men, The maiden said:
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Is this a dream<sep />that methinks I see,<br />
+			Or the doom of the gods,<sep />that dead men ride,<br />
+			And hither spurring<sep />urge your steeds,<br />
+			Or is home-coming now<sep />to the heroes granted?''
+		</translation>
+		<comment>
+			Here begins the final section (stanzas <sr>39</sr>--<sr>50</sr>), wherein Sigrun visits the dead Helgi in his burial hill.
+			<expl>Doom of the gods</expl>: the phrase ``ragna rök'' has been rather unfortunately Anglicized into the work ``ragnarok'' (the Norse term is not a proper name), and rök, ``doom,'' has been confused with rökkr, ``darkness,'' and so translated ``dusk of the Gods,'' or ``Götterdämmerung.''
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``No dream is this<sep />that thou thinkest to see,<br />
+			Nor the end of the world,<sep />though us thou beholdest,<br />
+			And hither spurring<sep />we urge our steeds,<br />
+			Nor is home-coming now<sep />to the heroes granted.''
+		</translation>
+		<comment>
+			In the manuscript most of this stanza is abbreviated to the first letters of the words.
+		</comment>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			The maiden went home and said to Sigrun:
+		</translation>
+	</block>
+	<block class="stanza" number="41">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Go forth, Sigrun,<sep />from Sevafjoll,<br />
+			If fain the lord<sep />of the folk wouldst find;<br />
+			(The hill is open,<sep />Helgi is come;)<br />
+			The sword-tracks bleed;<sep />the monarch bade<br />
+			That thou his wounds<sep />shouldst now make well.''
+		</translation>
+		<comment>
+			Line 5 (or possibly line 2) may be spurious.
+			<expl>Sword-tracks</expl>: wounds.
+			One edition places stanza <sr>48</sr> after stanza <sr>42</sr>, and an other does the same with stanza <sr>50</sr>.
+		</comment>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			Sigrun went in the hill to Helgi, and said:
+		</translation>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Now am I glad<sep />of our meeting together,<br />
+			As Othin's hawks,<sep />so eager for prey,<br />
+			When slaughter and flesh<sep />all warm they scent,<br />
+			Or dew-wet see<sep />the red of day.
+		</translation>
+	</block>
+	<block class="stanza" number="43">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			First will I kiss<sep />the lifeless king,<br />
+			Ere off the bloody<sep />byrnie thou cast;<br />
+			With frost thy hair<sep />is heavy, Helgi,<br />
+			And damp thou art<sep />with the dew of death;<br />
+			(Ice-cold hands<sep />has Hogni's kinsman,<br />
+			What, prince, can I<sep />to bring thee ease?)''
+		</translation>
+		<comment>
+			Possibly lines 5--6 are spurious, or part of a stanza the rest of which has been lost.
+			It has also been suggested that two lines may have been lost after line 2, making a new stanza of lines 3--6.
+			<expl>Kinsman</expl>: literally ``son-in-law.''
+		</comment>
+	</block>
+	<block class="stanza" number="44">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``Thou alone, Sigrun<sep />of Sevafjoll,<br />
+			Art cause that Helgi<sep />with dew is heavy;<br />
+			Gold-decked maid,<sep />thy tears are grievous,<br />
+			(Sun-bright south-maid,<sep />ere thou sleepest;)<br />
+			Each falls like blood<sep />on the hero's breast,<br />
+			(Burned-out, cold,<sep />and crushed with care.)
+		</translation>
+		<comment>
+			Lines 4 and 6 have been marked by various editors as probably spurious.
+			Others regard lines 1--2 as the beginning of a stanza the rest of which has been lost, or combine lines 5--6 with lines 5--6 of stanza <sr>45</sr> to make a new stanza.
+			<expl>South-maid</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Well shall we drink<sep />a noble draught,<br />
+			Though love and lands<sep />are lost to me;<br />
+			No man a song<sep />of sorrow shall sing,<br />
+			Though bleeding wounds<sep />are on my breast;<br />
+			Now in the hill<sep />our brides we hold,<br />
+			The heroes' loves,<sep />by their husbands dead.''
+		</translation>
+		<comment>
+			Both lines 3--4 and lines 5--6 have been suspected by editors of being interpolated, and the loss of two lines has also been suggested.
+			<expl>Brides</expl>: the plural here is perplexing.
+			Gering insists that only Sigrun is meant, and translates the word as singular, but both ``brides'' and ``loves'' are uncompromisingly plural in the text.
+			Were the men of Helgi's ghostly following likewise visited by their wives?
+			The annotator may have thought so, for in the prose he mentions the ``women'' returning to the house, al though, of course, this may refer simply to Sigrun and the maid.
+		</comment>
+	</block>
+	<block class="prose">
+		<original />
+		<translation>
+			Sigrun made ready a bed in the hill.
+		</translation>
+	</block>
+	<block class="stanza" number="46">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Here a bed<sep />I have made for thee, Helgi,<br />
+			To rest thee from care,<sep />thou kin of the Ylfings;<br />
+			I will make thee sink<sep />to sleep in my arms,<br />
+			As once I lay<sep />with the living king.''
+		</translation>
+	</block>
+	<block class="stanza" number="47">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Helgi spake:
+		</translation_prelude>
+		<translation>
+			``Now do I say<sep />that in Sevafjoll<br />
+			Aught may happen,<sep />early or late,<br />
+			Since thou sleepest clasped<sep />in a corpse's arms,<br />
+			So fair in the hill,<sep />the daughter of Hogni!<br />
+			(Living thou comest,<sep />a daughter of kings.)
+		</translation>
+		<comment>
+			Line 5 (or possibly line 4) may be interpolated.
+		</comment>
+	</block>
+	<block class="stanza" number="48">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Now must I ride<sep />the reddened ways,<br />
+			And my bay steed set<sep />to tread the sky;<br />
+			Westward I go<sep />to wind-helm's bridges,<br />
+			Ere Salgofnir wakes<sep />the warrior throng.''
+		</translation>
+		<comment>
+			<expl>Wind-helm</expl>: the sky; the bridge is Bifrost, the rainbow (cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">29</stanzaref>).
+			<expl>Salgofnir</expl> (``Hall-Crower''): the cock Gollinkambi who awakes the gods and warriors for the last battle.
+		</comment>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Then Helgi and his followers rode on their way, and<br />
+			the women went home to the dwelling.<br />
+			Another evening Sigrun bade the maiden keep watch at the hill.<br />
+			And at sunset when Sigrun came to the hill she said:
+		</translation>
+	</block>
+	<block class="stanza" number="49">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Now were he come,<sep />if come he might,<br />
+			Sigmund's son,<sep />from Othin's seat;<br />
+			Hope grows dim<sep />of the hero's return<br />
+			When eagles sit<sep />on the ash-tree boughs,<br />
+			And men are seeking<sep />the meeting of dreams.''
+		</translation>
+		<comment>
+			Many editors assign this speech to the maid.
+			Line 5 (or 4) may be spurious.
+			<expl>Meeting of dreams</expl> (``Dream-Thing'''): sleep.
+		</comment>
+	</block>
+	<block class="stanza" number="50">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			The Maiden said:
+		</translation_prelude>
+		<translation>
+			``Mad thou wouldst seem<sep />alone to seek,<br />
+			Daughter of heroes,<sep />the house of the dead;<br />
+			For mightier now<sep />at night are all<br />
+			The ghosts of the dead<sep />than when day is bright.''
+		</translation>
+	</block>
+	<block class="prose">
+		<original>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Sigrun was early dead of sorrow and grief.<br />
+			It was believed in olden times that people were born again, but that is now called old wives' folly.<br />
+			Of Helgi and Sigrun it is said that they were born again; he became Helgi Haddingjaskati, and she Kara the daughter of Halfdan, as is told in the Lay of Kara, and she was a Valkyrie.<br />
+			the various stories in which the hero is slain.<br />
+			The Lay of Kara (Karuljoth) is lost, although, as has been pointed out, parts of the Helgakvitha Hundingsbana II may be remnants of it, but we find the main outlines of the story in the Hromundar saga Greipssonar, whose compilers appear to have known the Karuljoth.<br />
+			In the saga Helgi Haddingjaskati (Helgi the Haddings' Hero) is protected by the Valkyrie Kara, who flies over him in the form of a swan (note once more the Valkyrie swan-maiden confusion); but in his fight with Hromund he swings his sword so high that he accidentally gives Kara a mortal wound, where upon Hromund cuts off his head.<br />
+			As this makes the third recorded death of Helgi (once at the hands of Alf, once at those of Dag, and finally in the fight with Hromund), the phenomenon of his rebirth is not surprising.<br />
+			The points of resemblance in all the Helgi stories, including the one told in the lost Karuljoth, are sufficiently striking so that it is impossible not to see in them a common origin, and not to believe that Helgi the son of Hjorvarth, Helgi the son of Sigmund and Helgi the Haddings'-Hero (not to mention various other Helgis who probably figured in songs and stories now lost) were all originally the same Helgi who appears in the early traditions of Denmark.]<br />
+		</translation>
+		<comment>
+			The attitude of the annotator is clearly revealed by his contempt for those who put any faith in such ``old wives' folly'' as the idea that men and women could be reborn.
+			As in the case of Helgi Hjorvarthsson, the theory of the hero's rebirth seems to have developed in order to unite around a single Helgi the various stories in which the hero is slain.
+			The <src>Lay of Kara</src> (<src>Karuljoth</src>) is lost, although, as has been pointed out, parts of the <cr>Helgakvitha Hundingsbana II</cr> may be remnants of it, but we find the main outlines of the story in the <src>Hromundar saga Greipssonar</src>, whose compilers appear to have known the <src>Karuljoth</src>.
+			In the saga Helgi Haddingjaskati (Helgi the Haddings' Hero) is protected by the Valkyrie Kara, who flies over him in the form of a swan (note once more the Valkyrie swan-maiden confusion); but in his fight with Hromund he swings his sword so high that he accidentally gives Kara a mortal wound, where upon Hromund cuts off his head.
+			As this makes the third recorded death of Helgi (once at the hands of Alf, once at those of Dag, and finally in the fight with Hromund), the phenomenon of his rebirth is not surprising.
+			The points of resemblance in all the Helgi stories, including the one told in the lost Karuljoth, are sufficiently striking so that it is impossible not to see in them a common origin, and not to believe that Helgi the son of Hjorvarth, Helgi the son of Sigmund and Helgi the Haddings'-Hero (not to mention various other Helgis who probably figured in songs and stories now lost) were all originally the same Helgi who appears in the early traditions of Denmark.
+		</comment>
+	</block>
+</chapter>
