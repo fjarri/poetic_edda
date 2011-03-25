@@ -273,3 +273,5 @@ Tasks for distant future
   asterisks in other places.
 * Draw just <lacuna> instead of <lacuna><sep><lacuna>, unless <sep>
   is just a long space (or maybe draw some "long" lacuna)
+* HHII: probably make separate style for in-prose stanza (p17),
+  so that the whole prose would be enclosed in a single block
