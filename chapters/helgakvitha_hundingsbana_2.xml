@@ -204,7 +204,7 @@
 			(II)
 		</transliteration>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p5_2">
 		<original>
 			Hann la` meþ her sinn i` Brunava`gum ok hafþi þar strandho~gg, ok a`tu þar ra`tt.<br />
 			Ho~gni he`t konungr;<br />
@@ -298,7 +298,7 @@
 			es] ek bjo~rnu to`k<sep />i` Bragalundi<br />
 			ok a_e`tt ara<sep />oddum saddak:<br />
 			sagt es nu`, ma_e`r!<sep />hvaþan <conj>serkr gurþisk,</conj><br />
-			þvi` vas a` lo`gi<sep />litt steikt etit.''
+			þvi` vas a` lo/`gi<sep />litt steikt etit.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -525,7 +525,7 @@
 			þa` la_egþi storminn, ok ko`mu þeir heilir til lands.<br />
 			Granmars synir sa`tu a` bjargi no~kkuru, er skipin sigldu at landi.<br />
 			Guþmundr hljo`p a` hest ok reiþ a` njo`sn a` bergit viþ ho~fnina; þa` hlo`þu Vo~lsungar seglum.<br />
-			Þa` kvaþ Guþmundr, sva` fyrr er ritat i` Helgakviþu:
+			Þa` kvaþ Guþmundr, sva` sem fyrr er ritat i` Helgakviþu:
 		</original>
 		<translation>
 			Helgi then assembled a great sea-host and went to Frekastein.<br />
@@ -857,7 +857,7 @@
 			Var Helgi eigi gamall.<br />
 			Dagr Ho~gnason blo`taþi O`þin til fo~þurhefnda; O`þinn le`þi Dag geirs si`ns.<br />
 			Dagr fann Helga ma`g sinn þar sem heitir at Fjo~turlundi.<br />
-			Hann lagþi i` go/gnum Helga meþ geirum.<br />
+			Hann lagþi i` go/gnum Helga meþ geirnum.<br />
 			Þar fell Helgi, en Dagr reiþ til <conj>Seva</conj>fjalla ok sagþi Sigru`nu ti`þindi.
 		</original>
 		<translation>
@@ -1053,14 +1053,14 @@
 			sem i`trskapaþr<sep />askr af þyrni,<br />
 			eþa sa` dy`rkalfr<sep />do~ggu slunginn,<br />
 			es o/fri ferr<sep />o~llum dy`rum<br />
-			[ok horn gloa<sep />viþ himin sjalfan.]
+			[ok horn gloa<sep />viþ himin sjalfan.]''
 		</original>
 		<translation>
 			Helgi rose<sep />above heroes all<br />
 			Like the lofty ash<sep />above lowly thorns,<br />
 			Or the noble stag,<sep />with dew besprinkled,<br />
 			Bearing his head<sep />above all beasts,<br />
-			[And his horns gleam bright<sep />to heaven itself.]
+			[And his horns gleam bright<sep />to heaven itself.]''
 		</translation>
 		<comment>
 			Line 5 (or possibly line 4) may be spurious.
@@ -1174,7 +1174,7 @@
 			In the manuscript most of this stanza is abbreviated to the first letters of the words.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p41">
 		<original>
 			Heim gekk ambo`tt ok sagþi Sigru`nu:
 		</original>
@@ -1408,7 +1408,7 @@
 			``<conj>Vesattu</conj> sva` o/`r,<sep />at ein farir,<br />
 			di`s skjo~ldunga!<sep />draughu`sa til:<br />
 			<conj>o~flgari</conj> verþa<sep />allir a` no~`ttum<br />
-			dauþir <conj>dolgar</conj>an <conj>of</conj> daga ljo`sa.''<sep />
+			dauþir <conj>dolgar</conj><sep />an <conj>of</conj> daga ljo`sa.''
 		</original>
 		<translation_prelude>
 			The Maiden said:
@@ -1423,7 +1423,7 @@
 	<block class="prose" label="conclusion">
 		<original>
 			Sigru`n varþ skammli`f af harmi ok trega.<br />
-			Þat var tru`a i` forneskju, at menn va_eri endrbornir, en þat er nu` kolluþ kerlinga villa.<br />
+			Þat var tru`a i` forneskju, at menn va_eri endrbornir, en þat er nu` ko~lluþ kerlinga villa.<br />
 			Helgi ok Sigru`n er kallat at va_eri endrborin; he`t hann þa` Helgi Haddingja<conj>skati,</conj> en hon Ka`ra Ha`lfdanardo`ttir, sva` sem kveþit er i` Ka`ruljo`þum, ok var hon valkyrja.
 		</original>
 		<translation>
