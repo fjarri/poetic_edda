@@ -43,16 +43,18 @@
 		Sigrun's curse of her brother for the slaying of Helgi and her lament for her dead husband, and the extraordinary vividness of the final scene in the burial hill, have a quality which fully offsets the baffling confusion of the rest of the poem.
 	</block>
 	<block class="sepline" />
-	<block class="prose">
+	<block class="prose" label="p1">
 		<original>
+			Sigmundr konungr Vo~lsungs son a`tti Borghildi af Bra`lundi.<br />
+			Þau he`tu son sinn Helga, ok eptir Helga Hjo~rvarþssyni; Helga fo`straþi Hagall.<br />
+			Hundingr he`t ri`kr konungr, viþ hann er Hundland kent.<br />
+			Hann var hermaþr mikill ok a`tti marga sonu þa` er i` hernaþi va`ru.<br />
+			O`friþr ok dylgjur va`ru a` milli þeira Hundings konungs ok Sigmundar konungs, dra`pu hva`rir annarra fra_endr.<br />
+			Sigmundr konungr ok hans a_ettmenn he`tu Vo~lsungar ok Ylfingar.<br />
 			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Helgi fo`r o`k njo`snaþi til hirþar Hundings konungs a` laun.<br />
+			Ha_emingr son Hundings konungs var heima.<br />
+			En er Helgi fo`r i` brott, þa` hitti hann hjarþar<conj>svein</conj> ok kvaþ:
 		</original>
 		<translation>
 			King Sigmund, the son of Volsung, had as wife Borghild, from Bralund.<br />
@@ -61,6 +63,7 @@
 			He was a mighty warrior, and had many sons with him on his campaigns.<br />
 			There was enmity and strife between these two, King Hunding and King Sigmund, and each slew the other's kinsmen.<br />
 			King Sigmund and his family were called Volsungs and Ylfings.<br />
+			<br />
 			Helgi went as a spy to the home of King Hunding in disguise.<br />
 			Hæming, a son of King Hunding's, was at home.<br />
 			When Helgi went forth, then he met a young herdsman, and said:
@@ -80,10 +83,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Seg Ha_e`mingi,<sep />at Helgi man,<br />
+			hvern i` brynju<sep />bragnar feldu:<br />
+			e`r ulf graan<sep />inni ho~fþuþ,<br />
+			þars Hamal hugþi<sep />Hundingr konungr.''
 		</original>
 		<translation>
 			``Say to Hæming<sep />that Helgi knows<br />
@@ -98,10 +101,11 @@
 			Nothing beyond this one name connects stanzas <sr>1</sr>--<sr>4</sr> with Hunding.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p2">
 		<original>
-			<br />
-			<br />
+			Hamall he`t son Hagals.<br />
+			Hundingr konungr sendi menn til Hagals at leita Helga, en Helgi ma`tti eigi forþaz annan veg, en to`k kla_eþi amba`ttar ok gekk at mala.<br />
+			Þeir leituþu ok fundu eigi Helga.
 		</original>
 		<translation>
 			Hamal was the name of Hagal's son.<br />
@@ -114,10 +118,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ <conj>þat</conj> Blindr<sep />enn bo~lvi`si:<br />
+			``Hvo~ss eru augu<sep />i` Hagals þy`ju,<br />
+			esa þat karls a_e`tt<sep />es a` kvernum stendr:<br />
+			steinar rifna,<sep />sto/kkr lu`þr fyrir.
 		</original>
 		<translation>
 			Then Blind spake out,<sep />the evil-minded:<br />
@@ -133,10 +137,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hefr ho~rþ do/`mi<sep />hildingr þegit,<br />
+			es vi`si skal<sep />valbygg <conj>mala;</conj><br />
+			heldr es so/`mri<sep />hendi þeiri<br />
+			<dagger /> meþalkafli<sep />an mo~ndultre`.''
 		</original>
 		<translation>
 			The hero has<sep />a doom full hard,<br />
@@ -149,30 +153,32 @@
 			<expl>Barley</expl>: the word literally means ``foreign grain,'' and would afford an interesting study to students of early commerce.
 		</comment>
 	</block>
-	<block class="prose">
-		<original />
+	<block class="prose" label="p4">
+		<original>
+			Hagall svaraþi ok kvaþ:
+		</original>
 		<translation>
 			Hagal answered and said:
 		</translation>
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þat's li`til vo~`,<sep />þo`t lu`þr þrumi,<br />
+			es ma_e`r konungs<sep />mo~ndul hro/`rir;<br />
+			ho`n ska_e`vaþi<sep />sky`jum o/fri<br />
+			ok vega þorþi<sep />sem vi`kingar,<br />
+			[a`þr hana Helgi<sep />ho~ptu go/rþi;<br />
+			systir's þeira<sep />Sigars ok Ho~gna,<br />
+			þvi hefr o~tul augu<sep />Ylfinga man.]''
 		</original>
 		<translation>
 			``Small is the wonder<sep />if boards are splintered<br />
 			By a monarch's daughter<sep />the mill is turned;<br />
 			Once through clouds<sep />she was wont to ride,<br />
 			And battles fought<sep />like fighting men,<br />
-			(Till Helgi a captive<sep />held her fast;<br />
+			[Till Helgi a captive<sep />held her fast;<br />
 			Sister she is<sep />of Sigar and Hogni,<br />
-			Thus bright are the eyes<sep />of the Ylfings' maid.)''
+			Thus bright are the eyes<sep />of the Ylfings' maid.]''
 		</translation>
 		<comment>
 			Possibly two stanzas with one line lost, or perhaps the lines in parenthesis are spurious; each editor has his own guess.
@@ -180,9 +186,10 @@
 			As Hagal is, of course, deliberately lying, it is useless to test any part of his speech for accuracy.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p5_1">
 		<original>
-			<br />
+			Undan komz Helgi ok fo`r a` herskip.<br />
+			Hann feldi Hunding konung ok var si`þan kallaþr Helgi Hundingsbani.
 		</original>
 		<translation>
 			Helgi escaped and went to a fighting ship.<br />
@@ -199,9 +206,10 @@
 	</block>
 	<block class="prose">
 		<original>
-			<br />
-			<br />
-			<br />
+			Hann la` meþ her sinn i` Brunava`gum ok hafþi þar strandho~gg, ok a`tu þar ra`tt.<br />
+			Ho~gni he`t konungr;<br />
+			hans do`ttir var Sigru`n, hon var valkyrja ok reiþ lopt ok lo~g; hon var <conj>Sva`va</conj> endrborin.<br />
+			Sigru`n reiþ at skipum Helga ok kvaþ:
 		</original>
 		<translation>
 			He lay with his host in Brunavagar, and they had there a strand-slaughtering, and ate the flesh raw.<br />
@@ -220,10 +228,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``<conj>Hverr la_e`tr</conj> fljo`ta<sep />fley viþ bakka,<br />
+			hvar, hermegir!<sep />heima eiguþ?<br />
+			hvers bi`þiþ e`r<sep />i` Brunavo~`gum,<br />
+			hvert lystir yþr<sep />leiþ at kanna?''
 		</original>
 		<translation>
 			``Who rules the ship<sep />by the shore so steep?<br />
@@ -234,13 +242,13 @@
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hamall la_e`tr fljo`ta<sep />fley viþ bakka,<br />
+			eigum heima<sep />i` Hle`seyju;<br />
+			bi`þum byrjar<sep />i` Brunavo~`gum,<br />
+			lystir oss austr<sep />leiþ at kanna.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -259,13 +267,13 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-
+			Sigru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvar hefr, hilmir!<sep />hildi vakþa<br />
+			eþa go~gl alin<sep /><conj>Gunnar</conj> systra?<br />
+			hvi`'s brynja þi`n<sep />blo`þi stokkin,<br />
+			hvi` skal und hjo~lmum<sep />hra`tt kjo~t eta?''
 		</original>
 		<translation_prelude>
 			Sigrun spake:
@@ -282,15 +290,15 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``[Na_e`st vann þat ny`s<sep />niþr Ylfinga<br />
+			fyr vestan ver,<sep />ef vita lystir,<br />
+			es] ek bjo~rnu to`k<sep />i` Bragalundi<br />
+			ok a_e`tt ara<sep />oddum saddak:<br />
+			sagt es nu`, ma_e`r!<sep />hvaþan <conj>serkr gurþisk,</conj><br />
+			þvi` vas a` lo`gi<sep />litt steikt etit.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -312,13 +320,13 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-
+			Sigru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vi`g ly`sir þu`,<sep />varþ fyr Helga<br />
+			Hundingr konungr<sep />hni`ga at velli;<br />
+			bar so`kn saman,<sep />es sefa hefnduþ,<br />
+			ok busti blo`þ<sep />a` brimis eggjar.''
 		</original>
 		<translation_prelude>
 			Sigrun spake:
@@ -332,13 +340,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat vissir þu`,<sep />at <conj>ve`r sei::m,</conj><br />
+			sno`t svinnhuguþ!<sep />es sefa <conj>hefndum?</conj><br />
+			margir'u hvassir<sep />hildings synir<br />
+			ok a`munir<sep />ossum niþjum.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -355,13 +363,13 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-
+			Sigru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vaska fjarri,<sep />folks oddviti!<br />
+			ga_e`r a` morgin<sep />grams aldrlokum;<br />
+			þo` telk slo/`gjan<sep />Sigmundar bur,<br />
+			es i` valru`num<sep />vi`gspjo~ll segir.
 		</original>
 		<translation_prelude>
 			Sigrun spake:
@@ -379,16 +387,16 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Leitk þik <conj>of</conj> sinn<sep />a` langskipum,<br />
+			þa`s þu` byggþir<sep />blo`þga stafna<br />
+			[ok u`rsvalar<sep />unnir le`ku;]<br />
+			nu` vill dyljask<sep />do~glingr fyr me`r,<br />
+			en Ho~gna ma_e`r<sep /><conj>Helga</conj> kennir.''
 		</original>
 		<translation>
 			On the long-ship once<sep />I saw thee well,<br />
 			When in the blood-stained<sep />bow thou wast,<br />
-			(And round thee icy<sep />waves were raging;)<br />
+			[And round thee icy<sep />waves were raging;]<br />
 			Now would the hero<sep />hide from me,<br />
 			But to Hogni's daughter<sep />is Helgi known.''
 		</translation>
@@ -406,14 +414,14 @@
 			(III)
 		</transliteration>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p13">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Granmarr he`t ri`kr konungr, er bjo` at Svarinshaugi; hann a`tti marga sonu: <conj>he`t einn</conj> Ho~þbroddr, annarr Guþmundr, þriþi Starkaþr.<br />
+			Ho~þbroddr var i` konungastefnu, hann fastnaþi se`r Sigru`nu Ho~gnado`ttur.<br />
+			En er hon spyrr þat, þa` reiþ hon meþ valkyrjur um lopt ok um lo~g at leita Helga.<br />
+			Helgi var þa` at Logafjo~llum ok hafþi bariz viþ Hundings sonu; þar feldi hann þa` A`lf ok Eyjo`lf, Hjo~rvarþ ok Hervarþ,<br />
+			ok var hann allvi`gmo`þr ok sat undir Arasteini.<br />
+			Þar hitti Sigru`n hann ok rann a` ha`ls honum ok kysti hann ok sagþi honum erendi sitt, sva` sem segir i` Vo~lsungakviþu enni fornu:<br />
 		</original>
 		<translation>
 			Granmar was the name of a mighty king, who dwelt at Svarin's hill.<br />
@@ -434,10 +442,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			So`tti Sigru`n<sep />sikling glaþan,<br />
+			heim nam Helga<sep />ho~nd at so/`kja;<br />
+			kysti ok kvaddi<sep />konung und hjalmi,<br />
+			þa` varþ hilmi<sep />hugr a` vi`fi.
 		</original>
 		<translation>
 			Sigrun the joyful<sep />chieftain sought,<br />
@@ -451,10 +459,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Nama Ho~gna ma_e`r<sep />of hug ma_e`la,<br />
+			hafa kvazk Helga<sep />hylli skyldu;<br />
+			``fyrr le`zk unna<sep />af o~llum hug<br />
+			syni Sigmundar,<sep />an se`t hafþi.
 		</original>
 		<translation>
 			From her heart the daughter<sep />of Hogni spake,<br />
@@ -469,10 +477,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vask Ho~þbroddi<sep />i` her fo~stnuþ,<br />
+			en jo~fur annan<sep />eiga vildak;<br />
+			þo` se::umk, fylkir!<sep />fra_e`nda reiþi,<br />
+			hefk mi`ns fo~þur<sep />munra`þ brotit.''
 		</original>
 		<translation>
 			At the meeting to Hothbrodd<sep />mated I was,<br />
@@ -483,13 +491,13 @@
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hirþ eigi þu`<sep />Ho~gna reiþi<br />
+			ne` illan hug<sep />a_e`ttar þinnar!<br />
+			þu` skalt, ma_e`r ung!<sep />at me`r lifa;<br />
+			a_e`tt a`tt, en go`þa!<sep />es <conj>eigi</conj> se::umk.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -509,18 +517,15 @@
 			(IV)
 		</transliteration>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p17_1">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Helgi samnaþi þa` miklum skipaher ok fo`r til Frekasteins,<br />
+			ok fengu i` hafi ofviþri mannha_e`tt; þa` ko`mu leiptr yfir þa` ok sto`þu geislar i` skipin.<br />
+			Þeir sa` i` loptinu at valkyrjur ni`u riþu, ok kendu þeir Sigru`nu;<br />
+			þa` la_egþi storminn, ok ko`mu þeir heilir til lands.<br />
+			Granmars synir sa`tu a` bjargi no~kkuru, er skipin sigldu at landi.<br />
+			Guþmundr hljo`p a` hest ok reiþ a` njo`sn a` bergit viþ ho~fnina; þa` hlo`þu Vo~lsungar seglum.<br />
+			Þa` kvaþ Guþmundr, sva` fyrr er ritat i` Helgakviþu:
 		</original>
 		<translation>
 			Helgi then assembled a great sea-host and went to Frekastein.<br />
@@ -532,21 +537,29 @@
 			Then Gothmund said, as is written before in the Helgi lay:<br />
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prosestanza" label="p17_2">
 		<original>
-
+			``Hverr es fylkir<sep />sa`s flota sty`rir<br />
+			ok feiknaliþ<sep />fo/`rir at landi?''
 		</original>
 		<translation>
 			``Who is the king<sep />who captains the fleet,<br />
 			And to the land<sep />the warriors leads?''<br />
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p17_3">
 		<original>
-
+			Sinfjo~tli Sigmundarson svaraþi, ok <conj>er</conj> þat enn ritat.<br />
+			<br />
+			Guþmundr reiþ heim meþ herso~gu; þa` so~mnuþu Granmars synir her.<br />
+			Ko`mu þar margir konungar: þar var Ho~gni faþir Sigru`nar ok synir hans Bragi ok Dagr.<br />
+			Þar var orrosta mikil, ok fellu allir Granmars synir ok allir þeira ho~fþingjar, nema Dagr Ho~gnason fekk griþ ok vann eiþa Vo~lsungum.<br />
+			Sigru`n gekk i` valinn ok hitti Ho~þbrodd at kominn dauþa.<br />
+			Hon kvaþ:
 		</original>
 		<translation>
 			Sinfjotli, Sigmund's son, answered him, and that too is written.<br />
+			<br />
 			Gothmund rode home with his tidings of the host; then Granmar's sons summoned an army.<br />
 			Many kings came there; there were Hogni, Sigrun's father, and his sons Bragi and Dag.<br />
 			There was a great battle, and all Granmar's sons were slain and all their allies; only Dag, Hogni's son, was spared, and he swore loyalty to the Volsungs.<br />
@@ -567,10 +580,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Muna þe`r Sigru`n<sep />fra Sevafjo~llum,<br />
+			Ho~þbroddr konungr!<sep />hni`ga at armi;<br />
+			liþin es a_e`vi<sep />---opt nai::r hra_e`vi<br />
+			gra`nsto`þ gri`þar---<sep />Granmars sona.''
 		</original>
 		<translation>
 			``Never shall Sigrun<sep />from Sevafjoll,<br />
@@ -583,18 +596,22 @@
 			<expl>Giant-steeds</expl>: wolves, the usual steeds of giantesses; cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">56</stanzaref>.
 		</comment>
 	</block>
-	<block class="prose">
-		<original />
+	<block class="prose" label="p18">
+		<original>
+			Þa` hitti hon Helga ok varþ allfegin.<br />
+			Hann kvaþ:
+		</original>
 		<translation>
-			Then she sought out Helgi, and was full of joy He said:
+			Then she sought out Helgi, and was full of joy.<br />
+			He said:
 		</translation>
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Esat þer at o~llu,<sep />alvi`tr! gefit,<br />
+			þo` kveþk nekkvi<sep />nornir valda;<br />
+			fellu i` morgin<sep />at Frekasteini<br />
+			Bragi ok Ho~gni,<sep />varþk bani þeira.
 		</original>
 		<translation>
 			``Maid, not fair<sep />is all thy fortune,<br />
@@ -611,10 +628,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[En at Hle`bjo~rgum<sep />Hrollaugs synir,<br />
+			en at Styrkleifum<sep />Starkaþr konungr:<br />
+			þann sa`k gylfa<sep />grimmu`þgastan,<br />
+			es barþisk bolr---<sep />vas a` braut ho~fuþ.]
 		</original>
 		<translation>
 			At Hlebjorg fell<sep />the sons of Hrollaug,<br />
@@ -633,10 +650,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
+			Liggja at <conj>jo~rþu</conj><sep />allra flestir<br />
+			niþjar þi`nir<sep />at no~um orþnir;<br />
+			vanntat vi`gi,<sep />vas þer <conj>vo~` sko~puþ,</conj><br />
+			<conj>es</conj> at ro`gi þu`<sep />ri`kmenni vast.''<br />
 			<sep />
 		</original>
 		<translation>
@@ -646,9 +663,10 @@
 			Brave men to bring<sep />to the battle-field.''<br />
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p21">
 		<original>
-
+			Þa` gre`t Sigru`n.<br />
+			Hann kvaþ:
 		</original>
 		<translation>
 			Then Sigrun wept.<br />
@@ -657,10 +675,11 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<sep /><br />
+			``Huggask þu`, Sigru`n!<sep />Hildr hefr oss verit;<br />
+			vinnat skjo~ldungar sko~pum.''<br />
+			<stanzaprelude>Sigru`n kvaþ:</stanzaprelude><br />
+			``Lifna mundak kjo`sa<sep />es liþnir 'ru`,<br />
+			kna_e`ttak þo` þe`r i` faþmi felask.''
 		</original>
 		<translation>
 			``Grieve not, Sigrun,<sep />the battle is gained,<br />
@@ -671,8 +690,7 @@
 		</translation>
 		<comment>
 			The difference of meter would of itself be enough to indicate that this stanza comes from an entirely different poem.
-			A few editions assign the whole stanza to Helgi, but lines 3--4.
-			are almost certainly Sigrun's, and the manuscript begins line 3 with a large capital letter following a period.
+			A few editions assign the whole stanza to Helgi, but lines 3--4 are almost certainly Sigrun's, and the manuscript begins line 3 with a large capital letter following a period.
 		</comment>
 	</block>
 	<block class="eddasection">
@@ -684,17 +702,19 @@
 		</transliteration>
 	</block>
 	<block class="prose">
-		<original />
+		<original>
+			[Þetta kvaþ Guþmundr Granmarsson:
+		</original>
 		<translation>
 			This Gothmund the son of Granmar spoke:
 		</translation>
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hverr es skjo~ldungr<sep />sa`s skipum sty`rir,<br />
+			la_e`tr gunnfana<sep />gollinn fyr stafni?<br />
+			<conj>þykkjumka friþr</conj><sep />i` farar broddi,<br />
+			verpr vi`groþa<sep /><conj>of</conj> vi`kinga.''
 		</original>
 		<translation>
 			``What hero great<sep />is guiding the ships?<br />
@@ -712,13 +732,13 @@
 	</block>
 	<block class="stanza" number="23">
 		<original_prelude>
-
+			Sinfjo~tli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``He`r ma` Ho~þbroddr<sep />Helga kenna<br />
+			flo`tta trauþan<sep />i flota miþjum;<br />
+			hann hefr o/þli<sep />a_e`ttar þinnar,<br />
+			arf fjo~rsunga,<sep />undir <conj>þrungizk.</conj>''
 		</original>
 		<translation_prelude>
 			Sinfjotli spake:
@@ -732,18 +752,18 @@
 		<comment>
 			Lines 3--4 are obscure, and in the manuscript show signs of error.
 			Helgi had not at this time, so far as we know, conquered any of Hothbrodd's land.
-			The realm of the fishes, in line 4, presumably means the sea, but the word here translated ``fishes'' is obscure, and many editors treat it as a proper name, ``the realm of the Fjorsungs,'' but without further suggestion as to who or what the Fjorsungs are.
+			<expl>The realm of the fishes</expl>, in line 4, presumably means the sea, but the word here translated ``fishes'' is obscure, and many editors treat it as a proper name, ``the realm of the Fjorsungs,'' but without further suggestion as to who or what the Fjorsungs are.
 		</comment>
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-
+			Guþmundr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þvi` fyrr skulu<sep />at Frekasteini<br />
+			<conj>sa`rski`þ</conj> saman<sep /><conj>of</conj> sakar do/`ma;<br />
+			ma`l <conj>es,</conj> Ho~þbroddr!<sep />hefnd at vinna,<br />
+			ef la_e`gra hlut<sep />lengi bo~`rum.''
 		</original>
 		<translation_prelude>
 			Gothmund spake:
@@ -764,13 +784,13 @@
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-
+			Sinfjo~tli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Fyrr munt, Goþmundr!<sep />geitr <conj>of</conj> halda<br />
+			ok bergskorar<sep />brattar kli`fa,<br />
+			hafa þer i` hendi<sep />heslikylfu:<br />
+			þat's bli`þara<sep />an brimis do`mar.''
 		</original>
 		<translation_prelude>
 			Sinfjotli spake:
@@ -784,13 +804,13 @@
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þe`r's, Sinfjo~tli!<sep />so/`mra miklu<br />
+			gunni at heyja<sep />ok glaþa o~rnu,<br />
+			an o`ny`tum<sep />orþum at <conj>bregþa,</conj><br />
+			þo`t hildingar<sep />heiptir deili.
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -804,18 +824,18 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Þykkjumat</conj> go`þir<sep />Granmars synir,<br />
+			þo` dugir <conj>seggjum</conj><sep />satt at ma_e`la;<br />
+			þeir merkt hafa<sep />a` Moi::ns<conj>heimum,</conj><br />
+			at hug hafa<sep />hjo~rum at bregþa;<br />
+			[eru hildingar<sep />ho/lzti snjallir.]'']
 		</original>
 		<translation>
 			Good I find not<sep />the sons of Granmar,<br />
 			But for heroes 'tis seemly<sep />the truth to speak;<br />
 			At Moinsheimar<sep />proved the men<br />
 			That hearts for the wielding<sep />of swords they had,<br />
-			(And ever brave<sep />the warriors are.)''
+			[And ever brave<sep />the warriors are.]''
 		</translation>
 		<comment>
 			<sr>26</sr>--<sr>27</sr>.
@@ -831,13 +851,14 @@
 			(VI)
 		</transliteration>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p28">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Helgi fekk Sigru`nar, ok a`ttu þau sonu.<br />
+			Var Helgi eigi gamall.<br />
+			Dagr Ho~gnason blo`taþi O`þin til fo~þurhefnda; O`þinn le`þi Dag geirs si`ns.<br />
+			Dagr fann Helga ma`g sinn þar sem heitir at Fjo~turlundi.<br />
+			Hann lagþi i` go/gnum Helga meþ geirum.<br />
+			Þar fell Helgi, en Dagr reiþ til <conj>Seva</conj>fjalla ok sagþi Sigru`nu ti`þindi.
 		</original>
 		<translation>
 			Helgi took Sigrun to wife, and they had sons.<br />
@@ -855,18 +876,18 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Trauþr emk, systir!<sep />trega þer at segja,<br />
+			þvi`t hefk nauþugr<sep />nipti gro/`tta:<br />
+			fell i` morgin<sep />und Fjo~turlundi<br />
+			buþlungr sa`s vas<sep />baztr i` heimi<br />
+			[ok hildingum<sep />a` halsi sto`þ.]''
 		</original>
 		<translation>
 			``Sad am I, sister,<sep />sorrow to tell thee,<br />
 			Woe to my kin<sep />unwilling I worked;<br />
 			In the morn there fell<sep />at Fjoturlund<br />
 			The noblest prince<sep />the world has known,<br />
-			(And his heel he set<sep />on the heroes' necks.)''
+			[And his heel he set<sep />on the heroes' necks.]''
 		</translation>
 		<comment>
 			Line 5 looks like an interpolation.
@@ -874,13 +895,13 @@
 	</block>
 	<block class="stanza" number="29">
 		<original_prelude>
-
+			Sigru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þik skyli allir<sep />eiþar bi`ta,<br />
+			þeir es Helga<sep />hafþir unna<br />
+			at <conj>enu</conj> ljo`sa<sep />Leiþtrar vatni<br />
+			ok at u`rsvo~lum<sep />Unnar steini.
 		</original>
 		<translation_prelude>
 			Sigrun spake:
@@ -899,10 +920,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Skri`þia þat skip<sep />es und þe`r skri`þi,<br />
+			þo`t o`skabyrr<sep />eptir leggisk!<br />
+			rinnia sa` marr<sep />es und þe`r rinni,<br />
+			þo`t fiandr þi`na<sep />forþask eigir!
 		</original>
 		<translation>
 			The ship shall sail not<sep />in which thou sailest,<br />
@@ -915,8 +936,8 @@
 		<original>
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			bi`tia þat sverþ<sep />es þu` bregþir,<br />
+			nema sjo~lfum þe`r<sep />syngvi <conj>of</conj> ho~fþe!
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -931,16 +952,16 @@
 				The shield shall not help thee<sep />which thou holdest.
 			</textstanza>
 			<textstanza class="original">
-				(Hli`fia þe`r sa` skjo~ldr<sep />es þu` hafisk.)
+				(Hli`fia þe`r sa` skjo~ldr<sep />es þu` hafisk fyr.)
 			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` va_eri hefnt þe`r<sep />Helga dauþa,<br />
+			ef va_e`rir vargr<sep />a` viþum u`ti,<br />
+			auþs andvani<sep />ok alls gamans,<br />
+			hefþir <conj>matki,</conj><sep />nema a` hra_eum spryngir.''
 		</original>
 		<translation>
 			Vengeance were mine<sep />for Helgi's murder,<br />
@@ -951,13 +972,13 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-
+			Dagr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``O_Er est, systir!<sep />ok o/rvita,<br />
+			es bro/`þr þi`num<sep />biþr forskapa:<br />
+			einn veldr O`þinn<sep />o~llu bo~lvi,<br />
+			þvi`t meþ sifjungum<sep />sakru`nar bar.
 		</original>
 		<translation_prelude>
 			Dag spake:
@@ -971,10 +992,10 @@
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þe`r by`þr bro`þir<sep />bauga rauþa,<br />
+			o~ll Vandilsve`<sep />ok Vi`gdala;<br />
+			haf halfan heim<sep />harms at gjo~ldum,<br />
+			bru`þr baugvariþ!<sep />ok burir þi`nir.''
 		</original>
 		<translation>
 			Thy brother rings<sep />so red will give thee,<br />
@@ -983,19 +1004,19 @@
 			Ring-decked maid,<sep />and as meed for thy sons.''
 		</translation>
 		<comment>
-			<expl>Vandilsve</expl> (``Vandil's Shrine): who Vandil was we do not know; this and Vigdalir (''Battle-Dale") are purely mythical places.
+			<expl>Vandilsve</expl> (``Vandil's Shrine): who Vandil was we do not know; this and <expl>Vigdalir</expl> (''Battle-Dale") are purely mythical places.
 		</comment>
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-
+			Sigru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sitka sva` sa_e`l<sep />at Sevafjo~llum<br />
+			a`r ne` <conj>of</conj> na_e`tr,<sep />at unak li`fi,<br />
+			nema at liþi lofþungs<sep />ljo`ma bregþi,<br />
+			rinni und vi`sa<sep />Vi`gbla_e`r þinig,<br />
+			[gollbitli vanr,<sep />knegak grami fagna.]
 		</original>
 		<translation_prelude>
 			Sigrun spake:
@@ -1005,7 +1026,7 @@
 			Early or late,<sep />my life to love,<br />
 			If the light cannot show,<sep />in the leader's band,<br />
 			Vigblær bearing him<sep />back to his home,<br />
-			(The golden-bitted;<sep />I shall greet him never.)
+			[The golden-bitted;<sep />I shall greet him never.]
 		</translation>
 		<comment>
 			Line 5 may be spurious.
@@ -1014,10 +1035,10 @@
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sva hafþi <conj>Helgi</conj><sep />hra_e`dda go~rva<br />
+			fiandr si`na alla<sep />ok fra_e`ndr þeira,<br />
+			sem fyr ulfi<sep />o`þar rynni<br />
+			geitr af fjalli<sep />geiskafullar.
 		</original>
 		<translation>
 			Such the fear<sep />that Helgi's foes<br />
@@ -1028,33 +1049,32 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sva` bar Helgi<sep />af hildingum,<br />
+			sem i`trskapaþr<sep />askr af þyrni,<br />
+			eþa sa` dy`rkalfr<sep />do~ggu slunginn,<br />
+			es o/fri ferr<sep />o~llum dy`rum<br />
+			[ok horn gloa<sep />viþ himin sjalfan.]
 		</original>
 		<translation>
 			Helgi rose<sep />above heroes all<br />
 			Like the lofty ash<sep />above lowly thorns,<br />
 			Or the noble stag,<sep />with dew besprinkled,<br />
 			Bearing his head<sep />above all beasts,<br />
-			(And his horns gleam bright<sep />to heaven itself.)
+			[And his horns gleam bright<sep />to heaven itself.]
 		</translation>
 		<comment>
 			Line 5 (or possibly line 4) may be spurious.
 			Cf. <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">17</stanzaref>, and <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">2</stanzaref>.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p38_1">
 		<original>
-			<br />
-			<br />
+			Haugr var go~rr eptir Helga.<br />
+			[En er hann kom til Valhallar, þa` bauþ O`þinn honum o~llu at ra`þa meþ se`r.
 		</original>
 		<translation>
 			A hill was made in Helgi's memory.<br />
-			And when he<br />
-			came to Valhall, then Othin bade him rule over every thing with himself.
+			And when he	came to Valhall, then Othin bade him rule over every thing with himself.
 		</translation>
 		<comment>
 			<expl>Valhall</expl>, etc.: there is no indication as to where the annotator got this notion of Helgi's sharing Othin's rule.
@@ -1069,19 +1089,21 @@
 			(VII)
 		</transliteration>
 	</block>
-	<block class="stanza" number="38">
-		<original_prelude>
-
-		</original_prelude>
+	<block class="prose" label="p38_2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Helgi kvaþ:
 		</original>
-		<translation_prelude>
+		<translation>
 			Helgi said:
-		</translation_prelude>
+		</translation>
+	</block>
+	<block class="stanza" number="38">
+		<original>
+			``Þu` skalt, Hundingr!<sep />hverjum manni<br />
+			fo`tlaug geta<sep />ok funa kynda,<br />
+			hunda binda,<sep />hesta ga_e`ta,<br />
+			gefa svi`num soþ,<sep />a`þr sofa gangir.'']
+		</original>
 		<translation>
 			``Thou shalt, Hunding,<sep />of every hero<br />
 			Wash the feet,<sep />and kindle the fire,<br />
@@ -1101,18 +1123,22 @@
 			(VIII)
 		</transliteration>
 	</block>
-	<block class="prose">
-		<original />
+	<block class="prose" label="p39">
+		<original>
+			Ambo`tt Sigru`nar gekk um aptan hja` haugi Helga ok sa` at Helgi reiþ til haugsins meþ marga menn.<br />
+			Ambo`tt kvaþ:
+		</original>
 		<translation>
-			One of Sigrun's maidens went one evening to Helgi's hill, and saw that Helgi rode to the hill with many men, The maiden said:
+			One of Sigrun's maidens went one evening to Helgi's hill, and saw that Helgi rode to the hill with many men.<br />
+			The maiden said:
 		</translation>
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Eru þat svik ein,<sep />es sea þykkjumk<br />
+			eþa ragna ro/k<sep />---ri`þa menn dauþir---,<br />
+			es joa yþra<sep />oddum keyriþ,<br />
+			eþa's hildingum<sep />heimfo~r gefin?''
 		</original>
 		<translation>
 			``Is this a dream<sep />that methinks I see,<br />
@@ -1122,18 +1148,18 @@
 		</translation>
 		<comment>
 			Here begins the final section (stanzas <sr>39</sr>--<sr>50</sr>), wherein Sigrun visits the dead Helgi in his burial hill.
-			<expl>Doom of the gods</expl>: the phrase ``ragna rök'' has been rather unfortunately Anglicized into the work ``ragnarok'' (the Norse term is not a proper name), and rök, ``doom,'' has been confused with rökkr, ``darkness,'' and so translated ``dusk of the Gods,'' or ``Götterdämmerung.''
+			<expl>Doom of the gods</expl>: the phrase ``ragna rök'' has been rather unfortunately Anglicized into the work ``ragnarok'' (the Norse term is not a proper name), and <emph>rök</emph>, ``doom,'' has been confused with <emph>rökkr</emph>, ``darkness,'' and so translated ``dusk of the Gods,'' or ``Götterdämmerung.''
 		</comment>
 	</block>
 	<block class="stanza" number="40">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Esa þat svik ein,<sep />es sea þykkisk,<br />
+			ne` aldar rof,<sep />þo`t oss li`tir,<br />
+			þo`t joa o`ra<sep />oddum keyrim,<br />
+			ne`'s hildingum<sep />heimfo~r gefin.''
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -1149,23 +1175,25 @@
 		</comment>
 	</block>
 	<block class="prose">
-		<original />
+		<original>
+			Heim gekk ambo`tt ok sagþi Sigru`nu:
+		</original>
 		<translation>
 			The maiden went home and said to Sigrun:
 		</translation>
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``U`t gakk, Sigru`n<sep />fra` Sevafjo~llum!<br />
+			ef folks jaþar<sep />finna lystir:<br />
+			[upp's haugr lokinn,<sep />kominn es Helgi,]<br />
+			dolgspor dreyra;<sep />do~glingr baþ þik,<br />
+			at sa`rdropa<sep />svefja skyldir.''
 		</original>
 		<translation>
 			``Go forth, Sigrun,<sep />from Sevafjoll,<br />
 			If fain the lord<sep />of the folk wouldst find;<br />
-			(The hill is open,<sep />Helgi is come;)<br />
+			[The hill is open,<sep />Helgi is come;]<br />
 			The sword-tracks bleed;<sep />the monarch bade<br />
 			That thou his wounds<sep />shouldst now make well.''
 		</translation>
@@ -1175,18 +1203,20 @@
 			One edition places stanza <sr>48</sr> after stanza <sr>42</sr>, and an other does the same with stanza <sr>50</sr>.
 		</comment>
 	</block>
-	<block class="prose">
-		<original />
+	<block class="prose" label="p42">
+		<original>
+			Sigru`n gekk i` hauginn til Helga ok kvaþ:
+		</original>
 		<translation>
 			Sigrun went in the hill to Helgi, and said:
 		</translation>
 	</block>
 	<block class="stanza" number="42">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Nu`'mk sva` fegin<sep />fundi okkrum,<br />
+			sem a`tfrekir<sep />O`þins haukar,<br />
+			es val vitu,<sep />varmar bra`þir,<br />
+			eþa do~gglitir<sep />dagsbru`n sea.
 		</original>
 		<translation>
 			``Now am I glad<sep />of our meeting together,<br />
@@ -1197,20 +1227,20 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fyrr vilk kyssa<sep />konung o`lifþan,<br />
+			an blo`þugri<sep />brynju kastir;<br />
+			ha`r's þitt, Helgi!<sep />he`lu þrungit,<br />
+			allr es vi`si<sep />valdo~gg sleginn,<br />
+			[hendr u`rsvalar<sep />Ho~gna ma`gi;<br />
+			hve` skalk þe`r, buþlungr!<sep />þess bo`t of vinna?]''
 		</original>
 		<translation>
 			First will I kiss<sep />the lifeless king,<br />
 			Ere off the bloody<sep />byrnie thou cast;<br />
 			With frost thy hair<sep />is heavy, Helgi,<br />
 			And damp thou art<sep />with the dew of death;<br />
-			(Ice-cold hands<sep />has Hogni's kinsman,<br />
-			What, prince, can I<sep />to bring thee ease?)''
+			[Ice-cold hands<sep />has Hogni's kinsman,<br />
+			What, prince, can I<sep />to bring thee ease?]''
 		</translation>
 		<comment>
 			Possibly lines 5--6 are spurious, or part of a stanza the rest of which has been lost.
@@ -1220,15 +1250,15 @@
 	</block>
 	<block class="stanza" number="44">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ein veldr, Sigru`n<sep />fra` Sevafjo~llum!<br />
+			es Helgi es<sep />harmdo~gg sleginn:<br />
+			gra_e`tr, gollvariþ!<sep />grimmum to~`rum,<br />
+			[so`lbjo~rt, suþro/`n!<sep />a`þr sofa gangir;]<br />
+			hvert fell blo`þugt<sep />a` brjo`st grami<br />
+			[u`rsvalt, innfjalgt,<sep />ekka þrungit.]
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -1237,9 +1267,9 @@
 			``Thou alone, Sigrun<sep />of Sevafjoll,<br />
 			Art cause that Helgi<sep />with dew is heavy;<br />
 			Gold-decked maid,<sep />thy tears are grievous,<br />
-			(Sun-bright south-maid,<sep />ere thou sleepest;)<br />
+			[Sun-bright south-maid,<sep />ere thou sleepest;]<br />
 			Each falls like blood<sep />on the hero's breast,<br />
-			(Burned-out, cold,<sep />and crushed with care.)
+			[Burned-out, cold,<sep />and crushed with care.]
 		</translation>
 		<comment>
 			Lines 4 and 6 have been marked by various editors as probably spurious.
@@ -1249,12 +1279,12 @@
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vel skulum drekka<sep />dy`rar veigar,<br />
+			þo`t mist hafim<sep />munar ok landa;<br />
+			skal engi maþr<sep />angrljo`þ kveþa,<br />
+			þo`t mer a` brjo`sti<sep />benjar li`ti;<br />
+			nu` 'ru bru`þir<sep />byrgþar i` haugi,<br />
+			lofþa di`sir,<sep />hja` oss liþnum.''
 		</original>
 		<translation>
 			Well shall we drink<sep />a noble draught,<br />
@@ -1272,18 +1302,20 @@
 			The annotator may have thought so, for in the prose he mentions the ``women'' returning to the house, al though, of course, this may refer simply to Sigrun and the maid.
 		</comment>
 	</block>
-	<block class="prose">
-		<original />
+	<block class="prose" label="p46">
+		<original>
+			Sigru`n bjo` sa_eing i` hauginum:
+		</original>
 		<translation>
 			Sigrun made ready a bed in the hill.
 		</translation>
 	</block>
 	<block class="stanza" number="46">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hefk þe`r, Helgi!<sep />hvi`lu go~rva<br />
+			angrlausa mjo~k,<sep />Ylfinga niþr!<br />
+			vilk þer i` faþmi,<sep />fylkir! sofna,<br />
+			sem lofþungi<sep />lifnum myndak.''
 		</original>
 		<translation>
 			``Here a bed<sep />I have made for thee, Helgi,<br />
@@ -1294,14 +1326,14 @@
 	</block>
 	<block class="stanza" number="47">
 		<original_prelude>
-
+			Helgi kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Nu` kveþk enskis<sep />o/rva_e`nt vesa<br />
+			si`þ ne` snimma<sep />at Sevafjo~llum,<br />
+			es a` armi þu`<sep />o`lifþum sefr<br />
+			hvi`t i` haugi,<sep />Ho~gna do`ttir!<br />
+			[ok estu kvik,<sep />en konungborna!]
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -1311,7 +1343,7 @@
 			Aught may happen,<sep />early or late,<br />
 			Since thou sleepest clasped<sep />in a corpse's arms,<br />
 			So fair in the hill,<sep />the daughter of Hogni!<br />
-			(Living thou comest,<sep />a daughter of kings.)
+			[Living thou comest,<sep />a daughter of kings.]
 		</translation>
 		<comment>
 			Line 5 (or possibly line 4) may be interpolated.
@@ -1319,10 +1351,10 @@
 	</block>
 	<block class="stanza" number="48">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ma`l's mer at ri`þa<sep />roþnar brautir,<br />
+			la`ta fo~lvan jo`<sep />flugsti`g troþa;<br />
+			skalk fyr vestan<sep />vindhjalms bruar,<br />
+			a`þr Salgofnir<sep />sigrþjo`þ veki.''
 		</original>
 		<translation>
 			Now must I ride<sep />the reddened ways,<br />
@@ -1335,26 +1367,25 @@
 			<expl>Salgofnir</expl> (``Hall-Crower''): the cock Gollinkambi who awakes the gods and warriors for the last battle.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p49">
 		<original>
-			<br />
-			<br />
-			<br />
+			Þeir Helgi riþu leiþ si`na, en þa_er fo`ru heim til bo_ejar.<br />
+			Annan aptan le`t Sigru`n ambo`tt halda vo~rþ a` hauginum.<br />
+			En at dagsetri er Sigru`n kom til haugsins, kvaþ hon:
 		</original>
 		<translation>
-			Then Helgi and his followers rode on their way, and<br />
-			the women went home to the dwelling.<br />
+			Then Helgi and his followers rode on their way, and the women went home to the dwelling.<br />
 			Another evening Sigrun bade the maiden keep watch at the hill.<br />
 			And at sunset when Sigrun came to the hill she said:
 		</translation>
 	</block>
 	<block class="stanza" number="49">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Kominn va_e`ri nu`,<sep />ef koma hygþi,<br />
+			Sigmundar burr<sep />fra` so~lum O`þins;<br />
+			kveþk grams þinig<sep />gra_e`nask va`nir,<br />
+			es a` asklimum<sep />ernir sitja<br />
+			ok dri`fr dro`tt o~ll<sep />draumþinga til.''
 		</original>
 		<translation>
 			``Now were he come,<sep />if come he might,<br />
@@ -1371,13 +1402,13 @@
 	</block>
 	<block class="stanza" number="50">
 		<original_prelude>
-
+			Ambo`tt kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``<conj>Vesattu</conj> sva` o/`r,<sep />at ein farir,<br />
+			di`s skjo~ldunga!<sep />draughu`sa til:<br />
+			<conj>o~flgari</conj> verþa<sep />allir a` no~`ttum<br />
+			dauþir <conj>dolgar</conj>an <conj>of</conj> daga ljo`sa.''<sep />
 		</original>
 		<translation_prelude>
 			The Maiden said:
@@ -1389,26 +1420,16 @@
 			The ghosts of the dead<sep />than when day is bright.''
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prose" label="conclusion">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigru`n varþ skammli`f af harmi ok trega.<br />
+			Þat var tru`a i` forneskju, at menn va_eri endrbornir, en þat er nu` kolluþ kerlinga villa.<br />
+			Helgi ok Sigru`n er kallat at va_eri endrborin; he`t hann þa` Helgi Haddingja<conj>skati,</conj> en hon Ka`ra Ha`lfdanardo`ttir, sva` sem kveþit er i` Ka`ruljo`þum, ok var hon valkyrja.
 		</original>
 		<translation>
 			Sigrun was early dead of sorrow and grief.<br />
 			It was believed in olden times that people were born again, but that is now called old wives' folly.<br />
-			Of Helgi and Sigrun it is said that they were born again; he became Helgi Haddingjaskati, and she Kara the daughter of Halfdan, as is told in the Lay of Kara, and she was a Valkyrie.<br />
-			the various stories in which the hero is slain.<br />
-			The Lay of Kara (Karuljoth) is lost, although, as has been pointed out, parts of the Helgakvitha Hundingsbana II may be remnants of it, but we find the main outlines of the story in the Hromundar saga Greipssonar, whose compilers appear to have known the Karuljoth.<br />
-			In the saga Helgi Haddingjaskati (Helgi the Haddings' Hero) is protected by the Valkyrie Kara, who flies over him in the form of a swan (note once more the Valkyrie swan-maiden confusion); but in his fight with Hromund he swings his sword so high that he accidentally gives Kara a mortal wound, where upon Hromund cuts off his head.<br />
-			As this makes the third recorded death of Helgi (once at the hands of Alf, once at those of Dag, and finally in the fight with Hromund), the phenomenon of his rebirth is not surprising.<br />
-			The points of resemblance in all the Helgi stories, including the one told in the lost Karuljoth, are sufficiently striking so that it is impossible not to see in them a common origin, and not to believe that Helgi the son of Hjorvarth, Helgi the son of Sigmund and Helgi the Haddings'-Hero (not to mention various other Helgis who probably figured in songs and stories now lost) were all originally the same Helgi who appears in the early traditions of Denmark.]<br />
+			Of Helgi and Sigrun it is said that they were born again; he became Helgi Haddingjaskati, and she Kara the daughter of Halfdan, as is told in the Lay of Kara, and she was a Valkyrie.
 		</translation>
 		<comment>
 			The attitude of the annotator is clearly revealed by his contempt for those who put any faith in such ``old wives' folly'' as the idea that men and women could be reborn.
@@ -1416,7 +1437,7 @@
 			The <src>Lay of Kara</src> (<src>Karuljoth</src>) is lost, although, as has been pointed out, parts of the <cr>Helgakvitha Hundingsbana II</cr> may be remnants of it, but we find the main outlines of the story in the <src>Hromundar saga Greipssonar</src>, whose compilers appear to have known the <src>Karuljoth</src>.
 			In the saga Helgi Haddingjaskati (Helgi the Haddings' Hero) is protected by the Valkyrie Kara, who flies over him in the form of a swan (note once more the Valkyrie swan-maiden confusion); but in his fight with Hromund he swings his sword so high that he accidentally gives Kara a mortal wound, where upon Hromund cuts off his head.
 			As this makes the third recorded death of Helgi (once at the hands of Alf, once at those of Dag, and finally in the fight with Hromund), the phenomenon of his rebirth is not surprising.
-			The points of resemblance in all the Helgi stories, including the one told in the lost Karuljoth, are sufficiently striking so that it is impossible not to see in them a common origin, and not to believe that Helgi the son of Hjorvarth, Helgi the son of Sigmund and Helgi the Haddings'-Hero (not to mention various other Helgis who probably figured in songs and stories now lost) were all originally the same Helgi who appears in the early traditions of Denmark.
+			The points of resemblance in all the Helgi stories, including the one told in the lost <src>Karuljoth</src>, are sufficiently striking so that it is impossible not to see in them a common origin, and not to believe that Helgi the son of Hjorvarth, Helgi the son of Sigmund and Helgi the Haddings'-Hero (not to mention various other Helgis who probably figured in songs and stories now lost) were all originally the same Helgi who appears in the early traditions of Denmark.
 		</comment>
 	</block>
 </chapter>
