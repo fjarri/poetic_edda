@@ -6,7 +6,7 @@ This project aims at producing the book with parallel Old Norse and English text
 I am using the `translation by Henry Adams Bellows <http://www.archive.org/details/poeticedda00belluoft>`_,
 because it is considered to be quite accurate and has detailed comments.
 As for the original text, at the moment of writing this I am using
-`"Die Lieder der älteren Edda" <http://www.archive.org/details/dieliederderedda0301geriuoft>`_
+`"Die Lieder der älteren Edda" <http://www.archive.org/details/dieliederderlt00hilduoft>`_
 by Karl Hildebrand and Hugo Gering (this book was the main source for Bellows).
 
 I will appreciate any proofreading (chapter, part of the chapter, only English or only Old Norse) ---
