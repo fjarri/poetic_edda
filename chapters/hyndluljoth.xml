@@ -625,6 +625,7 @@
 			Harald's warlike career in Norway, and his death on the Bravalla-field at the hands of his nephew, Sigurth Ring, son of <expl>Randver</expl> and grandson of Rathbarth and Auth, were favorite saga themes.
 		</comment>
 	</block>
+	<block class="asterisks" />
 	<block class="eddasection">
 		<original>
 			Vǫluspǭ en skamma
@@ -899,7 +900,7 @@
 			With this stanza the fragmentary “short <chapterref>Voluspo</chapterref>” ends, and the dialogue between Freyja and Hyndla continues.
 		</comment>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="46">
 		<original_prelude>
 			Freyja kvaþ:

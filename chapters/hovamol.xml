@@ -1270,7 +1270,7 @@
 			Straight forward he fares in conceit.
 		</translation>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="81">
 		<original>
 			At kveldi skal dag leyfa,<sep />konu es brend es,<br />
@@ -1319,7 +1319,7 @@
 			The horse at home fatten,<sep />the hound in thy dwelling.
 		</translation>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="84">
 		<original>
 			Meyjar orþum<sep />skyli manngi trua,<br />
@@ -1337,7 +1337,7 @@
 			Lines 3 and 4 are quoted in the <source>Fostbræthrasaga</source>.
 		</comment>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="85">
 		<original>
 			Brestanda boga,<sep />brinnanda loga,<br />
@@ -1409,7 +1409,7 @@
 			Many editors have changed the order, for while stanza <stanzaref chapter="Hovamol">89</stanzaref> is pretty clearly an interpolation wherever it stands, it seriously interferes with the sense if it breaks in between <stanzaref chapter="Hovamol">87</stanzaref> and <stanzaref chapter="Hovamol">88</stanzaref>.
 		</comment>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="89">
 		<original>
 			Akri ārsǭnum<sep />trui engi maþr<br />
@@ -1424,7 +1424,7 @@
 			And oft is either denied.
 		</translation>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="90">
 		<original>
 			Svā's friþr kvenna<sep />es flātt hyggja,<br />
@@ -1441,7 +1441,7 @@
 			Or, lame, hunting reindeer<sep />on slippery rocks.
 		</translation>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="91">
 		<original>
 			Bert nū mǣlik,<sep />þvīt ek bǣþi veit,<br />
@@ -1630,7 +1630,7 @@
 			He makes these two lines plus lines 1 and 2 a full stanza, and line 3, 4, 5, and 6 a second stanza.
 		</comment>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="103">
 		<original>
 			Heima glaþr gumi<sep />ok viþ gesti reifr<br />
@@ -1775,7 +1775,7 @@
 			And Gunnloth to grief he left.
 		</translation>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="111">
 		<original>
 			Māl's at þylja<sep />þular stōli ā:<br />
@@ -2311,7 +2311,7 @@
 			Most recent editors have followed Müllenhoff in shifting it to this position, as it appears to conclude the passage introduced by the somewhat similar stanza <stanzaref chapter="Hovamol">111</stanzaref>.
 		</comment>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="139">
 		<original>
 			Veitk at hekk<sep />vindga meiþi ā<br />
@@ -2477,7 +2477,7 @@
 			<expl>When home he came</expl>: presumably after obtaining the runes as described in stanzas <stanzaref chapter="Hovamol">139</stanzaref> and <stanzaref chapter="Hovamol">140</stanzaref>.
 		</comment>
 	</block>
-	<block class="sepline" />
+	<block class="asterisks" />
 	<block class="stanza" number="147">
 		<original>
 			Þau ljōþ kannk<sep />es kannat þjōþans kona<br />
