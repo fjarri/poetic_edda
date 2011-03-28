@@ -97,7 +97,7 @@
 		<comment>
 			Helgi appears to have stayed with Hunding under the name of Hamal, but now, thinking himself safe, he sends word of who he really is.
 			<expl>Hunding</expl>: it has been suggested that the compiler may have inserted this name to fit what he thought the story ought to be, in place of Hæming, or even Hadding.
-			If stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">1</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">4</stanzaref> are a fragment of the <source>Karuljoth</source> (<source>Lay of Kara</source>), this latter suggestion is quite reasonable, for in that poem, which we do not possess, but which supplied material for the compilers of the <source>Hromundar saga Greipssonar</source>, Helgi appears as Helgi Haddingjaskati (cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">final prose note</proseref>).
+			If stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">1</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">4</stanzaref> are a fragment of the <source>Karuljoth</source> (<source>Lay of Kara</source>), this latter suggestion is quite reasonable, for in that poem, which we do not possess, but which supplied material for the compilers of the <source>Hromundar saga Greipssonar</source>, Helgi appears as Helgi Haddingjaskati (cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">final prose</proseref> note).
 			Nothing beyond this one name connects stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">1</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">4</stanzaref> with Hunding.
 		</comment>
 	</block>
@@ -221,7 +221,7 @@
 			No division indicated in the manuscript.
 			<expl>Brunavagar</expl> (“Bruni's Sea”): mentioned only in this section.
 			<expl>Strand-slaughtering</expl>: a killing on the shore of cattle stolen in a raid.
-			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjortvarthssonar" prose="conclusion">concluding prose</proseref> note) represents a naive form of scholarship.
+			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjorvarthssonar" prose="conclusion">concluding prose</proseref> note) represents a naive form of scholarship.
 			There is nothing in stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">5</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">12</stanzaref> which clearly identifies Sigrun as a Valkyrie, or which, except for the last line of stanza <stanzaref chapter="Helgakvitha Hundingsbana II">12</stanzaref>, identifies the speaker as Sigrun.
 			Some editors, therefore, call her simply “the Valkyrie,” while Vigfusson, who thinks this section is also a remnant of the <source>Karuljoth</source>, calls her Kara.
 		</comment>
@@ -403,7 +403,7 @@
 		<comment>
 			Some editors reject line 3, others line 5.
 			The manuscript omits Helgi's name in line 5, thereby destroying both the sense and the meter.
-			Vigfusson, following his <source>Karuljoth</source> theory (cf. note on <proseref chapter="Helgakvitha Hundingsbana II" prose="p5">prose following stanza 4</proseref>), changes Hogni to Halfdan, father of Kara.
+			Vigfusson, following his <source>Karuljoth</source> theory (cf. note on <proseref chapter="Helgakvitha Hundingsbana II" prose="p5_2">prose following stanza 4</proseref>), changes Hogni to Halfdan, father of Kara.
 		</comment>
 	</block>
 	<block class="eddasection">
@@ -870,7 +870,7 @@
 		</translation>
 		<comment>
 			Here begins a new section of the poem, dealing with Helgi's death at the hands of <expl>Dag</expl>, Sigrun's brother.
-			The note is based wholly on stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">28</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">34</stanzaref>, except for the introduction of Dag's name (cf. note on <proseref chapter="Helgakvitha Hundingsbana II" prose="p17">prose following stanza 16</proseref>), and the reference to <expl>Othin's spear</expl>, the weapon which made victory certain, and which the annotator brought in doubtless on the strength of Dag's statement that Othin was responsible for Helgi's death (stanza <stanzaref chapter="Helgakvitha Hundingsbana II">33</stanzaref>).
+			The note is based wholly on stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">28</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">34</stanzaref>, except for the introduction of Dag's name (cf. note on <proseref chapter="Helgakvitha Hundingsbana II" prose="p17_3">prose following stanza 16</proseref>), and the reference to <expl>Othin's spear</expl>, the weapon which made victory certain, and which the annotator brought in doubtless on the strength of Dag's statement that Othin was responsible for Helgi's death (stanza <stanzaref chapter="Helgakvitha Hundingsbana II">33</stanzaref>).
 			<expl>Fjoturlund</expl> (“Fetter-Wood”): mentioned only here and in stanza <stanzaref chapter="Helgakvitha Hundingsbana II">28</stanzaref>.
 		</comment>
 	</block>
