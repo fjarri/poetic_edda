@@ -243,7 +243,6 @@ Fra Dautha Sinfjotla (planned)
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
   (this may help to avoid uneven cell spacing)
-* Add hyphenation helpers for all chapter names
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -281,3 +280,6 @@ Tasks for distant future
   is just a long space (or maybe draw some "long" lacuna)
 * HHII: probably make separate style for in-prose stanza (p17, class="prosestanza"),
   so that the whole prose would be enclosed in a single block
+* Add hyphenation helpers for all chapter names (TODO: can't remember why
+  I mentioned this; have to find place where TeX's hyphenation algorithm fails)
+  Need to add non-breakable spaces in chapter names too (like Smth~II)
