@@ -1,7 +1,7 @@
 <chapter label="Fra Dautha Sinfjotla">
 	<block class="eddachapter">
 		<original>
-
+			Frā dauþa Sinfjǫtla
 		</original>
 		<transliteration>
 			Fra Dautha Sinfjotla
@@ -14,28 +14,28 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		It has been pointed out that the Helgi tradition, coming originally from Denmark, was early associated with that of the Volsungs, which was of German, or rather of Frankish, origin (cf. <ref chapter="Helgakvitha Hjorvarthssonar">Introductory Note</ref> to <cr>Helgakvitha Hjorvarthssonar</cr>).
+		It has been pointed out that the Helgi tradition, coming originally from Denmark, was early associated with that of the Volsungs, which was of German, or rather of Frankish, origin (cf. <ref chapter="Helgakvitha Hjorvarthssonar">Introductory Note</ref> to <chapterref>Helgakvitha Hjorvarthssonar</chapterref>).
 		The connecting links between these two sets of stories were few in number, the main point being the identification of Helgi as a son of Sigmund Volsungsson.
 		Another son of Sigmund, however, appears in the Helgi poems, though not in any of the poems dealing with the Volsung cycle proper.
 		This is Sinfjotli, whose sole function in the extant Helgi lays is to have a wordy dispute with Gothmund Granmarsson.
 	</block>
 	<block class="text">
-		Sinfjotli's history is told in detail in the early chapters of the <src>Volsungasaga</src>.
+		Sinfjotli's history is told in detail in the early chapters of the <source>Volsungasaga</source>.
 		The twin sister of Sigmund Volsungsson, Signy, had married Siggeir, who hated his brother-in-law by reason of his desire to possess a sword which had belonged to Othin and been won by Sigmund.
 		Having treacherously invited Volsung and his ten sons to visit him, Siggeir slew Volsung and captured his sons, who were set in the stocks.
-		Each night a wolf (``some men say that she was Siggeir's mother'') came out of the woods and ate up one of the brothers, till on the tenth night Sigmund alone was left.
+		Each night a wolf (“some men say that she was Siggeir's mother”) came out of the woods and ate up one of the brothers, till on the tenth night Sigmund alone was left.
 		Then, however, Signy aided him to escape, and incidentally to kill the wolf.
 		He vowed vengeance on Siggeir, and Signy, who hated her husband, was determined to help him.
 		Convinced that Sigmund must have a helper of his own race, Signy changed forms with a witch, and in this guise sought out Sigmund, who, not knowing who she was, spent three nights with her.
-		Thereafter she gave birth to a boy, whom she named Sinfjotli (``The Yellow-Spotted''?), whom she sent to Sigmund.
+		Thereafter she gave birth to a boy, whom she named Sinfjotli (“The Yellow-Spotted”?), whom she sent to Sigmund.
 		For a time they lived in the woods, occasionally turning into wolves (whence perhaps Sinfjotli's name).
 		When Sinfjotli was full grown, he and his father came to Siggeir's house, but were seen and betrayed by the two young sons of Signy and Siggeir, whereupon Sinfjotli slew them.
 		Siggeir promptly had Sigmund and Sinfjotli buried alive, but Signy managed to smuggle Sigmund's famous sword into the grave, and with this the father and son dug themselves out.
 		The next night they burned Siggeir's house, their enemy dying in the flames, and Signy, who had at the last refused to leave her husband, from a sense of somewhat belated loyalty, perishing with him.
 	</block>
 	<block class="text">
-		Was this story, which the <src>Volsungasaga</src> relates in considerable detail, the basis of an old poem which has been lost?
-		Almost certainly it was, although, as I have pointed out, many if not most of the old stories appear to have been handed down rather in prose than in verse, for the <src>Volsungasaga</src> quotes two lines of verse regarding the escape from the grave.
+		Was this story, which the <source>Volsungasaga</source> relates in considerable detail, the basis of an old poem which has been lost?
+		Almost certainly it was, although, as I have pointed out, many if not most of the old stories appear to have been handed down rather in prose than in verse, for the <source>Volsungasaga</source> quotes two lines of verse regarding the escape from the grave.
 		At any rate, Sinfjotli early became a part of the Volsung tradition, which, in turn, formed the basis for no less than fifteen poems generally included in the Eddic collection.
 		Of this tradition we may recognize three distinct parts: the Volsung-Sigmund-Sinfjotli story; the Helgi story, and the Sigurth story, the last of these three being by far the most extensive, and suggesting an almost limitless amount of further subdivision.
 		With the Volsung-Sigmund-Sinfjotli story the Sigurth legend is connected only by the fact that Sigurth appears as Sigmund's son by his last wife, Hjordis; with the Helgi legend it is not connected directly at all.
@@ -43,37 +43,41 @@
 		Originally it is altogether probable that the three stories, or sets of stories, were entirely distinct, and that Sigurth (the familiar Siegfried) had little or nothing more to do with the Volsungs of northern mythological-heroic tradition than he had with Helgi.
 	</block>
 	<block class="text">
-		The annotator or compiler of the collection of poems preserved in the <src>Codex Regius</src>, having finished with the Helgi lays, had before him the task of setting down the fifteen complete or fragmentary poems dealing with the Sigurth story.
+		The annotator or compiler of the collection of poems preserved in the <source>Codex Regius</source>, having finished with the Helgi lays, had before him the task of setting down the fifteen complete or fragmentary poems dealing with the Sigurth story.
 		Before doing this, however, he felt it incumbent on him to dispose of both Sigmund and Sinfjotli, the sole links with the two other sets of stories.
 		He apparently knew of no poem or poems concerning the deaths of these two; perhaps there were none, though this is unlikely.
-		Certainly the story of how Sinfjotli and Sigmund died was current in oral prose tradition, and this story the compiler set forth in the short prose passage entitled <src>Of Sinfjotli's Death</src> which, in <src>Regius</src>, immediately follows <ref chapter="Helgakvitha Hundingsbana II">the second lay of Helgi Hundingsbane</ref>.
-		The relation of this passage to the prose of the <cr>Reginsmol</cr> is discussed in the <ref chapter="Reginsmol">introductory note to that poem</ref>.
+		Certainly the story of how Sinfjotli and Sigmund died was current in oral prose tradition, and this story the compiler set forth in the short prose passage entitled <source>Of Sinfjotli's Death</source> which, in <source>Regius</source>, immediately follows <ref chapter="Helgakvitha Hundingsbana II">the second lay of Helgi Hundingsbane</ref>.
+		The relation of this passage to the prose of the <chapterref>Reginsmol</chapterref> is discussed in the <ref chapter="Reginsmol">introductory note to that poem</ref>.
 	</block>
 	<block class="sepline" />
-	<block class="prose">
+	<block class="prose" label="p1">
 		<original>
+			Sigmundr Vǫlsungs son var konungr ā Frakklandi; Sinfjǫtli var elztr hans sona, annarr Helgi, þriþi Hāmundr.<br />
+			Borghildr, kona Sigmundar, ātti brōþur er hēt <missingword />.<br />
+			En Sinfjǫtli, stjūpson hennar, ok <missingword /> b`aþu einnar konu bāþir, ok fyr þā sǫk drap Sinfjǫtli hann.<br />
+			En er hann kom heim, þā baþ Borghildr hann fara ā brot, en Sigmundr bauþ henni fēbœtr, ok þat varþ hon at þiggja.<br />
+			En at erfinu bar Borghildr ǫl; hon tōk eitr, mikit horn fullt, ok bar Sinfjǫtla.<br />
+			En er hann sā ī hornit, skilþi hann at eitr var ī ok mǣlti til Sigmundar: “Gjǫrōttr er drykkrinn, āi!”<br />
+			Sigmundr tōk hornit ok drakk af.<br />
+			Svā er sagt at Sigmundr var harþgǫrr, at hvārki mātti honum eitr granda utan nē innan, en allir synir hans stōþuz eitr ā hǫrund utan.<br />
+			Borghildr bar annat horn Sinfjǫtla ok baþ drekka, ok fōr allt sem fyrr.<br />
+			Ok enn et þriþja sinn bar hon honum hornit ok þō āmælisorþ meþ, ef hann drykki eigi af.<br />
+			Hann mælti enn sem fyrr viþ Sigmund.<br />
+			Hann sagþi: “Lāttu grǫn sīa þā, sonr!”<br />
+			Sinfjǫtli drakk ok varþ þegar dauþr.<br />
+			Sigmundr bar hann langar leiþir ī fangi sēr ok kom at firþi einum mjǫvum ok lǫngum, ok var þar skip eitt lītit ok maþr einn ā.<br />
+			Hann bauþ Sigmundi far of fjǫrþinn.<br />
+			En er Sigmundr bar līkit ūt ā skipit, þā var bātrinn hlaþinn.<br />
+			Karl mælti at Sigmundr skyldi fara fyr <conj>innan</conj> fjǫrþinn.<br />
+			Karl hratt ūt skīpinu ok hvarf þegar.<br />
 			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigmundr konungr dvalþiz lengi ī Danmǫrk ī rīki Borghildar, sīþan er hann fekk hennar.<br />
+			Fōr Sigmundr þā suþr ī Frakkland til þess rīkis er hann ātti þar.<br />
+			Þā fekk hann Hjǫrdīsar dōttur Eylima konungs; þeira son var Sigurþr.<br />
+			Sigmundr konungr fell ī orrostu fyr Hundings sonum, en Hjǫrdīs giptiz þā Ālfi syni Hjālpreks konungs.<br />
+			Ōx Sigurþr þar upp ī barnœsku.<br />
+			Sigmundr ok allir synir hans vāru langt umfram alla menn aþra um afl ok vǫxt ok hug ok alla atgervi.<br />
+			Sigurþr var <conj>þō</conj> allra framastr, ok hann kalla allir menn ī fornfrœþum um alla menn fram ok gǫfgastan herkonunga.
 		</original>
 		<translation>
 			Sigmund, the son of Volsung, was a king in the land of the Franks; Sinfjotli was his eldest son, the second was Helgi, and the third Hamund.<br />
@@ -81,12 +85,14 @@
 			Sinfjotli, her stepson, and <missingword /> both wooed the same woman, wherefore Sinfjotli slew him.<br />
 			And when he came home, Borghild bade him depart, but Sigmund offered her atonement-money, and this she had to accept.<br />
 			At the funeral feast Borghild brought in ale; she took poison, a great horn full, and brought it to Sinfjotli.<br />
-			But when he looked into the horn, he saw that it was poison, and said to Sigmund: ``Muddy is the drink, Father!'' Sigmund took the horn and drank therefrom.<br />
+			But when he looked into the horn, he saw that it was poison, and said to Sigmund: “Muddy is the drink, Father!”<br />
+			Sigmund took the horn and drank therefrom.<br />
 			It is said that Sigmund was so hardy that poison might not harm him, either outside or in, but all his sons could withstand poison only without on their skin.<br />
 			Borghild bore another horn to Sinfjotli and bade him drink, and all happened as before.<br />
 			And yet a third time she brought him a horn, and spoke therewith scornful words of him if he should not drink from it.<br />
 			He spoke as before with Sigmund.<br />
-			The latter said: ``Let it trickle through your beard, Son!'' Sinfjotli drank, and straight way was dead.<br />
+			The latter said: “Let it trickle through your beard, Son!”<br />
+			Sinfjotli drank, and straight way was dead.<br />
 			Sigmund bore him a long way in his arms, and came to a narrow and long fjord, and there was a little boat and a man in it.<br />
 			He offered to take Sigmund across the fjord.<br />
 			But when Sigmund had borne the corpse out into the boat, then the craft was full.<br />
@@ -106,8 +112,8 @@
 			<expl>Helgi</expl> and <expl>Hamund</expl>: sons of Sigmund and Borghild; Helgi is, of course Helgi Hundingsbane; of Hamund nothing further is recorded.
 			<expl>Borghild</expl>: the manuscript leaves a blank for the name of her brother; evidently the compiler hoped some day to discover it and write it in, but never did.
 			A few editions insert wholly unauthorized names from late paper manuscripts, such as Hroar, Gunnar, or Borgar.
-			In the <src>Volsungasaga</src> Borghild bids Sinfjotli drink ``if he has the courage of a Volsung.''
-			Sigmund gives his advice because ``the king was very drunk, and that was why he spoke thus.''
+			In the <source>Volsungasaga</source> Borghild bids Sinfjotli drink “if he has the courage of a Volsung.”
+			Sigmund gives his advice because “the king was very drunk, and that was why he spoke thus.”
 			Gering, on the other hand, gives Sigmund credit for having believed that the draught would deposit its poisonous contents in Sinfjotli's beard, and thus do him no harm.
 			<expl>Boat</expl>: the man who thus carries off the dead Sinfjotli in his boat is presumably Othin.
 			<expl>Denmark</expl>: Borghild belongs to the Danish Helgi part of the story.
@@ -115,12 +121,12 @@
 			Sigmund's two kingdoms are an echo of the blended traditions.
 			<expl>Hjordis</expl>: just where this name came from is not clear, for in the German story Siegfried's mother is Sigelint, but the name of the father of Hjordis, <expl>Eylimi</expl>, gives a clew, for Eylimi is the father of Svava, wife of Helgi Hjorvarthsson.
 			Doubtless the two men are not identical, but it seems likely that both Eylimi and Hjordis were introduced into the Sigmund-Sigurth story, the latter replacing Sigelint, from some version of the Helgi tradition.
-			<expl>Hunding</expl>: in the Helgi lays the sons of Hunding are all killed, but they reappear here and in two of the poems (<chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">9</stanzaref>, and <chapterref>Reginsmol</chapterref>, <stanzaref chapter="Reginsmol">15</stanzaref>), and the <src>Volsungasaga</src> names Lyngvi as the son of Hunding who, as the rejected lover of Hjordis, kills Sigmund and his father-in-law, Eylimi, as well.
+			<expl>Hunding</expl>: in the Helgi lays the sons of Hunding are all killed, but they reappear here and in two of the poems (<chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">9</stanzaref>, and <chapterref>Reginsmol</chapterref>, <stanzaref chapter="Reginsmol">15</stanzaref>), and the <source>Volsungasaga</source> names Lyngvi as the son of Hunding who, as the rejected lover of Hjordis, kills Sigmund and his father-in-law, Eylimi, as well.
 			The episode of Hunding and his sons belongs entirely to the Danish (Helgi) part of the story; the German legend knows nothing of it, and permits the elderly Sigmund to outlive his son.
-			There was doubtless a poem on this battle, for the <src>Volsungasaga</src> quotes two lines spoken by the dying Sigmund to Hjordis before he tells her to give the pieces of his broken sword to their unborn son.
-			<expl>Alf</expl>: after the battle, according to the <src>Volsungasaga</src>, Lyngvi Hundingsson tried to capture Hjordis, but she was rescued by the sea-rover Alf, son of King Hjalprek of Denmark, who subsequently married her.
+			There was doubtless a poem on this battle, for the <source>Volsungasaga</source> quotes two lines spoken by the dying Sigmund to Hjordis before he tells her to give the pieces of his broken sword to their unborn son.
+			<expl>Alf</expl>: after the battle, according to the <source>Volsungasaga</source>, Lyngvi Hundingsson tried to capture Hjordis, but she was rescued by the sea-rover Alf, son of King Hjalprek of Denmark, who subsequently married her.
 			Here is another trace of the Danish Helgi tradition.
-			The <src>Nornageststhattr</src> briefly tells the same story.
+			The <source>Nornageststhattr</source> briefly tells the same story.
 		</comment>
 	</block>
 </chapter>
