@@ -236,7 +236,7 @@ Helgakvitha Hundingsbana II (28 Mar 2011)
 Fra Dautha Sinfjotla (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Fra Dautha Sinfjotla chapter
+* Added Fra Dautha Sinfjotla chapter;
 * Fix the problem with not working \nopagebreak between \addsec and longtable
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
