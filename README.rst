@@ -232,9 +232,9 @@ Helgakvitha Hundingsbana II (28 Mar 2011)
 
 * Added Helgakvitha Hundingsbana II chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Fra Dautha Sinfjotla (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fra Dautha Sinfjotla (28 Mar 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Fra Dautha Sinfjotla chapter;
 * Made all prose labels uniform ('pN' for those before stanzas
@@ -244,9 +244,13 @@ Fra Dautha Sinfjotla (planned)
   putting section titles in tables now;
 * Using asterisks instead of seplines inside chapters (like Bellows did).
   Also added two missing seplines in Helgakvitha Hjorvarthssonar and Svipdagsmol
-  for consistency;
-* Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
-  (this may help to avoid uneven cell spacing)
+  for consistency
+
+~~~~~~~~~~~~~~~~~~~
+Gripisspo (planned)
+~~~~~~~~~~~~~~~~~~~
+
+* Add Gripisspo chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -283,3 +287,5 @@ Tasks for distant future
 * Add hyphenation helpers for all chapter names (TODO: can't remember why
   I mentioned this; have to find place where TeX's hyphenation algorithm fails)
   Need to add non-breakable spaces in chapter names too (like Smth~II)
+* Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
+  (this may help to avoid uneven cell spacing)
