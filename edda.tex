@@ -309,17 +309,11 @@
 	}
 }
 
-% command for inline header
-\newcommand{\eddasection}[2][\@empty]{ % subsection inside Edda chapter
-	\addsec*{#2}
-	\ifx\@empty#1
-	\else
-		{\large\sffamily #1}
-		\vskip 1.5\baselineskip
-		\nopagebreak
-	\fi
-}
-
+% commands for inline header
+% FIXME: probably it should be done using \usekomafont,
+% but it changes only the font size
+\newcommand{\eddasectiontitle}[1]{\usekomafont{section}\sffamily\bfseries #1}
+\newcommand{\eddasectionsubtitle}[1]{\large\sffamily #1}
 
 % base command for stanza pair
 \newcommand{\eddastanza}[3][\@empty]{
