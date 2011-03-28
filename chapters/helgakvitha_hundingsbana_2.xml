@@ -35,7 +35,7 @@
 		Section VIII (stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">39</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">50</stanzaref>) deals with the return of the dead Helgi and Sigrun's visit to him in the burial hill.
 	</block>
 	<block class="text">
-		Sijmons maintains that sections I and II are fragments of the Kara lay mentioned by the annotator in his concluding prose note, and that sections IV, VI, and VIII are from a lost Helgi-Sigrun poem, while Section III comes, of course, from the “old Volsung lay.”
+		Sijmons maintains that sections I and II are fragments of the Kara lay mentioned by the annotator in his <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">concluding prose</proseref> note, and that sections IV, VI, and VIII are from a lost Helgi-Sigrun poem, while Section III comes, of course, from the “old Volsung lay.”
 		This seems as good a guess as any other, conclusive proof being quite out of the question.
 	</block>
 	<block class="text">
@@ -198,7 +198,7 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[II]
+			(II)
 		</original>
 		<transliteration>
 			(II)
@@ -221,7 +221,7 @@
 			No division indicated in the manuscript.
 			<expl>Brunavagar</expl> (“Bruni's Sea”): mentioned only in this section.
 			<expl>Strand-slaughtering</expl>: a killing on the shore of cattle stolen in a raid.
-			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, concluding prose note) represents a naive form of scholarship.
+			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjortvarthssonar" prose="conclusion">concluding prose</proseref> note) represents a naive form of scholarship.
 			There is nothing in stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">5</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">12</stanzaref> which clearly identifies Sigrun as a Valkyrie, or which, except for the last line of stanza <stanzaref chapter="Helgakvitha Hundingsbana II">12</stanzaref>, identifies the speaker as Sigrun.
 			Some editors, therefore, call her simply “the Valkyrie,” while Vigfusson, who thinks this section is also a remnant of the <source>Karuljoth</source>, calls her Kara.
 		</comment>
@@ -267,7 +267,7 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-			Sigrūn kvaþ:
+			Valkyrja kvaþ:
 		</original_prelude>
 		<original>
 			“Hvar hefr, hilmir!<sep />hildi vakþa<br />
@@ -320,7 +320,7 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-			Sigrūn kvaþ:
+			Valkyrja kvaþ:
 		</original_prelude>
 		<original>
 			“Vīg lȳsir þū,<sep />varþ fyr Helga<br />
@@ -363,7 +363,7 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-			Sigrūn kvaþ:
+			Valkyrja kvaþ:
 		</original_prelude>
 		<original>
 			“Vaska fjarri,<sep />folks oddviti!<br />
@@ -408,7 +408,7 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[III]
+			(III)
 		</original>
 		<transliteration>
 			(III)
@@ -416,12 +416,13 @@
 	</block>
 	<block class="prose" label="p13">
 		<original>
-			Granmarr hēt rīkr konungr, er bjō at Svarinshaugi; hann ātti marga sonu: <conj>hēt einn</conj> Hǫþbroddr, annarr Guþmundr, þriþi Starkaþr.<br />
+			Granmarr hēt rīkr konungr, er bjō at Svarinshaugi;<br />
+			hann ātti marga sonu: <conj>hēt einn</conj> Hǫþbroddr, annarr Guþmundr, þriþi Starkaþr.<br />
 			Hǫþbroddr var ī konungastefnu, hann fastnaþi sēr Sigrūnu Hǫgnadōttur.<br />
 			En er hon spyrr þat, þā reiþ hon meþ valkyrjur um lopt ok um lǫg at leita Helga.<br />
 			Helgi var þā at Logafjǫllum ok hafþi bariz viþ Hundings sonu; þar feldi hann þā Ālf ok Eyjōlf, Hjǫrvarþ ok Hervarþ,<br />
 			ok var hann allvīgmōþr ok sat undir Arasteini.<br />
-			Þar hitti Sigrūn hann ok rann ā hāls honum ok kysti hann ok sagþi honum erendi sitt, svā sem segir ī Vǫlsungakviþu enni fornu:<br />
+			Þar hitti Sigrūn hann ok rann ā hāls honum ok kysti hann ok sagþi honum erendi sitt, svā sem segir ī Vǫlsungakviþu enni fornu:
 		</original>
 		<translation>
 			Granmar was the name of a mighty king, who dwelt at Svarin's hill.<br />
@@ -511,7 +512,7 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[IV]
+			(IV)
 		</original>
 		<transliteration>
 			(IV)
@@ -534,7 +535,7 @@
 			Then the storm abated, and they came safe and sound to land.<br />
 			Granmar's sons sat on a certain mountain as the ships sailed toward the land.<br />
 			Gothmund leaped on a horse and rode for news to a promontory near the harbor; the Volsungs were even then lowering their sails.<br />
-			Then Gothmund said, as is written before in the Helgi lay:<br />
+			Then Gothmund said, as is written before in the Helgi lay:
 		</translation>
 	</block>
 	<block class="prosestanza" label="p17_2">
@@ -544,7 +545,7 @@
 		</original>
 		<translation>
 			“Who is the king<sep />who captains the fleet,<br />
-			And to the land<sep />the warriors leads?”<br />
+			And to the land<sep />the warriors leads?”
 		</translation>
 	</block>
 	<block class="prose" label="p17_3">
@@ -653,14 +654,13 @@
 			Liggja at <conj>jǫrþu</conj><sep />allra flestir<br />
 			niþjar þīnir<sep />at nǫum orþnir;<br />
 			vanntat vīgi,<sep />vas þer <conj>vǭ skǫpuþ,</conj><br />
-			<conj>es</conj> at rōgi þū<sep />rīkmenni vast.”<br />
-			<sep />
+			<conj>es</conj> at rōgi þū<sep />rīkmenni vast.”
 		</original>
 		<translation>
 			On the ground full low<sep />the slain are lying,<br />
 			Most are there<sep />of the men of thy race;<br />
 			Nought hast thou won,<sep />for thy fate it was<br />
-			Brave men to bring<sep />to the battle-field.”<br />
+			Brave men to bring<sep />to the battle-field.”
 		</translation>
 	</block>
 	<block class="prose" label="p21">
@@ -695,13 +695,13 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[V]
+			(V)
 		</original>
 		<transliteration>
 			(V)
 		</transliteration>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p22">
 		<original>
 			[Þetta kvaþ Guþmundr Granmarsson:
 		</original>
@@ -845,7 +845,7 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[VI]
+			(VI)
 		</original>
 		<transliteration>
 			(VI)
@@ -1083,7 +1083,7 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[VII]
+			(VII)
 		</original>
 		<transliteration>
 			(VII)
@@ -1117,7 +1117,7 @@
 	</block>
 	<block class="eddasection">
 		<original>
-			[VIII]
+			(VIII)
 		</original>
 		<transliteration>
 			(VIII)
