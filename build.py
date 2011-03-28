@@ -449,6 +449,7 @@ if __name__ == '__main__':
 		'sepline': printSepline,
 		'section': printSectionHeader,
 		'eddasection': printEddaSectionHeader,
+		'prosestanza': printProseTable,
 	}
 
 	filenames = os.listdir('chapters')
