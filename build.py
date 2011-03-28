@@ -10,6 +10,7 @@ import re
 # section header to the next prose/stanza (because otherwise
 # \nopagebreak between \section and longtable does not work)
 add_edda_section = None
+add_asterisks = False
 
 def deprettify(elem):
 	divs = ['chapter', 'block', 'original', 'translation', 'comment',
@@ -47,7 +48,7 @@ def deprettify(elem):
 # Function for printing paired stanzas as multi-row tables
 def printStanzaTable(block):
 
-	global add_edda_section
+	global add_edda_section, add_asterisks
 
 	# helper functions for wrapping table cells
 	leftField = lambda x: u"\\eddastanzaleft{" + x + u"}"
@@ -124,6 +125,11 @@ def printStanzaTable(block):
 
 	# add section, if needed
 	section_lines = u""
+
+	if add_asterisks:
+		section_lines += u"\\multicolumn{3}{@{} l}{\\asterisks} \\\\*\n"
+		add_asterisks = False
+
 	if add_edda_section is not None:
 		title, subtitle = add_edda_section
 
@@ -148,7 +154,7 @@ def printStanzaTable(block):
 
 def printProseTable(block):
 
-	global add_edda_section
+	global add_edda_section, add_asterisks
 
 	# helper functions for wrapping table cells
 	leftField = lambda x: u"\\eddaproseleft{" + x + u"}"
@@ -166,6 +172,11 @@ def printProseTable(block):
 
 	# add section, if needed
 	section_lines = u""
+
+	if add_asterisks:
+		section_lines += u"\\multicolumn{2}{@{} l}{\\asterisks} \\\\*\n"
+		add_asterisks = False
+
 	if add_edda_section is not None:
 		title, subtitle = add_edda_section
 
@@ -496,6 +507,13 @@ def printEddaSectionHeader(block):
 
 	return u"\n"
 
+def printAsterisks(block):
+	global add_asterisks
+
+	add_asterisks = True
+
+	return u"\n"
+
 def printSepline(block):
 	return u"\\eddasepline"
 
@@ -512,6 +530,7 @@ if __name__ == '__main__':
 		'section': printSectionHeader,
 		'eddasection': printEddaSectionHeader,
 		'prosestanza': printProseTable,
+		'asterisks': printAsterisks,
 	}
 
 	filenames = os.listdir('chapters')
