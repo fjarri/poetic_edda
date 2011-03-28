@@ -239,9 +239,12 @@ Fra Dautha Sinfjotla (planned)
 * Added Fra Dautha Sinfjotla chapter;
 * Made all prose labels uniform ('pN' for those before stanzas
   and 'conclusion' for the last ones);
-* Voluspo, 8: fixed typo (in stead -> instead)
-* Fix the problem with not working \nopagebreak between \addsec and longtable
-  (see Svipdagsmol as an example; need to remove temporary workaround from there)
+* Voluspo, 8: fixed typo (in stead -> instead);
+* Fixed the problem with not working \nopagebreak between \addsec and longtable:
+  putting section titles in tables now;
+* Using asterisks instead of seplines inside chapters (like Bellows did).
+  Also added two missing seplines in Helgakvitha Hjorvarthssonar and Svipdagsmol
+  for consistency;
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
   (this may help to avoid uneven cell spacing)
 
@@ -273,10 +276,6 @@ Tasks for distant future
   (and delete parentheses from original stanzas)
 * Check that phrases like 'prose after stanza 5' are single references to prose,
   not one ref to prose and one to stanza
-* Check styles of <inlineseparator>, eddasection blocks and
-  seplines inside the chapter (like in Hovamol).
-  Bellows' book uses lines after introductory notes and
-  asterisks in other places.
 * Draw just <lacuna> instead of <lacuna><sep><lacuna>, unless <sep>
   is just a long space (or maybe draw some "long" lacuna)
 * HHII: probably make separate style for in-prose stanza (p17, class="prosestanza"),
