@@ -31,7 +31,7 @@
 		Wherever the <chapterref>Skirnismol</chapterref> was composed, it has been preserved in exceptionally good condition, and seems to be practically devoid of interpolations or lacunæ.
 	</block>
 	<block class="sepline" />
-	<block class="prose" label="introduction">
+	<block class="prose" label="p1">
 		<original>
 			Freyr sonr Njarþar hafþi einn dag sez ī Hliþskjālf ok sā um heima alla;<br />
 			hann sā ī jǫtunheima ok sā þar mey fagra, þā er hon gekk frā skāla fǫþur sīns til skemmu.<br />
@@ -285,7 +285,7 @@
 			Some editors reject line 3 as spurious.
 		</comment>
 	</block>
-	<block class="prose" label="prose10">
+	<block class="prose" label="p10">
 		<original>
 			Skirnir reiþ ī jǫtunheima til Gymis garþa.<br />
 			Þar vāru hundar ōlmir ok bundnir fyr skīþsgarþs hliþi þess er um sal Gerþar var.<br />
@@ -925,7 +925,7 @@
 			<expl>Barri</expl>: “The Leafy.”
 		</comment>
 	</block>
-	<block class="prose" label="prose40">
+	<block class="prose" label="p40">
 		<original>
 			Þā reiþ Skirnir heim.<br />
 			Freyr stōþ ūti ok kvaddi hann ok spurþi tīþinda:

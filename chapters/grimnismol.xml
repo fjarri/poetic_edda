@@ -46,7 +46,7 @@
 		Interpolations in such a poem as the <chapterref>Grimnismol</chapterref> could have been made easily enough, and many stanzas have undoubtedly crept in from other poems, but the beginning and end of the poem are clearly marked, and presumably it has come down to us with the same essential outline it had when it was composed, probably in the first half of the tenth century.
 	</block>
 	<block class="sepline" />
-	<block class="prose" label="introduction">
+	<block class="prose" label="p1">
 		<original>
 			Hrauþungr konungr ātti tvā sonu, hēt annarr Agnarr, en annarr Geirrøþr.<br />
 			Agnarr var tīu vetra, en Geirrøþr ātta vetra.<br />
@@ -109,7 +109,7 @@
 			<expl>Geirröth</expl>: the manuscripts spell his name in various ways.
 			<expl>Frigg</expl>: Othin's wife.
 			She and Othin nearly always disagreed in some such way as the one outlined in this story.
-			<expl>Hlithskjolf</expl> (“Gate-Shelf”): Othin's watch-tower in heaven, whence he can overlook all the nine worlds; cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref>.
+			<expl>Hlithskjolf</expl> (“Gate-Shelf”): Othin's watch-tower in heaven, whence he can overlook all the nine worlds; cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref>.
 			<expl>Grimnir</expl>: “the Hooded One.”
 		</comment>
 	</block>
@@ -198,7 +198,7 @@
 			<expl>Ydalir</expl> (“Yew-Dales”): the home of Ulf, the archer among the gods, a son of Thor's wife, Sif, by another marriage.
 			The wood of the yew-tree was used for bows in the North just as it was long afterwards in England.
 			<expl>Alfheim</expl>: the home of the elves.
-			<expl>Freyr</expl>: cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note.
+			<expl>Freyr</expl>: cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref> and note.
 			<expl>Tooth-gift</expl>: the custom of making a present to a child when it cuts its first tooth is, according to Vigfusson, still in vogue in Iceland.
 		</comment>
 	</block>
@@ -342,7 +342,7 @@
 		</translation>
 		<comment>
 			<expl>Himinbjorg</expl> (“Heaven's Cliffs”): the dwelling at the end of the bridge Bifrost (the rainbow), where Heimdall (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">27</stanzaref>) keeps watch against the coming of the giants.
-			In this stanza the two functions of Heimdall—as father of mankind (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">1</stanzaref> and note, and <chapterref>Rigsthula</chapterref>, <proseref chapter="Rigsthula" prose="introduction">introductory prose</proseref> and note) and as warder of the gods—seem both to be mentioned, but the second line in the manuscripts is apparently in bad shape, and in the editions is more or less conjectural.
+			In this stanza the two functions of Heimdall—as father of mankind (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">1</stanzaref> and note, and <chapterref>Rigsthula</chapterref>, <proseref chapter="Rigsthula" prose="p1">introductory prose</proseref> and note) and as warder of the gods—seem both to be mentioned, but the second line in the manuscripts is apparently in bad shape, and in the editions is more or less conjectural.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
@@ -992,7 +992,7 @@
 			This stanza is quoted by Snorri.
 			<expl>Ivaldi</expl> (“The Mighty”): he is known only as the father of the craftsmen-dwarfs who made not only the ship Skithblathnir, but also Othin's spear Gungnir, and the golden hair for Thor's wife, Sif, after Loki had maliciously cut her own hair off.
 			<expl>Skithblathnir</expl>: this ship (“Wooden-Bladed”) always had a fair wind, whenever the sail was set; it could be folded up at will and put in the pocket.
-			<expl>Freyr</expl>: concerning him and his father, see <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref>, note, and <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note.
+			<expl>Freyr</expl>: concerning him and his father, see <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref>, note, and <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="44">
@@ -1049,7 +1049,7 @@
 		</translation>
 		<comment>
 			With this stanza the narrative current of the poem is resumed.
-			<expl>Ægir</expl>: the sea-god; cf. <chapterref>Lokasenna</chapterref>, <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
+			<expl>Ægir</expl>: the sea-god; cf. <chapterref>Lokasenna</chapterref>, <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref>.
 		</comment>
 	</block>
 	<block class="stanza" number="46">

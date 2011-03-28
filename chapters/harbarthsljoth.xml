@@ -46,7 +46,7 @@
 		The stanza-divisions are largely arbitrary.
 	</block>
 	<block class="sepline" />
-	<block class="prose" label="introduction">
+	<block class="prose" label="p1">
 		<original>
 			Þōrr fōr ōr austrvegi ok kom at sundi einu; ǫþrum megum sundsins var ferjukarlinn meþ skipit.<br />
 			Þōrr kallaþi:
@@ -57,7 +57,7 @@
 		</translation>
 		<comment>
 			<expl>Harbarth</expl> (“Gray-Beard”): Othin.
-			On the nature of the prose notes found in the manuscripts, cf. <chapterref>Grimnismol</chapterref>, <proseref chapter="Grimnismol">introduction</proseref>.
+			On the nature of the prose notes found in the manuscripts, cf. <chapterref>Grimnismol</chapterref>, introduction.
 			<expl>Thor</expl>: the journeys of the thunder-god were almost as numerous as those of Othin; cf. <chapterref>Thrymskvitha</chapterref> and <chapterref>Hymiskvitha</chapterref>.
 			Like the Robin Hood of the British ballads, Thor was often temporarily worsted, but always managed to come out ahead in the end.
 			His “Journey in the East” is presumably the famous episode, related in full by Snorri, in the course of which he en countered the giant Skrymir, and in the house of Utgartha-Loki lifted the cat which turned out to be Mithgarthsorm.

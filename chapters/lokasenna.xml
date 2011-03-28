@@ -29,7 +29,7 @@
 		The <chapterref>Lokasenna</chapterref> is certainly much older than the <chapterref>Hymiskvitha</chapterref>, the connection between them being purely one of subject-matter; and the twelfth-century compiler evidently knew a good deal less about mythology than the author whose work he was annotating.
 	</block>
 	<block class="sepline" />
-	<block class="prose" label="introduction">
+	<block class="prose" label="p1">
 		<original>
 			Ægir, er ǫþru nafni hēt Gymir, hann hafþi būit āsum ǫl, þā er hann hafþi fengit ketil enn mikla, sem nū er sagt.<br />
 			Til þeirar veizlu kom Ōþinn ok Frigg kona hans.<br />
@@ -69,7 +69,7 @@
 		<comment>
 			<expl>Ægir</expl>: the sea-god; Snorri gives Hler as another of his names, but he is not elsewhere called Gymir, which is the name of the giant, Gerth's father, in the Skirnismol.
 			On Ægir cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">45</stanzaref>, and <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">1</stanzaref>.
-			<expl>Frigg</expl>: though Othin's wife is often mentioned, she plays only a minor part in the Eddic poems; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">34</stanzaref>, <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">1</stanzaref>, and <chapterref>Grimnismol</chapterref>, <proseref chapter="Grimnismol" prose="introduction">introductory prose</proseref>.
+			<expl>Frigg</expl>: though Othin's wife is often mentioned, she plays only a minor part in the Eddic poems; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">34</stanzaref>, <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">1</stanzaref>, and <chapterref>Grimnismol</chapterref>, <proseref chapter="Grimnismol" prose="p1">introductory prose</proseref>.
 			<expl>Thor</expl>: the compiler is apparently a trifle confused as to Thor's movements; the “Journey in the East” here mentioned cannot be the one described in the <chapterref>Hymiskvitha</chapterref>, nor yet the one narrated by Snorri, as Loki was with Thor throughout that expedition.
 			He probably means no more than that Thor was off killing giants.
 			<expl>Sif</expl>: concerning Thor's wife the chief incident is that Loki cut off her hair, and, at the command of the wrathful Thor, was compelled to have the dwarfs fashion her a new supply of hair out of gold; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">48</stanzaref>.
@@ -77,7 +77,7 @@
 			<expl>Ithun</expl>: the goddess of youth; cf. note on <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">19</stanzaref>.
 			Ithun is not mentioned by name in any other of the Eddic poems, but Snorri tells in detail how the giant Thjazi stole her and her apples, explaining the reference in <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">19</stanzaref> (q. v.).
 			<expl>Tyr</expl>: the god of battle; cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">4</stanzaref>, and (concerning his dealings with the wolf Fenrir) <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref>, note.
-			<expl>Njorth</expl>: the chief of the Wanes, and father of Freyr and Freyja; cf. (concerning the whole family) <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note, also <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note.
+			<expl>Njorth</expl>: the chief of the Wanes, and father of Freyr and Freyja; cf. (concerning the whole family) <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref> and note, also <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note.
 			<expl>Skathi</expl>: Njorth's wife was the daughter of the giant Thjazi; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">19</stanzaref>, note, and <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">17</stanzaref>.
 			<expl>Vithar</expl>: the silent god, the son of Othin who avenged his father by slaying the wolf Fenrir; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">54</stanzaref>, <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">51</stanzaref>, and <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">17</stanzaref>.
 			<expl>Loki</expl>: the mischief-making fire-god; in addition to the many references to his career in the <chapterref>Lokasenna</chapterref>, cf. particularly <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and <stanzaref chapter="Voluspo">35</stanzaref>, and notes.
@@ -293,7 +293,7 @@
 		</translation>
 		<comment>
 			In stanzas <stanzaref chapter="Lokasenna">10</stanzaref>–<stanzaref chapter="Lokasenna">31</stanzaref> the manuscript has nothing to indicate the identity of the several speakers, but these are uniformly clear enough through the context.
-			<expl>Vithar</expl>: cf. note on <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
+			<expl>Vithar</expl>: cf. note on <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref>.
 			<expl>The wolf's father</expl>: Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref> and note.
 		</comment>
 	</block>
@@ -430,7 +430,7 @@
 			Here within Ægir's hall.”
 		</translation>
 		<comment>
-			<expl>Ithun</expl>: Bragi's wife; cf. note on <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
+			<expl>Ithun</expl>: Bragi's wife; cf. note on <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref>.
 			The goddesses who, finding that their husbands are getting the worst of it, take up the cudgels with Loki, all find themselves confronted with undeniable facts in their own careers; cf. stanzas <stanzaref chapter="Lokasenna">26</stanzaref> (Frigg), <stanzaref chapter="Lokasenna">52</stanzaref> (Skathi) and <stanzaref chapter="Lokasenna">54</stanzaref> (Sif).
 			Gefjun and Freyja are silenced in similar fashion.
 			<expl>Wish-son</expl>: adopted son; Loki was the son of the giant Farbauti and the giantess Laufey, and hence was not of the race of the gods, but had been virtually adopted by Othin, who subsequently had good reason to regret it.
@@ -650,7 +650,7 @@
 			Old tales should ne'er be told.”
 		</translation>
 		<comment>
-			<expl>Frigg</expl>: Othin's wife; cf. note to <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
+			<expl>Frigg</expl>: Othin's wife; cf. note to <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref>.
 		</comment>
 	</block>
 	<block class="stanza" number="26">
@@ -742,7 +742,7 @@
 			Though herself she says it not.”
 		</translation>
 		<comment>
-			<expl>Freyja</expl>: daughter of Njorth and sister of Freyr; cf. note on <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
+			<expl>Freyja</expl>: daughter of Njorth and sister of Freyr; cf. note on <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref>.
 			Snorri, in speaking of Frigg's knowledge of the future, makes a stanza out of Lokasenna, <stanzaref chapter="Lokasenna">21</stanzaref>, 1; <stanzaref chapter="Lokasenna">47</stanzaref>, 2; <stanzaref chapter="Lokasenna">29</stanzaref>, 3–4, thus:
 			<textstanza class="translation">
 				“Mad art thou, Loki,<sep />and little of wit,<br />
@@ -839,7 +839,7 @@
 			Comes hither, though babes he has borne.”
 		</translation>
 		<comment>
-			<expl>Njorth</expl>: father of Freyr and Freyja, and given by the Wanes as a hostage, in exchange for Hönir, at the close of the first war; Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note, also <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note.
+			<expl>Njorth</expl>: father of Freyr and Freyja, and given by the Wanes as a hostage, in exchange for Hönir, at the close of the first war; Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref> and note, also <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref> and note.
 			<expl>Babes</expl>: cf. stanza <stanzaref chapter="Lokasenna">23</stanzaref> and note.
 			Bugge suggests that this clause may have been a late insertion.
 		</comment>
@@ -936,7 +936,7 @@
 		</translation>
 		<comment>
 			<expl>Tyr</expl>: the god of battle; cf. notes on <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">4</stanzaref>, and <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref>.
-			<expl>Freyr</expl>: concerning his noble qualities cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="introduction">introductory prose</proseref> and note.
+			<expl>Freyr</expl>: concerning his noble qualities cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="38">
@@ -1080,7 +1080,7 @@
 			And beat all his body to bits.”
 		</translation>
 		<comment>
-			<expl>Byggvir</expl>: one of Freyr's two servants; cf. <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref>.
+			<expl>Byggvir</expl>: one of Freyr's two servants; cf. <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref>.
 			<expl>Ingunar-Freyr</expl>: the name is not used elsewhere in the poems, or by Snorri; it may be the genitive of a woman's name, Ingun, the unknown sister of Njorth who was Freyr's mother (cf. stanza <stanzaref chapter="Lokasenna">36</stanzaref>), or a corruption of the name Ingw, used for Freyr (Fro) in old German mythology.
 		</comment>
 	</block>
@@ -1366,7 +1366,7 @@
 			Together both gods and men.”
 		</translation>
 		<comment>
-			<expl>Beyla</expl>: Freyr's servant, wife of Byggvir; cf. <proseref chapter="Lokasenna" prose="introduction">introductory prose</proseref> and note.
+			<expl>Beyla</expl>: Freyr's servant, wife of Byggvir; cf. <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="56">
