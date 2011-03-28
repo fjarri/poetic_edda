@@ -239,6 +239,7 @@ Fra Dautha Sinfjotla (planned)
 * Added Fra Dautha Sinfjotla chapter;
 * Made all prose labels uniform ('pN' for those before stanzas
   and 'conclusion' for the last ones);
+* Voluspo, 8: fixed typo (in stead -> instead)
 * Fix the problem with not working \nopagebreak between \addsec and longtable
   (see Svipdagsmol as an example; need to remove temporary workaround from there)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
