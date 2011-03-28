@@ -131,7 +131,8 @@ def printProseTable(block):
 
 	# check that original and translation have same number of lines
 	# (we are using multirow table, which is sensitive to this)
-	assert len(original) == len(translation), str(len(original)) + " " + str(len(translation))
+	assert len(original) == len(translation), \
+		block.attrib['label'] + ": " + str(len(original)) + " " + str(len(translation))
 
 	# Add main table cells
 	table_elems = []
