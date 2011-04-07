@@ -71,7 +71,7 @@ def printStanzaTable(block):
 
 	# check that original and translation have same number of lines
 	# (we are using multirow table, which is sensitive to this)
-	assert len(original) == len(translation)
+	assert len(original) == len(translation), "Stanza " + number
 
 	# Add main table cells
 	table_elems = []
