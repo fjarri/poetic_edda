@@ -99,7 +99,7 @@
 	<block class="stanza" number="1">
 		<original>
 			``Hverr byggvir he`r<sep />borgir þessar,<br />
-			hvat þjo`þkonung<sep />þegnar nefna?<br />
+			hvat þjo`þkonung<sep />þegnar nefna?''<br />
 			<stanzaprelude>Geitir kvaþ:</stanzaprelude><br />
 			``Gri`pir heitir<sep />gumna stjo`ri,<br />
 			sa`s fastri ra_e`þr<sep />foldu ok þegnum.''
@@ -1032,7 +1032,7 @@
 		</original_prelude>
 		<original>
 			``Hve` mun at ynþi<sep />eptir verþa<br />
-			ma_e`gþ meþ mo~nnum?<sep />me`r sef, Gri`pir!<br />
+			ma_e`gþ meþ mo~nnum?<sep />me`r seg, Gri`pir!<br />
 			mun Gunnari<sep />til gamans ra`þit<br />
 			si`þan verþa<sep />eþa sjo~lfum me`r?''
 		</original>
@@ -1230,7 +1230,7 @@
 		<original>
 			``Þvi` skal <conj>huggask</conj><sep />hers oddviti,<br />
 			su` mun gipt lagiþ<sep />a` grams a_e`vi:<br />
-			munat ma_e`tri lagiþ<sep />a` mold koma<br />
+			munat ma_e`tri maþr<sep />a` mold koma<br />
 			und so`lar sjo~t,<sep />an Sigurþr <conj>þykki!</conj>''
 		</original>
 		<translation_prelude>
