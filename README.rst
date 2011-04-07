@@ -251,6 +251,7 @@ Gripisspo (planned)
 ~~~~~~~~~~~~~~~~~~~
 
 * Add Gripisspo chapter
+* Fixed case in Svipdagsmol subtitle;
 * Update parse_bellows.py in order to prevent losing comments
   (handle the case of same numbers in two comments - when the first one is lost,
   and many prose comments - every one of them should be printed in xml,
