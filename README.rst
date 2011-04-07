@@ -246,14 +246,20 @@ Fra Dautha Sinfjotla (28 Mar 2011)
   Also added two missing seplines in Helgakvitha Hjorvarthssonar and Svipdagsmol
   for consistency
 
-~~~~~~~~~~~~~~~~~~~
-Gripisspo (planned)
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+Gripisspo (8 Apr 2011)
+~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Gripisspo chapter;
 * Fixed case in Svipdagsmol subtitle;
 * Bellow's book parser now watches for unmatched comments and comments with the
   same identifiers (in order not to lose them)
+
+~~~~~~~~~~~~~~~~~~~
+Reginsmol (planned)
+~~~~~~~~~~~~~~~~~~~
+
+* Add Reginsmol chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
