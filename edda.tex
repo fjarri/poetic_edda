@@ -256,14 +256,15 @@
 \newcommand{\eddalacuna}{. . .}
 
 % separator line
+% FIXME: This magic is supposed to prevent the sepline from typesetting
+% if it is at the end or in the beginning of the page;
+% although it does not work with {longtable}.
+% It will stay here for a while.
+% See http://tex.stackexchange.com/questions/6443/conditioning-behaviour-of-a-macro-on-whether-on-top-of-a-new-page for details
 \newcommand{\eddasepline}{
-	\nopagebreak
-	\vskip\baselineskip
-	\nopagebreak
-	\centerline{\rule[1ex]{.5\textwidth}{.5pt}}
-	\nopagebreak
-	\vskip\baselineskip
-	\nopagebreak
+\vskip\baselineskip%
+\cleaders\vbox to 0.4pt{\centerline{\rule[1ex]{.5\textwidth}{.5pt}}}\vskip0.4pt%
+\vskip\baselineskip%
 }
 
 % dagger (used by Gering and Hildebrand)
