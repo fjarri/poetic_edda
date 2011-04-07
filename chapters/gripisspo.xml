@@ -1,7 +1,7 @@
 <chapter label="Gripisspo">
 	<block class="eddachapter">
 		<original>
-
+			Gri`pisspo~`
 		</original>
 		<transliteration>
 			Gripisspo
@@ -77,9 +77,10 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
+			Gri`pir het sonr Eylima, bro`þir Hjo~rdi`sar; hann re`þ lo~ndum ok var allra manna vitrastr ok framvi`ss.<br />
+			Sigurþr reiþ einn saman ok kom til hallar Gri`pis.<br />
+			Sigurþr var auþkendr; <conj>hann</conj> hitti mann at ma`li u`ti fyr ho~llinni, sa` nefndiz Geitir.<br />
+			Þa` kvaddi Sigurþr hann ma`ls ok spyrr:
 		</original>
 		<translation>
 			Gripir was the name of Eylimi's son, the brother of Hjordis; he ruled over lands and was of all men the wisest and most forward-seeing.<br />
@@ -97,11 +98,11 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Hverr byggvir he`r<sep />borgir þessar,<br />
+			hvat þjo`þkonung<sep />þegnar nefna?<br />
+			<stanzaprelude>Geitir kvaþ:</stanzaprelude><br />
+			``Gri`pir heitir<sep />gumna stjo`ri,<br />
+			sa`s fastri ra_e`þr<sep />foldu ok þegnum.''
 		</original>
 		<translation>
 			``Who is it has<sep />this dwelling here,<br />
@@ -117,13 +118,13 @@
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Es horskr konungr<sep />heima i` landi,<br />
+			mun gramr viþ mik<sep />ganga at ma_e`la?<br />
+			ma`ls es þarfi<sep />maþr o`kunnigr,<br />
+			vilk fljo`tliga<sep />finna Gri`pi.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -137,14 +138,14 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			[Geitir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Þess mun glaþr konungr<sep />Geiti spyrja,<br />
+			hverr sa` maþr se`,<sep />es ma`ls kveþr Gri`pi.''<br />
+			<stanzaprelude>Sigurþr kvaþ:</stanzaprelude><br />
+			``Sigurþr heitik,<sep />borinn Sigmundi,<br />
+			en Hjo~rdi`s es<sep />hilmis mo`þir.'']
 		</original>
 		<translation_prelude>
 			Geitir spake:
@@ -163,10 +164,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` gekk Geitir<sep />Gri`pi at segja:<br />
+			``He`r's maþr u`ti<sep />o`kuþr kominn,<br />
+			hann's i`tarligr<sep />at a`liti,<br />
+			sa` vill, fylkir!<sep />fund þinn hafa.''
 		</original>
 		<translation>
 			Then Geitir went<sep />and to Gripir spake:<br />
@@ -180,10 +181,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gengr o`r ska`la<sep />skatna dro`ttinn<br />
+			ok heilsar vel<sep />hilmi komnum:<br />
+			``Þigg he`r, Sigurþr!<sep />va_eri so/`mra fyrr;<br />
+			en, Geitir! tak<sep />viþ Grana sjo~lfum.''
 		</original>
 		<translation>
 			From the hall the ruler<sep />of heroes went,<br />
@@ -199,11 +200,11 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			Ma_e`la no~`mu<sep />ok mart hjala,<br />
+			þa`s ra`þspakir<sep />rekkar fundusk.<br />
+			<stanzaprelude>Sigurþr kvaþ:</stanzaprelude><br />
+			``Seg me`r, ef veizt,<sep />mo`þurbro`þir!<br />
+			hve` mun Sigurþi<sep />snu`na a_e`vi?''
 		</original>
 		<translation>
 			Then of many<sep />things they talked,<br />
@@ -215,13 +216,13 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` munt maþr vesa<sep />ma_e`ztr und so`lu<br />
+			ok ha_e`str borinn<sep />hverjum jo~fri,<br />
+			gjo~full af golli,<sep />en glo/ggr flugar,<br />
+			i`tr a`liti<sep />ok i` orþum spakr.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -235,13 +236,13 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Seg, gegn konungr!<sep />go/rr an spyrjak,<br />
+			snotr, Sigurþi,<sep />ef sea þykkisk:<br />
+			hvat mun fyrst go/rask<sep />til farnaþar,<br />
+			es o`r garþi emk<sep />genginn þi`num?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -255,13 +256,13 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Fyrst munt, fylkir!<sep />fo~þur <conj>of</conj> hefna<br />
+			ok Eylima,<sep />alls harms reka;<br />
+			þu` munt harþa<sep />Hundings sunu<br />
+			snjalla fella,<sep />munt sigr hafa.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -278,13 +279,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Seg, i`tr konungr!<sep />a_e`ttingi, me`r<br />
+			heldr horskliga,<sep />es hugat ma_e`lum:<br />
+			se`r Sigurþar<sep />sno~r bro~gþ fyrir,<br />
+			þaus ha_e`st fara<sep />und himins skautum?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -298,13 +299,13 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Munt einn vega<sep />orm enn fra`na,<br />
+			þanns gro~`þugr liggr<sep />a` Gnitaheiþi;<br />
+			þu` munt bo~`þum<sep />at bana verþa,<br />
+			Regin ok Fa`fni;<sep />re`tt segir Gri`pir.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -322,13 +323,13 @@
 	</block>
 	<block class="stanza" number="12">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Auþr mun o/`rinn,<sep />ef eflik sva`<br />
+			vi`g meþ virþum,<sep />sem vist segir;<br />
+			leiþ at huga<sep />ok <conj>lengra</conj> seg:<br />
+			hvat mun enn vesa<sep />a_e`vi minnar?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -342,13 +343,13 @@
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` munt finna<sep />Fa`fnis bo/`li<br />
+			ok upp taka<sep />auþ enn fagra,<br />
+			golli hlo/`þa<sep />a` Grana bo`gu:<br />
+			ri`þr til Gju`ka,<sep />gramr vi`grisinn!''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -370,13 +371,13 @@
 	</block>
 	<block class="stanza" number="14">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Enn skalt hilmi<sep />i` hugaþsro/`þu,<br />
+			framlyndr jo~furr!<sep />fleira segja:<br />
+			gestr emk Gju`ka<sep />ok gengk þaþan---<br />
+			hvat mun enn vesa<sep />a_e`vi minnar?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -390,13 +391,13 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sefr a` fjalli<sep />fylkis do`ttir<br />
+			bjo~rt i` brynju<sep />ept bana Helga;<br />
+			þu` munt ho~ggva<sep />hvo~ssu sverþi,<br />
+			brynju rista<sep />meþ bana Fa`fnis.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -417,13 +418,13 @@
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Brotin es brynja,<sep />bru`þr ma_e`la tekr,<br />
+			es vaknaþi<sep />vi`f o`r svefni;<br />
+			hvat mun sno`t at heldr<sep />viþ Sigurþ ma_e`la,<br />
+			es at farnaþi<sep />fylki verþi?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -437,13 +438,13 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mun ri`kjum þe`r<sep />ru`nar kenna,<br />
+			allar es aldir<sep />eignask vildu,<br />
+			ok a` manns tungu<sep />ma_e`la hverja,<br />
+			<conj>lyf</conj> meþ la_e`kning:<sep />lif heill, konungr!''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -457,13 +458,13 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``<conj>Nu`'s</conj> þvi` lokit,<sep />numin eru fro/`þi,<br />
+			ok em braut þaþan<sep />buinn at ri`þa;<br />
+			leiþ at huga<sep />ok lengra seg:<br />
+			hvat mun meirr vesa<sep />minnar a_e`vi?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -477,13 +478,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` munt hitta<sep />Heimis bygþir<br />
+			ok glaþr vesa<sep />gestr þjo`þkonungs;---<br />
+			farit es, Sigurþr!<sep />þats fyrir vissak,<br />
+			skala fremr an sva`<sep />fregna Gri`pi.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -504,13 +505,13 @@
 	</block>
 	<block class="stanza" number="20">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Fa_e`r me`r ekka<sep />orþ þats ma_e`ltir,<br />
+			þvi`t fram <conj>of</conj> se`r<sep />fylkir! lengra;<br />
+			veizt ofmikit<sep />angr Sigurþi,<br />
+			þvi`, Gri`pir! þat<sep />go/rra segja.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -524,13 +525,13 @@
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``La` mer <conj>of</conj> o/`sku<sep />a_e`vi þinnar<br />
+			ljo`sast fyrir<sep />li`ta eptir;<br />
+			re`tt emkat ek<sep />ra`þspakr taliþr<br />
+			ne in heldr framvi`ss,<sep />farit þats vissak.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -544,13 +545,13 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mann veitk engi<sep />fyr mold ofan,<br />
+			þanns fleira se`<sep />fram an þu`, Gri`pir!<br />
+			skaltat leyna,<sep />þo`t ljo`tt sei::,<br />
+			eþa mein go/risk<sep />a` mi`num hag.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -564,13 +565,13 @@
 	</block>
 	<block class="stanza" number="23">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Esa meþ lo~stum<sep />lo~gþ a_e`vi þe`r,<br />
+			la`t, enn i`tri, þat,<sep />o~þlingr! nemask:<br />
+			þvi`t uppi mun,<sep />meþan o~ld lifir,<br />
+			nadde`ls boþi!<sep />nafn þitt vesa.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -584,13 +585,13 @@
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Verst hyggjum þvi`,<sep />verþr at skiljask<br />
+			Sigurþr viþ fylki<sep />at sva`go~ru;<br />
+			leiþ vi`sa þu`<sep />---lagt's allt fyrir---<br />
+			me`r, ma_e`rr, ef vill,<sep />mo`þurbro`þir!''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -604,13 +605,13 @@
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Nu skal Sigurþi<sep />segja go~rva,<br />
+			alls þengill mik<sep />til þess neyþir:<br />
+			---munt vist vita,<sep />at va_e`tki ly`gr---<br />
+			do/`gr eitt es þe`r<sep />dauþi a_e`tlaþr.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -618,19 +619,19 @@
 		<translation>
 			``Now to Sigurth<sep />all shall I say,<br />
 			For to this the warrior<sep />bends my will;<br />
-			Thou knowest well<sep />that I will not lie,--<br />
+			Thou knowest well<sep />that I will not lie,---<br />
 			A day there is<sep />when thy death is doomed.''
 		</translation>
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vilkak reiþi<sep />ri`ks þjo`þkonungs,<br />
+			<conj>go`þ ro~`þ</conj> at heldr<sep />Gri`pis þiggja;<br />
+			vill vist vita,<sep />þo`t <conj>viltki</conj> se`,<br />
+			hvat a` sy`nt Sigurþr<sep />se`r fyr ho~ndum.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -644,13 +645,13 @@
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Fljo`þ's at Heimis<sep />fagrt a`litum,<br />
+			hana Brynhildi<sep />bragnar nefna,<br />
+			do`ttir Buþla,<sep />en dy`rr konungr<br />
+			harþu`þigt man<sep />Heimir fo/`þir.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -667,13 +668,13 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat's mik at þvi`,<sep />þo`t ma_e`r sei::<br />
+			fo~gr a`liti<sep />fo/`dd at Heimis?<br />
+			þat skalt, Gri`pir!<sep />go~rva segja,<br />
+			þvi`t o~ll <conj>of</conj> se`r<sep />o/rlo~g fyrir.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -687,13 +688,13 @@
 	</block>
 	<block class="stanza" number="29">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ho`n firrir þik<sep />flestu gamni,<br />
+			fo~gr a`liti<sep />fo`stra Heimis;<br />
+			svefn ne` sefr<conj>at</conj><sep />ne` <conj>of</conj> sakar do/`mir,<br />
+			ga`rat manna,<sep />nema mey <conj>of</conj> se`r.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -707,13 +708,13 @@
 	</block>
 	<block class="stanza" number="30">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat mun til li`kna<sep />lagt Sigurþi?<br />
+			seg, Gri`pir! þat,<sep />ef sea þykkisk;<br />
+			munk mey naa<sep />mundi kaupa,<br />
+			þa` ena fo~gru<sep />fylkis do`ttur?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -727,13 +728,13 @@
 	</block>
 	<block class="stanza" number="31">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``It munuþ alla<sep />eiþa vinna<br />
+			fullfastliga,<sep />fa` munuþ halda;<br />
+			verit hefr Gju`ka<sep />gestr eina no~`tt---<br />
+			mantat horska<sep />Heimis fo`stru.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -747,13 +748,13 @@
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hva`rt's þa`, Gri`pir?<sep />get þess fyr me`r!<br />
+			se`r geþleysi<sep />i` grams skapi?<br />
+			skalk viþ mey þa`<sep />mo~`lum sli`ta,<br />
+			es alls hugar<sep />unna þo`ttumk?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -767,13 +768,13 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` verþr, siklingr!<sep />fyr svikum annars,<br />
+			munt Gri`mhildar<sep />gjalda ra`þa:<br />
+			mun bjo`þa þe`r<sep />bjarthaddat man,<br />
+			do`ttur si`na,<sep />dregr ve`l at gram.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -797,13 +798,13 @@
 	</block>
 	<block class="stanza" number="34">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Munk viþ þa` Gunnar<sep />go/rva hleyti<br />
+			ok Guþru`nu<sep />ganga at eiga:<br />
+			fullkva_e`ni þa`<sep />fylkir va_e`ri,<br />
+			ef meintregar<sep />me`r angraþit.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -817,13 +818,13 @@
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þik mun Gri`mhildr<sep />go~rva ve`la,<br />
+			mun Brynhildar<sep />biþja fy`sa<br />
+			Gunnari til handa<sep />Gotna drottni:<br />
+			heitr <conj>fljo`tla</conj> fo~r<sep />fylkis mo`þur.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -841,13 +842,13 @@
 	</block>
 	<block class="stanza" number="36">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mein'<conj>s</conj> fyr ho~ndum---<sep />ma`k li`ta þat---,<br />
+			ratar go~rliga<sep />ra`þ Sigurþar,<br />
+			ef ma_e`rrar skalk<sep />meyjar biþja<br />
+			o~þrum til handa,<sep /><conj>es</conj> unnak vel.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -861,13 +862,13 @@
 	</block>
 	<block class="stanza" number="37">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``E`r munuþ allir<sep />eiþa vinna<br />
+			Gunnarr ok Ho~gni,<sep />en þu`, gramr! þriþi;<br />
+			<conj>þa`</conj> litum <conj>vi`xliþ,</conj><sep />es a` leiþ eruþ,<br />
+			Gunnar ok þu`:<sep />Gri`pir ly`gr<conj>at</conj>.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -889,13 +890,13 @@
 	</block>
 	<block class="stanza" number="38">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvi` gegnir þat?<sep />hvi` skulum skipta<br />
+			litum ok lo~`tum,<sep />es a` leiþ erum?<br />
+			þar mun fla`ra_e`þi<sep />fylgja annat<br />
+			atalt meþ o~llu;<sep />enn seg, Gri`pir!''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -909,13 +910,13 @@
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Lit hefr Gunnars<sep />ok la_e`ti hans,<br />
+			ma_e`lsku þi`na<sep />ok meginhyggjur;<br />
+			munt fastna þe`r<sep />framlundaþa<br />
+			fo`stru Heimis,<sep /><conj>fa_e`r</conj> va_e`tr fyr þvi`.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -932,13 +933,13 @@
 	</block>
 	<block class="stanza" number="40">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Verst hyggjum þvi`,<sep />va`ndr munk heitinn<br />
+			Sigurþr meþ seggjum<sep />at sva`go~ru;<br />
+			vildak eigi<sep />ve`lum beita<br />
+			jo~fra <conj>bru`þi</conj><sep />es o/`zta veitk.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -952,13 +953,13 @@
 	</block>
 	<block class="stanza" number="41">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Saman munu brullaup<sep />ba_e`þi drukkin<br />
+			Sigurþar ok Gunnars<sep />i` so~lum Gju`ka;<br />
+			þa` ho~mum vi`xliþ,<sep />es heim komiþ,<br />
+			hefr <conj>hva`rr</conj> fyr þvi`<sep />hyggju si`na.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -984,13 +985,13 @@
 	</block>
 	<block class="stanza" number="42">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mun go`þa kvo~`n<sep />Gunnarr eiga<br />
+			ma_e`rr meþ mo~nnum<sep />---me`r seg, Gri`pir!---,<br />
+			þo`t hafi þrja`r na_e`tr<sep />þegns bru`þr hja` me`r<br />
+			snarlynd sofit?<sep />sli`ks erut do/`mi.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -1004,13 +1005,13 @@
 	</block>
 	<block class="stanza" number="43">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` munt hvi`la,<sep />hers oddviti<br />
+			ma_e`rr! hja` meyju,<sep />sem mo`þir se`;<br />
+			þvi` mun uppi,<sep />meþan o~ld lifir,<br />
+			þjo`þar þengill!<sep />þitt nafn vesa.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -1027,13 +1028,13 @@
 	</block>
 	<block class="stanza" number="44">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hve` mun at ynþi<sep />eptir verþa<br />
+			ma_e`gþ meþ mo~nnum?<sep />me`r sef, Gri`pir!<br />
+			mun Gunnari<sep />til gamans ra`þit<br />
+			si`þan verþa<sep />eþa sjo~lfum me`r?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -1047,13 +1048,13 @@
 	</block>
 	<block class="stanza" number="45">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Minnir þik eiþa,<sep /><conj>munt</conj> þegja þo`,<br />
+			ant Guþru`nu<sep />go`þra ra`þa;<br />
+			en Brynhildr þykkisk<sep />bru`þr vargefin,<br />
+			sno`t fiþr ve`lar<sep />se`r at hefndum.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -1071,13 +1072,13 @@
 	</block>
 	<block class="stanza" number="46">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat mun at bo`tum<sep />bru`þr su` taka,<br />
+			es ve`lar ve`r<sep />vi`fi go/rþum?<br />
+			hefr sno`t af me`r<sep />svarna eiþa,<br />
+			enga efnda,<sep />en unaþ li`tit.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -1091,13 +1092,13 @@
 	</block>
 	<block class="stanza" number="47">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mun Gunnari<sep />go~rva segja,<br />
+			at eigi vel<sep />eiþum <conj>þyrmþir,</conj><br />
+			þa`s i`tr konungr<sep />af o~llum hug,<br />
+			Gju`ka arfi,<sep />a` gram tru`þi.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -1118,13 +1119,13 @@
 	</block>
 	<block class="stanza" number="48">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``<conj>Hva`rt's</conj> þa`, Gri`pir?<sep />get þess fyr me`r!<br />
+			munk saþr vesa<sep />at so~gu þeiri,<br />
+			eþa ly`gr a` mik<sep />lofsa_e`l kona<br />
+			ok a` sjalfa sik?<sep />seg, Gri`pir! þat.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -1138,13 +1139,13 @@
 	</block>
 	<block class="stanza" number="49">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mun fyr reiþi<sep />ri`k bru`þr viþ þik<br />
+			ne af oftrega<sep />allvel skipa;<br />
+			viþr þu` go`þri<sep />grand aldrigi,<br />
+			þo` vi`f konungs<sep />ve`lum beittuþ.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -1158,13 +1159,13 @@
 	</block>
 	<block class="stanza" number="50">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mun horskr Gunnarr<sep />at hvo~tun hennar,<br />
+			Gotþormr ok Ho~gni,<sep />ganga si`þan?<br />
+			munu synir Gju`ka<sep /><conj>a` sifjungi</conj><br />
+			eggjar rjo`þa?<sep />enn seg, Gri`pir!''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -1181,13 +1182,13 @@
 	</block>
 	<block class="stanza" number="51">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þa`'s Guþru`nu<sep />grimt <conj>of</conj> hjarta,<br />
+			<conj>es</conj> bro/`þr hennar<sep />þe`r bana ra`þa,<br />
+			ok at o/ngu verþr<sep />ynþi si`þan<br />
+			vitru vi`fi:<sep />veldr þvi` Gri`mhildr.''
 		</original>
 		<translation_prelude>
 			Gripir spake:
@@ -1201,13 +1202,13 @@
 	</block>
 	<block class="stanza" number="52">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Skiljumk heilir!<sep />munat sko~pum vinna;<br />
+			nu hefr, Gri`pir! vel<sep />go~rt sem beiddak;<br />
+			fljo`tt myndir þu`<sep />fri`þri segja<br />
+			mi`na a_e`vi,<sep />ef ma_e`ttir þat.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -1224,13 +1225,13 @@
 	</block>
 	<block class="stanza" number="53">
 		<original_prelude>
-
+			Gri`pir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þvi` skal <conj>huggask</conj><sep />hers oddviti,<br />
+			su` mun gipt lagiþ<sep />a` grams a_e`vi:<br />
+			munat ma_e`tri lagiþ<sep />a` mold koma<br />
+			und so`lar sjo~t,<sep />an Sigurþr <conj>þykki!</conj>''
 		</original>
 		<translation_prelude>
 			Gripir spake:
