@@ -251,6 +251,10 @@ Gripisspo (planned)
 ~~~~~~~~~~~~~~~~~~~
 
 * Add Gripisspo chapter
+* Update parse_bellows.py in order to prevent losing comments
+  (handle the case of same numbers in two comments - when the first one is lost,
+  and many prose comments - every one of them should be printed in xml,
+  or exception thrown if some still remain)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
