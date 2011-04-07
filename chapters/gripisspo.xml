@@ -1,7 +1,7 @@
 <chapter label="Gripisspo">
 	<block class="eddachapter">
 		<original>
-			Gri`pisspo~`
+			Grīpisspǭ
 		</original>
 		<transliteration>
 			Gripisspo
@@ -14,14 +14,14 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The <cr>Gripisspo</cr> immediately follows the prose <cr>Fra Dautha Sinfjotla</cr> in the <src>Codex Regius</src>, and is contained in no other early manuscript.
+		The <chapterref>Gripisspo</chapterref> immediately follows the prose <chapterref>Fra Dautha Sinfjotla</chapterref> in the <source>Codex Regius</source>, and is contained in no other early manuscript.
 		It is unquestionably one of the latest of the poems in the Eddic collection; most critics agree in calling it the latest of all, dating it not much before the year 1200.
-		Its author (for in this instance the word may be correctly used) was not only familiar with the other poems of the Sigurth cycle, but seems to have had actual written copies of them before him; it has, indeed, been suggested, and not without plausibility, that the <cr>Gripisspo</cr> may have been written by the very man who compiled and annotated the collection of poems preserved in the <src>Codex Regius</src>.
+		Its author (for in this instance the word may be correctly used) was not only familiar with the other poems of the Sigurth cycle, but seems to have had actual written copies of them before him; it has, indeed, been suggested, and not without plausibility, that the <chapterref>Gripisspo</chapterref> may have been written by the very man who compiled and annotated the collection of poems preserved in the <source>Codex Regius</source>.
 	</block>
 	<block class="text">
 		In form the poem is a dialogue between the youthful Sigurth and his uncle, Gripir, but in substance it is a condensed outline of Sigurth's whole career as told piecemeal in the older poems.
 		The writer was sufficiently skillful in the handling of verse, but he was utterly without inspiration; his characters are devoid of vitality, and their speeches are full of conventional phrases, with little force or incisiveness.
-		At the same time, the poem is of considerable interest as giving, in brief form, a summary of the story of Sigurth as it existed in Iceland (for the <cr>Gripisspo</cr> is almost certainly Icelandic) in the latter half of the twelfth century.
+		At the same time, the poem is of considerable interest as giving, in brief form, a summary of the story of Sigurth as it existed in Iceland (for the <chapterref>Gripisspo</chapterref> is almost certainly Icelandic) in the latter half of the twelfth century.
 	</block>
 	<block class="text">
 		It is not desirable here to go in detail into the immensely complex question of the origin, growth, and spread of the story of Sigurth (Siegfried).
@@ -54,7 +54,7 @@
 		In the year 437 the Burgundians, under their king, Gundicarius (so the Latin histories call him), were practically annihilated by the Huns.
 		The story of this great battle soon became one of the foremost of Rhineland traditions; and though Attila was presumably not present in person, he was quite naturally introduced as the famous ruler of the invading hordes.
 		The dramatic story of Attila's death in the year 453 was likewise added to the tradition, and during the sixth century the chain was completed by linking together the stories of Sigurth and those of the Burgundian slaughter.
-		Gundicarius becomes the Gunther of the <src>Nibelungenlied</src> and the Gunnar of the Eddic poems; Attila becomes Etzel and Atli.
+		Gundicarius becomes the Gunther of the <source>Nibelungenlied</source> and the Gunnar of the Eddic poems; Attila becomes Etzel and Atli.
 		A still further development came through the addition of another, and totally unrelated, set of historical traditions based on the career of Ermanarich, king of the Goths, who died about the year 376.
 		Ermanarich figures largely in many stories unconnected with the Sigurth cycle, but, with the zeal of the medieval story-tellers for connecting their heroes, he was introduced as the husband of Sigurth's daughter, Svanhild, herself originally part of a separate narrative group, and as Jormunrek he plays a considerable part in a few of the Eddic poems.
 	</block>
@@ -67,20 +67,20 @@
 		The Volsungs become direct descendants of Othin; the gods are closely concerned with Fafnir's treasure, and so on.
 		Above all, the Norse story-tellers and poets changed the figure of Brynhild.
 		In making her a Valkyrie, sleeping on the flame-girt rock, they were never completely successful, as she persisted in remaining, to a considerable extent, the entirely human daughter of Buthli whom Sigurth woos for Gunnar.
-		This confusion, intensified by a mixing of names (cf. <cr>Sigrdrifumol</cr>, <ref chapter="Sigrdrifumol">introductory note</ref>), and much resembling that which existed in the parallel cases of Svava and Sigrun in the Helgi tradition, created difficulties which the Norse poets and story-tellers were never able to smooth out, and which have perplexed commentators ever since.
+		This confusion, intensified by a mixing of names (cf. <chapterref>Sigrdrifumol</chapterref>, <ref chapter="Sigrdrifumol">introductory note</ref>), and much resembling that which existed in the parallel cases of Svava and Sigrun in the Helgi tradition, created difficulties which the Norse poets and story-tellers were never able to smooth out, and which have perplexed commentators ever since.
 	</block>
 	<block class="text">
-		Those who read the Sigurth poems in the <src>Edda</src>, or the story told in the <src>Volsungasaga</src>, expecting to find a critically accurate biography of the hero, will, of course, be disappointed.
+		Those who read the Sigurth poems in the <source>Edda</source>, or the story told in the <source>Volsungasaga</source>, expecting to find a critically accurate biography of the hero, will, of course, be disappointed.
 		If, however, they will constantly keep in mind the general manner in which the legend grew, its accretions ranging all the way from the Danube to Iceland, they will find that most of the difficulties are simply the natural results of conflicting traditions.
-		Just as the Danish Helgi had to be ``reborn'' twice in order to enable three different men to kill him, so the story of Sigurth, as told in the Eddic poems, involves here and there inconsistencies explicable only when the historical development of the story is taken into consideration.
+		Just as the Danish Helgi had to be “reborn” twice in order to enable three different men to kill him, so the story of Sigurth, as told in the Eddic poems, involves here and there inconsistencies explicable only when the historical development of the story is taken into consideration.
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Gri`pir het sonr Eylima, bro`þir Hjo~rdi`sar; hann re`þ lo~ndum ok var allra manna vitrastr ok framvi`ss.<br />
-			Sigurþr reiþ einn saman ok kom til hallar Gri`pis.<br />
-			Sigurþr var auþkendr; <conj>hann</conj> hitti mann at ma`li u`ti fyr ho~llinni, sa` nefndiz Geitir.<br />
-			Þa` kvaddi Sigurþr hann ma`ls ok spyrr:
+			Grīpir het sonr Eylima, brōþir Hjǫrdīsar; hann rēþ lǫndum ok var allra manna vitrastr ok framvīss.<br />
+			Sigurþr reiþ einn saman ok kom til hallar Grīpis.<br />
+			Sigurþr var auþkendr; <conj>hann</conj> hitti mann at māli ūti fyr hǫllinni, sā nefndiz Geitir.<br />
+			Þā kvaddi Sigurþr hann māls ok spyrr:
 		</original>
 		<translation>
 			Gripir was the name of Eylimi's son, the brother of Hjordis; he ruled over lands and was of all men the wisest and most forward-seeing.<br />
@@ -91,29 +91,29 @@
 		<comment>
 			The manuscript gives the poem no title.
 			<expl>Gripir</expl>: this uncle of Sigurth's was probably a pure invention of the poet's.
-			The <src>Volsungasaga</src> mentions him, but presumably only because of his appearance here.
+			The <source>Volsungasaga</source> mentions him, but presumably only because of his appearance here.
 			On <expl>Eylimi</expl> and <expl>Hjordis</expl> see <chapterref>Fra Dautha Sinfjotla</chapterref> and note.
 			<expl>Geitir</expl>, the serving-man, is likewise apparently an invention of the poet's.
 		</comment>
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			``Hverr byggvir he`r<sep />borgir þessar,<br />
-			hvat þjo`þkonung<sep />þegnar nefna?''<br />
+			“Hverr byggvir hēr<sep />borgir þessar,<br />
+			hvat þjōþkonung<sep />þegnar nefna?”<br />
 			<stanzaprelude>Geitir kvaþ:</stanzaprelude><br />
-			``Gri`pir heitir<sep />gumna stjo`ri,<br />
-			sa`s fastri ra_e`þr<sep />foldu ok þegnum.''
+			“Grīpir heitir<sep />gumna stjōri,<br />
+			sās fastri rǣþr<sep />foldu ok þegnum.”
 		</original>
 		<translation>
-			``Who is it has<sep />this dwelling here,<br />
-			Or what do men call<sep />the people's king?''<br />
+			“Who is it has<sep />this dwelling here,<br />
+			Or what do men call<sep />the people's king?”<br />
 			<stanzaprelude>Geitir spake:</stanzaprelude><br />
-			``Gripir the name<sep />of the chieftain good<br />
-			Who holds the folk<sep />and the firm-ruled land.''
+			“Gripir the name<sep />of the chieftain good<br />
+			Who holds the folk<sep />and the firm-ruled land.”
 		</translation>
 		<comment>
 			The manuscript does not indicate the speakers anywhere in the poem.
-			Some editors have made separate stanzas out of the two-line speeches in stanzas <sr>1</sr>, <sr>3</sr> and <sr>6</sr>.
+			Some editors have made separate stanzas out of the two-line speeches in stanzas <stanzaref chapter="Gripisspo">1</stanzaref>, <stanzaref chapter="Gripisspo">3</stanzaref> and <stanzaref chapter="Gripisspo">6</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
@@ -121,19 +121,19 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Es horskr konungr<sep />heima i` landi,<br />
-			mun gramr viþ mik<sep />ganga at ma_e`la?<br />
-			ma`ls es þarfi<sep />maþr o`kunnigr,<br />
-			vilk fljo`tliga<sep />finna Gri`pi.''
+			“Es horskr konungr<sep />heima ī landi,<br />
+			mun gramr viþ mik<sep />ganga at mǣla?<br />
+			māls es þarfi<sep />maþr ōkunnigr,<br />
+			vilk fljōtliga<sep />finna Grīpi.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Is the king all-knowing<sep />now within,<br />
+			“Is the king all-knowing<sep />now within,<br />
 			Will the monarch come<sep />with me to speak?<br />
 			A man unknown<sep />his counsel needs,<br />
-			And Gripir fain<sep />I soon would find.''
+			And Gripir fain<sep />I soon would find.”
 		</translation>
 	</block>
 	<block class="stanza" number="3">
@@ -141,97 +141,97 @@
 			[Geitir kvaþ:
 		</original_prelude>
 		<original>
-			``Þess mun glaþr konungr<sep />Geiti spyrja,<br />
-			hverr sa` maþr se`,<sep />es ma`ls kveþr Gri`pi.''<br />
+			“Þess mun glaþr konungr<sep />Geiti spyrja,<br />
+			hverr sā maþr sē,<sep />es māls kveþr Grīpi.”<br />
 			<stanzaprelude>Sigurþr kvaþ:</stanzaprelude><br />
-			``Sigurþr heitik,<sep />borinn Sigmundi,<br />
-			en Hjo~rdi`s es<sep />hilmis mo`þir.'']
+			“Sigurþr heitik,<sep />borinn Sigmundi,<br />
+			en Hjǫrdīs es<sep />hilmis mōþir.”]
 		</original>
 		<translation_prelude>
 			Geitir spake:
 		</translation_prelude>
 		<translation>
-			``The ruler glad<sep />of Geitir will ask<br />
-			Who seeks with Gripir<sep />speech to have.''<br />
+			“The ruler glad<sep />of Geitir will ask<br />
+			Who seeks with Gripir<sep />speech to have.”<br />
 			<stanzaprelude>Sigurth spake:</stanzaprelude><br />
-			``Sigurth am I,<sep />and Sigmund's son,<br />
-			And Hjordis the name<sep />of the hero's mother.''
+			“Sigurth am I,<sep />and Sigmund's son,<br />
+			And Hjordis the name<sep />of the hero's mother.”
 		</translation>
 		<comment>
-			<expl>Sigurth</expl>: a few editions use in the verse the older form of this name, ``Sigvorth,'' though the manuscript here keeps to the form used in this translation.
-			The Old High German ``Sigifrid'' (``Peace-Bringer through Victory'') became the Norse ``Sigvorth'' (``Victory-Guarder''), this, in turn, becoming ``Sigurth.''
+			<expl>Sigurth</expl>: a few editions use in the verse the older form of this name, “Sigvorth,” though the manuscript here keeps to the form used in this translation.
+			The Old High German “Sigifrid” (“Peace-Bringer through Victory”) became the Norse “Sigvorth” (“Victory-Guarder”), this, in turn, becoming “Sigurth.”
 		</comment>
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			Þa` gekk Geitir<sep />Gri`pi at segja:<br />
-			``He`r's maþr u`ti<sep />o`kuþr kominn,<br />
-			hann's i`tarligr<sep />at a`liti,<br />
-			sa` vill, fylkir!<sep />fund þinn hafa.''
+			Þā gekk Geitir<sep />Grīpi at segja:<br />
+			“Hēr's maþr ūti<sep />ōkuþr kominn,<br />
+			hann's ītarligr<sep />at āliti,<br />
+			sā vill, fylkir!<sep />fund þinn hafa.”
 		</original>
 		<translation>
 			Then Geitir went<sep />and to Gripir spake:<br />
-			``A stranger comes<sep />and stands without;<br />
+			“A stranger comes<sep />and stands without;<br />
 			Lofty he is<sep />to look upon,<br />
-			And, prince, thyself<sep />he fain would see.''
+			And, prince, thyself<sep />he fain would see.”
 		</translation>
 		<comment>
-			Bugge thinks a stanza has been lost after stanza <sr>4</sr>, in which Geitir tells Gripir who Sigurth is.
+			Bugge thinks a stanza has been lost after stanza <stanzaref chapter="Gripisspo">4</stanzaref>, in which Geitir tells Gripir who Sigurth is.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			Gengr o`r ska`la<sep />skatna dro`ttinn<br />
+			Gengr ōr skāla<sep />skatna drōttinn<br />
 			ok heilsar vel<sep />hilmi komnum:<br />
-			``Þigg he`r, Sigurþr!<sep />va_eri so/`mra fyrr;<br />
-			en, Geitir! tak<sep />viþ Grana sjo~lfum.''
+			“Þigg hēr, Sigurþr!<sep />væri sø̄mra fyrr;<br />
+			en, Geitir! tak<sep />viþ Grana sjǫlfum.”
 		</original>
 		<translation>
 			From the hall the ruler<sep />of heroes went,<br />
 			And greeted well<sep />the warrior come:<br />
-			``Sigurth, welcome<sep />long since had been thine;<br />
-			Now, Geitir, shalt thou<sep />Grani take.''
+			“Sigurth, welcome<sep />long since had been thine;<br />
+			Now, Geitir, shalt thou<sep />Grani take.”
 		</translation>
 		<comment>
 			<expl>Grani</expl>: Sigurth's horse.
-			According to the <src>Volsungasaga</src> his father was Sleipnir, Othin's eight-legged horse, and Othin him self gave him to Sigurth.
+			According to the <source>Volsungasaga</source> his father was Sleipnir, Othin's eight-legged horse, and Othin him self gave him to Sigurth.
 			<ref chapter="Reginsmol">The introductory note</ref> to the <chapterref>Reginsmol</chapterref> tells a different story.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			Ma_e`la no~`mu<sep />ok mart hjala,<br />
-			þa`s ra`þspakir<sep />rekkar fundusk.<br />
+			Mǣla nǭmu<sep />ok mart hjala,<br />
+			þās rāþspakir<sep />rekkar fundusk.<br />
 			<stanzaprelude>Sigurþr kvaþ:</stanzaprelude><br />
-			``Seg me`r, ef veizt,<sep />mo`þurbro`þir!<br />
-			hve` mun Sigurþi<sep />snu`na a_e`vi?''
+			“Seg mēr, ef veizt,<sep />mōþurbrōþir!<br />
+			hvē mun Sigurþi<sep />snūna ǣvi?”
 		</original>
 		<translation>
 			Then of many<sep />things they talked,<br />
 			When thus the men<sep />so wise had met.<br />
 			<stanzaprelude>Sigurth spake:</stanzaprelude><br />
-			``To me, if thou knowest,<sep />my mother's brother,<br />
-			Say what life<sep />will Sigurth's be.''
+			“To me, if thou knowest,<sep />my mother's brother,<br />
+			Say what life<sep />will Sigurth's be.”
 		</translation>
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þu` munt maþr vesa<sep />ma_e`ztr und so`lu<br />
-			ok ha_e`str borinn<sep />hverjum jo~fri,<br />
-			gjo~full af golli,<sep />en glo/ggr flugar,<br />
-			i`tr a`liti<sep />ok i` orþum spakr.''
+			“Þū munt maþr vesa<sep />mǣztr und sōlu<br />
+			ok hǣstr borinn<sep />hverjum jǫfri,<br />
+			gjǫfull af golli,<sep />en gløggr flugar,<br />
+			ītr āliti<sep />ok ī orþum spakr.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Of men thou shalt be<sep />on earth the mightiest,<br />
+			“Of men thou shalt be<sep />on earth the mightiest,<br />
 			And higher famed<sep />than all the heroes;<br />
 			Free of gold-giving,<sep />slow to flee,<br />
-			Noble to see,<sep />and sage in speech.''
+			Noble to see,<sep />and sage in speech.”
 		</translation>
 	</block>
 	<block class="stanza" number="8">
@@ -239,39 +239,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg, gegn konungr!<sep />go/rr an spyrjak,<br />
+			“Seg, gegn konungr!<sep />gørr an spyrjak,<br />
 			snotr, Sigurþi,<sep />ef sea þykkisk:<br />
-			hvat mun fyrst go/rask<sep />til farnaþar,<br />
-			es o`r garþi emk<sep />genginn þi`num?''
+			hvat mun fyrst gørask<sep />til farnaþar,<br />
+			es ōr garþi emk<sep />genginn þīnum?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Monarch wise,<sep />now more I ask;<br />
+			“Monarch wise,<sep />now more I ask;<br />
 			To Sigurth say,<sep />if thou thinkest to see,<br />
 			What first will chance<sep />of my fortune fair,<br />
-			When hence I go<sep />from out thy home?''
+			When hence I go<sep />from out thy home?”
 		</translation>
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Fyrst munt, fylkir!<sep />fo~þur <conj>of</conj> hefna<br />
+			“Fyrst munt, fylkir!<sep />fǫþur <conj>of</conj> hefna<br />
 			ok Eylima,<sep />alls harms reka;<br />
-			þu` munt harþa<sep />Hundings sunu<br />
-			snjalla fella,<sep />munt sigr hafa.''
+			þū munt harþa<sep />Hundings sunu<br />
+			snjalla fella,<sep />munt sigr hafa.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``First shalt thou, prince,<sep />thy father avenge,<br />
+			“First shalt thou, prince,<sep />thy father avenge,<br />
 			And Eylimi,<sep />their ills requiting;<br />
 			The hardy sons<sep />of Hunding thou<br />
-			Soon shalt fell,<sep />and victory find.''
+			Soon shalt fell,<sep />and victory find.”
 		</translation>
 		<comment>
 			<expl>Thy father</expl>: on the death of Sigmund and <expl>Eylimi</expl> at the hands of <expl>Hunding's sons</expl> see <chapterref>Fra Dautha Sinfjotla</chapterref> and note.
@@ -282,39 +282,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg, i`tr konungr!<sep />a_e`ttingi, me`r<br />
-			heldr horskliga,<sep />es hugat ma_e`lum:<br />
-			se`r Sigurþar<sep />sno~r bro~gþ fyrir,<br />
-			þaus ha_e`st fara<sep />und himins skautum?''
+			“Seg, ītr konungr!<sep />ǣttingi, mēr<br />
+			heldr horskliga,<sep />es hugat mǣlum:<br />
+			sēr Sigurþar<sep />snǫr brǫgþ fyrir,<br />
+			þaus hǣst fara<sep />und himins skautum?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Noble king,<sep />my kinsman, say<br />
+			“Noble king,<sep />my kinsman, say<br />
 			Thy meaning true,<sep />for our minds we speak:<br />
 			For Sigurth mighty<sep />deeds dost see,<br />
-			The highest beneath<sep />the heavens all?''
+			The highest beneath<sep />the heavens all?”
 		</translation>
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Munt einn vega<sep />orm enn fra`na,<br />
-			þanns gro~`þugr liggr<sep />a` Gnitaheiþi;<br />
-			þu` munt bo~`þum<sep />at bana verþa,<br />
-			Regin ok Fa`fni;<sep />re`tt segir Gri`pir.''
+			“Munt einn vega<sep />orm enn frāna,<br />
+			þanns grǭþugr liggr<sep />ā Gnitaheiþi;<br />
+			þū munt bǭþum<sep />at bana verþa,<br />
+			Regin ok Fāfni;<sep />rētt segir Grīpir.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``The fiery dragon<sep />alone thou shalt fight<br />
+			“The fiery dragon<sep />alone thou shalt fight<br />
 			That greedy lies<sep />at Gnitaheith;<br />
 			Thou shalt be of Regin<sep />and Fafnir both<br />
-			The slayer; truth<sep />doth Gripir tell thee.''
+			The slayer; truth<sep />doth Gripir tell thee.”
 		</translation>
 		<comment>
 			<expl>The dragon</expl>: Fafnir, brother of the dwarf Regin, who turns himself into a dragon to guard Andvari's hoard; cf. <chapterref>Reginsmol</chapterref> and <chapterref>Fafnismol</chapterref>.
@@ -326,42 +326,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Auþr mun o/`rinn,<sep />ef eflik sva`<br />
-			vi`g meþ virþum,<sep />sem vist segir;<br />
+			“Auþr mun ø̄rinn,<sep />ef eflik svā<br />
+			vīg meþ virþum,<sep />sem vist segir;<br />
 			leiþ at huga<sep />ok <conj>lengra</conj> seg:<br />
-			hvat mun enn vesa<sep />a_e`vi minnar?''
+			hvat mun enn vesa<sep />ǣvi minnar?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Rich shall I be<sep />if battles I win<br />
+			“Rich shall I be<sep />if battles I win<br />
 			With such as these,<sep />as now thou sayest;<br />
 			Forward look,<sep />and further tell:<br />
-			What the life<sep />that I shall lead?''
+			What the life<sep />that I shall lead?”
 		</translation>
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þu` munt finna<sep />Fa`fnis bo/`li<br />
+			“Þū munt finna<sep />Fāfnis bø̄li<br />
 			ok upp taka<sep />auþ enn fagra,<br />
-			golli hlo/`þa<sep />a` Grana bo`gu:<br />
-			ri`þr til Gju`ka,<sep />gramr vi`grisinn!''
+			golli hlø̄þa<sep />ā Grana bōgu:<br />
+			rīþr til Gjūka,<sep />gramr vīgrisinn!”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Fafnir's den<sep />thou then shalt find,<br />
+			“Fafnir's den<sep />thou then shalt find,<br />
 			And all his treasure<sep />fair shalt take;<br />
 			Gold shalt heap<sep />on Grani's back,<br />
-			And, proved in fight,<sep />to Gjuki fare.''
+			And, proved in fight,<sep />to Gjuki fare.”
 		</translation>
 		<comment>
-			<expl>Gjuki</expl>: the Norse form of the name Gibeche (``The Giver'').
+			<expl>Gjuki</expl>: the Norse form of the name Gibeche (“The Giver”).
 			Gjuki is the father of Gunnar, Hogni, and Guthrun, the family which reflects most directly the Burgundian part of the tradition (cf. <ref chapter="Gripisspo">Introductory Note</ref>).
 			The statement that Sigurth is to go direct from the slaying of Fafnir to Gjuki's hall involves one of the confusions resulting from the dual personality of Brynhild.
 			In the older (and the original South Germanic) story, Sigurth becomes a guest of the Gjukungs before he has ever heard of Brynhild, and first sees her when, having changed forms with Gunnar, he goes to woo her for the latter.
@@ -374,42 +374,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Enn skalt hilmi<sep />i` hugaþsro/`þu,<br />
-			framlyndr jo~furr!<sep />fleira segja:<br />
-			gestr emk Gju`ka<sep />ok gengk þaþan---<br />
-			hvat mun enn vesa<sep />a_e`vi minnar?''
+			“Enn skalt hilmi<sep />ī hugaþsrø̄þu,<br />
+			framlyndr jǫfurr!<sep />fleira segja:<br />
+			gestr emk Gjūka<sep />ok gengk þaþan—<br />
+			hvat mun enn vesa<sep />ǣvi minnar?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``To the warrior now<sep />in words. so wise,<br />
+			“To the warrior now<sep />in words. so wise,<br />
 			Monarch noble,<sep />more shalt tell;<br />
 			I am Gjuki's guest,<sep />and thence I go:<br />
-			What the life<sep />that I shall lead?''
+			What the life<sep />that I shall lead?”
 		</translation>
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Sefr a` fjalli<sep />fylkis do`ttir<br />
-			bjo~rt i` brynju<sep />ept bana Helga;<br />
-			þu` munt ho~ggva<sep />hvo~ssu sverþi,<br />
-			brynju rista<sep />meþ bana Fa`fnis.''
+			“Sefr ā fjalli<sep />fylkis dōttir<br />
+			bjǫrt ī brynju<sep />ept bana Helga;<br />
+			þū munt hǫggva<sep />hvǫssu sverþi,<br />
+			brynju rista<sep />meþ bana Fāfnis.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``On the rocks there sleeps<sep />the ruler's daughter,<br />
+			“On the rocks there sleeps<sep />the ruler's daughter,<br />
 			Fair in armor,<sep />since Helgi fell;<br />
 			Thou shalt cut<sep />with keen-edged sword,<br />
-			And cleave the byrnie<sep />with Fafnir's killer.''
+			And cleave the byrnie<sep />with Fafnir's killer.”
 		</translation>
 		<comment>
-			Basing his story on the <chapterref>Sigrdrifumol</chapterref>, the poet here tells of Sigurth's finding of the Valkyrie, whom he does not identify with Brynhild, daughter of Buthli (stanza <sr>27</sr>), at all.
+			Basing his story on the <chapterref>Sigrdrifumol</chapterref>, the poet here tells of Sigurth's finding of the Valkyrie, whom he does not identify with Brynhild, daughter of Buthli (stanza <stanzaref chapter="Gripisspo">27</stanzaref>), at all.
 			His error in this respect is not surprising, in view of Brynhild's dual identity (cf. <ref chapter="Gripisspo">Introductory Note</ref>, and <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">44</stanzaref> and note).
 			<expl>Helgi</expl>: according to <chapterref>Helreith Brynhildar</chapterref> (stanza <stanzaref chapter="Helreith Brynhildar">8</stanzaref>), with which the author of the <chapterref>Gripisspo</chapterref> was almost certainly familiar, the hero for whose death Brynhild was punished was named Hjalmgunnar.
 			Is Helgi here identical with Hjalmgunnar, or did the author make a mistake? Finnur Jonsson thinks the author regarded Sigurth's Valkyrie as a fourth incarnation of Svava Sigrun-Kara, and wrote Helgi's name in deliberately.
@@ -421,39 +421,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Brotin es brynja,<sep />bru`þr ma_e`la tekr,<br />
-			es vaknaþi<sep />vi`f o`r svefni;<br />
-			hvat mun sno`t at heldr<sep />viþ Sigurþ ma_e`la,<br />
-			es at farnaþi<sep />fylki verþi?''
+			“Brotin es brynja,<sep />brūþr mǣla tekr,<br />
+			es vaknaþi<sep />vīf ōr svefni;<br />
+			hvat mun snōt at heldr<sep />viþ Sigurþ mǣla,<br />
+			es at farnaþi<sep />fylki verþi?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``The mail-coat is broken,<sep />the maiden speaks,<br />
+			“The mail-coat is broken,<sep />the maiden speaks,<br />
 			The woman who<sep />from sleep has wakened;<br />
 			What says the maid<sep />to Sigurth then<br />
-			That happy fate<sep />to the hero brings?''
+			That happy fate<sep />to the hero brings?”
 		</translation>
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Mun ri`kjum þe`r<sep />ru`nar kenna,<br />
+			“Mun rīkjum þēr<sep />rūnar kenna,<br />
 			allar es aldir<sep />eignask vildu,<br />
-			ok a` manns tungu<sep />ma_e`la hverja,<br />
-			<conj>lyf</conj> meþ la_e`kning:<sep />lif heill, konungr!''
+			ok ā manns tungu<sep />mǣla hverja,<br />
+			<conj>lyf</conj> meþ lǣkning:<sep />lif heill, konungr!”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Runes to the warrior<sep />will she tell,<br />
+			“Runes to the warrior<sep />will she tell,<br />
 			All that men<sep />may ever seek,<br />
 			And teach thee to speak<sep />in all men's tongues,<br />
-			And life with health;<sep />thou'rt happy, king!''
+			And life with health;<sep />thou'rt happy, king!”
 		</translation>
 	</block>
 	<block class="stanza" number="18">
@@ -461,45 +461,45 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``<conj>Nu`'s</conj> þvi` lokit,<sep />numin eru fro/`þi,<br />
-			ok em braut þaþan<sep />buinn at ri`þa;<br />
+			“<conj>Nū's</conj> þvī lokit,<sep />numin eru frø̄þi,<br />
+			ok em braut þaþan<sep />buinn at rīþa;<br />
 			leiþ at huga<sep />ok lengra seg:<br />
-			hvat mun meirr vesa<sep />minnar a_e`vi?''
+			hvat mun meirr vesa<sep />minnar ǣvi?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Now is it ended,<sep />the knowledge is won,<br />
+			“Now is it ended,<sep />the knowledge is won,<br />
 			And ready I am<sep />forth thence to ride;<br />
 			Forward look<sep />and further tell:<br />
-			What the life<sep />that I shall lead?''
+			What the life<sep />that I shall lead?”
 		</translation>
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þu` munt hitta<sep />Heimis bygþir<br />
-			ok glaþr vesa<sep />gestr þjo`þkonungs;---<br />
+			“Þū munt hitta<sep />Heimis bygþir<br />
+			ok glaþr vesa<sep />gestr þjōþkonungs;—<br />
 			farit es, Sigurþr!<sep />þats fyrir vissak,<br />
-			skala fremr an sva`<sep />fregna Gri`pi.''
+			skala fremr an svā<sep />fregna Grīpi.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Then to Heimir's<sep />home thou comest,<br />
+			“Then to Heimir's<sep />home thou comest,<br />
 			And glad shalt be<sep />the guest of the king;<br />
 			Ended, Sigurth,<sep />is all I see,<br />
-			No further aught<sep />of Gripir ask.''
+			No further aught<sep />of Gripir ask.”
 		</translation>
 		<comment>
-			<expl>Heimir</expl>: the <src>Volsungasaga</src> says that Heimir was the husband of Brynhild's sister, Bekkhild.
+			<expl>Heimir</expl>: the <source>Volsungasaga</source> says that Heimir was the husband of Brynhild's sister, Bekkhild.
 			Brynhild's family connections involve a queer mixture of northern and southern legend.
-			Heimir and Bekkhild are purely of northern invention; neither of them is mentioned in any of the earlier poems, though Brynhild speaks of her ``foster-father'' in <chapterref>Helreith Brynhildar</chapterref>.
-			In the older Norse poems Brynhild is a sister of Atli (Attila), a relationship wholly foreign to the southern stories, and the father of this strangely assorted pair is Buthli, who in the <src>Nibelungenlied</src> is apparently Etzel's grandfather.
+			Heimir and Bekkhild are purely of northern invention; neither of them is mentioned in any of the earlier poems, though Brynhild speaks of her “foster-father” in <chapterref>Helreith Brynhildar</chapterref>.
+			In the older Norse poems Brynhild is a sister of Atli (Attila), a relationship wholly foreign to the southern stories, and the father of this strangely assorted pair is Buthli, who in the <source>Nibelungenlied</source> is apparently Etzel's grandfather.
 			Add to this her role of Valkyrie, and it is small wonder that the annotator himself was puzzled.
 		</comment>
 	</block>
@@ -508,39 +508,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Fa_e`r me`r ekka<sep />orþ þats ma_e`ltir,<br />
-			þvi`t fram <conj>of</conj> se`r<sep />fylkir! lengra;<br />
+			“Fǣr mēr ekka<sep />orþ þats mǣltir,<br />
+			þvīt fram <conj>of</conj> sēr<sep />fylkir! lengra;<br />
 			veizt ofmikit<sep />angr Sigurþi,<br />
-			þvi`, Gri`pir! þat<sep />go/rra segja.''
+			þvī, Grīpir! þat<sep />gørra segja.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Sorrow brings me<sep />the word thou sayest,<br />
+			“Sorrow brings me<sep />the word thou sayest,<br />
 			For, monarch, forward<sep />further thou seest;<br />
 			Sad the grief<sep />for Sigurth thou knowest,<br />
-			Yet nought to me, Gripir,<sep />known wilt make.''
+			Yet nought to me, Gripir,<sep />known wilt make.”
 		</translation>
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``La` mer <conj>of</conj> o/`sku<sep />a_e`vi þinnar<br />
-			ljo`sast fyrir<sep />li`ta eptir;<br />
-			re`tt emkat ek<sep />ra`þspakr taliþr<br />
-			ne in heldr framvi`ss,<sep />farit þats vissak.''
+			“Lā mer <conj>of</conj> ø̄sku<sep />ǣvi þinnar<br />
+			ljōsast fyrir<sep />līta eptir;<br />
+			rētt emkat ek<sep />rāþspakr taliþr<br />
+			ne in heldr framvīss,<sep />farit þats vissak.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Before me lay<sep />in clearest light<br />
+			“Before me lay<sep />in clearest light<br />
 			All of thy youth<sep />for mine eyes to see;<br />
 			Not rightly can I<sep />wise be called,<br />
-			Nor forward-seeing;<sep />my wisdom is fled.''
+			Nor forward-seeing;<sep />my wisdom is fled.”
 		</translation>
 	</block>
 	<block class="stanza" number="22">
@@ -548,39 +548,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Mann veitk engi<sep />fyr mold ofan,<br />
-			þanns fleira se`<sep />fram an þu`, Gri`pir!<br />
-			skaltat leyna,<sep />þo`t ljo`tt sei::,<br />
-			eþa mein go/risk<sep />a` mi`num hag.''
+			“Mann veitk engi<sep />fyr mold ofan,<br />
+			þanns fleira sē<sep />fram an þū, Grīpir!<br />
+			skaltat leyna,<sep />þōt ljōtt seï,<br />
+			eþa mein gørisk<sep />ā mīnum hag.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``No man, Gripir,<sep />on earth I know<br />
+			“No man, Gripir,<sep />on earth I know<br />
 			Who sees the future<sep />as far as thou;<br />
 			Hide thou nought,<sep />though hard it be,<br />
-			And base the deeds<sep />that I shall do.''<br />
+			And base the deeds<sep />that I shall do.”<br />
 		</translation>
 	</block>
 	<block class="stanza" number="23">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Esa meþ lo~stum<sep />lo~gþ a_e`vi þe`r,<br />
-			la`t, enn i`tri, þat,<sep />o~þlingr! nemask:<br />
-			þvi`t uppi mun,<sep />meþan o~ld lifir,<br />
-			nadde`ls boþi!<sep />nafn þitt vesa.''
+			“Esa meþ lǫstum<sep />lǫgþ ǣvi þēr,<br />
+			lāt, enn ītri, þat,<sep />ǫþlingr! nemask:<br />
+			þvīt uppi mun,<sep />meþan ǫld lifir,<br />
+			naddēls boþi!<sep />nafn þitt vesa.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``With baseness never<sep />thy life is burdened,<br />
+			“With baseness never<sep />thy life is burdened,<br />
 			Hero noble,<sep />hold that sure;<br />
 			Lofty as long<sep />as the world shall live,<br />
-			Battle-bringer,<sep />thy name shall be.''
+			Battle-bringer,<sep />thy name shall be.”
 		</translation>
 	</block>
 	<block class="stanza" number="24">
@@ -588,39 +588,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Verst hyggjum þvi`,<sep />verþr at skiljask<br />
-			Sigurþr viþ fylki<sep />at sva`go~ru;<br />
-			leiþ vi`sa þu`<sep />---lagt's allt fyrir---<br />
-			me`r, ma_e`rr, ef vill,<sep />mo`þurbro`þir!''
+			“Verst hyggjum þvī,<sep />verþr at skiljask<br />
+			Sigurþr viþ fylki<sep />at svāgǫru;<br />
+			leiþ vīsa þū<sep />—lagt's allt fyrir—<br />
+			mēr, mǣrr, ef vill,<sep />mōþurbrōþir!”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Nought could seem worse,<sep />but now must part<br />
+			“Nought could seem worse,<sep />but now must part<br />
 			The prince and Sigurth,<sep />since so it is,<br />
-			My road I ask,---<sep />the future lies open,---<br />
-			Mighty one, speak,<sep />my mother's brother.''
+			My road I ask,—<sep />the future lies open,—<br />
+			Mighty one, speak,<sep />my mother's brother.”
 		</translation>
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Nu skal Sigurþi<sep />segja go~rva,<br />
+			“Nu skal Sigurþi<sep />segja gǫrva,<br />
 			alls þengill mik<sep />til þess neyþir:<br />
-			---munt vist vita,<sep />at va_e`tki ly`gr---<br />
-			do/`gr eitt es þe`r<sep />dauþi a_e`tlaþr.''
+			—munt vist vita,<sep />at vǣtki lȳgr—<br />
+			dø̄gr eitt es þēr<sep />dauþi ǣtlaþr.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Now to Sigurth<sep />all shall I say,<br />
+			“Now to Sigurth<sep />all shall I say,<br />
 			For to this the warrior<sep />bends my will;<br />
-			Thou knowest well<sep />that I will not lie,---<br />
-			A day there is<sep />when thy death is doomed.''
+			Thou knowest well<sep />that I will not lie,—<br />
+			A day there is<sep />when thy death is doomed.”
 		</translation>
 	</block>
 	<block class="stanza" number="26">
@@ -628,42 +628,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Vilkak reiþi<sep />ri`ks þjo`þkonungs,<br />
-			<conj>go`þ ro~`þ</conj> at heldr<sep />Gri`pis þiggja;<br />
-			vill vist vita,<sep />þo`t <conj>viltki</conj> se`,<br />
-			hvat a` sy`nt Sigurþr<sep />se`r fyr ho~ndum.''
+			“Vilkak reiþi<sep />rīks þjōþkonungs,<br />
+			<conj>gōþ rǭþ</conj> at heldr<sep />Grīpis þiggja;<br />
+			vill vist vita,<sep />þōt <conj>viltki</conj> sē,<br />
+			hvat ā sȳnt Sigurþr<sep />sēr fyr hǫndum.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``No scorn I know<sep />for the noble king,<br />
+			“No scorn I know<sep />for the noble king,<br />
 			But counsel good<sep />from Gripir I seek;<br />
 			Well will I know,<sep />though evil awaits,<br />
-			What Sigurth may<sep />before him see.''
+			What Sigurth may<sep />before him see.”
 		</translation>
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Fljo`þ's at Heimis<sep />fagrt a`litum,<br />
+			“Fljōþ's at Heimis<sep />fagrt ālitum,<br />
 			hana Brynhildi<sep />bragnar nefna,<br />
-			do`ttir Buþla,<sep />en dy`rr konungr<br />
-			harþu`þigt man<sep />Heimir fo/`þir.''
+			dōttir Buþla,<sep />en dȳrr konungr<br />
+			harþūþigt man<sep />Heimir fø̄þir.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``A maid in Heimir's<sep />home there dwells,<br />
+			“A maid in Heimir's<sep />home there dwells,<br />
 			Brynhild her name<sep />to men is known,<br />
 			Daughter of Buthli,<sep />the doughty king,<br />
-			And Heimir fosters<sep />the fearless maid.''
+			And Heimir fosters<sep />the fearless maid.”
 		</translation>
 		<comment>
-			<expl>Brynhild</expl> (``Armed Warrior''): on her and her family see <ref chapter="Gripisspo">Introductory Note</ref> and note to stanza <sr>19</sr>.
+			<expl>Brynhild</expl> (“Armed Warrior”): on her and her family see <ref chapter="Gripisspo">Introductory Note</ref> and note to stanza <stanzaref chapter="Gripisspo">19</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="28">
@@ -671,39 +671,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hvat's mik at þvi`,<sep />þo`t ma_e`r sei::<br />
-			fo~gr a`liti<sep />fo/`dd at Heimis?<br />
-			þat skalt, Gri`pir!<sep />go~rva segja,<br />
-			þvi`t o~ll <conj>of</conj> se`r<sep />o/rlo~g fyrir.''
+			“Hvat's mik at þvī,<sep />þōt mǣr seï<br />
+			fǫgr āliti<sep />fø̄dd at Heimis?<br />
+			þat skalt, Grīpir!<sep />gǫrva segja,<br />
+			þvīt ǫll <conj>of</conj> sēr<sep />ørlǫg fyrir.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``What is it to me,<sep />though the maiden be<br />
+			“What is it to me,<sep />though the maiden be<br />
 			So fair, and of Heimir<sep />the fosterling is?<br />
 			Gripir, truth<sep />to me shalt tell,<br />
-			For all of fate<sep />before me thou seest.''
+			For all of fate<sep />before me thou seest.”
 		</translation>
 	</block>
 	<block class="stanza" number="29">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Ho`n firrir þik<sep />flestu gamni,<br />
-			fo~gr a`liti<sep />fo`stra Heimis;<br />
-			svefn ne` sefr<conj>at</conj><sep />ne` <conj>of</conj> sakar do/`mir,<br />
-			ga`rat manna,<sep />nema mey <conj>of</conj> se`r.''
+			“Hōn firrir þik<sep />flestu gamni,<br />
+			fǫgr āliti<sep />fōstra Heimis;<br />
+			svefn nē sefr<conj>at</conj><sep />nē <conj>of</conj> sakar dø̄mir,<br />
+			gārat manna,<sep />nema mey <conj>of</conj> sēr.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Of many a joy<sep />the maiden robs thee,<br />
+			“Of many a joy<sep />the maiden robs thee,<br />
 			Fair to see,<sep />whom Heimir fosters;<br />
 			Sleep thou shalt find not,<sep />feuds thou shalt end not,<br />
-			Nor seek out men,<sep />if the maid thou seest not.''
+			Nor seek out men,<sep />if the maid thou seest not.”
 		</translation>
 	</block>
 	<block class="stanza" number="30">
@@ -711,39 +711,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hvat mun til li`kna<sep />lagt Sigurþi?<br />
-			seg, Gri`pir! þat,<sep />ef sea þykkisk;<br />
+			“Hvat mun til līkna<sep />lagt Sigurþi?<br />
+			seg, Grīpir! þat,<sep />ef sea þykkisk;<br />
 			munk mey naa<sep />mundi kaupa,<br />
-			þa` ena fo~gru<sep />fylkis do`ttur?''
+			þā ena fǫgru<sep />fylkis dōttur?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``What may be had<sep />for Sigurth's healing?<br />
+			“What may be had<sep />for Sigurth's healing?<br />
 			Say now, Gripir,<sep />if see thou canst;<br />
 			May I buy the maid<sep />with the marriage-price,<br />
-			The daughter fair<sep />of the chieftain famed?''
+			The daughter fair<sep />of the chieftain famed?”
 		</translation>
 	</block>
 	<block class="stanza" number="31">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``It munuþ alla<sep />eiþa vinna<br />
-			fullfastliga,<sep />fa` munuþ halda;<br />
-			verit hefr Gju`ka<sep />gestr eina no~`tt---<br />
-			mantat horska<sep />Heimis fo`stru.''
+			“It munuþ alla<sep />eiþa vinna<br />
+			fullfastliga,<sep />fā munuþ halda;<br />
+			verit hefr Gjūka<sep />gestr eina nǭtt—<br />
+			mantat horska<sep />Heimis fōstru.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Ye twain shall all<sep />the oaths then swear<br />
+			“Ye twain shall all<sep />the oaths then swear<br />
 			That bind full fast;<sep />few shall ye keep;<br />
 			One night when Gjuki's<sep />guest thou hast been,<br />
-			Will Heimir's fosterling<sep />fade from thy mind.''
+			Will Heimir's fosterling<sep />fade from thy mind.”
 		</translation>
 	</block>
 	<block class="stanza" number="32">
@@ -751,39 +751,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hva`rt's þa`, Gri`pir?<sep />get þess fyr me`r!<br />
-			se`r geþleysi<sep />i` grams skapi?<br />
-			skalk viþ mey þa`<sep />mo~`lum sli`ta,<br />
-			es alls hugar<sep />unna þo`ttumk?''
+			“Hvārt's þā, Grīpir?<sep />get þess fyr mēr!<br />
+			sēr geþleysi<sep />ī grams skapi?<br />
+			skalk viþ mey þā<sep />mǭlum slīta,<br />
+			es alls hugar<sep />unna þōttumk?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``What sayst thou, Gripir?<sep />give me the truth,<br />
+			“What sayst thou, Gripir?<sep />give me the truth,<br />
 			Does fickleness hide<sep />in the hero's heart?<br />
 			Can it be that troth<sep />I break with the maid,<br />
-			With her I believed<sep />I loved so dear?''
+			With her I believed<sep />I loved so dear?”
 		</translation>
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þu` verþr, siklingr!<sep />fyr svikum annars,<br />
-			munt Gri`mhildar<sep />gjalda ra`þa:<br />
-			mun bjo`þa þe`r<sep />bjarthaddat man,<br />
-			do`ttur si`na,<sep />dregr ve`l at gram.''
+			“Þū verþr, siklingr!<sep />fyr svikum annars,<br />
+			munt Grīmhildar<sep />gjalda rāþa:<br />
+			mun bjōþa þēr<sep />bjarthaddat man,<br />
+			dōttur sīna,<sep />dregr vēl at gram.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Tricked by another,<sep />prince, thou art,<br />
+			“Tricked by another,<sep />prince, thou art,<br />
 			And the price of Grimhild's<sep />wiles thou must pay;<br />
 			Fain of thee<sep />for the fair-haired maid,<br />
-			Her daughter, she is,<sep />and she drags thee down.''
+			Her daughter, she is,<sep />and she drags thee down.”
 		</translation>
 		<comment>
 			Most editions have no comma after line 3, and change the meaning to
@@ -792,8 +792,8 @@
 				For her daughter is.
 			</textstanza>
 			<expl>Grimhild</expl>: in the northern form of the story Kriemhild, Gunther's sister and Siegfried's wife, becomes Grimhild, mother of Gunnar and Guthrun, the latter taking Kriemhild's place.
-			The <src>Volsungasaga</src> tells how Grimhild gave Sigurth a magic draught which made him utterly forget Brynhild.
-			Edzardi thinks two stanzas have been lost after stanza <sr>33</sr>, their remains appearing in stanza <sr>37</sr>.
+			The <source>Volsungasaga</source> tells how Grimhild gave Sigurth a magic draught which made him utterly forget Brynhild.
+			Edzardi thinks two stanzas have been lost after stanza <stanzaref chapter="Gripisspo">33</stanzaref>, their remains appearing in stanza <stanzaref chapter="Gripisspo">37</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="34">
@@ -801,43 +801,43 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Munk viþ þa` Gunnar<sep />go/rva hleyti<br />
-			ok Guþru`nu<sep />ganga at eiga:<br />
-			fullkva_e`ni þa`<sep />fylkir va_e`ri,<br />
-			ef meintregar<sep />me`r angraþit.''
+			“Munk viþ þā Gunnar<sep />gørva hleyti<br />
+			ok Guþrūnu<sep />ganga at eiga:<br />
+			fullkvǣni þā<sep />fylkir vǣri,<br />
+			ef meintregar<sep />mēr angraþit.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Might I with Gunnar<sep />kinship make,<br />
+			“Might I with Gunnar<sep />kinship make,<br />
 			And Guthrun win<sep />to be my wife,<br />
 			Well the hero<sep />wedded would be,<br />
-			If my treacherous deed<sep />would trouble me not.''
+			If my treacherous deed<sep />would trouble me not.”
 		</translation>
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þik mun Gri`mhildr<sep />go~rva ve`la,<br />
-			mun Brynhildar<sep />biþja fy`sa<br />
+			“Þik mun Grīmhildr<sep />gǫrva vēla,<br />
+			mun Brynhildar<sep />biþja fȳsa<br />
 			Gunnari til handa<sep />Gotna drottni:<br />
-			heitr <conj>fljo`tla</conj> fo~r<sep />fylkis mo`þur.''
+			heitr <conj>fljōtla</conj> fǫr<sep />fylkis mōþur.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Wholly Grimhild<sep />thy heart deceives,<br />
+			“Wholly Grimhild<sep />thy heart deceives,<br />
 			She will bid thee go<sep />and Brynhild woo<br />
 			For Gunnar's wife,<sep />the lord of the Goths;<br />
-			And the prince's mother<sep />thy promise shall win.''
+			And the prince's mother<sep />thy promise shall win.”
 		</translation>
 		<comment>
-			In the <src>Volsungasaga</src> Grimhild merely advises Gunnar to seek Brynhild for his wife, and to have Sigurth ride with him.
-			<expl>Goths</expl>: the historical Gunnar (Gundicarius, cf. <ref chapter="Gripisspo">Introductory Note</ref>) was not a Goth, but a Burgundian, but the word ``Goth'' was applied in the North without much discrimination to the southern Germanic peoples.
+			In the <source>Volsungasaga</source> Grimhild merely advises Gunnar to seek Brynhild for his wife, and to have Sigurth ride with him.
+			<expl>Goths</expl>: the historical Gunnar (Gundicarius, cf. <ref chapter="Gripisspo">Introductory Note</ref>) was not a Goth, but a Burgundian, but the word “Goth” was applied in the North without much discrimination to the southern Germanic peoples.
 		</comment>
 	</block>
 	<block class="stanza" number="36">
@@ -845,44 +845,44 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Mein'<conj>s</conj> fyr ho~ndum---<sep />ma`k li`ta þat---,<br />
-			ratar go~rliga<sep />ra`þ Sigurþar,<br />
-			ef ma_e`rrar skalk<sep />meyjar biþja<br />
-			o~þrum til handa,<sep /><conj>es</conj> unnak vel.''
+			“Mein'<conj>s</conj> fyr hǫndum—<sep />māk līta þat—,<br />
+			ratar gǫrliga<sep />rāþ Sigurþar,<br />
+			ef mǣrrar skalk<sep />meyjar biþja<br />
+			ǫþrum til handa,<sep /><conj>es</conj> unnak vel.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Evil waits me,<sep />well I see it,<br />
+			“Evil waits me,<sep />well I see it,<br />
 			And gone is Sigurth's<sep />wisdom good,<br />
 			If I shall woo<sep />for another to win<br />
-			The maiden fair<sep />that so fondly I loved.''
+			The maiden fair<sep />that so fondly I loved.”
 		</translation>
 	</block>
 	<block class="stanza" number="37">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``E`r munuþ allir<sep />eiþa vinna<br />
-			Gunnarr ok Ho~gni,<sep />en þu`, gramr! þriþi;<br />
-			<conj>þa`</conj> litum <conj>vi`xliþ,</conj><sep />es a` leiþ eruþ,<br />
-			Gunnar ok þu`:<sep />Gri`pir ly`gr<conj>at</conj>.''
+			“Ēr munuþ allir<sep />eiþa vinna<br />
+			Gunnarr ok Hǫgni,<sep />en þū, gramr! þriþi;<br />
+			<conj>þā</conj> litum <conj>vīxliþ,</conj><sep />es ā leiþ eruþ,<br />
+			Gunnar ok þū:<sep />Grīpir lȳgr<conj>at</conj>.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Ye three shall<sep />all the oaths then take,<br />
+			“Ye three shall<sep />all the oaths then take,<br />
 			Gunnar and Hogni,<sep />and, hero, thou;<br />
 			Your forms ye shall change,<sep />as forth ye tare,<br />
-			Gunnar and thou;<sep />for Gripir lies not.''
+			Gunnar and thou;<sep />for Gripir lies not.”
 		</translation>
 		<comment>
-			In the <src>Nibelungenlied</src> Siegfried merely makes himself invisible in order to lend Gunther his strength for the feats which must be performed in order to win the redoubtable bride.
-			In the northern version Sigurth and Gunnar change forms, ``as Grimhild had taught them how to do.''
-			The <src>Volsungasaga</src> tells how Sigurth and Gunnar came to Heimir, who told them that to win Brynhild one must ride through the ring of fire which surrounded her hall (cf. the hall of Mengloth in <chapterref>Svipdagsmol</chapterref>).
+			In the <source>Nibelungenlied</source> Siegfried merely makes himself invisible in order to lend Gunther his strength for the feats which must be performed in order to win the redoubtable bride.
+			In the northern version Sigurth and Gunnar change forms, “as Grimhild had taught them how to do.”
+			The <source>Volsungasaga</source> tells how Sigurth and Gunnar came to Heimir, who told them that to win Brynhild one must ride through the ring of fire which surrounded her hall (cf. the hall of Mengloth in <chapterref>Svipdagsmol</chapterref>).
 			Gunnar tries it, but his horse balks; then he mounts Grani, but Grani will not stir for him.
 			So they change forms, and Sigurth rides Grani through the flames.
 			<expl>Oaths</expl>: the blood-brotherhood sworn by Sigurth, Gunnar, and Hogni makes it impossible for the brothers to kill him themselves, but they finally get around the difficulty by inducing their half-brother, Gotthorm (cf. <chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">27</stanzaref> and note) to do it.
@@ -893,39 +893,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hvi` gegnir þat?<sep />hvi` skulum skipta<br />
-			litum ok lo~`tum,<sep />es a` leiþ erum?<br />
-			þar mun fla`ra_e`þi<sep />fylgja annat<br />
-			atalt meþ o~llu;<sep />enn seg, Gri`pir!''
+			“Hvī gegnir þat?<sep />hvī skulum skipta<br />
+			litum ok lǭtum,<sep />es ā leiþ erum?<br />
+			þar mun flārǣþi<sep />fylgja annat<br />
+			atalt meþ ǫllu;<sep />enn seg, Grīpir!”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``How meanest thou?<sep />Why make we the change<br />
+			“How meanest thou?<sep />Why make we the change<br />
 			Of shape and form<sep />as forth we fare?<br />
 			There must follow<sep />another falsehood<br />
-			Grim in all ways;<sep />speak on, Gripir!''
+			Grim in all ways;<sep />speak on, Gripir!”
 		</translation>
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Lit hefr Gunnars<sep />ok la_e`ti hans,<br />
-			ma_e`lsku þi`na<sep />ok meginhyggjur;<br />
-			munt fastna þe`r<sep />framlundaþa<br />
-			fo`stru Heimis,<sep /><conj>fa_e`r</conj> va_e`tr fyr þvi`.''
+			“Lit hefr Gunnars<sep />ok lǣti hans,<br />
+			mǣlsku þīna<sep />ok meginhyggjur;<br />
+			munt fastna þēr<sep />framlundaþa<br />
+			fōstru Heimis,<sep /><conj>fǣr</conj> vǣtr fyr þvī.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``The form of Gunnar<sep />and shape thou gettest,<br />
+			“The form of Gunnar<sep />and shape thou gettest,<br />
 			But mind and voice<sep />thine own remain;<br />
 			The hand of the fosterling<sep />noble of Heimir<br />
-			Now dost thou win,<sep />and none can prevent.''
+			Now dost thou win,<sep />and none can prevent.”
 		</translation>
 		<comment>
 			The last half of line 4 is obscure, and the reading is conjectural.
@@ -936,46 +936,46 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Verst hyggjum þvi`,<sep />va`ndr munk heitinn<br />
-			Sigurþr meþ seggjum<sep />at sva`go~ru;<br />
-			vildak eigi<sep />ve`lum beita<br />
-			jo~fra <conj>bru`þi</conj><sep />es o/`zta veitk.''
+			“Verst hyggjum þvī,<sep />vāndr munk heitinn<br />
+			Sigurþr meþ seggjum<sep />at svāgǫru;<br />
+			vildak eigi<sep />vēlum beita<br />
+			jǫfra <conj>brūþi</conj><sep />es ø̄zta veitk.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Most evil it seems,<sep />and men will say<br />
+			“Most evil it seems,<sep />and men will say<br />
 			Base is Sigurth<sep />that so he did;<br />
 			Not of my will shall<sep />I cheat with wiles<br />
-			The heroes' maiden<sep />whom noblest I hold.''
+			The heroes' maiden<sep />whom noblest I hold.”
 		</translation>
 	</block>
 	<block class="stanza" number="41">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Saman munu brullaup<sep />ba_e`þi drukkin<br />
-			Sigurþar ok Gunnars<sep />i` so~lum Gju`ka;<br />
-			þa` ho~mum vi`xliþ,<sep />es heim komiþ,<br />
-			hefr <conj>hva`rr</conj> fyr þvi`<sep />hyggju si`na.''
+			“Saman munu brullaup<sep />bǣþi drukkin<br />
+			Sigurþar ok Gunnars<sep />ī sǫlum Gjūka;<br />
+			þā hǫmum vīxliþ,<sep />es heim komiþ,<br />
+			hefr <conj>hvārr</conj> fyr þvī<sep />hyggju sīna.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Thou dwellest, leader<sep />lofty of men,<br />
+			“Thou dwellest, leader<sep />lofty of men,<br />
 			With the maid as if<sep />thy mother she were;<br />
 			Lofty as long<sep />as the world shall live,<br />
-			Ruler of men,<sep />thy name shall remain.''
+			Ruler of men,<sep />thy name shall remain.”
 		</translation>
 		<comment>
-			Something is clearly wrong with stanzas <sr>41</sr>--<sr>43</sr>.
-			in the manuscript the order is <sr>41</sr>, <sr>43</sr>, <sr>42</sr>, which brings two of Gripir's answers together, followed by two of Sigurth's questions.
-			Some editors have arranged the stanzas as in this translation, while others have interchanged <sr>41</sr> and <sr>43</sr>.
-			In any case, Sigurth in stanza <sr>42</sr> asks about the ``three nights'' which Gripir has never mentioned.
-			I suspect that lines 3--4 of stanza <sr>41</sr>, which are practically identical with lines 3--4 of stanza <sr>23</sr>, got in here by mistake, replacing two lines which may have run thus:
+			Something is clearly wrong with stanzas <stanzaref chapter="Gripisspo">41</stanzaref>–<stanzaref chapter="Gripisspo">43</stanzaref>.
+			in the manuscript the order is <stanzaref chapter="Gripisspo">41</stanzaref>, <stanzaref chapter="Gripisspo">43</stanzaref>, <stanzaref chapter="Gripisspo">42</stanzaref>, which brings two of Gripir's answers together, followed by two of Sigurth's questions.
+			Some editors have arranged the stanzas as in this translation, while others have interchanged <stanzaref chapter="Gripisspo">41</stanzaref> and <stanzaref chapter="Gripisspo">43</stanzaref>.
+			In any case, Sigurth in stanza <stanzaref chapter="Gripisspo">42</stanzaref> asks about the “three nights” which Gripir has never mentioned.
+			I suspect that lines 3–4 of stanza <stanzaref chapter="Gripisspo">41</stanzaref>, which are practically identical with lines 3–4 of stanza <stanzaref chapter="Gripisspo">23</stanzaref>, got in here by mistake, replacing two lines which may have run thus:
 			<textstanza class="translation">
 				With thy sword between,<sep />three nights thou sleepest<br />
 				With her thou winnest<sep />for Gunnar's wife.
@@ -988,42 +988,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Mun go`þa kvo~`n<sep />Gunnarr eiga<br />
-			ma_e`rr meþ mo~nnum<sep />---me`r seg, Gri`pir!---,<br />
-			þo`t hafi þrja`r na_e`tr<sep />þegns bru`þr hja` me`r<br />
-			snarlynd sofit?<sep />sli`ks erut do/`mi.''
+			“Mun gōþa kvǭn<sep />Gunnarr eiga<br />
+			mǣrr meþ mǫnnum<sep />—mēr seg, Grīpir!—,<br />
+			þōt hafi þrjār nǣtr<sep />þegns brūþr hjā mēr<br />
+			snarlynd sofit?<sep />slīks erut dø̄mi.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Shall Gunnar have<sep />a goodly wife,<br />
-			Famed among men,---<sep />speak forth now, Gripir!<br />
+			“Shall Gunnar have<sep />a goodly wife,<br />
+			Famed among men,—<sep />speak forth now, Gripir!<br />
 			Although at my side<sep />three nights she slept,<br />
-			The warrior's bride?<sep />Such ne'er has been.''
+			The warrior's bride?<sep />Such ne'er has been.”
 		</translation>
 	</block>
 	<block class="stanza" number="43">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þu` munt hvi`la,<sep />hers oddviti<br />
-			ma_e`rr! hja` meyju,<sep />sem mo`þir se`;<br />
-			þvi` mun uppi,<sep />meþan o~ld lifir,<br />
-			þjo`þar þengill!<sep />þitt nafn vesa.''
+			“Þū munt hvīla,<sep />hers oddviti<br />
+			mǣrr! hjā meyju,<sep />sem mōþir sē;<br />
+			þvī mun uppi,<sep />meþan ǫld lifir,<br />
+			þjōþar þengill!<sep />þitt nafn vesa.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``The marriage draught<sep />will be drunk for both,<br />
+			“The marriage draught<sep />will be drunk for both,<br />
 			For Sigurth and Gunnar,<sep />in Gjuki's hall;<br />
 			Your forms ye change,<sep />when home ye fare,<br />
-			But the mind of each<sep />to himself remains.''
+			But the mind of each<sep />to himself remains.”
 		</translation>
 		<comment>
-			The simultaneous weddings of Sigurth and Gunnar form a memorable feature of the German tradition as it appears in the <src>Nibelungenlied</src>, but in the <src>Volsungasaga</src> Sigurth marries Guthrun before he sets off with Gunnar to win Brynhild.
+			The simultaneous weddings of Sigurth and Gunnar form a memorable feature of the German tradition as it appears in the <source>Nibelungenlied</source>, but in the <source>Volsungasaga</source> Sigurth marries Guthrun before he sets off with Gunnar to win Brynhild.
 		</comment>
 	</block>
 	<block class="stanza" number="44">
@@ -1031,42 +1031,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hve` mun at ynþi<sep />eptir verþa<br />
-			ma_e`gþ meþ mo~nnum?<sep />me`r seg, Gri`pir!<br />
-			mun Gunnari<sep />til gamans ra`þit<br />
-			si`þan verþa<sep />eþa sjo~lfum me`r?''
+			“Hvē mun at ynþi<sep />eptir verþa<br />
+			mǣgþ meþ mǫnnum?<sep />mēr seg, Grīpir!<br />
+			mun Gunnari<sep />til gamans rāþit<br />
+			sīþan verþa<sep />eþa sjǫlfum mēr?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Shall the kinship new<sep />thereafter come<br />
+			“Shall the kinship new<sep />thereafter come<br />
 			To good among us?<sep />Tell me, Gripir!<br />
 			To Gunnar joy<sep />shall it later give,<br />
-			Or happiness send<sep />for me myself?''
+			Or happiness send<sep />for me myself?”
 		</translation>
 	</block>
 	<block class="stanza" number="45">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Minnir þik eiþa,<sep /><conj>munt</conj> þegja þo`,<br />
-			ant Guþru`nu<sep />go`þra ra`þa;<br />
-			en Brynhildr þykkisk<sep />bru`þr vargefin,<br />
-			sno`t fiþr ve`lar<sep />se`r at hefndum.''
+			“Minnir þik eiþa,<sep /><conj>munt</conj> þegja þō,<br />
+			ant Guþrūnu<sep />gōþra rāþa;<br />
+			en Brynhildr þykkisk<sep />brūþr vargefin,<br />
+			snōt fiþr vēlar<sep />sēr at hefndum.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Thine oaths remembering,<sep />silent thou art,<br />
+			“Thine oaths remembering,<sep />silent thou art,<br />
 			And dwellest with Guthrun<sep />in wedlock good;<br />
 			But Brynhild shall deem<sep />she is badly mated,<br />
-			And wiles she seeks,<sep />herself to avenge.''
+			And wiles she seeks,<sep />herself to avenge.”
 		</translation>
 		<comment>
-			According to the <src>Volsungasaga</src>, Sigurth remembers his oaths to Brynhild almost immediately after his return to Gunnar's house.
+			According to the <source>Volsungasaga</source>, Sigurth remembers his oaths to Brynhild almost immediately after his return to Gunnar's house.
 			Brynhild, on the other hand, knows nothing until the famous quarrel between herself and Guthrun at the bath (an other reminiscence of the German story), when she taunts Guthrun with Sigurth's inferiority to Gunnar, and Guthrun retorts with the statement that it was Sigurth, and not Gunnar, who rode through the flames.
 		</comment>
 	</block>
@@ -1075,46 +1075,46 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hvat mun at bo`tum<sep />bru`þr su` taka,<br />
-			es ve`lar ve`r<sep />vi`fi go/rþum?<br />
-			hefr sno`t af me`r<sep />svarna eiþa,<br />
-			enga efnda,<sep />en unaþ li`tit.''
+			“Hvat mun at bōtum<sep />brūþr sū taka,<br />
+			es vēlar vēr<sep />vīfi gørþum?<br />
+			hefr snōt af mēr<sep />svarna eiþa,<br />
+			enga efnda,<sep />en unaþ lītit.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``What may for the bride<sep />requital be,<br />
+			“What may for the bride<sep />requital be,<br />
 			The wife we won<sep />with subtle wiles?<br />
 			From me she has<sep />the oaths I made,<br />
-			And kept not long;<sep />they gladdened her little.''
+			And kept not long;<sep />they gladdened her little.”
 		</translation>
 	</block>
 	<block class="stanza" number="47">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Mun Gunnari<sep />go~rva segja,<br />
+			“Mun Gunnari<sep />gǫrva segja,<br />
 			at eigi vel<sep />eiþum <conj>þyrmþir,</conj><br />
-			þa`s i`tr konungr<sep />af o~llum hug,<br />
-			Gju`ka arfi,<sep />a` gram tru`þi.''
+			þās ītr konungr<sep />af ǫllum hug,<br />
+			Gjūka arfi,<sep />ā gram trūþi.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``To Gunnar soon<sep />his bride will say<br />
+			“To Gunnar soon<sep />his bride will say<br />
 			That ill didst thou<sep />thine oath fulfill,<br />
 			When the goodly king,<sep />the son of Gjuki,<br />
-			With all his heart<sep />the hero trusted.''
+			With all his heart<sep />the hero trusted.”
 		</translation>
 		<comment>
 			Brynhild tells Gunnar that Sigurth really possessed her during the three nights when he slept by her in Gunnar's form, thus violating his oath.
 			Here again there is a confusion of two traditions.
-			If Sigurth did not meet Brynhild until after his oath to Gunnar (cf. note on stanza <sr>13</sr>), Brynhild's charge is entirely false, as she herself admits in <chapterref>Helreith Brynhildar</chapterref>.
+			If Sigurth did not meet Brynhild until after his oath to Gunnar (cf. note on stanza <stanzaref chapter="Gripisspo">13</stanzaref>), Brynhild's charge is entirely false, as she herself admits in <chapterref>Helreith Brynhildar</chapterref>.
 			On the other hand, according to the version in which Sigurth finds Brynhild before he meets Gjuki's sons, their union was not only completed, but she had by him a daughter, Aslaug, whom she leaves in Heimir's charge before going to become Gunnar's wife.
-			This is the <src>Volsungasaga</src> version, and thus the statement Brynhild makes to Gunnar, as a result of which Sigurth is slain, is quite true.
+			This is the <source>Volsungasaga</source> version, and thus the statement Brynhild makes to Gunnar, as a result of which Sigurth is slain, is quite true.
 		</comment>
 	</block>
 	<block class="stanza" number="48">
@@ -1122,39 +1122,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``<conj>Hva`rt's</conj> þa`, Gri`pir?<sep />get þess fyr me`r!<br />
-			munk saþr vesa<sep />at so~gu þeiri,<br />
-			eþa ly`gr a` mik<sep />lofsa_e`l kona<br />
-			ok a` sjalfa sik?<sep />seg, Gri`pir! þat.''
+			“<conj>Hvārt's</conj> þā, Grīpir?<sep />get þess fyr mēr!<br />
+			munk saþr vesa<sep />at sǫgu þeiri,<br />
+			eþa lȳgr ā mik<sep />lofsǣl kona<br />
+			ok ā sjalfa sik?<sep />seg, Grīpir! þat.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``What sayst thou, Gripir?<sep />give me the truth!<br />
+			“What sayst thou, Gripir?<sep />give me the truth!<br />
 			Am I guilty so<sep />as now is said,<br />
 			Or lies does the far-famed<sep />queen put forth<br />
-			Of me and herself?<sep />Yet further speak.''
+			Of me and herself?<sep />Yet further speak.”
 		</translation>
 	</block>
 	<block class="stanza" number="49">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Mun fyr reiþi<sep />ri`k bru`þr viþ þik<br />
+			“Mun fyr reiþi<sep />rīk brūþr viþ þik<br />
 			ne af oftrega<sep />allvel skipa;<br />
-			viþr þu` go`þri<sep />grand aldrigi,<br />
-			þo` vi`f konungs<sep />ve`lum beittuþ.''
+			viþr þū gōþri<sep />grand aldrigi,<br />
+			þō vīf konungs<sep />vēlum beittuþ.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``In wrath and grief<sep />full little good<br />
+			“In wrath and grief<sep />full little good<br />
 			The noble bride<sep />shall work thee now;<br />
 			No shame thou gavest<sep />the goodly one,<br />
-			Though the monarch's wife<sep />with wiles didst cheat.''
+			Though the monarch's wife<sep />with wiles didst cheat.”
 		</translation>
 	</block>
 	<block class="stanza" number="50">
@@ -1162,19 +1162,19 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Mun horskr Gunnarr<sep />at hvo~tun hennar,<br />
-			Gotþormr ok Ho~gni,<sep />ganga si`þan?<br />
-			munu synir Gju`ka<sep /><conj>a` sifjungi</conj><br />
-			eggjar rjo`þa?<sep />enn seg, Gri`pir!''
+			“Mun horskr Gunnarr<sep />at hvǫtun hennar,<br />
+			Gotþormr ok Hǫgni,<sep />ganga sīþan?<br />
+			munu synir Gjūka<sep /><conj>ā sifjungi</conj><br />
+			eggjar rjōþa?<sep />enn seg, Grīpir!”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Shall Gunnar the wise<sep />to the woman's words,<br />
+			“Shall Gunnar the wise<sep />to the woman's words,<br />
 			And Gotthorm and Hogni,<sep />then give heed?<br />
 			Shall Gjuki's sons,<sep />now tell me, Gripir,<br />
-			Redden their blades<sep />with their kinsman's blood?''
+			Redden their blades<sep />with their kinsman's blood?”
 		</translation>
 		<comment>
 			<expl>Gotthorm</expl>: Gunnar's half-brother, and slayer of Sigurth.
@@ -1182,22 +1182,22 @@
 	</block>
 	<block class="stanza" number="51">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þa`'s Guþru`nu<sep />grimt <conj>of</conj> hjarta,<br />
-			<conj>es</conj> bro/`þr hennar<sep />þe`r bana ra`þa,<br />
-			ok at o/ngu verþr<sep />ynþi si`þan<br />
-			vitru vi`fi:<sep />veldr þvi` Gri`mhildr.''
+			“Þā's Guþrūnu<sep />grimt <conj>of</conj> hjarta,<br />
+			<conj>es</conj> brø̄þr hennar<sep />þēr bana rāþa,<br />
+			ok at øngu verþr<sep />ynþi sīþan<br />
+			vitru vīfi:<sep />veldr þvī Grīmhildr.”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Heavy it lies<sep />on Guthrun's heart,<br />
+			“Heavy it lies<sep />on Guthrun's heart,<br />
 			When her brothers all<sep />shall bring thee death;<br />
 			Never again<sep />shall she happiness know,<br />
-			The woman so fair;<sep />'tis Grimhild's work.''
+			The woman so fair;<sep />'tis Grimhild's work.”
 		</translation>
 	</block>
 	<block class="stanza" number="52">
@@ -1205,42 +1205,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Skiljumk heilir!<sep />munat sko~pum vinna;<br />
-			nu hefr, Gri`pir! vel<sep />go~rt sem beiddak;<br />
-			fljo`tt myndir þu`<sep />fri`þri segja<br />
-			mi`na a_e`vi,<sep />ef ma_e`ttir þat.''
+			“Skiljumk heilir!<sep />munat skǫpum vinna;<br />
+			nu hefr, Grīpir! vel<sep />gǫrt sem beiddak;<br />
+			fljōtt myndir þū<sep />frīþri segja<br />
+			mīna ǣvi,<sep />ef mǣttir þat.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Now fare thee well!<sep />our fates we shun not;<br />
+			“Now fare thee well!<sep />our fates we shun not;<br />
 			And well has Gripir<sep />answered my wish;<br />
 			More of joy<sep />to me wouldst tell<br />
-			Of my life to come<sep />if so thou couldst.''
+			Of my life to come<sep />if so thou couldst.”
 		</translation>
 		<comment>
-			The manuscript has stanzas <sr>52</sr> and <sr>53</sr> in inverse order.
+			The manuscript has stanzas <stanzaref chapter="Gripisspo">52</stanzaref> and <stanzaref chapter="Gripisspo">53</stanzaref> in inverse order.
 		</comment>
 	</block>
 	<block class="stanza" number="53">
 		<original_prelude>
-			Gri`pir kvaþ:
+			Grīpir kvaþ:
 		</original_prelude>
 		<original>
-			``Þvi` skal <conj>huggask</conj><sep />hers oddviti,<br />
-			su` mun gipt lagiþ<sep />a` grams a_e`vi:<br />
-			munat ma_e`tri maþr<sep />a` mold koma<br />
-			und so`lar sjo~t,<sep />an Sigurþr <conj>þykki!</conj>''
+			“Þvī skal <conj>huggask</conj><sep />hers oddviti,<br />
+			sū mun gipt lagiþ<sep />ā grams ǣvi:<br />
+			munat mǣtri maþr<sep />ā mold koma<br />
+			und sōlar sjǫt,<sep />an Sigurþr <conj>þykki!</conj>”
 		</original>
 		<translation_prelude>
 			Gripir spake:
 		</translation_prelude>
 		<translation>
-			``Ever remember, ruler of men,<br />
+			“Ever remember, ruler of men,<br />
 			That fortune lies in the hero's life;<br />
 			A nobler man shall never live<br />
-			Beneath the sun than Sigurth shall seem.''
+			Beneath the sun than Sigurth shall seem.”
 		</translation>
 	</block>
 </chapter>
