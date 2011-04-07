@@ -252,10 +252,8 @@ Gripisspo (planned)
 
 * Added Gripisspo chapter;
 * Fixed case in Svipdagsmol subtitle;
-* Update parse_bellows.py in order to prevent losing comments
-  (handle the case of same numbers in two comments - when the first one is lost,
-  and many prose comments - every one of them should be printed in xml,
-  or exception thrown if some still remain)
+* Bellow's book parser now watches for unmatched comments and comments with the
+  same identifiers (in order not to lose them)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future

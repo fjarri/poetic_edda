@@ -196,6 +196,8 @@ if __name__ == '__main__':
 			if obj['type'] == 'prose comment':
 				for i in xrange(len(new_blocks) - 1, -1, -1):
 					if new_blocks[i]['type'] == 'prose':
+						assert 'comment' in new_blocks[i], \
+							"The prose block already has comment"
 						new_blocks[i]['comment'] = obj['text']
 						break
 			elif obj['type'] == 'stanza':
@@ -209,10 +211,17 @@ if __name__ == '__main__':
 	for obj in comments:
 		for block in new_blocks:
 			if 'number' in block and block['number'] == obj['number']:
+				assert 'comment' in block, \
+					"The stanza block already has comment"
 				block['comment'] = obj['text']
+				obj['used'] = True
 				break
 		else:
 			raise Exception(obj)
+
+	# check that all comment blocks were used
+	for obj in comments:
+		assert 'used' in obj, "The comment block was not used"
 
 	for block in new_blocks:
 		if 'text' in block:
