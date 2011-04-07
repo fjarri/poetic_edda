@@ -250,7 +250,7 @@ Fra Dautha Sinfjotla (28 Mar 2011)
 Gripisspo (planned)
 ~~~~~~~~~~~~~~~~~~~
 
-* Add Gripisspo chapter
+* Added Gripisspo chapter;
 * Fixed case in Svipdagsmol subtitle;
 * Update parse_bellows.py in order to prevent losing comments
   (handle the case of same numbers in two comments - when the first one is lost,
