@@ -363,7 +363,7 @@
 		</translation>
 		<comment>
 			Hreithmar's daughters do not appear elsewhere.
-			It has been suggested that originally stanza 10 was followed by one in which Lofnheith lamented her inability to avenge her father, as she was married and had no son.
+			It has been suggested that originally stanza <stanzaref chapter="Reginsmol">10</stanzaref> was followed by one in which Lofnheith lamented her inability to avenge her father, as she was married and had no son.
 		</comment>
 	</block>
 	<block class="stanza" number="11">
@@ -456,10 +456,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			“Ek mun fø̄þa<sep />folkdjarfan gram:<br />
+			Ek mun fø̄þa<sep />folkdjarfan gram:<br />
 			nū's Yngva konr<sep />meþ oss kominn;<br />
 			sjā mun rǣsir<sep />rīkstr und sōlu,<br />
-			þrymr of ǫll lǫnd<sep />ørlǫgsīmu.
+			þrymr of ǫll lǫnd<sep />ørlǫgsīmu.”
 		</original>
 		<translation>
 			Here shall I foster<sep />the fearless prince,<br />
@@ -673,7 +673,7 @@
 			[Skal gumna engr<sep />ī gøgn vega<br />
 			sīþ skīnandi<br />systur māna;
 			þeir sigr hafa<sep />es sea kunnu,<br />
-			hjǫrleiks hvatir,<sep /><conj>es</conj> hamalt fylkja.”]
+			hjǫrleiks hvatir,<sep /><conj>es</conj> hamalt fylkja.]
 		</original>
 		<translation>
 			A man shall fight not<sep />when he must face<br />
