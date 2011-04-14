@@ -57,7 +57,7 @@
 		Regarding the general development of the story of Sigurth in the North, see the introductory note to the <chapterref>Gripisspo</chapterref>.
 	</block>
 	<block class="sepline" />
-	<block class="prose">
+	<block class="prose" label="p1">
 		<original>
 			Sigurþr gekk til stōþs Hjālpreks ok kaus sēr af hest einn, er Grani var kallaþr sīþan.<br />
 			Þā var kominn Reginn til Hjālpreks, <conj>sonr</conj> Hreiþmars; hann var hverjum manni hagari ok dvergr of vǫxt, hann var vitr, grimmr ok fjǫlkunnigr.<br />
