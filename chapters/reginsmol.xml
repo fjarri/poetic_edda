@@ -1,7 +1,7 @@
 <chapter label="Reginsmol">
 	<block class="eddachapter">
 		<original>
-
+			Reginsmo~`l
 		</original>
 		<transliteration>
 			Reginsmol
@@ -59,16 +59,17 @@
 	<block class="sepline" />
 	<block class="prose">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigurþr gekk til sto`þs Hja`lpreks ok kaus se`r af hest einn, er Grani var kallaþr si`þan.<br />
+			Þa` var kominn Reginn til Hja`lpreks, <conj>sonr</conj> Hreiþmars; hann var hverjum manni hagari ok dvergr of vo~xt, hann var vitr, grimmr ok fjo~lkunnigr.<br />
+			Reginn veitti Sigurþi fo`str ok kenslu ok elskaþi hann mjo~k.<br />
+			Hann sagþi Sigurþi fra` forellri si`nu ok þeim atburþum, at O`þinn ok Ho_enir ok Loki ho~fþu komit til Andvarafors: i` þeim forsi var fjo~lþi fiska.<br />
+			Einn dvergr he`t Andvari, hann var lo~ngum i` forsinum i` geddu li`ki ok fekk se`r þar matar.<br />
+			Otr he`t bro`þir va`rr, kvaþ Reginn, er opt fo`r i` forsinn i` otrs li`ki; hann hafþi tekit einn lax ok sat a` a`rbakkanum ok a`t blundandi.<br />
+			Loki laust hann meþ steini til bana; þo`ttuz a_esir mjo~k hepnir verit hafa ok flo`gu belg af otrinum.<br />
+			Þat sama kveld so`ttu þeir gisting til Hrei`þmars ok sy`ndu veiþi si`na.<br />
+			Þa` to`ku ve`r þa` ho~ndum ok lo~gþum þeim fjo~rlausn at fylla otrbelginn meþ gulli ok hylja utan ok meþ rauþu gulli.<br />
+			Þa` sendu þeir Loka at afla gullsins; hann kom til Ra`nar ok fekk net hennar ok fo`r þa` til Andvarafors ok kastaþi netinu fyr gedduna, en hljo`p i` netit.<br />
+			Þa` ma_e`lti Loki:
 		</original>
 		<translation>
 			Sigurth went to Hjalprek's stud and chose for himself a horse, who thereafter was called Grani.<br />
@@ -98,9 +99,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hvat's þat fiska<sep />es rinnr flo`þi i`,<br />
+			kannat viþ vi`ti varask?<br />
+			haufuþ þitt<sep />leystu helju o`r,<br />
+			finn me`r <conj>lindar</conj> loga!''
 		</original>
 		<translation>
 			``What is the fish<sep />that runs in the flood,<br />
@@ -115,12 +117,13 @@
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-
+			Andvari kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Andvari heitik,<sep />Oi::nn he`t minn faþir,<br />
+			margan hefk fors of farit;<br />
+			aumlig norn<sep /><conj>sko`pumk</conj> i` a`rdaga,<br />
+			at skyldak i` vatni vaþa.''
 		</original>
 		<translation_prelude>
 			Andvari spake:
@@ -140,12 +143,13 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			[Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg þat, Andvari!<sep />es þu` eiga vill<br />
+			li`f i` ly`þa so~lum:<br />
+			hver gjo~ld<sep />faa gumna synir,<br />
+			ef þeir ho~ggvask orþum a`?''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -164,12 +168,13 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-
+			Andvari kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ofrgjo~ld<sep />faa gumna synir<br />
+			þeirs Vaþgelmi vaþa;<br />
+			o`saþra orþa<sep />hverrs a` annan ly`gr,<br />
+			oflengi leiþa limar.'']
 		</original>
 		<translation_prelude>
 			Andvari spake:
@@ -187,14 +192,13 @@
 	</block>
 	<block class="prose" label="p5">
 		<original>
-			<br />
-			<br />
-			<br />
+			Loki sa` allt gull þat er Andvari a`tti.<br />
+			En er hann hafþi fram reitt gullit, þa` hafþi hann eptir einn hring, ok to`k Loki þann af honum.<br />
+			Dvergrinn gekk inn i` steininn ok ma_elti:
 		</original>
 		<translation>
 			Loki saw all the gold that Andvari had.<br />
-			But when<br />
-			he had brought forth all the gold, he held back one ring, and Loki took this from him.<br />
+			But when he had brought forth all the gold, he held back one ring, and Loki took this from him.<br />
 			The dwarf went into his rocky hole and said:
 		</translation>
 		<comment>
@@ -205,10 +209,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þat skal goll,<sep />es Gustr a`tti,<br />
+			bro/`þrum tveim<sep />at bana verþa<br />
+			ok o~þlingum<sep />a`ta at ro`gi;<br />
+			mun mi`ns fear<sep />mangi njo`ta.''
 		</original>
 		<translation>
 			``Now shall the gold<sep />that Gust once had<br />
@@ -225,12 +229,13 @@
 			But the stanza may originally not have referred to Andvari's treasure at all.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p6">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
+			A_Esir reiddu Hreiþmari fe`it ok tra`þu upp otrbelginn ok reistu a` fo_etr.<br />
+			Þa` skyldu a_esirnir hlaþa upp gullinu ok hylja.<br />
+			En er þat var go~rt, gekk Hreiþmarr fram ok sa` eitt granaha`r ok baþ hylja.<br />
+			Þa` dro` O`þinn fram hringinn Andvaranaut ok hulþi ha`rit.<br />
+			<conj>Þa` kvaþ Loki:</conj>
 		</original>
 		<translation>
 			The gods gave Hreithmar the gold, and filled up the otter-skin, and stood it on its feet.<br />
@@ -245,9 +250,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Goll's þe`r nu` reitt,<sep />en þu` gjo~ld hefr<br />
+			mikil mi`ns ho~fuþs;<br />
+			syni þi`num<sep />verþra sa_e`la sko~puþ,<br />
+			þat's ykkarr beggja bani.''
 		</original>
 		<translation>
 			``The gold is given,<sep />and great the price<br />
@@ -262,12 +268,13 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-
+			Hreiþmarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Gjafar þu` gaft,<sep />gaftat a`stgjafar,<br />
+			gaftat af heilum hug;<br />
+			fjo~rvi yþru<sep />skylduþ e`r firþir vesa,<br />
+			ef vissak fa`r þat fyrir.''
 		</original>
 		<translation_prelude>
 			Hreithmar spake:
@@ -281,12 +288,13 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-
+			Loki kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Enn es verra<sep />---þat vita þykkjumk---<br />
+			niþja stri`þ of <dagger /> nept:<br />
+			jo~fra o`borna<sep />hykk þa` enn vesa,<br />
+			es þat's til hatrs hugat.''
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -305,12 +313,13 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-
+			Hreiþmarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Rauþu golli<sep />hykk mik ra`þa munu<br />
+			sva` lengi sem lifik;<br />
+			ho`t þi`n<sep />hra_e`þumk etki lyf,<br />
+			ok haldiþ heim heþan.''
 		</original>
 		<translation_prelude>
 			Hreithmar spake:
@@ -327,28 +336,28 @@
 	</block>
 	<block class="prose" label="p10">
 		<original>
-			<br />
-			<br />
-			<br />
+			Fa`fnir ok Reginn kro~fþu Hreiþmar niþgjalda eptir Otr bro`þur sinn.<br />
+			Hann kvaþ nei viþ; en Fa`fnir lagþi sverþi Hreiþmar fo~þur sinn sofanda.<br />
+			Hreiþmarr kallaþi a` do_etr si`nar:
 		</original>
 		<translation>
 			Fafnir and Regin asked Hreithmar for a share of the wealth that was paid for the slaying of their brother, Otr.<br />
-			This he refused, and Fafnir thrust his sword through the<br />
-			body of his father, Hreithmar, while he was sleeping.<br />
+			This he refused, and Fafnir thrust his sword through the body of his father, Hreithmar, while he was sleeping.<br />
 			Hreithmar called to his daughters:
 		</translation>
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<sep /><br />
+			``Lyngheiþr ok Lofnheiþr!<sep />vitiþ mi`nu li`fi farit,<br />
+			mart's þats þo~rf þear!''<br />
+			<stanzaprelude>Lyngheiþr kvaþ:</stanzaprelude><br />
+			``<conj>Fo~`</conj> mun systir,<sep />þo`t fo~þur missi,<br />
+			hefna hly`ra harms.''
 		</original>
 		<translation>
 			``Lyngheith and Lofnheith,<sep />fled is my life,<br />
 			And mighty now is my need!''<br />
-			Lyngheith spake:<br />
+			<stanzareplude>Lyngheith spake:</stanzaprelude><br />
 			``Though a sister loses<sep />her father, seldom<br />
 			Revenge on her brother she brings.''
 		</translation>
@@ -359,13 +368,13 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-
+			[Hreiþmarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Al þo` do`ttur,<sep />dis ulfhuguþ!<br />
+			ef getrat sun<sep />viþ siklingi;<br />
+			fa` meyju mann<sep />i` meginþarfar,<br />
+			þa` mun þeirar sunr<sep />þi`ns harms reka.'']
 		</original>
 		<translation_prelude>
 			Hreithmar spake:
@@ -386,9 +395,10 @@
 	</block>
 	<block class="prose" label="p12">
 		<original>
-			<br />
-			<br />
-			<br />
+			Þa` do` Hreiþmarr, en Fa`fnir to`k gullit allt.<br />
+			Þa` beiddiz Reginn at hafa fo~þurarf sinn, en Fa`fnir galt þar nei viþ.<br />
+			Þa` leitaþi Reginn ra`þa viþ Lyngheiþi systur si`na, hvernig hann skyldi heimta fo~þurarf sinn.<br />
+			Hon kvaþ:
 		</original>
 		<translation>
 			Then Hreithmar died, and Fafnir took all the gold.<br />
@@ -399,9 +409,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``<conj>Bro`þur</conj> kveþja<sep />skaltu bli`þliga<br />
+			arfs ok o/`þra hugar;<br />
+			esa þat ho/`ft,<sep />at þu` hjo~rvi skylir<br />
+			kveþja Fa`fni fear.''
 		</original>
 		<translation>
 			``In friendly wise<sep />the wealth shalt thou ask<br />
@@ -412,8 +423,9 @@
 	</block>
 	<block class="prose" label="p13">
 		<original>
-			<br />
-			<br />
+			Þessa hluti sagþi Reginn Sigurþi.<br />
+			Einn dag, er hann kom til hu`sa Regins, var honum vel fagnat.<br />
+			Reginn kvaþ:
 		</original>
 		<translation>
 			All these happenings did Regin tell to Sigurth.<br />
@@ -423,10 +435,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Kominn es hingat<sep />konr Sigmundar,<br />
+			seggr snarra`þi<sep />til sala va`rra;<br />
+			mo`þ hefr meira<sep />an maþr gamall,<br />
+			fangs <conj>þykkjumk</conj> vo~`n<sep />at frekum ulfi.
 		</original>
 		<translation>
 			``Hither the son<sep />of Sigmund is come,<br />
@@ -444,10 +456,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ek mun fo/`þa<sep />folkdjarfan gram:<br />
+			nu`'s Yngva konr<sep />meþ oss kominn;<br />
+			sja` mun ra_e`sir<sep />ri`kstr und so`lu,<br />
+			þrymr of o~ll lo~nd<sep />o/rlo~gsi`mu.
 		</original>
 		<translation>
 			Here shall I foster<sep />the fearless prince,<br />
@@ -464,10 +476,11 @@
 	</block>
 	<block class="prose" label="p15">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigurþr var þa` jafnan meþ Regin, ok sagþi hann Sigurþi, at Fa`fnir la` a` Gnitaheiþi ok var i` orms li`ki.<br />
+			Hann a`tti a_egishja`lm, er <conj>o~ll</conj> kvikvendi hra_edduz viþ.<br />
+			Reginn go/rþi Sigurþi sverþ er Gramr he`t: þat var sva` hvast, at hann bra` þvi` ofan i` Ri`n ok le`t reka ullarlagþ fyr straumi, ok to`k i` sundr lagþinn sem vatnit.<br />
+			Þvi` sverþi klauf Sigurþr i` sundr steþja Regins.<br />
+			Eptir þat eggjaþi Reginn Sigurþ at vega Fa`fni; hann sagþi:
 		</original>
 		<translation>
 			Sigurth was there continually with Regin, who said to Sigurth that Fafnir lay at Gnitaheith, and was in the shape of a dragon.<br />
@@ -484,10 +497,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ho`tt munu hla_e`ja<sep />Hundings synir,<br />
+			þeirs Eylima<sep />aldrs synjuþu,<br />
+			ef meirr tyggja<sep />munar at so/`kja<br />
+			hringa rauþa<sep />an hefnd fo~þur.''
 		</original>
 		<translation>
 			``Loud will the sons<sep />of Hunding laugh,<br />
@@ -501,13 +514,12 @@
 	</block>
 	<block class="prose" label="p16">
 		<original>
-			<br />
-			<br />
-			<br />
+			Hja`lprekr konungr fekk Sigurþi skipaliþ til fo~þurhefnda.<br />
+			Þeir fengu storm mikinn ok beittu fyr bergsno~s no~kkura.<br />
+			Maþr einn sto`þ a` berginu ok kvaþ:
 		</original>
 		<translation>
-			King Hjalprek gave Sigurth a fleet for the avenging<br />
-			of his father.<br />
+			King Hjalprek gave Sigurth a fleet for the avenging of his father.<br />
 			They ran into a great storm, and were off a certain headland.<br />
 			A man stood on the mountain, and said:
 		</translation>
@@ -518,10 +530,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hverir ri`þa þar<sep />Ra_e`vils hestum<br />
+			ho`var unnir,<sep />haf glymjanda?<br />
+			seglvigg eru<sep />sveita stokkin,<br />
+			munut va`gmarar<sep />vind of standask.''
 		</original>
 		<translation>
 			``Who yonder rides<sep />on Rævil's steeds,<br />
@@ -535,13 +547,13 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-
+			Reginn svaraþi:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``He`r 'u ve`r Sigurþr<sep />a` sa_e`tre::um,<br />
+			es oss byrr gefinn<sep />viþ bana sjalfan;<br />
+			fellr brattr breki<sep />bro~ndum ha_e`ri,<br />
+			hlunnvigg hrapa;<sep />hverr spyrr at þvi`?''
 		</original>
 		<translation_prelude>
 			Regin answered:
@@ -558,13 +570,13 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-
+			Hnikarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hnikar he`tu mik,<sep />þa`s hugin gladdi<br />
+			Vo~lsungr ungi<sep />ok vegit hafþi;<br />
+			nu` ma`tt kalla<sep />karl af bergi<br />
+			Feng epþa Fjo~lni---<sep />far vilk þiggja.''
 		</original>
 		<translation_prelude>
 			The Man spake:
@@ -583,7 +595,8 @@
 	</block>
 	<block class="prose" label="p19">
 		<original>
-			<br />
+			Þeir viku at landi, ok gekk karl a` skip, ok la_egþi þa` veþrit.<br />
+			Sigurþr kvaþ:
 		</original>
 		<translation>
 			They sailed to the land, and the man went on board the ship, and the storm subsided.<br />
@@ -592,9 +605,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg me`r þat, Hnikarr!<sep />alls þu` hvo~`rtveggja veizt<br />
+			goþa heill ok guma:<br />
+			hver bo~zt eru,<sep />ef berjask skal,<br />
+			heill at sverþa svipun?''
 		</original>
 		<translation>
 			``Hnikar, say,<sep />for thou seest the fate<br />
@@ -608,12 +622,13 @@
 	</block>
 	<block class="stanza" number="20">
 		<original_prelude>
-
+			Hnikarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Mo~rg eru go`þ,<sep />ef gumar vissi,<br />
+			heill at sverþa svipun;<br />
+			dyggva fylgju<sep />hykk ens do/kkva vesa<br />
+			hrottameiþi hrafns.
 		</original>
 		<translation_prelude>
 			Hnikar spake:
@@ -627,9 +642,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat es annat,<sep />ef þu`'st u`t <conj>of</conj> kominn<br />
+			auk'st a` braut buinn:<br />
+			tva` þu` li`tr<sep />a` tai:: standa<br />
+			hro`þrfu`sa hali.
 		</original>
 		<translation>
 			Another it is<sep />if out thou art come,<br />
@@ -640,9 +656,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat's et þriþja,<sep />ef þjo`ta heyrir<br />
+			ulf und asklimum:<br />
+			heilla auþit<sep />verþr þer af hjalmsto~fum,<br />
+			ef þu` se`r þa` fyrri fara.
 		</original>
 		<translation>
 			Third it is well<sep />if a howling wolf<br />
@@ -653,10 +670,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			[Skal gumna engr<sep />i` go/gn vega<br />
+			si`þ ski`nandi<br />systur ma`na;
+			þeir sigr hafa<sep />es sea kunnu,<br />
+			hjo~rleiks hvatir,<sep /><conj>es</conj> hamalt fylkja.'']
 		</original>
 		<translation>
 			A man shall fight not<sep />when he must face<br />
@@ -672,9 +689,10 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat's fa`r mikit,<sep />ef þu` fo/`ti drepr,<br />
+			þars at vi`gi veþr:<br />
+			ta`lardi`sir<sep />standa þe`r a tva_e`r hliþar<br />
+			ok vilja þik sa`ran sea.
 		</original>
 		<translation>
 			Foul is the sign<sep />if thy foot shall stumble<br />
@@ -688,9 +706,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Kemþr ok þveginn<sep />skal ko/`nna hverr<br />
+			auk at morni mettr:<br />
+			þvi`t o`sy`nt es,<sep />hvar at aptni ko/mr;<br />
+			illt's fyr heill at hrapa.''
 		</original>
 		<translation>
 			Combed and washed<sep />shall the wise man go,<br />
@@ -704,7 +723,8 @@
 	</block>
 	<block class="prose" label="p26">
 		<original>
-			<br />
+			Sigurþr a`tti orrostu mikla viþ Lyngva Hundingsson ok bro_eþr hans; þar fell Lyngvi ok þeir þri`r bro_eþr.<br />
+			Eptir orrostu kvaþ Reginn:
 		</original>
 		<translation>
 			Sigurth had a great battle with Lyngvi, the son of Hunding, and his brothers; there Lyngvi fell, and his two brothers with him.<br />
@@ -718,10 +738,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Nu`'s blo`þugr o~rn<sep />bitrum hjo~rvi<br />
+			bana Sigmundar<sep />a` baki ristinn;<br />
+			fa`r vas fremri,<sep />sa`s fold ryþi,<br />
+			hilmis arfi,<sep />ok hugin gladdi.''
 		</original>
 		<translation>
 			``Now the bloody eagle<sep />with biting sword<br />
@@ -737,7 +757,9 @@
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
-		<original />
+		<original>
+			Heim fo`r Sigurþr til Hja`lpreks; þa` eggjaþi Reginn Sigurþ til at vega Fa`fni.
+		</original>
 		<translation>
 			Sigurth went home to Hjalprek's house; thereupon Regin egged him on to fight with Fafnir.
 		</translation>
