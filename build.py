@@ -291,7 +291,7 @@ def movePunctuation(l):
 	for i, e in enumerate(l):
 		text, tag, attrib = tuple(e)
 
-		if i == len(l):
+		if i == len(l) - 1:
 			continue
 
 		if tag not in ('emph', 'chapterref', 'source', 'conj', 'expl'):
