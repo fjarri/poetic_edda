@@ -1,7 +1,7 @@
 <chapter label="Reginsmol">
 	<block class="eddachapter">
 		<original>
-			Reginsmo~`l
+			Reginsmǭl
 		</original>
 		<transliteration>
 			Reginsmol
@@ -14,62 +14,62 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The <cr>Reginsmol</cr> immediately follows the <cr>Gripisspo</cr> in the <src>Codex Regius</src>, and in addition stanzas <sr>1</sr>, <sr>2</sr>, <sr>6</sr>, and <sr>18</sr> are quoted in the <src>Volsungasaga</src>, and stanzas <sr>11</sr>--<sr>26</sr> in the <src>Nornageststhattr</src>.
-		In no instance is the title of the poem stated, and in <src>Regius</src> there stands before the introductory prose, very faintly written, what appears to be ``Of Sigurth.''
-		As a result, various titles have been affixed to it, the two most often used being ``the Ballad of Regin'' and ``the First Lay of Sigurth Fafnisbane.''
+		The <chapterref>Reginsmol</chapterref> immediately follows the <chapterref>Gripisspo</chapterref> in the <source>Codex Regius</source>, and in addition stanzas <stanzaref chapter="Reginsmol">1</stanzaref>, <stanzaref chapter="Reginsmol">2</stanzaref>, <stanzaref chapter="Reginsmol">6</stanzaref>, and <stanzaref chapter="Reginsmol">18</stanzaref> are quoted in the <source>Volsungasaga</source>, and stanzas <stanzaref chapter="Reginsmol">11</stanzaref>–<stanzaref chapter="Reginsmol">26</stanzaref> in the <source>Nornageststhattr</source>.
+		In no instance is the title of the poem stated, and in <source>Regius</source> there stands before the introductory prose, very faintly written, what appears to be “Of Sigurth.”
+		As a result, various titles have been affixed to it, the two most often used being “the Ballad of Regin” and “the First Lay of Sigurth Fafnisbane.”
 	</block>
 	<block class="text">
-		As a matter of fact, it is by no means clear that the compiler of the Eddic collection regarded this or either of the two following poems, the <cr>Fafnismol</cr> and the <cr>Sigrdrifumol</cr>, as separate and distinct poems at all.
-		There are no specific titles given, and the prose notes link the three poems in a fairly consecutive whole. Furthermore, the <proseref chapter="Reginsmol" prose="p1">prose passage</proseref> introducing the <cr>Reginsmol</cr> connects directly with <cr>Fra Dautha Sinfjotla</cr>, and only the insertion of the <cr>Gripisspo</cr> at this point, which may well have been done by some stupid copyist, breaks the continuity of the story.
+		As a matter of fact, it is by no means clear that the compiler of the Eddic collection regarded this or either of the two following poems, the <chapterref>Fafnismol</chapterref> and the <chapterref>Sigrdrifumol</chapterref>, as separate and distinct poems at all.
+		There are no specific titles given, and the prose notes link the three poems in a fairly consecutive whole. Furthermore, the <proseref chapter="Reginsmol" prose="p1">prose passage</proseref> introducing the <chapterref>Reginsmol</chapterref> connects directly with <chapterref>Fra Dautha Sinfjotla</chapterref>, and only the insertion of the <chapterref>Gripisspo</chapterref> at this point, which may well have been done by some stupid copyist, breaks the continuity of the story.
 	</block>
 	<block class="text">
 		For convenience I have here followed the usual plan of dividing this material into distinct parts, or poems, but I greatly doubt if this division is logically sound.
 		The compiler seems, rather, to have undertaken to set down the story of Sigurth in consecutive form, making use of all the verse with which he was familiar, and which, by any stretch of the imagination, could be made to fit, filling up the gaps with prose narrative notes based on the living oral tradition.
 	</block>
 	<block class="text">
-		This view is supported by the fact that not one of the three poems in question, and least of all the <cr>Reginsmol</cr>, can possibly be regarded as a unit.
+		This view is supported by the fact that not one of the three poems in question, and least of all the <chapterref>Reginsmol</chapterref>, can possibly be regarded as a unit.
 		For one thing, each of them includes both types of stanza commonly used in the Eddic poems, and this, notwithstanding the efforts of Grundtvig and Müllenhoff to prove the contrary, is almost if not quite conclusive proof that each poem consists of material taken from more than one source.
 		Furthermore, there is nowhere continuity within the verse itself for more than a very few stanzas.
-		An analysis of the <cr>Reginsmol</cr> shows that stanzas <sr>1</sr>--<sr>4</sr>, <sr>6</sr>--<sr>10</sr>, and <sr>12</sr>, all in Ljothahattr stanza form, seem to belong together as fragments of a poem dealing with Loki's (not Andvari's) curse on the gold taken by the gods from Andvari and paid to Hreithmar, together with Hreithmar's death at the hands of his son, Fafnir, as the first result of this curse.
-		Stanza <sr>5</sr>, in Fornyrthislag, is a curse on the gold, here ascribed to Andvari, but the only proper name in the stanza, Gust, is quite unidentifiable, and the stanza may originally have had to do with a totally different story.
-		Stanza <sr>11</sr>, likewise in Fornyrthislag, is merely a father's demand that his daughter rear a family to avenge his death; there is nothing in it to link it necessarily with the dying Hreithmar.
-		Stanzas <sr>13</sr>--<sr>18</sr>, all in Fornyrthislag, give Regin's welcome to Sigurth (stanzas <sr>13</sr>--<sr>14</sr>), Sigurth's announcement that he will avenge his father's death on the sons of Hunding before he seeks any treasure (stanza <sr>15</sr>), and a dialogue between a certain Hnikar, who is really Othin, and Regin, as the latter and Sigurth are on the point of being shipwrecked.
-		This section (stanzas <sr>13</sr>--<sr>19</sr>) bears a striking resemblance to the Helgi lays, and may well have come originally from that cycle.
-		Next follows a passage in Ljothahattr form (stanzas <sr>19</sr>--<sr>22</sr> and <sr>24</sr>--<sr>25</sr>) in which Hnikar-Othin gives some general advice as to lucky omens and good conduct in battle; the entire passage might equally well stand in the <cr>Hovamol</cr>, and I suspect that it originally came from just such a collection of wise saws.
-		Inserted in this passage is stanza <sr>23</sr>, in Fornyrthislag, likewise on the conduct of battle, with a bit of tactical advice included.
-		The ``poem'' ends with a single stanza, in Fornyrthislag, simply stating that the bloody fight is over and that Sigurth fought well---a statement equally applicable to any part of the hero's career.
+		An analysis of the <chapterref>Reginsmol</chapterref> shows that stanzas <stanzaref chapter="Reginsmol">1</stanzaref>–<stanzaref chapter="Reginsmol">4</stanzaref>, <stanzaref chapter="Reginsmol">6</stanzaref>–<stanzaref chapter="Reginsmol">10</stanzaref>, and <stanzaref chapter="Reginsmol">12</stanzaref>, all in Ljothahattr stanza form, seem to belong together as fragments of a poem dealing with Loki's (not Andvari's) curse on the gold taken by the gods from Andvari and paid to Hreithmar, together with Hreithmar's death at the hands of his son, Fafnir, as the first result of this curse.
+		Stanza <stanzaref chapter="Reginsmol">5</stanzaref>, in Fornyrthislag, is a curse on the gold, here ascribed to Andvari, but the only proper name in the stanza, Gust, is quite unidentifiable, and the stanza may originally have had to do with a totally different story.
+		Stanza <stanzaref chapter="Reginsmol">11</stanzaref>, likewise in Fornyrthislag, is merely a father's demand that his daughter rear a family to avenge his death; there is nothing in it to link it necessarily with the dying Hreithmar.
+		Stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">18</stanzaref>, all in Fornyrthislag, give Regin's welcome to Sigurth (stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">14</stanzaref>), Sigurth's announcement that he will avenge his father's death on the sons of Hunding before he seeks any treasure (stanza <stanzaref chapter="Reginsmol">15</stanzaref>), and a dialogue between a certain Hnikar, who is really Othin, and Regin, as the latter and Sigurth are on the point of being shipwrecked.
+		This section (stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">19</stanzaref>) bears a striking resemblance to the Helgi lays, and may well have come originally from that cycle.
+		Next follows a passage in Ljothahattr form (stanzas <stanzaref chapter="Reginsmol">19</stanzaref>–<stanzaref chapter="Reginsmol">22</stanzaref> and <stanzaref chapter="Reginsmol">24</stanzaref>–<stanzaref chapter="Reginsmol">25</stanzaref>) in which Hnikar-Othin gives some general advice as to lucky omens and good conduct in battle; the entire passage might equally well stand in the <chapterref>Hovamol</chapterref>, and I suspect that it originally came from just such a collection of wise saws.
+		Inserted in this passage is stanza <stanzaref chapter="Reginsmol">23</stanzaref>, in Fornyrthislag, likewise on the conduct of battle, with a bit of tactical advice included.
+		The “poem” ends with a single stanza, in Fornyrthislag, simply stating that the bloody fight is over and that Sigurth fought well—a statement equally applicable to any part of the hero's career.
 	</block>
 	<block class="text">
-		Finnur Jonsson has divided the <cr>Reginsmol</cr> into two poems, or rather into two sets of fragments, but this, as the foregoing analysis has indicated, does not appear to go nearly far enough.
-		It accords much better with the facts to assume that the compiler of the collection represented by the <src>Codex Regius</src>, having set out to tell the story of Sigurth, took his verse fragments pretty much wherever he happened to find them.
+		Finnur Jonsson has divided the <chapterref>Reginsmol</chapterref> into two poems, or rather into two sets of fragments, but this, as the foregoing analysis has indicated, does not appear to go nearly far enough.
+		It accords much better with the facts to assume that the compiler of the collection represented by the <source>Codex Regius</source>, having set out to tell the story of Sigurth, took his verse fragments pretty much wherever he happened to find them.
 		In this connection, it should be remembered that in the fluid state of oral tradition poems, fragments, and stanzas passed readily and frequently from one story to another.
 		Tradition, never critical, doubtless connected with the Sigurth story much verse that never originated there.
 	</block>
 	<block class="text">
-		If the entire passage beginning with the prose <cr>Fra Dautha Sinfjotla</cr>, and, except for the <cr>Gripisspo</cr>, including the <cr>Reginsmol</cr>, <cr>Fafnismol</cr>, and <cr>Sigrdrifumol</cr>, be regarded as a highly uncritical piece of compilation, rendered consecutive by the compiler's prose narrative, its difficulties are largely smoothed away; any other way of looking at it results in utterly inconclusive attempts to reconstruct poems some of which quite possibly never existed.
+		If the entire passage beginning with the prose <chapterref>Fra Dautha Sinfjotla</chapterref>, and, except for the <chapterref>Gripisspo</chapterref>, including the <chapterref>Reginsmol</chapterref>, <chapterref>Fafnismol</chapterref>, and <chapterref>Sigrdrifumol</chapterref>, be regarded as a highly uncritical piece of compilation, rendered consecutive by the compiler's prose narrative, its difficulties are largely smoothed away; any other way of looking at it results in utterly inconclusive attempts to reconstruct poems some of which quite possibly never existed.
 	</block>
 	<block class="text">
 		The twenty-six stanzas and accompanying prose notes included under the heading of Reginsmol belong almost wholly to the northern part of the Sigurth legend; the mythological features have no counterpart in the southern stories, and only here and there is there any betrayal of the tradition's Frankish home.
 		The story of Andvari, Loki, and Hreithmar is purely Norse, as is the concluding section containing Othin's counsels.
-		If we assume that the passage dealing with the victory over Hunding's sons belongs to the Helgi cycle (cf. introductory notes to <cr>Helgakvitha Hjorvarthssonar</cr> and <cr>Helgakvitha Hundingsbana I</cr>), there is very little left to reflect the Sigurth tradition proper.
+		If we assume that the passage dealing with the victory over Hunding's sons belongs to the Helgi cycle (cf. introductory notes to <chapterref>Helgakvitha Hjorvarthssonar</chapterref> and <chapterref>Helgakvitha Hundingsbana I</chapterref>), there is very little left to reflect the Sigurth tradition proper.
 	</block>
 	<block class="text">
-		Regarding the general development of the story of Sigurth in the North, see the introductory note to the <cr>Gripisspo</cr>.
+		Regarding the general development of the story of Sigurth in the North, see the introductory note to the <chapterref>Gripisspo</chapterref>.
 	</block>
 	<block class="sepline" />
 	<block class="prose">
 		<original>
-			Sigurþr gekk til sto`þs Hja`lpreks ok kaus se`r af hest einn, er Grani var kallaþr si`þan.<br />
-			Þa` var kominn Reginn til Hja`lpreks, <conj>sonr</conj> Hreiþmars; hann var hverjum manni hagari ok dvergr of vo~xt, hann var vitr, grimmr ok fjo~lkunnigr.<br />
-			Reginn veitti Sigurþi fo`str ok kenslu ok elskaþi hann mjo~k.<br />
-			Hann sagþi Sigurþi fra` forellri si`nu ok þeim atburþum, at O`þinn ok Ho_enir ok Loki ho~fþu komit til Andvarafors: i` þeim forsi var fjo~lþi fiska.<br />
-			Einn dvergr he`t Andvari, hann var lo~ngum i` forsinum i` geddu li`ki ok fekk se`r þar matar.<br />
-			Otr he`t bro`þir va`rr, kvaþ Reginn, er opt fo`r i` forsinn i` otrs li`ki; hann hafþi tekit einn lax ok sat a` a`rbakkanum ok a`t blundandi.<br />
-			Loki laust hann meþ steini til bana; þo`ttuz a_esir mjo~k hepnir verit hafa ok flo`gu belg af otrinum.<br />
-			Þat sama kveld so`ttu þeir gisting til Hreiþmars ok sy`ndu veiþi si`na.<br />
-			Þa` to`ku ve`r þa` ho~ndum ok lo~gþum þeim fjo~rlausn at fylla otrbelginn meþ gulli ok hylja utan ok meþ rauþu gulli.<br />
-			Þa` sendu þeir Loka at afla gullsins; hann kom til Ra`nar ok fekk net hennar ok fo`r þa` til Andvarafors ok kastaþi netinu fyr gedduna, en hon hljo`p i` netit.<br />
-			Þa` ma_e`lti Loki:
+			Sigurþr gekk til stōþs Hjālpreks ok kaus sēr af hest einn, er Grani var kallaþr sīþan.<br />
+			Þā var kominn Reginn til Hjālpreks, <conj>sonr</conj> Hreiþmars; hann var hverjum manni hagari ok dvergr of vǫxt, hann var vitr, grimmr ok fjǫlkunnigr.<br />
+			Reginn veitti Sigurþi fōstr ok kenslu ok elskaþi hann mjǫk.<br />
+			Hann sagþi Sigurþi frā forellri sīnu ok þeim atburþum, at Ōþinn ok Hœnir ok Loki hǫfþu komit til Andvarafors: ī þeim forsi var fjǫlþi fiska.<br />
+			Einn dvergr hēt Andvari, hann var lǫngum ī forsinum ī geddu līki ok fekk sēr þar matar.<br />
+			Otr hēt brōþir vārr, kvaþ Reginn, er opt fōr ī forsinn ī otrs līki; hann hafþi tekit einn lax ok sat ā ārbakkanum ok āt blundandi.<br />
+			Loki laust hann meþ steini til bana; þōttuz æsir mjǫk hepnir verit hafa ok flōgu belg af otrinum.<br />
+			Þat sama kveld sōttu þeir gisting til Hreiþmars ok sȳndu veiþi sīna.<br />
+			Þā tōku vēr þā hǫndum ok lǫgþum þeim fjǫrlausn at fylla otrbelginn meþ gulli ok hylja utan ok meþ rauþu gulli.<br />
+			Þā sendu þeir Loka at afla gullsins; hann kom til Rānar ok fekk net hennar ok fōr þā til Andvarafors ok kastaþi netinu fyr gedduna, en hon hljōp ī netit.<br />
+			Þā mǣlti Loki:
 		</original>
 		<translation>
 			Sigurth went to Hjalprek's stud and chose for himself a horse, who thereafter was called Grani.<br />
@@ -77,21 +77,21 @@
 			Regin undertook Sigurth's bringing up and teaching, and loved him much.<br />
 			He told Sigurth of his forefathers, and also of this: that once Othin and Hönir and Loki had come to Andvari's waterfall, and in the fall were many fish.<br />
 			Andvari was a dwarf, who had dwelt long in the waterfall in the shape of a pike, and there he got his food.<br />
-			``Otr was the name of a brother of ours,'' said Regin, ``who often went into the fall in the shape of an otter; he had caught a salmon, and sat on the high bank eating it with his eyes shut.<br />
+			“Otr was the name of a brother of ours,” said Regin, “who often went into the fall in the shape of an otter; he had caught a salmon, and sat on the high bank eating it with his eyes shut.<br />
 			Loki threw a stone at him and killed him; the gods thought they bad had great good luck, and stripped the skin off the otter.<br />
 			That same evening they sought a night's lodging at Hreithmar's house, and showed their booty.<br />
 			Then we seized them, and told them, as ransom for their lives, to fill the otter skin with gold, and completely cover it outside as well with red gold.<br />
-			Then they sent Loki to get the gold; he went to Ron and got her net, and went then to Andvari's fall and cast the net in front of the pike, and the pike leaped into the net.''<br />
+			Then they sent Loki to get the gold; he went to Ron and got her net, and went then to Andvari's fall and cast the net in front of the pike, and the pike leaped into the net.”<br />
 			Then Loki said:
 		</translation>
 		<comment>
 			<expl>Hjalprek</expl>: father of Alf, Sigurth's step-father; cf. <chapterref>Fra Dautha Sinfjotla</chapterref>, and note.
 			<expl>Grani</expl>: cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">5</stanzaref> and note.
-			<expl>Regin</expl> (``Counsel-Giver''): undoubtedly he goes back to the smith of the German story; in the <src>Thithrekssaga</src> version he is called Mimir, while Regin is there the name of the dragon (here Regin's brother, Fafnir).
+			<expl>Regin</expl> (“Counsel-Giver”): undoubtedly he goes back to the smith of the German story; in the <source>Thithrekssaga</source> version he is called Mimir, while Regin is there the name of the dragon (here Regin's brother, Fafnir).
 			The <chapterref>Voluspo</chapterref> (stanza <stanzaref chapter="Voluspo">12</stanzaref>) names a Regin among the dwarfs, and the name may have assisted in making Regin a dwarf here.
 			<expl>Hreithmar</expl>: nothing is known of him outside of this story.
-			<expl>Othin</expl>, <expl>Hönir</expl> and <expl>Loki</expl>: these same three gods appear in company in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">17</stanzaref>--<stanzaref chapter="Voluspo">18</stanzaref>.
-			<expl>Andvari's fall</expl>: according to Snorri, who tells this entire story in the <src>Skaldskaparmal</src>, Andvari's fall was in the world of the dark elves, while the one when Loki killed the otter was not; here, however, the two are considered identical.
+			<expl>Othin</expl>, <expl>Hönir</expl> and <expl>Loki</expl>: these same three gods appear in company in <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">17</stanzaref>–<stanzaref chapter="Voluspo">18</stanzaref>.
+			<expl>Andvari's fall</expl>: according to Snorri, who tells this entire story in the <source>Skaldskaparmal</source>, Andvari's fall was in the world of the dark elves, while the one when Loki killed the otter was not; here, however, the two are considered identical.
 			<expl>With his eyes shut</expl>: according to Snorri, Otr ate with his eyes shut because be was so greedy that he could not bear to see the food before him diminishing.
 			<expl>Ron</expl>: wife of the sea-god Ægir, who draws down drowning men with her net; cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <stanzaref chapter="Helgakvitha Hjorvarthssonar">18</stanzaref> and note.
 			Snorri says that Loki caught the pike with his hands.
@@ -99,16 +99,16 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			``Hvat's þat fiska<sep />es rinnr flo`þi i`,<br />
-			kannat viþ vi`ti varask?<br />
-			haufuþ þitt<sep />leystu helju o`r,<br />
-			finn me`r <conj>lindar</conj> loga!''
+			“Hvat's þat fiska<sep />es rinnr flōþi ī,<br />
+			kannat viþ vīti varask?<br />
+			haufuþ þitt<sep />leystu helju ōr,<br />
+			finn mēr <conj>lindar</conj> loga!”
 		</original>
 		<translation>
-			``What is the fish<sep />that runs in the flood,<br />
+			“What is the fish<sep />that runs in the flood,<br />
 			And itself from ill cannot save?<br />
 			If thy head thou wouldst<sep />from hell redeem,<br />
-			Find me the water's flame.''
+			Find me the water's flame.”
 		</translation>
 		<comment>
 			Snorri quotes this stanza.
@@ -120,19 +120,19 @@
 			Andvari kvaþ:
 		</original_prelude>
 		<original>
-			``Andvari heitik,<sep />Oi::nn he`t minn faþir,<br />
+			“Andvari heitik,<sep />Oïnn hēt minn faþir,<br />
 			margan hefk fors of farit;<br />
-			aumlig norn<sep /><conj>sko`pumk</conj> i` a`rdaga,<br />
-			at skyldak i` vatni vaþa.''
+			aumlig norn<sep /><conj>skōpumk</conj> ī ārdaga,<br />
+			at skyldak ī vatni vaþa.”
 		</original>
 		<translation_prelude>
 			Andvari spake:
 		</translation_prelude>
 		<translation>
-			``Andvari am I,<sep />and Oin my father,<br />
+			“Andvari am I,<sep />and Oin my father,<br />
 			In many a fall have I fared;<br />
 			An evil Norn<sep />in olden days<br />
-			Doomed me In waters to dwell.''
+			Doomed me In waters to dwell.”
 		</translation>
 		<comment>
 			Snorri quotes this stanza.
@@ -146,24 +146,24 @@
 			[Loki kvaþ:
 		</original_prelude>
 		<original>
-			``Seg þat, Andvari!<sep />ef þu` eiga vill<br />
-			li`f i` ly`þa so~lum:<br />
-			hver gjo~ld<sep />faa gumna synir,<br />
-			ef þeir ho~ggvask orþum a`?''
+			“Seg þat, Andvari!<sep />ef þū eiga vill<br />
+			līf ī lȳþa sǫlum:<br />
+			hver gjǫld<sep />faa gumna synir,<br />
+			ef þeir hǫggvask orþum ā?”
 		</original>
 		<translation_prelude>
 			Loki spake:
 		</translation_prelude>
 		<translation>
-			``Andvari, say,<sep />if thou seekest still<br />
+			“Andvari, say,<sep />if thou seekest still<br />
 			To live in the land of men,<br />
 			What payment is set<sep />for the sons of men<br />
-			Who war with lying words?''
+			Who war with lying words?”
 		</translation>
 		<comment>
-			Stanzas <sr>3</sr>--<sr>4</sr> may well be fragments of some other poem.
+			Stanzas <stanzaref chapter="Reginsmol">3</stanzaref>–<stanzaref chapter="Reginsmol">4</stanzaref> may well be fragments of some other poem.
 			Certainly Loki's question does not fit the situation, and the passage looks like an extract from some such poem as <chapterref>Vafthruthnismol</chapterref>.
-			In <src>Regius</src> the phrase ``Loki spake'' stands in the middle of line 1.
+			In <source>Regius</source> the phrase “Loki spake” stands in the middle of line 1.
 		</comment>
 	</block>
 	<block class="stanza" number="4">
@@ -171,30 +171,30 @@
 			Andvari kvaþ:
 		</original_prelude>
 		<original>
-			``Ofrgjo~ld<sep />faa gumna synir<br />
+			“Ofrgjǫld<sep />faa gumna synir<br />
 			þeirs Vaþgelmi vaþa;<br />
-			o`saþra orþa<sep />hverrs a` annan ly`gr,<br />
-			oflengi leiþa limar.'']
+			ōsaþra orþa<sep />hverrs ā annan lȳgr,<br />
+			oflengi leiþa limar.”]
 		</original>
 		<translation_prelude>
 			Andvari spake:
 		</translation_prelude>
 		<translation>
-			``A mighty payment<sep />the men must make<br />
+			“A mighty payment<sep />the men must make<br />
 			Who in Valthgelmir's waters wade;<br />
 			On a long road lead<sep />the lying words<br />
-			That one to another utters.''
+			That one to another utters.”
 		</translation>
 		<comment>
 			The manuscript does not name the speaker.
-			<expl>Vathgelmir</expl> (``Raging to Wade''): a river not elsewhere mentioned, but cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref>.
+			<expl>Vathgelmir</expl> (“Raging to Wade”): a river not elsewhere mentioned, but cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">39</stanzaref>.
 		</comment>
 	</block>
 	<block class="prose" label="p5">
 		<original>
-			Loki sa` allt gull þat er Andvari a`tti.<br />
-			En er hann hafþi fram reitt gullit, þa` hafþi hann eptir einn hring, ok to`k Loki þann af honum.<br />
-			Dvergrinn gekk inn i` steininn ok ma_elti:
+			Loki sā allt gull þat er Andvari ātti.<br />
+			En er hann hafþi fram reitt gullit, þā hafþi hann eptir einn hring, ok tōk Loki þann af honum.<br />
+			Dvergrinn gekk inn ī steininn ok mælti:
 		</original>
 		<translation>
 			Loki saw all the gold that Andvari had.<br />
@@ -209,33 +209,33 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			``Þat skal goll,<sep />es Gustr a`tti,<br />
-			bro/`þrum tveim<sep />at bana verþa<br />
-			ok o~þlingum<sep />a`ta at ro`gi;<br />
-			mun mi`ns fear<sep />mangi njo`ta.''
+			“Þat skal goll,<sep />es Gustr ātti,<br />
+			brø̄þrum tveim<sep />at bana verþa<br />
+			ok ǫþlingum<sep />āta at rōgi;<br />
+			mun mīns fear<sep />mangi njōta.”
 		</original>
 		<translation>
-			``Now shall the gold<sep />that Gust once had<br />
+			“Now shall the gold<sep />that Gust once had<br />
 			Bring their death<sep />to brothers twain,<br />
 			And evil be<sep />for heroes eight;<br />
-			joy of my wealth<sep />shall no man win.''
+			joy of my wealth<sep />shall no man win.”
 		</translation>
 		<comment>
-			This stanza apparently comes from a different source from stanzas <sr>1</sr>--<sr>4</sr> (or <sr>1</sr>--<sr>2</sr> if <sr>3</sr>--<sr>4</sr> are interpolated) and <sr>6</sr>--<sr>10</sr>; cf. <ref chapter="Reginsmol">Introductory Note</ref>.
-			In the <src>Volsungasaga</src> Andvari lays his curse particularly on the ring.
+			This stanza apparently comes from a different source from stanzas <stanzaref chapter="Reginsmol">1</stanzaref>–<stanzaref chapter="Reginsmol">4</stanzaref> (or <stanzaref chapter="Reginsmol">1</stanzaref>–<stanzaref chapter="Reginsmol">2</stanzaref> if <stanzaref chapter="Reginsmol">3</stanzaref>–<stanzaref chapter="Reginsmol">4</stanzaref> are interpolated) and <stanzaref chapter="Reginsmol">6</stanzaref>–<stanzaref chapter="Reginsmol">10</stanzaref>; cf. <ref chapter="Reginsmol">Introductory Note</ref>.
+			In the <source>Volsungasaga</source> Andvari lays his curse particularly on the ring.
 			<expl>Gust</expl>: possibly a name for Andvari himself, or for an earlier possessor of the treasure.
 			<expl>Brothers twain</expl>: Fafnir and Regin.
-			<expl>Heroes eight</expl>: the word ``eight'' may easily have been substituted for something like ``all'' to make the stanza fit the case; the ``eight'' in question are presumably Sigurth, Gotthorm, Gunnar, Hogni, Atli, Erp, Sorli and Hamther, all of whom are slain in the course of the story.
+			<expl>Heroes eight</expl>: the word “eight” may easily have been substituted for something like “all” to make the stanza fit the case; the “eight” in question are presumably Sigurth, Gotthorm, Gunnar, Hogni, Atli, Erp, Sorli and Hamther, all of whom are slain in the course of the story.
 			But the stanza may originally not have referred to Andvari's treasure at all.
 		</comment>
 	</block>
 	<block class="prose" label="p6">
 		<original>
-			A_Esir reiddu Hreiþmari fe`it ok tra`þu upp otrbelginn ok reistu a` fo_etr.<br />
-			Þa` skyldu a_esirnir hlaþa upp gullinu ok hylja.<br />
-			En er þat var go~rt, gekk Hreiþmarr fram ok sa` eitt granaha`r ok baþ hylja.<br />
-			Þa` dro` O`þinn fram hringinn Andvaranaut ok hulþi ha`rit.<br />
-			<conj>Þa` kvaþ Loki:</conj>
+			Æsir reiddu Hreiþmari fēit ok trāþu upp otrbelginn ok reistu ā fœtr.<br />
+			Þā skyldu æsirnir hlaþa upp gullinu ok hylja.<br />
+			En er þat var gǫrt, gekk Hreiþmarr fram ok sā eitt granahār ok baþ hylja.<br />
+			Þā drō Ōþinn fram hringinn Andvaranaut ok hulþi hārit.<br />
+			<conj>Þā kvaþ Loki:</conj>
 		</original>
 		<translation>
 			The gods gave Hreithmar the gold, and filled up the otter-skin, and stood it on its feet.<br />
@@ -245,25 +245,25 @@
 			Then Loki said:
 		</translation>
 		<comment>
-			<expl>Andvaranaut</expl>: ``Andvari's Gem.''
+			<expl>Andvaranaut</expl>: “Andvari's Gem.”
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			``Goll's þe`r nu` reitt,<sep />en þu` gjo~ld hefr<br />
-			mikil mi`ns ho~fuþs;<br />
-			syni þi`num<sep />verþra sa_e`la sko~puþ,<br />
-			þat's ykkarr beggja bani.''
+			“Goll's þēr nū reitt,<sep />en þū gjǫld hefr<br />
+			mikil mīns hǫfuþs;<br />
+			syni þīnum<sep />verþra sǣla skǫpuþ,<br />
+			þat's ykkarr beggja bani.”
 		</original>
 		<translation>
-			``The gold is given,<sep />and great the price<br />
+			“The gold is given,<sep />and great the price<br />
 			Thou hast my head to save;<br />
 			But fortune thy sons<sep />shall find not there,<br />
-			The bane of ye both it is.''
+			The bane of ye both it is.”
 		</translation>
 		<comment>
-			Snorri quotes this stanza, introducing it, as here, with ``Then Loki said'' in the prose.
-			<src>Regius</src> omits this phrase, but inserts ``said Loki'' in line 1.
+			Snorri quotes this stanza, introducing it, as here, with “Then Loki said” in the prose.
+			<source>Regius</source> omits this phrase, but inserts “said Loki” in line 1.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
@@ -271,19 +271,19 @@
 			Hreiþmarr kvaþ:
 		</original_prelude>
 		<original>
-			``Gjafar þu` gaft,<sep />gaftat a`stgjafar,<br />
+			“Gjafar þū gaft,<sep />gaftat āstgjafar,<br />
 			gaftat af heilum hug;<br />
-			fjo~rvi yþru<sep />skylduþ e`r firþir vesa,<br />
-			ef vissak fa`r þat fyrir.''
+			fjǫrvi yþru<sep />skylduþ ēr firþir vesa,<br />
+			ef vissak fār þat fyrir.”
 		</original>
 		<translation_prelude>
 			Hreithmar spake:
 		</translation_prelude>
 		<translation>
-			``Gifts ye gave,<sep />but ye gave not kindly,<br />
+			“Gifts ye gave,<sep />but ye gave not kindly,<br />
 			Gave not with hearts that were whole;<br />
 			Your lives ere this<sep />should ye all have lost,<br />
-			If sooner this fate I had seen.''
+			If sooner this fate I had seen.”
 		</translation>
 	</block>
 	<block class="stanza" number="8">
@@ -291,22 +291,22 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			``Enn es verra<sep />---þat vita þykkjumk---<br />
-			niþja stri`þ of <dagger /> nept:<br />
-			jo~fra o`borna<sep />hykk þa` enn vesa,<br />
-			es þat's til hatrs hugat.''
+			“Enn es verra<sep />—þat vita þykkjumk—<br />
+			niþja strīþ of <dagger /> nept:<br />
+			jǫfra ōborna<sep />hykk þā enn vesa,<br />
+			es þat's til hatrs hugat.”
 		</original>
 		<translation_prelude>
 			Loki spake:
 		</translation_prelude>
 		<translation>
-			``Worse is this<sep />that methinks I see,<br />
+			“Worse is this<sep />that methinks I see,<br />
 			For a maid shall kinsmen clash;<br />
 			Heroes unborn<sep />thereby shall be,<br />
-			I deem, to hatred doomed.''
+			I deem, to hatred doomed.”
 		</translation>
 		<comment>
-			The word translated ``maid'' in line 2 is obscure, and ``gold'' may be meant.
+			The word translated “maid” in line 2 is obscure, and “gold” may be meant.
 			Apparently, however, the reference is to the fight between Sigurth and the sons of Gjuki over Brynhild.
 			The manuscript does not name the speaker, and many editions assign this stanza to Hreithmar.
 		</comment>
@@ -316,29 +316,29 @@
 			Hreiþmarr kvaþ:
 		</original_prelude>
 		<original>
-			``Rauþu golli<sep />hykk mik ra`þa munu<br />
-			sva` lengi sem lifik;<br />
-			ho`t þi`n<sep />hra_e`þumk etki lyf,<br />
-			ok haldiþ heim heþan.''
+			“Rauþu golli<sep />hykk mik rāþa munu<br />
+			svā lengi sem lifik;<br />
+			hōt þīn<sep />hrǣþumk etki lyf,<br />
+			ok haldiþ heim heþan.”
 		</original>
 		<translation_prelude>
 			Hreithmar spake:
 		</translation_prelude>
 		<translation>
-			``The gold so red<sep />shall I rule, methinks,<br />
+			“The gold so red<sep />shall I rule, methinks,<br />
 			So long as I shall live;<br />
 			Nought of fear<sep />for thy threats I feel,<br />
-			So get ye hence to your homes.''
+			So get ye hence to your homes.”
 		</translation>
 		<comment>
-			The manuscript includes ``said Hreithmar'' (abbreviated) in the middle of line 1, and some editors have followed this.
+			The manuscript includes “said Hreithmar” (abbreviated) in the middle of line 1, and some editors have followed this.
 		</comment>
 	</block>
 	<block class="prose" label="p10">
 		<original>
-			Fa`fnir ok Reginn kro~fþu Hreiþmar niþgjalda eptir Otr bro`þur sinn.<br />
-			Hann kvaþ nei viþ; en Fa`fnir lagþi sverþi Hreiþmar fo~þur sinn sofanda.<br />
-			Hreiþmarr kallaþi a` do_etr si`nar:
+			Fāfnir ok Reginn krǫfþu Hreiþmar niþgjalda eptir Otr brōþur sinn.<br />
+			Hann kvaþ nei viþ; en Fāfnir lagþi sverþi Hreiþmar fǫþur sinn sofanda.<br />
+			Hreiþmarr kallaþi ā dœtr sīnar:
 		</original>
 		<translation>
 			Fafnir and Regin asked Hreithmar for a share of the wealth that was paid for the slaying of their brother, Otr.<br />
@@ -348,18 +348,18 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			``Lyngheiþr ok Lofnheiþr!<sep />vitiþ mi`nu li`fi farit,<br />
-			mart's þats þo~rf þear!''<br />
+			“Lyngheiþr ok Lofnheiþr!<sep />vitiþ mīnu līfi farit,<br />
+			mart's þats þǫrf þear!”<br />
 			<stanzaprelude>Lyngheiþr kvaþ:</stanzaprelude><br />
-			``<conj>Fo~`</conj> mun systir,<sep />þo`t fo~þur missi,<br />
-			hefna hly`ra harms.''
+			“<conj>Fǭ</conj> mun systir,<sep />þōt fǫþur missi,<br />
+			hefna hlȳra harms.”
 		</original>
 		<translation>
-			``Lyngheith and Lofnheith,<sep />fled is my life,<br />
-			And mighty now is my need!''<br />
+			“Lyngheith and Lofnheith,<sep />fled is my life,<br />
+			And mighty now is my need!”<br />
 			<stanzaprelude>Lyngheith spake:</stanzaprelude><br />
-			``Though a sister loses<sep />her father, seldom<br />
-			Revenge on her brother she brings.''
+			“Though a sister loses<sep />her father, seldom<br />
+			Revenge on her brother she brings.”
 		</translation>
 		<comment>
 			Hreithmar's daughters do not appear elsewhere.
@@ -371,19 +371,19 @@
 			[Hreiþmarr kvaþ:
 		</original_prelude>
 		<original>
-			``Al þo` do`ttur,<sep />di`s ulfhuguþ!<br />
+			“Al þō dōttur,<sep />dīs ulfhuguþ!<br />
 			ef getrat sun<sep />viþ siklingi;<br />
-			fa` meyju mann<sep />i` meginþarfar,<br />
-			þa` mun þeirar sunr<sep />þi`ns harms reka.'']
+			fā meyju mann<sep />ī meginþarfar,<br />
+			þā mun þeirar sunr<sep />þīns harms reka.”]
 		</original>
 		<translation_prelude>
 			Hreithmar spake:
 		</translation_prelude>
 		<translation>
-			``A daughter, woman<sep />with wolf's heart, bear,<br />
+			“A daughter, woman<sep />with wolf's heart, bear,<br />
 			If thou hast no son<sep />with the hero brave;<br />
 			If one weds the maid,<sep />for the need is mighty,<br />
-			Their son for thy hurt<sep />may vengeance seek.''
+			Their son for thy hurt<sep />may vengeance seek.”
 		</translation>
 		<comment>
 			Apparently an interpolation (cf. <ref chapter="Reginsmol">Introductory Note</ref>).
@@ -395,9 +395,9 @@
 	</block>
 	<block class="prose" label="p12">
 		<original>
-			Þa` do` Hreiþmarr, en Fa`fnir to`k gullit allt.<br />
-			Þa` beiddiz Reginn at hafa fo~þurarf sinn, en Fa`fnir galt þar nei viþ.<br />
-			Þa` leitaþi Reginn ra`þa viþ Lyngheiþi systur si`na, hvernig hann skyldi heimta fo~þurarf sinn.<br />
+			Þā dō Hreiþmarr, en Fāfnir tōk gullit allt.<br />
+			Þā beiddiz Reginn at hafa fǫþurarf sinn, en Fāfnir galt þar nei viþ.<br />
+			Þā leitaþi Reginn rāþa viþ Lyngheiþi systur sīna, hvernig hann skyldi heimta fǫþurarf sinn.<br />
 			Hon kvaþ:
 		</original>
 		<translation>
@@ -409,22 +409,22 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			``<conj>Bro`þur</conj> kveþja<sep />skaltu bli`þliga<br />
-			arfs ok o/`þra hugar;<br />
-			esa þat ho/`ft,<sep />at þu` hjo~rvi skylir<br />
-			kveþja Fa`fni fear.''
+			“<conj>Brōþur</conj> kveþja<sep />skaltu blīþliga<br />
+			arfs ok ø̄þra hugar;<br />
+			esa þat hø̄ft,<sep />at þū hjǫrvi skylir<br />
+			kveþja Fāfni fear.”
 		</original>
 		<translation>
-			``In friendly wise<sep />the wealth shalt thou ask<br />
+			“In friendly wise<sep />the wealth shalt thou ask<br />
 			Of thy brother, and better will;<br />
 			Not seemly is it<sep />to seek with the sword<br />
-			Fafnir's treasure to take.''
+			Fafnir's treasure to take.”
 		</translation>
 	</block>
 	<block class="prose" label="p13">
 		<original>
 			Þessa hluti sagþi Reginn Sigurþi.<br />
-			Einn dag, er hann kom til hu`sa Regins, var honum vel fagnat.<br />
+			Einn dag, er hann kom til hūsa Regins, var honum vel fagnat.<br />
 			Reginn kvaþ:
 		</original>
 		<translation>
@@ -435,13 +435,13 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			``Kominn es hingat<sep />konr Sigmundar,<br />
-			seggr snarra`þi<sep />til sala va`rra;<br />
-			mo`þ hefr meira<sep />an maþr gamall,<br />
-			fangs <conj>þykkjumk</conj> vo~`n<sep />at frekum ulfi.
+			“Kominn es hingat<sep />konr Sigmundar,<br />
+			seggr snarrāþi<sep />til sala vārra;<br />
+			mōþ hefr meira<sep />an maþr gamall,<br />
+			fangs <conj>þykkjumk</conj> vǭn<sep />at frekum ulfi.
 		</original>
 		<translation>
-			``Hither the son<sep />of Sigmund is come,<br />
+			“Hither the son<sep />of Sigmund is come,<br />
 			The hero eager,<sep />here to our hall;<br />
 			His courage is more<sep />than an ancient man's,<br />
 			And battle I hope<sep />from the hardy wolf.
@@ -449,38 +449,38 @@
 		<comment>
 			This and the following stanza may be out of place here, really belonging, together with their introductory prose sentence, in the opening prose passage, following the first sentence describing Regin.
 			Certainly they seem to relate to Regin's first meeting with Sigurth.
-			Stanzas <sr>13</sr>--<sr>26</sr>, interspersed with prose, are quoted in the <src>Nornageststhattr</src>.
-			Stanzas <sr>13</sr>--<sr>18</sr> may be the remnants of a lost poem belonging to the Helgi cycle (cf. <ref chapter="Reginsmol">Introductory Note</ref>).
+			Stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">26</stanzaref>, interspersed with prose, are quoted in the <source>Nornageststhattr</source>.
+			Stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">18</stanzaref> may be the remnants of a lost poem belonging to the Helgi cycle (cf. <ref chapter="Reginsmol">Introductory Note</ref>).
 			<expl>Hardy wolf</expl>: warrior, i. e., Sigurth.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			``Ek mun fo/`þa<sep />folkdjarfan gram:<br />
-			nu`'s Yngva konr<sep />meþ oss kominn;<br />
-			sja` mun ra_e`sir<sep />ri`kstr und so`lu,<br />
-			þrymr of o~ll lo~nd<sep />o/rlo~gsi`mu.
+			“Ek mun fø̄þa<sep />folkdjarfan gram:<br />
+			nū's Yngva konr<sep />meþ oss kominn;<br />
+			sjā mun rǣsir<sep />rīkstr und sōlu,<br />
+			þrymr of ǫll lǫnd<sep />ørlǫgsīmu.
 		</original>
 		<translation>
 			Here shall I foster<sep />the fearless prince,<br />
 			Now Yngvi's heir<sep />to us is come;<br />
 			The noblest hero<sep />beneath the sun,<br />
-			The threads of his fate<sep />all lands enfold.''
+			The threads of his fate<sep />all lands enfold.”
 		</translation>
 		<comment>
 			<expl>Yngvi's heir</expl>: Yngvi was one of the sons of the Danish king Halfdan the Old, and traditionally an ancestor of Helgi (cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">57</stanzaref> and note).
-			Calling Sigurth a descendant of Yngvi is, of course, absurd, and the use of this phrase is one of the many reasons for believing that stanzas <sr>13</sr>--<sr>18</sr> belonged originally to the Helgi cycle.
-			<expl>The threads</expl>, etc.: another link with Helgi; cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">3</stanzaref>--<stanzaref chapter="Helgakvitha Hundingsbana I">4</stanzaref>.
-			As Helgi was likewise regarded as a son of Sigmund, stanzas <sr>13</sr>--<sr>14</sr> would fit him just as well as Sigurth.
+			Calling Sigurth a descendant of Yngvi is, of course, absurd, and the use of this phrase is one of the many reasons for believing that stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">18</stanzaref> belonged originally to the Helgi cycle.
+			<expl>The threads</expl>, etc.: another link with Helgi; cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">3</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana I">4</stanzaref>.
+			As Helgi was likewise regarded as a son of Sigmund, stanzas <stanzaref chapter="Reginsmol">13</stanzaref>–<stanzaref chapter="Reginsmol">14</stanzaref> would fit him just as well as Sigurth.
 		</comment>
 	</block>
 	<block class="prose" label="p15">
 		<original>
-			Sigurþr var þa` jafnan meþ Regin, ok sagþi hann Sigurþi, at Fa`fnir la` a` Gnitaheiþi ok var i` orms li`ki.<br />
-			Hann a`tti a_egishja`lm, er <conj>o~ll</conj> kvikvendi hra_edduz viþ.<br />
-			Reginn go/rþi Sigurþi sverþ er Gramr he`t: þat var sva` hvast, at hann bra` þvi` ofan i` Ri`n ok le`t reka ullarlagþ fyr straumi, ok to`k i` sundr lagþinn sem vatnit.<br />
-			Þvi` sverþi klauf Sigurþr i` sundr steþja Regins.<br />
-			Eptir þat eggjaþi Reginn Sigurþ at vega Fa`fni; hann sagþi:
+			Sigurþr var þā jafnan meþ Regin, ok sagþi hann Sigurþi, at Fāfnir lā ā Gnitaheiþi ok var ī orms līki.<br />
+			Hann ātti ægishjālm, er <conj>ǫll</conj> kvikvendi hrædduz viþ.<br />
+			Reginn gørþi Sigurþi sverþ er Gramr hēt: þat var svā hvast, at hann brā þvī ofan ī Rīn ok lēt reka ullarlagþ fyr straumi, ok tōk ī sundr lagþinn sem vatnit.<br />
+			Þvī sverþi klauf Sigurþr ī sundr steþja Regins.<br />
+			Eptir þat eggjaþi Reginn Sigurþ at vega Fāfni; hann sagþi:
 		</original>
 		<translation>
 			Sigurth was there continually with Regin, who said to Sigurth that Fafnir lay at Gnitaheith, and was in the shape of a dragon.<br />
@@ -490,23 +490,23 @@
 			After that Regin egged Sigurth on to slay Fafnir, but he said:
 		</translation>
 		<comment>
-			<expl>Gnitaheith</expl>: cf. <cr>Gripisspo</cr>, <stanzaref chapter="Gripisspo">11</stanzaref> and note.
-			<expl>Fear-helm</expl>: the word ``ægis-hjalmr,'' which occurs both here and in <cr>Fafnismol</cr>, suggests an extraordinarily interesting, and still disputed, question of etymology.
-			<expl>Gram</expl>: according to the <src>Volsungasaga</src> Regin forged this sword from the fragments of the sword given by Othin to Sigmund (cf. <cr>Fra Dautha Sinfjotla</cr> and note).
+			<expl>Gnitaheith</expl>: cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">11</stanzaref> and note.
+			<expl>Fear-helm</expl>: the word “ægis-hjalmr,” which occurs both here and in <chapterref>Fafnismol</chapterref>, suggests an extraordinarily interesting, and still disputed, question of etymology.
+			<expl>Gram</expl>: according to the <source>Volsungasaga</source> Regin forged this sword from the fragments of the sword given by Othin to Sigmund (cf. <chapterref>Fra Dautha Sinfjotla</chapterref> and note).
 		</comment>
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			``Ho`tt munu hla_e`ja<sep />Hundings synir,<br />
+			“Hōtt munu hlǣja<sep />Hundings synir,<br />
 			þeirs Eylima<sep />aldrs synjuþu,<br />
-			ef meirr tyggja<sep />munar at so/`kja<br />
-			hringa rauþa<sep />an hefnd fo~þur.''
+			ef meirr tyggja<sep />munar at sø̄kja<br />
+			hringa rauþa<sep />an hefnd fǫþur.”
 		</original>
 		<translation>
-			``Loud will the sons<sep />of Hunding laugh,<br />
+			“Loud will the sons<sep />of Hunding laugh,<br />
 			Who low did Eylimi<sep />lay in death,<br />
 			If the hero sooner<sep />seeks the red<br />
-			Rings to find<sep />than his father's vengeance.''
+			Rings to find<sep />than his father's vengeance.”
 		</translation>
 		<comment>
 			Regarding the <expl>sons of Hunding</expl> and <expl>Eylimi</expl>, father of Sigurth's mother, all of whom belong to the Helgi-tradition, cf. <chapterref>Fra Dautha Sinfjotla</chapterref> and note.
@@ -514,9 +514,9 @@
 	</block>
 	<block class="prose" label="p16">
 		<original>
-			Hja`lprekr konungr fekk Sigurþi skipaliþ til fo~þurhefnda.<br />
-			Þeir fengu storm mikinn ok beittu fyr bergsno~s no~kkura.<br />
-			Maþr einn sto`þ a` berginu ok kvaþ:
+			Hjālprekr konungr fekk Sigurþi skipaliþ til fǫþurhefnda.<br />
+			Þeir fengu storm mikinn ok beittu fyr bergsnǫs nǫkkura.<br />
+			Maþr einn stōþ ā berginu ok kvaþ:
 		</original>
 		<translation>
 			King Hjalprek gave Sigurth a fleet for the avenging of his father.<br />
@@ -524,25 +524,25 @@
 			A man stood on the mountain, and said:
 		</translation>
 		<comment>
-			The fleet, and the subsequent storm, are also reminiscent of the Helgi cycle; cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">29</stanzaref>--<stanzaref chapter="Helgakvitha Hundingsbana I">31</stanzaref>, and <ref chapter="Helgakvitha Hundingsbana II">II</ref>, <proseref chapter="Helgakvitha Hundingsbana II">prose after stanza 16</proseref>.
+			The fleet, and the subsequent storm, are also reminiscent of the Helgi cycle; cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">29</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana I">31</stanzaref>, and <ref chapter="Helgakvitha Hundingsbana II">II</ref>, <proseref chapter="Helgakvitha Hundingsbana II">prose after stanza 16</proseref>.
 			<expl>A man</expl>: Othin.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			``Hverir ri`þa þar<sep />Ra_e`vils hestum<br />
-			ho`var unnir,<sep />haf glymjanda?<br />
+			“Hverir rīþa þar<sep />Rǣvils hestum<br />
+			hōvar unnir,<sep />haf glymjanda?<br />
 			seglvigg eru<sep />sveita stokkin,<br />
-			munut va`gmarar<sep />vind of standask.''
+			munut vāgmarar<sep />vind of standask.”
 		</original>
 		<translation>
-			``Who yonder rides<sep />on Rævil's steeds,<br />
+			“Who yonder rides<sep />on Rævil's steeds,<br />
 			O'er towering waves<sep />and waters wild?<br />
 			The sail-horses all<sep />with sweat are dripping,<br />
-			Nor can the sea-steeds<sep />the gale withstand.''
+			Nor can the sea-steeds<sep />the gale withstand.”
 		</translation>
 		<comment>
-			<expl>Rævil's steeds</expl> (Rævil was a sea-king, possibly the grandson of Ragnar Lothbrok mentioned in the <src>Hervararsaga</src>), <expl>sail-horses</expl> and <expl>sea-steeds</expl> all mean ``ships.''
+			<expl>Rævil's steeds</expl> (Rævil was a sea-king, possibly the grandson of Ragnar Lothbrok mentioned in the <source>Hervararsaga</source>), <expl>sail-horses</expl> and <expl>sea-steeds</expl> all mean “ships.”
 		</comment>
 	</block>
 	<block class="stanza" number="17">
@@ -550,22 +550,22 @@
 			Reginn svaraþi:
 		</original_prelude>
 		<original>
-			``He`r 'u ve`r Sigurþr<sep />a` sa_e`tre::um,<br />
+			“Hēr 'u vēr Sigurþr<sep />ā sǣtrëum,<br />
 			es oss byrr gefinn<sep />viþ bana sjalfan;<br />
-			fellr brattr breki<sep />bro~ndum ha_e`ri,<br />
-			hlunnvigg hrapa;<sep />hverr spyrr at þvi`?''
+			fellr brattr breki<sep />brǫndum hǣri,<br />
+			hlunnvigg hrapa;<sep />hverr spyrr at þvī?”
 		</original>
 		<translation_prelude>
 			Regin answered:
 		</translation_prelude>
 		<translation>
-			``On the sea-trees here<sep />are Sigurth and I,<br />
+			“On the sea-trees here<sep />are Sigurth and I,<br />
 			The storm wind drives us<sep />on to our death;<br />
 			The waves crash down<sep />on the forward deck,<br />
-			And the roller-steeds sink;<sep />who seeks our names?''
+			And the roller-steeds sink;<sep />who seeks our names?”
 		</translation>
 		<comment>
-			<expl>Sea-trees</expl> and <expl>roller-steeds</expl> (the latter because ships were pulled up on shore by means of rollers) both mean ``ships.''
+			<expl>Sea-trees</expl> and <expl>roller-steeds</expl> (the latter because ships were pulled up on shore by means of rollers) both mean “ships.”
 		</comment>
 	</block>
 	<block class="stanza" number="18">
@@ -573,29 +573,29 @@
 			Hnikarr kvaþ:
 		</original_prelude>
 		<original>
-			``Hnikar he`tu mik,<sep />þa`s hugin gladdi<br />
-			Vo~lsungr ungi<sep />ok vegit hafþi;<br />
-			nu` ma`tt kalla<sep />karl af bergi<br />
-			Feng eþa Fjo~lni---<sep />far vilk þiggja.''
+			“Hnikar hētu mik,<sep />þās hugin gladdi<br />
+			Vǫlsungr ungi<sep />ok vegit hafþi;<br />
+			nū mātt kalla<sep />karl af bergi<br />
+			Feng eþa Fjǫlni—<sep />far vilk þiggja.”
 		</original>
 		<translation_prelude>
 			The Man spake:
 		</translation_prelude>
 		<translation>
-			``Hnikar I was<sep />when Volsung once<br />
+			“Hnikar I was<sep />when Volsung once<br />
 			Gladdened the ravens<sep />and battle gave;<br />
 			Call me the Man<sep />from the Mountain now,<br />
-			Feng or Fjolnir;<sep />with you will I fare.''
+			Feng or Fjolnir;<sep />with you will I fare.”
 		</translation>
 		<comment>
-			The <src>Volsungasaga</src> quotes this stanza.
-			<expl>Hnikar</expl> and <expl>Fjolnir</expl>: Othin gives himself both these names in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">47</stanzaref>; <expl>Feng</expl> (``The Seizer'') does not appear elsewhere.
-			According to the <src>Volsungasaga</src>, no one knew Othin's name when he came to Volsung's house and left the sword there for Sigmund.
+			The <source>Volsungasaga</source> quotes this stanza.
+			<expl>Hnikar</expl> and <expl>Fjolnir</expl>: Othin gives himself both these names in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">47</stanzaref>; <expl>Feng</expl> (“The Seizer”) does not appear elsewhere.
+			According to the <source>Volsungasaga</source>, no one knew Othin's name when he came to Volsung's house and left the sword there for Sigmund.
 		</comment>
 	</block>
 	<block class="prose" label="p19">
 		<original>
-			Þeir viku at landi, ok gekk karl a` skip, ok la_egþi þa` veþrit.<br />
+			Þeir viku at landi, ok gekk karl ā skip, ok lægþi þā veþrit.<br />
 			Sigurþr kvaþ:
 		</original>
 		<translation>
@@ -605,16 +605,16 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			``Seg me`r þat, Hnikarr!<sep />alls þu` hvo~`rtveggja veizt<br />
+			“Seg mēr þat, Hnikarr!<sep />alls þū hvǭrtveggja veizt<br />
 			goþa heill ok guma:<br />
-			hver bo~zt eru,<sep />ef berjask skal,<br />
-			heill at sverþa svipun?''
+			hver bǫzt eru,<sep />ef berjask skal,<br />
+			heill at sverþa svipun?”
 		</original>
 		<translation>
-			``Hnikar, say,<sep />for thou seest the fate<br />
+			“Hnikar, say,<sep />for thou seest the fate<br />
 			That to gods and men is given;<br />
 			What sign is fairest<sep />for him who fights,<br />
-			And best for the swinging of swords?''
+			And best for the swinging of swords?”
 		</translation>
 		<comment>
 			This and the following stanzas are strongly suggestive of the <chapterref>Hovamol</chapterref>, and probably came originally from some such collection.
@@ -625,16 +625,16 @@
 			Hnikarr kvaþ:
 		</original_prelude>
 		<original>
-			``Mo~rg eru go`þ,<sep />ef gumar vissi,<br />
+			“Mǫrg eru gōþ,<sep />ef gumar vissi,<br />
 			heill at sverþa svipun;<br />
-			dyggva fylgju<sep />hykk ens do/kkva vesa<br />
+			dyggva fylgju<sep />hykk ens døkkva vesa<br />
 			hrottameiþi hrafns.
 		</original>
 		<translation_prelude>
 			Hnikar spake:
 		</translation_prelude>
 		<translation>
-			``Many the signs,<sep />if men but knew,<br />
+			“Many the signs,<sep />if men but knew,<br />
 			That are good for the swinging of swords;<br />
 			It is well, methinks,<sep />if the warrior meets<br />
 			A raven black on his road.
@@ -642,10 +642,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Þat es annat,<sep />ef þu`'st u`t <conj>of</conj> kominn<br />
-			auk'st a` braut buinn:<br />
-			tva` þu` li`tr<sep />a` tai:: standa<br />
-			hro`þrfu`sa hali.
+			Þat es annat,<sep />ef þū'st ūt <conj>of</conj> kominn<br />
+			auk'st ā braut buinn:<br />
+			tvā þū lītr<sep />ā taï standa<br />
+			hrōþrfūsa hali.
 		</original>
 		<translation>
 			Another it is<sep />if out thou art come,<br />
@@ -656,10 +656,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			Þat's et þriþja,<sep />ef þjo`ta heyrir<br />
+			Þat's et þriþja,<sep />ef þjōta heyrir<br />
 			ulf und asklimum:<br />
-			heilla auþit<sep />verþr þer af hjalmsto~fum,<br />
-			ef þu` se`r þa` fyrri fara.
+			heilla auþit<sep />verþr þer af hjalmstǫfum,<br />
+			ef þū sēr þā fyrri fara.
 		</original>
 		<translation>
 			Third it is well<sep />if a howling wolf<br />
@@ -670,10 +670,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			[Skal gumna engr<sep />i` go/gn vega<br />
-			si`þ ski`nandi<br />systur ma`na;
+			[Skal gumna engr<sep />ī gøgn vega<br />
+			sīþ skīnandi<br />systur māna;
 			þeir sigr hafa<sep />es sea kunnu,<br />
-			hjo~rleiks hvatir,<sep /><conj>es</conj> hamalt fylkja.'']
+			hjǫrleiks hvatir,<sep /><conj>es</conj> hamalt fylkja.”]
 		</original>
 		<translation>
 			A man shall fight not<sep />when he must face<br />
@@ -682,17 +682,17 @@
 			And wedge-like forms<sep />his men for the fray.
 		</translation>
 		<comment>
-			This stanza is clearly an interpolation, drawn in by the common-sense advice, as distinct from omens, given in the last lines of stanza <sr>22</sr>.
+			This stanza is clearly an interpolation, drawn in by the common-sense advice, as distinct from omens, given in the last lines of stanza <stanzaref chapter="Reginsmol">22</stanzaref>.
 			<expl>Moon's sister</expl>: the sun; cf. <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">23</stanzaref> and note.
 			<expl>Wedge-like</expl>: the wedge formation (prescribed anew in 1920 for the United States Army under certain circumstances) was said to have been invented by Othin himself, and taught by him only to the most favored warriors.
 		</comment>
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Þat's fa`r mikit,<sep />ef þu` fo/`ti drepr,<br />
-			þars at vi`gi veþr:<br />
-			ta`lardi`sir<sep />standa þe`r a tva_e`r hliþar<br />
-			ok vilja þik sa`ran sea.
+			Þat's fār mikit,<sep />ef þū fø̄ti drepr,<br />
+			þars at vīgi veþr:<br />
+			tālardīsir<sep />standa þēr a tvǣr hliþar<br />
+			ok vilja þik sāran sea.
 		</original>
 		<translation>
 			Foul is the sign<sep />if thy foot shall stumble<br />
@@ -706,16 +706,16 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			Kemþr ok þveginn<sep />skal ko/`nna hverr<br />
+			Kemþr ok þveginn<sep />skal kø̄nna hverr<br />
 			auk at morni mettr:<br />
-			þvi`t o`sy`nt es,<sep />hvar at aptni ko/mr;<br />
-			illt's fyr heill at hrapa.''
+			þvīt ōsȳnt es,<sep />hvar at aptni kømr;<br />
+			illt's fyr heill at hrapa.”
 		</original>
 		<translation>
 			Combed and washed<sep />shall the wise man go,<br />
 			And a meal at mom shall take;<br />
 			For unknown it is<sep />where at eve he may be;<br />
-			It is ill thy luck to lose.''
+			It is ill thy luck to lose.”
 		</translation>
 		<comment>
 			This stanza almost certainly had nothing originally to do with the others in this passage; it may have been taken from a longer version of the <chapterref>Hovamol</chapterref> itself.
@@ -723,7 +723,7 @@
 	</block>
 	<block class="prose" label="p26">
 		<original>
-			Sigurþr a`tti orrostu mikla viþ Lyngva Hundingsson ok bro_eþr hans; þar fell Lyngvi ok þeir þri`r bro_eþr.<br />
+			Sigurþr ātti orrostu mikla viþ Lyngva Hundingsson ok brœþr hans; þar fell Lyngvi ok þeir þrīr brœþr.<br />
 			Eptir orrostu kvaþ Reginn:
 		</original>
 		<translation>
@@ -732,39 +732,39 @@
 		</translation>
 		<comment>
 			<expl>Lyngvi</expl>: the son of Hunding who killed Sigmund in jealousy of his marriage with Hjordis; cf. <chapterref>Fra Dautha Sinfjotla</chapterref> and note.
-			The <src>Volsungasaga</src> names one brother who was with Lyngvi in the battle, Hjorvarth, and Sigurth kills him as readily as if he had not already been killed long before by Helgi.
+			The <source>Volsungasaga</source> names one brother who was with Lyngvi in the battle, Hjorvarth, and Sigurth kills him as readily as if he had not already been killed long before by Helgi.
 			But, as has been seen, it was nothing for a man to be killed in two or three different ways.
 		</comment>
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			``Nu`'s blo`þugr o~rn<sep />bitrum hjo~rvi<br />
-			bana Sigmundar<sep />a` baki ristinn;<br />
-			fa`r vas fremri,<sep />sa`s fold ryþi,<br />
-			hilmis arfi,<sep />ok hugin gladdi.''
+			“Nū's blōþugr ǫrn<sep />bitrum hjǫrvi<br />
+			bana Sigmundar<sep />ā baki ristinn;<br />
+			fār vas fremri,<sep />sās fold ryþi,<br />
+			hilmis arfi,<sep />ok hugin gladdi.”
 		</original>
 		<translation>
-			``Now the bloody eagle<sep />with biting sword<br />
+			“Now the bloody eagle<sep />with biting sword<br />
 			Is carved on the back<sep />of Sigmund's killer;<br />
 			Few were more fierce<sep />in fight than his son,<br />
-			Who reddened the earth<sep />and gladdened the ravens.''
+			Who reddened the earth<sep />and gladdened the ravens.”
 		</translation>
 		<comment>
-			<expl>Bloody eagle</expl>, etc.: the <src>Nornageststhattr</src> describes the manner in which the captured Lyngvi was put to death.
-			``Regin advised that they should carve the bloody eagle on his back.
+			<expl>Bloody eagle</expl>, etc.: the <source>Nornageststhattr</source> describes the manner in which the captured Lyngvi was put to death.
+			“Regin advised that they should carve the bloody eagle on his back.
 			So Regin took his sword and cleft Lyngvi's back so that he severed his back from his ribs, and then drew out his lungs.
-			So died Lyngvi with great courage.''
+			So died Lyngvi with great courage.”
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			Heim fo`r Sigurþr til Hja`lpreks; þa` eggjaþi Reginn Sigurþ til at vega Fa`fni.
+			Heim fōr Sigurþr til Hjālpreks; þā eggjaþi Reginn Sigurþ til at vega Fāfni.
 		</original>
 		<translation>
 			Sigurth went home to Hjalprek's house; thereupon Regin egged him on to fight with Fafnir.
 		</translation>
 		<comment>
-			In <src>Regius</src> there is no break of any kind between this prose passage and the <proseref chapter="Fafnismol" prose="p1">prose introduction</proseref> to the <chapterref>Fafnismol</chapterref> (cf. <ref chapter="Reginsmol">Introductory Note</ref>).
+			In <source>Regius</source> there is no break of any kind between this prose passage and the <proseref chapter="Fafnismol" prose="p1">prose introduction</proseref> to the <chapterref>Fafnismol</chapterref> (cf. <ref chapter="Reginsmol">Introductory Note</ref>).
 		</comment>
 	</block>
 </chapter>
