@@ -251,11 +251,19 @@ Gripisspo (8 Apr 2011)
 * Bellow's book parser now watches for unmatched comments and comments with the
   same identifiers (in order not to lose them)
 
+~~~~~~~~~~~~~~~~~~~~~~~
+Reginsmol (14 Apr 2011)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Added Reginsmol chapter;
+* Fixed bug in punctuation moving logic in build.py;
+* Skirnismol, 21: fixed reference to prose in Reginsmol
+
 ~~~~~~~~~~~~~~~~~~~
-Reginsmol (planned)
+Fafnismol (planned)
 ~~~~~~~~~~~~~~~~~~~
 
-* Add Reginsmol chapter
+* Add Fafnismol chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
