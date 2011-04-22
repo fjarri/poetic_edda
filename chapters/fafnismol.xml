@@ -1,7 +1,7 @@
 <chapter label="Fafnismol">
 	<block class="eddachapter">
 		<original>
-			Fa`fnismo~`l
+			Fāfnismǭl
 		</original>
 		<transliteration>
 			Fafnismol
@@ -14,42 +14,42 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The so-called <cr>Fafnismol</cr>, contained in full in the <src>Codex Regius</src>, where it immediately follows the <cr>Reginsmol</cr> without any indication of a break, is quoted by Snorri in the <src>Gylfaginning</src> (stanza 13) and the <src>Skaldskaparmal</src> (stanzas 32 and 33), and stanzas 6, 3, and 4 appear in the <src>Sverrissaga</src>.
-		Although the <src>Volsungasaga</src> does not actually quote any of the stanzas, it gives a very close prose parallel to the whole poem in chapters 18 and 19.
+		The so-called <chapterref>Fafnismol</chapterref>, contained in full in the <source>Codex Regius</source>, where it immediately follows the <chapterref>Reginsmol</chapterref> without any indication of a break, is quoted by Snorri in the <source>Gylfaginning</source> (stanza 13) and the <source>Skaldskaparmal</source> (stanzas 32 and 33), and stanzas 6, 3, and 4 appear in the <source>Sverrissaga</source>.
+		Although the <source>Volsungasaga</source> does not actually quote any of the stanzas, it gives a very close prose parallel to the whole poem in chapters 18 and 19.
 	</block>
 	<block class="text">
-		The general character of the <cr>Fafnismol</cr>, and its probable relation to the <cr>Reginsmol</cr> and the <cr>Sigrdrifumol</cr>, have been discussed in the introductory note to the <cr>Reginsmol</cr>.
-		While it is far more nearly a unit than the <cr>Reginsmol</cr>, it shows many of the same characteristics.
-		It has the same mixture of stanza forms, although in this case only nine stanzas (<sr>32</sr>--<sr>33</sr>, <sr>35</sr>--<sr>36</sr> and <sr>40</sr>--<sr>44</sr>) vary from the normal Ljothahattr measure.
-		It shows, though to a much less marked extent, the same tendency to introduce passages from extraneous sources, such as the question-and-answer passage in stanzas <sr>11</sr>--<sr>15</sr>.
-		At the same time, in this instance it is quite clear that one distinct poem, including probably stanzas <sr>1</sr>--<sr>10</sr>, <sr>16</sr>--<sr>23</sr>, <sr>25</sr>--<sr>31</sr>, and <sr>34</sr>--<sr>39</sr>, underlay the compilation which we here have.
-		This may, perhaps, have been a long poem (not, however, the ``Long'' Sigurth Lay; see introductory note to <cr>Brot af Sigurtharkvithu</cr>) dealing with the Regin-Fafnir-Sigurth-Brynhild story, and including, besides most of the <cr>Fafnismol</cr>, stanzas <sr>1</sr>--<sr>4</sr> and <sr>6</sr>--<sr>11</sr> of the <cr>Reginsmol</cr> and part of the so-called <cr>Sigrdrifumol</cr>, together with much that has been lost.
+		The general character of the <chapterref>Fafnismol</chapterref>, and its probable relation to the <chapterref>Reginsmol</chapterref> and the <chapterref>Sigrdrifumol</chapterref>, have been discussed in the introductory note to the <chapterref>Reginsmol</chapterref>.
+		While it is far more nearly a unit than the <chapterref>Reginsmol</chapterref>, it shows many of the same characteristics.
+		It has the same mixture of stanza forms, although in this case only nine stanzas (<stanzaref chapter="Fafnismol">32</stanzaref>–<stanzaref chapter="Fafnismol">33</stanzaref>, <stanzaref chapter="Fafnismol">35</stanzaref>–<stanzaref chapter="Fafnismol">36</stanzaref> and <stanzaref chapter="Fafnismol">40</stanzaref>–<stanzaref chapter="Fafnismol">44</stanzaref>) vary from the normal Ljothahattr measure.
+		It shows, though to a much less marked extent, the same tendency to introduce passages from extraneous sources, such as the question-and-answer passage in stanzas <stanzaref chapter="Fafnismol">11</stanzaref>–<stanzaref chapter="Fafnismol">15</stanzaref>.
+		At the same time, in this instance it is quite clear that one distinct poem, including probably stanzas <stanzaref chapter="Fafnismol">1</stanzaref>–<stanzaref chapter="Fafnismol">10</stanzaref>, <stanzaref chapter="Fafnismol">16</stanzaref>–<stanzaref chapter="Fafnismol">23</stanzaref>, <stanzaref chapter="Fafnismol">25</stanzaref>–<stanzaref chapter="Fafnismol">31</stanzaref>, and <stanzaref chapter="Fafnismol">34</stanzaref>–<stanzaref chapter="Fafnismol">39</stanzaref>, underlay the compilation which we here have.
+		This may, perhaps, have been a long poem (not, however, the “Long” Sigurth Lay; see introductory note to <chapterref>Brot af Sigurtharkvithu</chapterref>) dealing with the Regin-Fafnir-Sigurth-Brynhild story, and including, besides most of the <chapterref>Fafnismol</chapterref>, stanzas <stanzaref chapter="Fafnismol">1</stanzaref>–<stanzaref chapter="Fafnismol">4</stanzaref> and <stanzaref chapter="Fafnismol">6</stanzaref>–<stanzaref chapter="Fafnismol">11</stanzaref> of the <chapterref>Reginsmol</chapterref> and part of the so-called <chapterref>Sigrdrifumol</chapterref>, together with much that has been lost.
 		The original poem may, on the other hand, have confined itself to the Fafnir episode.
-		In any case, and while the extant <cr>Fafnismol</cr> can be spoken of as a distinct poem far more justly than the <cr>Reginsmol</cr>, there is still no indication that the compiler regarded it as a poem by itself.
+		In any case, and while the extant <chapterref>Fafnismol</chapterref> can be spoken of as a distinct poem far more justly than the <chapterref>Reginsmol</chapterref>, there is still no indication that the compiler regarded it as a poem by itself.
 		His prose notes run on without a break, and the verses simply cover a dramatic episode in Sigurth's early life.
-		The fact that the work of compilation has been done more intelligently than in the case of the <cr>Reginsmol</cr> seems to have resulted chiefly from the compiler's having been familiar with longer consecutive verse passages dealing with the Fafnir episode.
-		The <cr>Reginsmol</cr> is little more than a clumsy mosaic, but in the <cr>Fafnismol</cr> it is possible to distinguish between the main substance of the poem and the interpolations.
+		The fact that the work of compilation has been done more intelligently than in the case of the <chapterref>Reginsmol</chapterref> seems to have resulted chiefly from the compiler's having been familiar with longer consecutive verse passages dealing with the Fafnir episode.
+		The <chapterref>Reginsmol</chapterref> is little more than a clumsy mosaic, but in the <chapterref>Fafnismol</chapterref> it is possible to distinguish between the main substance of the poem and the interpolations.
 	</block>
 	<block class="text">
-		Here, as in the <cr>Reginsmol</cr>, there is very little that bespeaks the German origin of the Sigurth story.
+		Here, as in the <chapterref>Reginsmol</chapterref>, there is very little that bespeaks the German origin of the Sigurth story.
 		Sigurth's winning of the treasure is in itself undoubtedly a part of the earlier southern legend, but the manner in which he does it is thoroughly Norse.
 		Moreover, the concluding section, which points toward the finding of the sleeping Brynhild, relates entirely to the northern Valkyrie, the warrior-maiden punished by Othin, and not at all to the southern Brynhild the daughter of Buthli.
-		The <cr>Fafnismol</cr> is, however, sharply distinguished from the <cr>Reginsmol</cr> by showing no clear traces of the Helgi tradition, although a part of the bird song (stanzas <sr>40</sr>--<sr>44</sr>, in Fornyrthislag form, as distinct from the body of the poem) sounds suspiciously like the bird passage in the beginning of the <cr>Helgakvitha Hjorvarthssonar</cr>.
-		Regarding the general relations of the various sets of traditions in shaping the story of Sigurth, see the introductory note to <cr>Gripisspo</cr>.
+		The <chapterref>Fafnismol</chapterref> is, however, sharply distinguished from the <chapterref>Reginsmol</chapterref> by showing no clear traces of the Helgi tradition, although a part of the bird song (stanzas <stanzaref chapter="Fafnismol">40</stanzaref>–<stanzaref chapter="Fafnismol">44</stanzaref>, in Fornyrthislag form, as distinct from the body of the poem) sounds suspiciously like the bird passage in the beginning of the <chapterref>Helgakvitha Hjorvarthssonar</chapterref>.
+		Regarding the general relations of the various sets of traditions in shaping the story of Sigurth, see the introductory note to <chapterref>Gripisspo</chapterref>.
 	</block>
 	<block class="text">
-		The <cr>Fafnismol</cr>, together with a part of the <cr>Sigrdrifumol</cr>, has indirectly become the best known of all the Eddic poems, for the reason that Wagner used it, with remarkably little change of outline, as the basis for his ``Siegfried.''
+		The <chapterref>Fafnismol</chapterref>, together with a part of the <chapterref>Sigrdrifumol</chapterref>, has indirectly become the best known of all the Eddic poems, for the reason that Wagner used it, with remarkably little change of outline, as the basis for his “Siegfried.”
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Sigurþr ok Reginn fo`ru upp a` Gnitaheiþi ok hittu þar slo`þ Fa`fnis, þa` er hann skreiþ til vatns.<br />
-			Þar go/rþi Sigurþr gro~f mikla a` veginum ok gekk Sigurþr þar i`.<br />
-			En er Fa`fnir skreiþ af gullinu, ble`s hann eitri, ok hraut þat fyr ofan ho~fuþ Sigurþi.<br />
-			En er Fa`fnir skreiþ yfir gro~fna, þa` lagþi Sigurþr hann meþ sverþi til hjarta.<br />
-			Fa`fnir hristi sik ok barþi ho~fþi ok sporþi.<br />
-			Sigurþr hljo`p o`r gro~finni, ok sa` þa` hva`rr annan.<br />
-			Fa`fnir kvaþ:
+			Sigurþr ok Reginn fōru upp ā Gnitaheiþi ok hittu þar slōþ Fāfnis, þā er hann skreiþ til vatns.<br />
+			Þar gørþi Sigurþr grǫf mikla ā veginum ok gekk Sigurþr þar ī.<br />
+			En er Fāfnir skreiþ af gullinu, blēs hann eitri, ok hraut þat fyr ofan hǫfuþ Sigurþi.<br />
+			En er Fāfnir skreiþ yfir grǫfna, þā lagþi Sigurþr hann meþ sverþi til hjarta.<br />
+			Fāfnir hristi sik ok barþi hǫfþi ok sporþi.<br />
+			Sigurþr hljōp ōr grǫfinni, ok sā þā hvārr annan.<br />
+			Fāfnir kvaþ:
 		</original>
 		<translation>
 			Sigurth and Regin went up to the Gnitaheith, and found there the track that Fafnir made when he crawled to water.<br />
@@ -61,27 +61,27 @@
 			Fafnir said:
 		</translation>
 		<comment>
-			The prose follows the concluding prose passage of the <chapterref>Reginsmol</chapterref> without any interruption; the heading ``Of Fafnir's Death'' is written in the manuscript very faintly just before stanza <sr>1</sr>.
+			The prose follows the concluding prose passage of the <chapterref>Reginsmol</chapterref> without any interruption; the heading “Of Fafnir's Death” is written in the manuscript very faintly just before stanza <stanzaref chapter="Fafnismol">1</stanzaref>.
 			<expl>Gnitaheith</expl>: cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">11</stanzaref> and note.
 			<expl>Fafnir</expl>: Regin's brother: cf. <chapterref>Reginsmol</chapterref>, <proseref chapter="Reginsmol" prose="p15">prose after stanza 14</proseref>.
-			<expl>Venom</expl>: in the <src>Volsungasaga</src> it was the blood, and not the venom, that poured down on Sigurth's head.
+			<expl>Venom</expl>: in the <source>Volsungasaga</source> it was the blood, and not the venom, that poured down on Sigurth's head.
 			Sigurth was much worried about this danger, and before he dug the trench asked Regin what would happen if the dragon's blood overcame him.
-			Regin thereupon taunted him with cowardice (Sigurth refers to this taunt in stanza <sr>30</sr>, but the stanza embodying it has disappeared).
+			Regin thereupon taunted him with cowardice (Sigurth refers to this taunt in stanza <stanzaref chapter="Fafnismol">30</stanzaref>, but the stanza embodying it has disappeared).
 			After Sigurth had dug his trench, an old man (Othin, of course) appeared and advised him to dig other trenches to carry off the blood, which he did, thereby escaping harm.
 		</comment>
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			``Sveinn ok sveinn!<sep />hverjum est, <conj>sveinn! of</conj> borinn?<br />
-			hverra'st manna mo~gr?<br />
-			es a` Fa`fni rautt<sep />þinn enn fra`na ma_e`ki:<br />
-			sto~ndumk til hjarta hjo~rr.''
+			“Sveinn ok sveinn!<sep />hverjum est, <conj>sveinn! of</conj> borinn?<br />
+			hverra'st manna mǫgr?<br />
+			es ā Fāfni rautt<sep />þinn enn frāna mǣki:<br />
+			stǫndumk til hjarta hjǫrr.”
 		</original>
 		<translation>
-			``Youth, oh, youth!<sep />of whom then, youth, art thou born?<br />
+			“Youth, oh, youth!<sep />of whom then, youth, art thou born?<br />
 			Say whose son thou art,<br />
 			Who in Fafnir's blood<sep />thy bright blade reddened,<br />
-			And struck thy sword to my heart.''
+			And struck thy sword to my heart.”
 		</translation>
 		<comment>
 			The first line in the original, as here, is unusually long, but dramatically very effective on that account.
@@ -89,7 +89,7 @@
 	</block>
 	<block class="prose" label="p2">
 		<original>
-			Sigurþr dulþi nafns si`ns fyr þvi` at þat var tru`a þeira i` forneskju, at orþ feigs manns ma_etti mikit, ef hann bo~lvaþi o`vin si`num meþ nafni.<br />
+			Sigurþr dulþi nafns sīns fyr þvī at þat var trūa þeira ī forneskju, at orþ feigs manns mætti mikit, ef hann bǫlvaþi ōvin sīnum meþ nafni.<br />
 			Hann kvaþ:
 		</original>
 		<translation>
@@ -99,40 +99,40 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			``Go~fugt dy`r heitik,<sep />en ek gengit hefk<br />
-			enn mo`þurlausi mo~gr;<br />
-			fo~þur ek a`kka<sep />sem fira synir,<br />
-			<conj>a_e`</conj> gengk einn saman.''
+			“Gǫfugt dȳr heitik,<sep />en ek gengit hefk<br />
+			enn mōþurlausi mǫgr;<br />
+			fǫþur ek ākka<sep />sem fira synir,<br />
+			<conj>ǣ</conj> gengk einn saman.”
 		</original>
 		<translation>
-			``The Noble Hart<sep />my name, and I go<br />
+			“The Noble Hart<sep />my name, and I go<br />
 			A motherless man abroad;<br />
 			Father I had not,<sep />as others have,<br />
-			And lonely ever I live.''
+			And lonely ever I live.”
 		</translation>
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Veizt, ef fo~þur ne` a`ttat<sep />sem fira synir,<br />
+			“Veizt, ef fǫþur nē āttat<sep />sem fira synir,<br />
 			af hverju vast undri alinn?<br />
-			<conj>þo`t mer birtira nafn</conj><sep /><conj>a` banado_egri,</conj><br />
-			<conj>þa` veizt vist, at ly`gr.</conj>''
+			<conj>þōt mer birtira nafn</conj><sep /><conj>ā banadœgri,</conj><br />
+			<conj>þā veizt vist, at lȳgr.</conj>”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``If father thou hadst not,<sep />as others have,<br />
+			“If father thou hadst not,<sep />as others have,<br />
 			By what wonder wast thou born?<br />
 			[Though thy name on the day<sep />of my death thou hidest,<br />
-			Thou knowest now thou dost lie.]''
+			Thou knowest now thou dost lie.]”
 		</translation>
 		<comment>
-			The names of the speakers do not appear in the manuscript, though they seem originally to have been indicated in the margin for stanzas <sr>3</sr>--<sr>30</sr>.
-			The last two lines of stanza <sr>3</sr> are missing in the manuscript, with no gap indicated, but the <src>Volsungasaga</src> prose paraphrase indicates that something was omitted, and the lines here given are conjecturally reconstructed from this paraphrase.
+			The names of the speakers do not appear in the manuscript, though they seem originally to have been indicated in the margin for stanzas <stanzaref chapter="Fafnismol">3</stanzaref>–<stanzaref chapter="Fafnismol">30</stanzaref>.
+			The last two lines of stanza <stanzaref chapter="Fafnismol">3</stanzaref> are missing in the manuscript, with no gap indicated, but the <source>Volsungasaga</source> prose paraphrase indicates that something was omitted, and the lines here given are conjecturally reconstructed from this paraphrase.
 		</comment>
 	</block>
 	<block class="stanza" number="4">
@@ -140,19 +140,19 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``A_Etterni mitt<sep />kveþk þe`r <conj>of</conj>kunnigt vesa<br />
+			“Ætterni mitt<sep />kveþk þēr <conj>of</conj>kunnigt vesa<br />
 			auk mik sjalfan et sama:<br />
-			Sigurþr heitik,<sep />Sigmundr he`t minn faþir,<br />
-			es hefk þik vo~`pnum vegit.''
+			Sigurþr heitik,<sep />Sigmundr hēt minn faþir,<br />
+			es hefk þik vǭpnum vegit.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``My race, methinks,<sep />is unknown to thee,<br />
+			“My race, methinks,<sep />is unknown to thee,<br />
 			And so am I myself;<br />
 			Sigurth my name,<sep />and Sigmund's son,<br />
-			Who smote thee thus with the sword.''
+			Who smote thee thus with the sword.”
 		</translation>
 		<comment>
 			The manuscript marks line 3 as the beginning of a stanza.
@@ -160,22 +160,22 @@
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Hverr þik hvatti?<sep />hvi` hvetjask le`zt<br />
-			mi`nu fjo~rvi at fara?<br />
-			enn fra`neygi sveinn!<sep />a`ttir fo~þur bitran,<br />
-			<conj>es i` barno/`sku 'st bra`þr.</conj>''
+			“Hverr þik hvatti?<sep />hvī hvetjask lēzt<br />
+			mīnu fjǫrvi at fara?<br />
+			enn frāneygi sveinn!<sep />āttir fǫþur bitran,<br />
+			<conj>es ī barnø̄sku 'st brāþr.</conj>”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``Who drove thee on?<sep />why wert thou driven<br />
+			“Who drove thee on?<sep />why wert thou driven<br />
 			My life to make me lose?<br />
 			A father brave<sep />had the bright-eyed youth,<br />
-			For bold in boyhood thou art.''
+			For bold in boyhood thou art.”
 		</translation>
 		<comment>
 			Line 4, utterly obscure in the manuscript, is guesswork.
@@ -186,39 +186,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hugr mik hvatti,<sep />hendr me`r fullty`þu<br />
-			ok minn enn hvassi hjo~rr;<br />
-			fa`r es hvatr<sep />es hro/rask tekr,<br />
-			ef i` barno/`sku 's blauþr.''
+			“Hugr mik hvatti,<sep />hendr mēr fulltȳþu<br />
+			ok minn enn hvassi hjǫrr;<br />
+			fār es hvatr<sep />es hrørask tekr,<br />
+			ef ī barnø̄sku 's blauþr.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``My heart did drive me,<sep />my hand fulfilled,<br />
+			“My heart did drive me,<sep />my hand fulfilled,<br />
 			And my shining sword so sharp;<br />
 			Few are keen<sep />when old age comes,<br />
-			Who timid in boyhood be.''
+			Who timid in boyhood be.”
 		</translation>
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Veitk, ef vaxa na_e`þir<sep />fyr <conj>þinna</conj> vina brjo`sti,<br />
-			<conj>sa_ei</conj> maþr þik vreiþan vega;<br />
-			nu` est haptr<sep />ok hernuminn,<br />
-			a_e` kveþa bandingja bifask.''
+			“Veitk, ef vaxa nǣþir<sep />fyr <conj>þinna</conj> vina brjōsti,<br />
+			<conj>sæi</conj> maþr þik vreiþan vega;<br />
+			nū est haptr<sep />ok hernuminn,<br />
+			ǣ kveþa bandingja bifask.”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``If thou mightest grow<sep />thy friends among,<br />
+			“If thou mightest grow<sep />thy friends among,<br />
 			One might see thee fiercely fight;<br />
 			But bound thou art,<sep />and in battle taken,<br />
-			And to fear are prisoners prone.''
+			And to fear are prisoners prone.”
 		</translation>
 		<comment>
 			Fafnir here refers to the fact that Hjordis, mother of the still unborn Sigurth, was captured by Alf after Sigmund's death; cf. <chapterref>Fra Dautha Sinfjotla</chapterref>, note.
@@ -229,39 +229,39 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Þvi` bregþr me`r, Fa`fnir!<sep />at til fjarri seak<br />
-			mi`num feþrmunum:<br />
-			eigi emk haptr,<sep />þo`t va_e`rak hernumi,<br />
-			þu` fannt at ek lauss lifi.''
+			“Þvī bregþr mēr, Fāfnir!<sep />at til fjarri seak<br />
+			mīnum feþrmunum:<br />
+			eigi emk haptr,<sep />þōt vǣrak hernumi,<br />
+			þū fannt at ek lauss lifi.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Thou blamest me, Fafnir,<sep />that I see from afar<br />
+			“Thou blamest me, Fafnir,<sep />that I see from afar<br />
 			The wealth that my father's was;<br />
 			Not bound am I,<sep />though in battle taken,<br />
-			Thou hast found that free I live.''
+			Thou hast found that free I live.”
 		</translation>
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Heiptyrþi ein<sep />telr þu` þe`r i` hvi`vetna,<br />
-			en ek þe`r satt eitt segik:<br />
-			et gjalla goll<sep />ok et glo`þrauþa fe`---<br />
-			þe`r verþa þeir baugar at bana.''
+			“Heiptyrþi ein<sep />telr þū þēr ī hvīvetna,<br />
+			en ek þēr satt eitt segik:<br />
+			et gjalla goll<sep />ok et glōþrauþa fē—<br />
+			þēr verþa þeir baugar at bana.”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``In all I say<sep />dost thou hatred see,<br />
+			“In all I say<sep />dost thou hatred see,<br />
 			Yet truth alone do I tell;<br />
 			The sounding gold,<sep />the glow-red wealth,<br />
-			And the rings thy bane shall be.''
+			And the rings thy bane shall be.”
 		</translation>
 	</block>
 	<block class="stanza" number="10">
@@ -269,45 +269,45 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Fei:: ra`þa<sep />skal fyrþa hverr<br />
-			a_e` til ens eina dags;<br />
-			þvi`t einu sinni<sep />skal alda hverr<br />
-			fara til heljar heþan.''
+			“Feï rāþa<sep />skal fyrþa hverr<br />
+			ǣ til ens eina dags;<br />
+			þvīt einu sinni<sep />skal alda hverr<br />
+			fara til heljar heþan.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Some one the hoard<sep />shall ever hold,<br />
+			“Some one the hoard<sep />shall ever hold,<br />
 			Till the destined day shall come;<br />
 			For a time there is<sep />when every man<br />
-			Shall journey hence to hell.''
+			Shall journey hence to hell.”
 		</translation>
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			[``Norna do`m<sep />muntu fyr nesjum hafa<br />
-			ok <conj>o/rlo~g</conj> o`svinns apa;<br />
-			i` vatni þu drukknar,<sep />ef i` vindi ro/`r,<br />
-			allt es feigs foraþ.''
+			[“Norna dōm<sep />muntu fyr nesjum hafa<br />
+			ok <conj>ørlǫg</conj> ōsvinns apa;<br />
+			ī vatni þu drukknar,<sep />ef ī vindi rø̄r,<br />
+			allt es feigs foraþ.”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``The fate of the Norns<sep />before the headland<br />
+			“The fate of the Norns<sep />before the headland<br />
 			Thou findest, and doom of a fool;<br />
 			In the water shalt drown<sep />if thou row 'gainst the wind,<br />
-			All danger is near to death.''
+			All danger is near to death.”
 		</translation>
 		<comment>
-			Stanzas <sr>11</sr>--<sr>15</sr> are probably interpolated, and come from a poem similar to <chapterref>Vafthruthnismol</chapterref>.
-			<expl>The headland</expl>: Fafnir is apparently quoting proverbs; this one seems to mean that disaster (``the fate of the Norns'') awaits when one rounds the first headland (i. e., at the beginning of life's voyage, in youth).
+			Stanzas <stanzaref chapter="Fafnismol">11</stanzaref>–<stanzaref chapter="Fafnismol">15</stanzaref> are probably interpolated, and come from a poem similar to <chapterref>Vafthruthnismol</chapterref>.
+			<expl>The headland</expl>: Fafnir is apparently quoting proverbs; this one seems to mean that disaster (“the fate of the Norns”) awaits when one rounds the first headland (i. e., at the beginning of life's voyage, in youth).
 			The third line is a commentary on obstinate rashness.
-			The <src>Volsungasaga</src> paraphrases stanzas <sr>11</sr>--<sr>15</sr> throughout.
+			The <source>Volsungasaga</source> paraphrases stanzas <stanzaref chapter="Fafnismol">11</stanzaref>–<stanzaref chapter="Fafnismol">15</stanzaref> throughout.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
@@ -315,43 +315,43 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer <conj>þat,</conj> Fa`fnir!<sep />alls þik fro`þan kveþa<br />
+			“Seg mer <conj>þat,</conj> Fāfnir!<sep />alls þik frōþan kveþa<br />
 			ok vel mart vita:<br />
-			hverjar'u nornir<sep />es nauþgo~nglar 'u`<br />
-			ok kjo`sa mo/`þr fra` mo_gum?''
+			hverjar'u nornir<sep />es nauþgǫnglar 'ū<br />
+			ok kjōsa mø̄þr frā mo_gum?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Tell me then, Fafnir,<sep />for wise thou art famed,<br />
+			“Tell me then, Fafnir,<sep />for wise thou art famed,<br />
 			And much thou knowest now:<br />
 			Who are the Norns<sep />who are helpful in need,<br />
-			And the babe from the mother bring?''
+			And the babe from the mother bring?”
 		</translation>
 		<comment>
-			<expl>Norns</expl>: cf. stanza <sr>13</sr> and note.
+			<expl>Norns</expl>: cf. stanza <stanzaref chapter="Fafnismol">13</stanzaref> and note.
 			Sigurth has no possible interest in knowing what Norns are helpful in childbirth, but interpolations were seldom logical.
 		</comment>
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``<conj>Na`bornar</conj><sep /><conj>hykkak</conj> nornir <conj>vesa,</conj><br />
-			eigut þa_e`r a_e`tt saman:<br />
-			sumar'u a`skungar,<sep />sumar alfkungar,<br />
-			sumar do/`tr Dvalins.''
+			“<conj>Nābornar</conj><sep /><conj>hykkak</conj> nornir <conj>vesa,</conj><br />
+			eigut þǣr ǣtt saman:<br />
+			sumar'u āskungar,<sep />sumar alfkungar,<br />
+			sumar dø̄tr Dvalins.”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``Of many births<sep />the Norns must be,<br />
+			“Of many births<sep />the Norns must be,<br />
 			Nor one in race they were;<br />
 			Some to gods, others<sep />to elves are kin,<br />
-			And Dvalin's daughters some.''
+			And Dvalin's daughters some.”
 		</translation>
 		<comment>
 			Snorri quotes this stanza.
@@ -364,19 +364,19 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Seg mer þat, Fa`fnir!<sep />alls þik fro`þan kveþa<br />
+			“Seg mer þat, Fāfnir!<sep />alls þik frōþan kveþa<br />
 			ok vel mart vita:<br />
-			hve` sa` holmr heitir,<sep />es blanda hjo~rlegi<br />
-			Surtr ok a_e`sir saman?''
+			hvē sā holmr heitir,<sep />es blanda hjǫrlegi<br />
+			Surtr ok ǣsir saman?”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Tell me then, Fafnir,<sep />for wise thou art famed,<br />
+			“Tell me then, Fafnir,<sep />for wise thou art famed,<br />
 			And much thou knowest now:<br />
 			How call they the isle<sep />where all the gods<br />
-			And Surt shall sword-sweat mingle?''
+			And Surt shall sword-sweat mingle?”
 		</translation>
 		<comment>
 			<expl>Surt</expl>: ruler of the fire world; the reference is to the last great battle.
@@ -385,44 +385,44 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``O`sko`pnir heitir,<sep />en þar o~ll skulu<br />
+			“Ōskōpnir heitir,<sep />en þar ǫll skulu<br />
 			geirum leika goþ;<br />
-			Bilro~st brotnar,<sep />es þeir <conj>a` bru`</conj> fara,<br />
-			ok svima i` mo`þu marir.]
+			Bilrǫst brotnar,<sep />es þeir <conj>ā brū</conj> fara,<br />
+			ok svima ī mōþu marir.]
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``Oskopnir is it,<sep />where all the gods<br />
+			“Oskopnir is it,<sep />where all the gods<br />
 			Shall seek the play of swords;<br />
 			Bilrost breaks<sep />when they cross the bridge,<br />
 			And the steeds shall swim in the flood.
 		</translation>
 		<comment>
-			<expl>Oskopnir</expl> (``Not-Made''): apparently another name for Vigrith, which is named in <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">18</stanzaref>, as the final battle-ground.
+			<expl>Oskopnir</expl> (“Not-Made”): apparently another name for Vigrith, which is named in <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">18</stanzaref>, as the final battle-ground.
 			<expl>Bilrost</expl> (or Bifrost): the rainbow bridge which breaks beneath Surt's followers; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">29</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			A_Egishjalm<sep />bark <conj>of</conj> alda sunum,<br />
-			meþan <conj>of</conj> menjum la`k;<br />
-			einn rammari<sep />hugþumk o~llum vesa,<br />
-			fannkak <conj>sva`</conj> marga mo~gu.''
+			Ægishjalm<sep />bark <conj>of</conj> alda sunum,<br />
+			meþan <conj>of</conj> menjum lāk;<br />
+			einn rammari<sep />hugþumk ǫllum vesa,<br />
+			fannkak <conj>svā</conj> marga mǫgu.”
 		</original>
 		<translation>
 			The fear-helm I wore<sep />to afright mankind,<br />
 			While guarding my gold I lay;<br />
 			Mightier seemed I<sep />than any man,<br />
-			For a fiercer never I found.''
+			For a fiercer never I found.”
 		</translation>
 		<comment>
 			With this stanza Fafnir returns to the situation.
-			<expl>Fear-helm</expl>: regarding the ``ægis-hjalmr'' cf. <chapterref>Reginsmol</chapterref>, <proseref chapter="Reginsmol" prose="p15">prose after stanza 14</proseref> and note.
+			<expl>Fear-helm</expl>: regarding the “ægis-hjalmr” cf. <chapterref>Reginsmol</chapterref>, <proseref chapter="Reginsmol" prose="p15">prose after stanza 14</proseref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="17">
@@ -430,42 +430,42 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``A_Egishjalmr<sep />bergr einungi,<br />
+			“Ægishjalmr<sep />bergr einungi,<br />
 			hvars skulu vreiþir vega;<br />
-			þa` þat fiþr,<sep />es meþ fleirum ko/mr,<br />
-			at engi's einna hvatastr.''
+			þā þat fiþr,<sep />es meþ fleirum kømr,<br />
+			at engi's einna hvatastr.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``The fear-helm surely<sep />no man shields<br />
+			“The fear-helm surely<sep />no man shields<br />
 			When he faces a valiant foe;<br />
 			Oft one finds,<sep />when the foe he meets,<br />
-			That he is not the bravest of all.''
+			That he is not the bravest of all.”
 		</translation>
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Eitri fno/`stak,<sep />es a` arfi la`k<br />
-			miklum mi`ns fo~þur;<br />
-			[vasa maþr sva` mo`þugr<sep />at me`r mo/`ta þyrþi<br />
-			hra_e`ddumka vo~`pn ne` ve`lar.]''
+			“Eitri fnø̄stak,<sep />es ā arfi lāk<br />
+			miklum mīns fǫþur;<br />
+			[vasa maþr svā mōþugr<sep />at mēr mø̄ta þyrþi<br />
+			hrǣddumka vǭpn nē vēlar.]”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``Venom I breathed<sep />when bright I lay<br />
+			“Venom I breathed<sep />when bright I lay<br />
 			By the hoard my father had;<br />
 			[There was none so mighty<sep />as dared to meet me,<br />
-			And weapons nor wiles I feared.]''
+			And weapons nor wiles I feared.]”
 		</translation>
 		<comment>
-			Lines 3--4 do not appear in the manuscript and no gap is indicated; they are here conjecturally paraphrased from the prose passage in the <src>Volsungasaga</src>.
+			Lines 3–4 do not appear in the manuscript and no gap is indicated; they are here conjecturally paraphrased from the prose passage in the <source>Volsungasaga</source>.
 		</comment>
 	</block>
 	<block class="stanza" number="19">
@@ -473,44 +473,44 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Enn <conj>fra`ni</conj> ormr!<sep />þu` go/rþir fra_e`s mikla<br />
+			“Enn <conj>frāni</conj> ormr!<sep />þū gørþir frǣs mikla<br />
 			ok <conj>galzt</conj> harþan hug;<br />
-			heipt at meiri<sep />verþr ho~lþa sunum,<br />
-			at þann hjalm hafi.''
+			heipt at meiri<sep />verþr hǫlþa sunum,<br />
+			at þann hjalm hafi.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Glittering worm,<sep />thy hissing was great,<br />
+			“Glittering worm,<sep />thy hissing was great,<br />
 			And hard didst show thy heart;<br />
 			But hatred more<sep />have the sons of men<br />
-			For him who owns the helm.''
+			For him who owns the helm.”
 		</translation>
 	</block>
 	<block class="stanza" number="20">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Ra_e`þk þer nu`, Sigurþr!<sep />en þu` ra`þ nemir,<br />
-			ok ri`þ heim heþan:<br />
-			et gjalla goll<sep />ok et glo`þrauþa fe`---<br />
-			þe`r verþa þeir baugar at bana.''
+			“Rǣþk þer nū, Sigurþr!<sep />en þū rāþ nemir,<br />
+			ok rīþ heim heþan:<br />
+			et gjalla goll<sep />ok et glōþrauþa fē—<br />
+			þēr verþa þeir baugar at bana.”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``I counsel thee, Sigurth,<sep />heed my speech,<br />
+			“I counsel thee, Sigurth,<sep />heed my speech,<br />
 			And ride thou homeward hence,<br />
 			The sounding gold,<sep />the glow-red wealth,<br />
-			And the rings thy bane shall be.''
+			And the rings thy bane shall be.”
 		</translation>
 		<comment>
-			It has been suggested that this stanza is spurious, and that stanza <sr>21</sr> ought to follow stanza <sr>22</sr>.
-			Lines 3--4, abbreviated in the manuscript, are identical with lines 3--4 of stanza <sr>9</sr>.
-			The <src>Volsungasaga</src> paraphrase in place of these two lines makes Fafnir say: ``For it often happens that he who gets a deadly wound yet avenges himself.''
+			It has been suggested that this stanza is spurious, and that stanza <stanzaref chapter="Fafnismol">21</stanzaref> ought to follow stanza <stanzaref chapter="Fafnismol">22</stanzaref>.
+			Lines 3–4, abbreviated in the manuscript, are identical with lines 3–4 of stanza <stanzaref chapter="Fafnismol">9</stanzaref>.
+			The <source>Volsungasaga</source> paraphrase in place of these two lines makes Fafnir say: “For it often happens that he who gets a deadly wound yet avenges himself.”
 			It is quite likely that two stanzas have been lost.
 		</comment>
 	</block>
@@ -519,47 +519,47 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Ra`þ's þe`r ra`þit,<sep />en ek ri`þa mun<br />
-			til þess golls es i` lyngvi liggr;<br />
-			en þu`, Fa`fnir!<sep />ligg i` fjo~rbrotum,<br />
-			þars þik Hel hafi.''
+			“Rāþ's þēr rāþit,<sep />en ek rīþa mun<br />
+			til þess golls es ī lyngvi liggr;<br />
+			en þū, Fāfnir!<sep />ligg ī fjǫrbrotum,<br />
+			þars þik Hel hafi.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Thy counsel is given,<sep />but go I shall<br />
+			“Thy counsel is given,<sep />but go I shall<br />
 			To the gold in the heather hidden;<br />
 			And, Fafnir, thou<sep />with death dost fight,<br />
-			Lying where Hel shall have thee.''
+			Lying where Hel shall have thee.”
 		</translation>
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-			Fa`fnir kvaþ:
+			Fāfnir kvaþ:
 		</original_prelude>
 		<original>
-			``Reginn mik re`þ,<sep />hann þik ra`þa mun,<br />
-			hann mun okkr verþa bo~`þum at bana;<br />
-			fjo~r sitt la`ta<sep />hykk at Fa`fnir myni,<br />
-			þitt varþ nu` meira megin.''
+			“Reginn mik rēþ,<sep />hann þik rāþa mun,<br />
+			hann mun okkr verþa bǭþum at bana;<br />
+			fjǫr sitt lāta<sep />hykk at Fāfnir myni,<br />
+			þitt varþ nū meira megin.”
 		</original>
 		<translation_prelude>
 			Fafnir spake:
 		</translation_prelude>
 		<translation>
-			``Regin betrayed me,<sep />and thee will betray,<br />
+			“Regin betrayed me,<sep />and thee will betray,<br />
 			Us both to death will he bring;<br />
 			His life, methinks,<sep />must Fafnir lose,<br />
-			For the mightier man wast thou.''
+			For the mightier man wast thou.”
 		</translation>
 		<comment>
-			The <src>Volsungasaga</src> places its paraphrase of this stanza between those of stanzas <sr>15</sr> and <sr>16</sr>.
+			The <source>Volsungasaga</source> places its paraphrase of this stanza between those of stanzas <stanzaref chapter="Fafnismol">15</stanzaref> and <stanzaref chapter="Fafnismol">16</stanzaref>.
 		</comment>
 	</block>
 	<block class="prose" label="p23">
 		<original>
-			Reginn var a` brot horfinn, meþan Sigurþr va` Fa`fni, ok kom þa` aptr, er Sigurþr strauk blo`þ af sverþinu.<br />
+			Reginn var ā brot horfinn, meþan Sigurþr vā Fāfni, ok kom þā aptr, er Sigurþr strauk blōþ af sverþinu.<br />
 			Reginn kvaþ:
 		</original>
 		<translation>
@@ -569,16 +569,16 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			``Heill þu nu`, Sigurþr!<sep />hefr nu` sigr vegit<br />
-			auk Fa`fni <conj>of</conj> farit;<br />
+			“Heill þu nū, Sigurþr!<sep />hefr nū sigr vegit<br />
+			auk Fāfni <conj>of</conj> farit;<br />
 			manna þeira<sep />es mold troþa<br />
-			þik kveþk o`blauþastan alinn.''
+			þik kveþk ōblauþastan alinn.”
 		</original>
 		<translation>
-			``Hail to thee, Sigurth!<sep />Thou victory hast,<br />
+			“Hail to thee, Sigurth!<sep />Thou victory hast,<br />
 			And Fafnir in fight hast slain;<br />
 			Of all the men<sep />who tread the earth,<br />
-			Most fearless art thou, methinks.''
+			Most fearless art thou, methinks.”
 		</translation>
 	</block>
 	<block class="stanza" number="24">
@@ -586,21 +586,21 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Þat's o`vist at vita,<sep />þa`s komum allir saman<br />
-			[sigti`va synir,]<br />
-			hverr's o`blauþastr alinn;<br />
-			margr es hvatr,<sep />es hjo~r ne` <conj>ry`þr</conj><br />
-			annars brjo`stum i`.''
+			“Þat's ōvist at vita,<sep />þās komum allir saman<br />
+			[sigtīva synir,]<br />
+			hverr's ōblauþastr alinn;<br />
+			margr es hvatr,<sep />es hjǫr nē <conj>rȳþr</conj><br />
+			annars brjōstum ī.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Unknown it is,<sep />when all are together,<br />
+			“Unknown it is,<sep />when all are together,<br />
 			[The sons of the glorious gods,]<br />
 			Who bravest born shall seem;<br />
 			Some are valiant<sep />who redden no sword<br />
-			In the blood of a foeman's breast.''
+			In the blood of a foeman's breast.”
 		</translation>
 		<comment>
 			Line 2 is probably spurious, but it is a phrase typical of such poems as <chapterref>Grimnismol</chapterref> or <chapterref>Vafthruthnismol</chapterref>.
@@ -611,19 +611,19 @@
 			Reginn kvaþ:
 		</original_prelude>
 		<original>
-			``Glaþr est nu`, Sigurþr!<sep />ok gagni feginn,<br />
-			es þu` þerrir Gram a` grasi;<br />
-			bro`þur minn<sep />hefr þu` benjaþan,<br />
-			ok veldk þo` sjalfr sumu.''
+			“Glaþr est nū, Sigurþr!<sep />ok gagni feginn,<br />
+			es þū þerrir Gram ā grasi;<br />
+			brōþur minn<sep />hefr þū benjaþan,<br />
+			ok veldk þō sjalfr sumu.”
 		</original>
 		<translation_prelude>
 			Regin spake:
 		</translation_prelude>
 		<translation>
-			``Glad art thou, Sigurth,<sep />of battle gained,<br />
+			“Glad art thou, Sigurth,<sep />of battle gained,<br />
 			As Gram with grass thou cleansest;<br />
 			My brother fierce<sep />in fight hast slain,<br />
-			And somewhat I did myself.''
+			And somewhat I did myself.”
 		</translation>
 		<comment>
 			<expl>Gram</expl>: Sigurth's sword; cf. <chapterref>Reginsmol</chapterref>, <proseref chapter="Reginsmol" prose="p15">prose after 14</proseref>.
@@ -634,22 +634,22 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Fjarri þu` gekkt,<sep />meþan a` Fa`fni rauþk<br />
-			minn enn hvassa hjo~r;<br />
-			afli mi`nu attak<sep />viþ orms megin,<br />
-			meþan þu` i` lyngvi la`tt.''
+			“Fjarri þū gekkt,<sep />meþan ā Fāfni rauþk<br />
+			minn enn hvassa hjǫr;<br />
+			afli mīnu attak<sep />viþ orms megin,<br />
+			meþan þū ī lyngvi lātt.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Afar didst thou go<sep />while Fafnir reddened<br />
+			“Afar didst thou go<sep />while Fafnir reddened<br />
 			With his blood my blade so keen;<br />
 			With the might of the dragon<sep />my strength I matched,<br />
-			While thou in the heather didst hide.''
+			While thou in the heather didst hide.”
 		</translation>
 		<comment>
-			In the manuscript stanzas <sr>26</sr>--<sr>29</sr> stand after stanza <sr>31</sr>, which fails to make clear sense; they are here rearranged in accordance with the <src>Volsungasaga</src> paraphrase.
+			In the manuscript stanzas <stanzaref chapter="Fafnismol">26</stanzaref>–<stanzaref chapter="Fafnismol">29</stanzaref> stand after stanza <stanzaref chapter="Fafnismol">31</stanzaref>, which fails to make clear sense; they are here rearranged in accordance with the <source>Volsungasaga</source> paraphrase.
 		</comment>
 	</block>
 	<block class="stanza" number="27">
@@ -657,19 +657,19 @@
 			Reginn kvaþ:
 		</original_prelude>
 		<original>
-			``Lengi liggja<sep />le`tir þu` lyngvi i`<br />
-			þann enn aldna jo~tun,<br />
-			ef sverþs ne` nytir<sep />þess es sjalfr go/rþak<br />
-			ok þi`ns ens hvassa hjo~rs.''
+			“Lengi liggja<sep />lētir þū lyngvi ī<br />
+			þann enn aldna jǫtun,<br />
+			ef sverþs nē nytir<sep />þess es sjalfr gørþak<br />
+			ok þīns ens hvassa hjǫrs.”
 		</original>
 		<translation_prelude>
 			Regin spake:
 		</translation_prelude>
 		<translation>
-			``Longer wouldst thou<sep />in the heather have let<br />
+			“Longer wouldst thou<sep />in the heather have let<br />
 			Yon hoary giant hide,<br />
 			Had the weapon availed not<sep />that once I forged,<br />
-			The keen-edged blade thou didst bear.''
+			The keen-edged blade thou didst bear.”
 		</translation>
 	</block>
 	<block class="stanza" number="28">
@@ -677,16 +677,16 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Hugr es betri<sep />an se` hjo~rs megin,<br />
+			“Hugr es betri<sep />an sē hjǫrs megin,<br />
 			hvars skulu vreiþir vega;<br />
-			þvi`t hvatan mann<sep /><conj>sa`k harþla</conj> vega<br />
-			meþ sla_e`vu sverþi sigr.
+			þvīt hvatan mann<sep /><conj>sāk harþla</conj> vega<br />
+			meþ slǣvu sverþi sigr.
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Better is heart<sep />than a mighty blade<br />
+			“Better is heart<sep />than a mighty blade<br />
 			For him who shall fiercely fight;<br />
 			The brave man well<sep />shall fight and win,<br />
 			Though dull his blade may be.
@@ -694,10 +694,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			[Hvo~tum es betra<sep />an se` o`hvo~tum<br />
-			i` hildileik hafask;<br />
-			glo~þum es betra<sep />an se` glu`pnanda<br />
-			hvat<conj>s</conj> at hendi ko/mr.]
+			[Hvǫtum es betra<sep />an sē ōhvǫtum<br />
+			ī hildileik hafask;<br />
+			glǫþum es betra<sep />an sē glūpnanda<br />
+			hvat<conj>s</conj> at hendi kømr.]
 		</original>
 		<translation>
 			Brave men better<sep />than cowards be,<br />
@@ -706,23 +706,23 @@
 			Shall face what before him lies.
 		</translation>
 		<comment>
-			<sr>28</sr>--<sr>29</sr>.
+			<stanzaref chapter="Fafnismol">28</stanzaref>–<stanzaref chapter="Fafnismol">29</stanzaref>.
 			Almost certainly interpolated from some such poem as the <chapterref>Hovamol</chapterref>.
-			Even the faithful <src>Volsungasaga</src> fails to paraphrase stanza <sr>29</sr>.
+			Even the faithful <source>Volsungasaga</source> fails to paraphrase stanza <stanzaref chapter="Fafnismol">29</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			Þu` þvi` re`tt,<sep />es ri`þa skyldak<br />
-			heilo~g fjo~ll hinig;<br />
-			fei:: ok fjo~rvi<sep />re`þi sa enn fra`ni ormr,<br />
-			nema fry`þir me`r hvats hugar.''
+			Þū þvī rētt,<sep />es rīþa skyldak<br />
+			heilǫg fjǫll hinig;<br />
+			feï ok fjǫrvi<sep />rēþi sa enn frāni ormr,<br />
+			nema frȳþir mēr hvats hugar.”
 		</original>
 		<translation>
 			Thy rede it was<sep />that I should ride<br />
 			Hither o'er mountains high;<br />
 			The glittering worm<sep />would have wealth and life<br />
-			If thou hadst not mocked at my might.''
+			If thou hadst not mocked at my might.”
 		</translation>
 		<comment>
 			Something has evidently been lost before this stanza.
@@ -731,7 +731,7 @@
 	</block>
 	<block class="prose" label="p31">
 		<original>
-			Þa` gekk Reginn at Fa`fni ok skar hjarta o`r honum meþ sverþi er Riþill heitir, ok þa` drakk hann blo`þ or undinni eptir.<br />
+			Þā gekk Reginn at Fāfni ok skar hjarta ōr honum meþ sverþi er Riþill heitir, ok þā drakk hann blōþ or undinni eptir.<br />
 			<conj>Reginn kvaþ:</conj>
 		</original>
 		<translation>
@@ -739,30 +739,30 @@
 			Regin said:
 		</translation>
 		<comment>
-			<expl>Rithil</expl> (``Swift-Moving''): Snorri calls the sword Refil (``Serpent'').
+			<expl>Rithil</expl> (“Swift-Moving”): Snorri calls the sword Refil (“Serpent”).
 		</comment>
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			``Sit nu`, Sigurþr!<sep />---en ek mun sofa ganga---<br />
-			ok halt Fa`fnis hjarta viþ funa;<br />
-			eisko~ld<sep />ek vil etin la`ta<br />
-			ept þenna dreyra drykk.''
+			“Sit nū, Sigurþr!<sep />—en ek mun sofa ganga—<br />
+			ok halt Fāfnis hjarta viþ funa;<br />
+			eiskǫld<sep />ek vil etin lāta<br />
+			ept þenna dreyra drykk.”
 		</original>
 		<translation>
-			``Sit now, Sigurth,<sep />for sleep will I,<br />
+			“Sit now, Sigurth,<sep />for sleep will I,<br />
 			Hold Fafnir's heart to the fire;<br />
 			For all his heart<sep />shall eaten be,<br />
-			Since deep of blood I have drunk.''
+			Since deep of blood I have drunk.”
 		</translation>
 	</block>
 	<block class="prose" label="p32">
 		<original>
-			Sigurþr to`k Fa`fnis hjarta ok steikþi a` teini.<br />
-			Er hann hugþi at fullsteikt va_eri, ok freyddi sveitinn o`r hjartanu, þa` to`k hann a` fingri si`num ok skynjaþi hva`rt fullsteikt va_eri.<br />
-			Hann brann ok bra` fingrinum i` munn se`r.<br />
-			En er hjartblo`þ Fa`fnis kom a` tungu honum, ok skilþi hann fugls ro~dd.<br />
-			Hann heyrþi at igþur klo~kuþu a` hri`sinu.<br />
+			Sigurþr tōk Fāfnis hjarta ok steikþi ā teini.<br />
+			Er hann hugþi at fullsteikt væri, ok freyddi sveitinn ōr hjartanu, þā tōk hann ā fingri sīnum ok skynjaþi hvārt fullsteikt væri.<br />
+			Hann brann ok brā fingrinum ī munn sēr.<br />
+			En er hjartblōþ Fāfnis kom ā tungu honum, ok skilþi hann fugls rǫdd.<br />
+			Hann heyrþi at igþur klǫkuþu ā hrīsinu.<br />
 			Igþan kvaþ:
 		</original>
 		<translation>
@@ -776,46 +776,46 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			``Þar sitr Sigurþr<sep />sveita stokkinn,<br />
-			Fa`fnis hjarta<sep />viþ funa steikir;<br />
-			spakr þo/`tti me`r<sep />spillir bauga,<br />
-			ef fjo~rsega<sep />fra`nan a_e`ti.''
+			“Þar sitr Sigurþr<sep />sveita stokkinn,<br />
+			Fāfnis hjarta<sep />viþ funa steikir;<br />
+			spakr þø̄tti mēr<sep />spillir bauga,<br />
+			ef fjǫrsega<sep />frānan ǣti.”
 		</original>
 		<translation>
-			``There sits Sigurth,<sep />sprinkled with blood,<br />
+			“There sits Sigurth,<sep />sprinkled with blood,<br />
 			And Fafnir's heart<sep />with fire he cooks;<br />
 			Wise were the breaker<sep />of rings, I ween,<br />
-			To eat the life-muscles<sep />all so bright.''
+			To eat the life-muscles<sep />all so bright.”
 		</translation>
 		<comment>
 			That the birds' stanzas come from more than one source is fairly apparent, but whether from two or from three or more is uncertain.
 			It is also far from clear how many birds are speaking.
-			The manuscript numbers II, III, and IV in the margin with numerals; the <src>Volsungasaga</src> makes a different bird speak each time.
+			The manuscript numbers II, III, and IV in the margin with numerals; the <source>Volsungasaga</source> makes a different bird speak each time.
 			There are almost as many guesses as there are editions.
-			I suspect that in the original poem there was one bird, speaking stanzas <sr>34</sr> and <sr>37</sr>.
-			Stanza <sr>38</sr> is little more, than a repetition of stanza <sr>34</sr>, and may well have been a later addition.
-			As for the stanzas in Fornyrthislag (<sr>32</sr>--<sr>53</sr> and <sr>35</sr>--<sr>36</sr>), they apparently come from another poem, in which several birds speak (cf. ``we sisters'' in stanza <sr>35</sr>).
-			This may be the same poem from which stanzas <sr>40</sr>--<sr>44</sr> were taken, as well as some of the Fornyrthislag stanzas in the <chapterref>Sigrdrifumol</chapterref>.
+			I suspect that in the original poem there was one bird, speaking stanzas <stanzaref chapter="Fafnismol">34</stanzaref> and <stanzaref chapter="Fafnismol">37</stanzaref>.
+			Stanza <stanzaref chapter="Fafnismol">38</stanzaref> is little more, than a repetition of stanza <stanzaref chapter="Fafnismol">34</stanzaref>, and may well have been a later addition.
+			As for the stanzas in Fornyrthislag (<stanzaref chapter="Fafnismol">32</stanzaref>–<stanzaref chapter="Fafnismol">53</stanzaref> and <stanzaref chapter="Fafnismol">35</stanzaref>–<stanzaref chapter="Fafnismol">36</stanzaref>), they apparently come from another poem, in which several birds speak (cf. “we sisters” in stanza <stanzaref chapter="Fafnismol">35</stanzaref>).
+			This may be the same poem from which stanzas <stanzaref chapter="Fafnismol">40</stanzaref>–<stanzaref chapter="Fafnismol">44</stanzaref> were taken, as well as some of the Fornyrthislag stanzas in the <chapterref>Sigrdrifumol</chapterref>.
 		</comment>
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-			O~nnur kvaþ:
+			Ǫnnur kvaþ:
 		</original_prelude>
 		<original>
-			``Þar liggr Reginn,<sep />ra_e`þr umb viþ sik,<br />
-			vill ta_e`la mo~g<sep />þanns trui::r ho~`num;<br />
-			berr af reiþi<sep />ro~ng orþ saman,<br />
-			vill bo~lvasmiþr<sep />bro`þur hefna.''
+			“Þar liggr Reginn,<sep />rǣþr umb viþ sik,<br />
+			vill tǣla mǫg<sep />þanns truïr hǭnum;<br />
+			berr af reiþi<sep />rǫng orþ saman,<br />
+			vill bǫlvasmiþr<sep />brōþur hefna.”
 		</original>
 		<translation_prelude>
 			A second spake:
 		</translation_prelude>
 		<translation>
-			``There Regin lies,<sep />and plans he lays<br />
+			“There Regin lies,<sep />and plans he lays<br />
 			The youth to betray<sep />who trusts him well;<br />
 			Lying words<sep />with wiles will he speak,<br />
-			Till his brother the maker<sep />of mischief avenges.''
+			Till his brother the maker<sep />of mischief avenges.”
 		</translation>
 	</block>
 	<block class="stanza" number="34">
@@ -823,19 +823,19 @@
 			En þriþja kvaþ:
 		</original_prelude>
 		<original>
-			``Ho~fþi skemra<sep /><conj>la`t</conj> enn ha`ra þul<br />
+			“Hǫfþi skemra<sep /><conj>lāt</conj> enn hāra þul<br />
 			fara til heljar heþan;<br />
-			o~llu golli<sep />þa` <conj>kna`tt</conj> einn ra`þa,<br />
-			fjo~lþ es und Fa`fni la`.''
+			ǫllu golli<sep />þā <conj>knātt</conj> einn rāþa,<br />
+			fjǫlþ es und Fāfni lā.”
 		</original>
 		<translation_prelude>
 			A third spake:
 		</translation_prelude>
 		<translation>
-			``Less by a head<sep />let the chatterer hoary<br />
+			“Less by a head<sep />let the chatterer hoary<br />
 			Go from here to hell;<br />
 			Then all of the wealth<sep />he alone can wield,<br />
-			The gold that Fafnir guarded.''
+			The gold that Fafnir guarded.”
 		</translation>
 		<comment>
 			Some editions turn this speech from the third person into the second, but the manuscript is clear enough.
@@ -843,25 +843,25 @@
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-			En fjo`rþa kvaþ:
+			En fjōrþa kvaþ:
 		</original_prelude>
 		<original>
-			``Horskr þo/`tti me`r,<sep />ef hafa kynni<br />
-			a`stra`þ mikit<sep />yþvar systra;<br />
+			“Horskr þø̄tti mēr,<sep />ef hafa kynni<br />
+			āstrāþ mikit<sep />yþvar systra;<br />
 			hygþi umb sik<sep />ok hugin gleddi;<br />
-			ulfs vo~`n <conj>erumk</conj><sep />es eyru se`k.''
+			ulfs vǭn <conj>erumk</conj><sep />es eyru sēk.”
 		</original>
 		<translation_prelude>
 			A fourth spake:
 		</translation_prelude>
 		<translation>
-			``Wise would he seem<sep />if so he would heed<br />
+			“Wise would he seem<sep />if so he would heed<br />
 			The counsel good<sep />we sisters give;<br />
 			Thought he would give,<sep />and the ravens gladden,<br />
-			There is ever a wolf<sep />where his ears I spy.''
+			There is ever a wolf<sep />where his ears I spy.”
 		</translation>
 		<comment>
-			<expl>Wolf</expl>, etc.: the phrase is nearly equivalent to ``there must be fire where there is smoke.''
+			<expl>Wolf</expl>, etc.: the phrase is nearly equivalent to “there must be fire where there is smoke.”
 			The proverb appears else where in Old Norse.
 		</comment>
 	</block>
@@ -870,19 +870,19 @@
 			En fimta kvaþ:
 		</original_prelude>
 		<original>
-			``Esat sva` horskr<sep />hildimeiþr,<br />
+			“Esat svā horskr<sep />hildimeiþr,<br />
 			sem hers jaþar<sep />hyggja mundak,<br />
-			ef bro`þur la_e`tr<sep />a` braut komask,<br />
-			en o~þrum hefr<sep />aldrs of synjat.''
+			ef brōþur lǣtr<sep />ā braut komask,<br />
+			en ǫþrum hefr<sep />aldrs of synjat.”
 		</original>
 		<translation_prelude>
 			A fifth spake:
 		</translation_prelude>
 		<translation>
-			``Less wise must be<sep />the tree of battle<br />
+			“Less wise must be<sep />the tree of battle<br />
 			Than to me would seem<sep />the leader of men,<br />
 			If forth he lets<sep />one brother fare,<br />
-			When he of the other<sep />the slayer is.''
+			When he of the other<sep />the slayer is.”
 		</translation>
 		<comment>
 			<expl>Tree of battle</expl>: warrior.
@@ -890,25 +890,25 @@
 	</block>
 	<block class="stanza" number="37">
 		<original_prelude>
-			En se`tta kvaþ:
+			En sētta kvaþ:
 		</original_prelude>
 		<original>
-			``Mjo~k'<conj>st</conj> o`sviþr,<sep />ef <conj>þu</conj> enn sparir<br />
+			“Mjǫk'<conj>st</conj> ōsviþr,<sep />ef <conj>þu</conj> enn sparir<br />
 			fianda enn folkskaa;<br />
-			þars Reginn liggr,<sep />es <conj>þik</conj> ra`þinn hefr---<br />
-			<conj>kannta</conj> viþ <conj>svikum</conj> at sea?''
+			þars Reginn liggr,<sep />es <conj>þik</conj> rāþinn hefr—<br />
+			<conj>kannta</conj> viþ <conj>svikum</conj> at sea?”
 		</original>
 		<translation_prelude>
 			A sixth spake:
 		</translation_prelude>
 		<translation>
-			``Most foolish he seems<sep />if he shall spare<br />
+			“Most foolish he seems<sep />if he shall spare<br />
 			His foe, the bane of the folk,<br />
 			There Regin lies,<sep />who hath wronged him so,<br />
-			Yet falsehood knows he not.''
+			Yet falsehood knows he not.”
 		</translation>
 		<comment>
-			Here, as in stanza <sr>34</sr>, some editions turn the speech from the third person into the second.
+			Here, as in stanza <stanzaref chapter="Fafnismol">34</stanzaref>, some editions turn the speech from the third person into the second.
 		</comment>
 	</block>
 	<block class="stanza" number="38">
@@ -916,22 +916,22 @@
 			En sjaunda kvaþ:
 		</original_prelude>
 		<original>
-			``Ho~fþi skemra<sep /><conj>la`t</conj> enn hri`mkalda jo~tun<br />
+			“Hǫfþi skemra<sep /><conj>lāt</conj> enn hrīmkalda jǫtun<br />
 			auk af baugum bua,<br />
-			þa` munt fear<sep />þess es Fa`fnir re`þ<br />
-			einvaldi vesa!''
+			þā munt fear<sep />þess es Fāfnir rēþ<br />
+			einvaldi vesa!”
 		</original>
 		<translation_prelude>
 			A seventh spake:
 		</translation_prelude>
 		<translation>
-			``Let the head from the frost-cold<sep />giant be hewed,<br />
+			“Let the head from the frost-cold<sep />giant be hewed,<br />
 			And let him of rings be robbed;<br />
 			Then all the wealth<sep />which Fafnir's was<br />
-			Shall belong to thee alone.''
+			Shall belong to thee alone.”
 		</translation>
 		<comment>
-			<expl>Giant</expl>: Regin was certainly not a frost-giant, and the whole stanza looks like some copyist's blundering reproduction of stanza <sr>34</sr>.
+			<expl>Giant</expl>: Regin was certainly not a frost-giant, and the whole stanza looks like some copyist's blundering reproduction of stanza <stanzaref chapter="Fafnismol">34</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="39">
@@ -939,25 +939,25 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Verþa<conj>t</conj> sva` ri`k sko~p,<sep />at Reginn skyli<br />
+			“Verþa<conj>t</conj> svā rīk skǫp,<sep />at Reginn skyli<br />
 			mitt banorþ bera;<br />
-			þvi`t þeir ba`þir bro/`þr<sep />skulu bra`þliga<br />
-			fara til heljar heþan.''
+			þvīt þeir bāþir brø̄þr<sep />skulu brāþliga<br />
+			fara til heljar heþan.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``Not so rich a fate<sep />shall Regin have<br />
+			“Not so rich a fate<sep />shall Regin have<br />
 			As the tale of my death to tell;<br />
 			For soon the brothers<sep />both shall die,<br />
-			And hence to hell shall go.''
+			And hence to hell shall go.”
 		</translation>
 	</block>
 	<block class="prose" label="p40">
 		<original>
-			Sigurþr hjo` ho~fuþ af Regin, ok þa` a`t hann Fa`fnis hjarta ok drakk blo`þ þeira beggja Regins ok Fa`fnis.<br />
-			Þa` heyrþi Sigurþr, hvar igþur ma_eltu:
+			Sigurþr hjō hǫfuþ af Regin, ok þā āt hann Fāfnis hjarta ok drakk blōþ þeira beggja Regins ok Fāfnis.<br />
+			Þā heyrþi Sigurþr, hvar igþur mæltu:
 		</original>
 		<translation>
 			Sigurth hewed off Regin's head, and then he ate Fafnir's heart, and drank the blood of both Regin and Fafnir.<br />
@@ -966,40 +966,40 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			``Bitt þu`, Sigurþr!<sep />bauga rauþa,<br />
-			esa konunglikt<sep />kvi`þa mo~rgu:<br />
+			“Bitt þū, Sigurþr!<sep />bauga rauþa,<br />
+			esa konunglikt<sep />kvīþa mǫrgu:<br />
 			mey veitk eina<sep />miklu fegrsta,<br />
-			golli go/`dda,<sep />ef geta ma_e`ttir.
+			golli gø̄dda,<sep />ef geta mǣttir.
 		</original>
 		<translation>
-			``Bind, Sigurth, the golden<sep />rings together,<br />
+			“Bind, Sigurth, the golden<sep />rings together,<br />
 			Not kingly is it<sep />aught to fear;<br />
 			I know a maid,<sep />there is none so fair,<br />
 			Rich in gold,<sep />if thou mightest get her.
 		</translation>
 		<comment>
-			Neither the manuscript nor any of the editions suggest the existence of more than one bird in stanzas <sr>40</sr>--<sr>44</sr>.
+			Neither the manuscript nor any of the editions suggest the existence of more than one bird in stanzas <stanzaref chapter="Fafnismol">40</stanzaref>–<stanzaref chapter="Fafnismol">44</stanzaref>.
 			It seems to me, however, that there are not only two birds, but two distinct stories.
-			Stanzas <sr>40</sr>--<sr>41</sr> apply solely to Guthrun, and suggest that Sigurth will go straight to Gunnar's hall.
-			Stanzas <sr>42</sr>--<sr>44</sr>, on the other hand, apply solely to Brynhild, and indicate that Sigurth will find her before he visits the Gjukungs.
+			Stanzas <stanzaref chapter="Fafnismol">40</stanzaref>–<stanzaref chapter="Fafnismol">41</stanzaref> apply solely to Guthrun, and suggest that Sigurth will go straight to Gunnar's hall.
+			Stanzas <stanzaref chapter="Fafnismol">42</stanzaref>–<stanzaref chapter="Fafnismol">44</stanzaref>, on the other hand, apply solely to Brynhild, and indicate that Sigurth will find her before he visits the Gjukungs.
 			The confusion which existed between these two versions of the story, and which involved a fundamental difference in the final working out of Brynhild's revenge, is commented on in the note on <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">13</stanzaref>.
-			In the present passage it is possible that two birds are speaking, each reflecting one version of the story; it seems even more likely that one speech or the other (<sr>40</sr>--<sr>41</sr> or <sr>42</sr>--<sr>44</sr>) reflects the original form of the narrative, the other having been added, either later or from another poem.
-			In the <src>Volsungasaga</src> the whole passage is condensed into a few words by one bird: ``Wiser were it if he should then ride up on Hindarfjoll, where Brynhild sleeps, and there would he get much wisdom.''
+			In the present passage it is possible that two birds are speaking, each reflecting one version of the story; it seems even more likely that one speech or the other (<stanzaref chapter="Fafnismol">40</stanzaref>–<stanzaref chapter="Fafnismol">41</stanzaref> or <stanzaref chapter="Fafnismol">42</stanzaref>–<stanzaref chapter="Fafnismol">44</stanzaref>) reflects the original form of the narrative, the other having been added, either later or from another poem.
+			In the <source>Volsungasaga</source> the whole passage is condensed into a few words by one bird: “Wiser were it if he should then ride up on Hindarfjoll, where Brynhild sleeps, and there would he get much wisdom.”
 			The Guthrun-bird does not appear at all.
 		</comment>
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			Liggja til Gju`ka<sep />gro/`nar brautir,<br />
-			fram vi`sa sko~p<sep />folkli`þo~ndum;<br />
-			hefr dy`rr konungr<sep />do`ttur alna,<br />
-			þa` munt, Sigurþr!<sep />mundi kaupa.''
+			Liggja til Gjūka<sep />grø̄nar brautir,<br />
+			fram vīsa skǫp<sep />folklīþǫndum;<br />
+			hefr dȳrr konungr<sep />dōttur alna,<br />
+			þā munt, Sigurþr!<sep />mundi kaupa.”
 		</original>
 		<translation>
 			Green the paths<sep />that to Gjuki lead,<br />
 			And his fate the way<sep />to the wanderer shows;<br />
 			The doughty king<sep />a daughter has,<br />
-			That thou as a bride<sep />mayst, Sigurth, buy.''
+			That thou as a bride<sep />mayst, Sigurth, buy.”
 		</translation>
 		<comment>
 			<expl>Gjuki</expl>: father of Gunnar and Guthrun: cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">13</stanzaref> and note.
@@ -1010,31 +1010,31 @@
 
 		</original_prelude>
 		<original>
-			``<conj>Ho~ll'</conj>s a` ho`vu<sep />Hindarfjalli,<br />
-			<conj>o~ll</conj> es u`tan<sep />eldi <conj>sveipin,</conj><br />
-			<conj>hana</conj> hafa horskir<sep />halir <conj>of go~rva</conj><br />
-			o`r o`do/kkum<sep />o`gnar ljo`ma.
+			“<conj>Hǫll'</conj>s ā hōvu<sep />Hindarfjalli,<br />
+			<conj>ǫll</conj> es ūtan<sep />eldi <conj>sveipin,</conj><br />
+			<conj>hana</conj> hafa horskir<sep />halir <conj>of gǫrva</conj><br />
+			ōr ōdøkkum<sep />ōgnar ljōma.
 		</original>
 		<translation_prelude>
 			Another spake:
 		</translation_prelude>
 		<translation>
-			``A hall stands high<sep />on Hindarfjoll,<br />
+			“A hall stands high<sep />on Hindarfjoll,<br />
 			All with flame<sep />is it ringed without;<br />
 			Warriors wise<sep />did make it once<br />
 			Out of the flaming<sep />light of the flood.
 		</translation>
 		<comment>
-			<expl>Hindarfjoll</expl>: ``Mountain of the Hind.''
+			<expl>Hindarfjoll</expl>: “Mountain of the Hind.”
 			<expl>Light of the flood</expl>: gold; cf. <chapterref>Reginsmol</chapterref>, <stanzaref chapter="Reginsmol">1</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			Veitk a` fjalli<sep />folk<conj>vi`tt</conj> sofa,<br />
-			ok leikr yfir<sep />lindar va`þi!<br />
-			Yggr stakk þorni---<sep />aþra feldi<br />
-			ho~rgefn hali,<sep /><conj>an</conj> hafa vildi.
+			Veitk ā fjalli<sep />folk<conj>vītt</conj> sofa,<br />
+			ok leikr yfir<sep />lindar vāþi!<br />
+			Yggr stakk þorni—<sep />aþra feldi<br />
+			hǫrgefn hali,<sep /><conj>an</conj> hafa vildi.
 		</original>
 		<translation>
 			On the mountain sleeps<sep />a battle-maid,<br />
@@ -1046,37 +1046,37 @@
 			<expl>Battle-maid</expl>: Brynhild, here clearly defined as a Valkyrie.
 			<expl>Bane of the wood</expl>: fire.
 			<expl>Ygg</expl>: Othin; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">53</stanzaref>.
-			<expl>The thorn</expl>: a <proseref chapter="Sigrdrifumol" prose="p5_3">prose note</proseref> in <chapterref>Sigrdrifumol</chapterref> calls it ``sleep-thorn.''
+			<expl>The thorn</expl>: a <proseref chapter="Sigrdrifumol" prose="p5_3">prose note</proseref> in <chapterref>Sigrdrifumol</chapterref> calls it “sleep-thorn.”
 			<expl>The fighter</expl>: the story of the reason for Brynhild's punishment is told in the <proseref chapter="Sigrdrifumol" prose="p5_1">prose following stanza 4</proseref> of <chapterref>Sigrdrifumol</chapterref>.
 		</comment>
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			Kna`tt, mo~gr! sea<sep />mey und hjalmi<br />
-			þa`s fra` vi`gi<sep />Ving<conj>skorni</conj> reiþ;<br />
-			ma`t sigr<conj>drifa</conj><sep />svefni bregþa,<br />
-			skjo~ldunga niþr!<sep />fyr sko~pum norna.''
+			Knātt, mǫgr! sea<sep />mey und hjalmi<br />
+			þās frā vīgi<sep />Ving<conj>skorni</conj> reiþ;<br />
+			māt sigr<conj>drifa</conj><sep />svefni bregþa,<br />
+			skjǫldunga niþr!<sep />fyr skǫpum norna.”
 		</original>
 		<translation>
 			There mayst thou behold<sep />the maiden helmed,<br />
 			Who forth on Vingskornir<sep />rode from the fight;<br />
 			The victory-bringer<sep />her sleep shall break not,<br />
-			Thou heroes' son,<sep />so the Norns have set.''
+			Thou heroes' son,<sep />so the Norns have set.”
 		</translation>
 		<comment>
 			<expl>Vingskornir</expl>: Brynhild's horse, not elsewhere mentioned.
-			<expl>Victory-bringer</expl>: the word thus translated is in the original ``sigrdrifa.''
+			<expl>Victory-bringer</expl>: the word thus translated is in the original “sigrdrifa.”
 			The compiler of the collection, not being familiar with this word, assumed that it was a proper name, and in the <proseref chapter="Sigrdrifumol" prose="p5_1">prose following stanza 4</proseref> of the <chapterref>Sigrdrifumol</chapterref> he specifically states that this was the Valkyrie's name.
-			Editors, until recently, have followed him in this error, failing to recognize that ``sigrdrifa'' was simply an epithet for Brynhild.
+			Editors, until recently, have followed him in this error, failing to recognize that “sigrdrifa” was simply an epithet for Brynhild.
 			It is from this blunder that the so-called <chapterref>Sigrdrifumol</chapterref> takes its name.
-			Brynhild's dual personality as a Valkyrie and as the daughter of Buthli has made plenty of trouble, but the addition of a second Valkyrie in the person of the supposed ``Sigrdrifa'' has made still more.
+			Brynhild's dual personality as a Valkyrie and as the daughter of Buthli has made plenty of trouble, but the addition of a second Valkyrie in the person of the supposed “Sigrdrifa” has made still more.
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			Sigurþr reiþ eptir slo`þ Fa`fnis til bo_elis hans ok fann þat opit<br />
-			ok hurþir af ja`rni ok ga_etti, af ja`rni va`ru ok allir timbrstokkar i` hu`sinu, en grafit i` jo~rþ niþr.<br />
-			Þar fann Sigurþr sto`rmikit gull ok fyldi þar tva_er kistur; þar to`k hann a_egishja`lm ok gullbrynju ok sverþit Hrotta ok marga dy`rgripi ok klyfjaþi þar meþ Grana, en hestrinn vildi eigi fram ganga, fyrr en Sigurþr steig <conj>a`</conj> bak honum.
+			Sigurþr reiþ eptir slōþ Fāfnis til bœlis hans ok fann þat opit<br />
+			ok hurþir af jārni ok gætti, af jārni vāru ok allir timbrstokkar ī hūsinu, en grafit ī jǫrþ niþr.<br />
+			Þar fann Sigurþr stōrmikit gull ok fyldi þar tvær kistur; þar tōk hann ægishjālm ok gullbrynju ok sverþit Hrotta ok marga dȳrgripi ok klyfjaþi þar meþ Grana, en hestrinn vildi eigi fram ganga, fyrr en Sigurþr steig <conj>ā</conj> bak honum.
 		</original>
 		<translation>
 			Sigurth rode along Fafnir's trail to his lair, and found it open.<br />
@@ -1085,7 +1085,7 @@
 		</translation>
 		<comment>
 			There is no break in the manuscript between the end of this prose passage and the beginning of the one introducing the <chapterref>Sigrdrifumol</chapterref>: some editors include the entire prose passage with one poem or the other.
-			<expl>Hrotti</expl>: ``Thruster.''
+			<expl>Hrotti</expl>: “Thruster.”
 		</comment>
 	</block>
 </chapter>
