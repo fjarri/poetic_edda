@@ -334,6 +334,9 @@ def movePunctuation(l):
 		if text.endswith('cf. ') or text.endswith('Cf. '):
 			e[0] = e[0][:-1] + u"~"
 
+		# "cf.~stanza"
+		e[0] = e[0].replace("cf. stanza", "cf.~stanza")
+
 		# "stanza~21"
 		if i < len(l) - 1 and (text.endswith('tanza ') or text.endswith('tanzas ')) and \
 				l[i + 1][1] == 'stanzaref':
