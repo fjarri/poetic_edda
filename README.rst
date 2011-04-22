@@ -259,11 +259,17 @@ Reginsmol (14 Apr 2011)
 * Fixed bug in punctuation moving logic in build.py;
 * Skirnismol, 21: fixed reference to prose in Reginsmol
 
-~~~~~~~~~~~~~~~~~~~
-Fafnismol (planned)
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+Fafnismol (22 Apr 2011)
+~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Fafnismol chapter
+* Added Fafnismol chapter
+
+~~~~~~~~~~~~~~~~~~~~~~
+Sigrdrifumol (planned)
+~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Sigrdrifumol chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
