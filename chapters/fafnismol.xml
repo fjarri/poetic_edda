@@ -1,7 +1,7 @@
 <chapter label="Fafnismol">
 	<block class="eddachapter">
 		<original>
-
+			Fa`fnismo~`l
 		</original>
 		<transliteration>
 			Fafnismol
@@ -43,12 +43,13 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigurþr ok Reginn fo`ru upp a` Gnitaheiþi ok hittu þar slo`þ Fa`fnis, þa` er hann skreiþ til vatns.<br />
+			Þar go/rþi Sigurþr gro~f mikla a` veginum ok gekk Sigurþr þar i`.<br />
+			En er Fa`fnir skreiþ af gullinu, ble`s hann eitri, ok hraut þat fyr ofan ho~fuþ Sigurþi.<br />
+			En er Fa`fnir skreiþ yfir gro~fna, þa` lagþi Sigurþr hann meþ sverþi til hjarta.<br />
+			Fa`fnir hristi sik ok barþi ho~fþi ok sporþi.<br />
+			Sigurþr hljo`p o`r gro~finni, ok sa` þa` hva`rr annan.<br />
+			Fa`fnir kvaþ:
 		</original>
 		<translation>
 			Sigurth and Regin went up to the Gnitaheith, and found there the track that Fafnir made when he crawled to water.<br />
@@ -71,9 +72,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Sveinn ok sveinn!<sep />hverjum est, <conj>sveinn! of</conj> borinn?<br />
+			hverra'st manna mo~gr?<br />
+			es a` Fa`fni rautt<sep />þinn enn fra`na ma_e`ki:<br />
+			sto~ndumk til hjarta hjo~rr.''
 		</original>
 		<translation>
 			``Youth, oh, youth!<sep />of whom then, youth, art thou born?<br />
@@ -87,7 +89,8 @@
 	</block>
 	<block class="prose" label="p2">
 		<original>
-			<br />
+			Sigurþr dulþi nafns si`ns fyr þvi` at þat var tru`a þeira i` forneskju, at orþ feigs manns ma_etti mikit, ef hann bo~lvaþi o`vin si`num meþ nafni.<br />
+			Hann kvaþ:
 		</original>
 		<translation>
 			Sigurth concealed his name because it was believed in olden times that the word of a dying man might have great power if he cursed his foe by his name.<br />
@@ -96,9 +99,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Go~fugt dy`r heitik,<sep />en ek gengit hefk<br />
+			enn mo`þurlausi mo~gr;<br />
+			fo~þur ek a`kka<sep />sem fira synir,<br />
+			<conj>a_e`</conj> gengk einn saman.''
 		</original>
 		<translation>
 			``The Noble Hart<sep />my name, and I go<br />
@@ -109,12 +113,13 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veizt, ef fo~þur ne` a`ttat<sep />sem fira synir,<br />
+			af hverju vast undri alinn?<br />
+			<conj>þo`t mer birtira nafn</conj><sep /><conj>a` banado_egri,</conj><br />
+			<conj>þa` veizt vist, at ly`gr.</conj>''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -122,8 +127,8 @@
 		<translation>
 			``If father thou hadst not,<sep />as others have,<br />
 			By what wonder wast thou born?<br />
-			(Though thy name on the day<sep />of my death thou hidest,<br />
-			Thou knowest now thou dost lie.)''
+			[Though thy name on the day<sep />of my death thou hidest,<br />
+			Thou knowest now thou dost lie.]''
 		</translation>
 		<comment>
 			The names of the speakers do not appear in the manuscript, though they seem originally to have been indicated in the margin for stanzas <sr>3</sr>--<sr>30</sr>.
@@ -132,12 +137,13 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``A_Etterni mitt<sep />kveþk þe`r <conj>of</conj>kunnigt vesa<br />
+			auk mik sjalfan et sama:<br />
+			Sigurþr heitik,<sep />Sigmundr he`t minn faþir,<br />
+			es hefk þik vo~`pnum vegit.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -154,12 +160,13 @@
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hverr þik hvatti?<sep />hvi` hvetjask le`zt<br />
+			mi`nu fjo~rvi at fara?<br />
+			enn fra`neygi sveinn!<sep />a`ttir fo~þur bitran,<br />
+			<conj>es i` barno/`sku 'st bra`þr.</conj>''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -176,12 +183,13 @@
 	</block>
 	<block class="stanza" number="6">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hugr mik hvatti,<sep />hendr me`r fullty`þu<br />
+			ok minn enn hvassi hjo~rr;<br />
+			fa`r es hvatr<sep />es hro/rask tekr,<br />
+			ef i` barno/`sku 's blauþr.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -195,12 +203,13 @@
 	</block>
 	<block class="stanza" number="7">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Veitk, ef vaxa na_e`þir<sep />fyr <conj>þinna</conj> vina brjo`sti,<br />
+			<conj>sa_ei</conj> maþr þik vreiþan vega;<br />
+			nu` est haptr<sep />ok hernuminn,<br />
+			a_e` kveþa bandingja bifask.''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -217,12 +226,13 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þvi` bregþr me`r, Fa`fnir!<sep />at til fjarri seak<br />
+			mi`num feþrmunum:<br />
+			eigi emk haptr,<sep />þo`t va_e`rak hernumi,<br />
+			þu` fannt at ek lauss lifi.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -236,12 +246,13 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heiptyrþi ein<sep />telr þu` þe`r i` hvi`vetna,<br />
+			en ek þe`r satt eitt segik:<br />
+			et gjalla goll<sep />ok et glo`þrauþa fe`---<br />
+			þe`r verþa þeir baugar at bana.''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -255,12 +266,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Fei:: ra`þa<sep />skal fyrþa hverr<br />
+			a_e` til ens eina dags;<br />
+			þvi`t einu sinni<sep />skal alda hverr<br />
+			fara til heljar heþan.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -274,12 +286,13 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[``Norna do`m<sep />muntu fyr nesjum hafa<br />
+			ok <conj>o/rlo~g</conj> o`svinns apa;<br />
+			i` vatni þu drukknar,<sep />ef i` vindi ro/`r,<br />
+			allt es feigs foraþ.''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -299,12 +312,13 @@
 	</block>
 	<block class="stanza" number="12">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer <conj>þat,</conj> Fa`fnir!<sep />alls þik fro`þan kveþa<br />
+			ok vel mart vita:<br />
+			hverjar'u nornir<sep />es nauþgo~nglar 'u`<br />
+			ok kjo`sa mo/`þr fra` mo_gum?
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -322,12 +336,13 @@
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``<conj>Na`bornar</conj><sep /><conj>hykkak</conj> nornir <conj>vesa,</conj><br />
+			eigut þa_e`r a_e`tt saman:<br />
+			sumar'u a`skungar,<sep />sumar alfkungar,<br />
+			sumar do/`tr Dvalins.''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -346,12 +361,13 @@
 	</block>
 	<block class="stanza" number="14">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Seg mer þat, Fa`fnir!<sep />alls þik fro`þan kveþa<br />
+			ok vel mart vita:<br />
+			hve` sa` holmr heitir,<sep />es blanda hjo~rlegi<br />
+			Surtr ok a_e`sir saman?''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -369,12 +385,13 @@
 	</block>
 	<block class="stanza" number="15">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``O`sko`pnir heitir,<sep />en þar o~ll skulu<br />
+			geirum leika goþ;<br />
+			Bilro~st brotnar,<sep />es þeir <conj>a` bru`</conj> fara,<br />
+			ok svima i` mo`þu marir.]
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -392,9 +409,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			A_Egishjalm<sep />bark <conj>of</conj> alda sunum,<br />
+			meþan <conj>of</conj> menjum la`k;<br />
+			einn rammari<sep />hugþumk o~llum vesa,<br />
+			fannkak <conj>sva`</conj> marga mo~gu.''
 		</original>
 		<translation>
 			The fear-helm I wore<sep />to afright mankind,<br />
@@ -409,12 +427,13 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``A_Egishjalmr<sep />bergr einungi,<br />
+			hvars skulu vreiþir vega;<br />
+			þa` þat fiþr,<sep />es meþ fleirum ko/mr,<br />
+			at engi's einna hvatastr.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -428,12 +447,13 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Eitri fno/`stak,<sep />es a` arfi la`k<br />
+			miklum mi`ns fo~þur;<br />
+			[vasa maþr sva` mo`þugr<sep />at me`r mo/`ta þyrþi<br />
+			hra_e`ddumka vo~`pn ne` ve`lar.]''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -441,8 +461,8 @@
 		<translation>
 			``Venom I breathed<sep />when bright I lay<br />
 			By the hoard my father had;<br />
-			(There was none so mighty<sep />as dared to meet me,<br />
-			And weapons nor wiles I feared.)''
+			[There was none so mighty<sep />as dared to meet me,<br />
+			And weapons nor wiles I feared.]''
 		</translation>
 		<comment>
 			Lines 3--4 do not appear in the manuscript and no gap is indicated; they are here conjecturally paraphrased from the prose passage in the <src>Volsungasaga</src>.
@@ -450,12 +470,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Enn <conj>fra`ni</conj> ormr!<sep />þu` go/rþir fra_e`s mikla<br />
+			ok <conj>galzt</conj> harþan hug;<br />
+			heipt at meiri<sep />verþr ho~lþa sunum,<br />
+			at þann hjalm hafi.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -469,12 +490,13 @@
 	</block>
 	<block class="stanza" number="20">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ra_e`þk þer nu`, Sigurþr!<sep />en þu` ra`þ nemir,<br />
+			ok ri`þ heim heþan:<br />
+			et gjalla goll<sep />ok et glo`þrauþa fe`---<br />
+			þe`r verþa þeir baugar at bana.''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -494,12 +516,13 @@
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ra`þ's þe`r ra`þit,<sep />en ek ri`þa mun<br />
+			til þess golls es i` lyngvi liggr;<br />
+			en þu`, Fa`fnir!<sep />ligg i` fjo~rbrotum,<br />
+			þars þik Hel hafi.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -513,12 +536,13 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-
+			Fa`fnir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Reginn mik re`þ,<sep />hann þik ra`þa mun,<br />
+			hann mun okkr verþa bo~`þum at bana;<br />
+			fjo~r sitt la`ta<sep />hykk at Fa`fnir myni,<br />
+			þitt varþ nu` meira megin.''
 		</original>
 		<translation_prelude>
 			Fafnir spake:
@@ -535,7 +559,8 @@
 	</block>
 	<block class="prose" label="p23">
 		<original>
-			<br />
+			Reginn var a` brot horfinn, meþan Sigurþr va` Fa`fni, ok kom þa` aptr, er Sigurþr strauk blo`þ af sverþinu.<br />
+			Reginn kvaþ:
 		</original>
 		<translation>
 			Regin had gone to a distance while Sigurth fought Fafnir, and came back while Sigurth was wiping the blood from his sword.<br />
@@ -544,9 +569,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heill þu nu`, Sigurþr!<sep />hefr nu` sigr vegit<br />
+			auk Fa`fni <conj>of</conj> farit;<br />
+			manna þeira<sep />es mold troþa<br />
+			þik kveþk o`blauþastan alinn.''
 		</original>
 		<translation>
 			``Hail to thee, Sigurth!<sep />Thou victory hast,<br />
@@ -557,20 +583,21 @@
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<sep /><br />
+			``Þat's o`vist at vita,<sep />þa`s komum allir saman<br />
+			[sigti`va synir,]<br />
+			hverr's o`blauþastr alinn;<br />
+			margr es hvatr,<sep />es hjo~r ne` <conj>ry`þr</conj><br />
+			annars brjo`stum i`.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
 			``Unknown it is,<sep />when all are together,<br />
-			(The sons of the glorious gods,)<br />
+			[The sons of the glorious gods,]<br />
 			Who bravest born shall seem;<br />
 			Some are valiant<sep />who redden no sword<br />
 			In the blood of a foeman's breast.''
@@ -581,12 +608,13 @@
 	</block>
 	<block class="stanza" number="25">
 		<original_prelude>
-
+			Reginn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Glaþr est nu`, Sigurþr!<sep />ok gagni feginn,<br />
+			es þu` þerrir Gram a` grasi;<br />
+			bro`þur minn<sep />hefr þu` benjaþan,<br />
+			ok veldk þo` sjalfr sumu.''
 		</original>
 		<translation_prelude>
 			Regin spake:
@@ -603,12 +631,13 @@
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Fjarri þu` gekkt,<sep />meþan a` Fa`fni rauþk<br />
+			minn enn hvassa hjo~r;<br />
+			afli mi`nu attak<sep />viþ orms megin,<br />
+			meþan þu` i` lyngvi la`tt.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -625,12 +654,13 @@
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-
+			Reginn kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Lengi liggja<sep />le`tir þu` lyngvi i`<br />
+			þann enn aldna jo~tun,<br />
+			ef sverþs ne` nytir<sep />þess es sjalfr go/rþak<br />
+			ok þi`ns ens hvassa hjo~rs.''
 		</original>
 		<translation_prelude>
 			Regin spake:
@@ -644,12 +674,13 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Hugr es betri<sep />an se` hjo~rs megin,<br />
+			hvars skulu vreiþir vega;<br />
+			þvi`t hvatan mann<sep /><conj>sa`k harþla</conj> vega<br />
+			meþ sla_e`vu sverþi sigr.
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -663,9 +694,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[Hvo~tum es betra<sep />an se` o`hvo~tum<br />
+			i` hildileik hafask;<br />
+			glo~þum es betra<sep />an se` glu`pnanda<br />
+			hvat<conj>s</conj> at hendi ko/mr.]
 		</original>
 		<translation>
 			Brave men better<sep />than cowards be,<br />
@@ -681,12 +713,13 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þu` þvi` re`tt,<sep />es ri`þa skyldak<br />
+			heilo~g fjo~ll hinig;<br />
+			fei:: ok fjo~rvi<sep />re`þi sa enn fra`ni ormr,<br />
+			nema fry`þir me`r hvats hugar.''
 		</original>
 		<translation>
-			``Thy rede it was<sep />that I should ride<br />
+			Thy rede it was<sep />that I should ride<br />
 			Hither o'er mountains high;<br />
 			The glittering worm<sep />would have wealth and life<br />
 			If thou hadst not mocked at my might.''
@@ -698,7 +731,8 @@
 	</block>
 	<block class="prose" label="p31">
 		<original>
-			<br />
+			Þa` gekk Reginn at Fa`fni ok skar hjarta o`r hinum meþ sverþi er Riþill heitir, ok þa` drakk hann blo`þ or undinni eptir.<br />
+			<conj>Reginn kvaþ:</conj>
 		</original>
 		<translation>
 			Then Regin went up to Fafnir and cut out his heart with his sword, that was named Rithil, and then he drank blood from the wounds.<br />
@@ -710,9 +744,10 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Sit nu`, Sigurþr!<sep />---en ek mun sofa ganga---<br />
+			ok halt Fa`fnis hjarta viþ funa;<br />
+			eisko~ld<sep />ek vil etin la`ta<br />
+			ept þenna dreyra drykk.''
 		</original>
 		<translation>
 			``Sit now, Sigurth,<sep />for sleep will I,<br />
@@ -723,11 +758,12 @@
 	</block>
 	<block class="prose" label="p32">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigurþr to`k Fa`fnis hjarta ok steikþi a` teini.<br />
+			Er hann hugþi at fullsteikt va_eri, ok freyddi sveitinn o`r hjartanu, þa` to`k hann a` fingri si`num ok skynjaþi hva`rt fullsteikt va_eri.<br />
+			Hann brann ok bra` fingrinum i` munn se`r.<br />
+			En er hjartblo`þ Fa`fnis kom a` tungu honum, ok skilþi hann fugls ro~dd.<br />
+			Hann heyrþi at igþur klo~kuþu a` hri`sinu.<br />
+			Igþan kvaþ:
 		</original>
 		<translation>
 			Sigurth took Fafnir's heart and cooked it on a spit.<br />
@@ -740,10 +776,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þar sitr Sigurþr<sep />sveita stokkinn,<br />
+			Fa`fnis hjarta<sep />viþ funa steikir;<br />
+			spakr þo/`tti me`r<sep />spillir bauga,<br />
+			ef fjo~rsega<sep />fra`nan a_e`ti.''
 		</original>
 		<translation>
 			``There sits Sigurth,<sep />sprinkled with blood,<br />
@@ -764,13 +800,13 @@
 	</block>
 	<block class="stanza" number="33">
 		<original_prelude>
-
+			O~nnur kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þar liggr Reginn,<sep />ra_e`þr umb viþ sik,<br />
+			vill ta_e`la mo~g<sep />þanns trui::r ho~`num;<br />
+			berr af reiþi<sep />ro~ng orþ saman,<br />
+			vill bo~lvasmiþr<sep />bro`þur hefna.''
 		</original>
 		<translation_prelude>
 			A second spake:
@@ -784,12 +820,13 @@
 	</block>
 	<block class="stanza" number="34">
 		<original_prelude>
-
+			En þriþja kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ho~fþi skemra<sep /><conj>la`t</conj> enn ha`ra þul<br />
+			fara til heljar heþan;<br />
+			o~llu golli<sep />þa` <conj>kna`tt</conj> einn ra`þa,<br />
+			fjo~lþ es und Fa`fni la`.''
 		</original>
 		<translation_prelude>
 			A third spake:
@@ -806,13 +843,13 @@
 	</block>
 	<block class="stanza" number="35">
 		<original_prelude>
-
+			En fjo`rþa kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Horskr þo/`tti me`r,<sep />ef hafa kynni<br />
+			a`stra`þ mikit<sep />yþvar systra;<br />
+			hygþi umb sik<sep />ok hugin gleddi;<br />
+			ulfs vo~`n <conj>erumk</conj><sep />es eyru se`k.''
 		</original>
 		<translation_prelude>
 			A fourth spake:
@@ -830,13 +867,13 @@
 	</block>
 	<block class="stanza" number="36">
 		<original_prelude>
-
+			En fimta kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Esat sva` horskr<sep />hildimeiþr,<br />
+			sem hers jaþar<sep />hyggja mundak,<br />
+			ef bro`þur la_e`tr<sep />a` braut komask,<br />
+			en o~þrum hefr<sep />aldrs of synjat.''
 		</original>
 		<translation_prelude>
 			A fifth spake:
@@ -853,12 +890,13 @@
 	</block>
 	<block class="stanza" number="37">
 		<original_prelude>
-
+			En se`tta kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Mjo~k'<conj>st</conj> o`sviþr,<sep />ef <conj>þu</conj> enn sparir<br />
+			fianda enn folkskaa;<br />
+			þars Reginn liggr,<sep />es <conj>þik</conj> ra`þinn hefr---<br />
+			<conj>kannta</conj> viþ <conj>svikum</conj> at sea?''
 		</original>
 		<translation_prelude>
 			A sixth spake:
@@ -875,12 +913,13 @@
 	</block>
 	<block class="stanza" number="38">
 		<original_prelude>
-
+			En sjaunda kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Ho~fþi skemra<sep /><conj>la`t</conj> enn hri`mkalda jo~tum<br />
+			auk af baugum bua,<br />
+			þa` munt fear<sep />þess es Fa`fnir re`þ<br />
+			einvaldi vesa!''
 		</original>
 		<translation_prelude>
 			A seventh spake:
@@ -897,12 +936,13 @@
 	</block>
 	<block class="stanza" number="39">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Verþa<conj>t</conj> sva` ri`k sko~p,<sep />at Reginn skyli<br />
+			mitt banorþ bera;<br />
+			þvi`t þeir ba`þir bro/`þr<sep />skulu bra`þliga<br />
+			fara til heljar heþan.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -916,7 +956,8 @@
 	</block>
 	<block class="prose" label="p40">
 		<original>
-			<br />
+			Sigurþr hjo` ho~fuþ af Regin, ok þa` a`t hann Fa`fnis hjarta ok drakk blo`þ þeira beggja Regins ok Fa`fnis.<br />
+			Þa` heyrþi Sigurþr, hvar igþur ma_eltu:
 		</original>
 		<translation>
 			Sigurth hewed off Regin's head, and then he ate Fafnir's heart, and drank the blood of both Regin and Fafnir.<br />
@@ -925,10 +966,10 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Bitt þu`, Sigurþr!<sep />bauga rauþa,<br />
+			esa konunglikt<sep />kvi`þa mo~rgu:<br />
+			mey veitk eina<sep />miklu fegrsta,<br />
+			golli go/`dda,<sep />ef geta ma_e`ttir.
 		</original>
 		<translation>
 			``Bind, Sigurth, the golden<sep />rings together,<br />
@@ -949,10 +990,10 @@
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Liggja til Gju`ka<sep />gro/`nar brautir,<br />
+			fram vi`sa sko~p<sep />folkli`þo~ndum;<br />
+			hefr dy`rr konungr<sep />do`ttur alna,<br />
+			þa` munt, Sigurþr!<sep />mundi kaupa.''
 		</original>
 		<translation>
 			Green the paths<sep />that to Gjuki lead,<br />
@@ -969,10 +1010,10 @@
 
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``<conj>Ho~ll'</conj>s a` ho`vu<sep />Hindarfjalli,<br />
+			<conj>o~ll</conj> es u`tan<sep />eldi <conj>sveipin,</conj><br />
+			<conj>hana</conj> hafa horskir<sep />halir <conj>of go~rva</conj><br />
+			o`r o`do/kkum<sep />o`gnar ljo`ma.
 		</original>
 		<translation_prelude>
 			Another spake:
@@ -990,13 +1031,13 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Veitk a` fjalli<sep />folk<conj>vi`tt</conj> sofa,<br />
+			ok leikr yfir<sep />lindar va`þi!<br />
+			Yggr stakk þorni---<sep />aþra feldi<br />
+			ho~rgefn hali,<sep /><conj>an</conj> hafa vildi.
 		</original>
 		<translation>
-			"On the mountain sleeps<sep />a battle-maid,<br />
+			On the mountain sleeps<sep />a battle-maid,<br />
 			And about her plays<sep />the bane of the wood;<br />
 			Ygg with the thorn<sep />hath smitten her thus,<br />
 			For she felled the fighter<sep />he fain would save.
@@ -1011,13 +1052,13 @@
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kna`tt, mo~gr! sea<sep />mey und hjalmi<br />
+			þa`s fra` vi`gi<sep />Ving<conj>skorni</conj> reiþ;<br />
+			ma`t sigr<conj>drifa</conj><sep />svefni bregþa,<br />
+			skjo~ldunga niþr!<sep />fyr sko~pum norna.''
 		</original>
 		<translation>
-			``There mayst thou behold<sep />the maiden helmed,<br />
+			There mayst thou behold<sep />the maiden helmed,<br />
 			Who forth on Vingskornir<sep />rode from the fight;<br />
 			The victory-bringer<sep />her sleep shall break not,<br />
 			Thou heroes' son,<sep />so the Norns have set.''
@@ -1033,8 +1074,9 @@
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			<br />
-			<br />
+			Sigurþr reiþ eptir slo`þ Fa`fnis til bo_elis hans ok fann þat opit<br />
+			ok hurþir af ja`rni ok ga_etti, af ja`rni va`ru ok allir timbrstokkar i` hu`sinu, en grafit i` jo~rþ niþr.<br />
+			Þar fann Sigurþr sto`rmikit gull ok fyldi þar tva_er kistur; þar to`k hann a_egishja`lm ok gullbrynju ok sverþit Hrotta ok marga dy`rgripi ok klyfjaþi þar meþ Grana, en hestrinn vildi eigi fram ganga, fyrr en Sigurþr steig <conj>a`</conj> bak honum.
 		</original>
 		<translation>
 			Sigurth rode along Fafnir's trail to his lair, and found it open.<br />
