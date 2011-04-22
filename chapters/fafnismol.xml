@@ -14,7 +14,7 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The so-called <chapterref>Fafnismol</chapterref>, contained in full in the <source>Codex Regius</source>, where it immediately follows the <chapterref>Reginsmol</chapterref> without any indication of a break, is quoted by Snorri in the <source>Gylfaginning</source> (stanza 13) and the <source>Skaldskaparmal</source> (stanzas 32 and 33), and stanzas 6, 3, and 4 appear in the <source>Sverrissaga</source>.
+		The so-called <chapterref>Fafnismol</chapterref>, contained in full in the <source>Codex Regius</source>, where it immediately follows the <chapterref>Reginsmol</chapterref> without any indication of a break, is quoted by Snorri in the <source>Gylfaginning</source> (stanza <stanzaref chapter="Fafnismol">13</stanzaref>) and the <source>Skaldskaparmal</source> (stanzas <stanzaref chapter="Fafnismol">32</stanzaref> and <stanzaref chapter="Fafnismol">33</stanzaref>), and stanzas <stanzaref chapter="Fafnismol">6</stanzaref>, <stanzaref chapter="Fafnismol">3</stanzaref>, and <stanzaref chapter="Fafnismol">4</stanzaref> appear in the <source>Sverrissaga</source>.
 		Although the <source>Volsungasaga</source> does not actually quote any of the stanzas, it gives a very close prose parallel to the whole poem in chapters 18 and 19.
 	</block>
 	<block class="text">
