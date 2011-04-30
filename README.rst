@@ -308,3 +308,5 @@ Tasks for distant future
   Need to add non-breakable spaces in chapter names too (like Smth~II)
 * Try to use two cells separated by \nopagebreaks for stanza lines with <sep />
   (this may help to avoid uneven cell spacing)
+* Probably make second-level square brackets bold
+  (see how it's done in Sigrdrifumol in Gering source)
