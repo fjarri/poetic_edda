@@ -1,7 +1,7 @@
 <chapter label="Sigrdrifumol">
 	<block class="eddachapter">
 		<original>
-			Sigrdrifumo~`l
+			Sigrdrifumǭl
 		</original>
 		<transliteration>
 			Sigrdrifumol
@@ -14,43 +14,43 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The so-called <cr>Sigrdrifumol</cr>, which immediately follows the <cr>Fafnismol</cr> in the <src>Codex Regius</src> without any indication of a break, and without separate title, is unquestionably the most chaotic of all the poems in the Eddic collection.
-		The end of it has been entirely lost, for the fifth folio of eight sheets is missing from <src>Regius</src>, the gap coming after the first line of stanza <sr>29</sr> of this poem.
+		The so-called <chapterref>Sigrdrifumol</chapterref>, which immediately follows the <chapterref>Fafnismol</chapterref> in the <source>Codex Regius</source> without any indication of a break, and without separate title, is unquestionably the most chaotic of all the poems in the Eddic collection.
+		The end of it has been entirely lost, for the fifth folio of eight sheets is missing from <source>Regius</source>, the gap coming after the first line of stanza <stanzaref chapter="Sigrdrifumol">29</stanzaref> of this poem.
 		That stanza has been completed, and eight more have been added, from much later paper manuscripts, but even so the conclusion of the poem is in obscurity.
 	</block>
 	<block class="text">
-		Properly speaking, however, the strange conglomeration of stanzas which the compiler of the collection has left for us, and which, in much the same general form, seems to have lain before the authors of the <src>Volsungasaga</src>, in which eighteen of its stanzas are quoted, is not a poem at all.
+		Properly speaking, however, the strange conglomeration of stanzas which the compiler of the collection has left for us, and which, in much the same general form, seems to have lain before the authors of the <source>Volsungasaga</source>, in which eighteen of its stanzas are quoted, is not a poem at all.
 		Even its customary title is an absurd error.
-		The mistake made by the annotator in thinking that the epithet ``sigrdrifa,'' rightly applied to Brynhild as a ``bringer of victory,'' was a proper name has already been explained and commented on (note on <cr>Fafnismol</cr>, <stanzaref chapter="Fafnismol">44</stanzaref>).
-		Even if the collection of stanzas were in any real sense a poem, which it emphatically is not, it is certainly not the ``Ballad of Sigrdrifa'' which it is commonly called.
-		``Ballad of Brynhild'' would be a sufficiently suitable title, and I have here brought the established name ``Sigrdrifumol'' into accord with this by translating the epithet instead of treating it as a proper name.
+		The mistake made by the annotator in thinking that the epithet “sigrdrifa,” rightly applied to Brynhild as a “bringer of victory,” was a proper name has already been explained and commented on (note on <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">44</stanzaref>).
+		Even if the collection of stanzas were in any real sense a poem, which it emphatically is not, it is certainly not the “Ballad of Sigrdrifa” which it is commonly called.
+		“Ballad of Brynhild” would be a sufficiently suitable title, and I have here brought the established name “Sigrdrifumol” into accord with this by translating the epithet instead of treating it as a proper name.
 	</block>
 	<block class="text">
-		Even apart from the title, however, the <cr>Sigrdrifumol</cr> has little claim to be regarded as a distinct poem, nor is there any indication that the compiler did so regard it.
-		Handicapped as we are by the loss of the concluding section, and of the material which followed it on those missing pages, we can yet see that the process which began with the prose <cr>Fra Dautha Sinfjotla</cr>, and which, interrupted by the insertion of the <cr>Gripisspo</cr>, went on through the <cr>Reginsmol</cr> and the <cr>Fafnismol</cr>, continued through as much of the <cr>Sigrdrifumol</cr> as is left to us.
+		Even apart from the title, however, the <chapterref>Sigrdrifumol</chapterref> has little claim to be regarded as a distinct poem, nor is there any indication that the compiler did so regard it.
+		Handicapped as we are by the loss of the concluding section, and of the material which followed it on those missing pages, we can yet see that the process which began with the prose <chapterref>Fra Dautha Sinfjotla</chapterref>, and which, interrupted by the insertion of the <chapterref>Gripisspo</chapterref>, went on through the <chapterref>Reginsmol</chapterref> and the <chapterref>Fafnismol</chapterref>, continued through as much of the <chapterref>Sigrdrifumol</chapterref> as is left to us.
 		In other words, the compiler told the story of Sigurth in mixed prose and verse, using whatever verse he could find without much questioning as to its origin, and filling in the gaps with hii own prose.
-		<cr>Fra Dautha Sinfjotla</cr>, <cr>Reginsmol</cr>, <cr>Fafnismol</cr>, and <cr>Sigrdrifumol</cr> are essentially a coherent unit, but one of the compiler's making only; they represent neither one poem nor three distinct poems, and the divisions and titles which have been almost universally adopted by editors are both arbitrary and misleading.
+		<chapterref>Fra Dautha Sinfjotla</chapterref>, <chapterref>Reginsmol</chapterref>, <chapterref>Fafnismol</chapterref>, and <chapterref>Sigrdrifumol</chapterref> are essentially a coherent unit, but one of the compiler's making only; they represent neither one poem nor three distinct poems, and the divisions and titles which have been almost universally adopted by editors are both arbitrary and misleading.
 	</block>
 	<block class="text">
-		The <cr>Sigrdrifumol</cr> section as we now have it is an extraordinary piece of patchwork.
+		The <chapterref>Sigrdrifumol</chapterref> section as we now have it is an extraordinary piece of patchwork.
 		It is most unlikely that the compiler himself brought all these fragments together for the first time; little by little, through a process of accretion and also, unluckily, through one of elimination, the material grew into its present shape.
-		Certainly the basis of it is a poem dealing with the finding of Brynhild by Sigurth, but of this original poem only five stanzas (<sr>2</sr>--<sr>4</sr> and <sr>20</sr>--<sr>21</sr>) can be identified with any degree of confidence.
-		To these five stanzas should probably, however, be added some, if not all, of the passage (stanzas <sr>6</sr>--<sr>12</sr>) in which Brynhild teaches Sigurth the magic runes.
-		These stanzas of rune-lore attracted sundry similar passages from other sources, including stanza <sr>5</sr>, in which a magic draught is administered (not necessarily by Brynhild or to Sigurth), the curious rune-chant in stanzas <sr>15</sr>--<sr>17</sr>, and stanzas <sr>13</sr>--<sr>14</sr> and <sr>18</sr>--<sr>19</sr>.
-		Beginning with stanza <sr>22</sr>, and running to the end of the fragment (stanza <sr>37</sr>), is a set of numbered counsels closely resembling the <src>Loddfafnismol</src> (<cr>Hovamol</cr>, stanzas <stanzaref chapter="Hovamol">111</stanzaref>--<stanzaref chapter="Hovamol">138</stanzaref>), which manifestly has nothing whatever to do with Brynhild.
-		Even in this passage there are probably interpolations (stanzas <sr>25</sr>, <sr>27</sr>, <sr>30</sr>, <sr>34</sr>, and <sr>36</sr>).
-		Finally, and bespeaking the existence at some earlier time of another Sigurth-Brynhild poem, is stanza <sr>1</sr>, sharply distinguished by its metrical form from stanzas <sr>2</sr>--<sr>4</sr> and <sr>20</sr>--<sr>21</sr>.
-		Many critics argue that stanzas <stanzaref chapter="Helreith Brynildar">6</stanzaref>--<stanzaref chapter="Helreith Brynildar">10</stanzaref> of <cr>Helreith Brynildar</cr> belonged originally to the same poem as stanza <sr>1</sr> of the <cr>Sigrdrifumol</cr>.
+		Certainly the basis of it is a poem dealing with the finding of Brynhild by Sigurth, but of this original poem only five stanzas (<stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref> and <stanzaref chapter="Sigrdrifumol">20</stanzaref>–<stanzaref chapter="Sigrdrifumol">21</stanzaref>) can be identified with any degree of confidence.
+		To these five stanzas should probably, however, be added some, if not all, of the passage (stanzas <stanzaref chapter="Sigrdrifumol">6</stanzaref>–<stanzaref chapter="Sigrdrifumol">12</stanzaref>) in which Brynhild teaches Sigurth the magic runes.
+		These stanzas of rune-lore attracted sundry similar passages from other sources, including stanza <stanzaref chapter="Sigrdrifumol">5</stanzaref>, in which a magic draught is administered (not necessarily by Brynhild or to Sigurth), the curious rune-chant in stanzas <stanzaref chapter="Sigrdrifumol">15</stanzaref>–<stanzaref chapter="Sigrdrifumol">17</stanzaref>, and stanzas <stanzaref chapter="Sigrdrifumol">13</stanzaref>–<stanzaref chapter="Sigrdrifumol">14</stanzaref> and <stanzaref chapter="Sigrdrifumol">18</stanzaref>–<stanzaref chapter="Sigrdrifumol">19</stanzaref>.
+		Beginning with stanza <stanzaref chapter="Sigrdrifumol">22</stanzaref>, and running to the end of the fragment (stanza <stanzaref chapter="Sigrdrifumol">37</stanzaref>), is a set of numbered counsels closely resembling the <source>Loddfafnismol</source> (<chapterref>Hovamol</chapterref>, stanzas <stanzaref chapter="Hovamol">111</stanzaref>–<stanzaref chapter="Hovamol">138</stanzaref>), which manifestly has nothing whatever to do with Brynhild.
+		Even in this passage there are probably interpolations (stanzas <stanzaref chapter="Sigrdrifumol">25</stanzaref>, <stanzaref chapter="Sigrdrifumol">27</stanzaref>, <stanzaref chapter="Sigrdrifumol">30</stanzaref>, <stanzaref chapter="Sigrdrifumol">34</stanzaref>, and <stanzaref chapter="Sigrdrifumol">36</stanzaref>).
+		Finally, and bespeaking the existence at some earlier time of another Sigurth-Brynhild poem, is stanza <stanzaref chapter="Sigrdrifumol">1</stanzaref>, sharply distinguished by its metrical form from stanzas <stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref> and <stanzaref chapter="Sigrdrifumol">20</stanzaref>–<stanzaref chapter="Sigrdrifumol">21</stanzaref>.
+		Many critics argue that stanzas <stanzaref chapter="Helreith Brynildar">6</stanzaref>–<stanzaref chapter="Helreith Brynildar">10</stanzaref> of <chapterref>Helreith Brynildar</chapterref> belonged originally to the same poem as stanza <stanzaref chapter="Sigrdrifumol">1</stanzaref> of the <chapterref>Sigrdrifumol</chapterref>.
 	</block>
 	<block class="text">
-		The <cr>Sigrdrifumol</cr>, then, must be regarded simply as a collection of fragments, most of them originally having no relation to the main subject.
-		All of the story, the dialogue and the characterization are embodied in stanzas <sr>1</sr>--<sr>4</sr> and <sr>20</sr>--<sr>21</sr> and in the prose notes accompanying the first four stanzas; all of the rest might equally well (or better) be transferred to the <cr>Hovamol</cr>, where its character entitles it to a place.
-		Yet stanzas <sr>2</sr>--<sr>4</sr> are as fine as anything in Old Norse poetry, and it is out of the scanty material of these three stanzas that Wagner constructed much of the third act of ``Siegfried.''
+		The <chapterref>Sigrdrifumol</chapterref>, then, must be regarded simply as a collection of fragments, most of them originally having no relation to the main subject.
+		All of the story, the dialogue and the characterization are embodied in stanzas <stanzaref chapter="Sigrdrifumol">1</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref> and <stanzaref chapter="Sigrdrifumol">20</stanzaref>–<stanzaref chapter="Sigrdrifumol">21</stanzaref> and in the prose notes accompanying the first four stanzas; all of the rest might equally well (or better) be transferred to the <chapterref>Hovamol</chapterref>, where its character entitles it to a place.
+		Yet stanzas <stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref> are as fine as anything in Old Norse poetry, and it is out of the scanty material of these three stanzas that Wagner constructed much of the third act of “Siegfried.”
 	</block>
 	<block class="text">
-		The <cr>Sigrdrifumol</cr> represents almost exclusively the contributions of the North to the Sigurth tradition (cf. introductory note to the <cr>Gripisspo</cr>).
-		Brynhild, here disguised by the annotator as ``Sigrdrifa,'' appears simply as a battle-maid and supernatural dispenser of wisdom; there is no trace of the daughter of Buthli and the rival of Guthrun.
-		There is, however, so little of the ``poem'' which can definitely be assigned to the Sigurth cycle that it is impossible to trace back any of the underlying narrative substance.
+		The <chapterref>Sigrdrifumol</chapterref> represents almost exclusively the contributions of the North to the Sigurth tradition (cf. introductory note to the <chapterref>Gripisspo</chapterref>).
+		Brynhild, here disguised by the annotator as “Sigrdrifa,” appears simply as a battle-maid and supernatural dispenser of wisdom; there is no trace of the daughter of Buthli and the rival of Guthrun.
+		There is, however, so little of the “poem” which can definitely be assigned to the Sigurth cycle that it is impossible to trace back any of the underlying narrative substance.
 	</block>
 	<block class="text">
 		The nature and condition of the material have made editorial conjectures and emendations very numerous, and as most of the guesses are neither conclusive nor particularly important, only a few of their are mentioned in the notes.
@@ -58,14 +58,14 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Sigurþr reiþ upp a` Hindarfjall ok stefndi suþr til Frakklands.<br />
-			A` fjallinu sa` hann ljo`s mikit, sva` sem eldr brynni, ok ljo`maþi af til himins.<br />
-			En er hann kom at, þa` sto`þ þar skjaldborg ok upp o`r merki.<br />
-			Sigurþr gekk i` skjaldborgina ok sa` at þar la` maþr ok svaf meþ o~llum herva`pnum.<br />
-			Hann to`k fyrst hja`lminn af ho~fþi honum; þa` sa` hann at þat var kona.<br />
-			Brynjan var fo~st, sem hon va_eri holdgro`in.<br />
-			Þa` reist hann meþ Gram fra` ho~fuþsma`tt brynjuna i` go/gnum niþr ok sva` u`t i` go/gnum ba`þar ermar.<br />
-			Þa` to`k hann brynju af henni, en hon vaknaþi, ok settiz hon upp ok sa` Sigurþ ok ma_elti:
+			Sigurþr reiþ upp ā Hindarfjall ok stefndi suþr til Frakklands.<br />
+			Ā fjallinu sā hann ljōs mikit, svā sem eldr brynni, ok ljōmaþi af til himins.<br />
+			En er hann kom at, þā stōþ þar skjaldborg ok upp ōr merki.<br />
+			Sigurþr gekk ī skjaldborgina ok sā at þar lā maþr ok svaf meþ ǫllum hervāpnum.<br />
+			Hann tōk fyrst hjālminn af hǫfþi honum; þā sā hann at þat var kona.<br />
+			Brynjan var fǫst, sem hon væri holdgrōin.<br />
+			Þā reist hann meþ Gram frā hǫfuþsmātt brynjuna ī gøgnum niþr ok svā ūt ī gøgnum bāþar ermar.<br />
+			Þā tōk hann brynju af henni, en hon vaknaþi, ok settiz hon upp ok sā Sigurþ ok mælti:
 		</original>
 		<translation>
 			Sigurth rode up on Hindarfjoll and turned southward toward the land of the Franks.<br />
@@ -87,48 +87,48 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			``Hvat beit brynju?<sep />hvi` bra`k svefni?<br />
-			hverr feldi af me`r<sep />fo~lvar mauþir?''<br />
+			“Hvat beit brynju?<sep />hvī brāk svefni?<br />
+			hverr feldi af mēr<sep />fǫlvar mauþir?”<br />
 			<stanzaprelude>Hann svaraþi:</stanzaprelude><br />
-			``Sigmundar burr,<sep />---sleit fyr sko~mmu<br />
-			<conj>hrafn</conj> hra_e`lundir---<sep />hjo~rr Sigurþar.''
+			“Sigmundar burr,<sep />—sleit fyr skǫmmu<br />
+			<conj>hrafn</conj> hrǣlundir—<sep />hjǫrr Sigurþar.”
 		</original>
 		<translation>
-			``What bit through the byrnie?<sep />how was broken my sleep?<br />
-			Who made me free<sep />of the fetters pale?''<br />
+			“What bit through the byrnie?<sep />how was broken my sleep?<br />
+			Who made me free<sep />of the fetters pale?”<br />
 			<stanzaprelude>He answered:</stanzaprelude><br />
-			``Sigmund's son,<sep />with Sigurth's sword,<br />
-			That late with flesh<sep />hath fed the ravens.''
+			“Sigmund's son,<sep />with Sigurth's sword,<br />
+			That late with flesh<sep />hath fed the ravens.”
 		</translation>
 		<comment>
-			This stanza, and the two lines included in the prose after stanza <sr>4</sr>, and possibly stanza <sr>5</sr> as well, evidently come from a different poem from stanzas <sr>2</sr>--<sr>4</sr>.
-			Lines 3--4 in the original are obscure, though the general meaning is clear.
+			This stanza, and the two lines included in the prose after stanza <stanzaref chapter="Sigrdrifumol">4</stanzaref>, and possibly stanza <stanzaref chapter="Sigrdrifumol">5</stanzaref> as well, evidently come from a different poem from stanzas <stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref>.
+			Lines 3–4 in the original are obscure, though the general meaning is clear.
 		</comment>
 	</block>
 	<block class="prose" label="p2">
 		<original>
 			Sigurþr settiz niþr ok spurþi hana nafns.<br />
-			Hon to`k þa` horn fullt mjaþar ok gaf honum minnisveig:
+			Hon tōk þā horn fullt mjaþar ok gaf honum minnisveig:
 		</original>
 		<translation>
 			Sigurth sat beside her and asked her name.<br />
 			She took a horn full of mead and gave him a memory-draught.
 		</translation>
 		<comment>
-			In the manuscript stanza <sr>4</sr> stands before this prose note and stanzas <sr>2</sr>--<sr>3</sr>.
+			In the manuscript stanza <stanzaref chapter="Sigrdrifumol">4</stanzaref> stands before this prose note and stanzas <stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">3</stanzaref>.
 			The best arrangement of the stanzas seems to be the one here given, following Müllenhoff's suggestion, but the prose note is out of place anywhere.
-			The first sentence of it ought to follow stanza <sr>4</sr> and immediately precede the next prose note; the second sentence ought to precede stanza <sr>5</sr>.
+			The first sentence of it ought to follow stanza <stanzaref chapter="Sigrdrifumol">4</stanzaref> and immediately precede the next prose note; the second sentence ought to precede stanza <stanzaref chapter="Sigrdrifumol">5</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			``Heill dagr!<sep />heilir dags synir!<br />
-			heil no~`tt ok nipt!<br />
-			o`reiþum augum<sep />li`tiþ okkr þinig<br />
-			ok gefiþ sitjo~ndum sigr!
+			“Heill dagr!<sep />heilir dags synir!<br />
+			heil nǭtt ok nipt!<br />
+			ōreiþum augum<sep />lītiþ okkr þinig<br />
+			ok gefiþ sitjǫndum sigr!
 		</original>
 		<translation>
-			``Hail, day!<sep />Hail, sons of day!<br />
+			“Hail, day!<sep />Hail, sons of day!<br />
 			And night and her daughter now!<br />
 			Look on us here<sep />with loving eyes,<br />
 			That waiting we victory win.
@@ -140,10 +140,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			Heilir a_e`sir!<sep />heilar a`synjur!<br />
-			heil sja en fjo~lny`ta fold!<br />
-			ma`l ok mannvit<sep />gefiþ okkr ma_e`rum tveim<br />
-			ok la_e`knishendr, meþan lifum!
+			Heilir ǣsir!<sep />heilar āsynjur!<br />
+			heil sja en fjǫlnȳta fold!<br />
+			māl ok mannvit<sep />gefiþ okkr mǣrum tveim<br />
+			ok lǣknishendr, meþan lifum!
 		</original>
 		<translation>
 			Hail to the gods!<sep />Ye goddesses, hail,<br />
@@ -155,21 +155,21 @@
 	<block class="stanza" number="4">
 		<original>
 			Lengi svafk,<sep />lengi sofnuþ vask,<br />
-			lo~ng eru ly`þa la_e`:<br />
-			O`þinn þvi` veldr,<sep />es eigi ma`ttak<br />
-			bregþa <conj>blund</conj>sto~fum.''
+			lǫng eru lȳþa lǣ:<br />
+			Ōþinn þvī veldr,<sep />es eigi māttak<br />
+			bregþa <conj>blund</conj>stǫfum.”
 		</original>
 		<translation>
 			Long did I sleep,<sep />my slumber was long,<br />
 			And long are the griefs of life;<br />
 			Othin decreed<sep />that I could not break<br />
-			The heavy spells of sleep.''
+			The heavy spells of sleep.”
 		</translation>
 	</block>
 	<block class="prose" label="p5_1">
 		<original>
 			Hon nefndiz Sigrdrifa ok var valkyrja.<br />
-			Hon sagþi at tveir konungar bo~rþuz: he`t annarr Hja`lmgunnarr, hann var þa` gamall ok enn mesti hermaþr, ok hafþi O`þinn honum sigri heitit, en
+			Hon sagþi at tveir konungar bǫrþuz: hēt annarr Hjālmgunnarr, hann var þā gamall ok enn mesti hermaþr, ok hafþi Ōþinn honum sigri heitit, en
 		</original>
 		<translation>
 			Her name was Sigrdrifa, and she was a Valkyrie.<br />
@@ -178,8 +178,8 @@
 	</block>
 	<block class="prosestanza" label="p5_2">
 		<original>
-			annarr he`t Agnarr,<sep /><conj>Auþu</conj> bro`þir,<br />
-			es va_e`tr engi<sep />vildi þiggja.
+			annarr hēt Agnarr,<sep /><conj>Auþu</conj> brōþir,<br />
+			es vǣtr engi<sep />vildi þiggja.
 		</original>
 		<translation>
 			The other was Agnar,<sep />brother of Autha,<br />
@@ -188,58 +188,58 @@
 	</block>
 	<block class="prose" label="p5_3">
 		<original>
-			Sigrdrifa feldi Hja`lmgunnar i` orrostunni, en O`þinn stakk hana svefnþorni i` hefnd þess ok kvaþ hana aldri skyldu si`þan sigr vega i` orrostu <conj>ok</conj> kvaþ hana giptaz skyldu.<br />
-			``En ek sagþak honum, at ek strengþak heit þar i` mo`t at giptaz o/ngum þeim manni er hra_eþaz kynni.''<br />
-			Hann segir ok biþr hann kenna se`r speki, ef hon vissi ti`þindi o`r o~llum heimum.<br />
+			Sigrdrifa feldi Hjālmgunnar ī orrostunni, en Ōþinn stakk hana svefnþorni ī hefnd þess ok kvaþ hana aldri skyldu sīþan sigr vega ī orrostu <conj>ok</conj> kvaþ hana giptaz skyldu.<br />
+			“En ek sagþak honum, at ek strengþak heit þar ī mōt at giptaz øngum þeim manni er hræþaz kynni.”<br />
+			Hann segir ok biþr hann kenna sēr speki, ef hon vissi tīþindi ōr ǫllum heimum.<br />
 			Sigrdrifa kvaþ:
 		</original>
 		<translation>
 			Sigrdrifa slew Hjalmgunnar in the battle, and Othin pricked her with the sleep-thorn in punishment for this, and said that she should never thereafter win victory in battle, but that she should be wedded.<br />
-			``And I said to him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.''<br />
+			“And I said to him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.”<br />
 			Sigurth answered and asked her to teach him wisdom, if she knew of what took place in all the worlds.<br />
 			Sigrdrifa said:
 		</translation>
 		<comment>
-			<expl>Sigrdrifa</expl>: on the error whereby this epithet, ``victory-bringer,'' became a proper name cf. <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">44</stanzaref> and note.
+			<expl>Sigrdrifa</expl>: on the error whereby this epithet, “victory-bringer,” became a proper name cf. <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">44</stanzaref> and note.
 			<expl>Hjalmgunnar</expl>: in <chapterref>Helreith Brynhildar</chapterref> (stanza <stanzaref chapter="Helreith Brynhildar">8</stanzaref>) he is called a king of the Goths, which means little; of him and his adversary, <expl>Agnar</expl>, we know, nothing beyond what is told here.
-			The two lines quoted apparently come from the same poem as stanza <sr>1</sr>; the two first lines of the stanza have been reconstructed from the prose thus:
+			The two lines quoted apparently come from the same poem as stanza <stanzaref chapter="Sigrdrifumol">1</stanzaref>; the two first lines of the stanza have been reconstructed from the prose thus:
 			<textstanza class="translation">
 				Hjalmgunnar was one,<sep />the hoary king,<br />
 				And triumph to him<sep />had Heerfather promised.
 			</textstanza>
 			<textstanza class="original">
-				(He`t Hjalmgunnarr<sep />ha`rr vi`sir<br />
-				hafþi ho~num Herfo~þr<sep />heitit sigri.)
+				(Hēt Hjalmgunnarr<sep />hārr vīsir<br />
+				hafþi hǫnum Herfǫþr<sep />heitit sigri.)
 			</textstanza>
-			A few editions insert in this prose passage stanzas <stanzaref chapter="Helreith Brynhildar">7</stanzaref>--<stanzaref chapter="Helreith Brynhildar">10</stanzaref> of <chapterref>Helreith Brynhildar</chapterref>, which may or may not have be longed originally to this poem.
+			A few editions insert in this prose passage stanzas <stanzaref chapter="Helreith Brynhildar">7</stanzaref>–<stanzaref chapter="Helreith Brynhildar">10</stanzaref> of <chapterref>Helreith Brynhildar</chapterref>, which may or may not have be longed originally to this poem.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			``Bjo`r fo/`rik þe`r,<sep />brynþings apaldr!<br />
-			magni blandinn<sep />ok meginti`ri;<br />
-			fullr es ljo`þa<sep />ok li`knstafa,<br />
-			go`þra galdra<sep />ok gamanru`na.''
+			“Bjōr fø̄rik þēr,<sep />brynþings apaldr!<br />
+			magni blandinn<sep />ok megintīri;<br />
+			fullr es ljōþa<sep />ok līknstafa,<br />
+			gōþra galdra<sep />ok gamanrūna.”
 		</original>
 		<translation>
-			``Beer I bring thee,<sep />tree of battle,<br />
+			“Beer I bring thee,<sep />tree of battle,<br />
 			Mingled of strength<sep />and mighty fame;<br />
 			Charms it holds<sep />and healing signs,<br />
-			Spells full good,<sep />and gladness-runes.''
+			Spells full good,<sep />and gladness-runes.”
 		</translation>
 		<comment>
-			This stanza is perhaps, but by no means surely, from the same poem as stanza <sr>1</sr>.
+			This stanza is perhaps, but by no means surely, from the same poem as stanza <stanzaref chapter="Sigrdrifumol">1</stanzaref>.
 			<expl>Tree of battle</expl>: warrior.
-			<expl>Runes</expl>: the earliest runes were not letters, but simply signs supposed to possess magic power; out of them developed the ``runic alphabet.''
+			<expl>Runes</expl>: the earliest runes were not letters, but simply signs supposed to possess magic power; out of them developed the “runic alphabet.”
 		</comment>
 	</block>
 	<block class="asterisks" />
 	<block class="stanza" number="6">
 		<original>
-			[Sigru`nar skalt kunna,<sep />ef vill sigr hafa,<br />
-			ok ri`sta a` hjalti hjo~rs,<br />
-			sumar a` ve`ttrimum,<sep />sumar a` valbo~stum<br />
-			ok nefna tysvar Ty`.
+			[Sigrūnar skalt kunna,<sep />ef vill sigr hafa,<br />
+			ok rīsta ā hjalti hjǫrs,<br />
+			sumar ā vēttrimum,<sep />sumar ā valbǫstum<br />
+			ok nefna tysvar Tȳ.
 		</original>
 		<translation>
 			Winning-runes learn,<sep />if thou longest to win,<br />
@@ -248,20 +248,20 @@
 			And twice shalt thou call on Tyr.
 		</translation>
 		<comment>
-			Stanzas <sr>6</sr>--<sr>12</sr> give a list of runes which probably had no original connection with the Brynhild-Sigurth story.
-			<expl>Tyr</expl>: the sword-god (cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">4</stanzaref> and note); ``tyr'' is also the name of a rune which became ``T.''
+			Stanzas <stanzaref chapter="Sigrdrifumol">6</stanzaref>–<stanzaref chapter="Sigrdrifumol">12</stanzaref> give a list of runes which probably had no original connection with the Brynhild-Sigurth story.
+			<expl>Tyr</expl>: the sword-god (cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">4</stanzaref> and note); “tyr” is also the name of a rune which became “T.”
 		</comment>
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			O~lru`nar skalt kunna,<sep />ef þu vill annars kva_e`n<br />
-			ve`lit þik i` trygþ, ef truir;<br />
-			a` horni skal ri`sta<sep />ok a` handar baki<br />
-			ok merkja a` nagli Nauþ.<br />
-			[full skal signa<sep />ok viþ fa`ri sea<br />
-			ok verpa lauki i` lo~g.]<br />
-			[þa` ek þat veit<sep />at þe`r verþr aldri<br />
-			meinblandinn mjo~þr]
+			Ǫlrūnar skalt kunna,<sep />ef þu vill annars kvǣn<br />
+			vēlit þik ī trygþ, ef truir;<br />
+			ā horni skal rīsta<sep />ok ā handar baki<br />
+			ok merkja ā nagli Nauþ.<br />
+			[full skal signa<sep />ok viþ fāri sea<br />
+			ok verpa lauki ī lǫg.]<br />
+			[þā ek þat veit<sep />at þēr verþr aldri<br />
+			meinblandinn mjǫþr]
 		</original>
 		<translation>
 			Ale-runes learn,<sep />that with lies the wife<br />
@@ -274,18 +274,18 @@
 			Thy mead with evil mixed.]
 		</translation>
 		<comment>
-			Regius gives only lines 1--6; lines 7--8 are added from <src>Volsungasaga</src>.
+			Regius gives only lines 1–6; lines 7–8 are added from <source>Volsungasaga</source>.
 			<expl>Lies</expl>, etc.: a guest on his arrival received a draught of ale from the hands of his host's wife, and it was to prevent this draught from bewitching him that the runes were recommended.
-			<expl>Need</expl>: the word ``nauth,'' meaning ``need,'' is also the name of the rune which became ``N.''
+			<expl>Need</expl>: the word “nauth,” meaning “need,” is also the name of the rune which became “N.”
 			<expl>Leek</expl>: leeks were long supposed to have the power of counteracting poison or witchcraft.
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			Bjargru`nar skalt kunna,<sep />ef þu` bjarga vill<br />
-			ok leysa kind fra` konum;<br />
-			a` <conj>lo`fum</conj> skal ri`sta<sep />ok of liþu spenna<br />
-			ok biþja di`sir duga.
+			Bjargrūnar skalt kunna,<sep />ef þū bjarga vill<br />
+			ok leysa kind frā konum;<br />
+			ā <conj>lōfum</conj> skal rīsta<sep />ok of liþu spenna<br />
+			ok biþja dīsir duga.
 		</original>
 		<translation>
 			Birth-runes learn,<sep />if help thou wilt lend,<br />
@@ -296,12 +296,12 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Brimru`nar skalt <conj>kunna,</conj><sep />ef þu vill borgit hafa<br />
-			a` sundi seglmo~rum;<br />
-			a` stafni skal ri`sta<sep />ok a` stjo`rnarblaþi<br />
-			ok leggja <conj>eldi</conj> i` o~`r.<br />
-			[esa sva` brattr breki<sep />ne sva` blaar unnir,<br />
-			þo` ko/msk heill af hafi.]
+			Brimrūnar skalt <conj>kunna,</conj><sep />ef þu vill borgit hafa<br />
+			ā sundi seglmǫrum;<br />
+			ā stafni skal rīsta<sep />ok ā stjōrnarblaþi<br />
+			ok leggja <conj>eldi</conj> ī ǭr.<br />
+			[esa svā brattr breki<sep />ne svā blaar unnir,<br />
+			þō kømsk heill af hafi.]
 		</original>
 		<translation>
 			Wave-runes learn,<sep />if well thou wouldst shelter<br />
@@ -317,10 +317,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Limru`nar skalt kunna,<sep />ef þu vill la_e`knir vesa<br />
-			ok kunna so~`r at sea;<br />
-			a` berki skal ri`sta<sep />ok a` barri viþar<br />
-			es lu`ta austr limar.
+			Limrūnar skalt kunna,<sep />ef þu vill lǣknir vesa<br />
+			ok kunna sǭr at sea;<br />
+			ā berki skal rīsta<sep />ok ā barri viþar<br />
+			es lūta austr limar.
 		</original>
 		<translation>
 			Branch-runes learn,<sep />if a healer wouldst be,<br />
@@ -331,17 +331,17 @@
 		<comment>
 			<expl>Branch-runes</expl>: runes cut in the bark of trees.
 			Such runes were believed to transfer sickness from the invalid to the tree.
-			Some editors, however, have changed ``limrunar'' (``branch runes'') to ``lifrunar'' (``life-runes'').
+			Some editors, however, have changed “limrunar” (“branch runes”) to “lifrunar” (“life-runes”).
 		</comment>
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Ma`lru`nar skalt kunna,<sep />ef vill at mangi þe`r<br />
+			Mālrūnar skalt kunna,<sep />ef vill at mangi þēr<br />
 			heiptum gjaldi harm;<br />
-			[þa_e`r <conj>of</conj> vindr,<sep />þa_e`r <conj>of</conj> vefr,<br />
-			þa_e`r <conj>of</conj> setr allar saman<br />
-			a` þvi` þingi<sep />es þjo`þir skulu<br />
-			i` fulla do`ma fara.]
+			[þǣr <conj>of</conj> vindr,<sep />þǣr <conj>of</conj> vefr,<br />
+			þǣr <conj>of</conj> setr allar saman<br />
+			ā þvī þingi<sep />es þjōþir skulu<br />
+			ī fulla dōma fara.]
 		</original>
 		<translation>
 			Speech-runes learn,<sep />that none may seek<br />
@@ -352,13 +352,13 @@
 			The folk shall fairly win.
 		</translation>
 		<comment>
-			Lines 3--6 look like an accidental addition, replacing two lines now lost.
-			They mean, apparently, that the man who interweaves his speech with ``speech-runes'' when he pleads his case at the ``Thing,'' or popular tribunal, will not unduly enrage his adversary in the argument of the case.
+			Lines 3–6 look like an accidental addition, replacing two lines now lost.
+			They mean, apparently, that the man who interweaves his speech with “speech-runes” when he pleads his case at the “Thing,” or popular tribunal, will not unduly enrage his adversary in the argument of the case.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Hugru`nar skalt kunna,<sep />ef þu vill hverjum  vesa<br />
+			Hugrūnar skalt kunna,<sep />ef þu vill hverjum  vesa<br />
 			geþsvinnari guma;]
 		</original>
 		<translation>
@@ -372,10 +372,10 @@
 	<block class="asterisks" />
 	<block class="stanza" number="13">
 		<original>
-			[Þa_e`r of re`þ,<sep />þa_e`r of reist,<br />
-			þa_e`r of hugþi Hro`ptr<br />
+			[Þǣr of rēþ,<sep />þǣr of reist,<br />
+			þǣr of hugþi Hrōptr<br />
 			af þeim legi<sep />es lekit hafþi<br />
-			o`r hausi Heiþdraupnis<br />
+			ōr hausi Heiþdraupnis<br />
 			[ok or`r horni Hoddrofnis.]
 		</original>
 		<translation>
@@ -386,17 +386,17 @@
 			And the horn of Hoddrofnir.
 		</translation>
 		<comment>
-			Stanzas <sr>13</sr>--<sr>14</sr> appear to have come from a passage regarding Othin's getting of the runes similar to <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">139</stanzaref>--<stanzaref chapter="Hovamol">146</stanzaref>.
-			Editors have tried various combinations of the lines in stanzas <sr>12</sr>--<sr>14</sr>.
+			Stanzas <stanzaref chapter="Sigrdrifumol">13</stanzaref>–<stanzaref chapter="Sigrdrifumol">14</stanzaref> appear to have come from a passage regarding Othin's getting of the runes similar to <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">139</stanzaref>–<stanzaref chapter="Hovamol">146</stanzaref>.
+			Editors have tried various combinations of the lines in stanzas <stanzaref chapter="Sigrdrifumol">12</stanzaref>–<stanzaref chapter="Sigrdrifumol">14</stanzaref>.
 			<expl>Hropt</expl>: Othin; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">62</stanzaref>.
-			<expl>The draught</expl>, etc.: apparently the reference is to the head of Mim, from which Othin derived his wisdom in magic (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">47</stanzaref> and note); <expl>Heithdraupnir</expl> (``Light-Dropper'') and <expl>Hoddrofnir</expl> (``Treasure-Opener'') seem to be names for Mim.
+			<expl>The draught</expl>, etc.: apparently the reference is to the head of Mim, from which Othin derived his wisdom in magic (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">47</stanzaref> and note); <expl>Heithdraupnir</expl> (“Light-Dropper”) and <expl>Hoddrofnir</expl> (“Treasure-Opener”) seem to be names for Mim.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			A` bjargi sto`þ<sep />meþ Brimis eggjar,<br />
-			hafþisk a` ho~fþi hjalm;<br />
-			þa` ma_e`lti Mi`ms ho~fuþ<sep />fro`þlikt et fyrsta orþ<br />
+			Ā bjargi stōþ<sep />meþ Brimis eggjar,<br />
+			hafþisk ā hǫfþi hjalm;<br />
+			þā mǣlti Mīms hǫfuþ<sep />frōþlikt et fyrsta orþ<br />
 			ok sagþi sanna stafi.]
 		</original>
 		<translation>
@@ -413,10 +413,10 @@
 	<block class="asterisks" />
 	<block class="stanza" number="15">
 		<original>
-			[A` skildi kvaþ ristnar<sep />þeims stendr fyr ski`nanda goþi,<br />
-			a` eyra A`rvakrs<sep />ok a` Alsvinns ho`fi,<br />
-			a` þvi` hve`li es sny`sk<sep />und [reiþ] <conj>Hrungnis bana,</conj><br />
-			a` Sleipnis to~nnum<sep />ok a` sleþa fjo~trum,
+			[Ā skildi kvaþ ristnar<sep />þeims stendr fyr skīnanda goþi,<br />
+			ā eyra Ārvakrs<sep />ok ā Alsvinns hōfi,<br />
+			ā þvī hvēli es snȳsk<sep />und [reiþ] <conj>Hrungnis bana,</conj><br />
+			ā Sleipnis tǫnnum<sep />ok ā sleþa fjǫtrum,
 		</original>
 		<translation>
 			He bade write on the shield<sep />before the shining goddess,<br />
@@ -425,21 +425,21 @@
 			On Sleipnir's teeth,<sep />and the straps of the sledge.
 		</translation>
 		<comment>
-			Stanzas <sr>15</sr>--<sr>17</sr> constitute a wholly distinct rune-chant.
+			Stanzas <stanzaref chapter="Sigrdrifumol">15</stanzaref>–<stanzaref chapter="Sigrdrifumol">17</stanzaref> constitute a wholly distinct rune-chant.
 			Line 1 is unusually long in the original, as here.
-			<expl>Shield</expl>: the shield Svalin (``Cooling'') that stands in front of the sun; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">38</stanzaref>.
-			<expl>Arvak</expl> (``Early Waker''') and <expl>Alsvith</expl> (``All Swift''): the horses that draw the sun's car; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">37</stanzaref>.
-			<expl>Hrungnir</expl>: the slayer of the giant Hrungnir was Thor (cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">14</stanzaref> and note), but the line is in bad shape; the name may not be Hrungnir, and ``killer'' is a conjectural addition.
+			<expl>Shield</expl>: the shield Svalin (“Cooling”) that stands in front of the sun; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">38</stanzaref>.
+			<expl>Arvak</expl> (“Early Waker”') and <expl>Alsvith</expl> (“All Swift”): the horses that draw the sun's car; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">37</stanzaref>.
+			<expl>Hrungnir</expl>: the slayer of the giant Hrungnir was Thor (cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">14</stanzaref> and note), but the line is in bad shape; the name may not be Hrungnir, and “killer” is a conjectural addition.
 			<expl>Sleipnir</expl>: Othin's eight-legged horse; cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">44</stanzaref> and note.
 			<expl>Sledge</expl>: perhaps the one mentioned in <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">49</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			a` bjarnar hrammi<sep />ok a` Braga tungu,<br />
-			a` ulfs kloum<sep />ok a` arnar nefi,<br />
-			a` blo`þgum va_e`ngjum<sep />ok a` bruar sporþi,<br />
-			a` lausnar lo`fa<sep />ok a` li`knar spori,
+			ā bjarnar hrammi<sep />ok ā Braga tungu,<br />
+			ā ulfs kloum<sep />ok ā arnar nefi,<br />
+			ā blōþgum vǣngjum<sep />ok ā bruar sporþi,<br />
+			ā lausnar lōfa<sep />ok ā līknar spori,
 		</original>
 		<translation>
 			On the paws of the bear,<sep />and on Bragi's tongue,<br />
@@ -453,10 +453,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			a` gleri ok a` golli<sep />ok a` gumna heillum,<br />
-			i` vi`ni ok i` virtri<sep />ok a` vilisessi,<br />
-			a` Gungnis oddi<sep />ok a` Grana brjo`sti,<br />
-			a` nornar nagli<sep />ok a` nefi uglu.]
+			ā gleri ok ā golli<sep />ok ā gumna heillum,<br />
+			ī vīni ok ī virtri<sep />ok ā vilisessi,<br />
+			ā Gungnis oddi<sep />ok ā Grana brjōsti,<br />
+			ā nornar nagli<sep />ok ā nefi uglu.]
 		</original>
 		<translation>
 			On glass and on gold,<sep />and on goodly charms,<br />
@@ -467,17 +467,17 @@
 		<comment>
 			<expl>Charms</expl>: the wearing of amulets was very common.
 			<expl>Gungnir</expl>: Othin's spear, made by the dwarfs, which he occasionally lent to heroes to whom he granted victory.
-			<expl>Grani</expl>: Sigurth's horse; the <src>Volsungasaga</src> has ``giantesses'.''
+			<expl>Grani</expl>: Sigurth's horse; the <source>Volsungasaga</source> has “giantesses'.”
 		</comment>
 	</block>
 	<block class="asterisks" />
 	<block class="stanza" number="18">
 		<original>
-			[Allar vo~ru af skafnar<sep />þa_e`rs vo~ru a` ristnar<br />
-			ok hverfþar viþ enn helga mjo~þ<br />
-			ok sendar a` vi`þa vega;<br />
-			þa_e`r'u meþ o~`sum,<sep />þa_e`r'u meþ o~lfum,<br />
-			sumar meþ vi`sum vo~num,<br />
+			[Allar vǫru af skafnar<sep />þǣrs vǫru ā ristnar<br />
+			ok hverfþar viþ enn helga mjǫþ<br />
+			ok sendar ā vīþa vega;<br />
+			þǣr'u meþ ǭsum,<sep />þǣr'u meþ ǫlfum,<br />
+			sumar meþ vīsum vǫnum,<br />
 			sumar hafa menskir menn.
 		</original>
 		<translation>
@@ -489,20 +489,20 @@
 			And some for mortal men.
 		</translation>
 		<comment>
-			Stanzas <sr>18</sr>--<sr>19</sr>, which editors have freely rearranged, apparently come from another source than any of the rest.
+			Stanzas <stanzaref chapter="Sigrdrifumol">18</stanzaref>–<stanzaref chapter="Sigrdrifumol">19</stanzaref>, which editors have freely rearranged, apparently come from another source than any of the rest.
 			<expl>Shaved off</expl>: the runes were shaved off by Othin from the wood on which they were carved, and the shavings bearing them were put into the magic mead.
-			<expl>Wanes</expl>: cf. <cr>Voluspo</cr>, <stanzaref chapter="Voluspo">21</stanzaref>, note.
+			<expl>Wanes</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">21</stanzaref>, note.
 		</comment>
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			Þat eru bo`kru`nar,<sep />þat eru bjargru`nar<br />
-			ok allar o~lru`nar<br />
-			ok ma_e`tar meginru`nar,<br />
-			hveims kna` o`viltar<sep />ok o`spiltar<br />
-			se`r at heillum hafa;<br />
-			njo`ttu ef namt,<br />
-			unz <conj>of</conj> rju`fask regin!]
+			Þat eru bōkrūnar,<sep />þat eru bjargrūnar<br />
+			ok allar ǫlrūnar<br />
+			ok mǣtar meginrūnar,<br />
+			hveims knā ōviltar<sep />ok ōspiltar<br />
+			sēr at heillum hafa;<br />
+			njōttu ef namt,<br />
+			unz <conj>of</conj> rjūfask regin!]
 		</original>
 		<translation>
 			Beech-runes are there,<sep />birth-runes are there,<br />
@@ -524,25 +524,25 @@
 
 		</original_prelude>
 		<original>
-			``Nu` skalt kjo`sa,<sep />alls þe`r's kostr of boþinn,<br />
-			hvassa va`pna hlynr!<br />
-			so~gn eþa þo~gn<sep />hafþu þe`r sjalfr i` hug,<br />
-			o~ll eru mein of metin.''
+			“Nū skalt kjōsa,<sep />alls þēr's kostr of boþinn,<br />
+			hvassa vāpna hlynr!<br />
+			sǫgn eþa þǫgn<sep />hafþu þēr sjalfr ī hug,<br />
+			ǫll eru mein of metin.”
 		</original>
 		<translation_prelude>
 			Brynhild spake:
 		</translation_prelude>
 		<translation>
-			``Now shalt thou choose,<sep />for the choice is given,<br />
+			“Now shalt thou choose,<sep />for the choice is given,<br />
 			Thou tree of the biting blade;<br />
 			Speech or silence,<sep />'tis thine to say,<br />
-			Our evil is destined all.''
+			Our evil is destined all.”
 		</translation>
 		<comment>
-			Stanzas <sr>20</sr>--<sr>21</sr> are all that remains of the dialogue between Brynhild and Sigurth from the poem to which stanzas <sr>2</sr>--<sr>4</sr> belong; cf. <ref chapter="Sigrdrifumol">Introductory Note</ref>.
+			Stanzas <stanzaref chapter="Sigrdrifumol">20</stanzaref>–<stanzaref chapter="Sigrdrifumol">21</stanzaref> are all that remains of the dialogue between Brynhild and Sigurth from the poem to which stanzas <stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref> belong; cf. <ref chapter="Sigrdrifumol">Introductory Note</ref>.
 			In the intervening lost stanzas Brynhild has evidently warned Sigurth of the perils that will follow if he swears loyalty to her; hence the choice to which she here refers.
 			<expl>Tree</expl>, etc.: warrior.
-			The manuscript does not indicate the speaker of either this or the following stanza; the <src>Volsungasaga</src> names Sigurth before stanza <sr>21</sr>.
+			The manuscript does not indicate the speaker of either this or the following stanza; the <source>Volsungasaga</source> names Sigurth before stanza <stanzaref chapter="Sigrdrifumol">21</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
@@ -550,26 +550,26 @@
 			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			``Munkak flo/`ja,<sep />þo`t mik feigjan vitir,<br />
+			“Munkak flø̄ja,<sep />þōt mik feigjan vitir,<br />
 			emkak meþ bleyþi borinn;<br />
-			a`stro~`þ þi`n<sep />vil ek o~ll hafa<br />
-			sva` lengi sem lifik.''
+			āstrǭþ þīn<sep />vil ek ǫll hafa<br />
+			svā lengi sem lifik.”
 		</original>
 		<translation_prelude>
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			``I shall not flee,<sep />though my fate be near,<br />
+			“I shall not flee,<sep />though my fate be near,<br />
 			I was born not a coward to be;<br />
 			Thy loving word<sep />for mine will I win,<br />
-			As long as I shall live.''
+			As long as I shall live.”
 		</translation>
 		<comment>
-			It is quite possible that the original poem concluded with two stanzas after this, paraphrased thus in the <src>Volsungasaga</src>:
-			``Sigurth said: `Nowhere is to be found any one wiser than thou, and this I swear, that I shall have thee for mine, and that thou art after my heart's desire.'
-			She answered: `I would rather have thee though I might choose among all men.'
-			And this they bound between them with oaths.''
-			Stanzas <sr>22</sr>--<sr>37</sr>, which the <src>Volsungasaga</src> paraphrases, may have been introduced at a relatively early time, but can hardly have formed part of the original poem.
+			It is quite possible that the original poem concluded with two stanzas after this, paraphrased thus in the <source>Volsungasaga</source>:
+			“Sigurth said: ‘Nowhere is to be found any one wiser than thou, and this I swear, that I shall have thee for mine, and that thou art after my heart’s desire.'
+			She answered: ‘I would rather have thee though I might choose among all men.’
+			And this they bound between them with oaths.”
+			Stanzas <stanzaref chapter="Sigrdrifumol">22</stanzaref>–<stanzaref chapter="Sigrdrifumol">37</stanzaref>, which the <source>Volsungasaga</source> paraphrases, may have been introduced at a relatively early time, but can hardly have formed part of the original poem.
 		</comment>
 	</block>
 	<block class="asterisks" />
@@ -578,31 +578,31 @@
 			Sigrdrifa kvaþ:
 		</original_prelude>
 		<original>
-			``Þat ra_e`þk þer et fyrsta,<sep />at viþ fra_e`ndr þi`na<br />
+			“Þat rǣþk þer et fyrsta,<sep />at viþ frǣndr þīna<br />
 			vammalaust vesir;<br />
-			si`þr þu` hefnir,<sep />þo`t þeir sakar go/rvi:<br />
+			sīþr þū hefnir,<sep />þōt þeir sakar gørvi:<br />
 			þat kveþa dauþum duga.
 		</original>
 		<translation_prelude>
 
 		</translation_prelude>
 		<translation>
-			``Then first I rede thee,<sep />that free of guilt<br />
+			“Then first I rede thee,<sep />that free of guilt<br />
 			Toward kinsmen ever thou art;<br />
 			No vengeance have,<sep />though they work thee harm,<br />
 			Reward after death thou shalt win.
 		</translation>
 		<comment>
-			With this stanza begins the list of numbered counsels, closely resembling the Loddfafnismol (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">111</stanzaref>--<stanzaref chapter="Hovamol">138</stanzaref>), here attributed to Brynhild.
+			With this stanza begins the list of numbered counsels, closely resembling the Loddfafnismol (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">111</stanzaref>–<stanzaref chapter="Hovamol">138</stanzaref>), here attributed to Brynhild.
 			That the section originally had anything to do with Brynhild is more than improbable.
 		</comment>
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			Þat ra_e`þk þe`r annat,<sep />at þu eiþ ne` sverir,<br />
-			nema þanns saþr sei::;<br />
+			Þat rǣþk þēr annat,<sep />at þu eiþ nē sverir,<br />
+			nema þanns saþr seï;<br />
 			grimmar <conj>limar</conj><sep /><conj>fylgja griþ</conj>rofi,<br />
-			armr es va`ra vargr.
+			armr es vāra vargr.
 		</original>
 		<translation>
 			Then second I rede thee,<sep />to swear no oath<br />
@@ -616,9 +616,9 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Þat ra_e`þk þe`r þriþja,<sep />at þu` þingi a`<br />
+			Þat rǣþk þēr þriþja,<sep />at þū þingi ā<br />
 			deilit viþ heimska hali;<br />
-			þvi`t o`sviþr maþr<sep />la_e`tr opt kveþin<br />
+			þvīt ōsviþr maþr<sep />lǣtr opt kveþin<br />
 			verri orþ an viti.
 		</original>
 		<translation>
@@ -630,13 +630,13 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			[Allt es vant:<sep />ef þu` viþ þegir,<br />
-			þa` þykkir meþ bleyþi borinn<br />
-			[eþa so~nnu sagþr;<br />
-			ha_e`ttr es heimiskviþr,<br />
-			nema se`r go`þan geti];<br />
-			annars dags<sep />la`ttu hans o~ndu farit<br />
-			ok launa sva` <conj>leiþum</conj> lygi.]
+			[Allt es vant:<sep />ef þū viþ þegir,<br />
+			þā þykkir meþ bleyþi borinn<br />
+			[eþa sǫnnu sagþr;<br />
+			hǣttr es heimiskviþr,<br />
+			nema sēr gōþan geti];<br />
+			annars dags<sep />lāttu hans ǫndu farit<br />
+			ok launa svā <conj>leiþum</conj> lygi.]
 		</original>
 		<translation>
 			Ill it is<sep />if silent thou art,<br />
@@ -648,16 +648,16 @@
 			Let him pay the price of his lies.
 		</translation>
 		<comment>
-			This chaotic and obscure jumble of lines has been unsuccessfully ``improved'' by various editors.
-			It is clearly an interpolation, meaning, in substance: ``It is dangerous to keep silent too long, as men may think you a coward; but if any one taunts you falsely because of your silence, do not argue with him, but the next morning kill him as proof that he is a liar.''
+			This chaotic and obscure jumble of lines has been unsuccessfully “improved” by various editors.
+			It is clearly an interpolation, meaning, in substance: “It is dangerous to keep silent too long, as men may think you a coward; but if any one taunts you falsely because of your silence, do not argue with him, but the next morning kill him as proof that he is a liar.”
 		</comment>
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			Þat ra_e`þk þer et fjo`rþa,<sep />et by`r forda_e`þa<br />
-			vammafull a` vegi:<br />
-			ganga's betra<sep />an gista sei::,<br />
-			þo`t þik no~`tt <conj>of</conj> nemi.
+			Þat rǣþk þer et fjōrþa,<sep />et bȳr fordǣþa<br />
+			vammafull ā vegi:<br />
+			ganga's betra<sep />an gista seï,<br />
+			þōt þik nǭtt <conj>of</conj> nemi.
 		</original>
 		<translation>
 			Then fourth I rede thee,<sep />if thou shalt find<br />
@@ -668,10 +668,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			[Fornjo`snar augu<sep />þurfu fira synir,<br />
+			[Fornjōsnar augu<sep />þurfu fira synir,<br />
 			hvars skulu vreiþir vega;<br />
-			opt bo~lvi`sar konur<sep />sitja brautu na_e`r,<br />
-			þa_e`rs deyfa sverþ ok sefa.]
+			opt bǫlvīsar konur<sep />sitja brautu nǣr,<br />
+			þǣrs deyfa sverþ ok sefa.]
 		</original>
 		<translation>
 			Eyes that see<sep />need the sons of men<br />
@@ -685,9 +685,9 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			Þat ra_e`þk þer et fimta,<sep />þo`ttu fagrar sei::r<br />
-			bru`þir bekkjum a`,<br />
-			sifja silfr<sep />la`ta svefni ra`þa,<br />
+			Þat rǣþk þer et fimta,<sep />þōttu fagrar seïr<br />
+			brūþir bekkjum ā,<br />
+			sifja silfr<sep />lāta svefni rāþa,<br />
 			teygjat at kossi konur!
 		</original>
 		<translation>
@@ -697,15 +697,15 @@
 			And the kissing of women beware.
 		</translation>
 		<comment>
-			<expl>Silver of kinship</expl>: the passage is doubtful, but apparently it means the ``marriage-price'' for which a bride was ``bought.''
+			<expl>Silver of kinship</expl>: the passage is doubtful, but apparently it means the “marriage-price” for which a bride was “bought.”
 		</comment>
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			Þat ra_e`þk þer et se`tta,<sep />þo`t meþ seggjum fari<br />
-			o~lþrmo~`l til o~fug,<br />
+			Þat rǣþk þer et sētta,<sep />þōt meþ seggjum fari<br />
+			ǫlþrmǭl til ǫfug,<br />
 			<conj>drukkna</conj> deila<sep />skalattu viþ dolgviþu;<br />
-			margan stelr vi`n viti.
+			margan stelr vīn viti.
 		</original>
 		<translation>
 			Then sixth I rede thee,<sep />if men shall wrangle,<br />
@@ -714,17 +714,17 @@
 			For wine steals many men's wits.
 		</translation>
 		<comment>
-			Line 1 comes at the end of the thirty-second leaf of <src>Regius</src>, and whatever further was contained in that manuscript has vanished with the lost eight-leaf folio (cf. <ref chapter="Sigrdrifumol">Introductory Note</ref>).
-			The rest of stanza <sr>29</sr>, and stanzas <sr>30</sr>--<sr>37</sr>, are added from later paper manuscripts, which were undoubtedly copied from an old parchment, though probably not from the complete <src>Regius</src>.
-			The <src>Volsungasaga</src> paraphrases these additional stanzas.
+			Line 1 comes at the end of the thirty-second leaf of <source>Regius</source>, and whatever further was contained in that manuscript has vanished with the lost eight-leaf folio (cf. <ref chapter="Sigrdrifumol">Introductory Note</ref>).
+			The rest of stanza <stanzaref chapter="Sigrdrifumol">29</stanzaref>, and stanzas <stanzaref chapter="Sigrdrifumol">30</stanzaref>–<stanzaref chapter="Sigrdrifumol">37</stanzaref>, are added from later paper manuscripts, which were undoubtedly copied from an old parchment, though probably not from the complete <source>Regius</source>.
+			The <source>Volsungasaga</source> paraphrases these additional stanzas.
 		</comment>
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			[<conj>Sennur</conj> ok o~l<sep />hefr seggjum verit<br />
-			mo~rgum <conj>at</conj> mo`þtrega,<br />
-			sumum at bana,<sep />sumum at bo~lsto~fum:<br />
-			fjo~lþ's þats fira tregr.]
+			[<conj>Sennur</conj> ok ǫl<sep />hefr seggjum verit<br />
+			mǫrgum <conj>at</conj> mōþtrega,<br />
+			sumum at bana,<sep />sumum at bǫlstǫfum:<br />
+			fjǫlþ's þats fira tregr.]
 		</original>
 		<translation>
 			Brawls and ale<sep />full oft have been<br />
@@ -738,10 +738,10 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			Þat ra_e`þk þer et sjaunda,<sep />ef þu` sakar deilir<br />
+			Þat rǣþk þer et sjaunda,<sep />ef þū sakar deilir<br />
 			viþ hugfulla hali,<br />
-			berjask's betra<sep />an brinna sei::<br />
-			inni auþsto~fum.
+			berjask's betra<sep />an brinna seï<br />
+			inni auþstǫfum.
 		</original>
 		<translation>
 			Then seventh I rede thee,<sep />if battle thou seekest<br />
@@ -751,14 +751,14 @@
 		</translation>
 		<comment>
 			The meaning is that it is better to go forth to battle than to stay at home and be burned to death.
-			Many a Norse warrior met his death in this latter way; the burning of the house in the <src>Njalssaga</src> is the most famous instance.
+			Many a Norse warrior met his death in this latter way; the burning of the house in the <source>Njalssaga</source> is the most famous instance.
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			Þat ra_e`þk þer et a`tta,<sep />at skalt viþ illu sea<br />
-			ok firrask fla_e`rþarstafi;<br />
-			mey þu teygjat<sep />ne` manns konu<br />
+			Þat rǣþk þer et ātta,<sep />at skalt viþ illu sea<br />
+			ok firrask flǣrþarstafi;<br />
+			mey þu teygjat<sep />nē manns konu<br />
 			ne eggja ofgamans.
 		</original>
 		<translation>
@@ -770,10 +770,10 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			Þat ra_e`þk þer et niunda,<sep />at þu` no~um bjargir,<br />
-			hvars þu a` <conj>foldu</conj> fiþr,<br />
-			hva`rts eru so`ttdauþir<sep />eþa eru sa_e`dauþir<br />
-			eþa va`pndauþir verar.
+			Þat rǣþk þer et niunda,<sep />at þū nǫum bjargir,<br />
+			hvars þu ā <conj>foldu</conj> fiþr,<br />
+			hvārts eru sōttdauþir<sep />eþa eru sǣdauþir<br />
+			eþa vāpndauþir verar.
 		</original>
 		<translation>
 			Then ninth I rede thee:<sep />burial render<br />
@@ -784,10 +784,10 @@
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			[<conj>Laug</conj> skal go/rva<sep />þeims liþnir'u`,<br />
-			þvaa hendr ok ho~fuþ,<br />
-			kemba ok þerra,<sep />a`þr i` kistu fari,<br />
-			ok biþja sa_e`lan sofa.]
+			[<conj>Laug</conj> skal gørva<sep />þeims liþnir'ū,<br />
+			þvaa hendr ok hǫfuþ,<br />
+			kemba ok þerra,<sep />āþr ī kistu fari,<br />
+			ok biþja sǣlan sofa.]
 		</original>
 		<translation>
 			A bath shalt thou give them<sep />who corpses be,<br />
@@ -801,12 +801,12 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			Þat ra_e`þk þer et tiunda,<sep />at þu` trui::r <conj>aldri</conj><br />
-			vo~`rum vargdropa<br />
-			[<conj>hvers</conj>tu'st bro`þurbani<br />
-			eþa hafir þu` feldan fo~þur;]<br />
-			<conj>opt</conj> es ulfr<sep />i` ungum syni,<br />
-			þo`t sei:: golli gladdr.
+			Þat rǣþk þer et tiunda,<sep />at þū truïr <conj>aldri</conj><br />
+			vǭrum vargdropa<br />
+			[<conj>hvers</conj>tu'st brōþurbani<br />
+			eþa hafir þū feldan fǫþur;]<br />
+			<conj>opt</conj> es ulfr<sep />ī ungum syni,<br />
+			þōt seï golli gladdr.
 		</original>
 		<translation>
 			Then tenth I rede thee,<sep />that never thou trust<br />
@@ -817,15 +817,15 @@
 			Though gold he gladly takes.
 		</translation>
 		<comment>
-			Lines 3--4 are probably interpolated.
+			Lines 3–4 are probably interpolated.
 			<expl>Race of wolves</expl>: family of a slain foe.
 		</comment>
 	</block>
 	<block class="stanza" number="36">
 		<original>
 			[Sakar ok heiptir<sep />hyggjat svefngar vesa<br />
-			ne` harm in heldr;<br />
-			vits ok va`pna<sep />vant's jo~fri at faa<br />
+			nē harm in heldr;<br />
+			vits ok vāpna<sep />vant's jǫfri at faa<br />
 			þeims skal fremstr meþ firum.]
 		</original>
 		<translation>
@@ -840,10 +840,10 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			Þat ra_e`þk þer et ellipta,<sep />at þu viþ illu sei::r<br />
+			Þat rǣþk þer et ellipta,<sep />at þu viþ illu seïr<br />
 			hvern veg at <conj>vinum;</conj><br />
-			langt li`f<sep />þykkjumk<conj>a</conj> lofþungs vita:<br />
-			ro~mm eru ro`g of risin.''
+			langt līf<sep />þykkjumk<conj>a</conj> lofþungs vita:<br />
+			rǫmm eru rōg of risin.”
 		</original>
 		<translation>
 			Then eleventh I rede thee,<sep />that wrath thou shun,<br />
@@ -852,10 +852,10 @@
 			For great are the foes he faces.
 		</translation>
 		<comment>
-			Lines 3--4 may well have come from the old Sigurth-Brynhild poem, like stanzas <sr>2</sr>--<sr>4</sr> and <sr>20</sr>--<sr>21</sr>, being inserted here, where they do not fit particularly well, in place of the two lines with which the eleventh counsel originally ended.
-			Perhaps they formed part of the stanza of warning which evidently preceded Brynhild's speech in stanza <sr>20</sr>.
-			In the Volsungasaga they are paraphrased at the end of Brynhild's long speech of advice (stanzas <sr>20</sr>--<sr>37</sr>), and are immediately followed by the prose passage given in the note on stanza <sr>21</sr>.
-			It seems likely, therefore, that the paper manuscripts have preserved all of the so-called <chapterref>Sigrdrifumol</chapterref> which was contained in the lost section of <src>Regius</src>, with the possible exception of these two concluding stanzas, and these may very well have been given only in the form of a prose note, though it is practically certain that at one time they existed in verse form.
+			Lines 3–4 may well have come from the old Sigurth-Brynhild poem, like stanzas <stanzaref chapter="Sigrdrifumol">2</stanzaref>–<stanzaref chapter="Sigrdrifumol">4</stanzaref> and <stanzaref chapter="Sigrdrifumol">20</stanzaref>–<stanzaref chapter="Sigrdrifumol">21</stanzaref>, being inserted here, where they do not fit particularly well, in place of the two lines with which the eleventh counsel originally ended.
+			Perhaps they formed part of the stanza of warning which evidently preceded Brynhild's speech in stanza <stanzaref chapter="Sigrdrifumol">20</stanzaref>.
+			In the Volsungasaga they are paraphrased at the end of Brynhild's long speech of advice (stanzas <stanzaref chapter="Sigrdrifumol">20</stanzaref>–<stanzaref chapter="Sigrdrifumol">37</stanzaref>), and are immediately followed by the prose passage given in the note on stanza <stanzaref chapter="Sigrdrifumol">21</stanzaref>.
+			It seems likely, therefore, that the paper manuscripts have preserved all of the so-called <chapterref>Sigrdrifumol</chapterref> which was contained in the lost section of <source>Regius</source>, with the possible exception of these two concluding stanzas, and these may very well have been given only in the form of a prose note, though it is practically certain that at one time they existed in verse form.
 		</comment>
 	</block>
 </chapter>
