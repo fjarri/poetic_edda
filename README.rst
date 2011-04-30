@@ -265,11 +265,17 @@ Fafnismol (22 Apr 2011)
 
 * Added Fafnismol chapter
 
-~~~~~~~~~~~~~~~~~~~~~~
-Sigrdrifumol (planned)
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Sigrdrifumol (1 May 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Sigrdrifumol chapter
+* Added Sigrdrifumol chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Brot af Sigurtharkvithu (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Brot af Sigurtharkvithu chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
