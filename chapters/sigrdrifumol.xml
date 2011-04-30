@@ -1,7 +1,7 @@
 <chapter label="Sigrdrifumol">
 	<block class="eddachapter">
 		<original>
-
+			Sigrdrifumo~`l
 		</original>
 		<transliteration>
 			Sigrdrifumol
@@ -56,16 +56,16 @@
 		The nature and condition of the material have made editorial conjectures and emendations very numerous, and as most of the guesses are neither conclusive nor particularly important, only a few of their are mentioned in the notes.
 	</block>
 	<block class="sepline" />
-	<block class="prose">
+	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Sigurþr reiþ upp a` Hindarfjall ok stefndi suþr til Frakklands.<br />
+			A` fjallinu sa` hann ljo`s mikit, sva` sem eldr brynni, ok ljo`maþi af til himins.<br />
+			En er hann kom at, þa` sto`þ þar skjaldborg ok upp o`r merki.<br />
+			Sigurþr gekk i` skjaldborgina ok sa` at þar la` maþr ok svaf meþ o~llum herva`pnum.<br />
+			Hann to`k fyrst hja`lminn af ho~fþi honum; þa` sa` hann at þat var kona.<br />
+			Brynjan var fo~st, sem hon va_eri holdgro`in.<br />
+			Þa` reist hann meþ Gram fra` ho~fuþsma`tt brynjuna i` go/gnum niþr ok sva` u`t i` go/gnum ba`þar ermar.<br />
+			Þa` to`k hann brynju af henni, en hon vaknaþi, ok settiz hon upp ok Sigurþ ok ma_elti:
 		</original>
 		<translation>
 			Sigurth rode up on Hindarfjoll and turned southward toward the land of the Franks.<br />
@@ -74,8 +74,7 @@
 			Sigurth went into the shield-tower, and saw that a man lay there sleeping with all his war-weapons.<br />
 			First he took the helm from his head, and then he saw that it was a woman.<br />
 			The mail-coat was as fast as if it had grown to the flesh.<br />
-			Then he cut the mail-coat from the<br />
-			head-opening downward, and out to both the arm-holes.<br />
+			Then he cut the mail-coat from the head-opening downward, and out to both the arm-holes.<br />
 			Then he took the mail-coat from her, and she awoke, and sat up and saw Sigurth, and said:
 		</translation>
 		<comment>
@@ -88,11 +87,11 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Hvat beit brynju?<sep />hvi` bra`k svefni?<br />
+			hverr feldi af me`r<sep />fo~lvar mauþir?''<br />
+			<stanzaprelude>Hann svaraþi:</stanzaprelude><br />
+			``Sigmundar burr,<sep />---sleit fyr sko~mmu<br />
+			<conj>hrafn</conj> hra_e`lundir---<sep />hjo~rr Sigurþar.''
 		</original>
 		<translation>
 			``What bit through the byrnie?<sep />how was broken my sleep?<br />
@@ -106,9 +105,10 @@
 			Lines 3--4 in the original are obscure, though the general meaning is clear.
 		</comment>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p2">
 		<original>
-			<br />
+			Sigurþr settiz niþr ok spurþi hana nafns.<br />
+			Hon to`k þa` horn fullt mjaþar ok gaf honum minnisveig:
 		</original>
 		<translation>
 			Sigurth sat beside her and asked her name.<br />
@@ -122,9 +122,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Heill dagr!<sep />heilir dags synir!<br />
+			heil no~`tt ok nipt!<br />
+			o`reiþum augum<sep />li`tiþ okkr þinig<br />
+			ok gefiþ sitjo~ndum sigr!
 		</original>
 		<translation>
 			``Hail, day!<sep />Hail, sons of day!<br />
@@ -139,9 +140,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Heilir a_e`sir!<sep />heilar a`synjur!<br />
+			heil sja en fjo~lny`ta fold!<br />
+			ma`l ok mannvit<sep />gefiþ okkr ma_e`rum tveim<br />
+			ok la_e`knishendr, meþan lifum!
 		</original>
 		<translation>
 			Hail to the gods!<sep />Ye goddesses, hail,<br />
@@ -152,9 +154,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Lengi svafk,<sep />lengi sofnuþ vask,<br />
+			lo~ng eru ly`þa la_e`:<br />
+			O`þinn þvi` veldr,<sep />es eigi ma`ttak<br />
+			bregþa <conj>blund</conj>sto~fum.''
 		</original>
 		<translation>
 			Long did I sleep,<sep />my slumber was long,<br />
@@ -163,33 +166,37 @@
 			The heavy spells of sleep.''
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p5_1">
 		<original>
-			<br />
+			Hon nefndiz Sigrdrifa ok var valkyrja.<br />
+			Hon sagþi at tveir konungar bo~rþuz: he`t annarr Hja`lmgunnarr, hann var þa` gamall ok enn mesti hermaþr, ok hafþi O`þinn honum sigri heitit, en
 		</original>
 		<translation>
 			Her name was Sigrdrifa, and she was a Valkyrie.<br />
 			She said that two kings fought in battle; one was called Hjalmgunnar, an old man but a mighty warrior, and Othin had promised him the victory, and
 		</translation>
 	</block>
-	<block class="prosestanza">
+	<block class="prosestanza" label="p5_2">
 		<original>
-			<sep /><br />
-			<sep />
+			annarr he`t Agnarr,<sep /><conj>Auþu</conj> bro`þir,<br />
+			es va_e`tr engi<sep />vildi þiggja.
 		</original>
 		<translation>
 			The other was Agnar,<sep />brother of Autha,<br />
 			None he found<sep />who fain would shield him.
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prose" label="p5_3">
 		<original>
-			<br />
-			<br />
+			Sigrdrifa feldi Hja`lmgunnar i` orrostunni, en O`þinn stakk hana svefnþorni i` hefnd þess ok kvaþ hana aldri skyldu si`þan sigr vega i` orrostu <conj>ok</conj> kvaþ hana giptaz skyldu.<br />
+			``En ek sagþak honum, at ek strengþak heit þar i` mo`t at giptaz o/ngum þeim manni er hra_eþaz kynni.''<br />
+			Hann segir ok biþr hann kenna se`r speki, ef hon vissi ti`þindi o`r o~llum heimum.<br />
+			Sigrdrifa kvaþ:
 		</original>
 		<translation>
 			Sigrdrifa, slew Hjalmgunnar in the battle, and Othin pricked her with the sleep-thorn in punishment for this, and said that she should never thereafter win victory in battle, but that she should be wedded.<br />
-			``And I said to him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.'' Sigurth answered and asked her to teach him wisdom, if she knew of what took place in all the worlds.<br />
+			``And I said to him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.''<br />
+			Sigurth answered and asked her to teach him wisdom, if she knew of what took place in all the worlds.<br />
 			Sigrdrifa said:
 		</translation>
 		<comment>
@@ -200,15 +207,19 @@
 				Hjalmgunnar was one,<sep />the hoary king,<br />
 				And triumph to him<sep />had Heerfather promised.
 			</textstanza>
+			<textstanza class="original">
+				(He`t Hjalmgunnarr<sep />ha`rr visir<br />
+				hafþi ho~num Herfo~þr<sep />heitit sigri.)
+			</textstanza>
 			A few editions insert in this prose passage stanzas <stanzaref chapter="Helreith Brynhildar">7</stanzaref>--<stanzaref chapter="Helreith Brynhildar">10</stanzaref> of <chapterref>Helreith Brynhildar</chapterref>, which may or may not have be longed originally to this poem.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Bjo`r fo/`rik þe`r,<sep />brynþings apaldr!<br />
+			magni blandinn<sep />ok meginti`ri;<br />
+			fullr es ljo`þa<sep />ok li`knstafa,<br />
+			go`þra galdra<sep />ok gamanru`na.''
 		</original>
 		<translation>
 			``Beer I bring thee,<sep />tree of battle,<br />
@@ -225,9 +236,10 @@
 	<block class="asterisks" />
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[Sigru`nar skalt kunna,<sep />ef vill sigr hafa,<br />
+			ok ri`sta a` hjalti hjo~rs,<br />
+			sumar a` ve`ttrimum,<sep />sumar a` valbo~stum<br />
+			ok nefna tysvar Ty`.
 		</original>
 		<translation>
 			Winning-runes learn,<sep />if thou longest to win,<br />
@@ -242,13 +254,14 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<sep /><br />
+			O~lru`nar skalt kunna,<sep />ef þu vill annars kva_e`n<br />
+			ve`lit þik i` trygþ, ef truir;<br />
+			a` horni skal ri`sta<sep />ok a` handar baki<br />
+			ok merkja a` nagli Nauþ.<br />
+			[full skal signa<sep />ok viþ fa`ri sea<br />
+			ok verpa lauki i` lo~g.]<br />
+			[þa` ek þat veit<sep />at þe`r verþr aldri<br />
+			meinblandinn mjo~þr]
 		</original>
 		<translation>
 			Ale-runes learn,<sep />that with lies the wife<br />
@@ -257,8 +270,8 @@
 			And Need shalt mark on thy nails.<br />
 			Thou shalt bless the draught,<sep />and danger escape,<br />
 			And cast a leek in the cup;<br />
-			(For so I know<sep />thou never shalt see<br />
-			Thy mead with evil mixed.)
+			[For so I know<sep />thou never shalt see<br />
+			Thy mead with evil mixed.]
 		</translation>
 		<comment>
 			Regius gives only lines 1--6; lines 7--8 are added from <src>Volsungasaga</src>.
@@ -269,9 +282,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Bjargru`nar skalt kunna,<sep />ef þu` bjarga vill<br />
+			ok leysa kind fra` konum;<br />
+			a` <conj>lo`fum</conj> skal ri`sta<sep />ok of liþu spenna<br />
+			ok biþja di`sir duga.
 		</original>
 		<translation>
 			Birth-runes learn,<sep />if help thou wilt lend,<br />
@@ -282,11 +296,12 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Brimru`nar skalt <conj>kunna,</conj><sep />ef þu vill borgit hafa<br />
+			a` sundi seglmo~rum;<br />
+			a` stafni skal ri`sta<sep />ok a` stjo`rnarblaþi<br />
+			ok leggja <conj>eldi</conj> i` o~`r.<br />
+			[esa sva` brattr breki<sep />ne sva` blaar unnir,<br />
+			þo` ko/msk heill af hafi.]
 		</original>
 		<translation>
 			Wave-runes learn,<sep />if well thou wouldst shelter<br />
@@ -302,9 +317,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Limru`nar skalt kunna,<sep />ef þu vill la_e`knir vesa<br />
+			ok kunna so~`r at sea;<br />
+			a` berki skal ri`sta<sep />ok a` barri viþar<br />
+			es lu`ta austr limar.
 		</original>
 		<translation>
 			Branch-runes learn,<sep />if a healer wouldst be,<br />
@@ -320,11 +336,12 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Ma`lru`nar skalt kunna,<sep />ef vill at mangi þe`r<br />
+			heiptum gjaldi harm;<br />
+			[þa_e`r <conj>of</conj> vindr,<sep />þa_e`r <conj>of</conj> vefr,<br />
+			þa_e`r <conj>of</conj> setr allar saman<br />
+			a` þvi` þingi<sep />es þjo`þir skulu<br />
+			i` fulla do`ma fara.]
 		</original>
 		<translation>
 			Speech-runes learn,<sep />that none may seek<br />
@@ -341,7 +358,8 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
+			Hugru`nar skalt kunna,<sep />ef þu vill hverjum  vesa<br />
+			geþsvinnari guma;]
 		</original>
 		<translation>
 			Thought-runes learn,<sep />if all shall think<br />
@@ -354,10 +372,11 @@
 	<block class="asterisks" />
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<br />
+			[Þa_e`r of re`þ,<sep />þa_e`r of reist,<br />
+			þa_e`r of hugþi Hro`ptr<br />
+			af þeim legi<sep />es lekit hafþi<br />
+			o`r hausi Heiþdraupnis<br />
+			[ok or`r horni Hoddrofnis.]
 		</original>
 		<translation>
 			Them Hropt arranged,<sep />and them he wrote,<br />
@@ -375,9 +394,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			A` bjargi sto`þ<sep />meþ Brimis eggjar,<br />
+			hafþisk a` ho~fþi hjalm;<br />
+			þa` ma_e`lti Mi`ms ho~fuþ<sep />fro`þlikt et fyrsta orþ<br />
+			ok sagþi sanna stafi.]
 		</original>
 		<translation>
 			On the mountain he stood<sep />with Brimir's sword,<br />
@@ -393,10 +413,10 @@
 	<block class="asterisks" />
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[A` skildi kvaþ ristnar<sep />þeims stendr fyr ski`nanda goþi,<br />
+			a` eyra A`rvakrs<sep />ok a` Alsvinns ho`fi,<br />
+			a` þvi` hve`li es sny`sk<sep />und [reiþ] <conj>Hrungnis bana,</conj><br />
+			a` Sleipnis to~nnum<sep />ok a` sleþa fjo~trum,
 		</original>
 		<translation>
 			He bade write on the shield<sep />before the shining goddess,<br />
@@ -416,10 +436,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			a` bjarnar hrammi<sep />ok a` Braga tungu,<br />
+			a` ulfs kloum<sep />ok a` arnar nefi,<br />
+			a` blo`þgum va_e`ngjum<sep />ok a` bruar sporþi,<br />
+			a` lausnar lo`fa<sep />ok a` li`knar spori,
 		</original>
 		<translation>
 			On the paws of the bear,<sep />and on Bragi's tongue,<br />
@@ -433,10 +453,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			a` gleri ok a` golli<sep />ok a` gumna heillum,<br />
+			i` vi`ni ok i` virtri<sep />ok a` vilisessi,<br />
+			a` Gungnis oddi<sep />ok a` Grana brjo`sti,<br />
+			a` nornar nagli<sep />ok a` nefi uglu.]
 		</original>
 		<translation>
 			On glass and on gold,<sep />and on goodly charms,<br />
@@ -453,11 +473,12 @@
 	<block class="asterisks" />
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<sep /><br />
-			<br />
+			[Allar vo~ru af skafnar<sep />þa_e`rs vo~ru a` ristnar<br />
+			ok hverfþar viþ enn helga mjo~þ<br />
+			ok sendar a` vi`þa vega;<br />
+			þa_e`r'u meþ o~`sum,<sep />þa_e`r'u meþ o~lfum,<br />
+			sumar meþ vi`sum vo~num,<br />
+			sumar hafa menskir menn.
 		</original>
 		<translation>
 			Shaved off were the runes<sep />that of old were written,<br />
@@ -475,12 +496,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<sep /><br />
-			<br />
-			<br />
+			Þat eru bo`kru`nar,<sep />þat eru bjargru`nar<br />
+			ok allar o~lru`nar<br />
+			ok ma_e`tar meginru`nar,<br />
+			hveims kna` o`viltar<sep />ok o`spiltar<br />
+			se`r at heillum hafa;<br />
+			njo`ttu ef namt,<br />
+			unz <conj>of</conj> rju`fask regin!]
 		</original>
 		<translation>
 			Beech-runes are there,<sep />birth-runes are there,<br />
@@ -502,9 +524,10 @@
 
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Nu` skalt kjo`sa,<sep />alls þe`r's kostr of boþinn,<br />
+			hvassa va`pna hlynr!<br />
+			so~gn eþa þo~gn<sep />hafþu þe`r sjalfr i` hug,<br />
+			o~ll eru mein of metin.''
 		</original>
 		<translation_prelude>
 			Brynhild spake:
@@ -524,12 +547,13 @@
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-
+			Sigurþr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Munkak flo/`ja,<sep />þo`t mik feigjan vitir,<br />
+			emkak meþ bleyþi borinn;<br />
+			a`stro~`þ þi`n<sep />vil ek o~ll hafa<br />
+			sva` lengi sem lifik.''
 		</original>
 		<translation_prelude>
 			Sigurth spake:
@@ -550,13 +574,20 @@
 	</block>
 	<block class="asterisks" />
 	<block class="stanza" number="22">
+		<original_prelude>
+			Sigrdrifa kvaþ:
+		</original_prelude>
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			``Þat ra_e`þk þer et fyrsta,<sep />at viþ fra_e`ndr þi`na<br />
+			vammalaust vesir;<br />
+			si`þr þu` hefnir,<sep />þo`t þeir sakar go/rvi:<br />
+			þat kveþa dauþum duga.
 		</original>
+		<translation_prelude>
+
+		</translation_prelude>
 		<translation>
-			Then first I rede thee,<sep />that free of guilt<br />
+			``Then first I rede thee,<sep />that free of guilt<br />
 			Toward kinsmen ever thou art;<br />
 			No vengeance have,<sep />though they work thee harm,<br />
 			Reward after death thou shalt win.
@@ -568,9 +599,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þe`r annat,<sep />at þu eiþ ne` sverir,<br />
+			nema þanns saþr sei::;<br />
+			grimmar <conj>limar</conj><sep /><conj>fylgja griþ</conj>rofi,<br />
+			armr es va`ra vargr.
 		</original>
 		<translation>
 			Then second I rede thee,<sep />to swear no oath<br />
@@ -584,9 +616,10 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þe`r þriþja,<sep />at þu` þingi a`<br />
+			deilit viþ heimska hali;<br />
+			þvi`t o`sviþr maþr<sep />la_e`tr opt kveþin<br />
+			verri orþ an viti.
 		</original>
 		<translation>
 			Then third I rede thee,<sep />that thou at the Thing<br />
@@ -597,12 +630,13 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<sep /><br />
+			[Allt es vant:<sep />ef þu` viþ þegir,<br />
+			þa` þykkir meþ bleyþi borinn<br />
+			[eþa so~nnu sagþr;<br />
+			ha_e`ttr es heimiskviþr,<br />
+			nema se`r go`þan geti];<br />
+			annars dags<sep />la`ttu hans o~ndu farit<br />
+			ok launa sva` <conj>leiþum</conj> lygi.]
 		</original>
 		<translation>
 			Ill it is<sep />if silent thou art,<br />
@@ -620,9 +654,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et fjo`rþa,<sep />et by`r forda_e`þa<br />
+			vammafull a` vegi:<br />
+			ganga's betra<sep />an gista sei::,<br />
+			þo`t þik no~`tt <conj>of</conj> nemi.
 		</original>
 		<translation>
 			Then fourth I rede thee,<sep />if thou shalt find<br />
@@ -633,9 +668,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[Fornjo`snar augu<sep />þurfu fira synir,<br />
+			hvars skulu vreiþir vega;<br />
+			opt bo~lvi`sar konur<sep />sitja brautu na_e`r,<br />
+			þa_e`rs deyfa sverþ ok sefa.]
 		</original>
 		<translation>
 			Eyes that see<sep />need the sons of men<br />
@@ -649,9 +685,10 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et fimta,<sep />þo`ttu fagrar sei::r<br />
+			bru`þir bekkjum a`,<br />
+			sifja silfr<sep />la`ta svefni ra`þa,<br />
+			teygjat at kossi konur!
 		</original>
 		<translation>
 			Then fifth I rede thee,<sep />though maidens fair<br />
@@ -665,9 +702,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et se`tta,<sep />þo`t meþ seggjum fari<br />
+			o~lþrmo~`l til o~fug,<br />
+			<conj>drukkna</conj> deila<sep />skalattu viþ dolgviþu;<br />
+			margan stelr vi`n viti.
 		</original>
 		<translation>
 			Then sixth I rede thee,<sep />if men shall wrangle,<br />
@@ -683,9 +721,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[<conj>Sennur</conj> ok o~l<sep />hefr seggjum verit<br />
+			mo~rgum <conj>at</conj> mo`þtrega,<br />
+			sumum at bana,<sep />sumum at bo~lsto~fum:<br />
+			fjo~lþ's þats fira tregr.]
 		</original>
 		<translation>
 			Brawls and ale<sep />full oft have been<br />
@@ -699,9 +738,10 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et sjaunda,<sep />ef þu` sakar deilir<br />
+			viþ hugfulla hali,<br />
+			berjask's betra<sep />an brinna sei::<br />
+			inni auþsto~fum.
 		</original>
 		<translation>
 			Then seventh I rede thee,<sep />if battle thou seekest<br />
@@ -716,9 +756,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et a`tta,<sep />at skalt viþ illu sea<br />
+			ok firrask fla_e`rþarstafi;<br />
+			mey þu teygjat<sep />ne` manns konu<br />
+			ne eggja ofgamans.
 		</original>
 		<translation>
 			Then eighth I rede thee,<sep />that evil thou shun,<br />
@@ -729,9 +770,10 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et niunda,<sep />at þu` no~um bjargir,<br />
+			hvars þu a` <conj>foldu</conj> fiþr,<br />
+			hva`rts eru so`ttdauþir<sep />eþa eru sa_e`dauþir<br />
+			eþa va`pndauþir verar.
 		</original>
 		<translation>
 			Then ninth I rede thee:<sep />burial render<br />
@@ -742,9 +784,10 @@
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[<conj>Laug</conj> skal go/rva<sep />þeims liþnir'u`,<br />
+			þvaa hendr ok ho~fuþ,<br />
+			kemba ok þerra,<sep />a`þr i` kistu fari,<br />
+			ok biþja sa_e`lan sofa.]
 		</original>
 		<translation>
 			A bath shalt thou give them<sep />who corpses be,<br />
@@ -758,17 +801,18 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			<sep /><br />
-			<br />
-			<br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et tiunda,<sep />at þu` trui::r <conj>aldri</conj><br />
+			vo~`rum vargdropa<br />
+			[<conj>hvers</conj>tu'st bro`þurbani<br />
+			eþa hafir þu` feldan fo~þur;]<br />
+			<conj>opt</conj> es ulfr<sep />i` ungum syni,<br />
+			þo`t sei:: golli gladdr.
 		</original>
 		<translation>
 			Then tenth I rede thee,<sep />that never thou trust<br />
 			The word of the race of wolves,<br />
-			(If his brother thou broughtest to death,<br />
-			Or his father thou didst fell;)<br />
+			[If his brother thou broughtest to death,<br />
+			Or his father thou didst fell;]<br />
 			Often a wolf<sep />in a son there is,<br />
 			Though gold he gladly takes.
 		</translation>
@@ -779,9 +823,10 @@
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[Sakar ok heiptir<sep />hyggjat svefngar vesa<br />
+			ne` harm in heldr;<br />
+			vits ok va`pna<sep />vant's jo~fri at faa<br />
+			þeims skal fremstr meþ firum.]
 		</original>
 		<translation>
 			Battle and hate<sep />and harm, methinks,<br />
@@ -795,9 +840,10 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			Þat ra_e`þk þer et ellipta,<sep />at þu viþ illu sei::r<br />
+			hvern veg at <conj>vinum;</conj><br />
+			langt li`f<sep />þykkjumk<conj>a</conj> lofþungs vita:<br />
+			ro~mm eru ro`g of risin.''
 		</original>
 		<translation>
 			Then eleventh I rede thee,<sep />that wrath thou shun,<br />
