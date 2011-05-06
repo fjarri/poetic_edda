@@ -271,14 +271,20 @@ Sigrdrifumol (1 May 2011)
 
 * Added Sigrdrifumol chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Brot af Sigurtharkvithu (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Brot af Sigurtharkvithu (6 May 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Voluspo, 28: added missing space between sentences;
-* Add Brot af Sigurtharkvithu chapter
 * General introduction: marked Old Norse stanzas as 'translation' too,
   because this corresponds to their book of origin, not to contents;
+* Added Brot af Sigurtharkvithu chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarkvitha I (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Guthrunarkvitha I chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
