@@ -275,6 +275,7 @@ Sigrdrifumol (1 May 2011)
 Brot af Sigurtharkvithu (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Voluspo, 28: added missing space between sentences;
 * Add Brot af Sigurtharkvithu chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
