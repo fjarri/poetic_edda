@@ -1,0 +1,472 @@
+<chapter label="Brot af Sigurtharkvithu">
+	<block class="eddachapter">
+		<original>
+
+		</original>
+		<transliteration>
+			Brot af Sigurtharkvithu
+		</transliteration>
+		<translation>
+			Fragment of a Sigurth Lay
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
+	</block>
+	<block class="text">
+		The gap of eight leaves in the <src>Codex Regius</src> (cf. introductory note to the <cr>Sigrdrifumol</cr>) is followed by a passage of twenty stanzas which is evidently the end of a longer poem, the greater part of it having been contained in the lost section of the manuscript.
+		There is here little question of such a compilation as made up the so-called <cr>Reginsmol</cr>, <cr>Fafnismol</cr>, and <cr>Sigrdrifumol</cr>; the extant fragment shows every sign of being part of a poem which, as it stood in the manuscript, was a complete and definite unit.
+		The end is clearly marked; the following poem, <cr>Guthrunarkvitha I</cr>, carries a specific heading in the manuscript, so that there is no uncertainty as to where the fragment closes.
+	</block>
+	<block class="text">
+		It seems altogether likely that the twenty stanzas thus remaining are the end of a poem entitled <src>Sigurtharkvitha</src> (Lay of Sigurth), and, more specifically, the ``Long'' Lay of Sigurth.
+		The extant and complete Sigurth lay, a relatively late work, is referred to by the annotator as the ``Short'' Lay of Sigurth, which, of course, presupposes the existence of a longer poem with the same title.
+		As the ``short'' lay is one of the longest poems in the whole collection (seventy stanzas), it follows that the other one must have been considerably more extensive in order to have been thus distinguished by its length.
+		It may be guessed, then, that not less than eighty or a hundred stanzas, and possibly more, of the ``Long'' Lay of Sigurth have been lost with the missing pages of <src>Regius</src>.
+	</block>
+	<block class="text">
+		The narrative, from the point at which the so-called <cr>Sigrdrifumol</cr> breaks off to that at which the <chapterref chapter="Brot af Sigurtharkvitha">Brot</chapterref> takes it up, is given with considerable detail in the <src>Volsungasaga</src>.
+		In this prose narrative four stanzas are quoted, and one of them is specifically introduced with the phrase: ``as is told in the Lay of Sigurth.''
+		It is possible, but most unlikely, that the entire passage paraphrases this poem alone; such an assumption would give the Lay of Sigurth not less than two hundred and fifty stanzas (allowing about fifteen stanzas to each of the missing pages), and moreover there are inconsistencies in the <src>Volsungasaga</src> narrative suggesting that different and more or less conflicting poems were used as sources.
+		The chances are that the ``Long'' Lay of Sigurth filled approximately the latter half of the lost section of the manuscript, the first half including poems of which the only trace is to be found in the <src>Volsungasaga</src> prose paraphrase and in two of the stanzas therein quoted.
+	</block>
+	<block class="text">
+		The course of the <src>Volsungasaga's</src> story from the <cr>Sigrdrifumol</cr> to the <chapterref chapter="Brot af Sigurtharkvitha">Brot</chapterref> is, briefly, as follows.
+		After leaving the Valkyrie, Sigurth comes to the dwelling of Heimir, Brynhild's brother-in-law, where he meets Brynhild and they swear oaths of fidelity anew (the <src>Volsungasaga</src> is no more lucid with regard to the Brynhild-Sigrdrifa confusion than was the annotator of the poems).
+		Then the scene shifts to the home of the Gjukungs.
+		Guthrun, Gjuki's daughter, has a terrifying dream, and visits Brynhild to have it explained, which the latter does by foretelling pretty much everything that is going to happen; this episode was presumably the subject of a separate poem in the lost section of the manuscript.
+		Guthrun returns home, and Sigurth soon arrives, to be made enthusiastically welcome. Grimhild, mother of Gunnar and Guthrun, gives him a magic draught which makes him forget all about Brynhild, and shortly thereafter he marries Guthrun.
+	</block>
+	<block class="text">
+		Then follows the episode of the winning of Brynhild for Gunnar (cf. <cr>Gripisspo</cr>, <stanzaref chapter="Gripisspo">37</stanzaref> and note).
+		This was certainly the subject of a poem, possibly of the first part of the ``Long'' Lay of Sigurth, although it seems more likely that the episode was dealt with in a separate poem.
+		The <src>Volsungasaga</src> quotes two stanzas describing Sigurth's triumphant passing through the flames after Gunnar has failed and the two have changed forms. They run thus:
+	</block>
+	<block class="text">
+		<textstanza class="translation">
+			The fire raged,<sep />the earth was rocked,<br />
+			The flames leaped high<sep />to heaven itself;<br />
+			Few were the hardy<sep />heroes would dare<br />
+			To ride or leap<sep />the raging flames.
+		</textstanza>
+		<textstanza class="translation">
+			Sigurth urged Grani<sep />then with his sword,<br />
+			The fire slackened<sep />before the hero,<br />
+			The flames sank low<sep />for the greedy of fame,<br />
+			The armor flashed<sep />that Regin had fashioned.
+		</textstanza>
+	</block>
+	<block class="text">
+		After Sigurth has spent three nights with Brynhild, laying his sword between them (cf. <cr>Gripisspo</cr>, <stanzaref chapter="Gripisspo">41</stanzaref> and note), he and Gunnar return home, while Brynhild goes to the dwelling of her brother-in-law, Heimir, and makes ready for her marriage with Gunnar, directing Heimir to care for her daughter by Sigurth, Aslaug.
+		The wedding takes place, to be followed soon after by the quarrel between Guthrun and Brynhild, in which the former betrays the fact that it was Sigurth, and not Gunnar, who rode through the flames.
+		Brynhild speaks with contempt of Guthrun and her whole family, and the following stanza, which presumably be longs to the same Sigurth lay as the Brot, is quoted at this point:
+	</block>
+	<block class="text">
+		<textstanza class="translation">
+			Sigurth the dragon<sep />slew, and that<br />
+			Will men recall<sep />while the world remains;<br />
+			But little boldness<sep />thy brother had<br />
+			To ride or leap<sep />the raging flames.
+		</textstanza>
+	</block>
+	<block class="text">
+		Gunnar and Sigurth alike try to appease the angry Brynhild, but in vain.
+		After Sigurth has talked with her, his leaving her hall is described in the following stanza, introduced by the specific phrase: ``as is said in the Lay of Sigurth'':
+	</block>
+	<block class="text">
+		<textstanza class="translation">
+			Forth went Sigurth,<sep />and speech he sought not,<br />
+			The friend of heroes,<sep />his head bowed down;<br />
+			Such was his grief<sep />that asunder burst<br />
+			His mail-coat all<sep />of iron wrought.
+		</textstanza>
+	</block>
+	<block class="text">
+		Brynhild then tells Gunnar that she had given herself wholly to Sigurth before she had become Gunnar's wife (the confusion between the two stories is commented on in the note to <cr>Gripisspo</cr>, <stanzaref chapter="Gripisspo">47</stanzaref>), and Gunnar discusses plans of vengance with his brother, Hogni.
+		It is at this point that the action of the <chapterref chapter="Brot af Sigurtharkvitha">Brot begins</chapterref>.
+		Beginning with this poem, and thence to the end of the cycle, the German features of the narrative predominate (cf. introductory note to <cr>Gripisspo</cr>).
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="1">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``(What evil deed<sep />has Sigurth) done,<br />
+			That the hero's life<sep />thou fain wouldst have?''
+		</translation>
+		<comment>
+			The fragment begins with the last words of line 1 (probably line 3 of the stanza).
+			A few editors ascribe this speech to Gunnar and the next to Brynhild; one reconstruction of lines 1--2 on this probably false assumption runs:
+			<textstanza class="translation">
+				Why art thou, Brynhild,<sep />daughter of Buthli,<br />
+				Scheming ill<sep />with evil counsel?<br />
+			</textstanza>
+			<expl>Hogni</expl> (German Hagene): brother of Gunnar and Guthrun.
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Gunnar spake:
+		</translation_prelude>
+		<translation>
+			``Sigurth oaths<sep />to me hath sworn,<br />
+			Oaths hath sworn,<sep />and all hath broken;<br />
+			He betrayed me there<sep />where truest all<br />
+			His oaths, methinks,<sep />he ought to have kept.''
+		</translation>
+		<comment>
+			A few editors ascribe this speech to Brynhild.
+			Gunnar, if the stanza is his, has believed Brynhild's statement regarding Sigurth's disloyalty to his blood-brother.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``Thy heart hath Brynhild<sep />whetted to hate,<br />
+			Evil to work<sep />and harm to win,<br />
+			She grudges the honor<sep />that Guthrun has,<br />
+			And that joy of herself<sep />thou still dost have.''
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			They cooked a wolf,<sep />they cut up a snake,<br />
+			They gave to Gotthorm<sep />the greedy one's flesh,<br />
+			Before the men,<sep />to murder minded,<br />
+			Laid their hands<sep />on the hero bold.
+		</translation>
+		<comment>
+			The <src>Volsungasaga</src> quotes a somewhat different version of this stanza, in which the snake is called ``wood-fish'' and the third line adds ``beer and many things.''
+			Eating snakes and the flesh of beasts of prey was commonly supposed to induce ferocity.
+			<expl>Gotthorm</expl>: Grimhild's son, half-brother to Gunnar.
+			He it is who, not having sworn brotherhood with Sigurth, does the killing.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Slain was Sigurth<sep />south of the Rhine;<br />
+			From a limb a raven<sep />called full loud:<br />
+			``Your blood shall redden<sep />Atli's blade,<br />
+			And your oaths shall bind<sep />you both in chains.''
+		</translation>
+		<comment>
+			In the manuscript this stanza stands between stanzas <sr>11</sr> and <sr>12</sr>; most editions have made the change here indicated.
+			<expl>South of the Rhine</expl>: the definite localization of the action shows how clearly all this part of the story was recognized in the North as of German origin.
+			<expl>Atli</expl> (Attila; cf. introductory note to <chapterref>Gripisspo</chapterref>): the Northern version of the story makes him Brynhild's brother.
+			His marriage with Guthrun, and his slaying of hex brothers, are told in the Atli poems.
+			Regarding the manner of Sigurth's death cf. <proseref chapter="Brot af Sigurtharkvitha">concluding prose passage</proseref> and note.
+			Stanza <sr>13</sr> indicates that after stanza <sr>5</sr> a stanza containing the words of an eagle has been lost.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Without stood Guthrun,<sep />Gjuki's daughter,<br />
+			Hear now the speech<sep />that first she spake:<br />
+			``Where is Sigurth now,<sep />the noble king,<br />
+			That my kinsmen riding<sep />before him come?''
+		</translation>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Only this<sep />did Hogni answer:<br />
+			``Sigurth we<sep />with our swords have slain;<br />
+			The gray horse mourns<sep />by his master dead.''
+		</translation>
+		<comment>
+			One line of this stanza, but it is not clear which, seems to have been lost.
+			<expl>The gray horse</expl>: Grani.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Brynhild spake,<sep />the daughter of Buthli:<br />
+			``Well shall ye joy<sep />in weapons and lands;<br />
+			Sigurth alone<sep />of all had been lord,<br />
+			If a little longer<sep />his life had been.
+		</translation>
+		<comment>
+			Some editions set stanzas <sr>8</sr> and <sr>9</sr> after stanza <sr>11</sr>; Sijmons marks them as spurious.
+			<expl>Buthli</expl>: cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">19</stanzaref>, note.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Right were it not<sep />that so he should rule<br />
+			O'er Gjuki's wealth<sep />and the race of the Goths;<br />
+			Five are the sons<sep />for ruling the folk,<br />
+			And greedy of fight,<sep />that he hath fathered.''
+		</translation>
+		<comment>
+			<expl>Goths</expl>: a generic term for any German race; cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">35</stanzaref> and note.
+			<expl>Five sons</expl>: according to the <src>Volsungasaga</src> Sigurth had only one son, named Sigmund, who was killed at Brynhild's behest.
+			<chapterref>Sigurtharkvitha en skamma</chapterref> and <chapterref>Guthrunarkvitha II</chapterref> likewise mention only one son.
+			The daughter of Sigurth and Guthrun, Svanhild, marries Jormunrek (Ermanarich).
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Brynhild laughed--<sep />and the building echoed--<br />
+			Only once,<sep />with all her heart;<br />
+			``Long shall ye joy<sep />in lands and men,<br />
+			Now ye have slain<sep />the hero noble.''
+		</translation>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Guthrun spake,<sep />the daughter of Gjuki:<br />
+			``Much thou speakest<sep />in evil speech;<br />
+			Accursed be Gunnar,<sep />Sigurth's killer,<br />
+			Vengeance shall come<sep />for his cruel heart.''
+		</translation>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Early came evening,<sep />and ale was drunk,<br />
+			And among them long<sep />and loud they talked.;<br />
+			They slumbered all<sep />when their beds they sought,<br />
+			But Gunnar alone<sep />was long awake.
+		</translation>
+		<comment>
+			The manuscript marks line 4 as the beginning of a new stanza, and a few editions combine it with stanza <sr>13</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			His feet were tossing,<sep />he talked to himself,<br />
+			And the slayer of hosts<sep />began to heed<br />
+			What the twain from the tree<sep />had told him then,<br />
+			The raven and eagle,<sep />as home they rode.
+		</translation>
+		<comment>
+			<expl>Slayer of hosts</expl>: warrior (Gunnar).
+			<expl>Raven and eagle</expl>: cf. note on stanza <sr>5</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Brynhild awoke,<sep />the daughter of Buthli,<br />
+			The warrior's daughter,<sep />ere dawn of day:<br />
+			``Love me or hate me,<sep />the harm is done,<br />
+			And my grief cries out,<sep />or else I die.''
+		</translation>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Silent were all<sep />who heard her speak,<br />
+			And nought of the heart<sep />of the queen they knew,<br />
+			Who wept such tears<sep />the thing to tell<br />
+			That laughing once<sep />of the men she had won.
+		</translation>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Brynhild spake:
+		</translation_prelude>
+		<translation>
+			``Gunnar, I dreamed<sep />a dream full grim:<br />
+			In the hall were corpses;<sep />cold was my bed;<br />
+			And, ruler, thou<sep />didst joyless ride,<br />
+			With fetters bound<sep />in the foemen's throng.
+		</translation>
+		<comment>
+			Mogk regards stanzas <sr>16</sr> and <sr>17</sr> as interpolated, but on not very satisfactory grounds.
+			On the death of Gunnar cf. <chapterref>Drap Niflunga</chapterref>.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
+			Utterly now your<sep />Niflung race<br />
+			All shall die;<sep />your oaths ye have broken.
+		</translation>
+		<comment>
+			No gap is indicated in the manuscript, and some editions attach these two lines to stanza <sr>16</sr>.
+			<expl>Niflungs</expl>: this name (German Nibelungen), meaning ``sons of the mist,'' seems to have belonged originally to the race of supernatural beings to which the treasure belonged in the German version.
+			It was subsequently ex tended to include the Gjukungs and their Burgundians.
+			This question, of minor importance in the Norse poems, has evoked an enormous amount of learned discussion in connection with the <src>Nibelungenlied</src>.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thou hast, Gunnar,<sep />the deed forgot,<br />
+			When blood in your footprints<sep />both ye mingled;<br />
+			All to him<sep />hast repaid with ill<br />
+			Who fain had made thee<sep />the foremost of kings.
+		</translation>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Well did he prove,<sep />when proud he rode<br />
+			To win me then<sep />thy wife to be,<br />
+			How true the host-slayer<sep />ever had held<br />
+			The oaths he had made<sep />with the monarch young.
+		</translation>
+		<comment>
+			<expl>Footprints</expl>: the actual mingling of blood in one another's footprints was a part of the ceremony of swearing blood-brother hood, the oath which Gunnar and Sigurth had taken.
+			The fourth line refers to the fact that Sigurth had won many battles for Gunnar.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The wound-staff then,<sep />all wound with gold,<br />
+			The hero let<sep />between us lie;<br />
+			With fire the edge<sep />was forged full keen,<br />
+			And with drops of venom<sep />the blade was damp.''
+		</translation>
+		<comment>
+			Regarding the sword episode cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">41</stanzaref> and note.
+			<expl>Wound-staff</expl>: sword.
+		</comment>
+	</block>
+	<block class="prose" label="conclusion">
+		<original>
+			<br />
+			<br />
+		</original>
+		<translation>
+			Here it is told in this poem about the death of Sigurth, and the story goes here that they slew him out of doors, but some say that they slew him in the house, on his bed	while he was sleeping.<br />
+			But German men say that they killed him out of doors in the forest; and so it is told in the old Guthrun lay, that Sigurth and Gjuki's sons had ridden to the council-place, and that he was slain there.<br />
+			But in this they are all agreed, that they deceived him in his trust of them, and fell upon him when he was lying down and unprepared.
+		</translation>
+		<comment>
+			This prose passage has in the manuscript, written in red, the phrase ``Of Sigurth's Death'' as a heading; there is no break between it and the prose introducing <chapterref>Guthrunarkvitha I</chapterref>, the heading for that poem coming just before stanza <sr>1</sr>.
+			This note is of special interest as an effort at real criticism.
+			The annotator, troubled by the two versions of the story of Sigurth's death, feels it incumbent on him not only to point the fact out, but to cite the authority of ``German men'' for the form which appears in this poem.
+			The alternative version, wherein Sigurth is slain in bed, appears in <chapterref>Sigurtharkvitha en skamma</chapterref>, <chapterref>Guthrunarhvot</chapterref>, and <chapterref>Hamthesmol</chapterref>, and also in the <src>Volsungasaga</src>, which tells how Gotthorm tried twice to kill Sigurth but was terrified by the brightness of his eyes, and succeeded only after the hero had fallen asleep, That the annotator was correct in citing German authority for the slaying of Sigurth in the forest is shown by the <src>Nibelungenlied</src> and the <src>Thithrekssaga</src>.
+			The ``old'' Guthrun lay is unquestionably <chapterref>Guthrunarkvitha II</chapterref>.
+		</comment>
+	</block>
+</chapter>
