@@ -277,6 +277,8 @@ Brot af Sigurtharkvithu (planned)
 
 * Voluspo, 28: added missing space between sentences;
 * Add Brot af Sigurtharkvithu chapter
+* General introduction: marked Old Norse stanzas as 'translation' too,
+  because this corresponds to their book of origin, not to contents;
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future

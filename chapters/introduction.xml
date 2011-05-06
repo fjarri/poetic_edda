@@ -173,7 +173,7 @@
 		The following is an example of the Fornyrthislag stanza, the accented syllables being in italics:
 	</block>
 	<block class="text">
-		<textstanza class="original">
+		<textstanza class="translation">
 			<stress>Vreiþr</stress> vas <stress>Ving</stress>þōrr,<sep />es <stress>vakna</stress>þi<br />
 			ok <stress>sīns</stress> <stress>ham</stress>ars<sep />of <stress>sakna</stress>þi;<br />
 			<stress>skegg</stress> nam <stress>hris</stress>ta,<sep /><stress>skǫr</stress> nam <stress>dȳ</stress>ja,<br />
@@ -185,7 +185,7 @@
 		The following is an example:
 	</block>
 	<block class="text">
-		<textstanza class="original">
+		<textstanza class="translation">
 			<stress>Ar</stress> skal <stress>rī</stress>sa<sep />sās <stress>an</stress>nars <stress>vill</stress><br />
 			<stress>fē</stress> eþa <stress>fiǫr</stress> ha<stress>fa;</stress><br />
 			<stress>ligg</stress>jandi <stress>ulfr</stress><sep />sjaldan <stress>lāer</stress> of <stress>getr</stress><br />
@@ -197,7 +197,7 @@
 		The following is an example:
 	</block>
 	<block class="text">
-		<textstanza class="original">
+		<textstanza class="translation">
 			<stress>Horsk</stress> vas <stress>hūs</stress>freyja,<sep /><stress>hug</stress>þi at <stress>mann</stress>viti,<br />
 			<stress>lag</stress> heyrþi <stress>or</stress>þa,<sep />hvat ā <stress>laun</stress> <stress>māel</stress>tu;<br />
 			þā vas <stress>vant</stress> <stress>vit</stress>ri,<sep /><stress>vil</stress>di þeim <stress>hjal</stress>þa:<br />
