@@ -1,7 +1,7 @@
 <chapter label="Brot af Sigurtharkvithu">
 	<block class="eddachapter">
 		<original>
-
+			Brot af Sigurþarkviþu
 		</original>
 		<transliteration>
 			Brot af Sigurtharkvithu
@@ -89,17 +89,17 @@
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep />
+			``<conj>hvat hefr Sigurþr</conj><sep /><conj>til</conj> saka unnit,<br />
+			es fro/`knan vill<sep />fjo~rvi na_e`ma?''
 		</original>
 		<translation_prelude>
 			Hogni spake:
 		</translation_prelude>
 		<translation>
-			``(What evil deed<sep />has Sigurth) done,<br />
+			``[What evil deed<sep />has Sigurth] done,<br />
 			That the hero's life<sep />thou fain wouldst have?''
 		</translation>
 		<comment>
@@ -109,18 +109,22 @@
 				Why art thou, Brynhild,<sep />daughter of Buthli,<br />
 				Scheming ill<sep />with evil counsel?<br />
 			</textstanza>
+			<textstanza class="original">
+				(Hvi ertu, Brynhildr,<sep />Buþla do`ttir!<br />
+				bo~lvi blandin<sep />ok banara`þum?)
+			</textstanza>
 			<expl>Hogni</expl> (German Hagene): brother of Gunnar and Guthrun.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-
+			Gunnarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Me`r hefr Sigurþr<sep />selda eiþa,<br />
+			eiþa selda,<sep />alla logna;<br />
+			þa` ve`lti mik,<sep />es vesa skyldi<br />
+			allra eiþa<sep />einn fulltrui::.''
 		</original>
 		<translation_prelude>
 			Gunnar spake:
@@ -138,13 +142,13 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þik hefr Brynhildr<sep />bo~l at go/rva<br />
+			heiptar hvattan,<sep />harm at vinna;<br />
+			fyrman Guþru`nu<sep />go`þra ra`þa,<br />
+			en si`þan þe`r<sep />si`n at njo`ta.''
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -158,10 +162,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sumir ulf sviþu,<sep />sumir orm sniþu,<br />
+			sumir Gotþormi<sep />af gera deildu,<br />
+			a`þr þeir ma_e`tti<sep />meins <conj>of</conj> lystir<br />
+			a` horskum hal<sep />hendr <conj>of</conj> leggja.
 		</original>
 		<translation>
 			They cooked a wolf,<sep />they cut up a snake,<br />
@@ -178,10 +182,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Soltinn varþ Sigurþr<sep />sunnan Ri`nar;<br />
+			hrafn at meiþi<sep />ho`tt kallaþi:<br />
+			``Ykkr mun Atli<sep />eggjar rjo`þa,<br />
+			munu vi`gskaa<sep />of viþa eiþar.''
 		</original>
 		<translation>
 			Slain was Sigurth<sep />south of the Rhine;<br />
@@ -200,10 +204,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			U`ti sto`þ Guþru`n<sep />Gju`ka do`ttir,<br />
+			auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:<br />
+			``Hvar's nu` Sigurþr,<sep />seggja dro`ttinn,<br />
+			es fra_e`ndr mi`nir<sep />fyrri ri`þa?''
 		</original>
 		<translation>
 			Without stood Guthrun,<sep />Gjuki's daughter,<br />
@@ -214,9 +218,9 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Einn þvi` Ho~gni<sep />andsvo~r veitti<br />
+			``Sundr ho~fum Sigurþ<sep />sverþi ho~ggvinn,<br />
+			gnapir a_e` gra`r jo`r<sep /><conj>of grami</conj> dauþum.''
 		</original>
 		<translation>
 			Only this<sep />did Hogni answer:<br />
@@ -230,10 +234,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Þa` kvaþ Brynhildr<sep />Buþla do`ttir:<br />
+			``Vel skuluþ njo`ta<sep />va`pna ok landa;<br />
+			einn mundi Sigurþr<sep />o~llu ra`þa,<br />
+			ef lengr litlu<sep />li`fi heldi.
 		</original>
 		<translation>
 			Then Brynhild spake,<sep />the daughter of Buthli:<br />
@@ -248,10 +252,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Va_e`ria þat so/`mt,<sep />at sva` re`þi<br />
+			Gju`ka arfi<sep />ok Gota mengi,<br />
+			es fimm sunu<sep />at folkra_e`þi<br />
+			gunnarfu`sa<sep />getna hafþi.'']
 		</original>
 		<translation>
 			Right were it not<sep />that so he should rule<br />
@@ -268,13 +272,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hlo` þa` Brynhildr<sep />---bo/r allr dunþi---<br />
+			einu sinni<sep />af o~llum hug:<br />
+			``<conj>Lengi njo`tiþ</conj><sep />landa ok þegna,<br />
+			es fro/`knan gram<sep />falla le`tuþ!''
 		</original>
 		<translation>
-			Then Brynhild laughed--<sep />and the building echoed--<br />
+			Then Brynhild laughed---<sep />and the building echoed---<br />
 			Only once,<sep />with all her heart;<br />
 			``Long shall ye joy<sep />in lands and men,<br />
 			Now ye have slain<sep />the hero noble.''
@@ -282,10 +286,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Guþru`n<sep />Gju`ka do`ttir:<br />
+			``Mjo~k ma_e`lir þu`<sep />miklar firnar;<br />
+			gramir hafi Gunnar,<sep />go~tvaþ Sigurþar!<br />
+			heiptgjarns hugar<sep />hefnt skal verþa.''
 		</original>
 		<translation>
 			Then Guthrun spake,<sep />the daughter of Gjuki:<br />
@@ -296,10 +300,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fram vas kvelda,<sep />fjo~lþ vas drukkit,<br />
+			<conj>þo` vas va_e`tki</conj><sep />vil<conj>ma`ls</conj> talit;<br />
+			sofnuþu allir,<sep />es i` sa_eing kvo~`mu,<br />
+			einn Gunnarr lengr<sep />o~llum vakþi.
 		</original>
 		<translation>
 			Early came evening,<sep />and ale was drunk,<br />
@@ -313,10 +317,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fo`t namat hro/`ra,<sep />fjo~lþ namat spjalla,<br />
+			hitt herglo~tuþr<sep />hyggja te`þi,<br />
+			hvat i` <conj>bo~rvi</conj> þeir<sep />ba`þir so~gþu<br />
+			hrafn ey ok o~rn,<sep />es heim riþu.
 		</original>
 		<translation>
 			His feet were tossing,<sep />he talked to himself,<br />
@@ -331,10 +335,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vaknaþi Brynhildr<sep />Buþla do`ttir,<br />
+			di`s skjo~ldunga<sep />fyr dag litlu:<br />
+			``Hvetiþ eþa letiþ mik<sep />---harmr es unninn---<br />
+			sorg at segja<sep />eþa sva` la`ta!''
 		</original>
 		<translation>
 			Brynhild awoke,<sep />the daughter of Buthli,<br />
@@ -345,10 +349,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þo~gþu allir<sep />viþ þvi` orþi,<br />
+			fa`r kunni þeim<sep />fljo`þa lo~`tum,<br />
+			es gra`tandi<sep />go/rþisk at segja,<br />
+			þats hla_e`jandi<sep />ho~lþa beiddi.
 		</original>
 		<translation>
 			Silent were all<sep />who heard her speak,<br />
@@ -359,13 +363,13 @@
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-
+			Brynhildr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[``<conj>Hugþumk,</conj> Gunnarr!<sep />grimt i` svefni,<br />
+			svalt allt i` sal,<sep />a_e`ttak sa_eing kalda,<br />
+			en þu`, gramr! riþir<sep />glaums andvani,<br />
+			fjo~tri fatlaþr<sep />i` fianda liþ.
 		</original>
 		<translation_prelude>
 			Brynhild spake:
@@ -383,10 +387,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<br />
-			<br />
-			<sep /><br />
-			<sep />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
+			sva` mun o~ll yþur<sep />a_e`tt Niflunga<br />
+			afli gengin---<sep />eruþ eiþrofa.]
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -403,10 +407,10 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Mantat, Gunnarr!<sep />til go~rva þat,<br />
+			es blo`þi i` spor<sep />ba`þir renduþ;<br />
+			nu hefr allt ho~`num<sep />illu launat,<br />
+			es fremstan <conj>þik</conj><sep />finna vildi.
 		</original>
 		<translation>
 			Thou hast, Gunnar,<sep />the deed forgot,<br />
@@ -417,10 +421,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` reyndi þat,<sep />es riþit hafþi<br />
+			mo`þugr a` vit<sep />mi`n at biþja,<br />
+			hve` herglo~tuþr<sep />hafþi fyrri<br />
+			eiþum haldit<sep />viþ <conj>ungan</conj> gram.
 		</original>
 		<translation>
 			Well did he prove,<sep />when proud he rode<br />
@@ -435,10 +439,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Benvo~nd of le`t<sep />brugþinn golli<br />
+			margdy`rr konungr<sep />a` meþal okkar;<br />
+			eldi vo~ru eggjar<sep />u`tan go~rvar,<br />
+			en eitrdropum<sep />innan fa`þar.''
 		</original>
 		<translation>
 			The wound-staff then,<sep />all wound with gold,<br />
@@ -453,8 +457,9 @@
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			<br />
-			<br />
+			He`r er sagt i` þessi kviþu fra` dauþa Sigurþar, ok vi`kr he`r sva` til, sem þeir dra_epi hann u`ti, en sumir segja sva`, at þeir dra_epi hann inni i` rekkju sinni sofanda.<br />
+			En þy`þverskir menn segja sva`, at þeir dra_epi hann u`ti i` sko`gi, ok sva` segir i` Guþru`narkviþu enni fornu, at Sigurþr ok Gju`ka synir hefþi til þings <conj>riþit</conj>, þa` er hann var drepinn;<br />
+			en þat segja allir einnig, at þeir sviku hann i` try`gþ ok vo`gu at honum liggjanda ok o`bu`num.
 		</original>
 		<translation>
 			Here it is told in this poem about the death of Sigurth, and the story goes here that they slew him out of doors, but some say that they slew him in the house, on his bed	while he was sleeping.<br />
