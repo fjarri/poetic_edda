@@ -25,13 +25,13 @@
 		It may be guessed, then, that not less than eighty or a hundred stanzas, and possibly more, of the “Long” Lay of Sigurth have been lost with the missing pages of <source>Regius</source>.
 	</block>
 	<block class="text">
-		The narrative, from the point at which the so-called <chapterref>Sigrdrifumol</chapterref> breaks off to that at which the <chapterref chapter="Brot af Sigurtharkvitha">Brot</chapterref> takes it up, is given with considerable detail in the <source>Volsungasaga</source>.
+		The narrative, from the point at which the so-called <chapterref>Sigrdrifumol</chapterref> breaks off to that at which the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref> takes it up, is given with considerable detail in the <source>Volsungasaga</source>.
 		In this prose narrative four stanzas are quoted, and one of them is specifically introduced with the phrase: “as is told in the Lay of Sigurth.”
 		It is possible, but most unlikely, that the entire passage paraphrases this poem alone; such an assumption would give the Lay of Sigurth not less than two hundred and fifty stanzas (allowing about fifteen stanzas to each of the missing pages), and moreover there are inconsistencies in the <source>Volsungasaga</source> narrative suggesting that different and more or less conflicting poems were used as sources.
 		The chances are that the “Long” Lay of Sigurth filled approximately the latter half of the lost section of the manuscript, the first half including poems of which the only trace is to be found in the <source>Volsungasaga</source> prose paraphrase and in two of the stanzas therein quoted.
 	</block>
 	<block class="text">
-		The course of the <source>Volsungasaga's</source> story from the <chapterref>Sigrdrifumol</chapterref> to the <chapterref chapter="Brot af Sigurtharkvitha">Brot</chapterref> is, briefly, as follows.
+		The course of the <source>Volsungasaga's</source> story from the <chapterref>Sigrdrifumol</chapterref> to the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref> is, briefly, as follows.
 		After leaving the Valkyrie, Sigurth comes to the dwelling of Heimir, Brynhild's brother-in-law, where he meets Brynhild and they swear oaths of fidelity anew (the <source>Volsungasaga</source> is no more lucid with regard to the Brynhild-Sigrdrifa confusion than was the annotator of the poems).
 		Then the scene shifts to the home of the Gjukungs.
 		Guthrun, Gjuki's daughter, has a terrifying dream, and visits Brynhild to have it explained, which the latter does by foretelling pretty much everything that is going to happen; this episode was presumably the subject of a separate poem in the lost section of the manuscript.
@@ -59,7 +59,7 @@
 	<block class="text">
 		After Sigurth has spent three nights with Brynhild, laying his sword between them (cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">41</stanzaref> and note), he and Gunnar return home, while Brynhild goes to the dwelling of her brother-in-law, Heimir, and makes ready for her marriage with Gunnar, directing Heimir to care for her daughter by Sigurth, Aslaug.
 		The wedding takes place, to be followed soon after by the quarrel between Guthrun and Brynhild, in which the former betrays the fact that it was Sigurth, and not Gunnar, who rode through the flames.
-		Brynhild speaks with contempt of Guthrun and her whole family, and the following stanza, which presumably be longs to the same Sigurth lay as the Brot, is quoted at this point:
+		Brynhild speaks with contempt of Guthrun and her whole family, and the following stanza, which presumably be longs to the same Sigurth lay as the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, is quoted at this point:
 	</block>
 	<block class="text">
 		<textstanza class="translation">
@@ -83,7 +83,7 @@
 	</block>
 	<block class="text">
 		Brynhild then tells Gunnar that she had given herself wholly to Sigurth before she had become Gunnar's wife (the confusion between the two stories is commented on in the note to <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">47</stanzaref>), and Gunnar discusses plans of vengance with his brother, Hogni.
-		It is at this point that the action of the <chapterref chapter="Brot af Sigurtharkvitha">Brot begins</chapterref>.
+		It is at this point that the action of the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref> begins.
 		Beginning with this poem, and thence to the end of the cycle, the German features of the narrative predominate (cf. introductory note to <chapterref>Gripisspo</chapterref>).
 	</block>
 	<block class="sepline" />
@@ -198,7 +198,7 @@
 			<expl>South of the Rhine</expl>: the definite localization of the action shows how clearly all this part of the story was recognized in the North as of German origin.
 			<expl>Atli</expl> (Attila; cf. introductory note to <chapterref>Gripisspo</chapterref>): the Northern version of the story makes him Brynhild's brother.
 			His marriage with Guthrun, and his slaying of hex brothers, are told in the Atli poems.
-			Regarding the manner of Sigurth's death cf. <proseref chapter="Brot af Sigurtharkvitha">concluding prose passage</proseref> and note.
+			Regarding the manner of Sigurth's death cf. <proseref chapter="Brot af Sigurtharkvithu" label="conclusion">concluding prose passage</proseref> and note.
 			Stanza <stanzaref chapter="Brot af Sigurtharkvithu">13</stanzaref> indicates that after stanza <stanzaref chapter="Brot af Sigurtharkvithu">5</stanzaref> a stanza containing the words of an eagle has been lost.
 		</comment>
 	</block>
