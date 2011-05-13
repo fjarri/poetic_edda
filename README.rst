@@ -285,6 +285,7 @@ Guthrunarkvitha I (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Guthrunarkvitha I chapter
+* General Introduction: fixed reference to Guthrunarkvitha
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
