@@ -328,3 +328,6 @@ Tasks for distant future
 * Check the style of "Some chapter II" references throughout the Bellows' book:
   sometimes "II" are in italics (introduction to Guthrunarkvitha I),
   sometimes not.
+* Sometimes when <textstanza-original> goes after <textstanza-translation> there is no need in '.' in the first one: it was put there in Bellows' book, just because it finished the sentence.
+  Need to check all such places in the book and remove
+  unnecessary '.'.
