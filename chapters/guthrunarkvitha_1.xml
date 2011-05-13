@@ -41,7 +41,7 @@
 		<original>
 			Guþru`n sat yfir Sigurþi dauþum; hon gre`t eigi sem aþrar konur, en hon var bu`in til at springa af harmi.<br />
 			Til gengu ba_eþi konur ok karlar at hugga hana, en þat var eigi auþvelt.<br />
-			Þat er so~gn manna, at Guþru`n hefþi etit af Fa`fnis hjarta, ok hon skipþi þvi` fugls ro~dd.<br />
+			Þat er so~gn manna, at Guþru`n hefþi etit af Fa`fnis hjarta, ok hon skilþi þvi` fugls ro~dd.<br />
 			Þetta er enn kveþit um Guþru`nu:
 		</original>
 		<translation>
@@ -352,6 +352,9 @@
 			The manuscript does not name the speaker, and some editions have a first line,
 			<textstanza class="translation">
 				Then Guthrun spake,<sep />the daughter of Gjuki.
+			</textstanza>
+			<textstanza class="original">
+				(Þa` kvaþ þat Guþru`n<sep />Gju`ka do`ttir.)
 			</textstanza>
 		</comment>
 	</block>
