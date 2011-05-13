@@ -280,12 +280,18 @@ Brot af Sigurtharkvithu (6 May 2011)
   because this corresponds to their book of origin, not to contents;
 * Added Brot af Sigurtharkvithu chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Guthrunarkvitha I (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarkvitha I (13 May 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Guthrunarkvitha I chapter
+* Added Guthrunarkvitha I chapter;
 * General Introduction: fixed reference to Guthrunarkvitha
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sigurtharkivtha en skamma (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Sigurtharkivtha en skamma chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
