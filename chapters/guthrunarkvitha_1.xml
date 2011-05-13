@@ -1,7 +1,7 @@
 <chapter label="Guthrunarkvitha I">
 	<block class="eddachapter">
 		<original>
-
+			Guþru`narkviþa I
 		</original>
 		<transliteration>
 			Guthrunarkvitha I
@@ -37,11 +37,12 @@
 		Regarding the relations of the various elements in the Sigurth cycle, cf. introductory note to <cr>Gripisspo</cr>.
 	</block>
 	<block class="sepline" />
-	<block class="prose">
+	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
+			Guþru`n sat yfir Sigurþi dauþum; hon gre`t eigi sem aþrar konur, en hon var bu`in til at springa af harmi.<br />
+			Til gengu ba_eþi konur ok karlar at hugga hana, en þat var eigi auþvelt.<br />
+			Þat er so~gn manna, at Guþru`n hefþi etit af Fa`fnis hjarta, ok hon skipþi þvi` fugls ro~dd.<br />
+			Þetta er enn kveþit um Guþru`nu:
 		</original>
 		<translation>
 			Guthrun sat by the dead Sigurth; she did not weep as other women, but her heart was near to bursting with grief.<br />
@@ -57,10 +58,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			A`r vas þats Guþru`n<sep />go/rþisk at deyja,<br />
+			es sorgfull sat<sep /><conj>of</conj> Sigurþi;<br />
+			go/rþit hju`fra<sep />ne` ho~ndum sla`<br />
+			ne` kveina umb<sep />sem konur aþrar.
 		</original>
 		<translation>
 			Then did Guthrun<sep />think to die,<br />
@@ -74,10 +75,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gengu jarlar<sep />alsnotrir fram,<br />
+			þeirs harþs hugar<sep />ha`na lo~ttu;<br />
+			þeygi Guþru`n<sep />gra`ta ma`tti,<br />
+			sva` vas mo`þug,<sep />mundi springa.
 		</original>
 		<translation>
 			To her the warriors<sep />wise there came,<br />
@@ -88,10 +89,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			So~`tu i`trar<sep />jarla bru`þir,<br />
+			golli bu`nar,<sep />fyr Guþru`nu:<br />
+			hver sagþi þeira<sep />sinn oftrega,<br />
+			þanns bitrastan<sep /><conj>of</conj> beþit hafþi.
 		</original>
 		<translation>
 			Then the wives<sep />of the warriors came,<br />
@@ -102,17 +103,17 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Gjaflaug,<sep />Gju`ka systir:<br />
+			``Mik veitk <conj>moldar</conj><sep />munarlausasta:<br />
+			hefk fimm vera<sep />forspell beþit,<br />
+			[tveggja do/`tra,<sep />þriggja systra,]<br />
+			a`tta bro/`þra---<sep />þo` <conj>enn</conj> lifik.''
 		</original>
 		<translation>
 			Then spake Gjaflaug,<sep />Gjuki's sister:<br />
 			``Most joyless of all<sep />on earth am I;<br />
 			Husbands five<sep />were from me taken,<br />
-			(Two daughters then,<sep />and sisters three,)<br />
+			[Two daughters then,<sep />and sisters three,]<br />
 			Brothers eight,<sep />yet I have lived.''
 		</translation>
 		<comment>
@@ -123,9 +124,9 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þeygi Guþru`n<sep />gra`ta ma`tti,<br />
+			sva` vas mo`þug<sep />at mo~g dauþan<br />
+			ok harþhuguþ<sep /><conj>of</conj> hro/r fylkis.
 		</original>
 		<translation>
 			Grieving could not<sep />Guthrun weep,<br />
@@ -139,22 +140,22 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Herborg,<sep /><conj>Hu`na</conj> drottning:<br />
+			``Hefk harþara<sep />harm at segja:<br />
+			mi`nir sjau synir<sep />sunnanlands,<br />
+			verr enn a`tti<sep />i` val fellu.<br />
+			[faþir ok mo`þir,<sep />fjo`rir bro/`þr,<br />
+			þau a` va`gi<sep />vindr of le`k,<br />
+			barþi ba`ra<sep />viþ borþþili.]
 		</original>
 		<translation>
 			Then Herborg spake,<sep />the queen of the Huns:<br />
 			``I have a greater<sep />grief to tell;<br />
 			My seven sons<sep />in the southern land,<br />
 			And my husband, fell<sep />in fight all eight.<br />
-			(Father and mother<sep />and brothers four<br />
+			[Father and mother<sep />and brothers four<br />
 			Amid the waves<sep />the wind once smote,<br />
-			And the seas crashed through<sep />the sides of the ship.)
+			And the seas crashed through<sep />the sides of the ship.]
 		</translation>
 		<comment>
 			<expl>Herborg</expl>: neither she nor her sorrows are elsewhere mentioned, nor is it clear what a ``queen of the Huns'' is doing in Gunnar's home, but the word ``Hun'' has little definiteness of meaning in the poems, and is frequently applied to Sigurth himself (cf. note on stanza <sr>24</sr>).
@@ -164,10 +165,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Hro/r skyldak sjo~lf</conj><sep /><conj>ho~ndla þeira,</conj><br />
+			<conj>go~fga skyldak,</conj><sep /><conj>go~tva skyldak;</conj><br />
+			þat allt of beiþk<sep />ein misseri,<br />
+			sva`t <conj>mangi</conj> me`r<sep />munar leitaþi.
 		</original>
 		<translation>
 			The bodies all<sep />with my own hands then<br />
@@ -181,10 +182,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` varþk hapta<sep />ok hernuma<br />
+			sams misseris<sep />si`þan verþa;<br />
+			skyldak skreyta<sep />ok skua binda<br />
+			hersis kvo~`n<sep />hverjan morgin.
 		</original>
 		<translation>
 			Then bound I was,<sep />and taken in war,<br />
@@ -195,10 +196,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ho`n o/`gþi me`r<sep />af afbry`þi<br />
+			ok ho~rþum mik<sep />ho~ggum keyrþi;<br />
+			fannk hu`sguma<sep />hvergi in betra,<br />
+			en hu`sfreyju<sep />hvergi verri.''
 		</original>
 		<translation>
 			In jealous rage<sep />her wrath she spake,<br />
@@ -212,9 +213,9 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þeygi Guþru`n<sep />gra`ta ma`tti,<br />
+			sva` vas mo`þug<sep />at mo~g dauþan<br />
+			ok harþhuguþ<sep /><conj>of</conj> hro/r fylkis.
 		</original>
 		<translation>
 			Grieving could not<sep />Guthrun weep,<br />
@@ -228,10 +229,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Gollro~nd,<sep />Gju`ka do`ttir:<br />
+			``Fo~` kannt, fo`stra!<sep />þo`t fro`þ sei::r,<br />
+			ungu vi`fi<sep />andspjo~ll bera.''<br />
+			varaþi at hylja<sep /><conj>of</conj> hro/r fylkis.
 		</original>
 		<translation>
 			Then spake Gollrond,<sep />Gjuki's daughter:<br />
@@ -246,10 +247,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Svipti bla_e`ju<sep />af Sigurþi<br />
+			ok vatt vengi<sep />fyr vi`fs kne::um:<br />
+			``Li`t a` lju`fan,<sep />legg munn viþ gro~n,<br />
+			sem halsaþir<sep />heilan stilli!''
 		</original>
 		<translation>
 			The shroud she lifted<sep />from Sigurth, laying<br />
@@ -263,10 +264,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			A` leit Guþru`n<sep />einu sinni;<br />
+			sa` do~glings sko~r<sep />dreyra runna,<br />
+			fra`nar sjo`nir<sep />fylkis liþnar,<br />
+			hugborg jo~furs<sep />hjo~rvi skorna.
 		</original>
 		<translation>
 			Once alone did<sep />Guthrun look;<br />
@@ -277,9 +278,9 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` hne` Guþru`n<sep />ho~ll viþ bolstri,<br />
+			haddr losnaþi,<sep />hly`r roþnaþi,<br />
+			en regns dropi<sep />rann niþr <conj>of</conj> kne`.
 		</original>
 		<translation>
 			Then Guthrun bent,<sep />on her pillow bowed,<br />
@@ -292,10 +293,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` gre`t Guþru`n<sep />Gju`ka do`ttir,<br />
+			sva`t to~`r flugu<sep />tresk i` go/gnum,<br />
+			ok gullu viþ<sep />ga_e`ss i` tu`ni,<br />
+			ma_e`rir foglar<sep />es ma_e`r a`tti.
 		</original>
 		<translation>
 			Then Guthrun, daughter<sep />of Gjuki, wept,<br />
@@ -310,11 +311,11 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Þa` kvaþ Gollro~nd<sep />Gju`ka do`ttir:]<br />
+			``Ykkar vissak<sep />a`stir mestar<br />
+			manna allra<sep />fyr mold ofan;<br />
+			u`ti ne inni<sep />unþir hva`rki,<br />
+			systir mi`n!<sep />nema hja` Sigurþi.''
 		</original>
 		<translation>
 			Then Gollrond spake,<sep />the daughter of Gjuki:<br />
@@ -329,13 +330,13 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sva` vas minn Sigurþr<sep />hja` sunum Gju`ka,<br />
+			sem va_eri geirlaukr<sep />o`r grasi vaxinn,<br />
+			eþa va_eri bjartr steinn<sep />a` band dreginn,<br />
+			jarknasteinn<sep /><conj>of</conj> o~þlingum.
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -356,10 +357,10 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ek þo`ttak auk<sep />þjo`þans rekkum<br />
+			hverri ha_e`ri<sep />Herjans di`si;<br />
+			nu`'mk sva` li`til,<sep />sem lauf sei::<br />
+			opt i` <conj>jo~lstrum</conj><sep />at jo~fur dauþan.
 		</original>
 		<translation>
 			To the leader of men<sep />I loftier seemed<br />
@@ -373,10 +374,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Saknak i` sessi<sep />ok i` sa_e`ingu<br />
+			mi`ns ma`lvinar---<sep />valda megir Gju`ka,<br />
+			valda megir Gju`ka<sep />mi`nu <conj>bo~lvi</conj><br />
+			ok systr sinnar<sep />so~`rum gra`ti.
 		</original>
 		<translation>
 			In his seat, in his bed,<sep />I see no more<br />
@@ -387,17 +388,17 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sva` at <conj>ly`þum</conj><sep /><conj>land of</conj> eyþiþ,<br />
+			sem <conj>of</conj> unnuþ<sep />eiþa svarþa;<br />
+			<conj>muna</conj> þu`, Gunnarr!<sep />golls <conj>of</conj> njo`ta,<br />
+			[þeir munu þe`r baugar<sep />at bana verþa,]<br />
+			es Sigurþi<sep />svarþir eiþa.
 		</original>
 		<translation>
 			So shall your land<sep />its people lose<br />
 			As ye have kept<sep />your oaths of yore;<br />
 			Gunnar, no joy<sep />the gold shall give thee,<br />
-			(The rings shall soon<sep />thy slayers be,)<br />
+			[The rings shall soon<sep />thy slayers be,]<br />
 			Who swarest oaths<sep />with Sigurth once.
 		</translation>
 		<comment>
@@ -408,10 +409,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Opt vas i` tu`ni<sep />teiti meiri,<br />
+			þa`s minn Sigurþr<sep />so~þlaþi Grana,<br />
+			ok Brynhildar<sep />biþja fo`ru,<br />
+			armrar va_e`ttar,<sep />illu heilli.''
 		</original>
 		<translation>
 			In the court was greater<sep />gladness then<br />
@@ -425,10 +426,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Brynhildr<sep />Buþla do`ttir:<br />
+			``Vo~n sei:: va_e`tr su`<sep />vers ok barna,<br />
+			es þik, Guþru`n!<sep />gra`ts <conj>of</conj> beiddi<br />
+			ok i` morgin þe`r<sep />ma`lru`nar gaf!''
 		</original>
 		<translation>
 			Then Brynhild spake,<sep />the daughter of Buthli:<br />
@@ -442,19 +443,19 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Gollro~nd<sep />Gju`ka do`ttir:<br />
+			``Þegi þu`, þjo~þleiþ!<sep />þeira orþa:<br />
+			urþr o~þlinga<sep />hefr a_e` verit,<br />
+			rekr þik alda hver<sep />illrar skepnu.<br />
+			[sorg sa`ra<sep />sjau konunga<br />
+			ok vinspell<sep />vi`fa mest.]''
 		</original>
 		<translation>
 			Then Gollrond, daughter<sep />of Gjuki, spake:<br />
 			``Speak not such words,<sep />thou hated woman;<br />
 			Bane of the noble<sep />thou e'er hast been,<br />
-			(Borne thou art<sep />on an evil wave,<br />
-			Sorrow hast brought<sep />to seven kings,)<br />
+			[Borne thou art<sep />on an evil wave,<br />
+			Sorrow hast brought<sep />to seven kings,]<br />
 			And many a woman<sep />hast loveless made.''
 		</translation>
 		<comment>
@@ -464,22 +465,22 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ Brynhildr<sep />Buþla do`ttir:<br />
+			``Veldr einn Atli<sep />o~llu bo~lvi,<br />
+			[of borinn Buþla,<sep />bro`þir minn,]<br />
+			es i` ho~llu vit<sep />hunskrar þjo`þar<br />
+			eld a` jo~fri<sep />ormbeþs litum.<br />
+			[þess hefk gangs<sep />goldit si`þan,<br />
+			þeirar sy`nar<sep /><conj>ek</conj> so~umk ey.]''
 		</original>
 		<translation>
 			Then Brynhild, daughter<sep />of Buthli, spake:<br />
 			``Atli is guilty<sep />of all the sorrow,<br />
-			(Son of Buthli<sep />and brother of mine,)<br />
+			[Son of Buthli<sep />and brother of mine,]<br />
 			When we saw in the hall<sep />of the Hunnish race<br />
 			The flame of the snake's bed<sep />flash round the hero;<br />
-			(For the journey since<sep />full sore have I paid,<br />
-			And ever I seek<sep />the sight to forget.)''
+			[For the journey since<sep />full sore have I paid,<br />
+			And ever I seek<sep />the sight to forget.]''
 		</translation>
 		<comment>
 			The stanza is obviously in bad shape; perhaps it represents two separate stanzas, or perhaps three of the lines are later additions.
@@ -495,10 +496,10 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sto`þ ho`n und stoþ,<sep />strengþi <conj>efli,</conj><br />
+			brann Brynhildi<sep />Buþla do`ttur<br />
+			eldr o`r augum,<sep />eitri fno/`sti,<br />
+			es so~`r <conj>of</conj> leit<sep />a` Sigurþi.
 		</original>
 		<translation>
 			By the pillars she stood,<sep />and gathered her strength,<br />
@@ -507,17 +508,18 @@
 			When the wounds she saw<sep />on Sigurth then.
 		</translation>
 	</block>
-	<block class="prose">
+	<block class="prose" label="conclusion">
 		<original>
-			<br />
-			<br />
-			<br />
+			<conj>Guþru`n</conj> gekk þaþan a` braut til sko`gar a` eyþimerkr ok fo`r allt til Danmarkar ok var þar meþ Þo`ru Ha`konardo`ttur sjau misseri.<br />
+			Brynhildr vildi eigi lifa eptir Sigurþ.<br />
+			Hon le`t drepa þra_ela si`na a`tta ok fimm ambo`ttir.<br />
+			Þa` lagþi hon sik sverþi til bana, sva` sem segir i` Sigurþarkviþu enni sko~mmu.
 		</original>
 		<translation>
 			Guthrun went thence away to a forest in the waste, and journeyed all the way to Denmark, and was there seven half-years with Thora, daughter of Hokon.<br />
 			Brynhild would not live after Sigurth.<br />
 			She had eight of her thralls slain and five serving-women.<br />
-			Then she killed her self with a sword, as is told in the Short Lay of Sigurth.
+			Then she killed herself with a sword, as is told in the Short Lay of Sigurth.
 		</translation>
 		<comment>
 			The manuscript has ``Gunnar'' in place of ``Guthrun,'' but this is an obvious mistake; the entire prose passage is based on <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">14</stanzaref>.
