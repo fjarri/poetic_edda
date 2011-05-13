@@ -325,3 +325,6 @@ Tasks for distant future
   (this may help to avoid uneven cell spacing)
 * Probably make second-level square brackets bold
   (see how it's done in Sigrdrifumol in Gering source)
+* Check the style of "Some chapter II" references throughout the Bellows' book:
+  sometimes "II" are in italics (introduction to Guthrunarkvitha I),
+  sometimes not.
