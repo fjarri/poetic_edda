@@ -1,7 +1,7 @@
 <chapter label="Sigurtharkvitha en skamma">
 	<block class="eddachapter">
 		<original>
-
+			Sigurþarkviþa en skamma
 		</original>
 		<transliteration>
 			Sigurtharkvitha en skamma
@@ -36,10 +36,10 @@
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			A`r vas þats Sigurþr<sep />so`tti Gju`ka,<br />
+			Vo~lsungr ungi,<sep />es vegit hafþi;<br />
+			to`k viþ trygþum<sep />tveggja bro/`þra,<br />
+			seldusk eiþa<sep />eljunfro/`knir.
 		</original>
 		<translation>
 			Of old did Sigurth<sep />Gjuki seek,<br />
@@ -56,10 +56,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Mey buþu ho~`num<sep />ok meiþma fjo~lþ,<br />
+			Guþru`nu ungu,<sep />Gju`ka do`ttur;<br />
+			drukku ok do/`mþu<sep />do/`gr mart saman<br />
+			Sigurþr ungi<sep />ok synir Gju`ka.
 		</original>
 		<translation>
 			A maid they gave him,<sep />and jewels many,<br />
@@ -70,15 +70,15 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Unz Brynhildar<sep />biþja fo`ru,<br />
+			sva`t þeim Sigurþr<sep />reiþ i` sinni,<br />
+			Vo~lsungr ungi,<sep />ok vega kunni---<br />
+			hann <conj>of</conj> a_e`tti,<sep />ef eiga kna_e`tti.
 		</original>
 		<translation>
 			Thereafter went they<sep />Brynhild to woo,<br />
 			And so with them<sep />did Sigurth ride,<br />
-			The Volsung young,<sep />in battle valiant,--<br />
+			The Volsung young,<sep />in battle valiant,---<br />
 			Himself would have had her<sep />if all he had seen.
 		</translation>
 		<comment>
@@ -88,16 +88,16 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Seggr suþro/`ni<sep /><conj>le`t</conj> sverþ no/kkvit,<br />
+			ma_e`ki ma`lfa`n,<sep />a` meþal þeira,<br />
+			[ne` hann konu<sep />kyssa go/rþi,]<br />
+			ne` hunskr konungr<sep /><conj>ho`fsk</conj> at armi<br />
+			mey frumunga<sep />fal megi Gju`ka.
 		</original>
 		<translation>
 			The southern hero<sep />his naked sword,<br />
 			Fair-flashing, let<sep />between them lie;<br />
-			(Nor would he come<sep />the maid to kiss;)<br />
+			[Nor would he come<sep />the maid to kiss;]<br />
 			The Hunnish king<sep />in his arms ne'er held<br />
 			The maiden he gave<sep />to Gjuki's sons.
 		</translation>
@@ -110,10 +110,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hon at li`fi se`r<sep />lo~st ne` vissi<br />
+			ok at aldrlagi<sep />etki grand,<br />
+			vamm þats va_e`ri<sep />eþa vesa hygþi;---<br />
+			gengu a` milli<sep />grimmar urþir.
 		</original>
 		<translation>
 			Ill she had known not<sep />in all her life,<br />
@@ -128,10 +128,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ein sat u`ti<sep />aptan dags,<br />
+			nam sva` <conj>allbra`tt</conj><sep />umb at ma_e`lask:<br />
+			``Hafa skalk Sigurþ,<sep />eþa þo` svelti,<br />
+			mo~g frumungan<sep />me`r a` armi.
 		</original>
 		<translation>
 			By herself at the end<sep />of day she sat,<br />
@@ -148,9 +148,9 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Orþ ma_e`ltak nu`---<sep />iþrumk eptir;<br />
+			kvo~`n's hans Guþru`n,<sep />en ek Gunnars;<br />
+			<conj>ljo`t norn sko`pumk</conj><sep />langa þro~`.''
 		</original>
 		<translation>
 			The word I have spoken;<sep />soon shall I rue it,<br />
@@ -163,10 +163,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Opt gengr innan<sep />ills <conj>of</conj> fyld<br />
+			i`sa ok jo~kla<sep />aptan hverjan,<br />
+			es þau Guþru`n<sep />ganga a` beþ<br />
+			auk hana Sigurþr<sep />sveipr i` ripti.
 		</original>
 		<translation>
 			Oft did she go<sep />with grieving heart<br />
