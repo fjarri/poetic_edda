@@ -180,13 +180,13 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``[Nu` mun Gju`ka do`ttur<sep />a` gamanþingi,]<br />
+			konungr enn hunski<sep />kvo~`n fria si`na;<br />
+			vo~n gengk vilja<sep />ok vers beggja,<br />
+			verþk mik go/`la<sep />af grimmum hug.''
 		</original>
 		<translation>
-			``(Now Gjuki's child<sep />to her lover goes,)<br />
+			``[Now Gjuki's child<sep />to her lover goes,]<br />
 			And the Hunnish king<sep />with his wife is happy;<br />
 			Joyless I am<sep />and mateless ever,<br />
 			Till cries from my heavy<sep />heart burst forth.''
@@ -200,10 +200,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Nam af heiptum þeim<sep />hvetjask at vi`gi:<br />
+			``Þu` skalt, Gunnarr!<sep />go/rst <conj>of</conj> la`ta<br />
+			mi`nu landi<sep />ok me`r sjalfri,<br />
+			munk una aldri<sep />meþ o~þlingi.
 		</original>
 		<translation>
 			In her wrath to battle<sep />she roused herself:<br />
@@ -217,18 +217,18 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Munk aptr fara<sep />þars a`þan vask,<br />
+			meþ na`bornum<sep />niþjum mi`num;<br />
+			þar munk sitja<sep />ok sofa li`fi,<br />
+			nema þu` Sigurþ<sep />svelta la`tir<br />
+			[ok jo~fur o~þrum<sep />o/`þri verþir.]
 		</original>
 		<translation>
 			Back shall I fare<sep />where first I dwelt,<br />
 			Among the kin<sep />that come of my race,<br />
 			To wait there, sleeping<sep />my life away,<br />
 			If Sigurth's death<sep />thou shalt not dare,<br />
-			(And best of heroes<sep />thou shalt not be.)
+			[And best of heroes<sep />thou shalt not be.]
 		</translation>
 		<comment>
 			Line 5, or perhaps line 3, may be interpolated.
@@ -236,10 +236,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Lo~`tum sun fara<sep />feþr i` sinni,<br />
+			skalat ulf ala<sep />ungan lengi;<br />
+			hveim verþr ho~lþa<sep />hefnd <conj>le`ttara</conj><br />
+			si`þan til sa`tta,<sep />at sunr <conj>lifit.</conj>''
 		</original>
 		<translation>
 			The son shall fare<sep />with his father hence,<br />
@@ -253,22 +253,22 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Hryggr</conj> varþ Gunnarr<sep />ok hnipnaþi,<br />
+			sveip si`num hug,<sep />sat allan dag:<br />
+			hann vissi þat<sep />vilgi go~rla,<br />
+			hvat ho~num va_e`ri<sep />vinna so/`mst<br />
+			[eþa ho~num va_e`ri<sep />vinna bazt,<br />
+			alls <conj>Vo~lsungi</conj><sep /><conj>vissisk</conj> firþan<br />
+			auk at Sugurþ<sep />so~knuþ mikinn.]
 		</original>
 		<translation>
 			Sad was Gunnar,<sep />and bowed with grief,<br />
 			Deep in thought<sep />the whole day through;<br />
 			Yet from his heart<sep />it was ever hid<br />
 			What deed most fitting<sep />he should find,<br />
-			(Or what thing best<sep />for him should be,<br />
+			[Or what thing best<sep />for him should be,<br />
 			Or if he should seek<sep />the Volsung to slay,<br />
-			For with mighty longing<sep />Sigurth he loved.)
+			For with mighty longing<sep />Sigurth he loved.]
 		</translation>
 		<comment>
 			This stanza has been the subject of many conjectural emendations.
@@ -279,30 +279,30 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Y`mist hugþi<sep />jafnlanga stund:<br />
+			þat vas eigi<sep />a`rar ti`tt,<br />
+			at fra` konungdo`m<sep />kva`nir gengi;<br />
+			Nam se`r Ho~gna<sep />heita at ru`num<br />
+			[þar a`tti hann<sep />alls fulltrua:]
 		</original>
 		<translation>
 			Much he pondered<sep />for many an hour;<br />
 			Never before<sep />was the wonder known<br />
 			That a queen should thus<sep />her kingdom leave;<br />
 			In counsel then<sep />did he Hogni call,<br />
-			(For him in truest<sep />trust he held.)
+			[For him in truest<sep />trust he held.]
 		</translation>
 		<comment>
-			Bugge and Gering transfer lines 4--5 to the beginning of stanza <sr>16</sr>, on the basis of the Volsungasaga paraphrase, and assume a gap of one line after line 3.
+			Bugge and Gering transfer lines 4--5 to the beginning of stanza <sr>16</sr>, on the basis of the <src>Volsungasaga</src> paraphrase, and assume a gap of one line after line 3.
 			Line 5, which is in the nature of a stereotyped clause, may well be interpolated.
 		</comment>
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ein's me`r Brynhildr<sep />o~llum betri,<br />
+			<conj>of</conj> borin Buþla,<sep />ho`n's bragr kvenna;<br />
+			fyrr skalk mi`nu<sep />fjo~rvi la`ta,<br />
+			an meyjar þeirar<sep /><conj>munugþ</conj> ty`na.
 		</original>
 		<translation>
 			``More than all<sep />to me is Brynhild,<br />
@@ -317,10 +317,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vildu okkr fylki<sep />til fear ve`la?<br />
+			gott's at ra`þa<sep />Ri`nar malmi,<br />
+			ok unandi<sep />auþi sty`ra<br />
+			[ok sitjandi<sep />sa_e`lu njo`ta].''
 		</original>
 		<translation>
 			Wilt thou the hero<sep />for wealth betray?<br />
@@ -337,10 +337,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Einu þvi` Ho~gni<sep />andsvo~r veitti:<br />
+			``Samir eigi okkr<sep />sli`kt at vinna,<br />
+			sverþi rofna<sep />svarna eiþa,<br />
+			eiþa svarna,<sep />unnar trygþir.
 		</original>
 		<translation>
 			Few the words<sep />of Hogni were:<br />
@@ -351,10 +351,10 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vituma a` moldu<sep />menn in sa_e`lli,<br />
+			meþan fjo`rir ve`r<sep />folki ro~`þum<br />
+			auk sa enn hunski<sep />herbaldr lifir,<br />
+			ne` in ma_e`tri<sep />ma_e`gþ a` <conj>foldu;</conj>
 		</original>
 		<translation>
 			We know no mightier<sep />men on earth<br />
@@ -372,10 +372,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[ef ve`r fimm sunu<sep />fo/`þum lengi,<br />
+			<conj>o~`tt of</conj> go`þa<sep />o/`xla kna_e`ttim.]<br />
+			Ek veit go~rla,<sep />hvaþan vegir standa---<br />
+			eru Brynhildar<sep />brek ofmikil.''
 		</original>
 		<translation>
 			If sons we five<sep />shall soon beget,<br />
@@ -391,13 +391,13 @@
 	</block>
 	<block class="stanza" number="20">
 		<original_prelude>
-
+			Gunnarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vit skulum Gotþorm<sep />go/rva at vi`gi,<br />
+			yngra bro`þur,<sep />o`fro`þara;<br />
+			hann vas fyr u`tan<sep />eiþa svarna,<br />
+			eiþa svarna,<sep />unnar trygþir.''
 		</original>
 		<translation_prelude>
 			Gunnar spake:
@@ -417,9 +417,9 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<br />
-			<sep />
+			Da_e`lt vas at eggja<sep />o`bilgjarnan<br />
+			<lacuna><sep /><lacuna /><br />
+			sto`þ til hjarta<sep />hjo~rr Sigurþi.
 		</original>
 		<translation>
 			It was easy to rouse<sep />the reckless one.<br />
