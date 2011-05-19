@@ -287,13 +287,25 @@ Guthrunarkvitha I (13 May 2011)
 * Added Guthrunarkvitha I chapter;
 * General Introduction: fixed reference to Guthrunarkvitha
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Sigurtharkivtha en skamma (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sigurtharkivtha en skamma (19 May 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Sigurtharkivtha en skamma chapter
+* Added Sigurtharkivtha en skamma chapter;
 * Vafthruthnismol, 27: removed redundant indent from the phrase
   separating two inline stanzas
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helreith Brynhildar (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Helreith Brynhildar chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Drap Niflunga (planned)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Drap Niflunga chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
