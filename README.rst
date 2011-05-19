@@ -299,6 +299,7 @@ Sigurtharkivtha en skamma (19 May 2011)
 Helreith Brynhildar (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Sigurtharkvitha en skamma: fixed case in the title;
 * General Introduction: fixed incorrect reference to Grottasongr;
 * Add Helreith Brynhildar chapter
 

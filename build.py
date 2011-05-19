@@ -494,7 +494,8 @@ def printText(block):
 
 def printEddaChapterHeader(block):
 	return u"\\eddachapter{" + block.find('transliteration').text + \
-		u"}{" + block.find('translation').text + u"}"
+		u"}{" + block.find('translation').text + \
+		u"}{" + current_label + u"}"
 
 def printChapterHeader(block):
 	return u"\\eddasimplechapter{" + block.text + u'}'
@@ -559,6 +560,9 @@ if __name__ == '__main__':
 
 		root = tree.getroot()
 		deprettify(root)
+
+		global current_label
+		current_label = root.attrib['label']
 
 		res = ""
 

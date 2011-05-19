@@ -222,12 +222,12 @@
 % ======================================================================
 % Chapter macro
 
-\newcommand{\eddachapter}[2]{
+\newcommand{\eddachapter}[3]{
 	\addchap[#1 (#2)]{#1}
 	\vskip -\baselineskip
 	{\Large\sffamily #2}
 	\vskip 2\baselineskip
-	\renewcommand{\eddachapterlabel}{cha:#1}
+	\renewcommand{\eddachapterlabel}{cha:#3}
 	\label{\eddachapterlabel}
 }
 
