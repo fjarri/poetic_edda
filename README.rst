@@ -292,6 +292,8 @@ Sigurtharkivtha en skamma (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Add Sigurtharkivtha en skamma chapter
+* Vafthruthnismol, 27: removed redundant indent from the phrase
+  separating two inline stanzas
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future

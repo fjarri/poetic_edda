@@ -466,7 +466,10 @@ def listToTex(l):
 
 			# don't insert \noindent if it is the last tag in paragraph,
 			# or if two inline stanzas are located next to each other
-			if not (i < len(l) - 2 and l[i + 2][1] == 'textstanza') and \
+			# (but check for cases if two <textstanzas> are separated by
+			# a piece of text --- then it needs \noindent)
+			if not (i < len(l) - 2 and l[i + 2][1] == 'textstanza' and
+					(l[i + 1][0] is None or l[i + 1][0] == u' ')) and \
 					not i == len(l) - 1:
 				res[-1] += u'\\noindent'
 
