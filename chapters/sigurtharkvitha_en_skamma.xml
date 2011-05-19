@@ -259,7 +259,7 @@
 			hvat ho~num va_e`ri<sep />vinna so/`mst<br />
 			[eþa ho~num va_e`ri<sep />vinna bazt,<br />
 			alls <conj>Vo~lsungi</conj><sep /><conj>vissisk</conj> firþan<br />
-			auk at Sugurþ<sep />so~knuþ mikinn.]
+			auk at Sigurþ<sep />so~knuþ mikinn.]
 		</original>
 		<translation>
 			Sad was Gunnar,<sep />and bowed with grief,<br />
@@ -282,7 +282,7 @@
 			Y`mist hugþi<sep />jafnlanga stund:<br />
 			þat vas eigi<sep />a`rar ti`tt,<br />
 			at fra` konungdo`m<sep />kva`nir gengi;<br />
-			Nam se`r Ho~gna<sep />heita at ru`num<br />
+			nam se`r Ho~gna<sep />heita at ru`num<br />
 			[þar a`tti hann<sep />alls fulltrua:]
 		</original>
 		<translation>
@@ -385,7 +385,7 @@
 		</translation>
 		<comment>
 			<expl>We five</expl>: see note on preceding stanza.
-			Some editors mark lines 1--2 as spurious, and either assume a gap of two lines after line 4 or combine lines 5--4 with stanza <sr>20</sr>.
+			Some editors mark lines 1--2 as spurious, and either assume a gap of two lines after line 4 or combine lines 3--4 with stanza <sr>20</sr>.
 			<expl>Whence lead the ways</expl>: a proverbial expression signifying ``whence the trouble comes.''
 		</comment>
 	</block>
@@ -451,7 +451,7 @@
 	<block class="stanza" number="23">
 		<original>
 			Hne` hans <conj>of</conj>dolgr<sep />til hluta tveggja<br />
-			hendr ok haufuþ<sep />hve` annan veg,<br />
+			hendr ok haufuþ<sep />hne` annan veg,<br />
 			en fo`tahlutr<sep />fell aptr i` staþ.
 		</original>
 		<translation>
@@ -517,7 +517,7 @@
 	<block class="stanza" number="27">
 		<original>
 			Ri`þra þeim si`þan,<sep />þo`t sjau alir,<br />
-			systursunur<sep />sli`kr at þingi;<br />
+			systursunr<sep />sli`kr at þingi;<br />
 			ek veit go~rla,<sep />hvi` gegnir nu`:<br />
 			ein veldr Brynhildr<sep />o~llu bo~lvi.
 		</original>
@@ -585,7 +585,7 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			[Hitt kvaþ þa` Gunnarr,<sep />gramr <conj>ho~g</conj>stalda:<br />
+			[Hitt kvaþ þa` Gunnarr,<sep />gramr <conj>ho~g</conj>stalda:]<br />
 			``Hla_e`rat af þvi`,<sep />heiptgjo~rn kona!<br />
 			a` golfi glo~þ,<sep />at þe`r go`þs viti!<br />
 			hvi` hafnar þu`<sep />enum hvi`ta lit,<br />
@@ -773,7 +773,7 @@
 			Le`tum si`ga<sep />sa`ttmo~`l okkur,<br />
 			le`k mer meirr i` mun<sep />meiþmar þiggja,<br />
 			bauga rauþa<sep />burar Sigmundar,<br />
-			ne` annars manns aura vildak.]<sep />
+			ne` annars manns<sep />aura vildak.]
 		</original>
 		<translation>
 			But the bond at last<sep />I let be made,<br />
@@ -803,7 +803,7 @@
 	<block class="asterisks" />
 	<block class="stanza" number="41">
 		<original>
-			``at þeygi skal<sep />þunngeþ kona<br />
+			``At þeygi skal<sep />þunngeþ kona<br />
 			annarrar ver<sep />aldri leiþa<br />
 			<lacuna /><sep /><lacuna /><br />
 			<dagger /> þa` mun a` hefndum<sep />harma minna.''
@@ -843,9 +843,9 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			hratt af halsi<sep /><conj>hveim</conj> þar se`r,<br />
-			le`ta <conj>letjask</conj><sep />langrar go~ngu.<br />
-			[Nam se`r Ho~gna<sep /><conj>heita</conj> at ru`num:]<br />
+			Hratt af halsi<sep /><conj>hveim</conj> þar se`r,<br />
+			le`ta <conj>letjask</conj><sep />langrar go~ngu;<br />
+			[nam se`r Ho~gna<sep /><conj>heita</conj> at ru`num:]<br />
 			``[Þa` lo~`tum þvi`<sep />þarfar ra`þa.]
 		</original>
 		<translation>
@@ -1249,7 +1249,7 @@
 			Biþja munk þik<sep />bo/`nar einnar,<br />
 			su` mun i` heimi<sep />hinzt bo/`n vesa:<br />
 			la`t sva` breiþa<sep />borg a` velli,<br />
-			at und oss o~llum<sep /><br />jafnru`mt sei::
+			at und oss o~llum<sep />jafnru`mt sei::<br />
 			[þeim es sultu<sep />meþ Sigurþi.]
 		</original>
 		<translation>
@@ -1355,7 +1355,7 @@
 	<block class="stanza" number="69">
 		<original>
 			Þvi`t ho~num fylgja<sep />fimm ambo`ttir,<br />
-			atta þjo`nar<sep />o/þlum go`þir,<br />
+			a`tta þjo`nar<sep />o/þlum go`þir,<br />
 			fo`strman mitt<sep />ok faþerni<br />
 			þats Buþli gaf<sep />barni si`nu.
 		</original>
@@ -1371,7 +1371,7 @@
 	</block>
 	<block class="stanza" number="70">
 		<original>
-			Mart sagþak þe`r,<sep />mundak fleira,<br />
+			Mart sagþak <conj>þe`r,</conj><sep />mundak fleira,<br />
 			<conj>ef</conj> meirr mjo~tuþr<sep />ma`lru`m ga_e`fi;<br />
 			o`mun þverr,<sep />undir svella,<br />
 			satt eitt sagþak,<sep />sva` munk la`ta.''
