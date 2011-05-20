@@ -301,6 +301,7 @@ Helreith Brynhildar and Drap Niflunga (planned)
 
 * Sigurtharkvitha en skamma: fixed case in the title;
 * General Introduction: fixed incorrect reference to Grottasongr;
+* Sigrdrifumol, introduction: fixed typo in reference to Helreith Brynhildar;
 * Add Helreith Brynhildar chapter
 * Add Drap Niflunga chapter
 
