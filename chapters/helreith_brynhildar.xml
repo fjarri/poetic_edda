@@ -1,0 +1,303 @@
+<chapter label="Helreith Brynhildar">
+	<block class="eddachapter">
+		<original>
+
+		</original>
+		<transliteration>
+			Helreith Brynhildar
+		</transliteration>
+		<translation>
+			Brynhild's Hell-Ride
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
+	</block>
+	<block class="text">
+		The little <cr>Helreith Brynhildar</cr> immediately follows the ``short'' Sigurth lay in the <src>Codex Regius</src>, being linked to it by the brief prose note; the heading, ``Brynhild's Ride on Hel-Way,'' stands just before the first stanza.
+		The entire poem, with the exception of stanza <sr>6</sr>, is likewise quoted in the <src>Nornageststhattr</src>.
+		Outside of one stanza (No. <sr>11</sr>), which is a fairly obvious interpolation, the poem possesses an extraordinary degree of dramatic unity, and, certain pedantic commentators notwithstanding, it is one of the most vivid and powerful in the whole collection.
+		None the less, it has been extensively argued that parts of it belonged originally to the so-called <sr>Sigrdrifumol</sr>.
+		That it stands in close relation to this poem is evident enough, but it is difficult to believe that such a masterpiece of dramatic poetry was ever the result of mere compilation.
+		It seems more reasonable to regard the <chapterref chapter="Helreith Brynhildar">Helreith</chapterref>, with the exception of stanza <sr>11</sr> and allowing for the loss of two lines from stanza <sr>6</sr>, as a complete and carefully constructed unit, based undoubtedly on older poems, but none the less an artistic creation in itself.
+	</block>
+	<block class="text">
+		The poem is generally dated as late as the eleventh century, and the concluding stanza betrays Christian influence almost unmistakably.
+		It shows the confusion of traditions manifest in all the later poems; for example, Brynhild is here not only a Valkyrie but also a swan-maiden. Only three stanzas have any reference to the Guthrun-Gunnar part of the story; otherwise the poem is concerned solely with the episode of Sigurth's finding the sleeping Valkyrie.
+		Late as it is, therefore, it is essentially a Norse creation, involving very few of the details of the German cycle (cf. introductory note to <sr>Gripisspo</sr>).
+	</block>
+	<block class="sepline" />
+	<block class="prose" label="p1">
+		<original>
+			<br />
+			<br />
+		</original>
+		<translation>
+			After the death of Brynhild there were made two bale-fires, the one for Sigurth, and that burned first, and on the other was Brynhild burned, and she was on a wagon which was covered with a rich cloth.<br />
+			Thus it is told, that Brynhild went in the wagon on Hel-way, and passed by a house where dwelt a certain giantess.<br />
+			The giantess spake:
+		</translation>
+		<comment>
+			The prose follows the last stanza of <chapterref>Sigurtharkvitha en skamma</chapterref> without break.
+			<expl>Two bale-fires</expl>: this contradicts the statement made in the concluding stanzas of <chapterref>Sigurtharkvitha en skamma</chapterref>, that Sigurth and Brynhild were burned on the same pyre; there is no evidence that the annotator here had anything but his own mistaken imagination to go on.
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Thou shalt not further<sep />forward fare,<br />
+			My dwelling ribbed<sep />with rocks across;<br />
+			More seemly it were<sep />at thy weaving to stay,<br />
+			Than another's husband<sep />here to follow.
+		</translation>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			What wouldst thou have<sep />from Valland here,<br />
+			Fickle of heart,<sep />in this my house?<br />
+			Gold-goddess, now,<sep />if thou wouldst know,<br />
+			Heroes' blood<sep />from thy hands hast washed.''
+		</translation>
+		<comment>
+			<expl>Valland</expl>: this name (``Land of Slaughter'') is used else where of mythical places; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">24</stanzaref>, and prose introduction to <chapterref>Völundarkvitha</chapterref>; it may here not be a proper name at all.
+			<expl>Gold-goddess</expl>: poetic circumlocution for ``woman.''
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Brynhild spake:
+		</translation_prelude>
+		<translation>
+			``Chide me not, woman<sep />from rocky walls,<br />
+			Though to battle once<sep />I was wont to go;<br />
+			Better than thou<sep />I shall seem to be,<br />
+			When men us two<sep />shall truly know.''
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			The giantess spake:
+		</translation_prelude>
+		<translation>
+			``Thou wast, Brynhild,<sep />Buthli's daughter,<br />
+			For the worst of evils<sep />born in the world;<br />
+			To death thou hast given<sep />Gjuki's children,<br />
+			And laid their lofty<sep />house full low.''
+		</translation>
+	</block>
+	<block class="stanza" number="5">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Brynhild spake:
+		</translation_prelude>
+		<translation>
+			``Truth from the wagon<sep />here I tell thee,<br />
+			Witless one,<sep />if know thou wilt<br />
+			How the heirs of Gjuki<sep />gave me to be<br />
+			joyless ever,<sep />a breaker of oaths.
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			"Hild the helmed<sep />in Hlymdalir<br />
+			They named me of old,<sep />all they who knew me.<br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			In <src>Regius</src> these two lines stand after stanza <sr>7</sr>, but most editions; place them as here.
+			They are not quoted in the <src>Nornageststhattr</src>.
+			Presumably two lines, and perhaps more, have been lost.
+			It has frequently been argued that all or part of the passage from stanza <sr>6</sr> through stanza <sr>10</sr> (<sr>6</sr>--<sr>10</sr>, <sr>7</sr>--<sr>10</sr> or <sr>8</sr>--<sr>10</sr>) comes originally from the so-called <chapterref>Sigrdrifumol</chapterref>, where it would undoubtedly fit exceedingly well.
+			<expl>Hild</expl>: a Valkyrie name meaning ``Fighter'' (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref>).
+			In such compound names as Brynhild (``Fighter in Armor'') the first element was occasionally omitted.
+			<expl>Hlymdalir</expl> (``Tumult-Dale''): a mythical name, merely signifying the place of battle as the home of Valkyries.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``The monarch bold<sep />the swan-robes bore<br />
+			Of the sisters eight<sep />beneath an oak;<br />
+			Twelve winters I was,<sep />if know thou wilt,<br />
+			When oaths I yielded<sep />the king so young.
+		</translation>
+		<comment>
+			Regarding the identification of swan-maidens with Valkyries, and the manner in which men could get them in their power by stealing their swan-garments, cf. <chapterref>Völundarkvitha</chapterref>, <proseref chapter="Völundarkvitha" prose="p1">introductory prose</proseref> and note, where the same thing happens.
+			<expl>The monarch</expl>: perhaps Agnar, brother of Autha, mentioned in <chapterref>Sigrdrifumol</chapterref> (<proseref chapter="Sigrdrifumol" prose="p5_1">prose and quoted verse</proseref> following stanza <stanzaref chapter="Sigrdrifumol">4</stanzaref>) as the warrior for whose sake Brynhild defied Othin in slaying Hjalmgunnar.
+			<expl>Eight</expl>: the <src>Nornageststhattr</src> manuscripts have ``sisters of Atli'' instead of ``sisters eight.''
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Next I let<sep />the leader of Goths,<br />
+			Hjalmgunnar the old,<sep />go down to hell,<br />
+			And victory brought<sep />to Autha's brother;<br />
+			For this was Othin's<sep />anger mighty.
+		</translation>
+		<comment>
+			<expl>Hjalmgunnar</expl>: regarding this king of the Goths (the phrase means little) and his battle with Agnar, brother of <expl>Autha</expl> cf. <chapterref>Sigrdrifumol</chapterref>, <proseref chapter="Sigrdrifumol" prose="p5_1">prose after stanza 4</proseref>.
+			One <src>Nornageststhattr</src> manuscript has ``brother of the giantess'' in place of ``leader of Goths.''
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			He beset me with shields<sep />in Skatalund,<br />
+			Red and white,<sep />their rims o'erlapped;<br />
+			He bade that my sleep<sep />should broken be<br />
+			By him who fear<sep />had nowhere found.
+		</translation>
+		<comment>
+			Cf. <chapterref>Sigrdrifumol</chapterref>, <proseref chapter="Sigrdrifumol" prose="p1">prose introduction</proseref>.
+			<expl>Skatalund</expl> (``Warriors' Grove''): a mythical name; elsewhere the place where Brynhild lay is called Hindarfjoll.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			He let round my hall,<sep />that southward looked,<br />
+			The branches' foe<sep />high-leaping burn;<br />
+			Across it he bade<sep />the hero come<br />
+			Who brought me the gold<sep />that Fafnir guarded.
+		</translation>
+		<comment>
+			<expl>Branches' foe</expl>: fire.
+			Regarding the treasure cf. <chapterref>Fafnismol</chapterref>.
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			On Grani rode<sep />the giver of gold,<br />
+			Where my foster-father<sep />ruled his folk;<br />
+			Best of all<sep />he seemed to be,<br />
+			The prince of the Danes,<sep />when the people met.
+		</translation>
+		<comment>
+			This stanza is presumably an interpolation, reflecting a different version of the story, wherein Sigurth meets Brynhild at the home of her brother-in-law and foster-father, Heimir (cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">19</stanzaref> and <stanzaref chapter="Gripisspo">27</stanzaref>).
+			<expl>Grani</expl>: Sigurth's horse.
+			<expl>Danes</expl>: nowhere else does Sigurth appear in this capacity.
+			Perhaps this is a curious relic of the Helgi tradition.
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Happy we slept,<sep />one bed we had,<br />
+			As he my brother<sep />born had been;<br />
+			Eight were the nights<sep />when neither there<br />
+			Loving hand<sep />on the other laid.
+		</translation>
+		<comment>
+			<expl>Eight nights</expl>: elsewhere (cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">42</stanzaref>) the time is stated as three nights, not eight.
+			There is a confusion of traditions here, as in <chapterref>Gripisspo</chapterref>.
+			In the version of the story wherein Sigurth met Brynhild before he encountered the Gjukungs, Sigurth was bound by no oaths, and the union was completed; it is only in the alternative version that the episode of the sword laid between the two occurs.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Yet Guthrun reproached me,<sep />Gjuki's daughter,<br />
+			That I in Sigurth's<sep />arms had slept;<br />
+			Then did I hear<sep />what I would were hid,<br />
+			That they had betrayed me<sep />in taking a mate.
+		</translation>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Ever with grief<sep />and all too long<br />
+			Are men and women<sep />born in the world;<br />
+			But yet we shall live<sep />our lives together,<br />
+			Sigurth and I.<sep />Sink down, Giantess!''
+		</translation>
+		<comment>
+			The idea apparently conveyed in the concluding lines, that Sigurth and Brynhild will be together in some future life, is utterly out of keeping with the Norse pagan traditions, and the whole stanza indicates the influence of Christianity.
+		</comment>
+	</block>
+</chapter>
