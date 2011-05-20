@@ -1,7 +1,7 @@
 <chapter label="Helreith Brynhildar">
 	<block class="eddachapter">
 		<original>
-
+			Helreiþ Brynhildar
 		</original>
 		<transliteration>
 			Helreith Brynhildar
@@ -29,8 +29,9 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
+			Eptir dauþa Brynhildar va`ru go~r ba`l tvau, annat Sigurþi, ok brann þat fyrr, en Brynhildr var a` o~þru brend, ok var hon i` reiþ þeiri er guþvefjum var tjo~lduþ.<br />
+			Sva` er sagt, at Brynhildr o`k meþ reiþinni a` helveg ok fo`r um tu`n, þar er gy`gr no~kkur bjo`.<br />
+			Gy`grin kvaþ:
 		</original>
 		<translation>
 			After the death of Brynhild there were made two bale-fires, the one for Sigurth, and that burned first, and on the other was Brynhild burned, and she was on a wagon which was covered with a rich cloth.<br />
@@ -44,10 +45,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Skalt i` go/gnum<sep />ganga eigi<br />
+			grjo`ti studda<sep />garþa mi`na;<br />
+			betr semþi þe`r<sep />borþa at rekja,<br />
+			heldr an vitja<sep />vers annarrar.
 		</original>
 		<translation>
 			``Thou shalt not further<sep />forward fare,<br />
@@ -58,10 +59,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hvat skalt vitja<sep />af Vallandi,<br />
+			hvarfu`st ho~fuþ!<sep />hu`sa minna?<br />
+			þu` hefr, vo~`r golls!<sep />ef vita lystir,<br />
+			mild, af ho~ndum<sep />manns blo`þ þvegit.''
 		</original>
 		<translation>
 			What wouldst thou have<sep />from Valland here,<br />
@@ -76,13 +77,13 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			Brynhildr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Bregþ eigi me`r,<sep />bru`þr o`r steini!<br />
+			þo`t va_e`rak fyrr<sep />i` vi`kingu;<br />
+			ek mun okkur<sep />o/`þri þykkja,<br />
+			hvars o/þli menn<sep />okkart kunnu.''
 		</original>
 		<translation_prelude>
 			Brynhild spake:
@@ -96,13 +97,13 @@
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-
+			Gy`gr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þu` vast, Brynhildr<sep />Buþla do`ttir!<br />
+			heilli verstu<sep />i` heim borin;<br />
+			þu` hefr Gju`ka<sep />of glatat bo~rnum<br />
+			ok bui:: þeira<sep />brugþit go`þu.''
 		</original>
 		<translation_prelude>
 			The giantess spake:
@@ -116,13 +117,13 @@
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-
+			Brynhildr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Munk segja þe`r<sep />svinn o`r reiþu<br />
+			vitlaussi mjo~k,<sep />ef vita lystir,<br />
+			hve` go/rþu mik<sep />Gju`ka arfar<br />
+			a`stalausa<sep />ok eiþrofa.
 		</original>
 		<translation_prelude>
 			Brynhild spake:
@@ -136,13 +137,13 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			He`tu mik allir<sep />i` Hlymdo~lum<br />
+			Hildi und hjalmi,<sep />hverr es kunni.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
-			"Hild the helmed<sep />in Hlymdalir<br />
+			Hild the helmed<sep />in Hlymdalir<br />
 			They named me of old,<sep />all they who knew me.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
@@ -159,13 +160,13 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Le`t hami va`ra<sep />hugfullr konungr<br />
+			a`tta systra<sep />und eik borit;<br />
+			vask vetra tolf,<sep />ef vita lystir,<br />
+			es ungum gram<sep />eiþa seldak.
 		</original>
 		<translation>
-			``The monarch bold<sep />the swan-robes bore<br />
+			The monarch bold<sep />the swan-robes bore<br />
 			Of the sisters eight<sep />beneath an oak;<br />
 			Twelve winters I was,<sep />if know thou wilt,<br />
 			When oaths I yielded<sep />the king so young.
@@ -178,10 +179,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` le`tk gamlan<sep />a` Gotþjo`þu<br />
+			Hjalmgunnar na_e`st<sep />heljar ganga;<br />
+			gafk ungum sigr<sep />Auþu bro`þur,<br />
+			þar varþ mer O`þinn<sep />ofreiþr <conj>of</conj> þat.
 		</original>
 		<translation>
 			Next I let<sep />the leader of Goths,<br />
@@ -196,10 +197,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Lauk mik skjo~ldum<sep />i` Skatalundi<br />
+			rauþum ok hvi`tum,<sep />randir <conj>snurtusk;</conj><br />
+			þann baþ sli`ta<sep />svefni mi`num,<br />
+			es hvergi lands<sep />hra_e`þask kynni.
 		</original>
 		<translation>
 			He beset me with shields<sep />in Skatalund,<br />
@@ -214,10 +215,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Le`t <conj>of</conj> sal minn<sep />sunnanverþan<br />
+			ho`van brinna<sep />her alls viþar;<br />
+			þar baþ einn þegn<sep />yfir at ri`þa,<br />
+			es mer fo/`rþi goll<sep />þats und Fa`fni la`.
 		</original>
 		<translation>
 			He let round my hall,<sep />that southward looked,<br />
@@ -232,10 +233,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Reiþ go`þr Grana<sep />gollmiþlandi,<br />
+			þars fo`stri minn<sep />fletjum sty`rþi;<br />
+			einn þo`tti þar<sep />o~llum betri<br />
+			vi`kingr Dana<sep />i` verþungu.
 		</original>
 		<translation>
 			On Grani rode<sep />the giver of gold,<br />
@@ -252,10 +253,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Svo~`fum ok unþum<sep />i` sa_e`ing einni,<br />
+			sem bro`þir minn<sep />of borinn va_e`ri;<br />
+			hva`rtki kna`tti<sep />ho~nd <conj>of</conj> annat<br />
+			a`tta no~`ttum<sep />okkart leggja.
 		</original>
 		<translation>
 			Happy we slept,<sep />one bed we had,<br />
@@ -271,10 +272,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þvi` bra` mer Guþru`n<sep />Gju`ka do`ttir,<br />
+			at Sigurþi<sep />sva)e`fak a` armi;<br />
+			þa` varþk þess vi`s<sep />es vildigak,<br />
+			at ve`ltu mik<sep />i` verfangi.
 		</original>
 		<translation>
 			Yet Guthrun reproached me,<sep />Gjuki's daughter,<br />
@@ -285,10 +286,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Munu viþ ofstri`þ<sep />alls til lengi<br />
+			konur ok karlar<sep />kvikvir fo/`þask;<br />
+			vit skulum okkrum<sep />aldri sli`ta<br />
+			Sigurþr saman.---<sep />So/kksk, gy`gjar kyn!''
 		</original>
 		<translation>
 			Ever with grief<sep />and all too long<br />
