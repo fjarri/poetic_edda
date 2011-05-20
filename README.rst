@@ -295,15 +295,21 @@ Sigurtharkivtha en skamma (19 May 2011)
 * Vafthruthnismol, 27: removed redundant indent from the phrase
   separating two inline stanzas
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Helreith Brynhildar and Drap Niflunga (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helreith Brynhildar and Drap Niflunga (21 May 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Sigurtharkvitha en skamma: fixed case in the title;
 * General Introduction: fixed incorrect reference to Grottasongr;
 * Sigrdrifumol, introduction: fixed typo in reference to Helreith Brynhildar;
-* Add Helreith Brynhildar chapter
-* Add Drap Niflunga chapter
+* Added Helreith Brynhildar chapter;
+* Added Drap Niflunga chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarkvitha II, en Forna (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Guthrunarkvitha chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
