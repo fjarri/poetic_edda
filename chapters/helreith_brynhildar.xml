@@ -14,24 +14,24 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The little <cr>Helreith Brynhildar</cr> immediately follows the ``short'' Sigurth lay in the <src>Codex Regius</src>, being linked to it by the brief prose note; the heading, ``Brynhild's Ride on Hel-Way,'' stands just before the first stanza.
-		The entire poem, with the exception of stanza <sr>6</sr>, is likewise quoted in the <src>Nornageststhattr</src>.
-		Outside of one stanza (No. <sr>11</sr>), which is a fairly obvious interpolation, the poem possesses an extraordinary degree of dramatic unity, and, certain pedantic commentators notwithstanding, it is one of the most vivid and powerful in the whole collection.
-		None the less, it has been extensively argued that parts of it belonged originally to the so-called <sr>Sigrdrifumol</sr>.
+		The little <chapterref>Helreith Brynhildar</chapterref> immediately follows the “short” Sigurth lay in the <source>Codex Regius</source>, being linked to it by the brief prose note; the heading, “Brynhild's Ride on Hel-Way,” stands just before the first stanza.
+		The entire poem, with the exception of stanza <stanzaref chapter="Helreith Brynhildar">6</stanzaref>, is likewise quoted in the <source>Nornageststhattr</source>.
+		Outside of one stanza (No. <stanzaref chapter="Helreith Brynhildar">11</stanzaref>), which is a fairly obvious interpolation, the poem possesses an extraordinary degree of dramatic unity, and, certain pedantic commentators notwithstanding, it is one of the most vivid and powerful in the whole collection.
+		None the less, it has been extensively argued that parts of it belonged originally to the so-called <stanzaref chapter="Helreith Brynhildar">Sigrdrifumol</stanzaref>.
 		That it stands in close relation to this poem is evident enough, but it is difficult to believe that such a masterpiece of dramatic poetry was ever the result of mere compilation.
-		It seems more reasonable to regard the <chapterref chapter="Helreith Brynhildar">Helreith</chapterref>, with the exception of stanza <sr>11</sr> and allowing for the loss of two lines from stanza <sr>6</sr>, as a complete and carefully constructed unit, based undoubtedly on older poems, but none the less an artistic creation in itself.
+		It seems more reasonable to regard the <chapterref chapter="Helreith Brynhildar">Helreith</chapterref>, with the exception of stanza <stanzaref chapter="Helreith Brynhildar">11</stanzaref> and allowing for the loss of two lines from stanza <stanzaref chapter="Helreith Brynhildar">6</stanzaref>, as a complete and carefully constructed unit, based undoubtedly on older poems, but none the less an artistic creation in itself.
 	</block>
 	<block class="text">
 		The poem is generally dated as late as the eleventh century, and the concluding stanza betrays Christian influence almost unmistakably.
 		It shows the confusion of traditions manifest in all the later poems; for example, Brynhild is here not only a Valkyrie but also a swan-maiden. Only three stanzas have any reference to the Guthrun-Gunnar part of the story; otherwise the poem is concerned solely with the episode of Sigurth's finding the sleeping Valkyrie.
-		Late as it is, therefore, it is essentially a Norse creation, involving very few of the details of the German cycle (cf. introductory note to <sr>Gripisspo</sr>).
+		Late as it is, therefore, it is essentially a Norse creation, involving very few of the details of the German cycle (cf. introductory note to <stanzaref chapter="Helreith Brynhildar">Gripisspo</stanzaref>).
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Eptir dauþa Brynhildar va`ru go~r ba`l tvau, annat Sigurþi, ok brann þat fyrr, en Brynhildr var a` o~þru brend, ok var hon i` reiþ þeiri er guþvefjum var tjo~lduþ.<br />
-			Sva` er sagt, at Brynhildr o`k meþ reiþinni a` helveg ok fo`r um tu`n, þar er gy`gr no~kkur bjo`.<br />
-			Gy`grin kvaþ:
+			Eptir dauþa Brynhildar vāru gǫr bāl tvau, annat Sigurþi, ok brann þat fyrr, en Brynhildr var ā ǫþru brend, ok var hon ī reiþ þeiri er guþvefjum var tjǫlduþ.<br />
+			Svā er sagt, at Brynhildr ōk meþ reiþinni ā helveg ok fōr um tūn, þar er gȳgr nǫkkur bjō.<br />
+			Gȳgrin kvaþ:
 		</original>
 		<translation>
 			After the death of Brynhild there were made two bale-fires, the one for Sigurth, and that burned first, and on the other was Brynhild burned, and she was on a wagon which was covered with a rich cloth.<br />
@@ -45,13 +45,13 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			``Skalt i` go/gnum<sep />ganga eigi<br />
-			grjo`ti studda<sep />garþa mi`na;<br />
-			betr semþi þe`r<sep />borþa at rekja,<br />
+			“Skalt ī gøgnum<sep />ganga eigi<br />
+			grjōti studda<sep />garþa mīna;<br />
+			betr semþi þēr<sep />borþa at rekja,<br />
 			heldr an vitja<sep />vers annarrar.
 		</original>
 		<translation>
-			``Thou shalt not further<sep />forward fare,<br />
+			“Thou shalt not further<sep />forward fare,<br />
 			My dwelling ribbed<sep />with rocks across;<br />
 			More seemly it were<sep />at thy weaving to stay,<br />
 			Than another's husband<sep />here to follow.
@@ -60,19 +60,19 @@
 	<block class="stanza" number="2">
 		<original>
 			Hvat skalt vitja<sep />af Vallandi,<br />
-			hvarfu`st ho~fuþ!<sep />hu`sa minna?<br />
-			þu` hefr, vo~`r golls!<sep />ef vita lystir,<br />
-			mild, af ho~ndum<sep />manns blo`þ þvegit.''
+			hvarfūst hǫfuþ!<sep />hūsa minna?<br />
+			þū hefr, vǭr golls!<sep />ef vita lystir,<br />
+			mild, af hǫndum<sep />manns blōþ þvegit.”
 		</original>
 		<translation>
 			What wouldst thou have<sep />from Valland here,<br />
 			Fickle of heart,<sep />in this my house?<br />
 			Gold-goddess, now,<sep />if thou wouldst know,<br />
-			Heroes' blood<sep />from thy hands hast washed.''
+			Heroes' blood<sep />from thy hands hast washed.”
 		</translation>
 		<comment>
-			<expl>Valland</expl>: this name (``Land of Slaughter'') is used else where of mythical places; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">24</stanzaref>, and prose introduction to <chapterref>Völundarkvitha</chapterref>; it may here not be a proper name at all.
-			<expl>Gold-goddess</expl>: poetic circumlocution for ``woman.''
+			<expl>Valland</expl>: this name (“Land of Slaughter”) is used else where of mythical places; cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">24</stanzaref>, and prose introduction to <chapterref>Völundarkvitha</chapterref>; it may here not be a proper name at all.
+			<expl>Gold-goddess</expl>: poetic circumlocution for “woman.”
 		</comment>
 	</block>
 	<block class="stanza" number="3">
@@ -80,39 +80,39 @@
 			Brynhildr kvaþ:
 		</original_prelude>
 		<original>
-			``Bregþ eigi me`r,<sep />bru`þr o`r steini!<br />
-			þo`t va_e`rak fyrr<sep />i` vi`kingu;<br />
-			ek mun okkur<sep />o/`þri þykkja,<br />
-			hvars o/þli menn<sep />okkart kunnu.''
+			“Bregþ eigi mēr,<sep />brūþr ōr steini!<br />
+			þōt vǣrak fyrr<sep />ī vīkingu;<br />
+			ek mun okkur<sep />ø̄þri þykkja,<br />
+			hvars øþli menn<sep />okkart kunnu.”
 		</original>
 		<translation_prelude>
 			Brynhild spake:
 		</translation_prelude>
 		<translation>
-			``Chide me not, woman<sep />from rocky walls,<br />
+			“Chide me not, woman<sep />from rocky walls,<br />
 			Though to battle once<sep />I was wont to go;<br />
 			Better than thou<sep />I shall seem to be,<br />
-			When men us two<sep />shall truly know.''
+			When men us two<sep />shall truly know.”
 		</translation>
 	</block>
 	<block class="stanza" number="4">
 		<original_prelude>
-			Gy`gr kvaþ:
+			Gȳgr kvaþ:
 		</original_prelude>
 		<original>
-			``Þu` vast, Brynhildr<sep />Buþla do`ttir!<br />
-			heilli verstu<sep />i` heim borin;<br />
-			þu` hefr Gju`ka<sep />of glatat bo~rnum<br />
-			ok bui:: þeira<sep />brugþit go`þu.''
+			“Þū vast, Brynhildr<sep />Buþla dōttir!<br />
+			heilli verstu<sep />ī heim borin;<br />
+			þū hefr Gjūka<sep />of glatat bǫrnum<br />
+			ok buï þeira<sep />brugþit gōþu.”
 		</original>
 		<translation_prelude>
 			The giantess spake:
 		</translation_prelude>
 		<translation>
-			``Thou wast, Brynhild,<sep />Buthli's daughter,<br />
+			“Thou wast, Brynhild,<sep />Buthli's daughter,<br />
 			For the worst of evils<sep />born in the world;<br />
 			To death thou hast given<sep />Gjuki's children,<br />
-			And laid their lofty<sep />house full low.''
+			And laid their lofty<sep />house full low.”
 		</translation>
 	</block>
 	<block class="stanza" number="5">
@@ -120,16 +120,16 @@
 			Brynhildr kvaþ:
 		</original_prelude>
 		<original>
-			``Munk segja þe`r<sep />svinn o`r reiþu<br />
-			vitlaussi mjo~k,<sep />ef vita lystir,<br />
-			hve` go/rþu mik<sep />Gju`ka arfar<br />
-			a`stalausa<sep />ok eiþrofa.
+			“Munk segja þēr<sep />svinn ōr reiþu<br />
+			vitlaussi mjǫk,<sep />ef vita lystir,<br />
+			hvē gørþu mik<sep />Gjūka arfar<br />
+			āstalausa<sep />ok eiþrofa.
 		</original>
 		<translation_prelude>
 			Brynhild spake:
 		</translation_prelude>
 		<translation>
-			``Truth from the wagon<sep />here I tell thee,<br />
+			“Truth from the wagon<sep />here I tell thee,<br />
 			Witless one,<sep />if know thou wilt<br />
 			How the heirs of Gjuki<sep />gave me to be<br />
 			joyless ever,<sep />a breaker of oaths.
@@ -137,7 +137,7 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			He`tu mik allir<sep />i` Hlymdo~lum<br />
+			Hētu mik allir<sep />ī Hlymdǫlum<br />
 			Hildi und hjalmi,<sep />hverr es kunni.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
@@ -149,19 +149,19 @@
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			In <src>Regius</src> these two lines stand after stanza <sr>7</sr>, but most editions; place them as here.
-			They are not quoted in the <src>Nornageststhattr</src>.
+			In <source>Regius</source> these two lines stand after stanza <stanzaref chapter="Helreith Brynhildar">7</stanzaref>, but most editions; place them as here.
+			They are not quoted in the <source>Nornageststhattr</source>.
 			Presumably two lines, and perhaps more, have been lost.
-			It has frequently been argued that all or part of the passage from stanza <sr>6</sr> through stanza <sr>10</sr> (<sr>6</sr>--<sr>10</sr>, <sr>7</sr>--<sr>10</sr> or <sr>8</sr>--<sr>10</sr>) comes originally from the so-called <chapterref>Sigrdrifumol</chapterref>, where it would undoubtedly fit exceedingly well.
-			<expl>Hild</expl>: a Valkyrie name meaning ``Fighter'' (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref>).
-			In such compound names as Brynhild (``Fighter in Armor'') the first element was occasionally omitted.
-			<expl>Hlymdalir</expl> (``Tumult-Dale''): a mythical name, merely signifying the place of battle as the home of Valkyries.
+			It has frequently been argued that all or part of the passage from stanza <stanzaref chapter="Helreith Brynhildar">6</stanzaref> through stanza <stanzaref chapter="Helreith Brynhildar">10</stanzaref> (<stanzaref chapter="Helreith Brynhildar">6</stanzaref>–<stanzaref chapter="Helreith Brynhildar">10</stanzaref>, <stanzaref chapter="Helreith Brynhildar">7</stanzaref>–<stanzaref chapter="Helreith Brynhildar">10</stanzaref> or <stanzaref chapter="Helreith Brynhildar">8</stanzaref>–<stanzaref chapter="Helreith Brynhildar">10</stanzaref>) comes originally from the so-called <chapterref>Sigrdrifumol</chapterref>, where it would undoubtedly fit exceedingly well.
+			<expl>Hild</expl>: a Valkyrie name meaning “Fighter” (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">31</stanzaref>).
+			In such compound names as Brynhild (“Fighter in Armor”) the first element was occasionally omitted.
+			<expl>Hlymdalir</expl> (“Tumult-Dale”): a mythical name, merely signifying the place of battle as the home of Valkyries.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Le`t hami va`ra<sep />hugfullr konungr<br />
-			a`tta systra<sep />und eik borit;<br />
+			Lēt hami vāra<sep />hugfullr konungr<br />
+			ātta systra<sep />und eik borit;<br />
 			vask vetra tolf,<sep />ef vita lystir,<br />
 			es ungum gram<sep />eiþa seldak.
 		</original>
@@ -174,15 +174,15 @@
 		<comment>
 			Regarding the identification of swan-maidens with Valkyries, and the manner in which men could get them in their power by stealing their swan-garments, cf. <chapterref>Völundarkvitha</chapterref>, <proseref chapter="Völundarkvitha" prose="p1">introductory prose</proseref> and note, where the same thing happens.
 			<expl>The monarch</expl>: perhaps Agnar, brother of Autha, mentioned in <chapterref>Sigrdrifumol</chapterref> (<proseref chapter="Sigrdrifumol" prose="p5_1">prose and quoted verse</proseref> following stanza <stanzaref chapter="Sigrdrifumol">4</stanzaref>) as the warrior for whose sake Brynhild defied Othin in slaying Hjalmgunnar.
-			<expl>Eight</expl>: the <src>Nornageststhattr</src> manuscripts have ``sisters of Atli'' instead of ``sisters eight.''
+			<expl>Eight</expl>: the <source>Nornageststhattr</source> manuscripts have “sisters of Atli” instead of “sisters eight.”
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			Þa` le`tk gamlan<sep />a` Gotþjo`þu<br />
-			Hjalmgunnar na_e`st<sep />heljar ganga;<br />
-			gafk ungum sigr<sep />Auþu bro`þur,<br />
-			þar varþ mer O`þinn<sep />ofreiþr <conj>of</conj> þat.
+			Þā lētk gamlan<sep />ā Gotþjōþu<br />
+			Hjalmgunnar nǣst<sep />heljar ganga;<br />
+			gafk ungum sigr<sep />Auþu brōþur,<br />
+			þar varþ mer Ōþinn<sep />ofreiþr <conj>of</conj> þat.
 		</original>
 		<translation>
 			Next I let<sep />the leader of Goths,<br />
@@ -192,15 +192,15 @@
 		</translation>
 		<comment>
 			<expl>Hjalmgunnar</expl>: regarding this king of the Goths (the phrase means little) and his battle with Agnar, brother of <expl>Autha</expl> cf. <chapterref>Sigrdrifumol</chapterref>, <proseref chapter="Sigrdrifumol" prose="p5_1">prose after stanza 4</proseref>.
-			One <src>Nornageststhattr</src> manuscript has ``brother of the giantess'' in place of ``leader of Goths.''
+			One <source>Nornageststhattr</source> manuscript has “brother of the giantess” in place of “leader of Goths.”
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Lauk mik skjo~ldum<sep />i` Skatalundi<br />
-			rauþum ok hvi`tum,<sep />randir <conj>snurtusk;</conj><br />
-			þann baþ sli`ta<sep />svefni mi`num,<br />
-			es hvergi lands<sep />hra_e`þask kynni.
+			Lauk mik skjǫldum<sep />ī Skatalundi<br />
+			rauþum ok hvītum,<sep />randir <conj>snurtusk;</conj><br />
+			þann baþ slīta<sep />svefni mīnum,<br />
+			es hvergi lands<sep />hrǣþask kynni.
 		</original>
 		<translation>
 			He beset me with shields<sep />in Skatalund,<br />
@@ -210,15 +210,15 @@
 		</translation>
 		<comment>
 			Cf. <chapterref>Sigrdrifumol</chapterref>, <proseref chapter="Sigrdrifumol" prose="p1">prose introduction</proseref>.
-			<expl>Skatalund</expl> (``Warriors' Grove''): a mythical name; elsewhere the place where Brynhild lay is called Hindarfjoll.
+			<expl>Skatalund</expl> (“Warriors' Grove”): a mythical name; elsewhere the place where Brynhild lay is called Hindarfjoll.
 		</comment>
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Le`t <conj>of</conj> sal minn<sep />sunnanverþan<br />
-			ho`van brinna<sep />her alls viþar;<br />
-			þar baþ einn þegn<sep />yfir at ri`þa,<br />
-			es mer fo/`rþi goll<sep />þats und Fa`fni la`.
+			Lēt <conj>of</conj> sal minn<sep />sunnanverþan<br />
+			hōvan brinna<sep />her alls viþar;<br />
+			þar baþ einn þegn<sep />yfir at rīþa,<br />
+			es mer fø̄rþi goll<sep />þats und Fāfni lā.
 		</original>
 		<translation>
 			He let round my hall,<sep />that southward looked,<br />
@@ -233,10 +233,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Reiþ go`þr Grana<sep />gollmiþlandi,<br />
-			þars fo`stri minn<sep />fletjum sty`rþi;<br />
-			einn þo`tti þar<sep />o~llum betri<br />
-			vi`kingr Dana<sep />i` verþungu.
+			Reiþ gōþr Grana<sep />gollmiþlandi,<br />
+			þars fōstri minn<sep />fletjum stȳrþi;<br />
+			einn þōtti þar<sep />ǫllum betri<br />
+			vīkingr Dana<sep />ī verþungu.
 		</original>
 		<translation>
 			On Grani rode<sep />the giver of gold,<br />
@@ -253,10 +253,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Svo~`fum ok unþum<sep />i` sa_eing einni,<br />
-			sem bro`þir minn<sep />of borinn va_e`ri;<br />
-			hva`rtki kna`tti<sep />ho~nd <conj>of</conj> annat<br />
-			a`tta no~`ttum<sep />okkart leggja.
+			Svǭfum ok unþum<sep />ī sæing einni,<br />
+			sem brōþir minn<sep />of borinn vǣri;<br />
+			hvārtki knātti<sep />hǫnd <conj>of</conj> annat<br />
+			ātta nǭttum<sep />okkart leggja.
 		</original>
 		<translation>
 			Happy we slept,<sep />one bed we had,<br />
@@ -272,10 +272,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Þvi` bra` mer Guþru`n<sep />Gju`ka do`ttir,<br />
-			at Sigurþi<sep />sva_e`fak a` armi;<br />
-			þa` varþk þess vi`s<sep />es vildigak,<br />
-			at ve`ltu mik<sep />i` verfangi.
+			Þvī brā mer Guþrūn<sep />Gjūka dōttir,<br />
+			at Sigurþi<sep />svǣfak ā armi;<br />
+			þā varþk þess vīs<sep />es vildigak,<br />
+			at vēltu mik<sep />ī verfangi.
 		</original>
 		<translation>
 			Yet Guthrun reproached me,<sep />Gjuki's daughter,<br />
@@ -286,16 +286,16 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			Munu viþ ofstri`þ<sep />alls til lengi<br />
-			konur ok karlar<sep />kvikvir fo/`þask;<br />
-			vit skulum okkrum<sep />aldri sli`ta<br />
-			Sigurþr saman.---<sep />So/kksk, gy`gjar kyn!''
+			Munu viþ ofstrīþ<sep />alls til lengi<br />
+			konur ok karlar<sep />kvikvir fø̄þask;<br />
+			vit skulum okkrum<sep />aldri slīta<br />
+			Sigurþr saman.—<sep />Søkksk, gȳgjar kyn!”
 		</original>
 		<translation>
 			Ever with grief<sep />and all too long<br />
 			Are men and women<sep />born in the world;<br />
 			But yet we shall live<sep />our lives together,<br />
-			Sigurth and I.<sep />Sink down, Giantess!''
+			Sigurth and I.<sep />Sink down, Giantess!”
 		</translation>
 		<comment>
 			The idea apparently conveyed in the concluding lines, that Sigurth and Brynhild will be together in some future life, is utterly out of keeping with the Norse pagan traditions, and the whole stanza indicates the influence of Christianity.
