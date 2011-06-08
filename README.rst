@@ -358,3 +358,5 @@ Tasks for distant future
 * Sometimes when <textstanza-original> goes after <textstanza-translation> there is no need in '.' in the first one: it was put there in Bellows' book, just because it finished the sentence.
   Need to check all such places in the book and remove
   unnecessary '.'.
+* \nopagebreak between \asterisks and \section does not work
+  (see Hyndluljoth, stanza 30 for an example)
