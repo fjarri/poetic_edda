@@ -6,7 +6,7 @@ import os, os.path
 import re
 
 # FIXME: Kind of ugly solution, but will work
-# if this variable is set, it means that we have to add
+# If this variable is set, it means that we have to add
 # section header to the next prose/stanza (because otherwise
 # \nopagebreak between \section and longtable does not work)
 add_edda_section = None
@@ -441,7 +441,7 @@ def listToTex(l):
 			res.append(u'{\\missingword}')
 
 		elif tag == 'inlineseparator':
-			res.append(u'{\\asterisks}')
+			res.append(u'{\\inlineasterisks}')
 
 		elif tag == 'section':
 			res.append(u'\\addsec*{' + text + u'}')
