@@ -125,32 +125,33 @@ def printStanzaTable(block):
 
 	# add section, if needed
 	section_lines = u""
+	set_normal_lt = False
 
 	if add_asterisks:
-		section_lines += u"\\multicolumn{3}{@{} l}{\\asterisks} \\\\*\n"
+		section_lines += u"\\asterisks\n"
 		add_asterisks = False
+		set_normal_lt = True
 
 	if add_edda_section is not None:
 		title, subtitle = add_edda_section
 
-		section_lines += u"\\multicolumn{3}{@{} l}{\\eddasectiontitle{" + \
-			title + u"}} \\\\*\n"
+		section_lines += u"\\eddasectiontitle{" + title + u"}\n"
 
 		if subtitle is not None:
-			section_lines += u"\\multicolumn{3}{@{} l}{\\eddasectionsubtitle{" + \
-				subtitle + u"}} \\\\*\n"
-
-		# FIXME: This vertical space needs to be adjustable,
-		# but I cannot find the solution at the moment,
-		# so just inserting the blank line
-		section_lines += u" & & \\\\*\n"
+			section_lines += u"\\eddasectionsubtitle{" + subtitle + u"}\n"
 
 		add_edda_section = None
+		set_normal_lt = True
 
-	return "\\eddastanza % Stanza " + unicode(number) + u"\n" + \
+	if set_normal_lt:
+		print block.attrib['number']
+		section_lines += u"\\normalLTfalse\n"
+
+	return section_lines + "\\eddastanza % Stanza " + unicode(number) + u"\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
 		u"{" + unicode(number) + u"}\n" + \
-		u"{\\eddastanzatable{" + section_lines + table_contents + u"}}\n\n"
+		u"{\\eddastanzatable{" + table_contents + u"}}\n\n" + \
+		(u"\\normalLTtrue\n\n" if set_normal_lt else u"")
 
 def printProseTable(block):
 
@@ -172,27 +173,27 @@ def printProseTable(block):
 
 	# add section, if needed
 	section_lines = u""
+	set_normal_lt = False
 
 	if add_asterisks:
-		section_lines += u"\\multicolumn{2}{@{} l}{\\asterisks} \\\\*\n"
+		section_lines += u"\\asterisks\n"
 		add_asterisks = False
+		set_normal_lt = True
 
 	if add_edda_section is not None:
 		title, subtitle = add_edda_section
 
-		section_lines += u"\\multicolumn{2}{@{} l}{\\eddasectiontitle{" + \
-			title + u"}} \\\\*\n"
+		section_lines += u"\\eddasectiontitle{" + title + u"}\n"
 
 		if subtitle is not None:
-			section_lines += u"\\multicolumn{2}{@{} l}{\\eddasectionsubtitle{" + \
-				subtitle + u"}} \\\\*\n"
-
-		# FIXME: This vertical space needs to be adjustable,
-		# but I cannot find the solution at the moment,
-		# so just inserting the blank line
-		section_lines += u" & \\\\*\n"
+			section_lines += u"\\eddasectionsubtitle{" + subtitle + u"}\n"
 
 		add_edda_section = None
+		set_normal_lt = True
+
+	if set_normal_lt:
+		print block.attrib['label']
+		section_lines += u"\\normalLTfalse\n"
 
 	# Add main table cells
 	table_elems = []
@@ -201,17 +202,16 @@ def printProseTable(block):
 		table_elems.append([leftField(original[i]), rightField(translation[i])])
 
 	lines = [u" & ".join(line) for line in table_elems]
-	lines[0] = section_lines + lines[0]
 	tables = [u"\\eddaprosetable{" + l + u"}" for l in lines]
 	skip = u"\\vskip0.5\\baselineskip\n"
-	tables = [(skip if section_lines == u"" else u"") + tables[0]] + \
-		[skip + t for t in tables[1:]]
+	tables = [tables[0]] + [skip + t for t in tables[1:]]
 	table_contents = u"\n".join(tables)
 
-	return "\\eddastanza\n" + \
+	return section_lines + "\\eddastanza\n" + \
 		(u"[" + comment + u"]\n" if comment is not None else u"") + \
 		u"{" + block.attrib['label'] + u"}\n" + \
-		u"{" + table_contents + u"}\n\n"
+		u"{" + table_contents + u"}\n\n" + \
+		(u"\\normalLTtrue\n\n" if set_normal_lt else u"")
 
 def tableToTex(elem):
 

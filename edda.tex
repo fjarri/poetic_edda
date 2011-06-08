@@ -21,6 +21,23 @@
 \usepackage{longtable}
 \usepackage[shortcuts]{extdash}
 
+\usepackage{etoolbox}
+
+\newif\ifnormalLT
+\normalLTtrue
+
+\makeatletter
+\patchcmd {\LT@start}
+          {\vfil \break}
+          {\ifnormalLT \vfil \break \fi}
+          {\typeout{Patching longtable succeeded!}}
+          {\typeout{Patching longtable failed!}\ERROR}
+\patchcmd {\LT@start}
+          {\penalty \z@}
+          {\ifnormalLT \penalty \z@ \fi}
+          {\typeout{Patching longtable succeeded!}}
+          {\typeout{Patching longtable failed!}\ERROR}
+\makeatother
 
 % ======================================================================
 % macro for switching between draft/release modes
@@ -273,7 +290,7 @@
 \newcommand{\missingword}{\rule[0.5ex]{2em}{.5pt}}
 
 \newcommand{\inlineasterisks}{\centerline{* \hskip 1.5em \lower .5ex\hbox {*} \hskip 1.5em *}}
-\newcommand{\asterisks}{\inlineasterisks\vskip\baselineskip\nopagebreak}
+\newcommand{\asterisks}{\inlineasterisks\nopagebreak\vskip\baselineskip\nopagebreak}
 
 % For quoting stanzas in comments
 \newcommand{\eddainlinestanza}[1]{
@@ -314,8 +331,8 @@
 % commands for inline header
 % FIXME: probably it should be done using \usekomafont,
 % but it changes only the font size
-\newcommand{\eddasectiontitle}[1]{\usekomafont{section}\sffamily\bfseries #1}
-\newcommand{\eddasectionsubtitle}[1]{\large\sffamily #1}
+\newcommand{\eddasectiontitle}[1]{\addsec*{#1}}
+\newcommand{\eddasectionsubtitle}[1]{{\large\sffamily #1}\nopagebreak\vskip\baselineskip \nopagebreak}
 
 % base command for stanza pair
 \newcommand{\eddastanza}[3][\@empty]{

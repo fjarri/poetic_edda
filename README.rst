@@ -309,6 +309,8 @@ Helreith Brynhildar and Drap Niflunga (21 May 2011)
 Guthrunarkvitha II, en Forna (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Changed algorithm of typesetting section titles
+  (solved problem with longtable ignoring \nopagebreak);
 * Add Guthrunarkvitha chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
