@@ -305,13 +305,19 @@ Helreith Brynhildar and Drap Niflunga (21 May 2011)
 * Added Helreith Brynhildar chapter;
 * Added Drap Niflunga chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Guthrunarkvitha II, en Forna (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarkvitha II, en forna (19 June 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Changed algorithm of typesetting section titles
   (solved problem with longtable ignoring \nopagebreak);
-* Add Guthrunarkvitha chapter
+* Added Guthrunarkvitha II chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarkvitha III (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Guthrunarkvitha III chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
