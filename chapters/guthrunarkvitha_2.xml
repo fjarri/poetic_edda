@@ -1,0 +1,924 @@
+<chapter label="Guthrunarkvitha II">
+	<block class="eddachapter">
+		<original>
+
+		</original>
+		<transliteration>
+			Guthrunarkvitha II, en forna
+		</transliteration>
+		<translation>
+			The Second, or Old, Lay of Guthrun
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
+	</block>
+	<block class="text">
+		It has already been pointed out (introductory note to <cr>Guthrunarkvitha I</cr>) that the tradition of Guthrun's lament was known wherever the Sigurth story existed, and that this lament was probably one of the earliest parts of the legend to assume verse form.
+		Whether it reached the North as verse cannot, of course, be determined, but it is at least possible that this was the case, and in any event it is clear that by the tenth and eleventh centuries there were a number of Norse poems with Guthrun's lament as the central theme.
+		Two of these are included in the Eddic collection, the second one being unquestionably much the older.
+		It is evidently the poem referred to by the annotator in the prose note following the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref> as ``the old Guthrun lay,'' and its character and state of preservation have combined to lead most commentators to date it as early as the first half of the tenth century, whereas <cr>Guthrunarkvitha I</cr> belongs a hundred years later.
+	</block>
+	<block class="text">
+		The poem has evidently been preserved in rather bad shape, with a number of serious omissions and some interpolations, but in just this form it lay before the compilers of the <src>Volsungasaga</src>, who paraphrased it faithfully, and quoted five of its stanzas.
+		The interpolations are on the whole unimportant; the omissions, while they obscure the sense of certain passages, do not destroy the essential continuity of the poem, in which Guthrun reviews her sorrows from the death of Sigurth through the slaying of her brothers to Atli's dreams foretelling the death of their sons.
+		It is, indeed, the only Norse poem of the Sigurth cycle antedating the year 1000 which has come down to us in anything approaching complete form; the <cr>Reginsmol</cr>, <cr>Fafnismol</cr>, and <cr>Sigrdrifumol</cr> are all collections of fragments, only a short bit of the ``long'' Sigurth lay remains, and the others---<cr>Gripisspo</cr>, <cr>Guthrunarkvitha I</cr> and <chapterref chapter="Guthrunarkvitha III">III</chapterref>, <cr>Sigurtharkvitha en skamma</cr>, <cr>Helreith Brynhildar</cr>, <cr>Oddrunargratr</cr>, <cr>Guthrunarhvot</cr>, <cr>Hamthesmol</cr>, and the <ref chapter="Atlakvitha">two Atli lays</ref>---are all generally dated from the eleventh and even the twelfth centuries.
+	</block>
+	<block class="text">
+		An added reason for believing that <cr>Guthrunarkvitha II</cr> traces its origin back to a lament which reached the North from Germany in verse form is the absence of most characteristic Norse additions to the narrative, except in minor details.
+		Sigurth is slain in the forest, as ``German men say'' (cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <proseref chapter="Brot af Sigurtharkvithu" prose="conclusion">concluding prose</proseref>); the urging of Guthrun by her mother 2nd brothers to become Atli's wife, the slaying of the Gjukungs (here only intimated, for at that point something seems to have been lost), and Guthrun's prospective revenge on Atli, all belong directly to the German tradition (cf. introductory note to <cr>Gripisspo</cr>).
+	</block>
+	<block class="text">
+		In the <src>Codex Regius</src> the poem is entitled simply <src>Guthrunarkvitha</src>; the numeral has been added in nearly all editions to distinguish this poem from the other two Guthrun lays, and the phrase ``the old'' is borrowed from the annotator's comment in the prose note at the end of the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>.
+	</block>
+	<block class="sepline" />
+	<block class="prose" label="p1">
+		<original>
+			<br />
+			<br />
+		</original>
+		<translation>
+			King Thjothrek was with Atli, and had lost most of his men.<br />
+			Thjothrek and Guthrun lamented their griefs together.<br />
+			She spoke to him, saying:
+		</translation>
+		<comment>
+			<expl>Thjothrek</expl>: the famous Theoderich, king of the Ostrogoths, who became renowned in German story as Dietrich von Bern.
+			The German tradition early accepted the anachronism of bringing together Attila (Etzel, Atli), who died in 453, and Theoderich, who was born about 455, and adding thereto Ermanarich (Jormunrek), king of the Goths, who died about 376.
+			Ermanarich, in German tradition, replaced Theoderich's actual enemy, Odovakar, and it was in battle with Jormunrek (i. e., Odovakar) that Thjothrek is here said to have lost most of his men.
+			The annotator found the material for this note in <chapterref>Guthrunarkvitha III</chapterref>, in which Guthrun is accused of having Thjothrek as her lover.
+			At the time when <chapterref>Guthrunarkvitha II</chapterref> was composed (early tenth century) it is probable that the story of Theoderich had not reached the North at all, and the annotator is consequently wrong in giving the poem its setting.
+		</comment>
+	</block>
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A maid of maids<sep />my mother bore me,<br />
+			Bright in my bower,<sep />my brothers I loved,<br />
+			Till Gjuki dowered<sep />me with gold,<br />
+			Dowered with gold,<sep />and to Sigurth gave me.
+		</translation>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			So Sigurth rose<sep />o'er Gjuki's sons<br />
+			As the leek grows green<sep />above the grass,<br />
+			Or the stag o'er all<sep />the beasts doth stand,<br />
+			Or as glow-red gold<sep />above silver gray.
+		</translation>
+		<comment>
+			Cf. <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">17</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Till my brothers let me<sep />no longer have<br />
+			The best of heroes<sep />my husband to be;<br />
+			Sleep they could not,<sep />or quarrels settle,<br />
+			Till Sigurth they<sep />at last had slain.
+		</translation>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From the Thing ran Grani<sep />with thundering feet,<br />
+			But thence did Sigurth<sep />himself come never;<br />
+			Covered with sweat<sep />was the saddle-bearer,<br />
+			Wont the warrior's<sep />weight to bear.
+		</translation>
+		<comment>
+			Regarding the varying accounts of the manner of Sigurth's death cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <proseref chapter="Brot af Sigurtharkvithu" label="conclusion">concluding prose</proseref> and note.
+			Grani: cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <stanzaref chapter="Brot af Sigurtharkvithu">7</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Weeping I sought<sep />with Grani to speak,<br />
+			With tear-wet cheeks<sep />for the tale I asked;<br />
+			The head of Grani<sep />was bowed to the grass,<br />
+			The steed knew well<sep />his master was slain.
+		</translation>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Long I waited<sep />and pondered well<br />
+			Ere ever the king<sep />for tidings I asked.<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			No gap indicated in the manuscript.
+			Some editions combine these two lines with either stanza <sr>5</sr> or stanza <sr>7</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			His head bowed Gunnar,<sep />but Hogni told<br />
+			The news full sore<sep />of Sigurth slain:<br />
+			``Hewed to death<sep />at our hands he lies,<br />
+			Gotthorm's slayer,<sep />given to wolves.
+		</translation>
+		<comment>
+			<expl>Gotthorm</expl>: from this it appears that in both versions of the death of Sigurth the mortally wounded hero killed his murderer, the younger brother of Gunnar and Hogni.
+			The story of how Gotthorm, was slain after killing Sigurth in his bed is told in <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">22</stanzaref>--<stanzaref chapter="Sigurtharkvitha en skamma">23</stanzaref>, and in the <src>Volsungasaga</src>.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			On the southern road<sep />thou shalt Sigurth see,<br />
+			Where hear thou canst<sep />the ravens cry;<br />
+			The eagles cry<sep />as food they crave,<br />
+			And about thy husband<sep />wolves are howling.''
+		</translation>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Why dost thou, Hogni,<sep />such a horror<br />
+			Let me hear,<sep />all joyless left?<br />
+			Ravens yet<sep />thy heart shall rend<br />
+			In a land that never<sep />thou hast known.''
+		</translation>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Few the words<sep />of Hogni were,<br />
+			Bitter his heart<sep />from heavy sorrow:<br />
+			``Greater, Guthrun,<sep />thy grief shall be<br />
+			If the ravens so<sep />my heart shall rend.''
+		</translation>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From him who spake<sep />I turned me soon,<br />
+			In the woods to find<sep />what the wolves had left;<br />
+			Tears I had not,<sep />nor wrung my bands,<br />
+			Nor wailing went,<sep />as other women,<br />
+			(When by Sigurth<sep />slain I sat).
+		</translation>
+		<comment>
+			On lines 3--4 cf. <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">1</stanzaref>.
+			Line 5 is probably spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Never so black<sep />had seemed the night<br />
+			As when in sorrow<sep />by Sigurth I sat;<br />
+			The wolves <lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			Many editions make one stanza of stanzas <sr>12</sr> and <sr>13</sr>, reconstructing line 3; the manuscript shows no gap.
+			Bugge fills out the stanza thus:
+			<textstanza class="translation">
+				The wolves were howling<sep />on all the ways,<br />
+				The eagles cried<sep />as their food they craved.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			Best of all<sep />methought 'twould be<br />
+			If I my life<sep />could only lose,<br />
+			Or like to birch-wood<sep />burned might be.
+		</translation>
+		<comment>
+			Cf. note on preceding stanza.
+			Grundtvig suggests as a first line:
+			<textstanza class="translation">
+				Long did I bide,<sep />my brothers awaiting.
+			</textstanza>
+			Many editors reject line 4.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From the mountain forth<sep />five days I fared,<br />
+			Till Hoalf's hall<sep />so high I saw;<br />
+			Seven half-years<sep />with Thora I stayed,<br />
+			Hokon's daughter,<sep />in Denmark then.
+		</translation>
+		<comment>
+			The manuscript marks line 3 as beginning a stanza, and many editions combine lines 3--4 with lines 1--2 of stanza <sr>15</sr>.
+			<expl>Hoalf</expl> (or Half): Gering thinks this Danish king may be identical with Alf, son of King Hjalprek, and second husband of Hjordis, Sigurth's mother (cf. <chapterref>Fra Dautha Sinfjotla</chapterref> and note), but the name was a common one.
+			<expl>Thora</expl> and <expl>Hokon</expl> have not been identified (cf. <chapterref>Guthrunarkvitha I</chapterref>, <proseref chapter="Guthrunarkvitha I" prose="conclusion">concluding prose</proseref>, which is clearly based on this stanza).
+			A Thora appears in <chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">18</stanzaref>, as the wife of Dag, one of the sons of Halfdan the Old, the most famous of Denmark's mythical kings, and one of her sons is Alf (Hoalf?).
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			With gold she broidered,<sep />to bring me joy,<br />
+			Southern halls<sep />and Danish swans;<br />
+			On the tapestry wove we<sep />warrior's deeds,<br />
+			And the hero's thanes<sep />on our handiwork;<br />
+			(Flashing shields<sep />and fighters armed,<br />
+			Sword-throng, helm-throng,<sep />the host of the king).
+		</translation>
+		<comment>
+			The manuscript marks line 3 as the beginning of a stanza.
+			Some editors combine lines 5--6 with lines 1--2 of stanza <sr>16</sr>, while others mark them as interpolated.
+		</comment>
+	</block>
+	<block class="stanza" number="16">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Sigmund's ship<sep />by the land was sailing,<br />
+			Golden the figure-head,<sep />gay the beaks;<br />
+			On board we wove<sep />the warriors faring,<br />
+			Sigar and Siggeir,<sep />south to Fjon.
+		</translation>
+		<comment>
+			Some editions combine lines 3--4 with stanza <sr>17</sr>.
+			<expl>Sigmund</expl>: Sigurth's father, who here appears as a sea-rover in Guthrun's tapestry.
+			<expl>Sigar</expl>: named in <src>Fornaldar sögur II</src>, 10, as the father of Siggeir, the latter being the husband of Sigmund's twin sister, Signy (cf. <chapterref>Fra Dautha Sinfjotla</chapterref>).
+			<expl>Fjon</expl>: this name, referring to the Danish island of Fünen, is taken from the <src>Volsungasaga</src> paraphrase as better fitting the Danish setting of the stanza than the name in <src>Regius</src>, which is ``Fife'' (Scotland).
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original>
+			<sep /><br />
+			<sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Then Grimhild asked,<sep />the Gothic queen,<br />
+			Whether willingly<sep />would I <lacuna /><br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			No gap is indicated in the manuscript, and most editions combine these two lines either with lines 3--4 of stanza <sr>16</sr>, with lines 1--2 of stanza <sr>18</sr>, or with the whole of stanza <sr>18</sr>.
+			Line 2 has been filled out in various ways.
+			The <src>Volsungasaga</src> paraphrase indicates that these two lines are the remains of a full stanza, the prose passage running:
+			``Now Guthrun was some what comforted of her sorrows.
+			Then Grimhild learned where Guthrun was now dwelling.''
+			The first two lines may be the ones missing.
+			<expl>Gothic</expl>: the term ``Goth'' was used in the North without much discrimination to apply to all south-Germanic peoples.
+			In <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">35</stanzaref>, Gunnar, Grimhild's son, appears as ``lord of the Goths.''
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Her needlework cast she<sep />aside, and called<br />
+			Her sons to ask,<sep />with stern resolve,<br />
+			Who amends to their sister<sep />would make for her son,<br />
+			Or the wife requite<sep />for her husband killed.
+		</translation>
+		<comment>
+			The manuscript marks line 3 as the beginning of a stanza.
+			Grimhild is eager to have amends made to Guthrun for the slaying of Sigurth and their son, Sigmund, because Atli has threatened war if he cannot have Guthrun for his wife.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Ready was Gunnar<sep />gold to give,<br />
+			Amends for my hurt,<sep />and Hogni too;<br />
+			Then would she know<sep />who now would go,<br />
+			The horse to saddle,<sep />the wagon to harness,<br />
+			(The horse to ride,<sep />the hawk to fly,<br />
+			And shafts from bows<sep />of yew to shoot).
+		</translation>
+		<comment>
+			Lines 5--6 are almost certainly interpolations, made by a scribe with a very vague understanding of the meaning of the stanza, which refers simply to the journey of the Gjukungs to bring their sister home from Denmark.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			(Valdar, king<sep />of the Danes, was come,<br />
+			With Jarizleif, Eymoth,<sep />and Jarizskar).<br />
+			In like princes<sep />came they all,<br />
+			The long-beard men,<sep />with mantles red,<br />
+			Short their mail-coats,<sep />mighty their helms,<br />
+			Swords at their belts,<sep />and brown their hair.
+		</translation>
+		<comment>
+			Lines 1--2 are probably interpolated, though the <src>Volsungasaga</src> includes the names.
+			Some one apparently attempted to supply the names of Atli's messengers, the ``long-beard men'' of line 4, who have come to ask for Guthrun's hand.
+			Some commentators assume, as the <src>Volsungasaga</src> does, that these messengers went with the Gjukungs to Denmark in search of Guthrun, but it seems more likely that a transitional stanza has dropped out after stanza <sr>19</sr>, and that Guthrun received Atli's emissaries in her brothers' home.
+			<expl>Long-beards</expl>: the word may actually mean Langobards or Lombards, but, if it does, it is presumably without any specific significance here.
+			Certainly the names in the interpolated two lines do not fit either Lombards or Huns, for Valdar is identified as a Dane, and Jarizleif and Jarizskar are apparently Slavic.
+			The manuscript indicates line 5 as beginning a new stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Each to give me<sep />gifts was fain,<br />
+			Gifts to give,<sep />and goodly speech,<br />
+			Comfort so<sep />for my sorrows great<br />
+			To bring they tried,<sep />but I trusted them not.
+		</translation>
+		<comment>
+			<expl>Each</expl>: the reference is presumably to Gunnar and Hogni, and perhaps also Grimhild, I suspect that this stanza belongs before stanza <sr>20</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="22">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A draught did Grimhild<sep />give me to drink,<br />
+			Bitter and cold;<sep />I forgot my cares;<br />
+			For mingled therein<sep />was magic earth,<br />
+			Ice-cold sea,<sep />and the blood of swine.
+		</translation>
+		<comment>
+			Stanzas <sr>22</sr>--<sr>25</sr> describe the draught of forgetfulness which Grimhild gives Guthrun, just as she gave one to Sigurth (in one version of the story) to make him forget Brynhild.
+			The draught does not seem to work despite Guthrun's statement in stanza <sr>25</sr> (cf. stanza <sr>30</sr>), for which reason Vigfusson, not unwisely, places stanzas <sr>22</sr>--<sr>25</sr> after stanza <sr>34</sr>.
+			<expl>Blood of swine</expl>: cf. <chapterref>Hyndluljoth</chapterref>, <stanzaref chapter="Hyndluljoth">39</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="23">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			In the cup were runes<sep />of every kind,<br />
+			Written and reddened,<sep />I could not read them;<br />
+			A heather-fish<sep />from the Haddings' land,<br />
+			An ear uncut,<sep />and the entrails of beasts.
+		</translation>
+		<comment>
+			The <src>Volsungasaga</src> quotes stanzas <sr>23</sr>--<sr>24</sr>.
+			<expl>Heather-fish</expl>: a snake.
+			<expl>Haddings' land</expl>: the world of the dead, so called because, according to Saxo Grammaticus, the Danish king Hadingus once visited it.
+			It is possible that the comma should follow ``heather fish,'' making the ``ear uncut'' (of grain) come from the world of the dead.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original>
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Much evil was brewed<sep />within the beer,<br />
+			Blossoms of trees,<sep />and acorns burned,<br />
+			Dew of the hearth,<sep />and holy entrails,<br />
+			The liver of swine,---<sep />all grief to allay.
+		</translation>
+		<comment>
+			<expl>Dew of the hearth</expl>: soot.
+		</comment>
+	</block>
+	<block class="stanza" number="25">
+		<original>
+			<br />
+			<br />
+			<br />
+		</original>
+		<translation>
+			Then I forgot,<sep />when the draught they gave me,<br />
+			There in the hall,<sep />my husband's slaying;<br />
+			On their knees the kings<sep />all three did kneel,<br />
+			Ere she herself<sep />to speak began:
+		</translation>
+		<comment>
+			In the manuscript, and in some editions, the first line is in the third person plural:
+			<textstanza class="translation">
+				Then they forgot,<sep />when the draught they had drunk.
+			</textstanza>
+			The second line in the original is manifestly in bad shape, and has been variously emended.
+			<expl>I forgot</expl>: this emendation is doubtful, in view of stanza <sr>30</sr>, but cf. note to stanza <sr>22</sr>.
+			<expl>The kings all three</expl>: probably Atli's emissaries, though the interpolated lines of stanza <sr>20</sr> name four of them.
+			I suspect that line 4 is wrong, and should read:
+			<textstanza class="translation">
+				Ere he himself (Atli)<sep />to speak began.
+			</textstanza>
+			Certainly stanzas <sr>26</sr>--<sr>27</sr> fit Atli much better than they do Grimhild, and there is nothing unreasonable in Atli's having come in person, along with his tributary kings, to seek Guthrun's hand.
+			However, the ``three kings'' may not be Atli's followers at all, but Gunnar, Hogni, and the unnamed third brother possibly referred to in <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">18</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Guthrun, gold<sep />to thee I give,<br />
+			The wealth that once<sep />thy father's was,<br />
+			Rings to have,<sep />and Hlothver's halls,<br />
+			And the hangings all<sep />that the monarch had.
+		</translation>
+		<comment>
+			<expl>Thy father's</expl>: So the manuscript, in which case the reference is obviously to Gjuki.
+			But some editions omit the ``thy,'' and if Atli, and not Grimhild, is speaking (cf. note on stanza <sr>25</sr>), the reference may be, as in line 3 of stanza <sr>27</sr>, to the wealth of Atli's father, Buthli.
+			<expl>Hlothver</expl>: the northern form of the Frankish name Chlodowech (Ludwig), but who this Hlothver was, beyond the fact that he was evidently a Frankish king, is uncertain.
+			If Atli is speaking, he is presumably a Frankish ruler whose land Atli and his Huns have conquered.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hunnish women,<sep />skilled in weaving,<br />
+			Who gold make fair<sep />to give thee joy,<br />
+			And the wealth of Buthli<sep />thine shall be,<br />
+			Gold-decked one,<sep />as Atli's wife.''
+		</translation>
+		<comment>
+			Cf. note on stanza <sr>25</sr> as to the probable speaker.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``A husband now<sep />I will not have,<br />
+			Nor wife of Brynhild's<sep />brother be;<br />
+			It beseems me not<sep />with Buthli's son<br />
+			Happy to be,<sep />and heirs to bear.''
+		</translation>
+		<comment>
+			In stanzas <sr>28</sr>--<sr>32</sr> the dialogue, in alternate stanzas, is clearly between Guthrun and her mother, Grimhild, though the manuscript does not indicate the speakers.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Grimhild spake:
+		</translation_prelude>
+		<translation>
+			``Seek not on men<sep />to avenge thy sorrows,<br />
+			Though the blame at first<sep />with us hath been;<br />
+			Happy shalt be<sep />as if both still lived,<br />
+			Sigurth and Sigmund,<sep />if sons thou bearest.''
+		</translation>
+		<comment>
+			<expl>Sigmund</expl>: son of Sigurth and Guthrun, killed at Brynhild's behest.
+		</comment>
+	</block>
+	<block class="stanza" number="30">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Grimhild, I may not<sep />gladness find,<br />
+			Nor hold forth hopes<sep />to heroes now,<br />
+			Since once the raven<sep />and ravening wolf<br />
+			Sigurth's heart's-blood<sep />hungrily lapped.''
+		</translation>
+		<comment>
+			This stanza presents a strong argument for transposing the description of the draught of forgetfulness (stanzas <sr>22</sr>--<sr>24</sr> and lines 1--2 of stanza <sr>25</sr>) to follow stanza <sr>33</sr>.
+			<expl>Raven</expl>, etc.: the original is somewhat obscure, and the line may refer simply to the ``corpse-eating raven.''
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Grimhild spake:
+		</translation_prelude>
+		<translation>
+			``Noblest of birth<sep />is the ruler now<br />
+			I have found for thee,<sep />and foremost of all;<br />
+			Him shalt thou have<sep />while life thou hast,<br />
+			Or husbandless be<sep />if him thou wilt choose not.''
+		</translation>
+	</block>
+	<block class="stanza" number="32">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Seek not so eagerly<sep />me to send<br />
+			To be a bride<sep />of yon baneful race;<br />
+			On Gunnar first<sep />his wrath shall fall,<br />
+			And the heart will he tear<sep />from Hogni's breast.''
+		</translation>
+		<comment>
+			In the manuscript this stanza is immediately followed by the two lines which here, following Bugge's suggestion, appear as stanza <sr>35</sr>.
+			In lines 3--4 Guthrun foretells what will (and actually does) happen if she is forced to become Atli's wife.
+			If stanza <sr>35</sr> really belongs here, it continues the prophesy to the effect that Guthrun will have no rest till she has avenged her brothers' death.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Weeping Grimhild<sep />heard the words<br />
+			That fate full sore<sep />for her sons foretold,<br />
+			(And mighty woe<sep />for them should work;)<br />
+			``Lands I give thee,<sep />with all that live there,<br />
+			(Vinbjorg is thine,<sep />and Valbjorg too,)<br />
+			Have them forever,<sep />but hear me, daughter.''
+		</translation>
+		<comment>
+			Very likely the remains of two stanzas; the manuscript marks line 4 as beginning a new stanza.
+			On the other band, lines 3 and 5 may be interpolations.
+			<expl>Vinbjorg</expl> and <expl>Valbjorg</expl>: apparently imaginary place-names.
+		</comment>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			So must I do<sep />as the kings besought,<br />
+			And against my will<sep />for my kinsmen wed,<br />
+			Ne'er with my husband<sep />joy I had,<br />
+			And my sons by my brothers'<sep />fate were saved not.
+		</translation>
+		<comment>
+			<expl>The kings</expl>: presumably Gunnar and Hogni.
+			<expl>My sons</expl>: regarding Guthrun's slaying of her two sons by Atli, Erp and Eitil, cf. <chapterref>Drap Niflunga</chapterref>, note.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original>
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			<lacuna /><sep /><lacuna /><br />
+			I could not rest<sep />till of life I had robbed<br />
+			The warrior bold,<sep />the maker of battles.
+		</translation>
+		<comment>
+			In the manuscript this stanza follows stanza <sr>32</sr>.
+			The loss of two lines, to the effect that ``Ill was that marriage for my brothers, and ill for Atli himself,'' and the transposition of the remaining two lines to this point, are indicated in a number of editions.
+			<expl>The warrior</expl>, etc.: Atli, whom Guthrun kills.
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Soon on horseback<sep />each hero was,<br />
+			And the foreign women<sep />in wagons faring;<br />
+			A week through lands<sep />so cold we went,<br />
+			And a second week<sep />the waves we smote,<br />
+			(And a third through lands<sep />that water lacked).
+		</translation>
+		<comment>
+			The stanza describes the journey to Atli's home, and sundry unsuccessful efforts have been made to follow the travellers through Germany and down the Danube.
+			<expl>Foreign women</expl>: slaves.
+			Line 5, which the manuscript marks as be ginning a stanza, is probably spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The warders now<sep />on the lofty walls<br />
+			Opened the gates,<sep />and in we rode.
+		</translation>
+		<comment>
+			After these two lines there appears to be a considerable gap, the lost stanzas giving Guthrun's story of the slaying of her brothers.
+			It is possible that stanzas <sr>38</sr>--<sr>45</sr> came originally from another poem, dealing with Atli's dream, and were here substituted for the original conclusion of Guthrun's lament.
+			Many editions combine stanzas <sr>37</sr> and <sr>38</sr>, or combine stanza <sr>38</sr> (the manuscript marks line 1 as beginning a stanza) with lines 1--2 of stanza <sr>39</sr>.
+		</comment>
+	</block>
+	<block class="asterisks" />
+	<block class="stanza" number="38">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Atli woke me,<sep />for ever I seemed<br />
+			Of bitterness full<sep />for my brothers' death.
+		</translation>
+	</block>
+	<block class="stanza" number="39">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``Now from sleep<sep />the Norris have waked me<br />
+			With visions of terror,--<sep />to thee will I tell them;<br />
+			Methought thou, Guthrun,<sep />Gjuki's daughter,<br />
+			With poisoned blade<sep />didst pierce my body.''
+		</translation>
+		<comment>
+			The manuscript indicates line 3 as the beginning of a stanza.
+			The manuscript and most editions do not indicate the speakers in this and the following stanzas.
+		</comment>
+	</block>
+	<block class="stanza" number="40">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Fire a dream<sep />of steel shall follow<br />
+			And willful pride<sep />one of woman's wrath;<br />
+			A baneful sore<sep />I shall burn from thee,<br />
+			And tend and heal thee,<sep />though hated thou art.''
+		</translation>
+		<comment>
+			Guthrun, somewhat obscurely, interprets Atli's first dream (stanza <sr>39</sr>) to mean that she will cure him of an abscess by cauterizing it.
+			Her interpretation is, of course, intended merely to blind him to her purpose.
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``Of plants I dreamed,<sep />in the garden drooping,<br />
+			That fain would I have<sep />full high to grow;<br />
+			Plucked by the roots,<sep />and red with blood,<br />
+			They brought them hither,<sep />and bade me eat.
+		</translation>
+		<comment>
+			In stanzas <sr>41</sr>--<sr>43</sr> Atli's dreams forecast the death of his two sons, whose flesh Guthrun gives him to eat (cf. <cr>Atlakvitha</cr>, <stanzaref chapter="Atlakvitha">39</stanzaref>, and <cr>Atlamol</cr>, <stanzaref chapter="Atlamol">78</stanzaref>).
+		</comment>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			I dreamed my hawks<sep />from my hand had flown,<br />
+			Eager for food,<sep />to an evil house;<br />
+			I dreamed their hearts<sep />with honey I ate,<br />
+			Soaked in blood,<sep />and heavy my sorrow.
+		</translation>
+	</block>
+	<block class="stanza" number="43">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Hounds I dreamed<sep />from my hand I loosed,<br />
+			Loud in hunger<sep />and pain they howled;<br />
+			Their flesh methought<sep />was eagles' food,<br />
+			And their bodies now<sep />I needs must eat.''
+		</translation>
+	</block>
+	<block class="stanza" number="44">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Men shall soon<sep />of sacrifice speak,<br />
+			And off the heads<sep />of beasts shall hew<br />
+			Die they shall<sep />ere day has dawned,<br />
+			A few nights hence,<sep />and the folk shall have them.''
+		</translation>
+		<comment>
+			This stanza is evidently Guthrun's intentionally cryptic interpretation of Atli's dreams, but the meaning of the original is more than doubtful.
+			The word here rendered ``sacrifice'' may mean ``sea-catch,'' and the one rendered ``beasts'' may mean ``whales.''
+			None of the attempted emendations have rendered the stanza really intelligible, but it appears to mean that Atli will soon make a sacrifice of beasts at night, and give their bodies to the people.
+			Guthrun of course has in mind the slaying of his two sons.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``On my bed I sank,<sep />nor slumber sought,<br />
+			Weary with woe,---<sep />full well I remember.''<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			With these two lines the poem abruptly ends; some editors assign the speech to Atli (I think rightly), others to Guthrun.
+			Ettmüller combines the lines with stanza <sr>38</sr>.
+			Whether stanzas <sr>38</sr>--<sr>45</sr> originally belonged to Guthrun's lament, or were interpolated here in place of the lost conclusion of that poem from another one dealing with Atli's dreams (cf. note on stanza <sr>37</sr>), it is clear that the end has been lost.
+		</comment>
+	</block>
+</chapter>
