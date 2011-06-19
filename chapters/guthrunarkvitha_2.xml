@@ -26,7 +26,7 @@
 	</block>
 	<block class="text">
 		An added reason for believing that <chapterref>Guthrunarkvitha II</chapterref> traces its origin back to a lament which reached the North from Germany in verse form is the absence of most characteristic Norse additions to the narrative, except in minor details.
-		Sigurth is slain in the forest, as “German men say” (cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <proseref chapter="Brot af Sigurtharkvithu" prose="conclusion">concluding prose</proseref>); the urging of Guthrun by her mother 2nd brothers to become Atli's wife, the slaying of the Gjukungs (here only intimated, for at that point something seems to have been lost), and Guthrun's prospective revenge on Atli, all belong directly to the German tradition (cf. introductory note to <chapterref>Gripisspo</chapterref>).
+		Sigurth is slain in the forest, as “German men say” (cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <proseref chapter="Brot af Sigurtharkvithu" prose="conclusion">concluding prose</proseref>); the urging of Guthrun by her mother and brothers to become Atli's wife, the slaying of the Gjukungs (here only intimated, for at that point something seems to have been lost), and Guthrun's prospective revenge on Atli, all belong directly to the German tradition (cf. introductory note to <chapterref>Gripisspo</chapterref>).
 	</block>
 	<block class="text">
 		In the <source>Codex Regius</source> the poem is entitled simply <source>Guthrunarkvitha</source>; the numeral has been added in nearly all editions to distinguish this poem from the other two Guthrun lays, and the phrase “the old” is borrowed from the annotator's comment in the prose note at the end of the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>.
@@ -53,13 +53,13 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			“Mǣr vask meyja,<sep />mōþir mik fø̄ddi,<br />
+			Mǣr vask meyja,<sep />mōþir mik fø̄ddi,<br />
 			bjǫrt ī būri,<sep />unnak vel brø̄þrum,<br />
 			unz mik Gjūki<sep />golli reifþi,<br />
 			golli reifþi,<sep />gaf Sigurþi.
 		</original>
 		<translation>
-			“A maid of maids<sep />my mother bore me,<br />
+			A maid of maids<sep />my mother bore me,<br />
 			Bright in my bower,<sep />my brothers I loved,<br />
 			Till Gjuki dowered<sep />me with gold,<br />
 			Dowered with gold,<sep />and to Sigurth gave me.
@@ -245,8 +245,8 @@
 				The eagles cried<sep />as their food they craved.
 			</textstanza>
 			<textstanza class="original">
-				(ulfar) þutu<sep />ā alla vega,<br />
-				ernir gullu<sep />ǣzli fegnir.
+				((ulfar) þutu<sep />ā alla vega,<br />
+				ernir gullu<sep />ǣzli fegnir.)
 			</textstanza>
 		</comment>
 	</block>
@@ -270,8 +270,8 @@
 				Long did I bide,<sep />my brothers awaiting.
 			</textstanza>
 			<textstanza class="original">
-				Buþumk brø̄þr<sep />bø̄tr ōsmār<br />
-				en eitt (þōttumk).
+				(Buþumk brø̄þr<sep />bø̄tr ōsmār<br />
+				en eitt (þōttumk).)
 			</textstanza>
 			Many editors reject line 4.
 		</comment>
@@ -334,7 +334,7 @@
 		<comment>
 			Some editions combine lines 3–4 with stanza <stanzaref chapter="Guthrunarkvitha II">17</stanzaref>.
 			<expl>Sigmund</expl>: Sigurth's father, who here appears as a sea-rover in Guthrun's tapestry.
-			<expl>Sigar</expl>: named in <source>Fornaldar sögur II</source>, 10, as the father of Siggeir, the latter being the husband of Sigmund's twin sister, Signy (cf. <chapterref>Fra Dautha Sinfjotla</chapterref>).
+			<expl>Sigar</expl>: named in <source>Fornaldar sögur</source> II, 10, as the father of Siggeir, the latter being the husband of Sigmund's twin sister, Signy (cf. <chapterref>Fra Dautha Sinfjotla</chapterref>).
 			<expl>Fjon</expl>: this name, referring to the Danish island of Fünen, is taken from the <source>Volsungasaga</source> paraphrase as better fitting the Danish setting of the stanza than the name in <source>Regius</source>, which is “Fife” (Scotland).
 		</comment>
 	</block>
