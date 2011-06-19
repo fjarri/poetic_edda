@@ -144,7 +144,6 @@ def printStanzaTable(block):
 		set_normal_lt = True
 
 	if set_normal_lt:
-		print block.attrib['number']
 		section_lines += u"\\normalLTfalse\n"
 
 	return section_lines + "\\eddastanza % Stanza " + unicode(number) + u"\n" + \
@@ -192,7 +191,6 @@ def printProseTable(block):
 		set_normal_lt = True
 
 	if set_normal_lt:
-		print block.attrib['label']
 		section_lines += u"\\normalLTfalse\n"
 
 	# Add main table cells
