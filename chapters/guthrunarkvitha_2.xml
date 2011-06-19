@@ -110,7 +110,7 @@
 			Wont the warrior's<sep />weight to bear.
 		</translation>
 		<comment>
-			Regarding the varying accounts of the manner of Sigurth's death cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <proseref chapter="Brot af Sigurtharkvithu" label="conclusion">concluding prose</proseref> and note.
+			Regarding the varying accounts of the manner of Sigurth's death cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <proseref chapter="Brot af Sigurtharkvithu" prose="conclusion">concluding prose</proseref> and note.
 			<expl>Grani</expl>: cf. <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <stanzaref chapter="Brot af Sigurtharkvithu">7</stanzaref>.
 		</comment>
 	</block>
