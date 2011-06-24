@@ -313,11 +313,17 @@ Guthrunarkvitha II, en forna (19 June 2011)
   (solved problem with longtable ignoring \nopagebreak);
 * Added Guthrunarkvitha II chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Guthrunarkvitha III (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarkvitha III (24 June 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Guthrunarkvitha III chapter
+* Added Guthrunarkvitha III chapter
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Oddrunargratr (planned)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Oddrunargratr chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
