@@ -1,7 +1,7 @@
-<chapter label="">
+<chapter label="Guthrunarkvitha III">
 	<block class="eddachapter">
 		<original>
-
+			Guþru`narkviþa III
 		</original>
 		<transliteration>
 			Guthrunarkvitha III
@@ -32,9 +32,10 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
+			Herkja he`t ambo`tt Atla; hon hafþi verit frila hans.<br />
+			Hon sagþi Atla, at hon hefþi se`t Þjo`þrek ok Guþru`nu ba_eþi saman.<br />
+			Atli var þa` allo`ka`tr.<br />
+			Þa` kvaþ Guþru`n:
 		</original>
 		<translation>
 			Herkja was the name of a serving-woman of Atli's; she had been his concubine.<br />
@@ -50,10 +51,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat's þe`r, Atli!<sep />a_e`, Buþla sunr?<br />
+			es þer hryggt i` hug?<sep />hvi` hla_e`r a_e`va?<br />
+			hitt mundi o/`þra jo~rlum þykkja,<sep /><br />
+			at viþ menn ma_e`ltir<sep />ok mik sa_eir.''
 		</original>
 		<translation>
 			``What thy sorrow, Atli,<sep />Buthli's son?<br />
@@ -64,13 +65,13 @@
 	</block>
 	<block class="stanza" number="2">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Tregr mik, Guþru`n<sep />Gju`ka do`ttir!<br />
+			<conj>þats</conj> mer i` ho~llu<sep />Herkja sagþi:<br />
+			at it Þjo`þrekr<sep />und þaki sva_e`fiþ<br />
+			ok le`ttliga<sep />li`ni <conj>verþisk.</conj>''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -87,13 +88,13 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þe`r munk alls þess<sep />eiþa vinna<br />
+			at enum hvi`ta<sep />helga steini,<br />
+			at viþ <conj>Þjo`þmars sun</conj><sep />þatki a`ttak<br />
+			es <conj>vo~rþ</conj> ne` verr<sep />vinna kna`tti.
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -112,10 +113,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Ne`</conj> ek halsaþa<sep />herja stilli,<br />
+			jo~fur <conj>o`neisan</conj><sep />einu sinni:<br />
+			aþrar vo~`ru<sep />okkrar spekjur,<br />
+			es vit ho~rmug tvau<sep />hnigum at ru`num.
 		</original>
 		<translation>
 			Nor ever once<sep />did my arms embrace<br />
@@ -126,10 +127,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			He`r kvam Þjo`þrekr<sep />meþ þria to/gu,<br />
+			lifa ne einir<sep /><conj>allra</conj> manna;<br />
+			<conj>hno~ggt</conj> mik at bro/`þrum<sep />ok at brynjuþum,<br />
+			<conj>hno~ggt</conj> mik at o~llum<sep />haufuþniþjum.
 		</original>
 		<translation>
 			With thirty warriors<sep />Thjothrek came,<br />
@@ -145,10 +146,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ko/mra nu` Gunnarr,<sep />kalligak Ho~gna,<br />
+			se`kak si`þan<sep />sva`sa bro/`þr;<br />
+			sverþi mundi Ho~gni<sep />sli`ks harms reka,<br />
+			nu` verþk sjo~lf fyr mik<sep />synja ly`ta.
 		</original>
 		<translation>
 			Gunnar comes not,<sep />Hogni I greet not,<br />
@@ -162,10 +163,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sentu at Saxa,<sep />sunnmanna gram,<br />
+			hann kann helga<sep />hver vellanda.''---<br />
+			Sjau <conj>tigir</conj> manna<sep />i` sal gengu,<br />
+			a`þr kva_e`n konungs<sep />i` ketil to/`ki.
 		</original>
 		<translation>
 			Summon Saxi,<sep />the southrons' king,<br />
@@ -181,10 +182,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bra` ho`n til botns<sep />bjo~rtum lo`fa<br />
+			ok upp <conj>of</conj> to`k<sep />jarknasteina:<br />
+			``Se` nu` seggir!<sep />sykn emk orþin<br />
+			heilagliga,<sep />hve` hverr velli.''
 		</original>
 		<translation>
 			To the bottom she reached<sep />with hand so bright,<br />
@@ -195,10 +196,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hlo` þa` Atla<sep />hugr i` brjo`sti,<br />
+			es heilar sa`<sep />hendr Guþru`nar:<br />
+			``Nu` skal Herkja<sep />til hvers ganga,<br />
+			su`s Guþru`nu<sep />grandi va_e`ndi.''
 		</original>
 		<translation>
 			Then Atli's heart<sep />in happiness laughed,<br />
@@ -209,10 +210,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sa`at maþr armlikt,<sep />hverrs þat sa`at,<br />
+			hve` þar a` Herkju<sep />hendr sviþnuþu;<br />
+			mey leiddu þa`<sep />i` my`ri fu`la.---<br />
+			Sva` þa` <conj>hefnd</conj> Guþru`n<sep />harma sinna.
 		</original>
 		<translation>
 			Ne'er saw man sight<sep />more sad than this,<br />
