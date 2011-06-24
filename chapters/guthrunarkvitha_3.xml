@@ -1,7 +1,7 @@
 <chapter label="Guthrunarkvitha III">
 	<block class="eddachapter">
 		<original>
-			Guþru`narkviþa III
+			Guþrūnarkviþa III
 		</original>
 		<transliteration>
 			Guthrunarkvitha III
@@ -14,28 +14,28 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The short <sr>Guthrunarkvitha III</sr>, entitled in the manuscript simply <src>Guthrunarkvitha</src>, but so numbered in most editions to distinguish it from the first and second Guthrun lays, appears only in the <src>Codex Regius</src>.
-		It is neither quoted nor paraphrased in the <src>Volsungasaga</src>, the compilers of which appear not to have known the story with which it deals.
+		The short <stanzaref chapter="Guthrunarkvitha III">Guthrunarkvitha III</stanzaref>, entitled in the manuscript simply <source>Guthrunarkvitha</source>, but so numbered in most editions to distinguish it from the first and second Guthrun lays, appears only in the <source>Codex Regius</source>.
+		It is neither quoted nor paraphrased in the <source>Volsungasaga</source>, the compilers of which appear not to have known the story with which it deals.
 		The poem as we have it is evidently complete and free from serious interpolations.
-		It can safely be dated from the first half of the eleventh century, for the ordeal by boiling water, with which it is chiefly concerned, was first introduced into Norway by St. Olaf, who died in 1030, and the poem speaks of it in stanza <sr>7</sr> as still of foreign origin.
+		It can safely be dated from the first half of the eleventh century, for the ordeal by boiling water, with which it is chiefly concerned, was first introduced into Norway by St. Olaf, who died in 1030, and the poem speaks of it in stanza <stanzaref chapter="Guthrunarkvitha III">7</stanzaref> as still of foreign origin.
 	</block>
 	<block class="text">
 		The material for the poem evidently came from North Germany, but there is little indication that the poet was working on the basis of a narrative legend already fully formed.
 		The story of the wife accused of faithlessness who proves her innocence by the test of boiling water had long been current in Germany, as elsewhere, and had attached itself to various women of legendary fame, but not except in this poem, so far as we can judge, to Guthrun (Kriemhild).
 		The introduction of Thjothrek (Theoderich, Dietrich, Thithrek) is another indication of relative lateness, for the legends of Theoderich do not appear to have reached the North materially before the year 1000.
-		On the anachronism of bringing Thjothrek to Atli's court cf. <cr>Guthrunarkvitha II</cr>, <proseref chapter="Guthrunarkvitha II" prose="p1">introductory prose</proseref>, note, in which the development of the Theoderich tradition in its relation to that of Atli is briefly outlined.
+		On the anachronism of bringing Thjothrek to Atli's court cf. <chapterref>Guthrunarkvitha II</chapterref>, <proseref chapter="Guthrunarkvitha II" prose="p1">introductory prose</proseref>, note, in which the development of the Theoderich tradition in its relation to that of Atli is briefly outlined.
 	</block>
 	<block class="text">
-		<cr>Guthrunarkvitha III</cr> is, then, little more than a dramatic German story made into a narrative lay by a Norse poet, with the names of Guthrun, Atli, Thjothrek, and Herkja incorporated for the sake of greater effectiveness.
+		<chapterref>Guthrunarkvitha III</chapterref> is, then, little more than a dramatic German story made into a narrative lay by a Norse poet, with the names of Guthrun, Atli, Thjothrek, and Herkja incorporated for the sake of greater effectiveness.
 		Its story probably nowhere formed a part of the living tradition of Sigurth and Atli, but the poem has so little distinctively Norse coloring that it may possibly have been based on a story or even a poem which its composer heard in Germany or from the lips of a German narrator.
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Herkja he`t ambo`tt Atla; hon hafþi verit frilla hans.<br />
-			Hon sagþi Atla, at hon hefþi se`t Þjo`þrek ok Guþru`nu ba_eþi saman.<br />
-			Atli var þa` allo`ka`tr.<br />
-			Þa` kvaþ Guþru`n:
+			Herkja hēt ambōtt Atla; hon hafþi verit frilla hans.<br />
+			Hon sagþi Atla, at hon hefþi sēt Þjōþrek ok Guþrūnu bæþi saman.<br />
+			Atli var þā allōkātr.<br />
+			Þā kvaþ Guþrūn:
 		</original>
 		<translation>
 			Herkja was the name of a serving-woman of Atli's; she had been his concubine.<br />
@@ -45,22 +45,22 @@
 		</translation>
 		<comment>
 			The annotator derived all the material for this note from the poem itself, except for the reference to Herkja as Atli's former concubine.
-			<expl>Herkja</expl>: the historical Kreka and the Helche of the <src>Nibelungenlied</src>, who there appears as Etzel's (Attila's) first wife.
+			<expl>Herkja</expl>: the historical Kreka and the Helche of the <source>Nibelungenlied</source>, who there appears as Etzel's (Attila's) first wife.
 			<expl>Thjothrek</expl>: cf. <ref chapter="Guthrunarkvitha III">Introductory Note</ref>.
 		</comment>
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			``Hvat's þe`r, Atli!<sep />a_e`, Buþla sunr?<br />
-			es þer hryggt i` hug?<sep />hvi` hla_e`r a_e`va?<br />
-			hitt mundi o/`þra<sep />jo~rlum þykkja,<br />
-			at viþ menn ma_e`ltir<sep />ok mik sa_eir.''
+			“Hvat's þēr, Atli!<sep />ǣ, Buþla sunr?<br />
+			es þer hryggt ī hug?<sep />hvī hlǣr ǣva?<br />
+			hitt mundi ø̄þra<sep />jǫrlum þykkja,<br />
+			at viþ menn mǣltir<sep />ok mik sæir.”
 		</original>
 		<translation>
-			``What thy sorrow, Atli,<sep />Buthli's son?<br />
+			“What thy sorrow, Atli,<sep />Buthli's son?<br />
 			Is thy heart heavy-laden?<sep />Why laughest thou never?<br />
 			It would better befit<sep />the warrior far<br />
-			To speak with men,<sep />and me to look on.''
+			To speak with men,<sep />and me to look on.”
 		</translation>
 	</block>
 	<block class="stanza" number="2">
@@ -68,19 +68,19 @@
 			Atli kvaþ:
 		</original_prelude>
 		<original>
-			``Tregr mik, Guþru`n<sep />Gju`ka do`ttir!<br />
-			<conj>þats</conj> mer i` ho~llu<sep />Herkja sagþi:<br />
-			at it Þjo`þrekr<sep />und þaki sva_e`fiþ<br />
-			ok le`ttliga<sep />li`ni <conj>verþisk.</conj>''
+			“Tregr mik, Guþrūn<sep />Gjūka dōttir!<br />
+			<conj>þats</conj> mer ī hǫllu<sep />Herkja sagþi:<br />
+			at it Þjōþrekr<sep />und þaki svǣfiþ<br />
+			ok lēttliga<sep />līni <conj>verþisk.</conj>”
 		</original>
 		<translation_prelude>
 			Atli spake:
 		</translation_prelude>
 		<translation>
-			``It troubles me, Guthrun,<sep />Gjuki's daughter,<br />
+			“It troubles me, Guthrun,<sep />Gjuki's daughter,<br />
 			What Herkja here<sep />in the hall hath told me,<br />
 			That thou in the bed<sep />with Thjothrek liest,<br />
-			Beneath the linen<sep />in lovers' guise.''
+			Beneath the linen<sep />in lovers' guise.”
 		</translation>
 		<comment>
 			The manuscript omits the names of the speakers through out.
@@ -88,35 +88,35 @@
 	</block>
 	<block class="stanza" number="3">
 		<original_prelude>
-			Guþru`n kvaþ:
+			Guþrūn kvaþ:
 		</original_prelude>
 		<original>
-			``Þe`r munk alls þess<sep />eiþa vinna<br />
-			at enum hvi`ta<sep />helga steini,<br />
-			at viþ <conj>Þjo`þmars sun</conj><sep />þatki a`ttak<br />
-			es <conj>vo~rþ</conj> ne` verr<sep />vinna kna`tti.
+			“Þēr munk alls þess<sep />eiþa vinna<br />
+			at enum hvīta<sep />helga steini,<br />
+			at viþ <conj>Þjōþmars sun</conj><sep />þatki āttak<br />
+			es <conj>vǫrþ</conj> nē verr<sep />vinna knātti.
 		</original>
 		<translation_prelude>
 			Guthrun spake:
 		</translation_prelude>
 		<translation>
-			``This shall I<sep />with oaths now swear,<br />
+			“This shall I<sep />with oaths now swear,<br />
 			Swear by the sacred<sep />stone so white,<br />
 			That nought was there<sep />with Thjothmar's son<br />
 			That man or woman<sep />may not know.
 		</translation>
 		<comment>
-			<expl>Holy stone</expl>: just what this refers to is uncertain; it may be identical with the ``ice-cold stone of Uth'' mentioned in an oath in <chapterref>Helgakvitha Hundingsbana II</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana II">29</stanzaref>.
-			<expl>Thjothmar's son</expl>: the manuscript has simply ``Thjothmar.''
-			Some editions change it as here, some assume that Thjothmar is another name or an error for Thjothrek, and Finnur Jonsson not only retains Thjothmar here but changes Thjothrek to Thjothmar in stanza <sr>5</sr> to conform to it.
+			<expl>Holy stone</expl>: just what this refers to is uncertain; it may be identical with the “ice-cold stone of Uth” mentioned in an oath in <chapterref>Helgakvitha Hundingsbana II</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana II">29</stanzaref>.
+			<expl>Thjothmar's son</expl>: the manuscript has simply “Thjothmar.”
+			Some editions change it as here, some assume that Thjothmar is another name or an error for Thjothrek, and Finnur Jonsson not only retains Thjothmar here but changes Thjothrek to Thjothmar in stanza <stanzaref chapter="Guthrunarkvitha III">5</stanzaref> to conform to it.
 		</comment>
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<conj>Ne`</conj> ek halsaþa<sep />herja stilli,<br />
-			jo~fur <conj>o`neisan</conj><sep />einu sinni:<br />
-			aþrar vo~`ru<sep />okkrar spekjur,<br />
-			es vit ho~rmug tvau<sep />hnigum at ru`num.
+			<conj>Nē</conj> ek halsaþa<sep />herja stilli,<br />
+			jǫfur <conj>ōneisan</conj><sep />einu sinni:<br />
+			aþrar vǭru<sep />okkrar spekjur,<br />
+			es vit hǫrmug tvau<sep />hnigum at rūnum.
 		</original>
 		<translation>
 			Nor ever once<sep />did my arms embrace<br />
@@ -127,10 +127,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			He`r kvam Þjo`þrekr<sep />meþ þria to/gu,<br />
+			Hēr kvam Þjōþrekr<sep />meþ þria tøgu,<br />
 			lifa ne einir<sep /><conj>allra</conj> manna;<br />
-			<conj>hno~ggt</conj> mik at bro/`þrum<sep />ok at brynjuþum,<br />
-			<conj>hno~ggt</conj> mik at o~llum<sep />haufuþniþjum.
+			<conj>hnǫggt</conj> mik at brø̄þrum<sep />ok at brynjuþum,<br />
+			<conj>hnǫggt</conj> mik at ǫllum<sep />haufuþniþjum.
 		</original>
 		<translation>
 			With thirty warriors<sep />Thjothrek came,<br />
@@ -141,15 +141,15 @@
 		<comment>
 			Regarding the death of Thjothrek's men cf. <chapterref>Guthrunarkvitha II</chapterref>, <proseref chapter="Guthrunarkvitha II" prose="p1">introductory prose</proseref>, note.
 			It was on these stanzas of <chapterref>Guthrunarkvitha III</chapterref> that the annotator based his introduction to <chapterref>Guthrunarkvitha II</chapterref>.
-			The manuscript repeats the ``thirty'' in line 2, in defiance of metrical requirements.
+			The manuscript repeats the “thirty” in line 2, in defiance of metrical requirements.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			Ko/mra nu` Gunnarr,<sep />kalligak Ho~gna,<br />
-			se`kak si`þan<sep />sva`sa bro/`þr;<br />
-			sverþi mundi Ho~gni<sep />sli`ks harms reka,<br />
-			nu` verþk sjo~lf fyr mik<sep />synja ly`ta.
+			Kømra nū Gunnarr,<sep />kalligak Hǫgna,<br />
+			sēkak sīþan<sep />svāsa brø̄þr;<br />
+			sverþi mundi Hǫgni<sep />slīks harms reka,<br />
+			nū verþk sjǫlf fyr mik<sep />synja lȳta.
 		</original>
 		<translation>
 			Gunnar comes not,<sep />Hogni I greet not,<br />
@@ -158,62 +158,62 @@
 			Now myself for my woes<sep />I shall payment win.
 		</translation>
 		<comment>
-			In the manuscript this stanza follows stanza <sr>7</sr>; many editions have made the transposition.
+			In the manuscript this stanza follows stanza <stanzaref chapter="Guthrunarkvitha III">7</stanzaref>; many editions have made the transposition.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
 		<original>
 			Sentu at Saxa,<sep />sunnmanna gram,<br />
-			hann kann helga<sep />hver vellanda.''---<br />
-			Sjau <conj>tigir</conj> manna<sep />i` sal gengu,<br />
-			a`þr kva_e`n konungs<sep />i` ketil to/`ki.
+			hann kann helga<sep />hver vellanda.”—<br />
+			Sjau <conj>tigir</conj> manna<sep />ī sal gengu,<br />
+			āþr kvǣn konungs<sep />ī ketil tø̄ki.
 		</original>
 		<translation>
 			Summon Saxi,<sep />the southrons' king,<br />
-			For be the boiling<sep />kettle can hallow.''<br />
+			For be the boiling<sep />kettle can hallow.”<br />
 			Seven hundred<sep />there were in the hall,<br />
 			Ere the queen her hand<sep />in the kettle thrust.
 		</translation>
 		<comment>
 			Who <expl>Saxi</expl> may be is not clear, but the stanza clearly points to the time when the ordeal by boiling water was still regarded as a foreign institution, and when a southern king (i. e., a Christian from some earlier-converted region) was necessary to consecrate the kettle used in the test.
 			The ordeal by boiling water followed closely the introduction of Christianity, which took place around the year 1000.
-			Some editions make two stanzas out of stanza <sr>7</sr>, and Müllenhoff contends that lines 1--2 do not constitute part of Guthrun's speech.
+			Some editions make two stanzas out of stanza <stanzaref chapter="Guthrunarkvitha III">7</stanzaref>, and Müllenhoff contends that lines 1–2 do not constitute part of Guthrun's speech.
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			Bra` ho`n til botns<sep />bjo~rtum lo`fa<br />
-			ok upp <conj>of</conj> to`k<sep />jarknasteina:<br />
-			``Se` nu` seggir!<sep />sykn emk orþin<br />
-			heilagliga,<sep />hve` hverr velli.''
+			Brā hōn til botns<sep />bjǫrtum lōfa<br />
+			ok upp <conj>of</conj> tōk<sep />jarknasteina:<br />
+			“Sē nū seggir!<sep />sykn emk orþin<br />
+			heilagliga,<sep />hvē hverr velli.”
 		</original>
 		<translation>
 			To the bottom she reached<sep />with hand so bright,<br />
 			And forth she brought<sep />the flashing stones:<br />
-			``Behold, ye warriors,<sep />well am I cleared<br />
-			Of sin by the kettle's<sep />sacred boiling.''
+			“Behold, ye warriors,<sep />well am I cleared<br />
+			Of sin by the kettle's<sep />sacred boiling.”
 		</translation>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Hlo` þa` Atla<sep />hugr i` brjo`sti,<br />
-			es heilar sa`<sep />hendr Guþru`nar:<br />
-			``Nu` skal Herkja<sep />til hvers ganga,<br />
-			su`s Guþru`nu<sep />grandi va_e`ndi.''
+			Hlō þā Atla<sep />hugr ī brjōsti,<br />
+			es heilar sā<sep />hendr Guþrūnar:<br />
+			“Nū skal Herkja<sep />til hvers ganga,<br />
+			sūs Guþrūnu<sep />grandi vǣndi.”
 		</original>
 		<translation>
 			Then Atli's heart<sep />in happiness laughed,<br />
 			When Guthrun's hand<sep />unhurt he saw;<br />
-			``Now Herkja shall come<sep />the kettle to try,<br />
-			She who grief<sep />for Guthrun planned.''
+			“Now Herkja shall come<sep />the kettle to try,<br />
+			She who grief<sep />for Guthrun planned.”
 		</translation>
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Sa`at maþr armlikt,<sep />hverrs þat sa`at,<br />
-			hve` þar a` Herkju<sep />hendr sviþnuþu;<br />
-			mey leiddu þa`<sep />i` my`ri fu`la.---<br />
-			Sva` þa` <conj>hefnd</conj> Guþru`n<sep />harma sinna.
+			Sāat maþr armlikt,<sep />hverrs þat sāat,<br />
+			hvē þar ā Herkju<sep />hendr sviþnuþu;<br />
+			mey leiddu þā<sep />ī mȳri fūla.—<br />
+			Svā þā <conj>hefnd</conj> Guþrūn<sep />harma sinna.
 		</original>
 		<translation>
 			Ne'er saw man sight<sep />more sad than this,<br />
@@ -222,7 +222,7 @@
 			And so was Guthrun's<sep />grief requited.
 		</translation>
 		<comment>
-			The word ``requited'' in line 4 is omitted in the manuscript, but it is clear that some such word was intended.
+			The word “requited” in line 4 is omitted in the manuscript, but it is clear that some such word was intended.
 			The punishment of casting a culprit into a bog to be drowned was particularly reserved for women, and is not infrequently mentioned in the sagas.
 		</comment>
 	</block>
