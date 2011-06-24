@@ -14,7 +14,7 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The short <stanzaref chapter="Guthrunarkvitha III">Guthrunarkvitha III</stanzaref>, entitled in the manuscript simply <source>Guthrunarkvitha</source>, but so numbered in most editions to distinguish it from the first and second Guthrun lays, appears only in the <source>Codex Regius</source>.
+		The short <chapterref>Guthrunarkvitha III</chapterref>, entitled in the manuscript simply <source>Guthrunarkvitha</source>, but so numbered in most editions to distinguish it from the first and second Guthrun lays, appears only in the <source>Codex Regius</source>.
 		It is neither quoted nor paraphrased in the <source>Volsungasaga</source>, the compilers of which appear not to have known the story with which it deals.
 		The poem as we have it is evidently complete and free from serious interpolations.
 		It can safely be dated from the first half of the eleventh century, for the ordeal by boiling water, with which it is chiefly concerned, was first introduced into Norway by St. Olaf, who died in 1030, and the poem speaks of it in stanza <stanzaref chapter="Guthrunarkvitha III">7</stanzaref> as still of foreign origin.
