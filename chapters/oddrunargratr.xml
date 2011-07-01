@@ -1,7 +1,7 @@
 <chapter label="Oddrunargratr">
 	<block class="eddachapter">
 		<original>
-
+			Oddru`nargra`tr
 		</original>
 		<transliteration>
 			Oddrunargratr
@@ -32,9 +32,10 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
+			Heiþrekr he`t konungr, do`ttir hans he`t Borgny`.<br />
+			Vilmundr he`t sa` er var friþill hennar.<br />
+			Hon ma`tti eigi fo_eþa bo~rn, a`þr til kom Oddru`n, Atla systir; hon hafþi verit unnusta Gunnars Gju`kasonar.<br />
+			Um þessa so~gu er he`r kveþit.
 		</original>
 		<translation>
 			Heithrek was the name of a king, whose daughter was called Borgny.<br />
@@ -51,10 +52,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Heyrþak segja<sep />i` so~gum fornum,<br />
+			hve` ma_e`r <conj>of</conj> kvam<sep />til Mornalands;<br />
+			engi ma`tti<sep />fyr jo~rþ ofan<br />
+			Heiþreks do`ttur<sep />hjalpir vinna.
 		</original>
 		<translation>
 			I have heard it told<sep />in olden tales<br />
@@ -73,10 +74,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þat fra` Oddru`n,<sep />Atla systir,<br />
+			at su` ma_e`r hafþi<sep />miklar so`ttir;<br />
+			bra` ho`n af stalli<sep />stjo`rnbitluþum<br />
+			ok a` svartan <conj>jo`</conj><sep />so~þul of lagþi.
 		</original>
 		<translation>
 			This Oddrun learned,<sep />the sister of Atli,<br />
@@ -87,16 +88,16 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Le`t ho`n mar fara<sep />moldveg sle`ttan,<br />
+			unz at ho`ri kvam<sep />ho~ll standandi;<br />
+			[ok ho`n inn <conj>of</conj> gekk<sep />endlangan sal]<br />
+			svipti ho`n so~þli<sep />af svo~ngum jo`<br />
+			auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:
 		</original>
 		<translation>
 			She let the horse go<sep />o'er the level ground,<br />
 			Till she reached the hall<sep />that loftily rose,<br />
-			(And in she went<sep />from the end of the hall;)<br />
+			[And in she went<sep />from the end of the hall;]<br />
 			From the weary steed<sep />the saddle she took;<br />
 			Hear now the speech<sep />that first she spake:
 		</translation>
@@ -106,11 +107,11 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Hvat's fra_e`gst a` foldu<sep /><lacuna /><br />
+			eþa hvat's <dagger /> hle`z<sep />Hu`nalands?''<br />
+			<stanzaprelude>Ambo`tt kvaþ:</stanzaprelude><br />
+			``He`r liggr Borgny`<sep />of borin verkjum,<br />
+			vina þi`n, Oddru`n!<sep />vittu ef hjalpir.''
 		</original>
 		<translation>
 			``What news on earth,<sep /><lacuna /><br />
@@ -127,15 +128,15 @@
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-
+			Oddru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hverr hefr <conj>vi`fi</conj><sep />vamms <conj>of</conj> leitat?<br />
+			hvi` 'ru Borgny`jar<sep />bra`þar so`ttir?<br />
+			<stanzaprelude>Ambo`tt kvaþ:</stanzaprelude><br />
+			``Vilmundr heitir<sep />vinr <conj>ho~g</conj>stalda,<br />
+			hann varþi mey<sep />varmri bla_e`ju<br />
+			[fimm vetr alla,<sep /><conj>sva`t</conj> sinn fo~þur leyndi].''
 		</original>
 		<translation_prelude>
 			Oddrun spake:
@@ -146,7 +147,7 @@
 			<stanzaprelude>The serving-maid spake:</stanzaprelude><br />
 			``Vilmund is he,<sep />the heroes' friend,<br />
 			Who wrapped the woman<sep />in bedclothes warm,<br />
-			(For winters five,<sep />yet her father knew not).''
+			[For winters five,<sep />yet her father knew not].''
 		</translation>
 		<comment>
 			The manuscript does not indicate the speakers.
@@ -160,10 +161,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa_e`r hykk ma_e`ltu<sep />þvi`git gleira,<br />
+			gekk mild fyr kne`<sep />meyju at sitja;<br />
+			ri`kt go`l Oddru`n<sep />ramt go`l Oddru`n<br />
+			bitra galdra<sep />at Borgny`ju.
 		</original>
 		<translation>
 			Then no more<sep />they spake, methinks;<br />
@@ -177,10 +178,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kna`tti ma_e`r ok mo~gr<sep />moldveg sporna,<br />
+			bo~rn en bli`þu<sep />viþ bana Ho~gna;<br />
+			þat nam at ma_e`la<sep />ma_e`r fjo~rsju`ka,<br />
+			sva`t etki kvaþ<sep />orþ et fyrra:
 		</original>
 		<translation>
 			At last were born<sep />a boy and girl,<br />
@@ -194,13 +195,16 @@
 			<textstanza class="translation">
 				Born of the sister<sep />of Hogni's slayer.
 			</textstanza>
+			<textstanza class="original">
+				(borin bjargru`num<sep />systr bana Ho~gna.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sva` hjalpi þe`r<sep />hollar va_e`ttir,<br />
+			Frigg ok Freyja<sep />ok fleiri goþ,<br />
+			sem þu` feldir me`r<sep />fa`r af ho~ndum.''
 		</original>
 		<translation>
 			``So may the holy<sep />ones thee help,<br />
@@ -215,14 +219,14 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-
+			Oddru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hne`kat af þvi`<sep />til hjalpar þe`r,<br />
+			at va_e`rir þess<sep /><conj>verþ</conj> aldrigi;<br />
+			<conj>heltk</conj> ok efndak,<sep />es hinig ma_e`ltak,<br />
+			at hvi`vetna<sep />hjalpa skyldak.<br />
+			[þa`s o~þlingar<sep />arfi skiptu].''
 		</original>
 		<translation_prelude>
 			Oddrun spake:
@@ -232,7 +236,7 @@
 			Because thou ever<sep />my aid didst earn;<br />
 			I fulfilled the oath<sep />that of old I swore,<br />
 			That aid to all<sep />I should ever bring,<br />
-			(When they shared the wealth<sep />the warriors had).''
+			[When they shared the wealth<sep />the warriors had].''
 		</translation>
 		<comment>
 			The manuscript does not name the speaker.
@@ -249,13 +253,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-
+			Borgny` kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``O_Er est, Oddru`n!<sep />ok o/rvita,<br />
+			es af fa`ri me`r<sep />flest orþ of <conj>kvazt;</conj><br />
+			en fylgþak þe`r<sep />a` fjo~rgynju,<br />
+			sem vit bro/`þrum tveim<sep /><conj>bornar</conj> va_e`rim.''
 		</original>
 		<translation_prelude>
 			Borgny spake:
@@ -272,13 +276,13 @@
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-
+			Oddru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Mank hvat ma_e`ltir<sep /><conj>meins of</conj> aptan,<br />
+			þa`s Gunnari<sep />go/rþak drekku:<br />
+			kvaþat sli`ks do/`mi<sep />si`þan mundu<br />
+			meyju verþa<sep />nema me`r einni.''
 		</original>
 		<translation_prelude>
 			Oddrun spake:
@@ -298,8 +302,8 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep />
+			Þa` nam at setjask<sep />sorgmo`þ kona<br />
+			at telja bo~l<sep />af trega sto`rum:
 		</original>
 		<translation>
 			Then the sorrowing woman<sep />sat her down<br />
@@ -312,15 +316,18 @@
 			<textstanza class="translation">
 				The maid her evil<sep />days remembered,
 			</textstanza>
+			<textstanza class="original">
+				(Ma_e`r to`k at minnask<sep />mo`þugs dags,)
+			</textstanza>
 			and inserts as a second line line 5 of stanza <sr>9</sr>.
 		</comment>
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vask upp alin<sep />i` jo~fra sal<br />
+			---flestr fagnaþi---<sep />at fira ra`þi;<br />
+			unþak aldri<sep />ok eign fo~þur<br />
+			fimm vetr eina,<sep />sva`t minn faþir lifþi.
 		</original>
 		<translation>
 			``Happy I grew<sep />in the hero's hall<br />
@@ -335,10 +342,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þat nam at ma_e`la<sep />ma`l et efsta<br />
+			sja` mo`þr konungr,<sep />a`þr hann sylti:<br />
+			mik baþ hann go/`þa<sep />golli rauþu<br />
+			ok suþr gefa<sep />syni Gri`mhildar.
 		</original>
 		<translation>
 			These were the words<sep />the weary king,<br />
@@ -353,10 +360,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En hann Brynhildi<sep />baþ hjalm geta,<br />
+			hana kvaþ o`skmey<sep />verþa skyldu;<br />
+			kvaþa ena o/`þri<sep />alna mundu<br />
+			mey i` heimi,<sep />nema mjo~tuþr spilti.
 		</original>
 		<translation>
 			But Brynhild the helm<sep />he bade to wear,<br />
@@ -373,10 +380,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Brynhildr i` bu`ri<sep />borþa rakþi,<br />
+			hafþi ho`n ly`þi<sep />ok lo~nd <conj>of</conj> sik;<br />
+			jo~rþ du`saþi<sep />ok upphiminn,<br />
+			þa`s bani Fa`fnis<sep />borg <conj>of</conj> þa`tti.
 		</original>
 		<translation>
 			At her weaving Brynhild<sep />sat in her bower,<br />
@@ -393,10 +400,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa vas vi`g vegit<sep />vo~lsku sverþi<br />
+			ok borg brotin<sep />su`s Brynhildr a`tti;<br />
+			vasa langt af þvi`,<sep />heldr va`li`tit,<br />
+			unz ve`lar þa_e`r<sep />vissi allar.
 		</original>
 		<translation>
 			Then battle was fought<sep />with the foreign swords,<br />
@@ -410,10 +417,10 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þess le`t harþar<sep />hefndir verþa,<br />
+			sva`t ver o~ll ho~fum<sep />o/`rnar raunir;<br />
+			sva`t ver o~ll ho~fum<sep />hvert land fara,<br />
+			es ho`n sveltask le`t<sep />at Sigurþi.
 		</original>
 		<translation>
 			Woeful for this<sep />her vengeance was,<br />
@@ -424,10 +431,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En Gunnari<sep />gatk at unna,<br />
+			bauga deili,<sep />sem Brynhildr skyldi;<br />
+			buþu þeir <conj>Atla</conj><sep />bauga rauþa<br />
+			ok bro/`þr mi`num<sep />bo/`tr o`smaar.
 		</original>
 		<translation>
 			Love to Gunnar<sep />then I gave,<br />
@@ -443,10 +450,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bauþ hann enn viþ me`r<sep /><dagger /> bu` fimmta`n,<br />
+			hliþfarm Grana<sep />ef hafa vildi<conj>t:</conj><br />
+			en Atli kvazk<sep />eigi vilja<br />
+			mund aldrigi<sep />at megi Gju`ka.
 		</original>
 		<translation>
 			Fifteen dwellings<sep />fain would he give<br />
@@ -461,10 +468,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þeygi vit mo~`ttum<sep />viþ munum vinna,<br />
+			nema heltk ho~fþi<sep />viþ hringbrota;<br />
+			ma_e`ltu margir<sep />mi`nir niþjar,<br />
+			kvo~`þusk okkr hafa<sep />orþit ba_e`þi.
 		</original>
 		<translation>
 			Yet could we not<sep />our love o'ercome,<br />
@@ -475,10 +482,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En mik Atli kvaþ<sep />eigi mundu<br />
+			ly`ti ra`þa<sep />ne` lo~st go/rva;<br />
+			en sli`ks skyli<sep />synja aldri<br />
+			maþr fyr annan,<sep />þars munugþ deilir!
 		</original>
 		<translation>
 			Atli said<sep />that never I<br />
@@ -489,10 +496,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sendi Atli<sep />o~`ru si`na<br />
+			<conj>of</conj> myrkvan viþ<sep />mi`n at freista,<br />
+			ok þeir kvo~`mu<sep />þars koma ne skyldut,<br />
+			þa`s breiddum vit<sep />bla_e`ju eina.
 		</original>
 		<translation>
 			Soon his men<sep />did Atli send,<br />
@@ -507,10 +514,10 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Buþum vit þegnum<sep />bauga rauþa,<br />
+			at þeir eigi til<sep />Atla segþi;<br />
+			en þeir hvatliga<sep />heim skunduþu<br />
+			ok o`liga<sep />Atla so~gþu.
 		</original>
 		<translation>
 			To the warriors ruddy<sep />rings we offered,<br />
@@ -524,8 +531,8 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			en Guþru`nu<sep />go~rla leyndu<br />
+			<conj>þvi`s</conj> heldr vita<sep />ho~lfu skyldi.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -542,10 +549,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hlymr vas at heyra<sep />ho`fgollinna,<br />
+			þa`s i` garþ riþu<sep />Gju`ka arfar;<br />
+			þeir o`r Ho~gna<sep />hjarta sko~`ru<br />
+			en i` ormgarþ<sep />annan lo~gþu.
 		</original>
 		<translation>
 			Great was the clatter<sep />of gilded hoofs<br />
@@ -559,10 +566,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			Nam horskr konungr<sep />ho~rpu sveigja<br />
+			<lacuna /><sep /><lacuna /><br />
+			þvi`t hugþi mik<sep />til hjalpar se`r<br />
+			kynri`kr konungr<sep />of koma mundu.
 		</original>
 		<translation>
 			The hero wise<sep />on his harp then smote,<br />
@@ -578,10 +585,10 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vask enn farin<sep />einu sinni<br />
+			til Geirmundar<sep />go/rva drykkju;<br />
+			namk at heyra<sep />o`r Hle`seyju,<br />
+			hve` þar af stri`þum<sep />strengir ma_e`ltu.
 		</original>
 		<translation>
 			Alone was I gone<sep />to Geirmund then,<br />
@@ -600,10 +607,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Baþk amba`ttir<sep />bu`nar verþa,<br />
+			vildak fylkis<sep />fjo~rvi bjarga;<br />
+			le`tum fljo`ta<sep />far <conj>sund</conj> yfir,<br />
+			unz alla sa`k<sep />Atla garþa.
 		</original>
 		<translation>
 			I bade the serving-maids<sep />ready to be,<br />
@@ -618,10 +625,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvam en arma<sep />u`t ska_e`vandi<br />
+			mo`þir Atla<sep />---ho`n skyli morna!---,<br />
+			ok Gunnari<sep />gro`f til hjarta,<br />
+			sva`t ma`ttigak<sep />ma_e`rum bjarga.
 		</original>
 		<translation>
 			Then crawling the evil<sep />woman came,<br />
@@ -637,10 +644,10 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Opt undrumk þat,<sep />hvi` eptir ma`k,<br />
+			linnvengis bil!<sep />li`fi halda,<br />
+			es o`gnhvo~tum<sep />unna þo`ttumk<br />
+			sverþa deili<sep />sem sjalfri me`r.
 		</original>
 		<translation>
 			Oft have I wondered<sep />how after this,<br />
@@ -654,10 +661,10 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sazt ok hly`ddir,<sep />meþan sagþak þe`r<br />
+			mo~rg ill <conj>of</conj> sko~p<sep />mi`n ok þeira;<br />
+			maþr hverr lifir<sep />at munum si`num---<br />
+			nu`'s <conj>of</conj> genginn<sep />gra`tr Oddru`nar.''
 		</original>
 		<translation>
 			Thou didst see and listen,<sep />the while I said<br />
