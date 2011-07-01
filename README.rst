@@ -372,3 +372,5 @@ Tasks for distant future
   unnecessary '.'.
 * \nopagebreak between \asterisks and \section does not work
   (see Hyndluljoth, stanza 30 for an example)
+* Find all comments which start from <sr>*</sr>--<sr>*</sr> and replace
+  them by <block class="comment"> (and corresponding references)
