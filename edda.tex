@@ -225,10 +225,12 @@
 	\newcommand{\eddachapterref}[2]{\textcolor{chapterrefcolor}{#2}}
 	\newcommand{\eddastanzaref}[2]{\textcolor{stanzarefcolor}{#2}}
 	\newcommand{\eddaproseref}[3]{\textcolor{proserefcolor}{#3}}
+	\newcommand{\eddacommentref}[3]{\textcolor{proserefcolor}{#3}}
 \else
 	\newcommand{\eddachapterref}[2]{\hyperref[cha:#1]{\textcolor{chapterrefcolor}{#2}}}
 	\newcommand{\eddastanzaref}[2]{\hyperref[cha:#1:#2]{\textcolor{stanzarefcolor}{#2}}}
 	\newcommand{\eddaproseref}[3]{\hyperref[cha:#1:#2]{\textcolor{proserefcolor}{#3}}}
+	\newcommand{\eddacommentref}[3]{\hyperref[cha:#1:#2]{\textcolor{proserefcolor}{#3}}}
 \fi
 
 \newcommand{\myemph}[1]{\textcolor{emphcolor}{\emph{#1}}}
@@ -333,6 +335,15 @@
 % but it changes only the font size
 \newcommand{\eddasectiontitle}[1]{\addsec*{#1}}
 \newcommand{\eddasectionsubtitle}[1]{{\large\sffamily\noindent#1}\nopagebreak\vskip\baselineskip \nopagebreak}
+
+\newcommand{\eddacomment}[2]{%
+	\nopagebreak%
+	\eddastanzalabel{#1}%
+	\nopagebreak%
+	{\commentfont\noindent#2}%
+	\nopagebreak%
+	\vskip 2\baselineskip%
+}
 
 % base command for stanza pair
 \newcommand{\eddastanza}[3][\@empty]{
@@ -496,6 +507,7 @@ English: Henry Adams Bellows
 \include{build/drap_niflunga}
 \include{build/guthrunarkvitha_2}
 \include{build/guthrunarkvitha_3}
+\include{build/oddrunargratr}
 
 \include{build/pronounciation}
 

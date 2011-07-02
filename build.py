@@ -1,6 +1,6 @@
 # coding=utf-8
 
-from xml.etree.ElementTree import ElementTree, dump
+from xml.etree.ElementTree import ElementTree, dump, XML
 import codecs
 import os, os.path
 import re
@@ -44,6 +44,20 @@ def deprettify(elem):
 	if elem.text == '':
 		elem.text = None
 
+def printComment(block):
+
+	global current_label
+
+	label = block.attrib['label']
+	start = block.attrib['start']
+	stop = block.attrib['stop']
+	text_label = u'<temp><stanzaref chapter="{chapter}">{start}</stanzaref>–<stanzaref chapter="{chapter}">{stop}</stanzaref>. </temp>'.format(
+		chapter=current_label, start=start, stop=stop
+	)
+	text_label = XML((text_label).encode('utf-8'))
+
+	comment = printText(text_label) + printText(block.find('comment'))
+	return u"\\eddacomment{" + label + u"}{" + comment + u"}\n\n"
 
 # Function for printing paired stanzas as multi-row tables
 def printStanzaTable(block):
@@ -407,6 +421,12 @@ def listToTex(l):
 				chapter=attrib['chapter'],
 				stanza=text if 'stanza' not in attrib else attrib['stanza']))
 
+		elif tag == 'commentref':
+			res.append(u'\\eddacommentref{{{chapter}}}{{{label}}}{{{text}}}'.format(
+				chapter=attrib['chapter'],
+				label=attrib['comment'],
+				text=text))
+
 		elif tag == 'proseref':
 			res.append(u'\\eddaproseref{{{chapter}}}{{{label}}}{{{text}}}'.format(
 				chapter=attrib['chapter'],
@@ -536,6 +556,7 @@ if __name__ == '__main__':
 		'eddasection': printEddaSectionHeader,
 		'prosestanza': printProseTable,
 		'asterisks': printAsterisks,
+		'comment': printComment,
 	}
 
 	filenames = os.listdir('chapters')
