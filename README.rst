@@ -319,11 +319,18 @@ Guthrunarkvitha III (24 June 2011)
 
 * Added Guthrunarkvitha III chapter
 
-~~~~~~~~~~~~~~~~~~~~~~~
-Oddrunargratr (planned)
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Oddrunargratr (2 July 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Oddrunargratr chapter
+* Added Oddrunargratr chapter;
+* Added separate style for 'multistanza' comments
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Atlakvitha en Grönlenzka (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Atlakvitha en Grönlenzka chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
