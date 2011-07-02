@@ -1,7 +1,7 @@
 <chapter label="Oddrunargratr">
 	<block class="eddachapter">
 		<original>
-			Oddru`nargra`tr
+			Oddrūnargrātr
 		</original>
 		<transliteration>
 			Oddrunargratr
@@ -14,28 +14,28 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The <cr>Oddrunargratr</cr> follows <cr>Guthrunarkvitha III</cr> in the <src>Codex Regius</src>; it is not quoted or mentioned elsewhere, except that the composer of the <ref chapter="Sigurtharkvitha en Skamma">``short'' Sigurth lay</ref> seems to have been familiar with it.
-		The <src>Volsungasaga</src> says nothing of the story on which it is based, and mentions Oddrun only once, in the course of its paraphrase of Brynhild's prophecy from the <ref chapter="Sigurtharkvitha en Skamma">``short'' Sigurth lay</ref>.
-		That the poem comes from the eleventh century is generally agreed; prior to the year 1000 there is no trace of the figure of Oddrun, Atli's sister, and yet the <cr>Oddrunargratr</cr> is almost certainly older than the <ref chapter="Sigurtharkvitha en Skamma">``short'' Sigurth lay</ref>, so that the last half of the eleventh century seems to be a fairly safe guess.
+		The <chapterref>Oddrunargratr</chapterref> follows <chapterref>Guthrunarkvitha III</chapterref> in the <source>Codex Regius</source>; it is not quoted or mentioned elsewhere, except that the composer of the <ref chapter="Sigurtharkvitha en Skamma">“short” Sigurth lay</ref> seems to have been familiar with it.
+		The <source>Volsungasaga</source> says nothing of the story on which it is based, and mentions Oddrun only once, in the course of its paraphrase of Brynhild's prophecy from the <ref chapter="Sigurtharkvitha en Skamma">“short” Sigurth lay</ref>.
+		That the poem comes from the eleventh century is generally agreed; prior to the year 1000 there is no trace of the figure of Oddrun, Atli's sister, and yet the <chapterref>Oddrunargratr</chapterref> is almost certainly older than the <ref chapter="Sigurtharkvitha en Skamma">“short” Sigurth lay</ref>, so that the last half of the eleventh century seems to be a fairly safe guess.
 	</block>
 	<block class="text">
 		Where or how the figure of Oddrun entered the Sigurth-Atli cycle is uncertain.
-		She does not appear in any of the extant German versions, and it is generally assumed that she was a creation of the North, though the poet refers to ``old tales'' concerning her.
+		She does not appear in any of the extant German versions, and it is generally assumed that she was a creation of the North, though the poet refers to “old tales” concerning her.
 		She does not directly affect the course of the story at all, though the poet has used effectively the episode of Gunnar's death, with the implication that Atli's vengeance on Gunnar and Hogni was due, at least in part, to his discovery of Gunnar's love affair with Oddrun.
-		The material which forms the background of Oddrun's story belongs wholly to the German part of the legend (cf. introductory note to <cr>Gripisspo</cr>), and is paralleled with considerable closeness in the <src>Nibelungenlied</src>; only Oddrun herself and the subsidiary figures of Borgny and Vilmund are Northern additions.
+		The material which forms the background of Oddrun's story belongs wholly to the German part of the legend (cf. introductory note to <chapterref>Gripisspo</chapterref>), and is paralleled with considerable closeness in the <source>Nibelungenlied</source>; only Oddrun herself and the subsidiary figures of Borgny and Vilmund are Northern additions.
 		The geography, on the other hand, is so utterly chaotic as to indicate that the original localization of the Atli story had lost all trace of significance by the time this poem was composed.
 	</block>
 	<block class="text">
-		In the manuscript the poem, or rather the brief introductory prose note, bears the heading ``Of Borgny and Oddrun,'' but nearly all editions, following late paper manuscripts, have given the poem the title it bears here.
+		In the manuscript the poem, or rather the brief introductory prose note, bears the heading “Of Borgny and Oddrun,” but nearly all editions, following late paper manuscripts, have given the poem the title it bears here.
 		Outside of a few apparently defective stanzas, and some confusing transpositions, the poem has clearly been preserved in good condition, and the beginning and end are definitely marked.
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Heiþrekr he`t konungr, do`ttir hans he`t Borgny`.<br />
-			Vilmundr he`t sa` er var friþill hennar.<br />
-			Hon ma`tti eigi fo_eþa bo~rn, a`þr til kom Oddru`n, Atla systir; hon hafþi verit unnusta Gunnars Gju`kasonar.<br />
-			Um þessa so~gu er he`r kveþit.
+			Heiþrekr hēt konungr, dōttir hans hēt Borgnȳ.<br />
+			Vilmundr hēt sā er var friþill hennar.<br />
+			Hon mātti eigi fœþa bǫrn, āþr til kom Oddrūn, Atla systir; hon hafþi verit unnusta Gunnars Gjūkasonar.<br />
+			Um þessa sǫgu er hēr kveþit.
 		</original>
 		<translation>
 			Heithrek was the name of a king, whose daughter was called Borgny.<br />
@@ -52,10 +52,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			Heyrþak segja<sep />i` so~gum fornum,<br />
-			hve` ma_e`r <conj>of</conj> kvam<sep />til Mornalands;<br />
-			engi ma`tti<sep />fyr jo~rþ ofan<br />
-			Heiþreks do`ttur<sep />hjalpir vinna.
+			Heyrþak segja<sep />ī sǫgum fornum,<br />
+			hvē mǣr <conj>of</conj> kvam<sep />til Mornalands;<br />
+			engi mātti<sep />fyr jǫrþ ofan<br />
+			Heiþreks dōttur<sep />hjalpir vinna.
 		</original>
 		<translation>
 			I have heard it told<sep />in olden tales<br />
@@ -66,18 +66,18 @@
 		<comment>
 			<expl>Olden tales</expl>: this may be merely a stock phrase, or it may really mean that the poet found his story in oral prose tradition.
 			<expl>Morningland</expl>: the poem's geography is utterly obscure.
-			``Morningland'' is apparently identical with ``Hunland'' (stanza <sr>4</sr>), and yet Oddrun is herself sister of the king of the Huns.
-			Vigfusson tries to make ``Mornaland'' into ``Morva land'' and explain it as Moravia.
+			“Morningland” is apparently identical with “Hunland” (stanza <stanzaref chapter="Oddrunargratr">4</stanzaref>), and yet Oddrun is herself sister of the king of the Huns.
+			Vigfusson tries to make “Mornaland” into “Morva land” and explain it as Moravia.
 			Probably it means little more than a country lying vaguely in the East.
-			With stanza <sr>28</sr> the confusion grows worse.
+			With stanza <stanzaref chapter="Oddrunargratr">28</stanzaref> the confusion grows worse.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Þat fra` Oddru`n,<sep />Atla systir,<br />
-			at su` ma_e`r hafþi<sep />miklar so`ttir;<br />
-			bra` ho`n af stalli<sep />stjo`rnbitluþum<br />
-			ok a` svartan <conj>jo`</conj><sep />so~þul of lagþi.
+			Þat frā Oddrūn,<sep />Atla systir,<br />
+			at sū mǣr hafþi<sep />miklar sōttir;<br />
+			brā hōn af stalli<sep />stjōrnbitluþum<br />
+			ok ā svartan <conj>jō</conj><sep />sǫþul of lagþi.
 		</original>
 		<translation>
 			This Oddrun learned,<sep />the sister of Atli,<br />
@@ -88,10 +88,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			Le`t ho`n mar fara<sep />moldveg sle`ttan,<br />
-			unz at ho`ri kvam<sep />ho~ll standandi;<br />
-			[ok ho`n inn <conj>of</conj> gekk<sep />endlangan sal]<br />
-			svipti ho`n so~þli<sep />af svo~ngum jo`<br />
+			Lēt hōn mar fara<sep />moldveg slēttan,<br />
+			unz at hōri kvam<sep />hǫll standandi;<br />
+			[ok hōn inn <conj>of</conj> gekk<sep />endlangan sal]<br />
+			svipti hōn sǫþli<sep />af svǫngum jō<br />
 			auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:
 		</original>
 		<translation>
@@ -107,47 +107,47 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			``Hvat's fra_e`gst a` foldu<sep /><lacuna /><br />
-			eþa hvat's <dagger /> hle`z<sep />Hu`nalands?''<br />
-			<stanzaprelude>Ambo`tt kvaþ:</stanzaprelude><br />
-			``He`r liggr Borgny`<sep />of borin verkjum,<br />
-			vina þi`n, Oddru`n!<sep />vittu ef hjalpir.''
+			“Hvat's frǣgst ā foldu<sep /><lacuna /><br />
+			eþa hvat's <dagger /> hlēz<sep />Hūnalands?”<br />
+			<stanzaprelude>Ambōtt kvaþ:</stanzaprelude><br />
+			“Hēr liggr Borgnȳ<sep />of borin verkjum,<br />
+			vina þīn, Oddrūn!<sep />vittu ef hjalpir.”
 		</original>
 		<translation>
-			``What news on earth,<sep /><lacuna /><br />
-			Or what has happened<sep />in Hunland now?''<br />
+			“What news on earth,<sep /><lacuna /><br />
+			Or what has happened<sep />in Hunland now?”<br />
 			<stanzaprelude>A serving-maid spake:</stanzaprelude><br />
-			``Here Borgny lies<sep />in bitter pain,<br />
-			Thy friend, and, Oddrun,<sep />thy help would find.''
+			“Here Borgny lies<sep />in bitter pain,<br />
+			Thy friend, and, Oddrun,<sep />thy help would find.”
 		</translation>
 		<comment>
 			Line 1 in the original appears to have lost its second half.
-			In line 2 the word rendered ``has happened'' is doubtful.
-			The manuscript does not indicate the speaker of lines 3--4, and a few editors assign them to Borgny herself.
+			In line 2 the word rendered “has happened” is doubtful.
+			The manuscript does not indicate the speaker of lines 3–4, and a few editors assign them to Borgny herself.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original_prelude>
-			Oddru`n kvaþ:
+			Oddrūn kvaþ:
 		</original_prelude>
 		<original>
-			``Hverr hefr <conj>vi`fi</conj><sep />vamms <conj>of</conj> leitat?<br />
-			hvi` 'ru Borgny`jar<sep />bra`þar so`ttir?<br />
-			<stanzaprelude>Ambo`tt kvaþ:</stanzaprelude><br />
-			``Vilmundr heitir<sep />vinr <conj>ho~g</conj>stalda,<br />
-			hann varþi mey<sep />varmri bla_e`ju<br />
-			[fimm vetr alla,<sep /><conj>sva`t</conj> sinn fo~þur leyndi].''
+			“Hverr hefr <conj>vīfi</conj><sep />vamms <conj>of</conj> leitat?<br />
+			hvī 'ru Borgnȳjar<sep />brāþar sōttir?<br />
+			<stanzaprelude>Ambōtt kvaþ:</stanzaprelude><br />
+			“Vilmundr heitir<sep />vinr <conj>hǫg</conj>stalda,<br />
+			hann varþi mey<sep />varmri blǣju<br />
+			[fimm vetr alla,<sep /><conj>svāt</conj> sinn fǫþur leyndi].”
 		</original>
 		<translation_prelude>
 			Oddrun spake:
 		</translation_prelude>
 		<translation>
-			``Who worked this woe<sep />for the woman thus,<br />
-			Or why so sudden<sep />is Borgny sick?''<br />
+			“Who worked this woe<sep />for the woman thus,<br />
+			Or why so sudden<sep />is Borgny sick?”<br />
 			<stanzaprelude>The serving-maid spake:</stanzaprelude><br />
-			``Vilmund is he,<sep />the heroes' friend,<br />
+			“Vilmund is he,<sep />the heroes' friend,<br />
 			Who wrapped the woman<sep />in bedclothes warm,<br />
-			[For winters five,<sep />yet her father knew not].''
+			[For winters five,<sep />yet her father knew not].”
 		</translation>
 		<comment>
 			The manuscript does not indicate the speakers.
@@ -156,15 +156,15 @@
 				What warrior now<sep />hath worked this woe?
 			</textstanza>
 			The manuscript indicates line 3 as beginning a new stanza.
-			Line 5, apparently modeled on line 4 of stanza <sr>13</sr>, is probably spurious.
+			Line 5, apparently modeled on line 4 of stanza <stanzaref chapter="Oddrunargratr">13</stanzaref>, is probably spurious.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			Þa_e`r hykk ma_e`ltu<sep />þvi`git fleira,<br />
-			gekk mild fyr kne`<sep />meyju at sitja;<br />
-			ri`kt go`l Oddru`n,<sep />ramt go`l Oddru`n<br />
-			bitra galdra<sep />at Borgny`ju.
+			Þǣr hykk mǣltu<sep />þvīgit fleira,<br />
+			gekk mild fyr knē<sep />meyju at sitja;<br />
+			rīkt gōl Oddrūn,<sep />ramt gōl Oddrūn<br />
+			bitra galdra<sep />at Borgnȳju.
 		</original>
 		<translation>
 			Then no more<sep />they spake, methinks;<br />
@@ -178,10 +178,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Kna`tti ma_e`r ok mo~gr<sep />moldveg sporna,<br />
-			bo~rn en bli`þu<sep />viþ bana Ho~gna;<br />
-			þat nam at ma_e`la<sep />ma_e`r fjo~rsju`ka,<br />
-			sva`t etki kvaþ<sep />orþ et fyrra:
+			Knātti mǣr ok mǫgr<sep />moldveg sporna,<br />
+			bǫrn en blīþu<sep />viþ bana Hǫgna;<br />
+			þat nam at mǣla<sep />mǣr fjǫrsjūka,<br />
+			svāt etki kvaþ<sep />orþ et fyrra:
 		</original>
 		<translation>
 			At last were born<sep />a boy and girl,<br />
@@ -196,20 +196,20 @@
 				Born of the sister<sep />of Hogni's slayer.
 			</textstanza>
 			<textstanza class="original">
-				(borin bjargru`num<sep />systr bana Ho~gna.)
+				(borin bjargrūnum<sep />systr bana Hǫgna.)
 			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			``Sva` hjalpi þe`r<sep />hollar va_e`ttir,<br />
+			“Svā hjalpi þēr<sep />hollar vǣttir,<br />
 			Frigg ok Freyja<sep />ok fleiri goþ,<br />
-			sem þu` feldir me`r<sep />fa`r af ho~ndum.''
+			sem þū feldir mēr<sep />fār af hǫndum.”
 		</original>
 		<translation>
-			``So may the holy<sep />ones thee help,<br />
+			“So may the holy<sep />ones thee help,<br />
 			Frigg and Freyja<sep />and favoring gods,<br />
-			As thou hast saved me<sep />from sorrow now.''
+			As thou hast saved me<sep />from sorrow now.”
 		</translation>
 		<comment>
 			Regarding <expl>Frigg</expl> as a goddess of healing cf. <chapterref>Svipdagsmol</chapterref>, <stanzaref chapter="Svipdagsmol">52</stanzaref>, note.
@@ -219,133 +219,133 @@
 	</block>
 	<block class="stanza" number="9">
 		<original_prelude>
-			Oddru`n kvaþ:
+			Oddrūn kvaþ:
 		</original_prelude>
 		<original>
-			``Hne`kat af þvi`<sep />til hjalpar þe`r,<br />
-			at va_e`rir þess<sep /><conj>verþ</conj> aldrigi;<br />
-			<conj>heltk</conj> ok efndak,<sep />es hinig ma_e`ltak,<br />
-			at hvi`vetna<sep />hjalpa skyldak.<br />
-			[þa`s o~þlingar<sep />arfi skiptu].''
+			“Hnēkat af þvī<sep />til hjalpar þēr,<br />
+			at vǣrir þess<sep /><conj>verþ</conj> aldrigi;<br />
+			<conj>heltk</conj> ok efndak,<sep />es hinig mǣltak,<br />
+			at hvīvetna<sep />hjalpa skyldak.<br />
+			[þās ǫþlingar<sep />arfi skiptu].”
 		</original>
 		<translation_prelude>
 			Oddrun spake:
 		</translation_prelude>
 		<translation>
-			``I came not hither<sep />to help thee thus<br />
+			“I came not hither<sep />to help thee thus<br />
 			Because thou ever<sep />my aid didst earn;<br />
 			I fulfilled the oath<sep />that of old I swore,<br />
 			That aid to all<sep />I should ever bring,<br />
-			[When they shared the wealth<sep />the warriors had].''
+			[When they shared the wealth<sep />the warriors had].”
 		</translation>
 		<comment>
 			The manuscript does not name the speaker.
-			In line 2 the word rendered ``earn'' is omitted in the manuscript, but nearly all editions have supplied it.
+			In line 2 the word rendered “earn” is omitted in the manuscript, but nearly all editions have supplied it.
 			Line 5 is clearly either interpolated or out of place.
-			It may be all that is left of a stanza which stood between stanzas <sr>15</sr> and <sr>16</sr>, or it may belong in stanza <sr>12</sr>.
+			It may be all that is left of a stanza which stood between stanzas <stanzaref chapter="Oddrunargratr">15</stanzaref> and <stanzaref chapter="Oddrunargratr">16</stanzaref>, or it may belong in stanza <stanzaref chapter="Oddrunargratr">12</stanzaref>.
 		</comment>
 	</block>
 	<block class="comment" label="10--20" start="10">
 		<comment>
-			In the manuscript the order is as follows: <sr>12</sr>; <sr>13</sr>; <sr>14</sr>; <sr>15</sr>, 3--4; <sr>10</sr>; <sr>11</sr>; <sr>16</sr>; <sr>17</sr>; <sr>15</sr>; <sr>19</sr>, 1--2; <sr>15</sr>, 1--2; <sr>19</sr>, 3--4; <sr>20</sr>.
-			The changes made here, following several of the editions, are: (a) the transposition of stanzas <sr>10</sr>--<sr>11</sr>, which are clearly dialogue, out of the body of the lament to a position just before it; (b) the transposition of lines 1--2 of stanza <sr>15</sr> to their present position from the middle of stanza <sr>19</sr>.
+			In the manuscript the order is as follows: <stanzaref chapter="Oddrunargratr">12</stanzaref>; <stanzaref chapter="Oddrunargratr">13</stanzaref>; <stanzaref chapter="Oddrunargratr">14</stanzaref>; <stanzaref chapter="Oddrunargratr">15</stanzaref>, 3–4; <stanzaref chapter="Oddrunargratr">10</stanzaref>; <stanzaref chapter="Oddrunargratr">11</stanzaref>; <stanzaref chapter="Oddrunargratr">16</stanzaref>; <stanzaref chapter="Oddrunargratr">17</stanzaref>; <stanzaref chapter="Oddrunargratr">15</stanzaref>; <stanzaref chapter="Oddrunargratr">19</stanzaref>, 1–2; <stanzaref chapter="Oddrunargratr">15</stanzaref>, 1–2; <stanzaref chapter="Oddrunargratr">19</stanzaref>, 3–4; <stanzaref chapter="Oddrunargratr">20</stanzaref>.
+			The changes made here, following several of the editions, are: (a) the transposition of stanzas <stanzaref chapter="Oddrunargratr">10</stanzaref>–<stanzaref chapter="Oddrunargratr">11</stanzaref>, which are clearly dialogue, out of the body of the lament to a position just before it; (b) the transposition of lines 1–2 of stanza <stanzaref chapter="Oddrunargratr">15</stanzaref> to their present position from the middle of stanza <stanzaref chapter="Oddrunargratr">19</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="10">
 		<original_prelude>
-			Borgny` kvaþ:
+			Borgnȳ kvaþ:
 		</original_prelude>
 		<original>
-			``O_Er est, Oddru`n!<sep />ok o/rvita,<br />
-			es af fa`ri me`r<sep />flest orþ of <conj>kvazt;</conj><br />
-			en fylgþak þe`r<sep />a` fjo~rgynju,<br />
-			sem vit bro/`þrum tveim<sep /><conj>bornar</conj> va_e`rim.''
+			“Œr est, Oddrūn!<sep />ok ørvita,<br />
+			es af fāri mēr<sep />flest orþ of <conj>kvazt;</conj><br />
+			en fylgþak þēr<sep />ā fjǫrgynju,<br />
+			sem vit brø̄þrum tveim<sep /><conj>bornar</conj> vǣrim.”
 		</original>
 		<translation_prelude>
 			Borgny spake:
 		</translation_prelude>
 		<translation>
-			``Wild art thou, Oddrun,<sep />and witless now,<br />
+			“Wild art thou, Oddrun,<sep />and witless now,<br />
 			That so in hatred<sep />to me thou speakest;<br />
 			I followed thee<sep />where thou didst fare,<br />
-			As we had been born<sep />of brothers twain.''
+			As we had been born<sep />of brothers twain.”
 		</translation>
 		<comment>
-			The manuscript does not name the speaker; cf. <commentref chapter="Oddrunargratr" comment="10--20">note on stanzas 10--20</commentref>.
+			The manuscript does not name the speaker; cf. <commentref chapter="Oddrunargratr" comment="10--20">note on stanzas 10–20</commentref>.
 		</comment>
 	</block>
 	<block class="stanza" number="11">
 		<original_prelude>
-			Oddru`n kvaþ:
+			Oddrūn kvaþ:
 		</original_prelude>
 		<original>
-			``Mank hvat ma_e`ltir<sep /><conj>meins of</conj> aptan,<br />
-			þa`s Gunnari<sep />go/rþak drekku:<br />
-			kvaþat sli`ks do/`mi<sep />si`þan mundu<br />
-			meyju verþa<sep />nema me`r einni.''
+			“Mank hvat mǣltir<sep /><conj>meins of</conj> aptan,<br />
+			þās Gunnari<sep />gørþak drekku:<br />
+			kvaþat slīks dø̄mi<sep />sīþan mundu<br />
+			meyju verþa<sep />nema mēr einni.”
 		</original>
 		<translation_prelude>
 			Oddrun spake:
 		</translation_prelude>
 		<translation>
-			``I remember the evil<sep />one eve thou spakest,<br />
+			“I remember the evil<sep />one eve thou spakest,<br />
 			When a draught I gave<sep />to Gunnar then;<br />
 			Thou didst say that never<sep />such a deed<br />
-			By maid was done<sep />save by me alone.''
+			By maid was done<sep />save by me alone.”
 		</translation>
 		<comment>
-			The manuscript does not name the speaker; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10--20</commentref>.
-			The word rendered ``evil'' in line 1 is a conjectural addition.
+			The manuscript does not name the speaker; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10–20</commentref>.
+			The word rendered “evil” in line 1 is a conjectural addition.
 			Apparently Borgny was present at Atli's court while the love affair between Oddrun and Gunnar was in progress, and criticised Oddrun for her part in it.
 			<expl>A draught</expl>, etc.: apparently in reference to a secret meeting of the lovers.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Þa` nam at setjask<sep />sorgmo`þ kona<br />
-			at telja bo~l<sep />af trega sto`rum:
+			Þā nam at setjask<sep />sorgmōþ kona<br />
+			at telja bǫl<sep />af trega stōrum:
 		</original>
 		<translation>
 			Then the sorrowing woman<sep />sat her down<br />
 			To tell the grief<sep />of her troubles great.
 		</translation>
 		<comment>
-			In the manuscript this stanza follows stanza <sr>9</sr>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10--20</commentref>.
+			In the manuscript this stanza follows stanza <stanzaref chapter="Oddrunargratr">9</stanzaref>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10–20</commentref>.
 			No gap is indicated, but something has presumably been lost.
 			Grundtvig supplies as a first line:
 			<textstanza class="translation">
 				The maid her evil<sep />days remembered,
 			</textstanza>
 			<textstanza class="original">
-				(Ma_e`r to`k at minnask<sep />mo`þugs dags,)
+				(Mǣr tōk at minnask<sep />mōþugs dags,)
 			</textstanza>
-			and inserts as a second line line 5 of stanza <sr>9</sr>.
+			and inserts as a second line line 5 of stanza <stanzaref chapter="Oddrunargratr">9</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			``Vask upp alin<sep />i` jo~fra sal<br />
-			---flestr fagnaþi---<sep />at fira ra`þi;<br />
-			unþak aldri<sep />ok eign fo~þur<br />
-			fimm vetr eina,<sep />sva`t minn faþir lifþi.
+			“Vask upp alin<sep />ī jǫfra sal<br />
+			—flestr fagnaþi—<sep />at fira rāþi;<br />
+			unþak aldri<sep />ok eign fǫþur<br />
+			fimm vetr eina,<sep />svāt minn faþir lifþi.
 		</original>
 		<translation>
-			``Happy I grew<sep />in the hero's hall<br />
+			“Happy I grew<sep />in the hero's hall<br />
 			As the warriors wished,<sep />and they loved me well;<br />
 			Glad I was<sep />of my father's gifts,<br />
 			For winters five,<sep />while my father lived.
 		</translation>
 		<comment>
-			The manuscript indicates line 3 as the beginning of a new stanza; many editions combine lines 1--2 with stanza <sr>12</sr> and lines 3--4 with lines 1--2 of stanza <sr>14</sr>.
+			The manuscript indicates line 3 as the beginning of a new stanza; many editions combine lines 1–2 with stanza <stanzaref chapter="Oddrunargratr">12</stanzaref> and lines 3–4 with lines 1–2 of stanza <stanzaref chapter="Oddrunargratr">14</stanzaref>.
 			<expl>The hero</expl>: Buthli, father of Oddrun, Atli, and Brynhild.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			Þat nam at ma_e`la<sep />ma`l et efsta<br />
-			sja` mo`þr konungr,<sep />a`þr hann sylti:<br />
-			mik baþ hann go/`þa<sep />golli rauþu<br />
-			ok suþr gefa<sep />syni Gri`mhildar.
+			Þat nam at mǣla<sep />māl et efsta<br />
+			sjā mōþr konungr,<sep />āþr hann sylti:<br />
+			mik baþ hann gø̄þa<sep />golli rauþu<br />
+			ok suþr gefa<sep />syni Grīmhildar.
 		</original>
 		<translation>
 			These were the words<sep />the weary king,<br />
@@ -354,16 +354,16 @@
 			And to Grimhild's son<sep />in the South be wedded.
 		</translation>
 		<comment>
-			The manuscript indicates line 3, but not line 1, as the beginning of a new stanza; some editions combine lines 3--4 with lines 3--4 of stanza <sr>15</sr>.
+			The manuscript indicates line 3, but not line 1, as the beginning of a new stanza; some editions combine lines 3–4 with lines 3–4 of stanza <stanzaref chapter="Oddrunargratr">15</stanzaref>.
 			Making Buthli plan the marriage of Oddrun and Gunnar may be a sheer invention of the poet, or may point to an otherwise lost version of the legend.
 		</comment>
 	</block>
 	<block class="stanza" number="15">
 		<original>
 			En hann Brynhildi<sep />baþ hjalm geta,<br />
-			hana kvaþ o`skmey<sep />verþa skyldu;<br />
-			kvaþa ena o/`þri<sep />alna mundu<br />
-			mey i` heimi,<sep />nema mjo~tuþr spilti.
+			hana kvaþ ōskmey<sep />verþa skyldu;<br />
+			kvaþa ena ø̄þri<sep />alna mundu<br />
+			mey ī heimi,<sep />nema mjǫtuþr spilti.
 		</original>
 		<translation>
 			But Brynhild the helm<sep />he bade to wear,<br />
@@ -372,18 +372,18 @@
 			On earth, he said,<sep />if death should spare her.
 		</translation>
 		<comment>
-			Lines 1--2 have here been transposed from the middle of stanza <sr>19</sr>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10--20</commentref>.
+			Lines 1–2 have here been transposed from the middle of stanza <stanzaref chapter="Oddrunargratr">19</stanzaref>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10–20</commentref>.
 			<expl>Wish-maid</expl>: a Valkyrie, so called because the Valkyries fullfilled Othin's wish in choosing the slain heroes for Valhall.
-			The reference to Brynhild as a Valkyrie by no means fits with the version of the story used in stanzas <sr>16</sr>--<sr>17</sr>, and the poet seems to have attempted to combine the two contradictory traditions, cf. <chapterref>Fafnismol</chapterref>, note on stanza <stanzaref chapter="Fafnismol">44</stanzaref>.
-			In the manuscript stanzas <sr>10</sr>--<sr>11</sr> follow line 4 of stanza <sr>15</sr>.
+			The reference to Brynhild as a Valkyrie by no means fits with the version of the story used in stanzas <stanzaref chapter="Oddrunargratr">16</stanzaref>–<stanzaref chapter="Oddrunargratr">17</stanzaref>, and the poet seems to have attempted to combine the two contradictory traditions, cf. <chapterref>Fafnismol</chapterref>, note on stanza <stanzaref chapter="Fafnismol">44</stanzaref>.
+			In the manuscript stanzas <stanzaref chapter="Oddrunargratr">10</stanzaref>–<stanzaref chapter="Oddrunargratr">11</stanzaref> follow line 4 of stanza <stanzaref chapter="Oddrunargratr">15</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			Brynhildr i` bu`ri<sep />borþa rakþi,<br />
-			hafþi ho`n ly`þi<sep />ok lo~nd <conj>of</conj> sik;<br />
-			jo~rþ du`saþi<sep />ok upphiminn,<br />
-			þa`s bani Fa`fnis<sep />borg <conj>of</conj> þa`tti.
+			Brynhildr ī būri<sep />borþa rakþi,<br />
+			hafþi hōn lȳþi<sep />ok lǫnd <conj>of</conj> sik;<br />
+			jǫrþ dūsaþi<sep />ok upphiminn,<br />
+			þās bani Fāfnis<sep />borg <conj>of</conj> þātti.
 		</original>
 		<translation>
 			At her weaving Brynhild<sep />sat in her bower,<br />
@@ -392,18 +392,18 @@
 			When Fafnir's slayer<sep />the city saw.
 		</translation>
 		<comment>
-			In stanzas <sr>16</sr>--<sr>17</sr> the underlying story seems to be the one used in <chapterref>Sigurtharkvitha en skamma</chapterref> (particularly stanzas <stanzaref chapter="Sigurtharkvitha en skamma">32</stanzaref>--<stanzaref chpater="Sigurtharkvitha en skamma">39</stanzaref>), and referred to in <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">24</stanzaref>, wherein Gunnar and Sigurth lay siege to Atli's city (it here appears as Brynhild's) and are bought off only by Atli's giving Brynhild to Gunnar as wife, winning her consent thereto by falsely representing to her that Gunnar is Sigurth.
+			In stanzas <stanzaref chapter="Oddrunargratr">16</stanzaref>–<stanzaref chapter="Oddrunargratr">17</stanzaref> the underlying story seems to be the one used in <chapterref>Sigurtharkvitha en skamma</chapterref> (particularly stanzas <stanzaref chapter="Sigurtharkvitha en skamma">32</stanzaref>–<stanzaref chapter="Oddrunargratr" chpater="Sigurtharkvitha en skamma">39</stanzaref>), and referred to in <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">24</stanzaref>, wherein Gunnar and Sigurth lay siege to Atli's city (it here appears as Brynhild's) and are bought off only by Atli's giving Brynhild to Gunnar as wife, winning her consent thereto by falsely representing to her that Gunnar is Sigurth.
 			This version is, of course, utterly at variance with the one in which Sigurth wins Brynhild for Gunnar by riding through the ring of flames, and is probably more closely akin to the early German traditions.
-			In the <src>Nibelungenlied</src> Brynhild appears as a queen ruling over lands and peoples.
+			In the <source>Nibelungenlied</source> Brynhild appears as a queen ruling over lands and peoples.
 			<expl>Fafnir's slayer</expl>: Sigurth.
 		</comment>
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			Þa vas vi`g vegit<sep />vo~lsku sverþi<br />
-			ok borg brotin<sep />su`s Brynhildr a`tti;<br />
-			vasa langt af þvi`,<sep />heldr va`li`tit,<br />
-			unz ve`lar þa_e`r<sep />vissi allar.
+			Þa vas vīg vegit<sep />vǫlsku sverþi<br />
+			ok borg brotin<sep />sūs Brynhildr ātti;<br />
+			vasa langt af þvī,<sep />heldr vālītit,<br />
+			unz vēlar þǣr<sep />vissi allar.
 		</original>
 		<translation>
 			Then battle was fought<sep />with the foreign swords,<br />
@@ -417,10 +417,10 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			Þess le`t harþar<sep />hefndir verþa,<br />
-			sva`t ver o~ll ho~fum<sep />o/`rnar raunir;<br />
-			þat mun a` ho~lþa<sep />hvert land fara,<br />
-			es ho`n sveltask le`t<sep />at Sigurþi.
+			Þess lēt harþar<sep />hefndir verþa,<br />
+			svāt ver ǫll hǫfum<sep />ø̄rnar raunir;<br />
+			þat mun ā hǫlþa<sep />hvert land fara,<br />
+			es hōn sveltask lēt<sep />at Sigurþi.
 		</original>
 		<translation>
 			Woeful for this<sep />her vengeance was,<br />
@@ -434,7 +434,7 @@
 			En Gunnari<sep />gatk at unna,<br />
 			bauga deili,<sep />sem Brynhildr skyldi;<br />
 			buþu þeir <conj>Atla</conj><sep />bauga rauþa<br />
-			ok bro/`þr mi`num<sep />bo/`tr o`smaar.
+			ok brø̄þr mīnum<sep />bø̄tr ōsmaar.
 		</original>
 		<translation>
 			Love to Gunnar<sep />then I gave,<br />
@@ -443,17 +443,17 @@
 			And mighty gifts<sep />to my brother would give.
 		</translation>
 		<comment>
-			In the manuscript lines 1--2 of stanza <sr>15</sr> follow line 2, resulting in various conjectural combinations.
+			In the manuscript lines 1–2 of stanza <stanzaref chapter="Oddrunargratr">15</stanzaref> follow line 2, resulting in various conjectural combinations.
 			The manuscript marks line 3 as beginning a new stanza.
-			<expl>Rings</expl>, etc.: possibly, as Gering maintains, payment offered by Gunnar and Hogni for Brynhild's death, but more probably, as in stanza <sr>20</sr>, Gunnar's proffered ``marriage gold'' for the hand of Oddrun.
+			<expl>Rings</expl>, etc.: possibly, as Gering maintains, payment offered by Gunnar and Hogni for Brynhild's death, but more probably, as in stanza <stanzaref chapter="Oddrunargratr">20</stanzaref>, Gunnar's proffered “marriage gold” for the hand of Oddrun.
 		</comment>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Bauþ hann enn viþ me`r<sep /><dagger /> bu` fimmta`n,<br />
+			Bauþ hann enn viþ mēr<sep /><dagger /> bū fimmtān,<br />
 			hliþfarm Grana<sep />ef hafa vildi<conj>t:</conj><br />
 			en Atli kvazk<sep />eigi vilja<br />
-			mund aldrigi<sep />at megi Gju`ka.
+			mund aldrigi<sep />at megi Gjūka.
 		</original>
 		<translation>
 			Fifteen dwellings<sep />fain would he give<br />
@@ -463,15 +463,15 @@
 		</translation>
 		<comment>
 			<expl>Grani's burden</expl>: the treasure won by Sigurth from Fafnir; cf. <chapterref>Fafnismol</chapterref>, <proseref chapter="Fafnismol" prose="conclusion">concluding prose</proseref>.
-			The manuscript marks line 3 as beginning a new stanza, as also in stanzas <sr>21</sr> and <sr>22</sr>.
+			The manuscript marks line 3 as beginning a new stanza, as also in stanzas <stanzaref chapter="Oddrunargratr">21</stanzaref> and <stanzaref chapter="Oddrunargratr">22</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Þeygi vit mo~`ttum<sep />viþ munum vinna,<br />
-			nema heltk ho~fþi<sep />viþ hringbrota;<br />
-			ma_e`ltu margir<sep />mi`nir niþjar,<br />
-			kvo~`þusk okkr hafa<sep />orþit ba_e`þi.
+			Þeygi vit mǭttum<sep />viþ munum vinna,<br />
+			nema heltk hǫfþi<sep />viþ hringbrota;<br />
+			mǣltu margir<sep />mīnir niþjar,<br />
+			kvǭþusk okkr hafa<sep />orþit bǣþi.
 		</original>
 		<translation>
 			Yet could we not<sep />our love o'ercome,<br />
@@ -483,8 +483,8 @@
 	<block class="stanza" number="22">
 		<original>
 			En mik Atli kvaþ<sep />eigi mundu<br />
-			ly`ti ra`þa<sep />ne` lo~st go/rva;<br />
-			en sli`ks skyli<sep />synja aldri<br />
+			lȳti rāþa<sep />nē lǫst gørva;<br />
+			en slīks skyli<sep />synja aldri<br />
 			maþr fyr annan,<sep />þars munugþ deilir!
 		</original>
 		<translation>
@@ -496,10 +496,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			Sendi Atli<sep />o~`ru si`na<br />
-			<conj>of</conj> myrkvan viþ<sep />mi`n at freista,<br />
-			ok þeir kvo~`mu<sep />þars koma ne skyldut,<br />
-			þa`s breiddum vit<sep />bla_e`ju eina.
+			Sendi Atli<sep />ǭru sīna<br />
+			<conj>of</conj> myrkvan viþ<sep />mīn at freista,<br />
+			ok þeir kvǭmu<sep />þars koma ne skyldut,<br />
+			þās breiddum vit<sep />blǣju eina.
 		</original>
 		<translation>
 			Soon his men<sep />did Atli send,<br />
@@ -508,8 +508,8 @@
 			Where beneath one cover<sep />close we lay.
 		</translation>
 		<comment>
-			<expl>Murky wood</expl>: the forest which divided Atli's realm from that of the Gjukungs is in <cr>Atlakvitha</cr>, <stanzaref chapter="Atlakvitha">3</stanzaref>, called Myrkwood.
-			This hardly accords with the extraordinary geography of stanzas <sr>28</sr>--<sr>29</sr>, or with the journey described in <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">36</stanzaref>.
+			<expl>Murky wood</expl>: the forest which divided Atli's realm from that of the Gjukungs is in <chapterref>Atlakvitha</chapterref>, <stanzaref chapter="Atlakvitha">3</stanzaref>, called Myrkwood.
+			This hardly accords with the extraordinary geography of stanzas <stanzaref chapter="Oddrunargratr">28</stanzaref>–<stanzaref chapter="Oddrunargratr">29</stanzaref>, or with the journey described in <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">36</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="24">
@@ -517,7 +517,7 @@
 			Buþum vit þegnum<sep />bauga rauþa,<br />
 			at þeir eigi til<sep />Atla segþi;<br />
 			en þeir hvatliga<sep />heim skunduþu<br />
-			ok o`liga<sep />Atla so~gþu.
+			ok ōliga<sep />Atla sǫgþu.
 		</original>
 		<translation>
 			To the warriors ruddy<sep />rings we offered,<br />
@@ -531,8 +531,8 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			en Guþru`nu<sep />go~rla leyndu<br />
-			<conj>þvi`s</conj> heldr vita<sep />ho~lfu skyldi.<br />
+			en Guþrūnu<sep />gǫrla leyndu<br />
+			<conj>þvīs</conj> heldr vita<sep />hǫlfu skyldi.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -549,10 +549,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			Hlymr vas at heyra<sep />ho`fgollinna,<br />
-			þa`s i` garþ riþu<sep />Gju`ka arfar;<br />
-			þeir o`r Ho~gna<sep />hjarta sko~`ru<br />
-			en i` ormgarþ<sep />annan lo~gþu.
+			Hlymr vas at heyra<sep />hōfgollinna,<br />
+			þās ī garþ riþu<sep />Gjūka arfar;<br />
+			þeir ōr Hǫgna<sep />hjarta skǭru<br />
+			en ī ormgarþ<sep />annan lǫgþu.
 		</original>
 		<translation>
 			Great was the clatter<sep />of gilded hoofs<br />
@@ -561,15 +561,15 @@
 			And the other they cast<sep />in the serpents' cave.
 		</translation>
 		<comment>
-			If a stanza has been lost after stanza <sr>25</sr>, it may well have told of Atli's treacherous invitation to the Gjukungs to visit him; cf. <chapterref>Drap Niflunga</chapterref>, which likewise tells of the slaying of <expl>Hogni</expl> and Gunnar (<expl>the other</expl>).
+			If a stanza has been lost after stanza <stanzaref chapter="Oddrunargratr">25</stanzaref>, it may well have told of Atli's treacherous invitation to the Gjukungs to visit him; cf. <chapterref>Drap Niflunga</chapterref>, which likewise tells of the slaying of <expl>Hogni</expl> and Gunnar (<expl>the other</expl>).
 		</comment>
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			Nam horskr konungr<sep />ho~rpu sveigja<br />
+			Nam horskr konungr<sep />hǫrpu sveigja<br />
 			<lacuna /><sep /><lacuna /><br />
-			þvi`t hugþi mik<sep />til hjalpar se`r<br />
-			kynri`kr konungr<sep />of koma mundu.
+			þvīt hugþi mik<sep />til hjalpar sēr<br />
+			kynrīkr konungr<sep />of koma mundu.
 		</original>
 		<translation>
 			The hero wise<sep />on his harp then smote,<br />
@@ -578,17 +578,17 @@
 			The high-born king,<sep />might come to him.
 		</translation>
 		<comment>
-			In the manuscript these three lines follow line 2 of stanza <sr>28</sr>.
-			No gap is indicated in the manuscript, In the <src>Volsungasaga</src> Guthrun gives her brother the harp, with which he puts the serpents to sleep.
-			The episode is undoubtedly related to the famous thirtieth Aventiure of the <src>Nibelungenlied</src>, in which Volker plays the followers of Gunther to sleep before the final battle.
+			In the manuscript these three lines follow line 2 of stanza <stanzaref chapter="Oddrunargratr">28</stanzaref>.
+			No gap is indicated in the manuscript, In the <source>Volsungasaga</source> Guthrun gives her brother the harp, with which he puts the serpents to sleep.
+			The episode is undoubtedly related to the famous thirtieth Aventiure of the <source>Nibelungenlied</source>, in which Volker plays the followers of Gunther to sleep before the final battle.
 		</comment>
 	</block>
 	<block class="stanza" number="28">
 		<original>
 			Vask enn farin<sep />einu sinni<br />
-			til Geirmundar<sep />go/rva drykkju;<br />
-			namk at heyra<sep />o`r Hle`seyju,<br />
-			hve` þar af stri`þum<sep />strengir ma_e`ltu.
+			til Geirmundar<sep />gørva drykkju;<br />
+			namk at heyra<sep />ōr Hlēseyju,<br />
+			hvē þar af strīþum<sep />strengir mǣltu.
 		</original>
 		<translation>
 			Alone was I gone<sep />to Geirmund then,<br />
@@ -597,20 +597,20 @@
 			How in sorrow the strings<sep />of the harp resounded.
 		</translation>
 		<comment>
-			In the manuscript the three lines of stanza <sr>27</sr> follow line 2, and line 3 is marked as beginning a new stanza.
+			In the manuscript the three lines of stanza <stanzaref chapter="Oddrunargratr">27</stanzaref> follow line 2, and line 3 is marked as beginning a new stanza.
 			<expl>Geirmund</expl>: nothing further is known of him, but he seems to be an ally or retainer of Atli, or possibly his brother.
 			<expl>Hlesey</expl>: the poet's geography is here in very bad shape.
-			Hlesey is (or may be) the Danish island of Läsö, in the Kattegat (cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">37</stanzaref> and note), and thither he has suddenly transported not only Gunnar's death-place but Atli's whole dwelling (cf. stanza <sr>29</sr>), despite his previous references to the ride to Hunland (stanzas 3--4) and the ``murky wood'' (stanza <sr>23</sr>).
-			Geirmund's home, where Oddrun has gone, is separated from Hlesey and Atli's dwelling by a sound (stanza <sr>29</sr>).
+			Hlesey is (or may be) the Danish island of Läsö, in the Kattegat (cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">37</stanzaref> and note), and thither he has suddenly transported not only Gunnar's death-place but Atli's whole dwelling (cf. stanza <stanzaref chapter="Oddrunargratr">29</stanzaref>), despite his previous references to the ride to Hunland (stanzas 3–4) and the “murky wood” (stanza <stanzaref chapter="Oddrunargratr">23</stanzaref>).
+			Geirmund's home, where Oddrun has gone, is separated from Hlesey and Atli's dwelling by a sound (stanza <stanzaref chapter="Oddrunargratr">29</stanzaref>).
 			However, geographical accuracy is seldom to be looked for in heroic epic poetry.
 		</comment>
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			Baþk amba`ttir<sep />bu`nar verþa,<br />
-			vildak fylkis<sep />fjo~rvi bjarga;<br />
-			le`tum fljo`ta<sep />far <conj>sund</conj> yfir,<br />
-			unz alla sa`k<sep />Atla garþa.
+			Baþk ambāttir<sep />būnar verþa,<br />
+			vildak fylkis<sep />fjǫrvi bjarga;<br />
+			lētum fljōta<sep />far <conj>sund</conj> yfir,<br />
+			unz alla sāk<sep />Atla garþa.
 		</original>
 		<translation>
 			I bade the serving-maids<sep />ready to be,<br />
@@ -619,35 +619,35 @@
 			Till we saw the whole<sep />of Atli's home.
 		</translation>
 		<comment>
-			Many editions combine this stanza with lines 3--4 of stanza <sr>28</sr>.
-			<expl>The sound</expl>: cf. note on stanza <sr>28</sr>.
+			Many editions combine this stanza with lines 3–4 of stanza <stanzaref chapter="Oddrunargratr">28</stanzaref>.
+			<expl>The sound</expl>: cf. note on stanza <stanzaref chapter="Oddrunargratr">28</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			Þa` kvam en arma<sep />u`t ska_e`vandi<br />
-			mo`þir Atla<sep />---ho`n skyli morna!---,<br />
-			ok Gunnari<sep />gro`f til hjarta,<br />
-			sva`t ma`ttigak<sep />ma_e`rum bjarga.
+			Þā kvam en arma<sep />ūt skǣvandi<br />
+			mōþir Atla<sep />—hōn skyli morna!—,<br />
+			ok Gunnari<sep />grōf til hjarta,<br />
+			svāt māttigak<sep />mǣrum bjarga.
 		</original>
 		<translation>
 			Then crawling the evil<sep />woman came,<br />
-			Atli's mother---<sep />may she ever rot!<br />
+			Atli's mother—<sep />may she ever rot!<br />
 			And hard she bit<sep />to Gunnar's heart,<br />
 			So I could not help<sep />the hero brave.
 		</translation>
 		<comment>
 			The manuscript marks line 3 as beginning a new stanza.
-			<expl>Atli's mother</expl>: the <src>Volsungasaga</src> does not follow this version; Gunnar puts all the serpents but one to sleep with his harp playing, ``but a mighty and evil adder crawled to him and drove his fangs into him till they reached his heart, and so he died.''
-			It is possible that ``Atli'' is a scribal error for a word meaning ``of serpents.''
+			<expl>Atli's mother</expl>: the <source>Volsungasaga</source> does not follow this version; Gunnar puts all the serpents but one to sleep with his harp playing, “but a mighty and evil adder crawled to him and drove his fangs into him till they reached his heart, and so he died.”
+			It is possible that “Atli” is a scribal error for a word meaning “of serpents.”
 		</comment>
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			Opt undrumk þat,<sep />hvi` eptir ma`k,<br />
-			linnvengis bil!<sep />li`fi halda,<br />
-			es o`gnhvo~tum<sep />unna þo`ttumk<br />
-			sverþa deili<sep />sem sjalfri me`r.
+			Opt undrumk þat,<sep />hvī eptir māk,<br />
+			linnvengis bil!<sep />līfi halda,<br />
+			es ōgnhvǫtum<sep />unna þōttumk<br />
+			sverþa deili<sep />sem sjalfri mēr.
 		</original>
 		<translation>
 			Oft have I wondered<sep />how after this,<br />
@@ -656,21 +656,21 @@
 			The giver of swords,<sep />as my very self.
 		</translation>
 		<comment>
-			<expl>Serpents'-bed goddess</expl>: woman (i. e., Borgny); ``goddess of gold'' was a frequent term for a woman, and gold was often called the ``serpents' bed'' (cf. <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">24</stanzaref> and note).
+			<expl>Serpents'-bed goddess</expl>: woman (i. e., Borgny); “goddess of gold” was a frequent term for a woman, and gold was often called the “serpents' bed” (cf. <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">24</stanzaref> and note).
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			Sazt ok hly`ddir,<sep />meþan sagþak þe`r<br />
-			mo~rg ill <conj>of</conj> sko~p<sep />mi`n ok þeira;<br />
-			maþr hverr lifir<sep />at munum si`num---<br />
-			nu`'s <conj>of</conj> genginn<sep />gra`tr Oddru`nar.''
+			Sazt ok hlȳddir,<sep />meþan sagþak þēr<br />
+			mǫrg ill <conj>of</conj> skǫp<sep />mīn ok þeira;<br />
+			maþr hverr lifir<sep />at munum sīnum—<br />
+			nū's <conj>of</conj> genginn<sep />grātr Oddrūnar.”
 		</original>
 		<translation>
 			Thou didst see and listen,<sep />the while I said<br />
 			The mighty grief<sep />that was mine and theirs;<br />
-			Each man lives<sep />as his longing wills,---<br />
-			Oddrun's lament<sep />is ended now.''
+			Each man lives<sep />as his longing wills,—<br />
+			Oddrun's lament<sep />is ended now.”
 		</translation>
 		<comment>
 			Some editions make line 4 a statement of the poet's, and not part of Oddrun's speech.
