@@ -245,7 +245,7 @@
 			It may be all that is left of a stanza which stood between stanzas <stanzaref chapter="Oddrunargratr">15</stanzaref> and <stanzaref chapter="Oddrunargratr">16</stanzaref>, or it may belong in stanza <stanzaref chapter="Oddrunargratr">12</stanzaref>.
 		</comment>
 	</block>
-	<block class="comment" label="10--20" start="10">
+	<block class="comment" label="10--20" start="10" stop="20">
 		<comment>
 			In the manuscript the order is as follows: <stanzaref chapter="Oddrunargratr">12</stanzaref>; <stanzaref chapter="Oddrunargratr">13</stanzaref>; <stanzaref chapter="Oddrunargratr">14</stanzaref>; <stanzaref chapter="Oddrunargratr">15</stanzaref>, 3–4; <stanzaref chapter="Oddrunargratr">10</stanzaref>; <stanzaref chapter="Oddrunargratr">11</stanzaref>; <stanzaref chapter="Oddrunargratr">16</stanzaref>; <stanzaref chapter="Oddrunargratr">17</stanzaref>; <stanzaref chapter="Oddrunargratr">15</stanzaref>; <stanzaref chapter="Oddrunargratr">19</stanzaref>, 1–2; <stanzaref chapter="Oddrunargratr">15</stanzaref>, 1–2; <stanzaref chapter="Oddrunargratr">19</stanzaref>, 3–4; <stanzaref chapter="Oddrunargratr">20</stanzaref>.
 			The changes made here, following several of the editions, are: (a) the transposition of stanzas <stanzaref chapter="Oddrunargratr">10</stanzaref>–<stanzaref chapter="Oddrunargratr">11</stanzaref>, which are clearly dialogue, out of the body of the lament to a position just before it; (b) the transposition of lines 1–2 of stanza <stanzaref chapter="Oddrunargratr">15</stanzaref> to their present position from the middle of stanza <stanzaref chapter="Oddrunargratr">19</stanzaref>.
@@ -294,7 +294,7 @@
 			By maid was done<sep />save by me alone.”
 		</translation>
 		<comment>
-			The manuscript does not name the speaker; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10–20</commentref>.
+			The manuscript does not name the speaker; cf. <commentref chapter="Oddrunargratr" comment="10--20">note on stanzas 10–20</commentref>.
 			The word rendered “evil” in line 1 is a conjectural addition.
 			Apparently Borgny was present at Atli's court while the love affair between Oddrun and Gunnar was in progress, and criticised Oddrun for her part in it.
 			<expl>A draught</expl>, etc.: apparently in reference to a secret meeting of the lovers.
@@ -310,7 +310,7 @@
 			To tell the grief<sep />of her troubles great.
 		</translation>
 		<comment>
-			In the manuscript this stanza follows stanza <stanzaref chapter="Oddrunargratr">9</stanzaref>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10–20</commentref>.
+			In the manuscript this stanza follows stanza <stanzaref chapter="Oddrunargratr">9</stanzaref>; cf. <commentref chapter="Oddrunargratr" comment="10--20">note on stanzas 10–20</commentref>.
 			No gap is indicated, but something has presumably been lost.
 			Grundtvig supplies as a first line:
 			<textstanza class="translation">
@@ -372,7 +372,7 @@
 			On earth, he said,<sep />if death should spare her.
 		</translation>
 		<comment>
-			Lines 1–2 have here been transposed from the middle of stanza <stanzaref chapter="Oddrunargratr">19</stanzaref>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10–20</commentref>.
+			Lines 1–2 have here been transposed from the middle of stanza <stanzaref chapter="Oddrunargratr">19</stanzaref>; cf. <commentref chapter="Oddrunargratr" comment="10--20">note on stanzas 10–20</commentref>.
 			<expl>Wish-maid</expl>: a Valkyrie, so called because the Valkyries fullfilled Othin's wish in choosing the slain heroes for Valhall.
 			The reference to Brynhild as a Valkyrie by no means fits with the version of the story used in stanzas <stanzaref chapter="Oddrunargratr">16</stanzaref>–<stanzaref chapter="Oddrunargratr">17</stanzaref>, and the poet seems to have attempted to combine the two contradictory traditions, cf. <chapterref>Fafnismol</chapterref>, note on stanza <stanzaref chapter="Fafnismol">44</stanzaref>.
 			In the manuscript stanzas <stanzaref chapter="Oddrunargratr">10</stanzaref>–<stanzaref chapter="Oddrunargratr">11</stanzaref> follow line 4 of stanza <stanzaref chapter="Oddrunargratr">15</stanzaref>.
@@ -392,7 +392,7 @@
 			When Fafnir's slayer<sep />the city saw.
 		</translation>
 		<comment>
-			In stanzas <stanzaref chapter="Oddrunargratr">16</stanzaref>–<stanzaref chapter="Oddrunargratr">17</stanzaref> the underlying story seems to be the one used in <chapterref>Sigurtharkvitha en skamma</chapterref> (particularly stanzas <stanzaref chapter="Sigurtharkvitha en skamma">32</stanzaref>–<stanzaref chapter="Oddrunargratr" chpater="Sigurtharkvitha en skamma">39</stanzaref>), and referred to in <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">24</stanzaref>, wherein Gunnar and Sigurth lay siege to Atli's city (it here appears as Brynhild's) and are bought off only by Atli's giving Brynhild to Gunnar as wife, winning her consent thereto by falsely representing to her that Gunnar is Sigurth.
+			In stanzas <stanzaref chapter="Oddrunargratr">16</stanzaref>–<stanzaref chapter="Oddrunargratr">17</stanzaref> the underlying story seems to be the one used in <chapterref>Sigurtharkvitha en skamma</chapterref> (particularly stanzas <stanzaref chapter="Sigurtharkvitha en skamma">32</stanzaref>–<stanzaref chapter="Sigurtharkvitha en skamma">39</stanzaref>), and referred to in <chapterref>Guthrunarkvitha I</chapterref>, <stanzaref chapter="Guthrunarkvitha I">24</stanzaref>, wherein Gunnar and Sigurth lay siege to Atli's city (it here appears as Brynhild's) and are bought off only by Atli's giving Brynhild to Gunnar as wife, winning her consent thereto by falsely representing to her that Gunnar is Sigurth.
 			This version is, of course, utterly at variance with the one in which Sigurth wins Brynhild for Gunnar by riding through the ring of flames, and is probably more closely akin to the early German traditions.
 			In the <source>Nibelungenlied</source> Brynhild appears as a queen ruling over lands and peoples.
 			<expl>Fafnir's slayer</expl>: Sigurth.
