@@ -374,3 +374,4 @@ Tasks for distant future
   (see Hyndluljoth, stanza 30 for an example)
 * Find all comments which start from <sr>*</sr>--<sr>*</sr> and replace
   them by <block class="comment"> (and corresponding references)
+  And probably change the style, to make it look more distinctive.
