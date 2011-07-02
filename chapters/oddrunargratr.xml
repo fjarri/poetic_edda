@@ -271,7 +271,7 @@
 			As we had been born<sep />of brothers twain.''
 		</translation>
 		<comment>
-			The manuscript does not name the speaker; cf. note on stanzas <sr>10--20</sr>.
+			The manuscript does not name the speaker; cf. <commentref chapter="Oddrunargratr" comment="10--20">note on stanzas 10--20</commentref>.
 		</comment>
 	</block>
 	<block class="stanza" number="11">
@@ -294,7 +294,7 @@
 			By maid was done<sep />save by me alone.''
 		</translation>
 		<comment>
-			The manuscript does not name the speaker; cf. note on stanzas <sr>10--20</sr>.
+			The manuscript does not name the speaker; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10--20</commentref>.
 			The word rendered ``evil'' in line 1 is a conjectural addition.
 			Apparently Borgny was present at Atli's court while the love affair between Oddrun and Gunnar was in progress, and criticised Oddrun for her part in it.
 			<expl>A draught</expl>, etc.: apparently in reference to a secret meeting of the lovers.
@@ -310,7 +310,7 @@
 			To tell the grief<sep />of her troubles great.
 		</translation>
 		<comment>
-			In the manuscript this stanza follows stanza <sr>9</sr>; cf. note on stanzas <sr>10--20</sr>.
+			In the manuscript this stanza follows stanza <sr>9</sr>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10--20</commentref>.
 			No gap is indicated, but something has presumably been lost.
 			Grundtvig supplies as a first line:
 			<textstanza class="translation">
@@ -372,7 +372,7 @@
 			On earth, he said,<sep />if death should spare her.
 		</translation>
 		<comment>
-			Lines 1--2 have here been transposed from the middle of stanza <sr>19</sr>; cf. note on stanzas <sr>10--20</sr>.
+			Lines 1--2 have here been transposed from the middle of stanza <sr>19</sr>; cf. note on stanzas <commentref chapter="Oddrunargratr" comment="10--20">10--20</commentref>.
 			<expl>Wish-maid</expl>: a Valkyrie, so called because the Valkyries fullfilled Othin's wish in choosing the slain heroes for Valhall.
 			The reference to Brynhild as a Valkyrie by no means fits with the version of the story used in stanzas <sr>16</sr>--<sr>17</sr>, and the poet seems to have attempted to combine the two contradictory traditions, cf. <chapterref>Fafnismol</chapterref>, note on stanza <stanzaref chapter="Fafnismol">44</stanzaref>.
 			In the manuscript stanzas <sr>10</sr>--<sr>11</sr> follow line 4 of stanza <sr>15</sr>.
