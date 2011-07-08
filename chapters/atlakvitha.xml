@@ -1,7 +1,7 @@
 <chapter label="Atlakvitha">
 	<block class="eddachapter">
 		<original>
-
+			Atlakviþa [en gro/`nlenzka]
 		</original>
 		<transliteration>
 			Atlakvitha en Grönlenzka
@@ -52,8 +52,9 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
+			Guþru`n Gju`ka do`ttir hefndi bro_eþra sinna, sva` sem fra_egt er orþit.<br />
+			Hon drap fyrst sonu Atla, en eptir drap hon Atla ok brendi ho~llina ok hirþina alla.<br />
+			Um þetta er sja` kviþa ort.
 		</original>
 		<translation>
 			Guthrun, Gjuki's daughter, avenged her brothers, as has become well known.<br />
@@ -66,10 +67,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Atli sendi<sep />a`r til Gunnars<br />
+			kunnan segg ri`þa,<sep />Kne`fro/þr vas heitinn;<br />
+			at go~rþum kvam Gju`ka<sep />ok at Gunnars ho~llu,<br />
+			bekkjum aringreypum<sep />ok at bjo`ri svo~`sum.
 		</original>
 		<translation>
 			Atli sent<sep />of old to Gunnar<br />
@@ -85,10 +86,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Drukku dro`ttmegir<sep />---enn dyljendr þo~gþu---<br />
+			vi`n i` valho~llu,<sep />vreiþi so~usk Hu`na;<br />
+			kallaþi þa` Kne`fro/þr<sep />kaldri ro~ddu,<br />
+			seggr enn suþro/`ni<sep />---sat a` bekk ho`vum---:
 		</original>
 		<translation>
 			Then the followers, hiding<sep />their falseness, all drank<br />
@@ -103,10 +104,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Atli mik sendi<sep />ri`þa eyrindi<br />
+			mar enum me`lgreypa<sep />Myrkviþ <conj>o`kunnan,</conj><br />
+			biþja <conj>ykkr,</conj> Gunnarr!<sep />at a` bekk ko/`miþ<br />
+			meþ hjo~lmum <dagger /> aringreypum<sep />so/`kja heim Atla.
 		</original>
 		<translation>
 			``Now Atli has sent me<sep />his errand to ride,<br />
@@ -121,10 +122,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Skjo~ldu kneguþ velja<sep />ok skaufna aska,<br />
+			hjalma goll<conj>hroþna</conj><sep />ok <conj>hjo~rva</conj> mengi,<br />
+			silfrgyld so~þulkla_e`þi,<sep />serki val<conj>rauþa,</conj><br />
+			dafar <conj>ok darraþar,</conj><sep />dro~sla me`lgreypa.
 		</original>
 		<translation>
 			Shields shall ye choose there,<sep />and shafts made of ash-wood,<br />
@@ -139,10 +140,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vo~ll le`zk gefa mundu<sep />vi`þrar Gnitaheiþar,<br />
+			af geiri gjallanda<sep />ok af gyldum sto~fnum,<br />
+			sto`rar meiþmar<sep />ok staþi Danpar,<br />
+			hri`s þat et ma_e`ra<sep />es Myrk<conj>viþr heitir.</conj>''
 		</original>
 		<translation>
 			The field shall be given you<sep />of wide Gnitaheith,<br />
@@ -162,10 +163,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ho~fþi vatt Gunnarr<sep />ok Ho~gna til sagþi:<br />
+			``Hvat ra_e`þr, seggr enn o/`ri!<sep />alls vit sli`kt heyrum?<br />
+			goll vissak etki<sep />a` Gnitaheiþi,<br />
+			þats vit <conj>jafnmikit</conj><sep />annat <conj>ne` hefþim.</conj>
 		</original>
 		<translation>
 			His head turned Gunnar,<sep />and to Hogni he said:<br />
@@ -176,20 +177,20 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sjau eigum salhu`s<sep />sverþa full <conj>hver'ru,</conj><br />
+			<conj>hver</conj> eru þeira<sep />hjo~lt o`r golli,<br />
+			minn veitk mar baztan,<sep />ma_e`ki hvassastan,<br />
+			[boga bekkso/`ma,<sep />en brynjur o`r golli,]<br />
+			hjalm <conj>minn</conj> hvi`tastan<sep />kominn o`r ho~ll Ki::ars,<br />
+			[einn es minn betri<sep />an sei:: allra Hu`na.]''
 		</original>
 		<translation>
 			We have seven halls,<sep />each of swords is full,<br />
-			(And all of gold<sep />is the hilt of each;)<br />
+			[And all of gold<sep />is the hilt of each;]<br />
 			My steed is the swiftest,<sep />my sword is sharpest,<br />
 			My bows adorn benches,<sep />my byrnies are golden,<br />
 			My helm is the brightest<sep />that came from Kjar's hall,<br />
-			(Mine own is better<sep />than all the Huns' treasure.)''
+			[Mine own is better<sep />than all the Huns' treasure.]''
 		</translation>
 		<comment>
 			The stanza is clearly in bad shape; the manuscript indicates line 5 as beginning a new stanza.
@@ -200,13 +201,13 @@
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvat hyggr bru`þi bendu,<sep />þa`s okkr baug sendi<br />
+			vo~`þum <conj>ulfs varþan?</conj><sep />hykk at vo~rnuþ <conj>bjo`þi;</conj><br />
+			ha`r fannk heiþingja<sep />vriþit i` hring rauþum:<br />
+			ylfskr es vegr okkarr<sep />at ri`þa eyrindi.''
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -226,10 +227,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Niþjargi hvo~ttu<sep />ne` no~ungr annarr,<br />
+			ry`nendr ne` ra`þendr<sep />ne` þeirs ri`kir vo~`ru;<br />
+			kvaddi þa` Gunnarr,<sep />sem konungr skyldi,<br />
+			ma_e`rr i` mjo~þranni<sep />af mo`þi sto`rum:
 		</original>
 		<translation>
 			Not eager were his comrades,<sep />nor the men of his kin,<br />
@@ -243,8 +244,8 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			``Ri`stu nu`, Fjo~rnir!<sep />la`t a` flet vaþa<br />
+			greppa gollska`lir<sep />meþ gumna ho~ndum<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -261,10 +262,10 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Ulfar munu</conj> ra`þa<sep />arfi Niflunga,<br />
+			<conj>gamlir,</conj> gra`n<conj>varþir,</conj><sep />ef Gunnars missir,<br />
+			birnir blakkfjallir<sep />bi`ta þrefto~nnum,<br />
+			gamna greysto`þi,<sep />ef Gunnarr ko/mrat.''
 		</original>
 		<translation>
 			The wolves then shall rule<sep />the wealth of the Niflungs,<br />
@@ -282,10 +283,10 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Leiddu landro~gni<sep />ly`þar o`neisir,<br />
+			gra`tendr gunnhvatan<sep />o`r garþi <conj>innan;</conj><br />
+			þa` kvaþ enn o/`ri<sep />erfivo~rþr Ho~gna:<br />
+			``Heilir fariþ, horskir!<sep />hvars ykkr hugr teygir!''
 		</original>
 		<translation>
 			A following gallant<sep />fared forth with the ruler,<br />
@@ -301,10 +302,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fetum le`tu fro/`knir<sep /><conj>of</conj> fjo~ll at þyrja<br />
+			mara ena me`lgreypu<sep />Myrkviþ <conj>o`kunnan;</conj><br />
+			hristisk o~ll Hu`nmo~rk,<sep />harþmo`þgir es fo`ru,<br />
+			vro~`ku vandstyggva<sep />vo~llu algro/`na.
 		</original>
 		<translation>
 			Then let the bold heroes<sep />their bit-champing horses<br />
@@ -319,10 +320,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			<conj>Ho~ll</conj> so~u þeir Atla,<sep /><conj>hliþ</conj>skjalfar <conj>dju`par</conj><br />
+			---<conj>Buþla</conj> greppar standa<sep />a` borg enni ho`vu---<br />
+			sal <conj>of</conj> suþrþjo`þum<sep />sleginn sessmeiþum,<br />
+			bundnum ro~ndum,<sep />bleikum skjo~ldum.
 		</original>
 		<translation>
 			Then they saw Atli's halls,<sep />and his watch-towers high,<br />
@@ -340,10 +341,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En þar drakk Atli<sep /><lacuna /><br />
+			vi`n i` valho~llu,<sep />verþir so~`tu u`ti,<br />
+			at varþa Gunnari,<sep />ef <conj>hans</conj> vitja kva_e`mi,<br />
+			meþ geiri gjallanda<sep />vekja gram hildi.
 		</original>
 		<translation>
 			Mid weapons and lances<sep />did Atli his wine<br />
@@ -357,36 +358,36 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Systir fann þeira<sep /><conj>þegars</conj> i` sal kvo~`mu<br />
+			bro/`þr hennar ba`þir---<sep />bjo`ri vas litt drukkin:<br />
+			``Ra`þinn est, Gunnarr!<sep />hvat munt, ri`kr! vinna<br />
+			viþ Hu`na harmbro~gþum?<sep />ho~ll gakk o`r snimma!
 		</original>
 		<translation>
 			This their sister saw,<sep />as soon as her brothers<br />
 			Had entered the hall,--<sep />little ale had she drunk:<br />
-			"Betrayed art thou, Gunnar!<sep />what guard hast thou, hero,<br />
+			``Betrayed art thou, Gunnar!<sep />what guard hast thou, hero,<br />
 			'Gainst the plots of the Huns?<sep />from the hall flee swiftly!
 		</translation>
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Betr hefþir, bro`þir!<sep />at i` brynju fo/`rir,<br />
+			sem hjo~lmum <dagger /> aringreypum<sep />at sea heim Atla,<br />
+			sa_e`tir þu i` so~þlum<sep />so`lheiþa daga,<br />
+			[<conj>nars</conj> nornir le`tir<sep />nauþfo~lva gra`ta,<br />
+			Hu`na skjaldmeyjar<sep />hervi kanna]<br />
+			en Atla sjalfan<sep />le`tir i` ormgarþ koma.<br />
+			[nu`'s sa` ormgarþr<sep />ykkr <conj>of</conj> folginn.]''
 		</original>
 		<translation>
 			``Brother, 'twere far better<sep />to have come in byrnie,<br />
 			With thy household helmed,<sep />to see Atli's home,<br />
 			And to sit in the saddle<sep />all day 'neath the sun,<br />
-			(That the sword-norns might weep<sep />for the death-pale warriors,<br />
-			And the Hunnish shield-maids<sep />might shun not the sword,)<br />
+			[That the sword-norns might weep<sep />for the death-pale warriors,<br />
+			And the Hunnish shield-maids<sep />might shun not the sword,]<br />
 			And send Atli himself<sep />to the den of the snakes;<br />
-			(Now the den of the snakes<sep />for thee is destined.
+			[Now the den of the snakes<sep />for thee is destined.]''
 		</translation>
 		<comment>
 			This may be the remains of two stanzas, the manuscript marks line 5 as beginning a new stanza.
@@ -405,9 +406,9 @@
 		</original_prelude>
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Seinat's nu`, systir!<sep />at samna Niflungum,<br />
+			langt es at leita<sep />ly`þa sinnis til,<br />
+			of rosmufjo~ll Ri`nar<sep />rekka o`neissa.''
 		</original>
 		<translation_prelude>
 			Gunnar spake:
@@ -427,8 +428,8 @@
 	<block class="asterisks" />
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep />
+			fengu þeir Gunnar<sep />ok i` fjo~tur settu<br />
+			Borgunda <conj>hollvin,</conj><sep />ok bundu fastla.
 		</original>
 		<translation>
 			Then Gunnar they seized,<sep />and they set him in chains,<br />
@@ -442,10 +443,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sjau hjo` Ho~gni<sep />sverþi hvo~ssu,<br />
+			en enum a`tta<sep />hratt i` eld heitan:<br />
+			sva` skal fro/`kn verjask<sep />fio~ndum <lacuna /><br />
+			<conj>sem</conj> Ho~gni varþi<sep />hendr <lacuna />
 		</original>
 		<translation>
 			Hogni slew seven<sep />with sword so keen,<br />
@@ -463,9 +464,9 @@
 	<block class="stanza" number="21">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			<lacuna /><sep /><lacuna />Gunnars;<br />
+			fro~`gu fro/`knan,<sep />ef fjo~r vildi<br />
+			Gotna þjo`þann<sep />golli kaupa.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -481,12 +482,12 @@
 	</block>
 	<block class="stanza" number="22">
 		<original_prelude>
-
+			Gunnarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hjarta <conj>skulumk</conj> Ho~gna<sep />i` hendi liggja,<br />
+			blo`þugt o`r brjo`sti<sep />skorit ballriþa<br />
+			saxi sli`þrbeitu,<sep />syni <conj>þjo`þkonungs.</conj>''
 		</original>
 		<translation_prelude>
 			Gunnar spake:
@@ -494,7 +495,7 @@
 		<translation>
 			``First the heart of Hogni<sep />shall ye lay in my hands,<br />
 			All bloody from the breast<sep />of the bold one cut<br />
-			With ke-en-biting sword,<sep />from the son of the king.''
+			With keen-biting sword,<sep />from the son of the king.''
 		</translation>
 		<comment>
 			The manuscript does not indicate the speaker; perhaps a first line similar to line 1 of stanza <sr>24</sr> should appear here.
@@ -506,8 +507,8 @@
 	<block class="stanza" number="23">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			sko~`ru þeir hjarta<sep />Hjalla o`r brjo`sti<br />
+			ok a` bjo`þ lo~gþu,<sep />bo~`ru fyr Gunnar.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -522,26 +523,26 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Þa` kvaþ þat Gunnarr,<sep />gumna dro`ttinn:]<br />
+			``He`r hefk hjarta<sep />Hjalla ens blauþa,<br />
+			o`gli`kt hjarta<sep />Ho~gna ens fro/`kna,<br />
+			es mjo~k bifask<sep />es a` bjo`þi liggr,<br />
+			bifþisk ho~lfu meirr<sep /><conj>þa`s</conj> i` brjo`sti la`.''
 		</original>
 		<translation>
 			Then Gunnar spake forth,<sep />the lord of the folk:<br />
 			``Here have I the heart<sep />of Hjalli the craven,<br />
 			Unlike to the heart<sep />of Hogni the valiant,<br />
 			For it trembles still<sep />as it stands on the platter;<br />
-			Twice more did it tremble<sep />in the breast of the man.
+			Twice more did it tremble<sep />in the breast of the man.''
 		</translation>
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			Hlo` þa` Ho~gni<sep />es til hjarta sko~`ru<br />
+			kvikvan kumblasmiþ,<sep />klo/kkva si`zt hugþi;<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep />
+			þat a` bjo`þ lo~gþu,<sep />bo~`ru fyr Gunnar.
 		</original>
 		<translation>
 			Then Hogni laughed<sep />when they cut out the heart<br />
@@ -556,11 +557,11 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Ma_e`rr kvaþ þat Gunnarr<sep />Geir-Niflungr:]<br />
+			``He`r hefk hjarta<sep />Ho~gna ens fro/`kna,<br />
+			o`gli`kt hjarta<sep />Hjalla ens blauþa,<br />
+			es litt bifask<sep />es a` bjo`þi liggr,<br />
+			bifþisk sva`gi mjo~k<sep />þa`s i` brjo`sti la`.
 		</original>
 		<translation>
 			Then Gunnar spake forth,<sep />the spear of the Niflungs:<br />
@@ -575,8 +576,8 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<sep /><lacuna /><br />
+			[Sva` skalt, Atli!<sep />augum fjarri,<br />
+			se, <conj>ma_e`tum</conj> munt<sep />menjum verþa.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -593,10 +594,10 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Es und einum me`r<sep />o~ll <conj>of</conj> folgin<br />
+			hodd Niflunga:<sep />lifira Ho~gni;<br />
+			ey <conj>vo~rumk</conj> ty`ja,<sep />meþan tveir lifþum,<br />
+			nu`'s me`r engi,<sep />es einn lifik.]
 		</original>
 		<translation>
 			To no one save me<sep />is the secret known<br />
@@ -612,10 +613,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ri`n skal <conj>nu`</conj> ra`þa<sep />ro`gmalmi skatna,<br />
+			<conj>o~`</conj> svinn, a`skunn<conj>um</conj><sep />arfi Niflunga,<br />
+			i` veltanda vatni<sep />ly`sask valbaugar,<br />
+			heldr an a` ho~ndum<sep />ski`ni Hu`na bo~rnum.''
 		</original>
 		<translation>
 			The swift Rhine shall hold<sep />the strife-gold of heroes,<br />
@@ -630,10 +631,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep />
+			``Y`kviþ hve`lvo~gnum,<sep />haptr's nu` i` bo~ndum!''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -647,6 +648,9 @@
 			<textstanza class="translation">
 				Then Atli called,<sep />the king of the Huns,
 			</textstanza>
+			<textstanza class="original">
+				(Kallaþi nu` Atli<sep />konungr Hu`na,)
+			</textstanza>
 			as a first line.
 			Some editors combine this line with the two lines of stanza <sr>33</sr>.
 			<expl>Wagon</expl>: in <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <stanzaref chapter="Brot af Sigurtharkvithu">16</stanzaref>, Gunnar is led to his death in the serpents' den on horseback, not in a wagon.
@@ -655,10 +659,10 @@
 	<block class="asterisks" />
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			<dagger /><dagger /> Atli enn ri`ki<sep />reiþ <conj>Glaumi</conj> mo~num<br />
+			sleginn ro`gþornum<sep />sifjungr þeira<br />
+			Guþru`n sigti`va<sep /><lacuna /><br />
+			varnaþi viþ to~`rum<sep />vaþin i` þysho~llu.
 		</original>
 		<translation>
 			On the long-maned Glaum<sep />rode Atli the great,<br />
@@ -677,13 +681,13 @@
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sva` gangi þe`r, Atli!<sep />sem viþ Gunnar a`ttir<br />
+			eiþa opt svarþa<sep />ok a`r of nefnda,<br />
+			at so`lu suþrho~llu<sep />ok at Sigty`s bergi,<br />
+			ho~lkvi hvi`lbeþjar<sep />ok at hringi Ullar.''
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -704,8 +708,8 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			[Ok meirr þaþan<sep />menvo~rþ bituls,<br />
+			dolgro~gni, dro`<sep />til dauþs sko`kr.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -722,12 +726,12 @@
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Lifanda gram<sep />lagþi i` garþ<br />
+			þanns skriþinn vas,<sep />skatna mengi,<br />
+			innan ormum,<sep />en einn Gunnarr<br />
+			heiptmo`þr ho~rþu<sep />hendi kni`þi;<br />
+			glumþu strengir---<sep />sva` skal golli<br />
+			flo/`kn hringdrifi<sep />viþ fira halda.]
 		</original>
 		<translation>
 			By the warriors' host<sep />was the living hero<br />
@@ -746,10 +750,10 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Le`t <conj>þa`</conj> Atli<sep />lands si`ns a` vit<br />
+			jo` eyrskaan<sep />aptr fra` morþi;<br />
+			dynr vas i` garþi,<sep />dro~slum of þrungit,<br />
+			va`pnso~ngr virþa,<sep /><conj>es</conj> af <conj>viþi kvo~`mu.</conj>
 		</original>
 		<translation>
 			Then Atli rode<sep />on his earth-treading steed,<br />
@@ -759,16 +763,16 @@
 		</translation>
 		<comment>
 			The manuscript marks line 3 as beginning a new stanza.
-			Two (possibly three) of the lines appear to, be in Fornyrthislag.
+			Two (possibly three) of the lines appear to be in Fornyrthislag.
 			<expl>Field</expl>: so the manuscript, involving a metrical error; many editions have ``wood.''
 		</comment>
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			U`t gekk þa` Guþru`n<sep />Atla at <conj>mo`ti</conj><br />
+			meþ gyldum kalki<sep /><conj>reiþa</conj> gjo~ld <conj>ro~gni:</conj><br />
+			``Þiggja kna`tt, þengill!<sep />i` þinni ho~llu<br />
+			glaþr at Guþru`nu<sep />gnadda niflfarna.''
 		</original>
 		<translation>
 			Out then came Guthrun<sep />to meeting with Atli,<br />
@@ -782,9 +786,9 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Umþu o~lska`lir<sep />Atla vi`nho~fgar,<br />
+			þa`s i` ho~ll saman<sep /><conj>Hu`na bo~rn</conj> to~lþusk;<br />
+			gumar gransi`þir<sep />gengu inn <conj>hvasir.</conj>
 		</original>
 		<translation>
 			The wine-heavy ale-cups<sep />of Atli resounded,<br />
@@ -793,16 +797,16 @@
 		</translation>
 		<comment>
 			<expl>Youths</expl>: a conjectural addition.
-			The brave ones is also conjectural, the manuscript having ``each.''
+			<expl>The brave ones</expl> is also conjectural, the manuscript having ``each.''
 			No gap indicated in the manuscript; some editions insert as line 3 or line 4 a slightly altered version of line 2 of stanza <sr>45</sr>.
 		</comment>
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			<sep /><lacuna /><br />
-			<lacuna /><sep /><br />
-			<sep /><br />
-			<sep />
+			Ska_e`vaþi þa`<sep />en ski`rleita<br />
+			<lacuna /><sep />veigar þeim at bera;<br />
+			afko~`r di`s <conj>jo~fri</conj><sep />o~lkra`sir valþi<br />
+			nauþug neffo~lum,<sep />ni`þ sagþi Atla:
 		</original>
 		<translation>
 			Then in came the shining one,<sep /><lacuna /><br />
@@ -817,10 +821,10 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Suna hefr þinna,<sep />sverþa deilir!<br />
+			hjo~rtu hra_e`dreyrug<sep />viþ hunang of tuggin;<br />
+			melta kna`tt, mo`þugr!<sep />manna val<conj>bra`þir,</conj><br />
+			<conj>etnar</conj> o~l<conj>kra`sir</conj><sep /><conj>i`</conj> o~ndugi <conj>sendar.</conj>
 		</original>
 		<translation>
 			``Thou giver of swords,<sep />of thy sons the hearts<br />
@@ -836,18 +840,18 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Kallara si`þan<sep />til knea þinna<br />
+			Erp ne` Eitil<sep />o~l<conj>reifr</conj> tvaa;<br />
+			se`ra si`þan<sep />i` seti miþju<br />
+			golls miþlendr<sep />geira skepta,<br />
+			[manar meita<sep />ne` mara keyra.]]''
 		</original>
 		<translation>
 			Thou shalt never call<sep />to thy knees again<br />
 			Erp or Eitil,<sep />when merry with ale;<br />
 			Thou shalt never see<sep />in their seats again<br />
 			The sharers of gold<sep />their lances shaping,<br />
-			(Clipping the manes<sep />or minding their steeds.)''
+			[Clipping the manes<sep />or minding their steeds.]''
 		</translation>
 		<comment>
 			Apparently a Fornyrthislag stanza.
@@ -858,11 +862,11 @@
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ymr varþ a` bekkjum,<sep />afka`rr so~ngr virþa,<br />
+			gny`r und goþvefjum,<sep />gre`tu bo~rn Hu`na,<br />
+			nema ein Guþru`n,<sep />es ho`n a_e`va gre`t<br />
+			bro/`þr <conj>ena</conj> ber<conj>ho~rþu</conj><sep /><conj>ne in heldr</conj> buri sva`sa,<br />
+			unga, o`fro`þa<sep />þa`s viþ Atla gat.
 		</original>
 		<translation>
 			There was clamor on the benches,<sep />and the cry of men,<br />
@@ -880,10 +884,10 @@
 	</block>
 	<block class="stanza" number="42">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Golli so/ri <conj>Guþru`n</conj><sep />en gagl<conj>bjarta</conj><br />
+			<conj>ok</conj> hringum rauþum<sep />hu`skarla reifþi;<br />
+			sko~p le`t ho`n vaxa,<sep />en ski`ran malm vaþa,<br />
+			a_e`va fljo`þ etki<sep />ga`þi fjarghu`sa.
 		</original>
 		<translation>
 			Gold did she scatter,<sep />the swan-white one,<br />
@@ -898,10 +902,10 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O`varr <conj>vas</conj> Atli,<sep /><conj>o`þan hafþisk</conj> drukkit,<br />
+			va`pn hafþi etki,<sep />varnaþit viþ Guþru`nu;<br />
+			opt vas leikr betri,<sep />þa`s þau lint skyldu<br />
+			optarr umb faþmask<sep /><dagger /> fyr o~þlingum.
 		</original>
 		<translation>
 			Unwise then was Atli,<sep />he had drunk to wildness,<br />
@@ -915,10 +919,10 @@
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ho`n <conj>beþjum</conj> broddi<sep />gaf blo`þ at drekka,<br />
+			hendi helfu`ssi,<sep />ok hvelpa leysti,<br />
+			hratt fyr hallar dyrr<sep />---hu`skarla vakþi---<br />
+			brandi bru`þr heitum:<sep />þau le`t bro/`þra gjo~ld.
 		</original>
 		<translation>
 			With her sword she gave blood<sep />for the bed to drink,<br />
@@ -933,11 +937,11 @@
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Eldi gaf alla<sep />es inni vo~`ru<br />
+			ok fra` morþi Gunnars<sep /><conj>kvo~`mu</conj> o`r Myrkheimi;<br />
+			[forn timbr fellu,<sep />fjarghu`s ruku,]<br />
+			bo/`r <conj>brann</conj> Buþlunga,<sep />brunnu ok skjaldmeyjar<br />
+			inni aldrstamar,<sep />hnigu i` eld heitan.
 		</original>
 		<translation>
 			To the flames she gave all<sep />who yet were within,<br />
@@ -956,10 +960,10 @@
 	</block>
 	<block class="stanza" number="46">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Fullro/`tt's <conj>of</conj> þetta,<sep />ferr<conj>at</conj> sva` si`þan<br />
+			bru`þr i` brynju<sep />bro/`þra at hefna;<br />
+			ho`n hefr þriggja<sep />þjo`þkonunga<br />
+			banorþ borit<sep />bjo~rt, a`þr sylti.]
 		</original>
 		<translation>
 			Now the tale is all told,<sep />nor in later time<br />
@@ -973,7 +977,9 @@
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
-		<original />
+		<original>
+			Enn segir glo/ggra i` Atlama`lum enum gro_enlenzkum.
+		</original>
 		<translation>
 			Still more is told in the Greenland ballad of Atli.
 		</translation>
