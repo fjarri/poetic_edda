@@ -1,7 +1,7 @@
 <chapter label="Atlakvitha">
 	<block class="eddachapter">
 		<original>
-			Atlakviþa [en gro/`nlenzka]
+			Atlakviþa [en grø̄nlenzka]
 		</original>
 		<transliteration>
 			Atlakvitha en Grönlenzka
@@ -14,47 +14,47 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		There are two Atli poems in the <src>Codex Regius</src>, the <chapterref chapter="Atlakvitha">Atlakvitha (Lay of Atli)</chapterref> and the <chapterref chapter="Atlamol">Atlamol (Ballad of Atli)</chapterref>.
-		The poems are not preserved or quoted in any other old manuscript, but they were extensively used by the compilers of the <src>Volsungasaga</src>.
-		In the manuscript superscription to each of these poems appears the word ``Greenland,'' which has given rise to a large amount of argument.
+		There are two Atli poems in the <source>Codex Regius</source>, the <chapterref chapter="Atlakvitha">Atlakvitha (Lay of Atli)</chapterref> and the <chapterref chapter="Atlamol">Atlamol (Ballad of Atli)</chapterref>.
+		The poems are not preserved or quoted in any other old manuscript, but they were extensively used by the compilers of the <source>Volsungasaga</source>.
+		In the manuscript superscription to each of these poems appears the word “Greenland,” which has given rise to a large amount of argument.
 		The scribe was by no means infallible, and in this case his statement proves no more than that in the period round 1300 there was a tradition that these two poems originated in the Greenland settlement.
 	</block>
 	<block class="text">
 		The two Atli poems deal with substantially the same material: the visit of the sons of Gjuki to Atli's court, their deaths, and the subsequent revenge of their sister, Guthrun, Atli's wife, on her husband.
-		The shorter of the two, the <cr>Atlakvitha</cr>, tells the story with little elaboration; the <cr>Atlamol</cr>, with about the same narrative basis, adds many details, some of them apparently of the poet's invention, and with a romantic, not to say sentimental, quality quite lacking in the <cr>Atlakvitha</cr>.
-		Both poems are sharply distinguished from the rest of the collection by their metrical form, which is the Malahattr (used irregularly also in the <cr>Harbarthsljoth</cr>), employed consistently and smoothly in the <cr>Atlamol</cr>, and with a considerable mixture of what appear to be Fornyrthislag lines (cf. <ref chapter="General Introduction">Introduction</ref>) in the <cr>Atlakvitha</cr>.
+		The shorter of the two, the <chapterref>Atlakvitha</chapterref>, tells the story with little elaboration; the <chapterref>Atlamol</chapterref>, with about the same narrative basis, adds many details, some of them apparently of the poet's invention, and with a romantic, not to say sentimental, quality quite lacking in the <chapterref>Atlakvitha</chapterref>.
+		Both poems are sharply distinguished from the rest of the collection by their metrical form, which is the Malahattr (used irregularly also in the <chapterref>Harbarthsljoth</chapterref>), employed consistently and smoothly in the <chapterref>Atlamol</chapterref>, and with a considerable mixture of what appear to be Fornyrthislag lines (cf. <ref chapter="General Introduction">Introduction</ref>) in the <chapterref>Atlakvitha</chapterref>.
 	</block>
 	<block class="text">
-		It is altogether probable that both poems belong to the eleventh century, the shorter <cr>Atlakvitha</cr> being generally dated from the first quarter thereof, and the longer <cr>Atlamol</cr> some fifty years or more later.
-		In each case the poet was apparently a Christian; in the <cr>Atlamol</cr> (stanza <stanzaref chapter="Atlamol">82</stanzaref>) Guthrun expresses her readiness to die and ``go into another light,'' and in the <cr>Atlakvitha</cr> there is frequent use of mythological names (e.g., Valhall, Hlithskjolf) with an evident lack of understanding of their relation to the older gods.
-		These facts fit the theory of a Greenland origin exceedingly well, for the Greenland settlement grew rapidly after the first explorations of Eirik the Red, which were in 982--985, and its most flourishing period was in the eleventh century.
-		The internal evidence, particularly in the case of the <cr>Atlamol</cr>, points likewise to an origin remote from Iceland, Norway, and the ``Western Isles''; and the two poems are sufficiently alike so that, despite the efforts of Finnur Jonsson and others to separate them, assigning one to Greenland and the other to Norway or else where, it seems probable that the manuscript statement is correct in both instances, and that the two Atli poems did actually originate in Greenland.
-		An interesting account of this Greenland settlement is given in William Hovgaard's <src>Voyages of the Norsemen to America</src>, published by the American-Scandinavian Foundation in 1914, and an extraordinarily vivid picture of the sufferings of the early settlers appears in Maurice Hewlett's <src>Thorgils</src>, taken from the <src>Floamannasaga</src>.
+		It is altogether probable that both poems belong to the eleventh century, the shorter <chapterref>Atlakvitha</chapterref> being generally dated from the first quarter thereof, and the longer <chapterref>Atlamol</chapterref> some fifty years or more later.
+		In each case the poet was apparently a Christian; in the <chapterref>Atlamol</chapterref> (stanza <stanzaref chapter="Atlamol">82</stanzaref>) Guthrun expresses her readiness to die and “go into another light,” and in the <chapterref>Atlakvitha</chapterref> there is frequent use of mythological names (e.g., Valhall, Hlithskjolf) with an evident lack of understanding of their relation to the older gods.
+		These facts fit the theory of a Greenland origin exceedingly well, for the Greenland settlement grew rapidly after the first explorations of Eirik the Red, which were in 982–985, and its most flourishing period was in the eleventh century.
+		The internal evidence, particularly in the case of the <chapterref>Atlamol</chapterref>, points likewise to an origin remote from Iceland, Norway, and the “Western Isles”; and the two poems are sufficiently alike so that, despite the efforts of Finnur Jonsson and others to separate them, assigning one to Greenland and the other to Norway or else where, it seems probable that the manuscript statement is correct in both instances, and that the two Atli poems did actually originate in Greenland.
+		An interesting account of this Greenland settlement is given in William Hovgaard's <source>Voyages of the Norsemen to America</source>, published by the American-Scandinavian Foundation in 1914, and an extraordinarily vivid picture of the sufferings of the early settlers appears in Maurice Hewlett's <source>Thorgils</source>, taken from the <source>Floamannasaga</source>.
 	</block>
 	<block class="text">
-		From the standpoint of narrative material there is little that is distinctively Norse in either the <cr>Atlakvitha</cr> or the <cr>Atlamol</cr>.
-		The story is the one outlined in the prose <cr>Drap Niflunga</cr> (largely based on these two poems), representing almost exclusively the southern blending of the Attila and Burgundian legends (cf. introductory note to <cr>Gripisspo</cr>).
-		In the <cr>Atlakvitha</cr>, indeed, the word ``Burgundians'' is actually used.
-		Brynhild is not mentioned in either poem; Sigurth's name appears but once, in the <cr>Atlamol</cr>.
+		From the standpoint of narrative material there is little that is distinctively Norse in either the <chapterref>Atlakvitha</chapterref> or the <chapterref>Atlamol</chapterref>.
+		The story is the one outlined in the prose <chapterref>Drap Niflunga</chapterref> (largely based on these two poems), representing almost exclusively the southern blending of the Attila and Burgundian legends (cf. introductory note to <chapterref>Gripisspo</chapterref>).
+		In the <chapterref>Atlakvitha</chapterref>, indeed, the word “Burgundians” is actually used.
+		Brynhild is not mentioned in either poem; Sigurth's name appears but once, in the <chapterref>Atlamol</chapterref>.
 		Thus the material goes directly back to its South-Germanic origins, with little of the Northern making-over which resulted in such extensive changes in most parts of the Sigurth story.
-		The general atmosphere, on the other hand, particularly in the <cr>Atlamol</cr>, is essentially Norse.
+		The general atmosphere, on the other hand, particularly in the <chapterref>Atlamol</chapterref>, is essentially Norse.
 	</block>
 	<block class="text">
-		As has been said, the <cr>Atlakvitha</cr> is metrically in a chaotic state, the normal Malahattr lines being frequently interspersed with lines and even stanzas which apparently are of the older Fornyrthislag type.
-		How much of this confusion is due to faulty transmission is uncertain, but it has been suggested that the composer of the <cr>Atlakvitha</cr> made over in Malahattr an older Atli poem in Fornyrthislag, and this suggestion has much to recommend it.
-		That he worked on the basis of an older poem is, indeed, almost certain, for in oral prose tradition a far larger number of distinctively Norse traits would unquestionably have crept in than are found in the material of the <cr>Atlakvitha</cr>.
-		As for the <cr>Atlamol</cr>, here again the poet seems to have used an older poem as his basis, possibly the <cr>Atlakvitha</cr> itself, although in that case he must have had other material as well, for there are frequent divergences in such matters as proper names.
+		As has been said, the <chapterref>Atlakvitha</chapterref> is metrically in a chaotic state, the normal Malahattr lines being frequently interspersed with lines and even stanzas which apparently are of the older Fornyrthislag type.
+		How much of this confusion is due to faulty transmission is uncertain, but it has been suggested that the composer of the <chapterref>Atlakvitha</chapterref> made over in Malahattr an older Atli poem in Fornyrthislag, and this suggestion has much to recommend it.
+		That he worked on the basis of an older poem is, indeed, almost certain, for in oral prose tradition a far larger number of distinctively Norse traits would unquestionably have crept in than are found in the material of the <chapterref>Atlakvitha</chapterref>.
+		As for the <chapterref>Atlamol</chapterref>, here again the poet seems to have used an older poem as his basis, possibly the <chapterref>Atlakvitha</chapterref> itself, although in that case he must have had other material as well, for there are frequent divergences in such matters as proper names.
 	</block>
 	<block class="text">
-		The translation of the <cr>Atlakvitha</cr> is rendered peculiarly difficult by the irregularity of the metre, by the evident faultiness of the transmission, and above all by the exceptionally large number of words found nowhere else in Old Norse, involving much guesswork as to their meanings.
+		The translation of the <chapterref>Atlakvitha</chapterref> is rendered peculiarly difficult by the irregularity of the metre, by the evident faultiness of the transmission, and above all by the exceptionally large number of words found nowhere else in Old Norse, involving much guesswork as to their meanings.
 		The notes do not attempt to indicate all the varying suggestions made by editors and commentators as to the reconstruction of defective stanzas and the probable meanings of obscure passages; in cases which are purely or largely guesswork the notes merely point out the uncertainty without cataloguing the proposed solutions.
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Guþru`n Gju`ka do`ttir hefndi bro_eþra sinna, sva` sem fra_egt er orþit.<br />
-			Hon drap fyrst sonu Atla, en eptir drap hon Atla ok brendi ho~llina ok hirþina alla.<br />
-			Um þetta er sja` kviþa ort.
+			Guþrūn Gjūka dōttir hefndi brœþra sinna, svā sem frægt er orþit.<br />
+			Hon drap fyrst sonu Atla, en eptir drap hon Atla ok brendi hǫllina ok hirþina alla.<br />
+			Um þetta er sjā kviþa ort.
 		</original>
 		<translation>
 			Guthrun, Gjuki's daughter, avenged her brothers, as has become well known.<br />
@@ -67,10 +67,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			Atli sendi<sep />a`r til Gunnars<br />
-			kunnan segg ri`þa,<sep />Kne`fro/þr vas heitinn;<br />
-			at go~rþum kvam Gju`ka<sep />ok at Gunnars ho~llu,<br />
-			bekkjum aringreypum<sep />ok at bjo`ri svo~`sum.
+			Atli sendi<sep />ār til Gunnars<br />
+			kunnan segg rīþa,<sep />Knēfrøþr vas heitinn;<br />
+			at gǫrþum kvam Gjūka<sep />ok at Gunnars hǫllu,<br />
+			bekkjum aringreypum<sep />ok at bjōri svǭsum.
 		</original>
 		<translation>
 			Atli sent<sep />of old to Gunnar<br />
@@ -80,16 +80,16 @@
 		</translation>
 		<comment>
 			Line 1 apparently is in Fornyrthislag.
-			<expl>Knefröth</expl> (the name is spelt in various ways, and its meaning is uncertain): in the <cr>Atlamol</cr> (stanza <stanzaref chapter="Atlamol">4</stanzaref>) there are two messengers, one named Vingi and the other unnamed; the annotator combines the two versions in the <chapterref>Drap Niflunga</chapterref>.
-			<expl>Benches</expl>, etc.: the adjective rendered ``round the hearth,'' which etymologically it ought to mean, is made obscure by its application to ``helmets'' in stanzas <sr>3</sr> and <sr>17</sr>.
+			<expl>Knefröth</expl> (the name is spelt in various ways, and its meaning is uncertain): in the <chapterref>Atlamol</chapterref> (stanza <stanzaref chapter="Atlamol">4</stanzaref>) there are two messengers, one named Vingi and the other unnamed; the annotator combines the two versions in the <chapterref>Drap Niflunga</chapterref>.
+			<expl>Benches</expl>, etc.: the adjective rendered “round the hearth,” which etymologically it ought to mean, is made obscure by its application to “helmets” in stanzas <stanzaref chapter="Atlakvitha">3</stanzaref> and <stanzaref chapter="Atlakvitha">17</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Drukku dro`ttmegir<sep />---enn dyljendr þo~gþu---<br />
-			vi`n i` valho~llu,<sep />vreiþi so~usk Hu`na;<br />
-			kallaþi þa` Kne`fro/þr<sep />kaldri ro~ddu,<br />
-			seggr enn suþro/`ni<sep />---sat a` bekk ho`vum---:
+			Drukku drōttmegir<sep />—enn dyljendr þǫgþu—<br />
+			vīn ī valhǫllu,<sep />vreiþi sǫusk Hūna;<br />
+			kallaþi þā Knēfrøþr<sep />kaldri rǫddu,<br />
+			seggr enn suþrø̄ni<sep />—sat ā bekk hōvum—:
 		</original>
 		<translation>
 			Then the followers, hiding<sep />their falseness, all drank<br />
@@ -98,34 +98,34 @@
 			The hero from the south,<sep />on the high bench sitting:
 		</translation>
 		<comment>
-			<expl>Falseness</expl>: i.e., Gunnar's followers concealed their fear and hatred of the Huns at the feast; but the word may mean ``fear of treachery.''
-			<expl>War-hall</expl>: the word used is ``Valhall,'' the name of Othin's hall of slain warriors.
+			<expl>Falseness</expl>: i.e., Gunnar's followers concealed their fear and hatred of the Huns at the feast; but the word may mean “fear of treachery.”
+			<expl>War-hall</expl>: the word used is “Valhall,” the name of Othin's hall of slain warriors.
 		</comment>
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			``Atli mik sendi<sep />ri`þa eyrindi<br />
-			mar enum me`lgreypa<sep />Myrkviþ <conj>o`kunnan,</conj><br />
-			biþja <conj>ykkr,</conj> Gunnarr!<sep />at a` bekk ko/`miþ<br />
-			meþ hjo~lmum <dagger /> aringreypum<sep />so/`kja heim Atla.
+			“Atli mik sendi<sep />rīþa eyrindi<br />
+			mar enum mēlgreypa<sep />Myrkviþ <conj>ōkunnan,</conj><br />
+			biþja <conj>ykkr,</conj> Gunnarr!<sep />at ā bekk kø̄miþ<br />
+			meþ hjǫlmum <dagger /> aringreypum<sep />sø̄kja heim Atla.
 		</original>
 		<translation>
-			``Now Atli has sent me<sep />his errand to ride,<br />
+			“Now Atli has sent me<sep />his errand to ride,<br />
 			On my bit-champing steed<sep />through Myrkwood the secret,<br />
 			To bid You, Gunnar,<sep />to his benches to come,<br />
 			With helms round the hearth,<sep />and Atli's home seek.
 		</translation>
 		<comment>
-			<expl>Myrkwood the secret</expl> (the adjective is literally ``unknown''): the forest which divided Atli's realm from that of the Gjukungs; cf. <chapterref>Oddrunargratr</chapterref>, <stanzaref chapter="Oddrunargratr">23</stanzaref> and note.
-			<expl>Around the hearth</expl>: the adjective is the same one which is applied to ``benches'' in stanza <sr>1</sr> (cf. note); it may be an error here, or it may possibly have the force of ``of your followers,'' i.e., Gunnar is to arm the men of his household (those who are round his hearth) for the journey.
+			<expl>Myrkwood the secret</expl> (the adjective is literally “unknown”): the forest which divided Atli's realm from that of the Gjukungs; cf. <chapterref>Oddrunargratr</chapterref>, <stanzaref chapter="Oddrunargratr">23</stanzaref> and note.
+			<expl>Around the hearth</expl>: the adjective is the same one which is applied to “benches” in stanza <stanzaref chapter="Atlakvitha">1</stanzaref> (cf. note); it may be an error here, or it may possibly have the force of “of your followers,” i.e., Gunnar is to arm the men of his household (those who are round his hearth) for the journey.
 		</comment>
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			Skjo~ldu kneguþ velja<sep />ok skafna aska,<br />
-			hjalma goll<conj>hroþna</conj><sep />ok <conj>hjo~rva</conj> mengi,<br />
-			silfrgyld so~þulkla_e`þi,<sep />serki val<conj>rauþa,</conj><br />
-			dafar <conj>ok darraþar,</conj><sep />dro~sla me`lgreypa.
+			Skjǫldu kneguþ velja<sep />ok skafna aska,<br />
+			hjalma goll<conj>hroþna</conj><sep />ok <conj>hjǫrva</conj> mengi,<br />
+			silfrgyld sǫþulklǣþi,<sep />serki val<conj>rauþa,</conj><br />
+			dafar <conj>ok darraþar,</conj><sep />drǫsla mēlgreypa.
 		</original>
 		<translation>
 			Shields shall ye choose there,<sep />and shafts made of ash-wood,<br />
@@ -134,55 +134,55 @@
 			With lances and spears too,<sep />and bit-champing steeds.
 		</translation>
 		<comment>
-			<expl>Slaves</expl>, etc.: some editions have ``swords in plenty.''
-			<expl>Scarlet</expl>: the word apparently means ``slaughter-red,'' ``blood-red,'' but it may mean something entirely different.
+			<expl>Slaves</expl>, etc.: some editions have “swords in plenty.”
+			<expl>Scarlet</expl>: the word apparently means “slaughter-red,” “blood-red,” but it may mean something entirely different.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			Vo~ll le`zk gefa mundu<sep />vi`þrar Gnitaheiþar,<br />
-			af geiri gjallanda<sep />ok af gyldum sto~fnum,<br />
-			sto`rar meiþmar<sep />ok staþi Danpar,<br />
-			hri`s þat et ma_e`ra<sep />es Myrk<conj>viþr heitir.</conj>''
+			Vǫll lēzk gefa mundu<sep />vīþrar Gnitaheiþar,<br />
+			af geiri gjallanda<sep />ok af gyldum stǫfnum,<br />
+			stōrar meiþmar<sep />ok staþi Danpar,<br />
+			hrīs þat et mǣra<sep />es Myrk<conj>viþr heitir.</conj>”
 		</original>
 		<translation>
 			The field shall be given you<sep />of wide Gnitaheith,<br />
 			With loud-ringing lances,<sep />and stems gold-o'er-laid,<br />
 			Treasures full huge,<sep />and the home of Danp,<br />
-			And the mighty forest<sep />that Myrkwood is called.''
+			And the mighty forest<sep />that Myrkwood is called.”
 		</translation>
 		<comment>
 			<expl>Gnitaheith</expl>: here the dragon Fafnir had his lair (cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">11</stanzaref>).
 			Sigurth doubtless owned it after Fafnir's death, and the Gjukungs after they had killed Sigurth.
-			Possibly they had given it to Atli in recompense for the death of his sister, Brynhild, and he now offered to restore it to them, or---as seems more likely---the poet was not very clear about its ownership himself.
-			<expl>Stems</expl>: i.e., the gilded stems of ships, carved like dragons,---an evident northern touch, if the word is correct, which is by no means certain.
-			<expl>Danp</expl>: this name was early applied to a mythical Danish king (cf. <chapterref>Rigsthula</chapterref>, <stanzaref chapter="Rigsthula">49</stanzaref> and note), but it may have been fabricated by error out of the word ``Danparstaþir'' (the phrase here used is ``staþi Danpar''), used in the <src>Hervararsaga</src> of a field of battle between the Goths and the Huns, and quite possibly referring to the region of the Dnieper.
+			Possibly they had given it to Atli in recompense for the death of his sister, Brynhild, and he now offered to restore it to them, or—as seems more likely—the poet was not very clear about its ownership himself.
+			<expl>Stems</expl>: i.e., the gilded stems of ships, carved like dragons,—an evident northern touch, if the word is correct, which is by no means certain.
+			<expl>Danp</expl>: this name was early applied to a mythical Danish king (cf. <chapterref>Rigsthula</chapterref>, <stanzaref chapter="Rigsthula">49</stanzaref> and note), but it may have been fabricated by error out of the word “Danparstaþir” (the phrase here used is “staþi Danpar”), used in the <source>Hervararsaga</source> of a field of battle between the Goths and the Huns, and quite possibly referring to the region of the Dnieper.
 			The name seems to have clung to the Atli tradition long after it had lost all definite significance.
-			<expl>Myrkwood</expl>: cf. note on stanza <sr>3</sr>.
+			<expl>Myrkwood</expl>: cf. note on stanza <stanzaref chapter="Atlakvitha">3</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			Ho~fþi vatt Gunnarr<sep />ok Ho~gna til sagþi:<br />
-			``Hvat ra_e`þr, seggr enn o/`ri!<sep />alls vit sli`kt heyrum?<br />
-			goll vissak etki<sep />a` Gnitaheiþi,<br />
-			þats vit <conj>jafnmikit</conj><sep />annat <conj>ne` hefþim.</conj>
+			Hǫfþi vatt Gunnarr<sep />ok Hǫgna til sagþi:<br />
+			“Hvat rǣþr, seggr enn ø̄ri!<sep />alls vit slīkt heyrum?<br />
+			goll vissak etki<sep />ā Gnitaheiþi,<br />
+			þats vit <conj>jafnmikit</conj><sep />annat <conj>nē hefþim.</conj>
 		</original>
 		<translation>
 			His head turned Gunnar,<sep />and to Hogni he said:<br />
-			``What thy counsel, young hero,<sep />when such things we hear?<br />
+			“What thy counsel, young hero,<sep />when such things we hear?<br />
 			No gold do I know<sep />on Gnitaheith lying<br />
 			So fair that other<sep />its equal we have not.
 		</translation>
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Sjau eigum salhu`s<sep />sverþa full <conj>hver'ru,</conj><br />
-			<conj>hver</conj> eru þeira<sep />hjo~lt o`r golli,<br />
-			minn veitk mar baztan,<sep />ma_e`ki hvassastan,<br />
-			[boga bekkso/`ma,<sep />en brynjur o`r golli,]<br />
-			hjalm <conj>minn</conj> hvi`tastan<sep />kominn o`r ho~ll Ki::ars,<br />
-			[einn es minn betri<sep />an sei:: allra Hu`na.]''
+			Sjau eigum salhūs<sep />sverþa full <conj>hver'ru,</conj><br />
+			<conj>hver</conj> eru þeira<sep />hjǫlt ōr golli,<br />
+			minn veitk mar baztan,<sep />mǣki hvassastan,<br />
+			[boga bekksø̄ma,<sep />en brynjur ōr golli,]<br />
+			hjalm <conj>minn</conj> hvītastan<sep />kominn ōr hǫll Kïars,<br />
+			[einn es minn betri<sep />an seï allra Hūna.]”
 		</original>
 		<translation>
 			We have seven halls,<sep />each of swords is full,<br />
@@ -190,47 +190,47 @@
 			My steed is the swiftest,<sep />my sword is sharpest,<br />
 			My bows adorn benches,<sep />my byrnies are golden,<br />
 			My helm is the brightest<sep />that came from Kjar's hall,<br />
-			[Mine own is better<sep />than all the Huns' treasure.]''
+			[Mine own is better<sep />than all the Huns' treasure.]”
 		</translation>
 		<comment>
 			The stanza is clearly in bad shape; the manuscript indicates line 5 as beginning a new stanza.
-			In line 5 the manuscript has ``and shield'' after ``helm.''
-			<expl>Kjar</expl>: Gering ingeniously identifies this Kjar with Kjar the father of Olrun, mentioned in the <chapterref>Völundarkvitha</chapterref>, <proseref chapter="Völundarkvitha" prose="p1">introductory prose</proseref> and stanza <stanzaref chapter="Völundarkvitha">2</stanzaref>, on the basis of a genealogy in the <src>Flateyjarbok</src>, in which Authi, the grand father of Kjar (by no means certainly the same man) and Buthli, father of Atli, are mentioned as making a raiding voyage together.
+			In line 5 the manuscript has “and shield” after “helm.”
+			<expl>Kjar</expl>: Gering ingeniously identifies this Kjar with Kjar the father of Olrun, mentioned in the <chapterref>Völundarkvitha</chapterref>, <proseref chapter="Völundarkvitha" prose="p1">introductory prose</proseref> and stanza <stanzaref chapter="Völundarkvitha">2</stanzaref>, on the basis of a genealogy in the <source>Flateyjarbok</source>, in which Authi, the grand father of Kjar (by no means certainly the same man) and Buthli, father of Atli, are mentioned as making a raiding voyage together.
 			This identification, however, rests on slight evidence.
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original_prelude>
-			Ho~gni kvaþ:
+			Hǫgni kvaþ:
 		</original_prelude>
 		<original>
-			``Hvat hyggr bru`þi bendu,<sep />þa`s okkr baug sendi<br />
-			vo~`þum <conj>ulfs varþan?</conj><sep />hykk at vo~rnuþ <conj>bjo`þi;</conj><br />
-			ha`r fannk heiþingja<sep />vriþit i` hring rauþum:<br />
-			ylfskr es vegr okkarr<sep />at ri`þa eyrindi.''
+			“Hvat hyggr brūþi bendu,<sep />þās okkr baug sendi<br />
+			vǭþum <conj>ulfs varþan?</conj><sep />hykk at vǫrnuþ <conj>bjōþi;</conj><br />
+			hār fannk heiþingja<sep />vriþit ī hring rauþum:<br />
+			ylfskr es vegr okkarr<sep />at rīþa eyrindi.”
 		</original>
 		<translation_prelude>
 			Hogni spake:
 		</translation_prelude>
 		<translation>
-			``What seeks she to say,<sep />that she sends us a ring,<br />
+			“What seeks she to say,<sep />that she sends us a ring,<br />
 			Woven with a wolf's hair?<sep />methinks it gives warning;<br />
 			In the red ring a hair<sep />of the heath-dweller found I,<br />
-			Wolf-like shall our road be<sep />if we ride on this journey.''
+			Wolf-like shall our road be<sep />if we ride on this journey.”
 		</translation>
 		<comment>
 			The manuscript does not name the speaker.
 			One editor gives the first sentence to Gunnar.
-			<expl>She</expl>, etc.: Guthrun, seeking to warn her brothers of Atli's treachery, sends them a ring with a wolf's hair as a sign of danger; in the <cr>Atlamol</cr> (stanza <stanzaref chapter="Atlamol">4</stanzaref>) she sends a message written in runes; cf. <chapterref>Drap Niflunga</chapterref>.
+			<expl>She</expl>, etc.: Guthrun, seeking to warn her brothers of Atli's treachery, sends them a ring with a wolf's hair as a sign of danger; in the <chapterref>Atlamol</chapterref> (stanza <stanzaref chapter="Atlamol">4</stanzaref>) she sends a message written in runes; cf. <chapterref>Drap Niflunga</chapterref>.
 			<expl>Heath-dweller</expl>: wolf.
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Niþjargi hvo~ttu<sep />ne` no~ungr annarr,<br />
-			ry`nendr ne` ra`þendr<sep />ne` þeirs ri`kir vo~`ru;<br />
-			kvaddi þa` Gunnarr,<sep />sem konungr skyldi,<br />
-			ma_e`rr i` mjo~þranni<sep />af mo`þi sto`rum:
+			Niþjargi hvǫttu<sep />nē nǫungr annarr,<br />
+			rȳnendr nē rāþendr<sep />nē þeirs rīkir vǭru;<br />
+			kvaddi þā Gunnarr,<sep />sem konungr skyldi,<br />
+			mǣrr ī mjǫþranni<sep />af mōþi stōrum:
 		</original>
 		<translation>
 			Not eager were his comrades,<sep />nor the men of his kin,<br />
@@ -239,73 +239,73 @@
 			Noble in the beer-hall,<sep />and bitter his scorn:
 		</translation>
 		<comment>
-			In line 1 the manuscript has ``His comrades did not urge Gunnar,'' but the name, involving a metrical error, seems to have been inserted through a scribal blunder.
+			In line 1 the manuscript has “His comrades did not urge Gunnar,” but the name, involving a metrical error, seems to have been inserted through a scribal blunder.
 		</comment>
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			``Ri`stu nu`, Fjo~rnir!<sep />la`t a` flet vaþa<br />
-			greppa gollska`lir<sep />meþ gumna ho~ndum<br />
+			“Rīstu nū, Fjǫrnir!<sep />lāt ā flet vaþa<br />
+			greppa gollskālir<sep />meþ gumna hǫndum<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
-			``Stand forth now, Fjornir!<sep />and hither on the floor<br />
+			“Stand forth now, Fjornir!<sep />and hither on the floor<br />
 			The beakers all golden<sep />shalt thou bring to the warriors.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			The manuscript indicates no lacuna, but probably two lines have dropped out, for the <src>Volsungasaga</src> paraphrase runs: ``Give us to drink in great cups, for it may well be that this shall be our last feast.''
+			The manuscript indicates no lacuna, but probably two lines have dropped out, for the <source>Volsungasaga</source> paraphrase runs: “Give us to drink in great cups, for it may well be that this shall be our last feast.”
 			<expl>Fjornir</expl>: Gunnar's cup-bearer.
 		</comment>
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<conj>Ulfar munu</conj> ra`þa<sep />arfi Niflunga,<br />
-			<conj>gamlir,</conj> gra`n<conj>varþir,</conj><sep />ef Gunnars missir,<br />
-			birnir blakkfjallir<sep />bi`ta þrefto~nnum,<br />
-			gamna greysto`þi,<sep />ef Gunnarr ko/mrat.''
+			<conj>Ulfar munu</conj> rāþa<sep />arfi Niflunga,<br />
+			<conj>gamlir,</conj> grān<conj>varþir,</conj><sep />ef Gunnars missir,<br />
+			birnir blakkfjallir<sep />bīta þreftǫnnum,<br />
+			gamna greystōþi,<sep />ef Gunnarr kømrat.”
 		</original>
 		<translation>
 			The wolves then shall rule<sep />the wealth of the Niflungs,<br />
 			Wolves aged and grey-hued,<sep />if Gunnar is lost,<br />
 			And black-coated bears<sep />with rending teeth bite,<br />
-			And make glad the dogs,<sep />if Gunnar returns not.''
+			And make glad the dogs,<sep />if Gunnar returns not.”
 		</translation>
 		<comment>
 			Bugge thinks this stanza is spoken by Gunnar's terrified followers; Grundtvig assigns it to Hogni.
 			Apparently, however, Gunnar means that if he and his men are not valiant enough to make the journey and return safely, it matters little what may happen to them.
 			<expl>Niflungs</expl>: regarding the application of this name to Gunnar's Burgundians cf. <chapterref chapter="Brot af Sigurtharkvitha">Brot</chapterref>, <stanzaref chapter="Brot af Sigurtharkvitha">17</stanzaref> and note.
-			<expl>Bears</expl>: these ``black'' bears have been used as arguments against the Greenland origin of the poem.
+			<expl>Bears</expl>: these “black” bears have been used as arguments against the Greenland origin of the poem.
 			<expl>And make glad the dogs</expl>: i.e., by giving them corpses to eat, but the phrase in the original is more than doubtful.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Leiddu landro~gni<sep />ly`þar o`neisir,<br />
-			gra`tendr gunnhvatan<sep />o`r garþi <conj>innan;</conj><br />
-			þa` kvaþ enn o/`ri<sep />erfivo~rþr Ho~gna:<br />
-			``Heilir fariþ, horskir!<sep />hvars ykkr hugr teygir!''
+			Leiddu landrǫgni<sep />lȳþar ōneisir,<br />
+			grātendr gunnhvatan<sep />ōr garþi <conj>innan;</conj><br />
+			þā kvaþ enn ø̄ri<sep />erfivǫrþr Hǫgna:<br />
+			“Heilir fariþ, horskir!<sep />hvars ykkr hugr teygir!”
 		</original>
 		<translation>
 			A following gallant<sep />fared forth with the ruler,<br />
 			Yet they wept as their home<sep />with the hero they left;<br />
 			And the little heir<sep />of Hogni called loudly:<br />
-			``Go safe now, ye wise ones,<sep />wherever ye will!''
+			“Go safe now, ye wise ones,<sep />wherever ye will!”
 		</translation>
 		<comment>
-			Some editions in line 2 read ``home of the Niflungs'' instead of ``their home,'' and others ``home of the Huns,'' the manuscript reading being ``home of the men.''
-			<expl>Heir</expl>: the <cr>Atlamol</cr> (stanza <stanzaref chapter="Atlamol">28</stanzaref>) names two sons of Hogni, Snævar and Solar, both of whom make the journey with their father and are killed.
-			The <src>Volsungasaga</src>, combining the two versions, says that Snævar and Solar went with their father, and implies that it was a third and still younger son who said: ``Farewell, and have a good time'' (thus literally).
+			Some editions in line 2 read “home of the Niflungs” instead of “their home,” and others “home of the Huns,” the manuscript reading being “home of the men.”
+			<expl>Heir</expl>: the <chapterref>Atlamol</chapterref> (stanza <stanzaref chapter="Atlamol">28</stanzaref>) names two sons of Hogni, Snævar and Solar, both of whom make the journey with their father and are killed.
+			The <source>Volsungasaga</source>, combining the two versions, says that Snævar and Solar went with their father, and implies that it was a third and still younger son who said: “Farewell, and have a good time” (thus literally).
 		</comment>
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Fetum le`tu fro/`knir<sep /><conj>of</conj> fjo~ll at þyrja<br />
-			mara ena me`lgreypu<sep />Myrkviþ <conj>o`kunnan;</conj><br />
-			hristisk o~ll Hu`nmo~rk,<sep />harþmo`þgir es fo`ru,<br />
-			vro~`ku vandstyggva<sep />vo~llu algro/`na.
+			Fetum lētu frø̄knir<sep /><conj>of</conj> fjǫll at þyrja<br />
+			mara ena mēlgreypu<sep />Myrkviþ <conj>ōkunnan;</conj><br />
+			hristisk ǫll Hūnmǫrk,<sep />harþmōþgir es fōru,<br />
+			vrǭku vandstyggva<sep />vǫllu algrø̄na.
 		</original>
 		<translation>
 			Then let the bold heroes<sep />their bit-champing horses<br />
@@ -314,16 +314,16 @@
 			On the whip-fearers fared they<sep />through fields that were green.
 		</translation>
 		<comment>
-			<expl>Myrkwood</expl>: cf. stanza <sr>3</sr> and note; the journey is here made by land, whereas in the <cr>Atlamol</cr> it is made partly by boat; cf. <cr>Atlamol</cr>, <stanzaref chapter="Atlamol">34</stanzaref> and note.
+			<expl>Myrkwood</expl>: cf. stanza <stanzaref chapter="Atlakvitha">3</stanzaref> and note; the journey is here made by land, whereas in the <chapterref>Atlamol</chapterref> it is made partly by boat; cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">34</stanzaref> and note.
 			<expl>Whip-fearers</expl>: horses, but there is some uncertainty as to the word.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<conj>Ho~ll</conj> so~u þeir Atla,<sep /><conj>hliþ</conj>skjalfar <conj>dju`par</conj><br />
-			---<conj>Buþla</conj> greppar standa<sep />a` borg enni ho`vu---<br />
-			sal <conj>of</conj> suþrþjo`þum<sep />sleginn sessmeiþum,<br />
-			bundnum ro~ndum,<sep />bleikum skjo~ldum.
+			<conj>Hǫll</conj> sǫu þeir Atla,<sep /><conj>hliþ</conj>skjalfar <conj>djūpar</conj><br />
+			—<conj>Buþla</conj> greppar standa<sep />ā borg enni hōvu—<br />
+			sal <conj>of</conj> suþrþjōþum<sep />sleginn sessmeiþum,<br />
+			bundnum rǫndum,<sep />bleikum skjǫldum.
 		</original>
 		<translation>
 			Then they saw Atli's halls,<sep />and his watch-towers high,<br />
@@ -332,9 +332,9 @@
 			With targets bound<sep />and shields full bright.
 		</translation>
 		<comment>
-			In line 1 the manuscript has ``land'' instead of ``halls,'' which involves a metrical error.
+			In line 1 the manuscript has “land” instead of “halls,” which involves a metrical error.
 			<expl>Watch-towers</expl>: the word used is identical with the name of Othin's watch-tower, Hlithskjolf (cf. <chapterref>Grimnismol</chapterref>, <proseref chapter="Grimnismol">introductory prose</proseref>).
-			<expl>Buthli</expl>: the manuscript has ``Bikki,'' which has led some editors to transfer this stanza to the <chapterref>Hamthesmol</chapterref>, placing it between stanzas <stanzaref chapter="Hamthesmol">16</stanzaref> and <stanzaref chapter="Hamthesmol">17</stanzaref>; it seems more likely, however, that ``Bikki'' was a scribal error for ``Buthli.''
+			<expl>Buthli</expl>: the manuscript has “Bikki,” which has led some editors to transfer this stanza to the <chapterref>Hamthesmol</chapterref>, placing it between stanzas <stanzaref chapter="Hamthesmol">16</stanzaref> and <stanzaref chapter="Hamthesmol">17</stanzaref>; it seems more likely, however, that “Bikki” was a scribal error for “Buthli.”
 			Regarding Bikki cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">63</stanzaref> and note.
 			Line 4 is apparently in Fornyrthislag.
 		</comment>
@@ -342,8 +342,8 @@
 	<block class="stanza" number="15">
 		<original>
 			En þar drakk Atli<sep /><lacuna /><br />
-			vi`n i` valho~llu,<sep />verþir so~`tu u`ti,<br />
-			at varþa Gunnari,<sep />ef <conj>hans</conj> vitja kva_e`mi,<br />
+			vīn ī valhǫllu,<sep />verþir sǭtu ūti,<br />
+			at varþa Gunnari,<sep />ef <conj>hans</conj> vitja kvǣmi,<br />
 			meþ geiri gjallanda<sep />vekja gram hildi.
 		</original>
 		<translation>
@@ -353,49 +353,49 @@
 			With their ringing spears<sep />they would fight with the ruler.
 		</translation>
 		<comment>
-			Line 1 in the manuscript is apparently incorrectly copied, and some editions omit ``Mid weapons and lances'' and assume a gap in either line 1 or line 3.
+			Line 1 in the manuscript is apparently incorrectly copied, and some editions omit “Mid weapons and lances” and assume a gap in either line 1 or line 3.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			Systir fann þeira<sep /><conj>þegars</conj> i` sal kvo~`mu<br />
-			bro/`þr hennar ba`þir---<sep />bjo`ri vas litt drukkin:<br />
-			``Ra`þinn est, Gunnarr!<sep />hvat munt, ri`kr! vinna<br />
-			viþ Hu`na harmbro~gþum?<sep />ho~ll gakk o`r snimma!
+			Systir fann þeira<sep /><conj>þegars</conj> ī sal kvǭmu<br />
+			brø̄þr hennar bāþir—<sep />bjōri vas litt drukkin:<br />
+			“Rāþinn est, Gunnarr!<sep />hvat munt, rīkr! vinna<br />
+			viþ Hūna harmbrǫgþum?<sep />hǫll gakk ōr snimma!
 		</original>
 		<translation>
 			This their sister saw,<sep />as soon as her brothers<br />
-			Had entered the hall,--<sep />little ale had she drunk:<br />
-			``Betrayed art thou, Gunnar!<sep />what guard hast thou, hero,<br />
+			Had entered the hall,–<sep />little ale had she drunk:<br />
+			“Betrayed art thou, Gunnar!<sep />what guard hast thou, hero,<br />
 			'Gainst the plots of the Huns?<sep />from the hall flee swiftly!
 		</translation>
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			Betr hefþir, bro`þir!<sep />at i` brynju fo/`rir,<br />
-			sem hjo~lmum <dagger /> aringreypum<sep />at sea heim Atla,<br />
-			sa_e`tir þu i` so~þlum<sep />so`lheiþa daga,<br />
-			[<conj>nars</conj> nornir le`tir<sep />nauþfo~lva gra`ta,<br />
-			Hu`na skjaldmeyjar<sep />hervi kanna]<br />
-			en Atla sjalfan<sep />le`tir i` ormgarþ koma.<br />
-			[nu`'s sa` ormgarþr<sep />ykkr <conj>of</conj> folginn.]''
+			Betr hefþir, brōþir!<sep />at ī brynju fø̄rir,<br />
+			sem hjǫlmum <dagger /> aringreypum<sep />at sea heim Atla,<br />
+			sǣtir þu ī sǫþlum<sep />sōlheiþa daga,<br />
+			[<conj>nars</conj> nornir lētir<sep />nauþfǫlva grāta,<br />
+			Hūna skjaldmeyjar<sep />hervi kanna]<br />
+			en Atla sjalfan<sep />lētir ī ormgarþ koma.<br />
+			[nū's sā ormgarþr<sep />ykkr <conj>of</conj> folginn.]”
 		</original>
 		<translation>
-			``Brother, 'twere far better<sep />to have come in byrnie,<br />
+			“Brother, 'twere far better<sep />to have come in byrnie,<br />
 			With thy household helmed,<sep />to see Atli's home,<br />
 			And to sit in the saddle<sep />all day 'neath the sun,<br />
 			[That the sword-norns might weep<sep />for the death-pale warriors,<br />
 			And the Hunnish shield-maids<sep />might shun not the sword,]<br />
 			And send Atli himself<sep />to the den of the snakes;<br />
-			[Now the den of the snakes<sep />for thee is destined.]''
+			[Now the den of the snakes<sep />for thee is destined.]”
 		</translation>
 		<comment>
 			This may be the remains of two stanzas, the manuscript marks line 5 as beginning a new stanza.
 			Editorial conjectures are numerous and varied.
-			<expl>Household</expl>: the phrase is the same ``helms round the hearth'' commented on in stanza <sr>3</sr>.
+			<expl>Household</expl>: the phrase is the same “helms round the hearth” commented on in stanza <stanzaref chapter="Atlakvitha">3</stanzaref>.
 			Some editions insert a conjectural line after line 3.
-			<expl>Sword-norns</expl>, etc.: the line is exceedingly obscure, and the phrase rendered ``sword-norns'' may mean ``corpse-norns.''
-			Apparently it refers to the warrior-women of the Huns, the ``shield-maids'' of line 5 and of stanza <sr>45</sr>.
+			<expl>Sword-norns</expl>, etc.: the line is exceedingly obscure, and the phrase rendered “sword-norns” may mean “corpse-norns.”
+			Apparently it refers to the warrior-women of the Huns, the “shield-maids” of line 5 and of stanza <stanzaref chapter="Atlakvitha">45</stanzaref>.
 			Roman writers refer to the warrior-women among the early Germanic tribes, and the tradition, closely allied to that of the Valkyries, attached itself readily to the ferocious Huns.
 			<expl>Den of snakes</expl>: concerning the manner of Gunnar's death cf. <chapterref>Drap Niflunga</chapterref>.
 		</comment>
@@ -406,21 +406,21 @@
 		</original_prelude>
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			``Seinat's nu`, systir!<sep />at samna Niflungum,<br />
-			langt es at leita<sep />ly`þa sinnis til,<br />
-			of rosmufjo~ll Ri`nar<sep />rekka o`neissa.''
+			“Seinat's nū, systir!<sep />at samna Niflungum,<br />
+			langt es at leita<sep />lȳþa sinnis til,<br />
+			of rosmufjǫll Rīnar<sep />rekka ōneissa.”
 		</original>
 		<translation_prelude>
 			Gunnar spake:
 		</translation_prelude>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
-			``Too late is it, sister,<sep />to summon the Niflungs,<br />
+			“Too late is it, sister,<sep />to summon the Niflungs,<br />
 			Long is it to come<sep />to the throng of our comrades,<br />
-			The heroes gallant,<sep />from the hills of the Rhine.''
+			The heroes gallant,<sep />from the hills of the Rhine.”
 		</translation>
 		<comment>
-			The manuscript indicates no lacuna and does not name the speaker; perhaps a line similar to line 1 of stanza <sr>24</sr> (or <sr>26</sr>) should be inserted here.
+			The manuscript indicates no lacuna and does not name the speaker; perhaps a line similar to line 1 of stanza <stanzaref chapter="Atlakvitha">24</stanzaref> (or <stanzaref chapter="Atlakvitha">26</stanzaref>) should be inserted here.
 			<expl>Rhine</expl>: Gunnar's Burgundian home is here clearly localized.
 			After this stanza it is probable that a passage describing the battle has been lost.
 		</comment>
@@ -428,7 +428,7 @@
 	<block class="asterisks" />
 	<block class="stanza" number="19">
 		<original>
-			fengu þeir Gunnar<sep />ok i` fjo~tur settu<br />
+			fengu þeir Gunnar<sep />ok ī fjǫtur settu<br />
 			Borgunda <conj>hollvin,</conj><sep />ok bundu fastla.
 		</original>
 		<translation>
@@ -436,17 +436,17 @@
 			The Burgundians' king,<sep />and fast they bound him.
 		</translation>
 		<comment>
-			These two lines, apparently the remains of a full stanza, may belong after stanza <sr>20</sr>.
-			<expl>Burgundians' king</expl>: the phrase may mean ``Burgundians' men,'' i.e., they bound all the Burgundians who were left alive after the battle.
-			This is the only place in the poems in which the name ``Burgundian'' appears; that the poet had no very clear conception of its meaning is indicated by the fact that in stanza <sr>21</sr> he calls Gunnar ``king of the Goths.''
+			These two lines, apparently the remains of a full stanza, may belong after stanza <stanzaref chapter="Atlakvitha">20</stanzaref>.
+			<expl>Burgundians' king</expl>: the phrase may mean “Burgundians' men,” i.e., they bound all the Burgundians who were left alive after the battle.
+			This is the only place in the poems in which the name “Burgundian” appears; that the poet had no very clear conception of its meaning is indicated by the fact that in stanza <stanzaref chapter="Atlakvitha">21</stanzaref> he calls Gunnar “king of the Goths.”
 		</comment>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Sjau hjo` Ho~gni<sep />sverþi hvo~ssu,<br />
-			en enum a`tta<sep />hratt i` eld heitan:<br />
-			sva` skal fro/`kn verjask<sep />fio~ndum <lacuna /><br />
-			<conj>sem</conj> Ho~gni varþi<sep />hendr <lacuna />
+			Sjau hjō Hǫgni<sep />sverþi hvǫssu,<br />
+			en enum ātta<sep />hratt ī eld heitan:<br />
+			svā skal frø̄kn verjask<sep />fiǫndum <lacuna /><br />
+			<conj>sem</conj> Hǫgni varþi<sep />hendr <lacuna />
 		</original>
 		<translation>
 			Hogni slew seven<sep />with sword so keen,<br />
@@ -456,17 +456,17 @@
 		</translation>
 		<comment>
 			Apparently a Fornyrthislag stanza, though most editions have attempted to expand the lines into Malahattr.
-			The exploits of Hogni (Hagene), with the names of many of his victims, are told in the <src>Nibelungenlied</src>.
-			<expl>The fire</expl>: in the <src>Nibelungenlied</src> Kriemhild has the hall set on fire, and the Burgundians fight amid the flames.
-			Line 4 is clearly defective, and some editors regard the name ``Gunnar'' as all that is left of the first two lines of stanza <sr>21</sr>.
+			The exploits of Hogni (Hagene), with the names of many of his victims, are told in the <source>Nibelungenlied</source>.
+			<expl>The fire</expl>: in the <source>Nibelungenlied</source> Kriemhild has the hall set on fire, and the Burgundians fight amid the flames.
+			Line 4 is clearly defective, and some editors regard the name “Gunnar” as all that is left of the first two lines of stanza <stanzaref chapter="Atlakvitha">21</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />Gunnars;<br />
-			fro~`gu fro/`knan,<sep />ef fjo~r vildi<br />
-			Gotna þjo`þann<sep />golli kaupa.
+			frǭgu frø̄knan,<sep />ef fjǫr vildi<br />
+			Gotna þjōþann<sep />golli kaupa.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -485,30 +485,30 @@
 			Gunnarr kvaþ:
 		</original_prelude>
 		<original>
-			``Hjarta <conj>skulumk</conj> Ho~gna<sep />i` hendi liggja,<br />
-			blo`þugt o`r brjo`sti<sep />skorit ballriþa<br />
-			saxi sli`þrbeitu,<sep />syni <conj>þjo`þkonungs.</conj>''
+			“Hjarta <conj>skulumk</conj> Hǫgna<sep />ī hendi liggja,<br />
+			blōþugt ōr brjōsti<sep />skorit ballriþa<br />
+			saxi slīþrbeitu,<sep />syni <conj>þjōþkonungs.</conj>”
 		</original>
 		<translation_prelude>
 			Gunnar spake:
 		</translation_prelude>
 		<translation>
-			``First the heart of Hogni<sep />shall ye lay in my hands,<br />
+			“First the heart of Hogni<sep />shall ye lay in my hands,<br />
 			All bloody from the breast<sep />of the bold one cut<br />
-			With keen-biting sword,<sep />from the son of the king.''
+			With keen-biting sword,<sep />from the son of the king.”
 		</translation>
 		<comment>
-			The manuscript does not indicate the speaker; perhaps a first line similar to line 1 of stanza <sr>24</sr> should appear here.
+			The manuscript does not indicate the speaker; perhaps a first line similar to line 1 of stanza <stanzaref chapter="Atlakvitha">24</stanzaref> should appear here.
 			Some editors, however, assume that a line is missing after line 3.
-			Gunnar demands proof that Hogni is dead because, as stanza <sr>29</sr> shows, he is unwilling to die himself until he is assured that the secret of the treasure will perish with him.
+			Gunnar demands proof that Hogni is dead because, as stanza <stanzaref chapter="Atlakvitha">29</stanzaref> shows, he is unwilling to die himself until he is assured that the secret of the treasure will perish with him.
 			He did not, of course, intend that the heart should be cut from the living Hogni.
 		</comment>
 	</block>
 	<block class="stanza" number="23">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			sko~`ru þeir hjarta<sep />Hjalla o`r brjo`sti<br />
-			ok a` bjo`þ lo~gþu,<sep />bo~`ru fyr Gunnar.
+			skǭru þeir hjarta<sep />Hjalla ōr brjōsti<br />
+			ok ā bjōþ lǫgþu,<sep />bǭru fyr Gunnar.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -516,33 +516,33 @@
 			On a platter they bore it,<sep />and brought it to Gunnar.
 		</translation>
 		<comment>
-			Most editions assume a gap (lines 1--2, 2--3 or 3--4).
+			Most editions assume a gap (lines 1–2, 2–3 or 3–4).
 			<expl>Hjalli</expl>: Atli's cook, killed to deceive Gunnar, as Atli hoped to wring the secret of the hoard from Hogni if Gunnar remained silent.
-			In the <cr>Atlamol</cr> (stanzas <stanzaref chapter="Atlamol">59</stanzaref>--<stanzaref chapter="Atlamol">60</stanzaref>) Atli's men prepare to kill Hjalli, but he is spared at Hogni's intercession.
+			In the <chapterref>Atlamol</chapterref> (stanzas <stanzaref chapter="Atlamol">59</stanzaref>–<stanzaref chapter="Atlamol">60</stanzaref>) Atli's men prepare to kill Hjalli, but he is spared at Hogni's intercession.
 		</comment>
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			[Þa` kvaþ þat Gunnarr,<sep />gumna dro`ttinn:]<br />
-			``He`r hefk hjarta<sep />Hjalla ens blauþa,<br />
-			o`gli`kt hjarta<sep />Ho~gna ens fro/`kna,<br />
-			es mjo~k bifask<sep />es a` bjo`þi liggr,<br />
-			bifþisk ho~lfu meirr<sep /><conj>þa`s</conj> i` brjo`sti la`.''
+			[Þā kvaþ þat Gunnarr,<sep />gumna drōttinn:]<br />
+			“Hēr hefk hjarta<sep />Hjalla ens blauþa,<br />
+			ōglīkt hjarta<sep />Hǫgna ens frø̄kna,<br />
+			es mjǫk bifask<sep />es ā bjōþi liggr,<br />
+			bifþisk hǫlfu meirr<sep /><conj>þās</conj> ī brjōsti lā.”
 		</original>
 		<translation>
 			Then Gunnar spake forth,<sep />the lord of the folk:<br />
-			``Here have I the heart<sep />of Hjalli the craven,<br />
+			“Here have I the heart<sep />of Hjalli the craven,<br />
 			Unlike to the heart<sep />of Hogni the valiant,<br />
 			For it trembles still<sep />as it stands on the platter;<br />
-			Twice more did it tremble<sep />in the breast of the man.''
+			Twice more did it tremble<sep />in the breast of the man.”
 		</translation>
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			Hlo` þa` Ho~gni<sep />es til hjarta sko~`ru<br />
-			kvikvan kumblasmiþ,<sep />klo/kkva si`zt hugþi;<br />
+			Hlō þā Hǫgni<sep />es til hjarta skǭru<br />
+			kvikvan kumblasmiþ,<sep />kløkkva sīzt hugþi;<br />
 			<lacuna /><sep /><lacuna /><br />
-			þat a` bjo`þ lo~gþu,<sep />bo~`ru fyr Gunnar.
+			þat ā bjōþ lǫgþu,<sep />bǭru fyr Gunnar.
 		</original>
 		<translation>
 			Then Hogni laughed<sep />when they cut out the heart<br />
@@ -551,33 +551,33 @@
 			On a platter they bore it,<sep />and brought it to Gunnar.
 		</translation>
 		<comment>
-			<expl>Helm-hammerer</expl> (literally ``helmet-smith''): warrior, i.e., Hogni.
+			<expl>Helm-hammerer</expl> (literally “helmet-smith”): warrior, i.e., Hogni.
 			No gap indicated in the manuscript.
 		</comment>
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			[Ma_e`rr kvaþ þat Gunnarr<sep />Geir-Niflungr:]<br />
-			``He`r hefk hjarta<sep />Ho~gna ens fro/`kna,<br />
-			o`gli`kt hjarta<sep />Hjalla ens blauþa,<br />
-			es litt bifask<sep />es a` bjo`þi liggr,<br />
-			bifþisk sva`gi mjo~k<sep />þa`s i` brjo`sti la`.
+			[Mǣrr kvaþ þat Gunnarr<sep />Geir-Niflungr:]<br />
+			“Hēr hefk hjarta<sep />Hǫgna ens frø̄kna,<br />
+			ōglīkt hjarta<sep />Hjalla ens blauþa,<br />
+			es litt bifask<sep />es ā bjōþi liggr,<br />
+			bifþisk svāgi mjǫk<sep />þās ī brjōsti lā.
 		</original>
 		<translation>
 			Then Gunnar spake forth,<sep />the spear of the Niflungs:<br />
-			``Here have I the heart<sep />of Hogni the valiant,<br />
+			“Here have I the heart<sep />of Hogni the valiant,<br />
 			Unlike to the heart<sep />of Hjalli the craven,<br />
 			Little it trembles<sep />as it lies on the platter,<br />
 			Still less did it tremble<sep />when it lay in his breast.
 		</translation>
 		<comment>
-			Line 1 may belong elsewhere (stanzas <sr>18</sr> or <sr>22</sr>).
+			Line 1 may belong elsewhere (stanzas <stanzaref chapter="Atlakvitha">18</stanzaref> or <stanzaref chapter="Atlakvitha">22</stanzaref>).
 		</comment>
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			[Sva` skalt, Atli!<sep />augum fjarri,<br />
-			sem <conj>ma_e`tum</conj> munt<sep />menjum verþa.<br />
+			[Svā skalt, Atli!<sep />augum fjarri,<br />
+			sem <conj>mǣtum</conj> munt<sep />menjum verþa.<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -588,16 +588,16 @@
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			Apparently the remains of two Fornyrthislag lines; the manuscript combines them with lines 1--2 of stanza <sr>28</sr>.
+			Apparently the remains of two Fornyrthislag lines; the manuscript combines them with lines 1–2 of stanza <stanzaref chapter="Atlakvitha">28</stanzaref>.
 			Gunnar foretells Atli's speedy death.
 		</comment>
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			Es und einum me`r<sep />o~ll <conj>of</conj> folgin<br />
-			hodd Niflunga:<sep />lifira Ho~gni;<br />
-			ey <conj>vo~rumk</conj> ty`ja,<sep />meþan tveir lifþum,<br />
-			nu`'s me`r engi,<sep />es einn lifik.]
+			Es und einum mēr<sep />ǫll <conj>of</conj> folgin<br />
+			hodd Niflunga:<sep />lifira Hǫgni;<br />
+			ey <conj>vǫrumk</conj> tȳja,<sep />meþan tveir lifþum,<br />
+			nū's mēr engi,<sep />es einn lifik.]
 		</original>
 		<translation>
 			To no one save me<sep />is the secret known<br />
@@ -607,26 +607,26 @@
 		</translation>
 		<comment>
 			Apparently in Fornyrthislag.
-			The manuscript indicates line 3 as the beginning of a stanza, and many editions combine lines 3--4 with stanza <sr>29</sr>.
-			This stanza explains Gunnar's demand for Hogni's heart in stanza <sr>22</sr>.
+			The manuscript indicates line 3 as the beginning of a stanza, and many editions combine lines 3–4 with stanza <stanzaref chapter="Atlakvitha">29</stanzaref>.
+			This stanza explains Gunnar's demand for Hogni's heart in stanza <stanzaref chapter="Atlakvitha">22</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			Ri`n skal <conj>nu`</conj> ra`þa<sep />ro`gmalmi skatna,<br />
-			<conj>o~`</conj> svinn, a`skunn<conj>um</conj><sep />arfi Niflunga,<br />
-			i` veltanda vatni<sep />ly`sask valbaugar,<br />
-			heldr an a` ho~ndum<sep />ski`ni Hu`na bo~rnum.''
+			Rīn skal <conj>nū</conj> rāþa<sep />rōgmalmi skatna,<br />
+			<conj>ǭ</conj> svinn, āskunn<conj>um</conj><sep />arfi Niflunga,<br />
+			ī veltanda vatni<sep />lȳsask valbaugar,<br />
+			heldr an ā hǫndum<sep />skīni Hūna bǫrnum.”
 		</original>
 		<translation>
 			The swift Rhine shall hold<sep />the strife-gold of heroes,<br />
 			That once was the gods',<sep />the wealth of the Niflungs,<br />
 			In the depths of the waters<sep />the death-rings shall glitter,<br />
-			And not shine on the hands<sep />of the Hunnish men.''
+			And not shine on the hands<sep />of the Hunnish men.”
 		</translation>
 		<comment>
 			The manuscript marks line 3, and not line 1, as the beginning of a stanza.
-			<expl>Rhine</expl>, etc.: the stanza shows the blending of three different traditions with regard to the treasure: the German tradition of the gold of the Rhine (cf. <chapterref>Völundarkvitha</chapterref>, <stanzaref chapter="Völundarkvitha">16</stanzaref>, and <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">16</stanzaref>), the tradition, likewise German, of the hoard of the Nibelungen (Niflungs), early blended with the first one, and finally the northern tradition of the theft of Andvari's treasure by Othin, Hönir, and Loki (cf. <chapterref>Reginsmol</chapterref>, <stanzaref chapter="Reginsmol">1</stanzaref>--<stanzaref chapter="Reginsmol">9</stanzaref>).
+			<expl>Rhine</expl>, etc.: the stanza shows the blending of three different traditions with regard to the treasure: the German tradition of the gold of the Rhine (cf. <chapterref>Völundarkvitha</chapterref>, <stanzaref chapter="Völundarkvitha">16</stanzaref>, and <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">16</stanzaref>), the tradition, likewise German, of the hoard of the Nibelungen (Niflungs), early blended with the first one, and finally the northern tradition of the theft of Andvari's treasure by Othin, Hönir, and Loki (cf. <chapterref>Reginsmol</chapterref>, <stanzaref chapter="Reginsmol">1</stanzaref>–<stanzaref chapter="Reginsmol">9</stanzaref>).
 		</comment>
 	</block>
 	<block class="stanza" number="30">
@@ -634,13 +634,13 @@
 			Atli kvaþ:
 		</original_prelude>
 		<original>
-			``Y`kviþ hve`lvo~gnum,<sep />haptr's nu` i` bo~ndum!''
+			“Ȳkviþ hvēlvǫgnum,<sep />haptr's nū ī bǫndum!”
 		</original>
 		<translation_prelude>
 			Atli spake:
 		</translation_prelude>
 		<translation>
-			``Ye shall bring the wagon,<sep />for now is he bound.''
+			“Ye shall bring the wagon,<sep />for now is he bound.”
 		</translation>
 		<comment>
 			Apparently all that is left of a full stanza.
@@ -649,20 +649,20 @@
 				Then Atli called,<sep />the king of the Huns,
 			</textstanza>
 			<textstanza class="original">
-				(Kallaþi nu` Atli<sep />konungr Hu`na,)
+				(Kallaþi nū Atli<sep />konungr Hūna,)
 			</textstanza>
 			as a first line.
-			Some editors combine this line with the two lines of stanza <sr>33</sr>.
+			Some editors combine this line with the two lines of stanza <stanzaref chapter="Atlakvitha">33</stanzaref>.
 			<expl>Wagon</expl>: in <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref>, <stanzaref chapter="Brot af Sigurtharkvithu">16</stanzaref>, Gunnar is led to his death in the serpents' den on horseback, not in a wagon.
 		</comment>
 	</block>
 	<block class="asterisks" />
 	<block class="stanza" number="31">
 		<original>
-			<dagger /><dagger /> Atli enn ri`ki<sep />reiþ <conj>Glaumi</conj> mo~num<br />
-			sleginn ro`gþornum<sep />sifjungr þeira<br />
-			Guþru`n sigti`va<sep /><lacuna /><br />
-			varnaþi viþ to~`rum<sep />vaþin i` þysho~llu.
+			<dagger /><dagger /> Atli enn rīki<sep />reiþ <conj>Glaumi</conj> mǫnum<br />
+			sleginn rōgþornum<sep />sifjungr þeira<br />
+			Guþrūn sigtīva<sep /><lacuna /><br />
+			varnaþi viþ tǭrum<sep />vaþin ī þyshǫllu.
 		</original>
 		<translation>
 			On the long-maned Glaum<sep />rode Atli the great,<br />
@@ -675,41 +675,41 @@
 			<expl>Glaum</expl>: this horse of Atli's is mentioned by name elsewhere.
 			<expl>Long-maned</expl>: uncertain.
 			The manuscript indicates no gap, but something has evidently been lost.
-			<expl>Gods of slaughter</expl>: perhaps the phrase, usually applied to Othin and the other gods, is here used simply to mean ``heroes,'' i.e., Atli, Gunnar, and Hogni.
+			<expl>Gods of slaughter</expl>: perhaps the phrase, usually applied to Othin and the other gods, is here used simply to mean “heroes,” i.e., Atli, Gunnar, and Hogni.
 			Line 4 suggests Guthrun's tearlessness after Sigurth's death (cf. <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">11</stanzaref>)
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original_prelude>
-			Guþru`n kvaþ:
+			Guþrūn kvaþ:
 		</original_prelude>
 		<original>
-			``Sva` gangi þe`r, Atli!<sep />sem viþ Gunnar a`ttir<br />
-			eiþa opt svarþa<sep />ok a`r of nefnda,<br />
-			at so`lu suþrho~llu<sep />ok at Sigty`s bergi,<br />
-			ho~lkvi hvi`lbeþjar<sep />ok at hringi Ullar.''
+			“Svā gangi þēr, Atli!<sep />sem viþ Gunnar āttir<br />
+			eiþa opt svarþa<sep />ok ār of nefnda,<br />
+			at sōlu suþrhǫllu<sep />ok at Sigtȳs bergi,<br />
+			hǫlkvi hvīlbeþjar<sep />ok at hringi Ullar.”
 		</original>
 		<translation_prelude>
 			Guthrun spake:
 		</translation_prelude>
 		<translation>
-			``It shall go with thee, Atli,<sep />as with Gunnar thou heldest<br />
+			“It shall go with thee, Atli,<sep />as with Gunnar thou heldest<br />
 			The oaths ofttimes sworn,<sep />and of old made firm,<br />
 			By the sun in the south,<sep />by Sigtyr's mountain,<br />
-			By the horse of the rest-bed,<sep />and the ring of Ull.''
+			By the horse of the rest-bed,<sep />and the ring of Ull.”
 		</translation>
 		<comment>
 			The manuscript does not indicate the speaker.
-			<expl>Sigtyr</expl> (``Victory-God''): Othin; what particular mountain (if any) is meant is unknown.
-			<expl>Horse of the rest-bed</expl>: probably this means ``bedpost,'' i.e., the support of the marriage-bed.
+			<expl>Sigtyr</expl> (“Victory-God”): Othin; what particular mountain (if any) is meant is unknown.
+			<expl>Horse of the rest-bed</expl>: probably this means “bedpost,” i.e., the support of the marriage-bed.
 			<expl>Ull</expl>: the archer god, cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">5</stanzaref> and note.
 			Nothing is known of his ring.
 		</comment>
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			[Ok meirr þaþan<sep />menvo~rþ bituls,<br />
-			dolgro~gni, dro`<sep />til dauþs sko`kr.<br />
+			[Ok meirr þaþan<sep />menvǫrþ bituls,<br />
+			dolgrǫgni, drō<sep />til dauþs skōkr.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -719,41 +719,41 @@
 		</translation>
 		<comment>
 			Apparently the remains of a Fornyrthislag stanza.
-			Some editors combine the two lines with the line here indicated as stanza <sr>30</sr>.
+			Some editors combine the two lines with the line here indicated as stanza <stanzaref chapter="Atlakvitha">30</stanzaref>.
 			<expl>Champer of bits</expl>: horse.
 			The manuscript indicates no gap.
 		</comment>
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			Lifanda gram<sep />lagþi i` garþ<br />
+			Lifanda gram<sep />lagþi ī garþ<br />
 			þanns skriþinn vas,<sep />skatna mengi,<br />
 			innan ormum,<sep />en einn Gunnarr<br />
-			heiptmo`þr ho~rþu<sep />hendi kni`þi;<br />
-			glumþu strengir---<sep />sva` skal golli<br />
-			fro/`kn hringdrifi<sep />viþ fira halda.]
+			heiptmōþr hǫrþu<sep />hendi knīþi;<br />
+			glumþu strengir—<sep />svā skal golli<br />
+			frø̄kn hringdrifi<sep />viþ fira halda.]
 		</original>
 		<translation>
 			By the warriors' host<sep />was the living hero<br />
 			Cast in the den<sep />where crawling about<br />
 			Within were serpents,<sep />but soon did Gunnar<br />
 			With his hand in wrath<sep />on the harp-strings smite;<br />
-			The strings resounded,--<sep />so shall a hero,<br />
+			The strings resounded,–<sep />so shall a hero,<br />
 			A ring-breaker, gold<sep />from his enemies guard.
 		</translation>
 		<comment>
 			Six Fornyrthislag lines which editors have tried to reconstruct in all sorts of ways.
-			The manuscript marks line 5 as the beginning of a new stanza, Regarding the serpents' den, Gunnar's harp-playing, and the manner of his death, cf. <cr>Drap Niflunga</cr> and <chapterref>Oddrunargratr</chapterref>, <stanzaref chapter="Oddrunargratr">27</stanzaref>--<stanzaref chapter="Oddrunargratr">30</stanzaref>, and notes.
-			In <cr>Atlamol</cr>, <stanzaref chapter="Atlamol">62</stanzaref>, Gunnar plays the harp with his feet, his hands being bound, and some editors change hand in line 4 to ``foot.''
-			Lines 5--6 may be interpolated, or, as Bugge maintains, lines 1--4 may have been expanded out of two lines.
+			The manuscript marks line 5 as the beginning of a new stanza, Regarding the serpents' den, Gunnar's harp-playing, and the manner of his death, cf. <chapterref>Drap Niflunga</chapterref> and <chapterref>Oddrunargratr</chapterref>, <stanzaref chapter="Oddrunargratr">27</stanzaref>–<stanzaref chapter="Oddrunargratr">30</stanzaref>, and notes.
+			In <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">62</stanzaref>, Gunnar plays the harp with his feet, his hands being bound, and some editors change hand in line 4 to “foot.”
+			Lines 5–6 may be interpolated, or, as Bugge maintains, lines 1–4 may have been expanded out of two lines.
 		</comment>
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			Le`t <conj>þa`</conj> Atli<sep />lands si`ns a` vit<br />
-			jo` eyrskaan<sep />aptr fra` morþi;<br />
-			dynr vas i` garþi,<sep />dro~slum of þrungit,<br />
-			va`pnso~ngr virþa,<sep /><conj>es</conj> af <conj>viþi kvo~`mu.</conj>
+			Lēt <conj>þā</conj> Atli<sep />lands sīns ā vit<br />
+			jō eyrskaan<sep />aptr frā morþi;<br />
+			dynr vas ī garþi,<sep />drǫslum of þrungit,<br />
+			vāpnsǫngr virþa,<sep /><conj>es</conj> af <conj>viþi kvǭmu.</conj>
 		</original>
 		<translation>
 			Then Atli rode<sep />on his earth-treading steed,<br />
@@ -764,31 +764,31 @@
 		<comment>
 			The manuscript marks line 3 as beginning a new stanza.
 			Two (possibly three) of the lines appear to be in Fornyrthislag.
-			<expl>Field</expl>: so the manuscript, involving a metrical error; many editions have ``wood.''
+			<expl>Field</expl>: so the manuscript, involving a metrical error; many editions have “wood.”
 		</comment>
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			U`t gekk þa` Guþru`n<sep />Atla <conj>at mo`ti</conj><br />
-			meþ gyldum kalki<sep /><conj>reiþa</conj> gjo~ld <conj>ro~gni:</conj><br />
-			``Þiggja kna`tt, þengill!<sep />i` þinni ho~llu<br />
-			glaþr at Guþru`nu<sep />gnadda niflfarna.''
+			Ūt gekk þā Guþrūn<sep />Atla <conj>at mōti</conj><br />
+			meþ gyldum kalki<sep /><conj>reiþa</conj> gjǫld <conj>rǫgni:</conj><br />
+			“Þiggja knātt, þengill!<sep />ī þinni hǫllu<br />
+			glaþr at Guþrūnu<sep />gnadda niflfarna.”
 		</original>
 		<translation>
 			Out then came Guthrun<sep />to meeting with Atli,<br />
 			With a golden beaker<sep />as gift to the monarch:<br />
-			``Thou mayst eat now, chieftain,<sep />within thy dwelling,<br />
-			Blithely with Guthrun<sep />young beasts fresh slaughtered.''
+			“Thou mayst eat now, chieftain,<sep />within thy dwelling,<br />
+			Blithely with Guthrun<sep />young beasts fresh slaughtered.”
 		</translation>
 		<comment>
-			<expl>Young beasts</expl>: Guthrun means Atli's sons, Erp and Eitil, but of course he thinks she refers to newly slaughtered beasts; cf. <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">41</stanzaref>--<stanzaref chapter="Guthrunarkvitha II">45</stanzaref>.
+			<expl>Young beasts</expl>: Guthrun means Atli's sons, Erp and Eitil, but of course he thinks she refers to newly slaughtered beasts; cf. <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">41</stanzaref>–<stanzaref chapter="Guthrunarkvitha II">45</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			Umþu o~lska`lir<sep />Atla vi`nho~fgar,<br />
-			þa`s i` ho~ll saman<sep /><conj>Hu`na bo~rn</conj> to~lþusk;<br />
-			gumar gransi`þir<sep />gengu inn <conj>hvassir.</conj>
+			Umþu ǫlskālir<sep />Atla vīnhǫfgar,<br />
+			þās ī hǫll saman<sep /><conj>Hūna bǫrn</conj> tǫlþusk;<br />
+			gumar gransīþir<sep />gengu inn <conj>hvassir.</conj>
 		</original>
 		<translation>
 			The wine-heavy ale-cups<sep />of Atli resounded,<br />
@@ -797,16 +797,16 @@
 		</translation>
 		<comment>
 			<expl>Youths</expl>: a conjectural addition.
-			<expl>The brave ones</expl> is also conjectural, the manuscript having ``each.''
-			No gap indicated in the manuscript; some editions insert as line 3 or line 4 a slightly altered version of line 2 of stanza <sr>45</sr>.
+			<expl>The brave ones</expl> is also conjectural, the manuscript having “each.”
+			No gap indicated in the manuscript; some editions insert as line 3 or line 4 a slightly altered version of line 2 of stanza <stanzaref chapter="Atlakvitha">45</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			Ska_e`vaþi þa`<sep />en ski`rleita<br />
+			Skǣvaþi þā<sep />en skīrleita<br />
 			<lacuna /><sep />veigar þeim at bera;<br />
-			afko~`r di`s <conj>jo~fri</conj><sep />o~lkra`sir valþi<br />
-			nauþug neffo~lum,<sep />ni`þ sagþi Atla:
+			afkǭr dīs <conj>jǫfri</conj><sep />ǫlkrāsir valþi<br />
+			nauþug neffǫlum,<sep />nīþ sagþi Atla:
 		</original>
 		<translation>
 			Then in came the shining one,<sep /><lacuna /><br />
@@ -821,13 +821,13 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			``Suna hefr þinna,<sep />sverþa deilir!<br />
-			hjo~rtu hra_e`dreyrug<sep />viþ hunang of tuggin;<br />
-			melta kna`tt, mo`þugr!<sep />manna val<conj>bra`þir,</conj><br />
-			<conj>etnar</conj> o~l<conj>kra`sir</conj><sep /><conj>i`</conj> o~ndugi <conj>sendar.</conj>
+			“Suna hefr þinna,<sep />sverþa deilir!<br />
+			hjǫrtu hrǣdreyrug<sep />viþ hunang of tuggin;<br />
+			melta knātt, mōþugr!<sep />manna val<conj>brāþir,</conj><br />
+			<conj>etnar</conj> ǫl<conj>krāsir</conj><sep /><conj>ī</conj> ǫndugi <conj>sendar.</conj>
 		</original>
 		<translation>
-			``Thou giver of swords,<sep />of thy sons the hearts<br />
+			“Thou giver of swords,<sep />of thy sons the hearts<br />
 			All heavy with blood<sep />in honey thou hast eaten;<br />
 			Thou shalt stomach, thou hero,<sep />the flesh of the slain,<br />
 			To eat at thy feast,<sep />and to send to thy followers.
@@ -835,23 +835,23 @@
 		<comment>
 			<expl>Giver of swords</expl>: generous prince, i.e., Atli.
 			<expl>Honey</expl>: cf. <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">42</stanzaref>.
-			<expl>To send to thy followers</expl>: literally, ``to send from thy high seat.''
+			<expl>To send to thy followers</expl>: literally, “to send from thy high seat.”
 		</comment>
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			[Kallara si`þan<sep />til knea þinna<br />
-			Erp ne` Eitil<sep />o~l<conj>reifr</conj> tvaa;<br />
-			se`ra si`þan<sep />i` seti miþju<br />
+			[Kallara sīþan<sep />til knea þinna<br />
+			Erp nē Eitil<sep />ǫl<conj>reifr</conj> tvaa;<br />
+			sēra sīþan<sep />ī seti miþju<br />
 			golls miþlendr<sep />geira skepta,<br />
-			[manar meita<sep />ne` mara keyra.]]''
+			[manar meita<sep />nē mara keyra.]]”
 		</original>
 		<translation>
 			Thou shalt never call<sep />to thy knees again<br />
 			Erp or Eitil,<sep />when merry with ale;<br />
 			Thou shalt never see<sep />in their seats again<br />
 			The sharers of gold<sep />their lances shaping,<br />
-			[Clipping the manes<sep />or minding their steeds.]''
+			[Clipping the manes<sep />or minding their steeds.]”
 		</translation>
 		<comment>
 			Apparently a Fornyrthislag stanza.
@@ -862,11 +862,11 @@
 	</block>
 	<block class="stanza" number="41">
 		<original>
-			Ymr varþ a` bekkjum,<sep />afka`rr so~ngr virþa,<br />
-			gny`r und goþvefjum,<sep />gre`tu bo~rn Hu`na,<br />
-			nema ein Guþru`n,<sep />es ho`n a_e`va gre`t<br />
-			bro/`þr <conj>ena</conj> ber<conj>ho~rþu</conj><sep /><conj>ne in heldr</conj> buri sva`sa,<br />
-			unga, o`fro`þa<sep />þa`s viþ Atla gat.
+			Ymr varþ ā bekkjum,<sep />afkārr sǫngr virþa,<br />
+			gnȳr und goþvefjum,<sep />grētu bǫrn Hūna,<br />
+			nema ein Guþrūn,<sep />es hōn ǣva grēt<br />
+			brø̄þr <conj>ena</conj> ber<conj>hǫrþu</conj><sep /><conj>ne in heldr</conj> buri svāsa,<br />
+			unga, ōfrōþa<sep />þās viþ Atla gat.
 		</original>
 		<translation>
 			There was clamor on the benches,<sep />and the cry of men,<br />
@@ -877,17 +877,17 @@
 		</translation>
 		<comment>
 			The text of the whole stanza has required a considerable amount of emendation.
-			Lines 3--5 may have been expanded out of two lines, or line 5 may be an interpolation, possibly from stanza <stanzaref chapter="Guthrunarhvot">12</stanzaref> of the <chapterref>Guthrunarhvot</chapterref>.
-			<expl>Weapons</expl>: the word literally means ``good-weaving,'' and may refer to silken garments, but this hardly fits the noun here rendered ``clashing.''
-			<expl>Wept not</expl>: cf. stanza <sr>31</sr> and note.
+			Lines 3–5 may have been expanded out of two lines, or line 5 may be an interpolation, possibly from stanza <stanzaref chapter="Guthrunarhvot">12</stanzaref> of the <chapterref>Guthrunarhvot</chapterref>.
+			<expl>Weapons</expl>: the word literally means “good-weaving,” and may refer to silken garments, but this hardly fits the noun here rendered “clashing.”
+			<expl>Wept not</expl>: cf. stanza <stanzaref chapter="Atlakvitha">31</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="42">
 		<original>
-			Golli so/ri <conj>Guþru`n</conj><sep />en gagl<conj>bjarta</conj><br />
-			<conj>ok</conj> hringum rauþum<sep />hu`skarla reifþi;<br />
-			sko~p le`t ho`n vaxa,<sep />en ski`ran malm vaþa,<br />
-			a_e`va fljo`þ etki<sep />ga`þi fjarghu`sa.
+			Golli søri <conj>Guþrūn</conj><sep />en gagl<conj>bjarta</conj><br />
+			<conj>ok</conj> hringum rauþum<sep />hūskarla reifþi;<br />
+			skǫp lēt hōn vaxa,<sep />en skīran malm vaþa,<br />
+			ǣva fljōþ etki<sep />gāþi fjarghūsa.
 		</original>
 		<translation>
 			Gold did she scatter,<sep />the swan-white one,<br />
@@ -897,15 +897,15 @@
 		</translation>
 		<comment>
 			Line 1 appears to be in Fornyrthislag.
-			Guthrun distributes Atli's treasures among his followers apparently to prevent their wrath at the slaying of Erp and Eitil from turning against her; Atli, as stanza <sr>43</sr> shows, is too drunk to realize or prevent what she is doing.
+			Guthrun distributes Atli's treasures among his followers apparently to prevent their wrath at the slaying of Erp and Eitil from turning against her; Atli, as stanza <stanzaref chapter="Atlakvitha">43</stanzaref> shows, is too drunk to realize or prevent what she is doing.
 		</comment>
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			O`varr <conj>vas</conj> Atli,<sep /><conj>o`þan hafþisk</conj> drukkit,<br />
-			va`pn hafþi etki,<sep />varnaþit viþ Guþru`nu;<br />
-			opt vas leikr betri,<sep />þa`s þau lint skyldu<br />
-			optarr umb faþmask<sep /><dagger /> fyr o~þlingum.
+			Ōvarr <conj>vas</conj> Atli,<sep /><conj>ōþan hafþisk</conj> drukkit,<br />
+			vāpn hafþi etki,<sep />varnaþit viþ Guþrūnu;<br />
+			opt vas leikr betri,<sep />þās þau lint skyldu<br />
+			optarr umb faþmask<sep /><dagger /> fyr ǫþlingum.
 		</original>
 		<translation>
 			Unwise then was Atli,<sep />he had drunk to wildness,<br />
@@ -919,10 +919,10 @@
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			Ho`n <conj>beþjum</conj> broddi<sep />gaf blo`þ at drekka,<br />
-			hendi helfu`ssi,<sep />ok hvelpa leysti,<br />
-			hratt fyr hallar dyrr<sep />---hu`skarla vakþi---<br />
-			brandi bru`þr heitum:<sep />þau le`t bro/`þra gjo~ld.
+			Hōn <conj>beþjum</conj> broddi<sep />gaf blōþ at drekka,<br />
+			hendi helfūssi,<sep />ok hvelpa leysti,<br />
+			hratt fyr hallar dyrr<sep />—hūskarla vakþi—<br />
+			brandi brūþr heitum:<sep />þau lēt brø̄þra gjǫld.
 		</original>
 		<translation>
 			With her sword she gave blood<sep />for the bed to drink,<br />
@@ -932,16 +932,16 @@
 		</translation>
 		<comment>
 			Guthrun allows the dogs and the house-thralls, who had no part in Gunnar's death, to escape before she burns the dwelling with all who are left therein.
-			In <cr>Atlamol</cr>, stanzas <stanzaref chapter="Atlamol">83</stanzaref>--<stanzaref chapter="Atlamol">84</stanzaref>, Atli is slain by a son of Hogni (Hniflung?) with Guthrun's help.
+			In <chapterref>Atlamol</chapterref>, stanzas <stanzaref chapter="Atlamol">83</stanzaref>–<stanzaref chapter="Atlamol">84</stanzaref>, Atli is slain by a son of Hogni (Hniflung?) with Guthrun's help.
 		</comment>
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			Eldi gaf alla<sep />es inni vo~`ru<br />
-			ok fra` morþi Gunnars<sep /><conj>kvo~`mu</conj> o`r Myrkheimi;<br />
-			[forn timbr fellu,<sep />fjarghu`s ruku,]<br />
-			bo/`r <conj>brann</conj> Buþlunga,<sep />brunnu ok skjaldmeyjar<br />
-			inni aldrstamar,<sep />hnigu i` eld heitan.
+			Eldi gaf alla<sep />es inni vǭru<br />
+			ok frā morþi Gunnars<sep /><conj>kvǭmu</conj> ōr Myrkheimi;<br />
+			[forn timbr fellu,<sep />fjarghūs ruku,]<br />
+			bø̄r <conj>brann</conj> Buþlunga,<sep />brunnu ok skjaldmeyjar<br />
+			inni aldrstamar,<sep />hnigu ī eld heitan.
 		</original>
 		<translation>
 			To the flames she gave all<sep />who yet were within,<br />
@@ -951,19 +951,19 @@
 			They were slain in the house,<sep />in the hot flames they sank.
 		</translation>
 		<comment>
-			Some editions transfer line 2 to stanza <sr>37</sr>; others reject line 3 as interpolated.
-			<expl>Myrkheim</expl> (``Dark-Home''): probably identical with Myrkwood; cf. stanza <sr>3</sr>.
-			<expl>Temple</expl>: probably both here and in stanza <sr>42</sr> the word means little more than the place where Atli's treasures were kept; the poet was by no means literal in his use of terms connected with the heathen religion.
+			Some editions transfer line 2 to stanza <stanzaref chapter="Atlakvitha">37</stanzaref>; others reject line 3 as interpolated.
+			<expl>Myrkheim</expl> (“Dark-Home”): probably identical with Myrkwood; cf. stanza <stanzaref chapter="Atlakvitha">3</stanzaref>.
+			<expl>Temple</expl>: probably both here and in stanza <stanzaref chapter="Atlakvitha">42</stanzaref> the word means little more than the place where Atli's treasures were kept; the poet was by no means literal in his use of terms connected with the heathen religion.
 			<expl>Buthlungs</expl>: sons of Buthli, i.e., Atli and his family.
-			<expl>Shield-maids</expl>: cf. stanza <sr>17</sr> and note.
+			<expl>Shield-maids</expl>: cf. stanza <stanzaref chapter="Atlakvitha">17</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="46">
 		<original>
-			[Fullro/`tt's <conj>of</conj> þetta,<sep />ferr<conj>at</conj> sva` si`þan<br />
-			bru`þr i` brynju<sep />bro/`þra at hefna;<br />
-			ho`n hefr þriggja<sep />þjo`þkonunga<br />
-			banorþ borit<sep />bjo~rt, a`þr sylti.]
+			[Fullrø̄tt's <conj>of</conj> þetta,<sep />ferr<conj>at</conj> svā sīþan<br />
+			brūþr ī brynju<sep />brø̄þra at hefna;<br />
+			hōn hefr þriggja<sep />þjōþkonunga<br />
+			banorþ borit<sep />bjǫrt, āþr sylti.]
 		</original>
 		<translation>
 			Now the tale is all told,<sep />nor in later time<br />
@@ -978,7 +978,7 @@
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			Enn segir glo/ggra i` Atlama`lum enum gro_enlenzkum.
+			Enn segir gløggra ī Atlamālum enum grœnlenzkum.
 		</original>
 		<translation>
 			Still more is told in the Greenland ballad of Atli.
