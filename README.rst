@@ -326,11 +326,12 @@ Oddrunargratr (2 July 2011)
 * Added Oddrunargratr chapter;
 * Added separate style for 'multistanza' comments
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Atlakvitha en Grönlenzka (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Atlakvitha en Grönlenzka (9 July 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add Atlakvitha en Grönlenzka chapter
+* Added Atlakvitha en Grönlenzka chapter;
+* Fixed some references to Atlakvitha
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
