@@ -84,14 +84,14 @@ def processComment(t):
 		u'Skirnismol', u'Harbarthsljoth', u'Hymiskvitha', u'Lokasenna',
 		u'Thrymskvitha', u'Alvissmol', u'Baldrs Draumar', u'Rigsthula',
 		u'Hyndluljoth', u'Svipdagsmol', u'Lays of the Heroes', u'Völundarkvitha',
-		u'Helgakvitha Hjorvarthssonar', u'Helgakvitha Hundingsbana I',
-		u'Helgakvitha Hundingsbana II', u'Fra Dautha Sinfjotla',
+		u'Helgakvitha Hjorvarthssonar', u'Helgakvitha Hundingsbana II',
+		u'Helgakvitha Hundingsbana I', u'Fra Dautha Sinfjotla',
 		u'Gripisspo', u'Reginsmol', u'Fafnismol', u'Sigrdrifumol',
-		u'Brot af Sigurtharkvithu', u'Guthrunarkvitha I',
+		u'Brot af Sigurtharkvithu', u'Guthrunarkvitha III',
 		u'Sigurtharkvitha en skamma', u'Helreith Brynhildar',
-		u'Drap Niflunga', u'Guthrunarkvitha II', u'Guthrunarkvitha III',
+		u'Drap Niflunga', u'Guthrunarkvitha II', u'Guthrunarkvitha I',
 		u'Oddrunargratr', u'Atlakvitha en Grönlenzka', u'Atlamol en Grönlenzku',
-		u'Guthrunarhvot', u'Hamthesmol']
+		u'Guthrunarhvot', u'Hamthesmol', u'Atlamol', u'Atlakvitha', u'Brot']
 
 	t = re.sub(ur'\s*\[fp\. \d+\]\s*', u' ', t) # remove [fp. ##]
 	t = re.sub(ur'"([^"]+)"', ur"``\1''", t) # replace " by `` and ''
