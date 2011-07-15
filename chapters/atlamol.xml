@@ -1,0 +1,2068 @@
+<chapter label="">
+	<block class="eddachapter">
+		<original>
+
+		</original>
+		<transliteration>
+			Atlamol en Grönlenzku
+		</transliteration>
+		<translation>
+			The Greenland Ballad of Atli
+		</translation>
+	</block>
+	<block class="section">
+		Introductory Note
+	</block>
+	<block class="text">
+		Many of the chief facts regarding the <cr>Atlamol</cr>, which follows the <cr>Atlakvitha</cr> in the <src>Codex Regius</src>, are outlined in the introductory note to the <ref chapter="Atlakvitha">earlier Atli lay</ref>.
+		That the superscription in the manuscript is correct, and that the poem was actually composed in Greenland, is generally accepted; the specific reference to polar bears (stanza <sr>17</sr>), and the general color of the entire poem make this origin exceedingly likely.
+		Most critics, again, agree in dating the poem nearer 1100 than 1050.
+		As to its state of preservation there is some dispute, but, barring one or two possible gaps of some importance, and the usual number of passages in which the interpolation or omission of one or two lines may be suspected, the <cr>Atlamol</cr> has clearly come down to us in fairly good shape.
+	</block>
+	<block class="text">
+		Throughout the poem the epic quality of the story itself is overshadowed by the romantically sentimental tendencies of the poet, and by his desire to adapt the narrative to the understanding of his fellow-Greenlanders.
+		The substance of the poem is the same as that of the <cr>Atlakvitha</cr>; it tells of Atli's message to the sons of Gjuki, their journey to Atli's home, the slaying of Hogni and Gunnar, Guthrun's bitterness over the death of her brothers, and her bloody revenge on Atli.
+		Thus in its bare out line the <cr>Atlamol</cr> represents simply the Frankish blending of the legends of the slaughter of the Burgundians and the death of Attila (cf. <cr>Gripisspo</cr>, introductory note). But here the resemblance ends.
+		The poet has added characters, apparently of his own creation, for the sake of episodes which would appeal to both the men and the women of the Greenland settlement.
+		Sea voyages take the place of journeys by land; Atli is reproached, not for cowardice in battle, but for weakness at the Thing or great council.
+		The additions made by the poet are responsible for the Atlamol's being the longest of all the heroic poems in the Eddic collection, and they give it a kind of emotional vivid ness, but it has little of the compressed intensity of the older poems.
+		Its greatest interest lies in its demonstration of the manner in which a story brought to the North from the South Germanic lands could be adapted to the understanding and tastes of its eleventh century hearers without any material change of the basic narrative.
+	</block>
+	<block class="text">
+		In what form or forms the story of the Gjukungs and Atli reached the Greenland poet cannot be determined, but it seems likely that he was familiar with older poems on the subject, and possibly with the <cr>Atlakvitha</cr> itself.
+		That the details which are peculiar to the <cr>Atlamol</cr>, such as the figures of Kostbera and Glaumvor, existed in earlier tradition seems doubtful, but the son of Hogni, who aids Guthrun in the slaying of Atli, appears, though under another name, in other late versions of the story, and it is impossible to say just how much the poet relied on his own imagination and how far he found suggestions and hints in the prose or verse stories of Atli with which he was familiar.
+	</block>
+	<block class="text">
+		The poem is in Malahattr (cf. <ref chapter="General Introduction">Introduction</ref>) throughout, the verse being far more regular than in the <cr>Atlakvitha</cr>.
+		The compilers of the <src>Volsungasaga</src> evidently knew it in very much the form in which we now have it, for in the main it is paraphrased with great fidelity.
+	</block>
+	<block class="sepline" />
+	<block class="stanza" number="1">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			There are many who know<sep />how of old did men<br />
+			In counsel gather;<sep />little good did they get;<br />
+			In secret they plotted,<sep />it was sore for them later,<br />
+			And for Gjuki's sons,<sep />whose trust they deceived.
+		</translation>
+		<comment>
+			<expl>Men</expl>: Atli and his advisers, with whom he planned the death of the sons of Gjuki, Gunnar and Hogni.
+			The poet's reference to the story as well known explains the abruptness of his introduction, without the mention of Atli's name, and his reference to Guthrun in stanza <sr>3</sr> simply as ``the woman'' (``husfreyja,'' goddess of the house).
+		</comment>
+	</block>
+	<block class="stanza" number="2">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Fate grew for the princes,<sep />to death they were given;<br />
+			Ill counsel was Atli's,<sep />though keenness he had;<br />
+			He felled his staunch bulwark,<sep />his own sorrow fashioned,<br />
+			Soon a message he sent<sep />that his kinsmen should seek him.
+		</translation>
+		<comment>
+			<expl>Princes</expl>: Atli, Gunnar, and Hogni.
+			<expl>Bulwark</expl>: Atli's slaying of his wife's brothers, who were ready to support and defend him in his greatness, was the cause of his own death.
+		</comment>
+	</block>
+	<block class="stanza" number="3">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Wise was the woman,<sep />she fain would use wisdom,<br />
+			She saw well what meant<sep />all they said in secret;<br />
+			From her heart it was hid<sep />how help she might render,<br />
+			The sea they should sail,<sep />while herself she should go not.
+		</translation>
+		<comment>
+			<expl>The woman</expl>: Guthrun, concerning whose marriage to Atli cf. <chapterref>Guthrunarkvitha II</chapterref>.
+			<expl>The sea</expl>: a late and essentially Greenland variation of the geography of the Atli story.
+			Even the <chapterref>Atlakvitha</chapterref>, perhaps half a century earlier, separates Atli's land from that of the Gjukungs only by a forest.
+		</comment>
+	</block>
+	<block class="stanza" number="4">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Runes did she fashion,<sep />but false Vingi made them,<br />
+			The speeder of hatred,<sep />ere to give them he sought;<br />
+			Then soon fared the warriors<sep />whom Atli had sent,<br />
+			And to Limafjord came,<sep />to the home of the kings.
+		</translation>
+		<comment>
+			<expl>Runes</expl>: on the two versions of Guthrun's warning, and also on the name of the messenger (here <expl>Vingi</expl>), cf. <chapterref>Drap Niflunga</chapterref> and note.
+			<expl>Limafjord</expl>: probably the Limfjord of northern Jutland, an important point in the wars of the eleventh century.
+			The name was derived from ``Eylimafjorþ,'' i.e., Eylimi's fjord.
+			The poet may really have thought that the kingdom of the Burgundians was in Jutland, or he may simply have taken a well-known name for the sake of vividness.
+		</comment>
+	</block>
+	<block class="stanza" number="5">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			They were kindly with ale,<sep />and fires they kindled,<br />
+			They thought not of craft<sep />from the guests who had come;<br />
+			The gifts did they take<sep />that the noble one gave them,<br />
+			On the pillars they hung them,<sep />no fear did they harbor.
+		</translation>
+		<comment>
+			Some editors assume a gap after this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="6">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Forth did Kostbera,<sep />wife of Hogni, then come,<br />
+			Full kindly she was,<sep />and she welcomed them both;<br />
+			And glad too was Glaumvor,<sep />the wife of Gunnar,<br />
+			She knew well to care<sep />for the needs of the guests.
+		</translation>
+		<comment>
+			Some editions place this stanza between stanzas <sr>7</sr> and <sr>8</sr>.
+			<expl>Kostbera</expl> (``The Giver of Food'') and <expl>Glaumvor</expl> (``The Merry''): presumably creations of the poet.
+			<expl>Both</expl>: Atli's two emissaries, Vingi and the one here unnamed (Knefröth?).
+		</comment>
+	</block>
+	<block class="stanza" number="7">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Hogni they asked<sep />if more eager he were,<br />
+			Full clear was the guile,<sep />if on guard they had been;<br />
+			Then Gunnar made promise,<sep />if Hogni would go,<br />
+			And Hogni made answer<sep />as the other counseled.
+		</translation>
+		<comment>
+			It is altogether probable that a stanza has been lost between stanzas <sr>6</sr> and <sr>7</sr>, in which Gunnar is first invited, and replies doubtfully.
+			<expl>Made promise</expl>: many editions emend the text to read ``promised the journey.''
+			The text of line 4 is obscure; the manuscript reads ``nitti'' (``refused''), which many editors have changed to ``hlitti,'' which means exactly the opposite.
+		</comment>
+	</block>
+	<block class="stanza" number="8">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep />
+		</original>
+		<translation>
+			Then the famed ones brought mead,<sep />and fair was the feast,<br />
+			Full many were the horns,<sep />till the men had drunk deep;<br />
+			.    .    .    .    .        .    .    .    .    .<br />
+			Then the mates made ready<sep />their beds for resting.
+		</translation>
+		<comment>
+			No gap is indicated in the manuscript; Bugge adds (line 3):
+			<textstanza class="translation">
+				Then the warriors rose,<sep />and to slumber made ready.
+			</textstanza>
+			The manuscript indicates line 4 as beginning a new stanza, and some editions make a separate stanza out of lines 1--2.
+			Others suggest the loss of a line after line 4.
+		</comment>
+	</block>
+	<block class="stanza" number="9">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Wise was Kostbera,<sep />and cunning in rune-craft,<br />
+			The letters would she read<sep />by the light of the fire;<br />
+			But full quickly her tongue<sep />to her palate clave,<br />
+			So strange did they seem<sep />that their meaning she saw not.
+		</translation>
+		<comment>
+			The manuscript does not indicate line 1 as the beginning of a stanza; cf. note on stanza <sr>8</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="10">
+		<original>
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full soon then his bed<sep />came Hogni to seek,<br />
+			<lacuna /><sep /><lacuna /><br />
+			The clear-souled one dreamed,<sep />and her dream she kept not,<br />
+			To the warrior the wise one<sep />spake when she wakened:
+		</translation>
+		<comment>
+			Some editions combine this stanza with lines 1--2 of stanza <sr>11</sr>.
+			The manuscript indicates no gap.
+			Grundtvig adds (line 2):
+			<textstanza class="translation">
+				But sleep to the woman<sep />so wise came little.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="11">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Thou wouldst go hence,<sep />Hogni, but heed my counsel,---<br />
+			Known to few are the runes,--<sep />and put off thy faring;<br />
+			I have read now the runes<sep />that thy sister wrote,<br />
+			And this time the bright one<sep />did not bid thee to come.
+		</translation>
+		<comment>
+			Some editions make a separate stanza out of lines 1--2, or combine them with stanza <sr>10</sr>, and combine lines 3--4 with stanza <sr>12</sr> (either lines 1--4 or 1--2).
+			The manuscript marks line 3 as beginning a new stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="12">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full much do I wonder,<sep />nor well can I see,<br />
+			Why the woman wise<sep />so wildly hath written;<br />
+			But to me it seems<sep />that the meaning beneath<br />
+			Is that both shall be slain<sep />if soon ye shall go.<br />
+			But one rune she missed,<sep />or else others have marred it.''
+		</translation>
+		<comment>
+			Line 5 may be spurious, or else all that is left of a lost stanza.
+			The manuscript marks it as the beginning of a new stanza, which, as the text stands, is clearly impossible.
+		</comment>
+	</block>
+	<block class="stanza" number="13">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``All women are fearful;<sep />not so do I feel,<br />
+			Ill I seek not to find<sep />till I soon must avenge it;<br />
+			The king now will give us<sep />the glow-ruddy gold;<br />
+			I never shall fear,<sep />though of dangers I know.''
+		</translation>
+		<comment>
+			The manuscript, followed by some editions, has ``Hogni spake'' in the middle of line 1.
+			<expl>Ill</expl>: the manuscript and many editions have ``this.''
+			<expl>The king</expl>: Atli.
+		</comment>
+	</block>
+	<block class="stanza" number="14">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Kostbera spake:
+		</translation_prelude>
+		<translation>
+			``In danger ye fare,<sep />if forth ye go thither,<br />
+			No welcoming friendly<sep />this time shall ye find;<br />
+			For I dreamed now, Hogni,<sep />and nought will I hide,<br />
+			Full evil thy faring,<sep />if rightly I fear.
+		</translation>
+		<comment>
+			The manuscript does not indicate the speakers in this dialogue between Kostbera and Hogni (stanzas <sr>14</sr>--<sr>19</sr>).
+			Two line, may possibly have been lost after line 2, filling out stanza <sr>14</sr> and making stanza <sr>15</sr> (then consisting of lines 3--4 of stanza <sr>14</sr> and lines 1--2 of stanza <sr>15</sr>) the account of Kostbera's first dream.
+			The manuscript marks line 3 as beginning a new stanza.
+			In any case, the lost lines cannot materially have altered the meaning.
+		</comment>
+	</block>
+	<block class="stanza" number="15">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thy bed-covering saw I<sep />in the flames burning,<br />
+			And the fire burst high<sep />through the walls of my home.''<br />
+			<stanzaprelude>Hogni spake:</stanzaprelude><br />
+			``Yon garment of linen<sep />lies little of worth,<br />
+			It will soon be burned,<sep />so thou sawest the bed-cover.''
+		</translation>
+		<comment>
+			<expl>Saw I</expl>: the manuscript here, as also in stanzas <sr>16</sr>, <sr>18</sr>, <sr>21</sr>, <sr>22</sr>, and <sr>24</sr>, has ``methought,'' which involves a metrical error.
+			Some editors regard lines 3--4 as the remains of a four-line stanza.
+			Regarding Kostbera's warning dreams, and Hogni's matter-of-fact interpretations of them, cf. <chapterref>Guthrunarkvitha II</chapterref>, <stanzaref chapter="Guthrunarkvitha II">39</stanzaref>--<stanzaref chapter="Guthrunarkvitha II">44</stanzaref>.
+		</comment>
+	</block>
+	<block class="stanza" number="16">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Kostbera spake:
+		</translation_prelude>
+		<translation>
+			``A bear saw I enter,<sep />the pillars he broke,<br />
+			And he brandished his claws<sep />so that craven we were;<br />
+			With his mouth seized he many,<sep />and nought was our might,<br />
+			And loud was the tumult,<sep />not little it was.''
+		</translation>
+		<comment>
+			The meaning of the first half of line 3 in the original is obscure.
+		</comment>
+	</block>
+	<block class="stanza" number="17">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``Now a storm is brewing,<sep />and wild it grows swiftly,<br />
+			A dream of an ice-bear<sep />means a gale from the east.''
+		</translation>
+		<comment>
+			Two lines may have been lost after line 2, but the <src>Volsungasaga</src> paraphrase gives no clue.
+			<expl>Ice-bear</expl>: polar bears, common in Greenland, are very rarely found in Iceland, and never in Norway, a fact which substantiates the manuscript's reference to Greenland as the home of the poem.
+		</comment>
+	</block>
+	<block class="stanza" number="18">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Kostbera spake:
+		</translation_prelude>
+		<translation>
+			``An eagle I saw flying<sep />from the end through the house,<br />
+			Our fate must be bad,<sep />for with blood he sprinkled us;<br />
+			<lacuna /><sep /><lacuna /><br />
+			From the evil I fear<sep />that 'twas Atli's spirit.''
+		</translation>
+		<comment>
+			The manuscript indicates no gap, but most editors assume the loss of a line after line 1 or 2; Grundtvig adds, after line 1:
+			<textstanza class="original">
+				Black were his feathers,<sep />with blood was he covered.
+			</textstanza>
+			<expl>Atli's spirit</expl>: the poet's folk-lore seems here a bit weak.
+			Presumably he means such a female following-spirit (``fylgja'') as appears in <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjorvarthssonar" prose="c35">prose following stanza 34</proseref> (cf. note thereon), but the word he uses, ``hamr'' (masculine) means ``skin,'' ``shape.''
+			He may, however, imply that Atli had assumed the shape of an eagle for this occasion.
+		</comment>
+	</block>
+	<block class="stanza" number="19">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``They will slaughter soon,<sep />and so blood do we see,<br />
+			Oft oxen it means<sep />when of eagles one dreams;<br />
+			True is Atli's heart,<sep />whatever thou dreamest.''<br />
+			Then silent they were,<sep />and nought further they said.
+		</translation>
+		<comment>
+			The manuscript indicates line 4 as beginning a new stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="20">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep />
+		</original>
+		<translation>
+			The high-born ones wakened,<sep />and like speech they had,<br />
+			Then did Glaumvor tell<sep />how in terror she dreamed,<br />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /> Gunnar<sep />two roads they should go.
+		</translation>
+		<comment>
+			The manuscript indicates no gap, but none of the many attempted emendations have made sense out of the words as they stand.
+			The proper location for' the missing words is sheer guesswork.
+			<expl>Two roads</expl>: probably the meaning is that their way (i.e., their success) would be doubtful.
+		</comment>
+	</block>
+	<block class="stanza" number="21">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Glaumvor spake:
+		</translation_prelude>
+		<translation>
+			``A gallows saw I ready,<sep />thou didst go to thy hanging,<br />
+			Thy flesh serpents ate,<sep />and yet living I found thee;<br />
+			<lacuna /><sep /><lacuna /><br />
+			The gods' doom descended;<sep />now say what it boded.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speakers in this dialogue (stanzas <sr>21</sr>--<sr>26</sr>).
+			No gap is indicated after line 2.
+			Most editors assume the loss of two lines or of a full stanza after stanza <sr>21</sr> giving Gunnar's interpretation of Glaumvor's dream, but the <src>Volsungasaga</src> gives no clue, as it does not mention this first dream at all.
+			Grundtvig suggests as Gunnar's answer:
+			<textstanza class="translation">
+				Banners are gleaming,<sep />since of gallows didst dream,<br />
+				And wealth it must mean<sep />that thou serpents didst watch.
+			</textstanza>
+			<expl>Gods' doom</expl>: an odd, and apparently mistaken, use of the phrase ``ragna rök'' (cf. <chapterref>Voluspo</chapterref>, introductory note).
+		</comment>
+	</block>
+	<block class="asterisks" />
+	<block class="stanza" number="22">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``A sword drawn bloody<sep />from thy garments I saw,---<br />
+			Such a dream is hard<sep />o a husband to tell,---<br />
+			A spear stood, methought,<sep />through thy body thrust,<br />
+			And at head and feet<sep />the wolves were howling.''
+		</translation>
+	</block>
+	<block class="stanza" number="23">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Gunnar spake:
+		</translation_prelude>
+		<translation>
+			``The hounds are running,<sep />loud their barking is heard,<br />
+			Oft hounds' clamor follows<sep />the flying of spears.''
+		</translation>
+		<comment>
+			Perhaps two lines have been lost after line 2.
+			Possibly the concluding phrase of line 2 should be ``bloody spears,'' as in the <src>Volsungasaga</src> paraphrase.
+		</comment>
+	</block>
+	<block class="stanza" number="24">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Glaumvor spake:
+		</translation_prelude>
+		<translation>
+			``A river the length<sep />of the hall saw I run,<br />
+			Full swiftly it roared,<sep />o'er the benches it swept;<br />
+			O'er the feet did it break<sep />of ye brothers twain,<br />
+			The water would yield not;<sep />some meaning there was.''
+		</translation>
+		<comment>
+			Again Gunnar's interpretation is missing, and most editors either assume a gap or construct two Malahattr lines (out of the <src>Volsungasaga</src> prose paraphrase, which runs: ``The grain shall flow, since thou hast dreamed of rivers, and when we go to the fields, often the chaff rises above our feet.''
+		</comment>
+	</block>
+	<block class="asterisks" />
+	<block class="stanza" number="25">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``I dreamed that by night<sep />came dead women hither,<br />
+			Sad were their garments,<sep />and thee were they seeking;<br />
+			They bade thee come swiftly<sep />forth to their benches,<br />
+			And nothing, methinks,<sep />could the Norns avail thee. ''
+		</translation>
+		<comment>
+			The meaning of line 4 is uncertain, but apparently it refers to the guardian spirits or lesser Norns (cf. <chapterref>Fafnismol</chapterref>, <stanzaref chapter="Fafnismol">12</stanzaref>--<stanzaref chapter="Fafnismol">13</stanzaref> and notes).
+		</comment>
+	</block>
+	<block class="stanza" number="26">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Gunnar spake:
+		</translation_prelude>
+		<translation>
+			``Too late is thy speaking,<sep />for so is it settled<br />
+			From the faring I turn not,<sep />the going is fixed,<br />
+			Though likely it is<sep />that our lives shall be short.''
+		</translation>
+		<comment>
+			Possibly a line has been lost from this stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="27">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then bright shone the morning,<sep />the men all were ready,<br />
+			They said, and yet each<sep />would the other hold back;<br />
+			Five were the warriors,<sep />and their followers all<br />
+			But twice as many,---<sep />their minds knew not wisdom.
+		</translation>
+		<comment>
+			<expl>Five</expl>: Gunnar, Hogni, and the three mentioned in stanza <sr>28</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="28">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Snævar and Solar,<sep />they were sons of Hogni,<br />
+			Orkning was he called<sep />who came with the others,<br />
+			Blithe was the shield-tree,<sep />the brother of Kostbera;<br />
+			The fair-decked ones followed,<sep />till the fjord divided them,<br />
+			Full hard did they plead,<sep />but the others would hear not.
+		</translation>
+		<comment>
+			Perhaps a line has been lost before line 1; Grundtvig supplies:
+			<textstanza class="translation">
+				Gunnar and Hogni,<sep />the heirs twain of Gjuki.
+			</textstanza>
+			<expl>Snævar</expl> (the manuscript here has ``Snevar''), <expl>Solar</expl> and <expl>Orkning</expl> appear only in this poem and in the prose narratives based on it.
+			Lines 2--3 may have been expanded out of one line, or possibly line 3 is spurious.
+			The manuscript indicates line 4 as beginning a new stanza, and many editions make a separate stanza out of lines 4--5, many of them assuming the loss of two lines.
+			<expl>Shield-tree</expl>: warrior (Orkning), here identified as Kostbera's brother.
+			<expl>Fair-decked ones</expl>: women, i.e., Glaumvor and Kostbera.
+			<expl>Fjord</expl>: perhaps specifically the Limafjord mentioned in stanza <sr>4</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="29">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then did Glaumvor speak forth,<sep />the wife of Gunnar,<br />
+			To Vingi she said<sep />that which wise to her seemed:<br />
+			``I know not if well<sep />thou requitest our welcome,<br />
+			Full ill was thy coming<sep />if evil shall follow.''
+		</translation>
+	</block>
+	<block class="stanza" number="30">
+		<original>
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then did Vingi swear,<sep />and full glib was his speech,<br />
+			<lacuna /><sep /><lacuna /><br />
+			``May giants now take me<sep />if lies I have told ye,<br />
+			And the gallows if hostile<sep />thought did I have.''
+		</translation>
+		<comment>
+			The manuscript indicates no gap.
+			Grundtvig inserts (line 2):
+			<textstanza class="translation">
+				The evil was clear<sep />when his words he uttered.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="31">
+		<original>
+			<sep /><br />
+			<lacuna /><sep /><lacuna /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then did Bera speak forth,<sep />and fair was her thought,<br />
+			<lacuna /><sep /><lacuna /><br />
+			``May ye sail now happy,<sep />and victory have,<br />
+			To fare as I bid ye,<sep />may nought your way bar.''
+		</translation>
+		<comment>
+			<expl>Bera</expl>: Kostbera; the first element in compound feminine proper names was not infrequently omitted; cf. Hild for Brynhild (<chapterref>Helreith Brynhildar</chapterref>, <stanzaref chapter="Helreith Brynhildar">6</stanzaref>).
+			The manuscript indicates no gap; Grundtvig inserts (line 2):
+			<textstanza class="translation">
+				And clear was her cry<sep />to her kinsmen dear.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="32">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Hogni made answer,---<sep />dear held he his kin,---<br />
+			``Take courage, ye wise ones,<sep />whatsoever may come;<br />
+			Though many may speak,<sep />yet is evil oft mighty,<br />
+			And words avail little<sep />to lead one homeward.''
+		</translation>
+		<comment>
+			Hogni's method of cheering his wife and sister-in-law is somewhat unusual, for the meaning of lines 3--4 is that good wishes and blessings are of little use in warding off danger.
+		</comment>
+	</block>
+	<block class="stanza" number="33">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			They tenderly looked<sep />till each turned on his way,<br />
+			Then with changing fate<sep />were their farings divided.
+		</translation>
+		<comment>
+			Perhaps two lines have been lost after line 2; Grundtvig supplies:
+			<textstanza class="translation">
+				Then weeping did<sep />Glaumvor go to her rest-bed,<br />
+				And sadly did Bera<sep />her spinning wheel seek.''
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="34">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full stoutly they rowed,<sep />and the keel clove asunder,<br />
+			Their backs strained at the oars,<sep />and their strength was fierce;<br />
+			The oar-loops were burst,<sep />the thole-pins, were broken,<br />
+			Nor the ship made they fast<sep />ere from her they fared.
+		</translation>
+		<comment>
+			<expl>Keel</expl>, etc.: in the <src>Nibelungenlied</src>, and presumably in the older German tradition, Hagene breaks his oar steering the Burgundians across the Danube (stanza 1564), and, after all have landed, splinters the boat (stanza 1581) in order that there may be no retreating.
+			The poet here seems to have confused the story, connecting the breaking of the ship's keel with the violence of the rowing, but echoing the older legend in the last line, wherein the ship is allowed to drift away after the travellers have landed.
+			<expl>Oar-loops</expl>: the thongs by which the oars in a Norse boat were made fast to the thole-pins, the combination taking the place of the modern oarlock.
+		</comment>
+	</block>
+	<block class="stanza" number="35">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Not long was it after---<sep />the end must I tell---<br />
+			That the home they beheld<sep />that Buthli once had;<br />
+			Loud the gates resounded<sep />when Hogni smote them;<br />
+			Vingi spake then a word<sep />that were better unsaid:
+		</translation>
+		<comment>
+			The manuscript indicates line 4 as beginning a new stanza, and many editions combine it with stanza <sr>36</sr>, some of them assuming the loss of a line from stanza <sr>35</sr>.
+			In the <src>Volsungasaga</src> paraphrase the second half of line 4 is made a part of Vingi's speech: ``Better had ye left this undone.''
+		</comment>
+	</block>
+	<block class="stanza" number="36">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``Go ye far from the house,<sep />for false is its entrance,<br />
+			Soon shall I burn you,<sep />ye are swiftly smitten;<br />
+			I bade ye come fairly,<sep />but falseness was under,<br />
+			Now bide ye afar<sep />while your gallows I fashion.''
+		</translation>
+		<comment>
+			Cf. note on preceding stanza; the manuscript does not indicate line 1 as beginning a stanza.
+			Line 3 may be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="37">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Hogni made answer,<sep />his heart yielded little,<br />
+			And nought did he fear<sep />that his fate held in store:<br />
+			``Seek not to affright us,<sep />thou shalt seldom succeed;<br />
+			If thy words are more,<sep />then the worse grows thy fate.''
+		</translation>
+		<comment>
+			In the <src>Volsungasaga</src> paraphrase the second half of line 1 and the first half of line 2 are included in Hogni's speech.
+		</comment>
+	</block>
+	<block class="stanza" number="38">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then Vingi did they smite,<sep />and they sent him to hell,<br />
+			With their axes they clove him<sep />while the death rattle came.
+		</translation>
+		<comment>
+			Possibly two lines have been lost after line 2.
+		</comment>
+	</block>
+	<block class="stanza" number="39">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Atli summoned his men,<sep />in mail-coats they hastened,<br />
+			All ready they came,<sep />and between was the courtyard.
+		</translation>
+		<comment>
+			It is probable that a considerable passage has been lost between stanzas <sr>39</sr> and <sr>40</sr>, for the <src>Volsungasaga</src> paraphrase includes a dialogue at this point.
+			The manuscript indicates no gap, and most editions combine stanzas <sr>39</sr> and <sr>40</sr> as a single stanza.
+			The prose passage, indicating the substance of what, if any thing, is lost, runs as follows:
+			```Be welcome among us, and give me that store of gold which is ours by right, the gold that Sigurth had, and that now belongs to Guthrun.'
+			Gunnar said: `Never shalt thou get that gold, and men of might shalt thou find here, ere we give up our lives, if it is battle thou dost offer us; in truth it seems that thou hast prepared this feast in kingly fashion, and with little grudging toward eagle and wolf.'''
+			The demand for the treasure likewise appears in the Nibelungenlied.
+		</comment>
+	</block>
+	<block class="asterisks" />
+	<block class="stanza" number="40">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then came they to words,<sep />and full wrathful they were:<br />
+			``Long since did we plan<sep />how soon we might slay you.''
+		</translation>
+		<comment>
+			These two lines, which most editions combine with stanza <sr>39</sr>, may be the first or last two of a four-line stanza.
+			The <src>Volsungasaga</src> gives Atli's speech very much as it appears here.
+		</comment>
+	</block>
+	<block class="stanza" number="41">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``Little it matters<sep />if long ye have planned it;<br />
+			For unarmed do ye wait,<sep />and one have we felled,<br />
+			We smote him to hell,<sep />of your host was he once.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker; Grundtvig adds as a first line:
+			<textstanza class="translation">
+				Then Hogni laughed loud<sep />where the slain Vingi lay.
+			</textstanza>
+			Many editors assume the loss of a line somewhere in the stanza.
+			<expl>Unarmed</expl>: Hogni does not see Atli's armed followers, who are on the other side of the courtyard (stanza <sr>39</sr>).
+			<expl>One</expl>: Vingi.
+		</comment>
+	</block>
+	<block class="stanza" number="42">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then wild was their anger<sep />when all heard his words;<br />
+			Their fingers were swift<sep />on their bowstrings to seize,<br />
+			Full sharply they shot,<sep />by their shields were they guarded.
+		</translation>
+		<comment>
+			Most editors assume the loss of one line, after either line 1 or line 3.
+		</comment>
+	</block>
+	<block class="stanza" number="43">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			In the house came the word<sep />how the heroes with out<br />
+			Fought in front of the hall;<sep />they heard a thrall tell it;<br />
+			Grim then was Guthrun,<sep />the grief when she heard,<br />
+			With necklaces fair,<sep />and she flung them all from her,<br />
+			(The silver she hurled<sep />so the rings burst asunder.)
+		</translation>
+		<comment>
+			The manuscript reading of lines 1--2, involving a metrical error, is:
+			<textstanza class="translation">
+				In the house came the word<sep />of the warring without,<br />
+				Loud in front of the hall<sep />they heard a thrall shouting.
+			</textstanza>
+			Some editors assume a gap of two lines after line 2, the missing passage giving the words of the thrall.
+			The manuscript marks line 3 as the beginning of a stanza, and many editions make a separate stanza of lines 3--5, same of them assuming the loss of a line after line 3.
+			With the stanza as here given, line 5 may well be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="44">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then out did she go,<sep />she flung open the doors,<br />
+			All fearless she went,<sep />and the guests did she welcome;<br />
+			To the Niflungs she went--<sep />her last greeting it was,---<br />
+			In her speech truth was clear,<sep />and much would she speak.
+		</translation>
+		<comment>
+			<expl>Niflungs</expl>: regarding the application of this term to the Burgundians cf. <chapterref>Atlakvitha</chapterref>, <stanzaref chapter="Atlakvitha">11</stanzaref>, and <chapterref>Brot</chapterref>, <stanzaref chapter="Brot">17</stanzaref>, and notes.
+			The manuscript here spells the name with an initial N, as elsewhere, but in stanza <sr>83</sr> the son of Hogni appears with the name ``Hniflung.''
+			In consequence, some editors change the form in this stanza to ``Hniflungs,'' while others omit the initial H in both cases.
+			I have followed the manuscript, though admittedly its spelling is illogical.
+		</comment>
+	</block>
+	<block class="stanza" number="45">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``For your safety I sought<sep />that at home ye should stay;<br />
+			None escapes his fate,<sep />so ye hither must fare.''<br />
+			Full wisely she spake,<sep />if yet peace they might win,<br />
+			But to nought would they hearken,<sep />and ``No'' said they all.
+		</translation>
+	</block>
+	<block class="stanza" number="46">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then the high-born one saw<sep />that hard was their battle,<br />
+			In fierceness of heart<sep />she flung off her mantle;<br />
+			Her naked sword grasped she<sep />her kin's lives to guard,<br />
+			Not gentle her hands<sep />in the hewing of battle.
+		</translation>
+		<comment>
+			The warlike deeds of Guthrun represent an odd transformation of the German tradition.
+			Kriemhild, although she did no actual fighting in the <src>Nibelungenlied</src>, was famed from early times for her cruelty and fierceness of heart, and this seems to have inspired the poet of the <chapterref>Atlamol</chapterref> to make his Guthrun into a warrior outdoing Brynhild herself.
+			Kriemhild's ferocity of course, was directed against Gunther and especially Hagene, for whose slaying she rather than Etzel was responsible; here, on the other hand, Guthrun's is devoted to the defense of her brothers.
+		</comment>
+	</block>
+	<block class="stanza" number="47">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then the daughter of Gjuki<sep />two warriors smote down,<br />
+			Atli's brother she slew,<sep />and forth then they bore him;<br />
+			(So fiercely she fought<sep />that his feet she clove off;)<br />
+			Another she smote<sep />so that never he stood,<br />
+			To hell did she send him,---<sep />her hands trembled never.
+		</translation>
+		<comment>
+			Line 3 is very likely an interpolation.
+			The manuscript marks line 4 as the beginning of a new stanza, and some editions make a separate stanza of lines 4--5.
+			<expl>Atli's brother</expl>: doubtless a reminiscence of the early tradition represented in the <src>Nibelungenlied</src> by the slaying of Etzel's brother, Blœdelin (the historical Bleda), by Dancwart.
+		</comment>
+	</block>
+	<block class="stanza" number="48">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full wide was the fame<sep />of the battle they fought,<br />
+			'Twas the greatest of deeds<sep />of the sons of Gjuki;<br />
+			Men say that the Niflungs,<sep />while themselves they were living,<br />
+			With their swords fought mightily,<sep />mail-coats they sundered,<br />
+			And helms did they hew,<sep />as their hearts were fearless.
+		</translation>
+		<comment>
+			Line 3 may well be spurious, for it implies that Gunnar and Hogni were killed in battle, whereas they were taken prisoners.
+			Some editors, in an effort to smooth out the inconsistency, change ``themselves'' in this line to ``sound.''
+			Line 5 has also been questioned as possibly interpolated.
+			<expl>Niflungs</expl>: on the spelling of this name in the manuscript and the various editions cf. note on stanza <sr>44</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="49">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			All the morning they fought<sep />until midday shone,<br />
+			(All the dusk as well<sep />and the dawning of day,)<br />
+			When the battle was ended,<sep />the field flowed with blood;<br />
+			Ere they fell, eighteen<sep />of their foemen were slain,<br />
+			By the two sons of Bera<sep />and her brother as well.
+		</translation>
+		<comment>
+			Line 2 is probably an interpolation, and the original apparently lacks a word.
+			There is some obscurity as to the exact meaning of lines 4--5.
+			<expl>The two sons of Bera</expl>: Snævar and Solar; <expl>her brother</expl> is Orkning; cf. stanza <sr>28</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="50">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then the warrior spake,<sep />and wild was his anger:<br />
+			"This is evil to see,<sep />and thy doing is all;<br />
+			Once we were thirty,<sep />we thanes, keen for battle,<br />
+			Now eleven are left,<sep />and great is our lack.
+		</translation>
+		<comment>
+			<expl>The warrior</expl>: Atli.
+			<expl>Thirty</expl>: perhaps an echo of the ``thirty warriors'' of Thjothrek (cf. <chapterref>Guthrunarkvitha III</chapterref>, <stanzaref chapter="Guthrunarkvitha III">5</stanzaref>).
+			Subtracting the eighteen killed by Snævar, Solar and Orkning (stanza <sr>49</sr>), and Vingi, killed by the whole company (stanza <sr>38</sr>), we have eleven left, as Atli says, but this does not allow much for the exploits of Gunnar and Hogni, who, by this reckoning, seem to have killed nobody.
+			The explanation probably is that lines 4--5 of stanza <sr>49</sr> are in bad shape.
+		</comment>
+	</block>
+	<block class="stanza" number="51">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			``There were five of us brothers<sep />when Buthli we lost,<br />
+			Now Hel has the half,<sep />and two smitten lie here;<br />
+			A great kinship had I,---<sep />the truth may I hide not,---<br />
+			From a wife bringing slaughter<sep />small joy could I win.
+		</translation>
+		<comment>
+			<expl>Five brothers</expl>: the <src>Volsungasaga</src> speaks of four (not five) sons of Buthli, but names only Atli.
+			Regarding the death of the first two brothers cf. stanza <sr>91</sr> and note.
+			The manuscript marks line 3 as beginning a stanza, and many editions combine lines 3--4 with stanza <sr>52</sr>.
+			Some insert lines 2--3 of stanza <sr>52</sr> ahead of lines 3--4 of stanza <sr>51</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="52">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			We lay seldom together<sep />since to me thou wast given,<br />
+			Now my kin all are gone,<sep />of my gold am I robbed;<br />
+			Nay, and worst, thou didst send<sep />my sister to hell.''
+		</translation>
+		<comment>
+			Possibly a line has been lost from this stanza.
+			The manuscript marks line 3 as beginning a new stanza, which is impossible unless something has been lost.
+			<expl>Gold</expl>: the meaning of this half line is somewhat doubtful, but apparently Atli refers to Sigurth's treasure, which should have been his as Brynhild's brother.
+			<expl>Sister</expl>: Brynhild; regarding Guthrun's indirect responsibility for Brynhild's death cf. <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">45</stanzaref> and note.
+		</comment>
+	</block>
+	<block class="stanza" number="53">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Hear me now, Atli!<sep />the first evil was thine;<br />
+			My mother didst thou take,<sep />and for gold didst murder her,<br />
+			My sister's daughter<sep />thou didst starve in a prison.<br />
+			A jest does it seem<sep />that thy sorrow thou tellest,<br />
+			And good do I find it<sep />that grief to thee comes.''
+		</translation>
+		<comment>
+			The manuscript does not name the speaker.
+			The <src>Volsungasaga</src> gives the speech, in somewhat altered form, to Hogni:
+			``Why speakest thou so? Thou wast the first to break peace; thou didst take my kinswoman and starved her in a prison, and murdered her and took her wealth; that was not kinglike; and laughable does it seem to me that thou talkest of thy sorrow, and good shall I find it that all goes ill with thee.''
+			This presumably represents the correct form of the stanza, for nowhere else is it intimated that Atli killed Guthrun's mother, Grimhild, nor is the niece elsewhere mentioned.
+			Some editions make a separate stanza of lines 4--5, Grundtvig adding a line after line 3 and two more after line 5.
+			Other editors are doubtful about the authenticity of either line 3 or line 5.
+		</comment>
+	</block>
+	<block class="stanza" number="54">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``Go now, ye warriors,<sep />and make greater the grief<br />
+			Of the woman so fair,<sep />for fain would I see it;<br />
+			So fierce be thy warring<sep />that Guthrun shall weep,<br />
+			I would gladly behold<sep />her happiness lost.
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+		</comment>
+	</block>
+	<block class="stanza" number="55">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Seize ye now Hogni,<sep />and with knives shall ye hew him,<br />
+			His heart shall ye cut out,<sep />this haste ye to do;<br />
+			And grim-hearted Gunnar<sep />shall ye bind on the gallows,<br />
+			Swift shall ye do it,<sep />to serpents now cast him.''
+		</translation>
+	</block>
+	<block class="stanza" number="56">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Hogni spake:
+		</translation_prelude>
+		<translation>
+			``Do now as thou wilt,<sep />for glad I await it,<br />
+			Brave shalt thou find me,<sep />I have faced worse before;<br />
+			We held thee at bay<sep />while whole we were fighting,<br />
+			Now with wounds are we spent,<sep />so thy will canst thou work.''
+		</translation>
+		<comment>
+			The text of the first half of line 3 is somewhat uncertain, but the general meaning of it is clear enough.
+		</comment>
+	</block>
+	<block class="stanza" number="57">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then did Beiti speak,<sep />he was Atli's steward:<br />
+			``Let us seize now Hjalli,<sep />and Hogni spare we!<br />
+			Let us fell the sluggard,<sep />he is fit for death,<br />
+			He has lived too long,<sep />and lazy men call him.''
+		</translation>
+		<comment>
+			<expl>Beiti</expl>: not elsewhere mentioned.
+			The <chapterref>Atlakvitha</chapterref> version of this episode (stanzas <sr>23</sr>--<sr>25</sr>) does not mention Beiti, and in the <src>Volsungasaga</src> the advice to cut out Hjalli's heart instead of Hogni's is given by an unnamed ``counsellor of Atli.''
+			In the <chapterref>Atlakvitha</chapterref> Hjalli is actually killed; the <src>Volsungasaga</src> combines the two versions by having Hjalli first let off at Hogni's intercession and then seized a second time and killed, thus introducing the <chapterref>Atlakvitha</chapterref> episode of the quaking heart (stanza <sr>24</sr>).
+			The text of the first half of line 3 is obscure, and there are many and widely varying suggestions as to the word here rendered ``sluggard.''
+		</comment>
+	</block>
+	<block class="stanza" number="58">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Afraid was the pot-watcher,<sep />he fled here and yon,<br />
+			And crazed with his terror<sep />he climbed in the corners:<br />
+			``Ill for me is this fighting,<sep />if I pay for your fierceness,<br />
+			And sad is the day<sep />to die leaving my swine<br />
+			And all the fair victuals<sep />that of old did I have.''
+		</translation>
+		<comment>
+			Some editions mark line 5 as probably interpolated.
+		</comment>
+	</block>
+	<block class="stanza" number="59">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			They seized Buthli's cook,<sep />and they came with the knife,<br />
+			The frightened thrall howled<sep />ere the edge did he feel;<br />
+			He was willing, he cried,<sep />to dung well the court yard,<br />
+			Do the basest of work,<sep />if spare him they would;<br />
+			Full happy were Hjalli<sep />if his life he might have.
+		</translation>
+		<comment>
+			<expl>Cook</expl>: the original word is doubtful.
+			The <src>Volsungasaga</src> does not paraphrase lines 3--5; the passage may be a later addition, and line 5 is almost certainly so.
+		</comment>
+	</block>
+	<block class="stanza" number="60">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then fain was Hogni---<sep />there are few would do thus---<br />
+			To beg for the slave<sep />that safe hence he should go;<br />
+			``I would find it far better<sep />this knife-play to feel,<br />
+			Why must we all hark<sep />to this howling longer?''
+		</translation>
+	</block>
+	<block class="stanza" number="61">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then the brave one they seized;<sep />to the warriors bold<br />
+			No chance was there left<sep />to delay his fate longer;<br />
+			Loud did Hogni laugh,<sep />all the sons of day heard him,<br />
+			So valiant he was<sep />that well he could suffer.
+		</translation>
+		<comment>
+			It is probable that a stanza describing the casting of Gunnar into the serpents' den has been lost after this stanza.
+			<expl>Sons of day</expl>: the phrase means no more than ``men.''
+		</comment>
+	</block>
+	<block class="asterisks" />
+	<block class="stanza" number="62">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			A harp Gunnar seized,<sep />with his toes he smote it<br />
+			So well did he strike<sep />that the women all wept,<br />
+			And the men, when clear<sep />they heard it, lamented;<br />
+			Full noble was his song,<sep />the rafters burst asunder.
+		</translation>
+		<comment>
+			Regarding Gunnar's harp-playing, and his death, cf. <cr>Oddrunargratr</cr>, <stanzaref chapter="Oddrunargratr">27</stanzaref>--<stanzaref chapter="Oddrunargratr">30</stanzaref> and notes, and <cr>Atlakvitha</cr>, <stanzaref chapter="Atlakvitha">34</stanzaref>.
+			<expl>Toes</expl> (literally ``sole-twigs''): the <src>Volsungasaga</src> explains that Gunnar's hands were bound.
+			<expl>Rafters</expl>: thus literally, and probably correctly; Gering has an ingenious but unlikely theory that the word means ``harp.''
+		</comment>
+	</block>
+	<block class="stanza" number="63">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<lacuna /><sep /><lacuna />
+		</original>
+		<translation>
+			Then the heroes died<sep />ere the day was yet come;<br />
+			Their fame did they leave<sep />ever lofty to live.<br />
+			<lacuna /><sep /><lacuna />
+		</translation>
+		<comment>
+			There is some doubt as to the exact meaning of line 2.
+			After this line two lines may have been lost; Grundtvig adds:
+			<textstanza class="translation">
+				Few braver shall ever<sep />be found on the earth,<br />
+				Or loftier men<sep />in the world ever give.
+			</textstanza>
+		</comment>
+	</block>
+	<block class="stanza" number="64">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full mighty seemed Atli<sep />as o'er them he stood,<br />
+			The wise one he blamed,<sep />and his words reproached her:<br />
+			``It is morning, Guthrun;<sep />now thy dear ones dost miss,<br />
+			But the blame is part thine<sep />that thus it has chanced.''
+		</translation>
+		<comment>
+			<expl>Wise one</expl>: Guthrun.
+			The manuscript marks line 3 as beginning a new stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="65">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Thou art joyous, Atli,<sep />for of evil thou tellest,<br />
+			But sorrow is thine<sep />if thou mightest all see;<br />
+			Thy heritage heavy<sep />here can I tell thee,<br />
+			Sorrow never thou losest<sep />unless I shall die.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+		</comment>
+	</block>
+	<block class="stanza" number="66">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``Not free of guilt am I;<sep />a way shall I find<br />
+			That is better by far,--<sep />oft the fairest we shunned;--<br />
+			With slaves I console thee,<sep />with gems fair to see,<br />
+			And with silver snow-white,<sep />as thyself thou shalt choose.''
+		</translation>
+		<comment>
+			The manuscript does not name the speaker.
+			The negative in the first half of line 1 is uncertain, and most editions make the clause read ``Of this guilt I can free myself.''
+			<expl>The fairest</expl>, etc.: i. e., I have often failed to do the wise thing.
+		</comment>
+	</block>
+	<block class="stanza" number="67">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``No hope shall this give thee,<sep />thy gifts I shall take not,<br />
+			Requital I spurned<sep />when my sorrows were smaller;<br />
+			Once grim did I seem,<sep />but now greater my grimness,<br />
+			There was nought seemed too hard<sep />while Hogni was living.
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+			<expl>Requital</expl>, etc.: it is not clear just to what Guthrun refers; perhaps she is thinking of Sigurth's death, or possibly the poet had in mind his reference to the slaying of her mother in stanza <sr>53</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="68">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Our childhood did we have<sep />in a single house,<br />
+			We played many a game,<sep />in the grove did we grow;<br />
+			Then did Grimhild give us<sep />gold and necklaces,<br />
+			Thou shalt ne'er make amends<sep />for my brother's murder,<br />
+			Nor ever shalt win me<sep />to think it was well.
+		</translation>
+		<comment>
+			Line 5 is very probably a later addition, though some editors question line 3 instead.
+		</comment>
+	</block>
+	<block class="stanza" number="69">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			But the fierceness of men<sep />rules the fate of women,<br />
+			The tree-top bows low<sep />if bereft of its leaves,<br />
+			The tree bends over<sep />if the roots are cleft under it;<br />
+			Now mayest thou, Atli,<sep />o'er all things here rule.''
+		</translation>
+		<comment>
+			Guthrun suddenly changes her tone in order to make Atli believe that she is submissive to his will, and thus to gain time for her vengeance.
+			Line 2 in the original is thoroughly obscure; it runs literally:
+			<textstanza class="translation">
+				On the knee goes the fist<sep />if the twigs are taken off.
+			</textstanza>
+			Perhaps the word meaning ``fist'' may also have meant ``tree-top,'' as Gering suggests, or perhaps the line is an illogical blending of the ideas contained in lines 1 and 3.
+		</comment>
+	</block>
+	<block class="stanza" number="70">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full heedless the warrior<sep />was that he trusted her,<br />
+			So clear was her guile<sep />if on guard he had been;<br />
+			But crafty was Guthrun,<sep />with cunning she spake,<br />
+			Her glance she made pleasant,<sep />with two shields she played.
+		</translation>
+		<comment>
+			The manuscript indicates line 3 as the beginning of a new stanza.
+			<expl>Two shields</expl>, etc.: i. e., Guthrun concealed her hostility (symbolized by a red shield, cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">34</stanzaref>) by a show of friendliness (a white shield).
+		</comment>
+	</block>
+	<block class="stanza" number="71">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			The beer then she brought<sep />for her brothers' death feast,<br />
+			And a feast Atli made<sep />for his followers dead<br />
+			No more did they speak,<sep />the mead was made ready,<br />
+			Soon the men were gathered<sep />with mighty uproar.
+		</translation>
+		<comment>
+			Many editions make a separate stanza of lines 1--2, some of them suggesting the loss of two lines, and combine lines 5--4 with lines 1--2 of stanza <sr>72</sr>.
+			The manuscript marks both lines 1 and 3 as beginning stanzas.
+		</comment>
+	</block>
+	<block class="stanza" number="72">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Thus bitterly planned she,<sep />and Buthli's race threatened,<br />
+			And terrible vengeance<sep />on her husband would take;<br />
+			The little ones called she,<sep />on a block she laid them;<br />
+			Afraid were the proud ones,<sep />but their tears did not fall;<br />
+			To their mother's arms went they,<sep />and asked what she would.
+		</translation>
+		<comment>
+			The manuscript marks line 3 as beginning a new stanza; some editions make a separate stanza of lines 3--5, while others combine them with lines 1--2 of stanza <sr>73</sr>.
+			Line 2 in the original is clearly defective, the verb being omitted.
+			The meaning of line 3 is uncertain; the <src>Volsungasaga</src> paraphrase has: ``At evening she took the sons of King Atli (Erp and Eitil) where they were playing with a block of wood.''
+			Probably the text of the line as we have it is faulty.
+			Lines 4--5 may possibly have been expanded out of a single line, or line 5 may be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="73">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Nay, ask me no more!<sep />You both shall I murder,<br />
+			For long have I wished<sep />your lives to steal from you.<br />
+			<stanzaprelude>The boys spake:</stanzaprelude><br />
+			''Slay thy boys as thou wilt,<sep />for no one may bar it,<br />
+			Short the angry one's peace<sep />if all thou shalt do."
+		</translation>
+		<comment>
+			The manuscript does not name the speakers.
+			It indicates line 3 as beginning a new stanza, in which it is followed by many editions.
+			The <src>Volsungasaga</src> paraphrases line 4 thus: ``But it is shameful for thee to do this.''
+			Either the text of the line has been changed or the <src>Volsungasaga</src> compilers misunderstood it.
+			<expl>The angry one</expl>: Atli.
+		</comment>
+	</block>
+	<block class="stanza" number="74">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then the grim one slew both<sep />of the brothers young,<br />
+			Full hard was her deed<sep />when their heads she smote off;<br />
+			Fain was Atli to know<sep />whither now they were gone,<br />
+			The boys from their sport,<sep />for nowhere he spied them.
+		</translation>
+		<comment>
+			The manuscript indicates line 3 as beginning a new stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="75">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``My fate shall I seek,<sep />all to Atli saying,<br />
+			The daughter of Grimhild<sep />the deed from thee hides not;<br />
+			No joy thou hast, Atli,<sep />if all thou shalt hear,<br />
+			Great sorrow didst wake<sep />when my brothers thou slewest.
+		</translation>
+		<comment>
+			The manuscript does not name the speaker.
+		</comment>
+	</block>
+	<block class="stanza" number="76">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			I have seldom slept<sep />since the hour they were slain,<br />
+			Baleful were my threats,<sep />now I bid thee recall them;<br />
+			Thou didst say it was morning,--<sep />too well I remember,---<br />
+			Now is evening come,<sep />and this question thou askest.
+		</translation>
+		<comment>
+			<expl>Morning</expl>: Guthrun refers to Atli's taunt in stanza <sr>64</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="77">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Now both of thy sons<sep />thou hast lost <lacuna /><br />
+			<lacuna /><sep />as thou never shouldst do;<br />
+			The skulls of thy boys<sep />thou as beer-cups didst have,<br />
+			And the draught that I made thee<sep />was mixed with their blood.
+		</translation>
+		<comment>
+			The manuscript indicates no gap (lines 1--2), and most editions make a single line, despite the defective meter:
+			<textstanza class="translation">
+				Thy sons hast thou lost<sep />as thou never shouldst lose them.
+			</textstanza>
+			The second part of line 2 is in the original identical with the second half of line 3 of stanza <sr>80</sr>, and may perhaps have been inserted here by mistake.
+			<expl>Skulls</expl>: it is possible that line 3 was borrowed from a poem belonging to the Völund tradition (cf. <chapterref>Völundarkvitha</chapterref>, <stanzaref chapter="Völundarkvitha">25</stanzaref> and <stanzaref chapter="Völundarkvitha">37</stanzaref>), and the idea doubtless came from some such source, but probably the poet inserted it in a line of his own composition to give an added touch of horror.
+			The <src>Volsungasaga</src> follows the <chapterref>Atlamol</chapterref> in including this incident.
+		</comment>
+	</block>
+	<block class="stanza" number="78">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			I cut out their hearts,<sep />on a spit I cooked them,<br />
+			I came to thee with them,<sep />and calf's flesh I called them;<br />
+			Alone didst thou eat them,<sep />nor any didst leave,<br />
+			Thou didst greedily bite,<sep />and thy teeth were busy.
+		</translation>
+		<comment>
+			Some editions add lines 5--4 to stanza <sr>79</sr>; Finnur Jonsson marks them as probably spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="79">
+		<original>
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Of thy sons now thou knowest;<sep />few suffer more sorrow;<br />
+			My guilt have I told,<sep />fame it never shall give me.''
+		</translation>
+		<comment>
+			Perhaps these two lines should form part of stanza <sr>78</sr>, or perhaps they, rather than lines 3--4 of stanza <sr>78</sr>, are a later addition.
+			A gap of two lines after line 1 has also been conjectured.
+		</comment>
+	</block>
+	<block class="stanza" number="80">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``Grim wast thou, Guthrun,<sep />in so grievous a deed,<br />
+			My draught with the blood<sep />of thy boys to mingle;<br />
+			Thou hast slain thine own kin,<sep />most ill it be seemed thee,<br />
+			And little for me<sep />twixt my sorrows thou leavest.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+		</comment>
+	</block>
+	<block class="stanza" number="81">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Still more would I seek<sep />to slay thee thyself,<br />
+			Enough ill comes seldom<sep />to such as thou art;<br />
+			Thou didst folly of old,<sep />such that no one shall find<br />
+			In the whole world of men<sep />a match for such madness.<br />
+			Now this that of late<sep />we learned hast thou added,<br />
+			Great evil hast grasped,<sep />and thine own death feast made.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+			Lines 1--2 may be the remains of a separate stanza; Grundtvig adds:
+			<textstanza class="translation">
+				Thou wast foolish, Atli,<sep />when wise thou didst feel,<br />
+				Ever the whole<sep />of thy race did I hate.
+			</textstanza>
+			The <src>Volsungasaga</src> paraphrase, however, indicates no gap.
+			Many editions make a separate stanza of lines 3--6, which, in the <src>Volsungasaga</src>, are paraphrased as a speech of Atli's.
+			Lines 5--6 may be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="82">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``With fire shall they burn thee,<sep />and first shall they stone thee,<br />
+			So then hast thou earned<sep />what thou ever hast sought for.''<br />
+			<stanzaprelude>Guthrun spake:</stanzaprelude><br />
+			``Such woes for thyself<sep />shalt thou say in the morning,<br />
+			From a finer death I<sep />to another light fare.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speakers.
+			Many editions make two separate stanzas of the four lines.
+			<expl>Another light</expl>: a fairly clear indication of the influence of Christianity; cf. <ref chapter="Atlamol">Introductory Note</ref>.
+		</comment>
+	</block>
+	<block class="stanza" number="83">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Together they sat<sep />and full grim were their thoughts,<br />
+			Unfriendly their words,<sep />and no joy either found;<br />
+			In Hniflung grew hatred,<sep />great plans did he have,<br />
+			To Guthrun his anger<sep />against Atli was told.
+		</translation>
+		<comment>
+			The manuscript marks line 3 as the beginning of a new stanza.
+			<expl>Hniflung</expl>: the Volsungasaga says that ``Hogni had a son who was called Hniflung,'' but the name appears to be nothing more than the familiar ``Niflung'' applied in general to the sons of Gjuki and their people.
+			On the spelling cf. note on stanza <sr>44</sr>.
+			This son of Hogni appears in later versions of the story.
+			In the <src>Thithrekssaga</src> he is called Aldrian, and is begotten by Hogni the night before his death.
+			Aldrian grows up and finally shuts Attila in a cave where he starves to death.
+			The poet here has incorporated the idea, which finds no parallel in the <chapterref>Atlakvitha</chapterref>, without troubling himself to straighten out the chronology.
+		</comment>
+	</block>
+	<block class="stanza" number="84">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			To her heart came ever<sep />the fate of Hogni,<br />
+			She told him 'twere well<sep />if he vengeance should win;<br />
+			So was Atli slain,--<sep />'twas not slow to await,---<br />
+			Hogni's son slew him,<sep />and Guthrun herself.
+		</translation>
+		<comment>
+			Line 4 may be in Fornyrthislag, and from another poem.
+		</comment>
+	</block>
+	<block class="stanza" number="85">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then the warrior spake,<sep />as from slumber he wakened,<br />
+			Soon he knew for his wounds<sep />would the bandage do nought:<br />
+			``Now the truth shalt thou say:<sep />who has slain Buthli's son?<br />
+			Full sore am I smitten,<sep />nor hope can I see.''
+		</translation>
+		<comment>
+			The manuscript marks line 3 as beginning a new stanza.
+			The <src>Volsungasaga</src> makes line 2 part of Atli's speech.
+		</comment>
+	</block>
+	<block class="stanza" number="86">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Ne'er her deed from thee hides<sep />the daughter of Grimhild,<br />
+			I own to the guilt<sep />that is ending thy life,<br />
+			And the son of Hogni;<sep />'tis so thy wounds bleed.''<br />
+			<stanzaprelude>Atli spake:</stanzaprelude><br />
+			``To murder hast thou fared,<sep />though foul it must seem;<br />
+			Ill thy friend to betray<sep />who trusted thee well.
+		</translation>
+		<comment>
+			The manuscript does not name the speakers.
+			It marks line 4 as the beginning of a new stanza, and many editions follow this arrangement, in most cases making a stanza of lines 4--5 and line 1 of stanza <sr>87</sr>.
+			However, line 1 may well have been interpolated here from stanza <sr>75</sr>.
+			Grundtvig adds after line 3:
+			<textstanza class="translation">
+				His father he avenged,<sep />and his kinsmen fully.
+			</textstanza>
+			Some editors assume the loss of one or two lines after line 5.
+		</comment>
+	</block>
+	<block class="stanza" number="87">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Not glad went I hence<sep />thy hand to seek, Guthrun,<br />
+			In thy widowhood famed,<sep />but haughty men found thee;<br />
+			My belief did not lie,<sep />as now we have learned;<br />
+			I brought thee home hither,<sep />and a host of men with us.
+		</translation>
+		<comment>
+			The manuscript marks line 2 as beginning a new stanza, and some editions make a stanza out of lines 2--4 and line 1 of stanza <sr>88</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="88">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Most noble was all<sep />when of old we journeyed,<br />
+			Great honor did we have<sep />of heroes full worthy;<br />
+			Of cattle had we plenty,<sep />and greatly we prospered,<br />
+			Mighty was our wealth,<sep />and many received it.
+		</translation>
+		<comment>
+			The manuscript marks line 2 as the beginning of a stanza, and many editions make a stanza out of lines 2--4, or combine them with stanza <sr>89</sr>.
+			Some question the genuineness of line 4.
+		</comment>
+	</block>
+	<block class="stanza" number="89">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			To the famed one as bride-gift<sep />I gave jewels fair,<br />
+			I gave thirty slaves,<sep />and handmaidens seven;<br />
+			There was honor in such gifts,<sep />yet the silver was greater.
+		</translation>
+		<comment>
+			Many editions assume a gap of one line after line 3; Grundtvig adds:
+			<textstanza class="translation">
+				Bit-champing horses<sep />and wheel-wagons bright.
+			</textstanza>
+			Line 4 may be spurious.
+			<expl>Greater</expl>: i. e., the silver which Atli gave Guthrun was of greater value even than the honor of receiving such royal gifts.
+			Line 4 may be spurious.
+		</comment>
+	</block>
+	<block class="stanza" number="90">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			But all to thee was<sep />as if nought it were worth,<br />
+			While the land lay before thee<sep />that Buthli had left me;<br />
+			Thou in secret didst work<sep />so the treasure I won not;<br />
+			My mother full oft<sep />to sit weeping didst make,<br />
+			No wedded joy found I<sep />in fullness of heart.''
+		</translation>
+		<comment>
+			Some editions mark line 3 as spurious or defective.
+			The manuscript marks line 4 as the beginning of a new stanza.
+			<expl>The land</expl>, etc.: there is much obscurity as to the significance of this line.
+			Some editors omit or question ``me,'' in which case Atli is apparently reproaching Guthrun for having incited him to fight with his brothers to win for himself the whole of Buthli's land.
+			In stanza <sr>91</sr> Guthrun denies that she was to blame for Atli's quarrels with his brothers.
+			The <src>Volsungasaga</src> reading supports this interpretation.
+			The historical Attila did actually have his brother, Bleda, killed in order to have the sole rule.
+			<expl>The treasure</expl>: Sigurth's hoard, which Atli claimed as the brother of Brynhild and husband of Guthrun, Sigurth's widow, but which Gunnar and Hogni kept for themselves, with, as Atli here charges, Guthrun's connivance.
+			<expl>My mother</expl>: the only other reference to Atli's mother is in <chapterref>Oddrunargratr</chapterref>, <stanzaref chapter="Oddrunargratr">30</stanzaref>, wherein she appears as the adder who stings Gunnar to death, and in the prose passages based on that stanza.
+		</comment>
+	</block>
+	<block class="stanza" number="91">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``Thou liest now, Atli,<sep />though little I heed it;<br />
+			If I seldom was kindly,<sep />full cruel wast thou;<br />
+			Ye brothers fought young,<sep />quarrels brought you to battle,<br />
+			And half went to hell<sep />of the sons of thy house,<br />
+			And all was destroyed<sep />that should e'er have done good.
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+			It marks both lines 4 and 5 as beginning new stanzas, but line 5 is presumably an interpolation.
+			The text of the second half of line 2 is obscure, and many emendations have been suggested.
+			<expl>Ye brothers</expl>: cf. note on stanza <sr>90</sr>.
+			<expl>Half</expl>: i. e., two of Atli's brothers were killed, the other two dying in the battle with Gunnar and Hogni; cf. stanza <sr>51</sr>.
+		</comment>
+	</block>
+	<block class="stanza" number="92">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			My two brothers and I<sep />were bold in our thoughts,<br />
+			From the land we went forth,<sep />with Sigurth we fared;<br />
+			Full swiftly we sailed,<sep />each one steering his ship,<br />
+			So our fate sought we e'er<sep />till we came to the East.
+		</translation>
+		<comment>
+			<expl>From the land</expl>: this maritime expedition of Guthrun and her two brothers, Gunnar and Hogni (the poet seems to know nothing of her half-brother, Gotthorm), with Sigurth seems to have been a pure invention of the poet's, inserted for the benefit of his Greenland hearers.
+			Nothing further is reported concerning it.
+		</comment>
+	</block>
+	<block class="stanza" number="93">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			First the king did we slay,<sep />and the land we seized,<br />
+			The princes did us service,<sep />for such was their fear;<br />
+			From the forest we called<sep />them we fain would have guiltless,<br />
+			And rich made we many<sep />who of all were bereft.
+		</translation>
+		<comment>
+			<expl>The forest</expl>: i. e., men who were outlawed in the conquered land were restored to their rights---another purely Norse touch.
+		</comment>
+	</block>
+	<block class="stanza" number="94">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Slain was the Hun-king,<sep />soon happiness vanished,<br />
+			In her grief the widow<sep />so young sat weeping;<br />
+			Yet worse seemed the sorrow<sep />to seek Atli's house,<br />
+			A hero was my husband,<sep />and hard was his loss.
+		</translation>
+		<comment>
+			<expl>Hun-king</expl>: Sigurth, though most illogically so called; cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">4</stanzaref> and note.
+			The <src>Volsungasaga</src> paraphrase of line 2 is so remote as to be puzzling: ``It was little to bear the name of widow.''
+			Perhaps, however, the word ``not'' fell out between ``was'' and ``little.''
+		</comment>
+	</block>
+	<block class="stanza" number="95">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			From the Thing thou camst never,<sep />for thus have we heard,<br />
+			Having won in thy quarrels,<sep />or warriors smitten;<br />
+			Full yielding thou wast,<sep />never firm was thy will,<br />
+			In silence didst suffer,<sep /><lacuna />''
+		</translation>
+		<comment>
+			<expl>Thing</expl>, etc.: here the poet makes Atli into a typical Norse land-owner, going to the ``Thing,'' or general law council, to settle his disputes.
+			Even the compilers of the <src>Volsungasaga</src> could not accept this, and in their paraphrase changed ``Thing'' to ``battle.''
+			The text of the second half of line 2 is uncertain.
+			The manuscript leaves a blank to indicate the gap in-line 4; Grundtvig adds: ``as beseems not a king.''
+		</comment>
+	</block>
+	<block class="stanza" number="96">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Atli spake:
+		</translation_prelude>
+		<translation>
+			``Thou liest now, Guthrun,<sep />but little of good<br />
+			Will it bring to either,<sep />for all have we lost;<br />
+			But, Guthrun, yet once<sep />be thou kindly of will,<br />
+			For the honor of both,<sep />when forth I am home.''
+		</translation>
+	</block>
+	<block class="stanza" number="97">
+		<original_prelude>
+
+		</original_prelude>
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation_prelude>
+			Guthrun spake:
+		</translation_prelude>
+		<translation>
+			``A ship will I buy,<sep />and a bright-hued coffin,<br />
+			I will wax well the shroud<sep />to wind round thy body,<br />
+			For all will I care<sep />as if dear were we ever.''
+		</translation>
+		<comment>
+			The manuscript does not indicate the speaker.
+			Many editors assume a gap either before or after line 1.
+			<expl>A ship</expl>: the burial of Norse chiefs in ships was of frequent occurrence, but the Greenland poet's application of the custom to Atli is some what grotesque.
+		</comment>
+	</block>
+	<block class="stanza" number="98">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Then did Atli die,<sep />and his heirs' grief doubled;<br />
+			The high-born one did<sep />as to him she had promised;<br />
+			Then sought Guthrun the wise<sep />to go to her death,<br />
+			But for days did she wait,<sep />and 'twas long ere she died.
+		</translation>
+		<comment>
+			<expl>Heirs</expl>, etc.: merely a stock phrase, here quite meaningless, as Atli's heirs had all been killed.
+			<expl>Long</expl>: cf. <chapterref>Guthrunarhvot</chapterref>, <proseref chapter="Guthrunarhvot" prose="p1">introductory prose</proseref>.
+		</comment>
+	</block>
+	<block class="stanza" number="99">
+		<original>
+			<sep /><br />
+			<sep /><br />
+			<sep /><br />
+			<sep />
+		</original>
+		<translation>
+			Full happy shall he be<sep />who such offspring has,<br />
+			Or children so gallant,<sep />as Gjuki begot;<br />
+			Forever shall live,<sep />and in lands far and wide,<br />
+			Their valor heroic<sep />wherever men hear it.
+		</translation>
+	</block>
+</chapter>
