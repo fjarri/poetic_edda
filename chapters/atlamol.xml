@@ -1,7 +1,7 @@
-<chapter label="">
+<chapter label="Atlamol">
 	<block class="eddachapter">
 		<original>
-
+			Atlamo~`l en gro/`nlenzku
 		</original>
 		<transliteration>
 			Atlamol en Grönlenzku
@@ -39,10 +39,10 @@
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fre`tt hefr o~ld o`fo~`<sep />þa`s endr <conj>of</conj> go/rþu<br />
+			seggir samkundu:<sep />su` vas ny`t fa_e`stum;<br />
+			o/`xtu einma_e`li,<sep />yggt vas þeim si`þan<br />
+			ok et sama sunum Gju`ka,<sep />es vo~`ru sannra`þnir.
 		</original>
 		<translation>
 			There are many who know<sep />how of old did men<br />
@@ -57,10 +57,10 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sko~p <conj>o`xu</conj> skjo~ldunga:<sep />skyldu <conj>þeir</conj> feigir;<br />
+			illa re`zk Atla,<sep />a`tti þo` hyggju;<br />
+			feldi stoþ sto`ra,<sep />stri`ddi se`r harþla,<br />
+			af bragþi boþ sendi,<sep />at kva_e`mi bra`tt ma`gar.
 		</original>
 		<translation>
 			Fate grew for the princes,<sep />to death they were given;<br />
@@ -75,10 +75,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Horsk vas hu`sfreyja,<sep />hugþi at mannviti,<br />
+			lag heyrþi orþa,<sep />hvat a` laun ma_e`ltu;<br />
+			þa` vas vant vitri,<sep />vildi þeim hjalpa:<br />
+			skyldu <conj>of</conj> sa_e` sigla,<sep />en sjo~lf ne` kvamskat.
 		</original>
 		<translation>
 			Wise was the woman,<sep />she fain would use wisdom,<br />
@@ -94,10 +94,10 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ru`nar nam ri`sta,<sep />rengþi þa_e`r Vingi<br />
+			---fa`rs vas fly`tandi---,<sep />a`þr hann fram seldi;<br />
+			fo`ru þa` si`þan<sep />sendimenn Atla<br />
+			<conj>fjarri of</conj> fjo~rþ Lima,<sep />þars fro/`knir bjoggu.
 		</original>
 		<translation>
 			Runes did she fashion,<sep />but false Vingi made them,<br />
@@ -114,10 +114,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O~lva_e`rir urþu<sep />ok elda kyndu,<br />
+			hugþu va_e`tr ve`la<sep />es vo~`ru komnir;<br />
+			to`ku þeir fo`rnir<sep />es þeim fri`þr sendi,<br />
+			hengþu a` su`lu,<sep />hugþut þat varþa.
 		</original>
 		<translation>
 			They were kindly with ale,<sep />and fires they kindled,<br />
@@ -131,10 +131,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvam þa` Kostbera<sep />---kva_e`n vas ho`n Ho~gna---<br />
+			kona kapps ga`lig,<sep />ok kvaddi þa` ba`þa;<br />
+			glo`þ vas ok Glaumvo~r,<sep />es Gunnarr a`tti,<br />
+			fellskat saþr sviþri,<sep />sy`sti <conj>of</conj> þo~rf gesta.
 		</original>
 		<translation>
 			Forth did Kostbera,<sep />wife of Hogni, then come,<br />
@@ -150,10 +150,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Buþu þeir heim Ho~gna<sep />ef þa` heldr fo/`ri:<br />
+			sy`n vas svipvi`si,<sep />ef þeir si`n ga_e`þi;<br />
+			he`t þa` <conj>ferþ</conj> Gunnarr,<sep />ef Ho~gni vildi,<br />
+			Ho~gni þvi` <conj>hli`tti,</conj><sep />es hinn <conj>of</conj> re`þi.
 		</original>
 		<translation>
 			Then Hogni they asked<sep />if more eager he were,<br />
@@ -169,15 +169,15 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep />
+			Bo~`ru mjo~þ ma_e`rar,<sep />margs vas alls beini,<br />
+			fo`r þar fjo~lþ horna,<sep />unz <conj>vas</conj> fulldrukkit;<br />
+			<lacuna /><sep /><lacuna /><br />
+			hiu go/rþu hvi`lu<sep />sem þeim ho/`gst þo`tti.
 		</original>
 		<translation>
 			Then the famed ones brought mead,<sep />and fair was the feast,<br />
 			Full many were the horns,<sep />till the men had drunk deep;<br />
-			.    .    .    .    .        .    .    .    .    .<br />
+			<lacuna /><sep /><lacuna /><br />
 			Then the mates made ready<sep />their beds for resting.
 		</translation>
 		<comment>
@@ -185,16 +185,19 @@
 			<textstanza class="translation">
 				Then the warriors rose,<sep />and to slumber made ready.
 			</textstanza>
+			<textstanza class="original">
+				(risu at þat rekkar,<sep />re`þusk þeir at sofna.)
+			</textstanza>
 			The manuscript indicates line 4 as beginning a new stanza, and some editions make a separate stanza out of lines 1--2.
 			Others suggest the loss of a line after line 4.
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kend vas Kostbera,<sep />kunni skil ru`na,<br />
+			inti orþstafi<sep />at eldi ljo~sum;<br />
+			ga_e`ta varþ tungu<sep />i` go`ma ba`þa:<br />
+			vo~`ru sva` viltar,<sep />at vas vant at ra`þa.
 		</original>
 		<translation>
 			Wise was Kostbera,<sep />and cunning in rune-craft,<br />
@@ -208,10 +211,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
+			Sa_eing fo`ru si`þan<sep />si`na þau Ho~gni<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			dreymþi dro`ttla`ta,<sep />dulþi þess va_e`tki,<br />
+			sagþi horsk hilmi,<sep />þegars ho`n re`þ vakna:
 		</original>
 		<translation>
 			Full soon then his bed<sep />came Hogni to seek,<br />
@@ -226,18 +229,21 @@
 			<textstanza class="translation">
 				But sleep to the woman<sep />so wise came little.
 			</textstanza>
+			<textstanza class="original">
+				(seint um sofnaþi<sep />svinn hu`sfreyja.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Heiman go/risk, Ho~gni!<sep />hygg þu` at ro~`þum<br />
+			---fa`r es fullry`ninn!---<sep />far i` sinn annat!<br />
+			re`þ ek þa_e`r ru`nar<sep />es reist þi`n systir:<br />
+			bjo~rt hefr þe`r eigi<sep />boþit i` sinn þetta.
 		</original>
 		<translation>
 			``Thou wouldst go hence,<sep />Hogni, but heed my counsel,---<br />
-			Known to few are the runes,--<sep />and put off thy faring;<br />
+			Known to few are the runes,---<sep />and put off thy faring;<br />
 			I have read now the runes<sep />that thy sister wrote,<br />
 			And this time the bright one<sep />did not bid thee to come.
 		</translation>
@@ -248,11 +254,11 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Eitt ek mest undrumk:<sep />ma`kat enn hyggja,<br />
+			hvat þa` varþ vitri,<sep />es skyldi vilt ri`sta;<br />
+			sva` vas <conj>a` vi`sat,</conj><sep />sem undir va_e`ri<br />
+			bani ykkarr beggja,<sep />ef bra`þla kva_e`miþ.<br />
+			[vant es stafs vi`fi,<sep />eþa valda aþrir.]''
 		</original>
 		<translation>
 			Full much do I wonder,<sep />nor well can I see,<br />
@@ -268,13 +274,13 @@
 	</block>
 	<block class="stanza" number="13">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Allar'u illu`þgar,<sep />a`kkak þess kynni,<br />
+			vilkak <conj>la_e`s</conj> leita,<sep />nema launa eigim;<br />
+			okkr mun gramr golli<sep />reifa glo`þrauþu,<br />
+			oumk ek aldrigi,<sep />þo`t ve`r o`gn fregnim.''
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -293,13 +299,13 @@
 	</block>
 	<block class="stanza" number="14">
 		<original_prelude>
-
+			Kostbera kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Stopalt munuþ ganga,<sep />ef it stundiþ þangat,<br />
+			ykkr mun a`stkynni<sep />eigi i` sinn þetta;<br />
+			dreymþi mik, Ho~gni!<sep />---dyljumk þat eigi---:<br />
+			ganga mun anda_e`ris,<sep />eþa ella hra_e`þumk.
 		</original>
 		<translation_prelude>
 			Kostbera spake:
@@ -319,11 +325,11 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			Bla_e`ju <conj>sa`k</conj> þi`na<sep />brinna i` eldi,<br />
+			hryti ho`r logi<sep />hu`s mi`n i` go/gnum.''<br />
+			<stanzaprelude>Ho~gni kvaþ:</stanzaprelude><br />
+			``Liggja li`nkla_e`þi<sep />þau<conj>s</conj> e`r litt ro/`kiþ:<br />
+			þau munu bra`tt brinna,<sep />þars þu` bla_e`ju sa`tt.''
 		</original>
 		<translation>
 			Thy bed-covering saw I<sep />in the flames burning,<br />
@@ -340,13 +346,13 @@
 	</block>
 	<block class="stanza" number="16">
 		<original_prelude>
-
+			Kostbera kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Bjo~rn <conj>sa`k</conj> inn kominn,<sep />bryti upp stokka,<br />
+			hristi sva` hramma,<sep />at ve`r hra_e`dd yrþim;<br />
+			<conj>munni</conj> oss mo~rg hefþi,<sep />sva`t ma_e`ttim etki:<br />
+			þar vas ok þro~mmun<sep />þeygi sva` li`til.''
 		</original>
 		<translation_prelude>
 			Kostbera spake:
@@ -363,11 +369,11 @@
 	</block>
 	<block class="stanza" number="17">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep />
+			``Veþr mun þar vaxa,<sep />verþa o`tt snimma:<br />
+			hvi`tabjo~rn hugþir---<sep />þar mun hregg austan.''
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -383,13 +389,13 @@
 	</block>
 	<block class="stanza" number="18">
 		<original_prelude>
-
+			Kostbera kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
+			``O~rn <conj>sa`k</conj> inn flju`ga<sep />at endlo~ngu hu`si:<br />
+			mun oss drju`gt deilask,<sep />dreifþi oss o~ll blo`þi;<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep />
+			hugþak af heitum,<sep />at va_e`ri hamr Atla.''
 		</original>
 		<translation_prelude>
 			Kostbera spake:
@@ -402,8 +408,11 @@
 		</translation>
 		<comment>
 			The manuscript indicates no gap, but most editors assume the loss of a line after line 1 or 2; Grundtvig adds, after line 1:
-			<textstanza class="original">
+			<textstanza class="translation">
 				Black were his feathers,<sep />with blood was he covered.
+			</textstanza>
+			<textstanza class="original">
+				(svo~rtum va_e`ngjum,<sep />sveita vas hann mjo~k stokkinn.)
 			</textstanza>
 			<expl>Atli's spirit</expl>: the poet's folk-lore seems here a bit weak.
 			Presumably he means such a female following-spirit (``fylgja'') as appears in <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjorvarthssonar" prose="c35">prose following stanza 34</proseref> (cf. note thereon), but the word he uses, ``hamr'' (masculine) means ``skin,'' ``shape.''
@@ -412,13 +421,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Slo~`trum sy`sliga,<sep />se::um þa` roþru:<br />
+			opt's þat fyr o/xnum,<sep />es o~rnu dreymir;<br />
+			heill es hugr Atla,<sep />hvatkis þik dreymir.''<br />
+			Lokit þvi` le`tu,<sep /><conj>li`ddi</conj> hver ro/`þa.
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -435,10 +444,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			Vo~knuþu velborin,<sep />vas þar sams do/`mi,<br />
+			ga_e`ttisk þess Glaumvo~r,<sep />at va_e`ri grand svefna.<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep />
+			<lacuna /> viþ Gunnarr<sep />at faa tva_e`r leiþir.
 		</original>
 		<translation>
 			The high-born ones wakened,<sep />and like speech they had,<br />
@@ -448,19 +457,19 @@
 		</translation>
 		<comment>
 			The manuscript indicates no gap, but none of the many attempted emendations have made sense out of the words as they stand.
-			The proper location for' the missing words is sheer guesswork.
+			The proper location for the missing words is sheer guesswork.
 			<expl>Two roads</expl>: probably the meaning is that their way (i.e., their success) would be doubtful.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
 		<original_prelude>
-
+			Glaumvo~r kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
+			``Go~rvan <conj>sa`k</conj> þe`r galga,<sep />gengir at hanga,<br />
+			a_e`ti þik ormar,<sep />yrþak þik kvikvan;<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep />
+			go/rþisk ro/k ragna:<sep />ra`þ hvat þat va_e`ri.''
 		</original>
 		<translation_prelude>
 			Glaumvor spake:
@@ -480,16 +489,20 @@
 				Banners are gleaming,<sep />since of gallows didst dream,<br />
 				And wealth it must mean<sep />that thou serpents didst watch.
 			</textstanza>
+			<textstanza class="original">
+				(Gna_e`fir gunnfani,<sep />þar er þu` galga hugþir,<br />
+				auþr mun o/`rinn,<sep />þar er orma dreymir.)
+			</textstanza>
 			<expl>Gods' doom</expl>: an odd, and apparently mistaken, use of the phrase ``ragna rök'' (cf. <chapterref>Voluspo</chapterref>, introductory note).
 		</comment>
 	</block>
 	<block class="asterisks" />
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Blo`þgan <conj>sa`k</conj> ma_e`ki<sep />borinn o`r serk þi`num<br />
+			---illt es svefn sli`kan<sep />segja nauþmanni---,<br />
+			geir hugþak standa<sep />i` go/gnum þik miþjan,<br />
+			emjuþu ulfar<sep />a` endum bo~`þum.''
 		</original>
 		<translation>
 			``A sword drawn bloody<sep />from thy garments I saw,---<br />
@@ -500,11 +513,11 @@
 	</block>
 	<block class="stanza" number="23">
 		<original_prelude>
-
+			Gunnarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep />
+			``Rakkar þar rinna,<sep />ra`þask mjo~k geyja,<br />
+			opt verþr glaumr hunda<sep />fyr geira flaugun.''
 		</original>
 		<translation_prelude>
 			Gunnar spake:
@@ -520,13 +533,13 @@
 	</block>
 	<block class="stanza" number="24">
 		<original_prelude>
-
+			Glaumvo~r kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O~` <conj>sa`k</conj> inn rinna<sep />at endlo~ngu hu`si,<br />
+			þyti af þjo`sti,<sep />þeystisk of bekki,<br />
+			bryti fo/`tr ykkra<sep />bro/`þra he`r tveggja,<br />
+			go/rþit vatn va_e`gja:<sep />vesa mun þat fyr nekkvi.''
 		</original>
 		<translation_prelude>
 			Glaumvor spake:
@@ -538,16 +551,16 @@
 			The water would yield not;<sep />some meaning there was.''
 		</translation>
 		<comment>
-			Again Gunnar's interpretation is missing, and most editors either assume a gap or construct two Malahattr lines (out of the <src>Volsungasaga</src> prose paraphrase, which runs: ``The grain shall flow, since thou hast dreamed of rivers, and when we go to the fields, often the chaff rises above our feet.''
+			Again Gunnar's interpretation is missing, and most editors either assume a gap or construct two Malahattr lines (out of the <src>Volsungasaga</src> prose paraphrase, which runs: ``The grain shall flow, since thou hast dreamed of rivers, and when we go to the fields, often the chaff rises above our feet.'' <textprose class="original">(``Þar munu renna akrar, er þu` hugþir a`na, ok er ve`r go~ngum akrinn, nema opt sto`rar agnir fo_etr va`ra.'')</textprose>
 		</comment>
 	</block>
 	<block class="asterisks" />
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Konur hugþak dauþar<sep />koma i` no~`tt hingat,<br />
+			<conj>va_e`ri</conj> vart bu`nar,<sep />vildi þik kjo`sa,<br />
+			byþi þe`r bra`þliga<sep />til bekkja sinna:<br />
+			ek kveþ aflima<sep />orþnar þe`r di`sir.''
 		</original>
 		<translation>
 			``I dreamed that by night<sep />came dead women hither,<br />
@@ -561,12 +574,12 @@
 	</block>
 	<block class="stanza" number="26">
 		<original_prelude>
-
+			Gunnarr kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Seinat's at segja,<sep />sva` es nu` ra`þit:<br />
+			forþumka <conj>furþu,</conj><sep />alls þo`'s fara a_e`tlat,<br />
+			mart es mjo~k gli`kligt<sep />at munim skamma_eir.''
 		</original>
 		<translation_prelude>
 			Gunnar spake:
@@ -582,10 +595,10 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Litu es ly`sti,<sep />le`tusk þeir fu`sir<br />
+			allir upp ri`sa,<sep />o~nnur þau lo~ttu;<br />
+			fo`ru fimm saman,<sep />---fleiri til vo~`ru<br />
+			ho~lfu hu`skarlar---:<sep />hugat vas þvi` illa.
 		</original>
 		<translation>
 			Then bright shone the morning,<sep />the men all were ready,<br />
@@ -599,11 +612,11 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sna_e`varr ok So`larr,<sep />synir vo~`ru Ho~gna,<br />
+			Orkning þann he`tu<sep />es þeim enn fylgþi,<br />
+			bli`þr vas bo~rr skjaldar<sep />bro`þir hans kva`nar;<br />
+			fo`ru fagrbu`nar,<sep />unz þau fjo~rþr skilþi;<br />
+			lo~ttu a_e` ljo`sar,<sep />le`tuat heldr segjask.
 		</original>
 		<translation>
 			Snævar and Solar,<sep />they were sons of Hogni,<br />
@@ -617,6 +630,9 @@
 			<textstanza class="translation">
 				Gunnar and Hogni,<sep />the heirs twain of Gjuki.
 			</textstanza>
+			<textstanza class="original">
+				(Gunnarr ok Ho~gni,<sep />Gju`ka arfar ba`þir.)
+			</textstanza>
 			<expl>Snævar</expl> (the manuscript here has ``Snevar''), <expl>Solar</expl> and <expl>Orkning</expl> appear only in this poem and in the prose narratives based on it.
 			Lines 2--3 may have been expanded out of one line, or possibly line 3 is spurious.
 			The manuscript indicates line 4 as beginning a new stanza, and many editions make a separate stanza out of lines 4--5, many of them assuming the loss of two lines.
@@ -627,10 +643,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Glaumvo~r kvaþ at orþi,<sep />es Gunnarr a`tti,<br />
+			ma_e`lti viþ Vinga,<sep />sem henni vert þo`tti:<br />
+			``Veitkak <conj>ef</conj> verþ launiþ<sep />at vilja ossum;<br />
+			glo/`pr es gests kva`ma,<sep />ef i` go/risk nekkvat.''
 		</original>
 		<translation>
 			Then did Glaumvor speak forth,<sep />the wife of Gunnar,<br />
@@ -641,10 +657,10 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			<conj>Svarþi</conj> þa` Vingi,<sep />se`r re`þ litt eira<br />
+			<lacuna /><sep /><lacuna /> :<br />
+			``Eigi hann jo~tnar,<sep />ef at yþr lygi,<br />
+			galgi go~rvallan,<sep />ef a` griþ hygþi!''
 		</original>
 		<translation>
 			Then did Vingi swear,<sep />and full glib was his speech,<br />
@@ -658,14 +674,17 @@
 			<textstanza class="translation">
 				The evil was clear<sep />when his words he uttered.
 			</textstanza>
+			<textstanza class="original">
+				(opin vas þo` illu`þ,<sep />es hann orþ ma_e`lti.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
+			Bera kvaþ at orþi<sep />bli`þ i` hug si`num<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			``Sigliþ e`r sa_e`lir<sep />ok sigr <conj>of</conj> a`rniþ,<br />
+			fari sem fyrir ma_e`lik,<sep /><conj>fa_e`sk</conj> eigi þvi` ni`ta!''
 		</original>
 		<translation>
 			Then did Bera speak forth,<sep />and fair was her thought,<br />
@@ -679,14 +698,17 @@
 			<textstanza class="translation">
 				And clear was her cry<sep />to her kinsmen dear.
 			</textstanza>
+			<textstanza class="original">
+				(niþjum na`bornum<sep />nam ho`n gott gala.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ho~gni <conj>þat ma_e`lti,</conj><sep />hugþi gott no~`num:<br />
+			``Huggizk it, horskar!<sep />hve`gis þat go/rvisk;<br />
+			ma_e`la þat margir,<sep />missir þo` sto`rum:<br />
+			mo~rgum ra_e`þr litlu,<sep />hve` verþr leiddr heiman.''
 		</original>
 		<translation>
 			Then Hogni made answer,---<sep />dear held he his kin,---<br />
@@ -700,8 +722,8 @@
 	</block>
 	<block class="stanza" number="33">
 		<original>
-			<sep /><br />
-			<sep />
+			So~usk til si`þan,<sep />a`þr i` sundr hyrfi;<br />
+			þa` hykk sko~p skiptu,<sep />skilþusk vegir þeira.
 		</original>
 		<translation>
 			They tenderly looked<sep />till each turned on his way,<br />
@@ -713,14 +735,18 @@
 				Then weeping did<sep />Glaumvor go to her rest-bed,<br />
 				And sadly did Bera<sep />her spinning wheel seek.''
 			</textstanza>
+			<textstanza class="original">
+				(Glaumvo~r gra`tandi<sep />gekk til hvi`lbeþjar,<br />
+				Bera brosandi<sep />borþa nam rekja.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="34">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Roa no~`mu ri`ki,<sep />rifu kjo~l halfan,<br />
+			beystu bakfo~llum,<sep />brugþusk heldr reiþir;<br />
+			ho~mlur slitnuþu,<sep />hai::r brotnuþu,<br />
+			go/rþut far festa,<sep />a`þr þeir fra` hyrfi.
 		</original>
 		<translation>
 			Full stoutly they rowed,<sep />and the keel clove asunder,<br />
@@ -736,10 +762,10 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Litlu ok lengra<sep />---lok munk þess segja---<br />
+			bo/` so~u þeir standa<sep />es Buþli a`tti;<br />
+			ho`tt hrikþu <conj>grindir,</conj><sep />es Ho~gni kni`þi,<br />
+			orþ kvaþ þa` Vingi,<sep />þats o~`n <conj>betr</conj> va_e`ri.
 		</original>
 		<translation>
 			Not long was it after---<sep />the end must I tell---<br />
@@ -754,10 +780,10 @@
 	</block>
 	<block class="stanza" number="36">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Fariþ firr hu`si<sep />---fla`tt es til so/`kja,<br />
+			bra`tt hefk ykkr brenda,<sep />bragþs skuluþ <conj>e`r</conj> ho~ggnir,<br />
+			fagrt baþk ykkr kvo~`mu,<sep />fla`tt vas þo` undir---<br />
+			ella heþan bi`þiþ,<sep />meþan ho/kk yþr galga!''
 		</original>
 		<translation>
 			``Go ye far from the house,<sep />for false is its entrance,<br />
