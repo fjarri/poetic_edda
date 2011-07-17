@@ -798,10 +798,10 @@
 	</block>
 	<block class="stanza" number="37">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hitt kvaþ <conj>þa`</conj> Ho~gni,<sep />hugþi litt va_e`gja,<br />
+			varr at vettugi,<sep />es varþ at reyna:<br />
+			``Hirþa oss hra_e`þa,<sep />haf þat fram sjaldan!<br />
+			ef þu` eykr orþi,<sep />illt munt þe`r lengja.''
 		</original>
 		<translation>
 			Then Hogni made answer,<sep />his heart yielded little,<br />
@@ -815,8 +815,8 @@
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			<sep /><br />
-			<sep />
+			Hrundu þeir Vinga<sep />ok i` hel dro~`þu,<br />
+			o/xar at lo~gþu,<sep />meþan i` o~nd hixti.
 		</original>
 		<translation>
 			Then Vingi did they smite,<sep />and they sent him to hell,<br />
@@ -828,8 +828,8 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			<sep /><br />
-			<sep />
+			Flykþusk þeir Atli<sep />ok fo~ru i` brynjur,<br />
+			gengu sva` go~rvir,<sep />at vas garþr milli.
 		</original>
 		<translation>
 			Atli summoned his men,<sep />in mail-coats they hastened,<br />
@@ -847,8 +847,8 @@
 	<block class="asterisks" />
 	<block class="stanza" number="40">
 		<original>
-			<sep /><br />
-			<sep />
+			Urþusk a` orþum<sep />allir senn reiþir:<br />
+			``gengu sva` go~rvir,<sep />at vas garþr milli.''
 		</original>
 		<translation>
 			Then came they to words,<sep />and full wrathful they were:<br />
@@ -864,9 +864,9 @@
 
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``A se`r þat illa,<sep />ef <conj>hafiþ</conj> a`þr ra`þit;<br />
+			enn eruþ o`bu`nir,<sep />ok ho~fum einn feldan,<br />
+			lamþan til heljar:<sep />liþs vas sa` yþvars.''
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -881,6 +881,9 @@
 			<textstanza class="translation">
 				Then Hogni laughed loud<sep />where the slain Vingi lay.
 			</textstanza>
+			<textstanza class="original">
+				(Hlo` þa` Ho~gni,<sep />ste` of hra_e` Vinga.)
+			</textstanza>
 			Many editors assume the loss of a line somewhere in the stanza.
 			<expl>Unarmed</expl>: Hogni does not see Atli's armed followers, who are on the other side of the courtyard (stanza <sr>39</sr>).
 			<expl>One</expl>: Vingi.
@@ -888,9 +891,9 @@
 	</block>
 	<block class="stanza" number="42">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O`þir þa` urþu,<sep />es þat orþ heyrþu:<br />
+			forþuþu fingrum<sep />ok fengu i` sno/`ri,<br />
+			skutu skarpliga<sep />ok skjo~ldum hli`fþusk.
 		</original>
 		<translation>
 			Then wild was their anger<sep />when all heard his words;<br />
@@ -903,18 +906,18 @@
 	</block>
 	<block class="stanza" number="43">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Inn kvam andspilli,<sep />hvat u`ti dry`gþu<br />
+			<conj>hvatir</conj> fyr ho~llu:<sep />heyrþu þra_e`l segja;<br />
+			o~tul vas þa` Guþru`n,<sep />es ekka heyrþi,<br />
+			hlaþin halsmenjum:<sep />hreytti go~rvo~llum,<br />
+			[slo/ngþi sva` silfri,<sep />at i` sundr hrutu baugar.]
 		</original>
 		<translation>
 			In the house came the word<sep />how the heroes with out<br />
 			Fought in front of the hall;<sep />they heard a thrall tell it;<br />
 			Grim then was Guthrun,<sep />the grief when she heard,<br />
 			With necklaces fair,<sep />and she flung them all from her,<br />
-			(The silver she hurled<sep />so the rings burst asunder.)
+			[The silver she hurled<sep />so the rings burst asunder.]
 		</translation>
 		<comment>
 			The manuscript reading of lines 1--2, involving a metrical error, is:
@@ -929,15 +932,15 @@
 	</block>
 	<block class="stanza" number="44">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			U`t gekk <conj>ho`n</conj> si`þan,<sep />ypþit litt hurþum<br />
+			---fo`ra fa_e`lt þeygi---<sep />ok fagnaþi komnum;<br />
+			hvarf til <conj>Hniflunga</conj><sep />---su` vas hinzt kveþja---,<br />
+			fylgþi saþr sli`ku,<sep />sagþi mun fleira:
 		</original>
 		<translation>
 			Then out did she go,<sep />she flung open the doors,<br />
 			All fearless she went,<sep />and the guests did she welcome;<br />
-			To the Niflungs she went--<sep />her last greeting it was,---<br />
+			To the Niflungs she went---<sep />her last greeting it was,---<br />
 			In her speech truth was clear,<sep />and much would she speak.
 		</translation>
 		<comment>
@@ -949,10 +952,10 @@
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Leitaþak i` li`kna<sep />at letja ykkr heiman:<br />
+			sko~pum viþr mangi,<sep />skuluþ þo` he`r komnir.''<br />
+			Ma_e`lti af mannviti,<sep />ef mundu sa_e`ttask,<br />
+			etki at re`þusk,<sep />allir ni` kvo~`þu.
 		</original>
 		<translation>
 			``For your safety I sought<sep />that at home ye should stay;<br />
@@ -963,10 +966,10 @@
 	</block>
 	<block class="stanza" number="46">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sa` þa` sa_e`lborin,<sep />at þeir sa`rt le`ku,<br />
+			hugþi a` harþra_e`þi<sep />ok hrauzk o`r skikkju;<br />
+			no/kþan to`k ma_e`ki<sep />ok niþja fjo~r varþi,<br />
+			ho/`g vasat <conj>at</conj> hjaldri,<sep />hvars ho`n hendr festi.
 		</original>
 		<translation>
 			Then the high-born one saw<sep />that hard was their battle,<br />
@@ -982,16 +985,16 @@
 	</block>
 	<block class="stanza" number="47">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Do`ttir le`t Gju`ka<sep />drengi tva` hni`ga,<br />
+			bro`þur hjo` Atla,<sep />bera varþ þann si`þan;<br />
+			[skapþi sva` sko/`ru,<sep />skeldi fo`t undan;]<br />
+			annan re`þ ho~ggva,<sep />sva`t sa` upp reisat,<br />
+			i` helju þann hafþi:<sep />þeygi hendr skulfu.
 		</original>
 		<translation>
 			Then the daughter of Gjuki<sep />two warriors smote down,<br />
 			Atli's brother she slew,<sep />and forth then they bore him;<br />
-			(So fiercely she fought<sep />that his feet she clove off;)<br />
+			[So fiercely she fought<sep />that his feet she clove off;]<br />
 			Another she smote<sep />so that never he stood,<br />
 			To hell did she send him,---<sep />her hands trembled never.
 		</translation>
@@ -1003,11 +1006,11 @@
 	</block>
 	<block class="stanza" number="48">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þjo~rku þat go/rþu,<sep />þeiri vas viþ brugþit,<br />
+			bra` <conj>of</conj> allt annat<sep />es unnu bo~rn Gju`ka;<br />
+			<conj>Hniflunga</conj> kvo~`þu,<sep />meþan <conj>heilir</conj> lifþu,<br />
+			[<conj>sko`pu</conj> so`kn sverþum,<sep /><conj>slitusk</conj> af brynjur,]<br />
+			<conj>hjoggu</conj> sva` hjalma,<sep />sem þeim hugr dygþi.
 		</original>
 		<translation>
 			Full wide was the fame<sep />of the battle they fought,<br />
@@ -1025,15 +1028,15 @@
 	</block>
 	<block class="stanza" number="49">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Morgin mest vo~`gu,<sep />unz miþjan dag li`ddi,<br />
+			[o`ttu alla<sep />ok o~ndurþan dag,]<br />
+			fyrr vas fullvegit,<sep />flo`þi vo~llr blo`þi:<br />
+			a`tja`n, a`þr fellu,<sep />o/fri <conj>firum</conj> urþu<br />
+			Beru tveir sveinar<sep />ok bro`þir hennar.
 		</original>
 		<translation>
 			All the morning they fought<sep />until midday shone,<br />
-			(All the dusk as well<sep />and the dawning of day,)<br />
+			[All the dusk as well<sep />and the dawning of day,]<br />
 			When the battle was ended,<sep />the field flowed with blood;<br />
 			Ere they fell, eighteen<sep />of their foemen were slain,<br />
 			By the two sons of Bera<sep />and her brother as well.
@@ -1046,14 +1049,14 @@
 	</block>
 	<block class="stanza" number="50">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ro~skr to`k at ro/`þa,<sep />þo`t hann reiþr va_e`ri:<br />
+			``Illt es umb li`task,<sep />yþr es þat kenna;<br />
+			vo~`rum þri`r tigir,<sep />þegnar vi`gligir,<br />
+			eptir <conj>lifa</conj> ellifu:<sep />o`r es þar brunnit.
 		</original>
 		<translation>
 			Then the warrior spake,<sep />and wild was his anger:<br />
-			"This is evil to see,<sep />and thy doing is all;<br />
+			``This is evil to see,<sep />and thy doing is all;<br />
 			Once we were thirty,<sep />we thanes, keen for battle,<br />
 			Now eleven are left,<sep />and great is our lack.
 		</translation>
@@ -1066,13 +1069,13 @@
 	</block>
 	<block class="stanza" number="51">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bro/`þr vo~`rum <conj>fjo`rir,</conj><sep />es Buþla mistum:<br />
+			hefr nu` Hel halfa:<sep />ho~ggnir tveir liggja;<br />
+			ma_e`gþ gat ek mikla;<sep />ma`kak þvi` leyna,<br />
+			<conj>konu</conj> va`liga:<sep />kna`kak þess njo`ta.
 		</original>
 		<translation>
-			``There were five of us brothers<sep />when Buthli we lost,<br />
+			There were five of us brothers<sep />when Buthli we lost,<br />
 			Now Hel has the half,<sep />and two smitten lie here;<br />
 			A great kinship had I,---<sep />the truth may I hide not,---<br />
 			From a wife bringing slaughter<sep />small joy could I win.
@@ -1086,9 +1089,9 @@
 	</block>
 	<block class="stanza" number="52">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hljo`tt o~`ttum sjaldan,<sep />si`z kvamt i` hendr ossar<br />
+			firþan mik fra_e`ndum,<sep />fei:: opt svikvinn;<br />
+			senduþ systr Helju:<sep />sli`ks ek mest kennumk.''
 		</original>
 		<translation>
 			We lay seldom together<sep />since to me thou wast given,<br />
@@ -1104,14 +1107,14 @@
 	</block>
 	<block class="stanza" number="53">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Getr þu` þess, Atli!<sep />go/rþir sva` fyrri:<br />
+			mo`þur to`kt mi`na<sep />ok myrþir til hnossa;<br />
+			svinna systrungu<sep />sveltir i` helli;<br />
+			hlo/`gligt þat <conj>þykkjumk,</conj><sep />es þinn harm ti`nir,<br />
+			goþum þat þakkak,<sep />es þe`r gengsk illa.''
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1134,13 +1137,13 @@
 	</block>
 	<block class="stanza" number="54">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Eggjak yþr, jarlar!<sep />auka harm sto`rum<br />
+			vi`fs ens vegliga:<sep />viljak þat li`ta;<br />
+			kostiþ sva` keppa,<sep />at klo/kkvi Guþru`n,<br />
+			sea þat ma_e`ttak,<sep />at se`r ne` ynþit.
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -1157,10 +1160,10 @@
 	</block>
 	<block class="stanza" number="55">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Takiþ e`r Ho~gna<sep />ok hyldiþ meþ kni`fi,<br />
+			skeriþ o`r hjarta,<sep />skuluþ þess go~rvir;<br />
+			Gunnar grimmu`þgan<sep />a` galga festiþ,<br />
+			belliþ þvi` bragþi,<sep />bjo`þiþ til ormum!''
 		</original>
 		<translation>
 			Seize ye now Hogni,<sep />and with knives shall ye hew him,<br />
@@ -1171,13 +1174,13 @@
 	</block>
 	<block class="stanza" number="56">
 		<original_prelude>
-
+			Ho~gni kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Go/r sem til lystir,<sep />glaþr munk þess bi`þa:<br />
+			ro~skr mun<conj>k</conj> þe`r reynask,<sep />reynt hefk fyrr <conj>brattan;</conj><br />
+			ho~fþuþ <conj>þa`</conj> hnekking,<sep />meþan heilir vo~`rum:<br />
+			nu` 'rum sva` sa`rir,<sep />at ma`tt sjalfr valda.''
 		</original>
 		<translation_prelude>
 			Hogni spake:
@@ -1194,10 +1197,10 @@
 	</block>
 	<block class="stanza" number="57">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Beiti þat ma_e`lti,<sep />bryti vas hann Atla:<br />
+			``To~kum ve`r Hjalla,<sep />en Ho~gna forþum!<br />
+			<conj>ho~ggum halfyrkjan!</conj><sep />hann es skapdauþi,<br />
+			lifira sva` lengi,<sep />lo~skr mun a_e` heitinn.''
 		</original>
 		<translation>
 			Then did Beiti speak,<sep />he was Atli's steward:<br />
@@ -1214,11 +1217,11 @@
 	</block>
 	<block class="stanza" number="58">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hra_e`ddr vas hverga_e`tir,<sep />helta in <conj>lengr</conj> ru`mi,<br />
+			kunni klo/kkr verþa,<sep />kleif i` ro~` hverja;<br />
+			vesall le`zk vi`gs þeira,<sep />es skyldi va`ss gjalda,<br />
+			ok sinn dag dapran,<sep />at deyja fra` svi`num,<br />
+			[allri orkostu<sep />es hann a`þr hafþi].
 		</original>
 		<translation>
 			Afraid was the pot-watcher,<sep />he fled here and yon,<br />
@@ -1233,11 +1236,11 @@
 	</block>
 	<block class="stanza" number="59">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			To`ku bra`s Buþla<sep />ok brugþu til kni`fi,<br />
+			o/`pþi ill<conj>þra_e`li,</conj><sep />a`þr odds <conj>of</conj> kendi;<br />
+			to`m le`zk at eiga<sep />teþja vel garþa,<br />
+			vinna et vergasta,<sep />ef hann viþ re`tti.<br />
+			[feginn le`zk þo` Hjalli,<sep />at hann fjo~r þa_e`gi].
 		</original>
 		<translation>
 			They seized Buthli's cook,<sep />and they came with the knife,<br />
@@ -1253,10 +1256,10 @@
 	</block>
 	<block class="stanza" number="60">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ga_e`ttisk þess Ho~gni<sep />---go/rva sva` fa_e`ri---<br />
+			at a`rna a`nauþgum,<sep />at undan gengi:<br />
+			``Fyr kveþk me`r minna<sep />at fremja leik þenna:<br />
+			hvi` mynim he`r vilja<sep />heyra a` þa` skra_e`ktun?''
 		</original>
 		<translation>
 			Then fain was Hogni---<sep />there are few would do thus---<br />
@@ -1267,10 +1270,10 @@
 	</block>
 	<block class="stanza" number="61">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þrifu þeir þjo`þgo`þan:<sep />þa` vas kostr engi<br />
+			rekkum rakklo~`tum<sep />ra`þ enn lengr dvelja;<br />
+			hlo` þa` Ho~gni,<sep />heyrþu dagmegir,<br />
+			keppa sva` kunni,<sep />kvo~l hann vel þolþi.
 		</original>
 		<translation>
 			Then the brave one they seized;<sep />to the warriors bold<br />
@@ -1286,10 +1289,10 @@
 	<block class="asterisks" />
 	<block class="stanza" number="62">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ho~rpu to`k Gunnarr,<sep />hro/`rþi ilkvistum:<br />
+			sla` hann sva` kunni,<sep />at sno`tir gre`tu;<br />
+			klukku þeir karlar,<sep />es kunnu go/rst heyra;<br />
+			ri`kri ro~`þ sagþi,<sep />raptar sundr brustu.
 		</original>
 		<translation>
 			A harp Gunnar seized,<sep />with his toes he smote it<br />
@@ -1305,8 +1308,8 @@
 	</block>
 	<block class="stanza" number="63">
 		<original>
-			<sep /><br />
-			<sep /><br />
+			Dou þa` dy`rir:<sep />dags vas heldr snimma:<br />
+			le`tu a` lesti<sep />lifa i`þro`tta.<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -1321,14 +1324,18 @@
 				Few braver shall ever<sep />be found on the earth,<br />
 				Or loftier men<sep />in the world ever give.
 			</textstanza>
+			<textstanza class="original">
+				(fa`ir munu fro/`knari<sep />a` fold koma<br />
+				ne` menn ma_e`tri<sep />fyrir mold ofan.)
+			</textstanza>
 		</comment>
 	</block>
 	<block class="stanza" number="64">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sto`rr þo`ttisk Atli,<sep />ste` <conj>of</conj> þa` ba`þa,<br />
+			horskri harm sagþi<sep />ok re`þ heldr at bregþa:<br />
+			``Morginn's nu`, Guþru`n!<sep />mist hefr þe`r hollra,<br />
+			sums est sjalfskapa,<sep />at hafi sva` gengit.''
 		</original>
 		<translation>
 			Full mighty seemed Atli<sep />as o'er them he stood,<br />
@@ -1343,13 +1350,13 @@
 	</block>
 	<block class="stanza" number="65">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Feginn estu, Atli!<sep />ferr þu` vi`g ly`sa:<br />
+			a` munu þe`r iþrar,<sep />ef þu` allt reynir;<br />
+			su` mun erfþ eptir,<sep />ek kann þe`r segja:<br />
+			ills gengsk þe`r aldri,<sep />nema ek ok deyja.''
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1366,20 +1373,20 @@
 	</block>
 	<block class="stanza" number="66">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Kannka sli`ks synja;<sep />se`k til ra`þ annat<br />
+			ho~lfu ho`gligra<sep />---ho~fnum opt go`þu---:<br />
+			<conj>mani</conj> munk þik hugga,<sep />ma_e`tum a`ga_e`tum,<br />
+			silfri sna_e`hvi`tu,<sep />sem þu` sjo~lf vilir.''
 		</original>
 		<translation_prelude>
 			Atli spake:
 		</translation_prelude>
 		<translation>
 			``Not free of guilt am I;<sep />a way shall I find<br />
-			That is better by far,--<sep />oft the fairest we shunned;--<br />
+			That is better by far,---<sep />oft the fairest we shunned;---<br />
 			With slaves I console thee,<sep />with gems fair to see,<br />
 			And with silver snow-white,<sep />as thyself thou shalt choose.''
 		</translation>
@@ -1391,13 +1398,13 @@
 	</block>
 	<block class="stanza" number="67">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``O`n es þess engi<sep /><conj>a_e`</conj> vilk þvi` ni`ta:<br />
+			sleit ek þa` sa`ttir,<sep />es vo~ru sakar minni;<br />
+			afko~`r a`þr þo`ttak:<sep />a` mun nu` go/`þa,<br />
+			hra_e`fþak <conj>of</conj> hotvetna,<sep />meþan Ho~gni lifþi.
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1415,11 +1422,11 @@
 	</block>
 	<block class="stanza" number="68">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Alin vit upp vo~`rum<sep />i` einu hu`si,<br />
+			le`kum leik margan<sep />ok i` lundi o`xum,<br />
+			go/`ddi okkr Gri`mhildr<sep />golli ok halsmenjum:<br />
+			bana munt me`r bro/`þra<sep />bo/`ta aldrigi<br />
+			[ne` vinna þess etki,<sep />at me`r vel þykki].
 		</original>
 		<translation>
 			Our childhood did we have<sep />in a single house,<br />
@@ -1434,10 +1441,10 @@
 	</block>
 	<block class="stanza" number="69">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kostum drepr kvenna<sep />karla ofri`ki,<br />
+			i` kne` gengr hnefi,<sep />ef kvistir þverra,<br />
+			tre` tekr at hni`ga,<sep />ef ho/ggr to~`g undan:<br />
+			nu` ma`tt einn, Atli!<sep />o~llu he`r ra`þa.''
 		</original>
 		<translation>
 			But the fierceness of men<sep />rules the fate of women,<br />
@@ -1456,10 +1463,10 @@
 	</block>
 	<block class="stanza" number="70">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gno`tt vas grunny`þgi,<sep />es gramr þvi` tru`þi,<br />
+			sy`n vas s<conj>vip</conj>vi`si,<sep />ef hann si`n ga_e`þi;<br />
+			kro~pp vas þa` Guþru`n,<sep />kunni <conj>of</conj> hug ma_e`la,<br />
+			le`tt ho`n se`r go/rþi,<sep />le`k ho`n tveim skjo~ldum.
 		</original>
 		<translation>
 			Full heedless the warrior<sep />was that he trusted her,<br />
@@ -1474,10 +1481,10 @@
 	</block>
 	<block class="stanza" number="71">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			O_Exti o~ldrykkjur<sep />at erfa bro/`þr si`na,<br />
+			samr le`zk ok Atli<sep />at si`na go/rva;<br />
+			lokit þvi` le`tu,<sep />lagat vas drykkju,<br />
+			su` vas samkunda<sep />viþ svo~rfun ofmikla.
 		</original>
 		<translation>
 			The beer then she brought<sep />for her brothers' death feast,<br />
@@ -1492,11 +1499,11 @@
 	</block>
 	<block class="stanza" number="72">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Steo~ng vas sto`rhuguþ,<sep />stri`ddi a_e`tt Buþla,<br />
+			vildi ver si`num<sep /><conj>vinna</conj> ofrhefndir:<br />
+			lokkaþi litla<sep />ok lagþi viþ stokki,<br />
+			glu`pnuþu grimmir<sep />ok gre`tu þeygi,<br />
+			fo`ru i` faþm mo`þur,<sep />fre`ttu hvat skyldi.
 		</original>
 		<translation>
 			Thus bitterly planned she,<sep />and Buthli's race threatened,<br />
@@ -1515,24 +1522,24 @@
 	</block>
 	<block class="stanza" number="73">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Spyriþ litt eptir!<sep />spilla a_e`tlak bo~`þum,<br />
+			lyst vo~rumk þess lengi<sep />at lyfja ykkr elli.''<br />
+			<stanzaprelude>Sveinarnir kva`þu:</stanzaprelude><br />
+			``Blo`tt sem vilt bo~rnum,<sep />bannar þat mangi,<br />
+			sko~mm mun ro` reiþi,<sep />ef reynir go~rva.''
 		</original>
 		<translation_prelude>
 			Guthrun spake:
 		</translation_prelude>
 		<translation>
 			``Nay, ask me no more!<sep />You both shall I murder,<br />
-			For long have I wished<sep />your lives to steal from you.<br />
+			For long have I wished<sep />your lives to steal from you.''<br />
 			<stanzaprelude>The boys spake:</stanzaprelude><br />
-			''Slay thy boys as thou wilt,<sep />for no one may bar it,<br />
-			Short the angry one's peace<sep />if all thou shalt do."
+			``Slay thy boys as thou wilt,<sep />for no one may bar it,<br />
+			Short the angry one's peace<sep />if all thou shalt do.''
 		</translation>
 		<comment>
 			The manuscript does not name the speakers.
