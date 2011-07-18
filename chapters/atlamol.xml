@@ -1551,10 +1551,10 @@
 	</block>
 	<block class="stanza" number="74">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bra` þa` barno/`sku<sep />bro/`þra en kappsvinna,<br />
+			<conj>skiptit</conj> skapliga,<sep />skar a` hals ba`þa;<br />
+			enn fre`tti Atli,<sep />hvert farnir va_e`ri<br />
+			sveinar hans leika,<sep />es sa` þa` hvergi.
 		</original>
 		<translation>
 			Then the grim one slew both<sep />of the brothers young,<br />
@@ -1568,13 +1568,13 @@
 	</block>
 	<block class="stanza" number="75">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Yfir ro~`þumk ganga<sep />Atla til segja,<br />
+			dylja <conj>mun</conj> þik eigi<sep />do`ttir Gri`mhildar;<br />
+			glaþa mun<conj>at</conj> þik, Atli!<sep />ef go~rva reynir:<br />
+			vakþir vo~` mikla,<sep />es va`tt bro/`þr mi`na.
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1591,15 +1591,15 @@
 	</block>
 	<block class="stanza" number="76">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Svaf ek mjo~k sjaldan,<sep />si`þans þeir fellu,<br />
+			he`t ek þe`r ho~rþu,<sep />hefk þik nu` mintan;<br />
+			morgin me`r sagþir,<sep />mank enn þann go~rva:<br />
+			nu` es auk aptann,<sep />a`tt sli`kt at fre`tta.
 		</original>
 		<translation>
 			I have seldom slept<sep />since the hour they were slain,<br />
 			Baleful were my threats,<sep />now I bid thee recall them;<br />
-			Thou didst say it was morning,--<sep />too well I remember,---<br />
+			Thou didst say it was morning,---<sep />too well I remember,---<br />
 			Now is evening come,<sep />and this question thou askest.
 		</translation>
 		<comment>
@@ -1608,10 +1608,10 @@
 	</block>
 	<block class="stanza" number="77">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Maga hefr þu` þinna<sep />mist <lacuna /><br />
+			<lacuna /><sep />sem þu` si`zt skyldir;<br />
+			hausa veizt þeira<sep />hafþa at o~lsko~`lum,<br />
+			dry`gþak sva` drykkju,<sep />dreyra blettk þeira.
 		</original>
 		<translation>
 			Now both of thy sons<sep />thou hast lost <lacuna /><br />
@@ -1631,10 +1631,10 @@
 	</block>
 	<block class="stanza" number="78">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			To`kk þeira hjo~rtu<sep />ok a` teini steikþak,<br />
+			seldak þe`r si`þan,<sep />sagþak at kalfs va_e`ri:<br />
+			einn þu` þvi` ollir,<sep />etki re`tt leifa,<br />
+			to~ggtu ti`þliga,<sep />tru`þir vel jo~xlum.
 		</original>
 		<translation>
 			I cut out their hearts,<sep />on a spit I cooked them,<br />
@@ -1643,13 +1643,13 @@
 			Thou didst greedily bite,<sep />and thy teeth were busy.
 		</translation>
 		<comment>
-			Some editions add lines 5--4 to stanza <sr>79</sr>; Finnur Jonsson marks them as probably spurious.
+			Some editions add lines 3--4 to stanza <sr>79</sr>; Finnur Jonsson marks them as probably spurious.
 		</comment>
 	</block>
 	<block class="stanza" number="79">
 		<original>
-			<sep /><br />
-			<sep />
+			Barna veizt þinna:<sep />biþr se`r fa`r verra;<br />
+			hlut veld ek mi`num,<sep />ho/`lumk þo` etki.''
 		</original>
 		<translation>
 			Of thy sons now thou knowest;<sep />few suffer more sorrow;<br />
@@ -1662,13 +1662,13 @@
 	</block>
 	<block class="stanza" number="80">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Grimm vastu, Guþru`n!<sep />es go/rva sva` ma`ttir,<br />
+			barna þinna blo`þi<sep />at blanda me`r drykkju;<br />
+			sny`tt hefr sifjungum,<sep />sem þu` si`zt skyldir,<br />
+			me`r la_e`tr ok sjo~lfum<sep />millum ills li`tit.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -1685,15 +1685,15 @@
 	</block>
 	<block class="stanza" number="81">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Vili me`r enn va_e`ri<sep />at vega þik sjalfan:<br />
+			fa`tt es fullilla<sep />farit viþ gram sli`kan;<br />
+			dry`gt þu` fyrr hafþir,<sep />þats do/`mi vissut<br />
+			heimsku, harþ<conj>ra_e`þi</conj><sep />i` heimi þessum.<br />
+			[nu` hefr enn aukit<sep />þats a`þan fro~`gum,<br />
+			greipt <conj>hefr</conj> glo/`p sto`ran,<sep />go~rt hefr þitt erfi.]''
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1713,6 +1713,10 @@
 				Thou wast foolish, Atli,<sep />when wise thou didst feel,<br />
 				Ever the whole<sep />of thy race did I hate.
 			</textstanza>
+			<textstanza class="original">
+				(Heimskr vastu, Atli!<sep />es þu` horskri vel tru`þir,<br />
+				a_e`tt þinni allri<sep />hefik a_e` hatat.)
+			</textstanza>
 			The <src>Volsungasaga</src> paraphrase, however, indicates no gap.
 			Many editions make a separate stanza of lines 3--6, which, in the <src>Volsungasaga</src>, are paraphrased as a speech of Atli's.
 			Lines 5--6 may be spurious.
@@ -1720,14 +1724,14 @@
 	</block>
 	<block class="stanza" number="82">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			``Brend munt a` ba`li<sep />ok bariþ a`þr grjo`ti:<br />
+			þa` hefr þu` a`rnat<sep />þats þu` a_e` <conj>beiddisk.</conj>''<br />
+			<stanzaprelude>Guþru`n kvaþ:</stanzaprelude><br />
+			``Seg <conj>þu`</conj> þe`r sli`kar<sep />sorgir a`r morgin:<br />
+			fri`þra vilk dauþa<sep />fara i` ljo`s annat.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -1747,10 +1751,10 @@
 	</block>
 	<block class="stanza" number="83">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			So~`tu samty`nis,<sep />sendusk fa`rhugi,<br />
+			hendusk heiptyrþi,<sep />hva`rtki se`r unþi;<br />
+			heipt o`x Hniflungi,<sep />hugþi a` sto`rra_e`þi,<br />
+			gat fyr Guþru`nu,<sep />at va_eri grimmr Atla.
 		</original>
 		<translation>
 			Together they sat<sep />and full grim were their thoughts,<br />
@@ -1770,15 +1774,15 @@
 	</block>
 	<block class="stanza" number="84">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvo~`mu i` hug henni<sep />Ho~gna viþfarar,<br />
+			talþi happ ho~`num,<sep />ef hann hefnt ynni;<br />
+			veginn vas þa` Atli<sep />---vas þess skamt bi`þa---:<br />
+			sunr va` Ho~gna<sep />ok sjo~lf Guþru`n.
 		</original>
 		<translation>
 			To her heart came ever<sep />the fate of Hogni,<br />
 			She told him 'twere well<sep />if he vengeance should win;<br />
-			So was Atli slain,--<sep />'twas not slow to await,---<br />
+			So was Atli slain,---<sep />'twas not slow to await,---<br />
 			Hogni's son slew him,<sep />and Guthrun herself.
 		</translation>
 		<comment>
@@ -1787,10 +1791,10 @@
 	</block>
 	<block class="stanza" number="85">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Ro~skr to`k at ro/`þa,<sep />rakþisk o`r svefni,<br />
+			kendi bra`tt benja,<sep />bands kvaþ þo~rf o/nga:<br />
+			``Segiþ et sannasta:<sep />hverr va` sun Buþla?<br />
+			emkak litt leikinn,<sep />li`fs telk vo~`n o/nga.''
 		</original>
 		<translation>
 			Then the warrior spake,<sep />as from slumber he wakened,<br />
@@ -1805,15 +1809,15 @@
 	</block>
 	<block class="stanza" number="86">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<br />
-			<sep /><br />
-			<sep />
+			''[Dylja mun þik eigi<sep />do`ttir Gri`mhildar:]<br />
+			lo~`tumk þvi` valda,<sep />es li`þr þi`na a_e`vi,<br />
+			en sumu sunr Ho~gna,<sep />es þik so~`r mo/`þa.''<br />
+			<stanzaprelude>Atli kvaþ:</stanzaprelude><br />
+			``Vaþit hefr at vi`gi,<sep />þo`t va_e`rit skapligt:<br />
+			illt es vin ve`la<sep />þanns þe`r vel trui::r.
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1834,15 +1838,18 @@
 			<textstanza class="translation">
 				His father he avenged,<sep />and his kinsmen fully.
 			</textstanza>
+			<textstanza class="original">
+				(hefndi hann sva` fo~þur<sep />ok fra_e`nda sinna allra.)
+			</textstanza>
 			Some editors assume the loss of one or two lines after line 5.
 		</comment>
 	</block>
 	<block class="stanza" number="87">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Beiddr fo`r ek heiman<sep />at biþja þi`n Guþru`n!<br />
+			leyfþ vastu ekkja,<sep />le`tu sto`rra`þa;<br />
+			varþa vo~`n lygi,<sep />es ve`r <conj>of</conj> reyndum;<br />
+			fo`rtu heim hingat,<sep />fylgþi oss herr manna.
 		</original>
 		<translation>
 			Not glad went I hence<sep />thy hand to seek, Guthrun,<br />
@@ -1856,10 +1863,10 @@
 	</block>
 	<block class="stanza" number="88">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Allt vas i`tarligt<sep /><conj>of</conj> o`rar ferþir,<br />
+			margs vas alls so`mi<sep />manna ti`ginna;<br />
+			naut vo~`ru o/`rin,<sep />nutum af sto`rum,<br />
+			þar vas fjo~lþ fear,<sep />fengu til margir.
 		</original>
 		<translation>
 			Most noble was all<sep />when of old we journeyed,<br />
@@ -1874,9 +1881,9 @@
 	</block>
 	<block class="stanza" number="89">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Mund galt ek ma_e`rri,<sep />meiþma fjo~lþ þiggja,<br />
+			þra_e`la þria to/gu,<sep />þy`jar sjau go`þar;<br />
+			---so/`mþ vas at sli`ku---:<sep />silfr vas þo` meira.
 		</original>
 		<translation>
 			To the famed one as bride-gift<sep />I gave jewels fair,<br />
@@ -1888,6 +1895,9 @@
 			<textstanza class="translation">
 				Bit-champing horses<sep />and wheel-wagons bright.
 			</textstanza>
+			<textstanza class="original">
+				(mara me`lgreypa,<sep />marga hvelvagna.)
+			</textstanza>
 			Line 4 may be spurious.
 			<expl>Greater</expl>: i. e., the silver which Atli gave Guthrun was of greater value even than the honor of receiving such royal gifts.
 			Line 4 may be spurious.
@@ -1895,11 +1905,11 @@
 	</block>
 	<block class="stanza" number="90">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Le`zt þe`r allt þykkja<sep />sem etki va_e`ri,<br />
+			meþan lo~nd þau lo~`gu<sep />es me`r leifþi Buþli;<br />
+			[gro`ftu sva` undir,<sep />go/rþit hlut þiggja;]<br />
+			sva_e`ru le`zt þi`na<sep />sitja opt gra`tna,<br />
+			fannka i` hug heilum<sep />hjo`na va_e`tr si`þan.''
 		</original>
 		<translation>
 			But all to thee was<sep />as if nought it were worth,<br />
@@ -1922,14 +1932,14 @@
 	</block>
 	<block class="stanza" number="91">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ly`gr þu` nu`, Atli!<sep />þo`t þat litt ro/`kjak:<br />
+			heldr vask ho/`g sjaldan,<sep /><conj>ho`fsk þu`</conj> þo` sto`rum;<br />
+			bo~rþusk bro/`þr ungir,<sep />bo~`rusk ro`g milli,<br />
+			halft gekk til heljar<sep />o`r hu`si þi`nu.<br />
+			[hroldi hotvetna<sep />þats til hags skyldi].
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -1951,10 +1961,10 @@
 	</block>
 	<block class="stanza" number="92">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þriu vo~`rum systkin,<sep />þo`ttum o`va_e`gin,<br />
+			fo`rum af landi,<sep />fylgþum Sigurþi;<br />
+			ska_e`va ve`r le`tum,<sep />skipi hvert va`rt sty`rþi,<br />
+			o~rkuþum at auþnu,<sep />unz ve`r austr kvo~`mum.
 		</original>
 		<translation>
 			My two brothers and I<sep />were bold in our thoughts,<br />
@@ -1969,10 +1979,10 @@
 	</block>
 	<block class="stanza" number="93">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Konung dro~`pum fyrstan,<sep />kurum land þaþra,<br />
+			hersar a` ho~nd gengu:<sep />hra_e`zlu þat vissi;<br />
+			vo~`gum o`r sko`gi<sep />þanns vildum syknan,<br />
+			settum þann sa_e`lan<sep />es se`r ne` a`ttit.
 		</original>
 		<translation>
 			First the king did we slay,<sep />and the land we seized,<br />
@@ -1986,10 +1996,10 @@
 	</block>
 	<block class="stanza" number="94">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Dauþr varþ enn hunski:<sep />drap þa` bra`tt kosti,<br />
+			strangt vas angr ungri<sep />ekkju <conj>nafn</conj> hljo`ta;<br />
+			kvo~l þo`tti kvikri<sep />at koma i` hu`s Atla,<br />
+			a`tti a`þr kappi,<sep />illr vas sa` missir.
 		</original>
 		<translation>
 			Slain was the Hun-king,<sep />soon happiness vanished,<br />
@@ -2005,10 +2015,10 @@
 	</block>
 	<block class="stanza" number="95">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Kvamtat af þingi,<sep />es ve`r þat fra_e`gim,<br />
+			at þu` so~k so/`ttir<sep />ne` <conj>slo/`gþir</conj> aþra:<br />
+			vildir <conj>a_e`</conj> va_e`gja,<sep />en va_e`tki halda,<br />
+			kyrt <conj>of</conj> þvi` la`ta<sep /><lacuna />''
 		</original>
 		<translation>
 			From the Thing thou camst never,<sep />for thus have we heard,<br />
@@ -2020,18 +2030,18 @@
 			<expl>Thing</expl>, etc.: here the poet makes Atli into a typical Norse land-owner, going to the ``Thing,'' or general law council, to settle his disputes.
 			Even the compilers of the <src>Volsungasaga</src> could not accept this, and in their paraphrase changed ``Thing'' to ``battle.''
 			The text of the second half of line 2 is uncertain.
-			The manuscript leaves a blank to indicate the gap in-line 4; Grundtvig adds: ``as beseems not a king.''
+			The manuscript leaves a blank to indicate the gap in-line 4; Grundtvig adds: ``as beseems not a king.'' <textprose class="original">(es konungr skyldit.)</textprose>
 		</comment>
 	</block>
 	<block class="stanza" number="96">
 		<original_prelude>
-
+			Atli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Ly`gr þu` nu`, Guþru`n!<sep />litt mun viþ bo/`task<br />
+			hluti hva`rigra:<sep />ho~fum o~ll skarþan;<br />
+			go/rþu nu`, Guþru`n!<sep />af go/`zku þinni<br />
+			okkr til a`ga_e`tis,<sep />es mik u`t hefja.''
 		</original>
 		<translation_prelude>
 			Atli spake:
@@ -2045,12 +2055,12 @@
 	</block>
 	<block class="stanza" number="97">
 		<original_prelude>
-
+			Guþru`n kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``kno~rr mun ek kaupa<sep />ok kistu steinda,<br />
+			vexa vel bla_e`ju,<sep />at verja þitt li`ki,<br />
+			hyggja a` þo~rf hverja,<sep />sem vit holl va_e`rim.''
 		</original>
 		<translation_prelude>
 			Guthrun spake:
@@ -2068,10 +2078,10 @@
 	</block>
 	<block class="stanza" number="98">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Na`r varþ þa` Atli:<sep />niþjum stri`þ o/`xti;<br />
+			efndi i`trborin<sep />allt þats re`þ heita;<br />
+			fro`þ vildi Guþru`n<sep />fara se`r at spilla:<br />
+			urþu dvo~l do/`gra,<sep />do` i` sinn annat.
 		</original>
 		<translation>
 			Then did Atli die,<sep />and his heirs' grief doubled;<br />
@@ -2086,10 +2096,10 @@
 	</block>
 	<block class="stanza" number="99">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sa_e`ll es hverr si`þan,<sep />es <conj>sli`k</conj> getr fo/`þa<br />
+			jo`þ at afreki,<sep />sem es o`l Gju`ki:<br />
+			lifa mun þat eptir<sep />a` landi hverju<br />
+			þeira þra`ma_e`li,<sep />hvargis þjo`þ heyrir.
 		</original>
 		<translation>
 			Full happy shall he be<sep />who such offspring has,<br />
