@@ -828,7 +828,7 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			Flykþusk þeir Atli<sep />ok fo~ru i` brynjur,<br />
+			Flykþusk þeir Atli<sep />ok fo`ru i` brynjur,<br />
 			gengu sva` go~rvir,<sep />at vas garþr milli.
 		</original>
 		<translation>
@@ -839,8 +839,8 @@
 			It is probable that a considerable passage has been lost between stanzas <sr>39</sr> and <sr>40</sr>, for the <src>Volsungasaga</src> paraphrase includes a dialogue at this point.
 			The manuscript indicates no gap, and most editions combine stanzas <sr>39</sr> and <sr>40</sr> as a single stanza.
 			The prose passage, indicating the substance of what, if any thing, is lost, runs as follows:
-			```Be welcome among us, and give me that store of gold which is ours by right, the gold that Sigurth had, and that now belongs to Guthrun.'
-			Gunnar said: `Never shalt thou get that gold, and men of might shalt thou find here, ere we give up our lives, if it is battle thou dost offer us; in truth it seems that thou hast prepared this feast in kingly fashion, and with little grudging toward eagle and wolf.'''
+			`` `Be welcome among us, and give me that store of gold which is ours by right, the gold that Sigurth had, and that now belongs to Guthrun.'
+			Gunnar said: `Never shalt thou get that gold, and men of might shalt thou find here, ere we give up our lives, if it is battle thou dost offer us; in truth it seems that thou hast prepared this feast in kingly fashion, and with little grudging toward eagle and wolf.' ''
 			The demand for the treasure likewise appears in the Nibelungenlied.
 		</comment>
 	</block>
@@ -848,7 +848,7 @@
 	<block class="stanza" number="40">
 		<original>
 			Urþusk a` orþum<sep />allir senn reiþir:<br />
-			``gengu sva` go~rvir,<sep />at vas garþr milli.''
+			``Fyrr vo~rum fullra`þa<sep />at firra yþr li`fi.''
 		</original>
 		<translation>
 			Then came they to words,<sep />and full wrathful they were:<br />
@@ -1493,13 +1493,13 @@
 			Soon the men were gathered<sep />with mighty uproar.
 		</translation>
 		<comment>
-			Many editions make a separate stanza of lines 1--2, some of them suggesting the loss of two lines, and combine lines 5--4 with lines 1--2 of stanza <sr>72</sr>.
+			Many editions make a separate stanza of lines 1--2, some of them suggesting the loss of two lines, and combine lines 3--4 with lines 1--2 of stanza <sr>72</sr>.
 			The manuscript marks both lines 1 and 3 as beginning stanzas.
 		</comment>
 	</block>
 	<block class="stanza" number="72">
 		<original>
-			Steo~ng vas sto`rhuguþ,<sep />stri`ddi a_e`tt Buþla,<br />
+			Stro~ng vas sto`rhuguþ,<sep />stri`ddi a_e`tt Buþla,<br />
 			vildi ver si`num<sep /><conj>vinna</conj> ofrhefndir:<br />
 			lokkaþi litla<sep />ok lagþi viþ stokki,<br />
 			glu`pnuþu grimmir<sep />ok gre`tu þeygi,<br />
@@ -1515,7 +1515,8 @@
 		<comment>
 			The manuscript marks line 3 as beginning a new stanza; some editions make a separate stanza of lines 3--5, while others combine them with lines 1--2 of stanza <sr>73</sr>.
 			Line 2 in the original is clearly defective, the verb being omitted.
-			The meaning of line 3 is uncertain; the <src>Volsungasaga</src> paraphrase has: ``At evening she took the sons of King Atli (Erp and Eitil) where they were playing with a block of wood.''
+			The meaning of line 3 is uncertain; the <src>Volsungasaga</src> paraphrase has:
+			``At evening she took the sons of King Atli (Erp and Eitil) where they were playing with a block of wood.'' <textprose class="original">(to`k hon (Guþru`n) sonu þeira Atla konungs, er þeir le`ku viþ stokki.)</textprose>
 			Probably the text of the line as we have it is faulty.
 			Lines 4--5 may possibly have been expanded out of a single line, or line 5 may be spurious.
 		</comment>
