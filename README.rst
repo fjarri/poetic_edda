@@ -333,12 +333,18 @@ Atlakvitha en Grönlenzka (9 July 2011)
 * Added Atlakvitha en Grönlenzka chapter;
 * Fixed some references to Atlakvitha
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Atlamol en Grönlenzku (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Atlamol en Grönlenzku (20 July 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Added Atlamol en Grönlenzku chapter;
 * Hymiskvitha: fixed typesetting of stanzas in comments
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarhvot (planned)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Add Guthrunarhvot chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
