@@ -333,6 +333,13 @@ Atlakvitha en Grönlenzka (9 July 2011)
 * Added Atlakvitha en Grönlenzka chapter;
 * Fixed some references to Atlakvitha
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Atlamol en Grönlenzku (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Added Atlamol en Grönlenzku chapter;
+* Hymiskvitha: fixed typesetting of stanzas in comments
+
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -356,7 +363,7 @@ Tasks for distant future
   a bit bigger than between two normal lines.
   See any <stanzaprelude> usage in Bellows book.
 * Check spaces between single and double quotes and between double quotes and apostrophes
-  (thin space needed?)
+  (thin space needed?); if there's space, it should be unbreakable
 * Put original and translated textstanzas in comments side-by-side
   (and delete parentheses from original stanzas)
 * Check that phrases like 'prose after stanza 5' are single references to prose,

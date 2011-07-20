@@ -246,7 +246,7 @@
 			The friend of mankind,<sep />and Veur they call him.
 		</translation>
 		<comment>
-			Two or three editors give this stanza a superscription (<linestanza class="translation">“The concubine spake”</linestanza><linestanza class="original">—“Frilla kvaþ”</linestanza>, <linestanza class="translation">“The daughter spake”</linestanza><linestanza class="original">—“Dōttir kvaþ”</linestanza>).
+			Two or three editors give this stanza a superscription (“The concubine spake”<textprose class="original">—“Frilla kvaþ”</textprose>, “The daughter spake”<textprose class="original">—“Dōttir kvaþ”</textprose>).
 			Line 3 is commonly regarded as spurious.
 			<expl>The foeman of Hroth</expl>: of course this means Thor, but nothing is known of any enemy of his by this name.
 			Several editors have sought to make a single word meaning “the famous enemy” out of the phrase.
@@ -554,7 +554,13 @@
 		</translation>
 		<comment>
 			No superscription in the manuscripts.
-			In its place Bugge supplies a line:—<linestanza class="translation">“These words spake Hymir,<sep />the giant wise.</linestanza> <linestanza class="original">(“Þā kvaþ þat Hymir,<sep />hundvīss jǫtunn.”)</linestanza>
+			In its place Bugge supplies a line:—
+			<textstanza class="translation">
+				“These words spake Hymir,<sep />the giant wise.
+			</textstanza>
+			<textstanza class="original">
+				(“Þā kvaþ þat Hymir,<sep />hundvīss jǫtunn.”)
+			</textstanza>
 			The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza <stanzaref chapter="Hymiskvitha">28</stanzaref>.
 			<expl>Goat of the flood</expl>: boat.
 		</comment>
@@ -740,7 +746,13 @@
 		</translation>
 		<comment>
 			No gap is indicated in the manuscripts.
-			Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: <linestanza class="translation">“Who with Hymir<sep />followed after.”</linestanza> <linestanza class="original">(“er meþ Hymi<sep />eptir fōru.”)</linestanza>
+			Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts:
+			<textstanza class="translation">
+				Who with Hymir<sep />followed after.
+			</textstanza>
+			<textstanza class="original">
+				(er meþ Hymi<sep />eptir fōru.)
+			</textstanza>
 			<expl>Whales of the waste</expl>: giants.
 		</comment>
 	</block>
