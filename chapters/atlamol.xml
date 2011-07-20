@@ -733,7 +733,7 @@
 			Perhaps two lines have been lost after line 2; Grundtvig supplies:
 			<textstanza class="translation">
 				Then weeping did<sep />Glaumvor go to her rest-bed,<br />
-				And sadly did Bera<sep />her spinning wheel seek.”
+				And sadly did Bera<sep />her spinning wheel seek.
 			</textstanza>
 			<textstanza class="original">
 				(Glaumvǫr grātandi<sep />gekk til hvīlbeþjar,<br />
@@ -1516,7 +1516,7 @@
 			The manuscript marks line 3 as beginning a new stanza; some editions make a separate stanza of lines 3–5, while others combine them with lines 1–2 of stanza <stanzaref chapter="Atlamol">73</stanzaref>.
 			Line 2 in the original is clearly defective, the verb being omitted.
 			The meaning of line 3 is uncertain; the <source>Volsungasaga</source> paraphrase has:
-			“At evening she took the sons of King Atli (Erp and Eitil) where they were playing with a block of wood.” <textprose class="original">(tōk hon (Guþrūn) sonu þeira Atla konungs, er þeir lēku viþ stokki.)</textprose>
+			“At evening she took the sons of King Atli (Erp and Eitil) where they were playing with a block of wood.” <textprose class="original">(“tōk hon (Guþrūn) sonu þeira Atla konungs, er þeir lēku viþ stokki.”)</textprose>
 			Probably the text of the line as we have it is faulty.
 			Lines 4–5 may possibly have been expanded out of a single line, or line 5 may be spurious.
 		</comment>
@@ -1545,7 +1545,7 @@
 		<comment>
 			The manuscript does not name the speakers.
 			It indicates line 3 as beginning a new stanza, in which it is followed by many editions.
-			The <source>Volsungasaga</source> paraphrases line 4 thus: “But it is shameful for thee to do this.”
+			The <source>Volsungasaga</source> paraphrases line 4 thus: “But it is shameful for thee to do this.” <textprose class="original">(“en þēr er skǫmm i at gøra þetta.”)</textprose>
 			Either the text of the line has been changed or the <source>Volsungasaga</source> compilers misunderstood it.
 			<expl>The angry one</expl>: Atli.
 		</comment>
@@ -1899,7 +1899,6 @@
 			<textstanza class="original">
 				(mara mēlgreypa,<sep />marga hvelvagna.)
 			</textstanza>
-			Line 4 may be spurious.
 			<expl>Greater</expl>: i. e., the silver which Atli gave Guthrun was of greater value even than the honor of receiving such royal gifts.
 			Line 4 may be spurious.
 		</comment>
@@ -2010,7 +2009,7 @@
 		</translation>
 		<comment>
 			<expl>Hun-king</expl>: Sigurth, though most illogically so called; cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">4</stanzaref> and note.
-			The <source>Volsungasaga</source> paraphrase of line 2 is so remote as to be puzzling: “It was little to bear the name of widow.”
+			The <source>Volsungasaga</source> paraphrase of line 2 is so remote as to be puzzling: “It was little to bear the name of widow.” <textprose class="original">(“var þat lītit at bera ekkju nafn.”)</textprose>
 			Perhaps, however, the word “not” fell out between “was” and “little.”
 		</comment>
 	</block>
@@ -2031,7 +2030,7 @@
 			<expl>Thing</expl>, etc.: here the poet makes Atli into a typical Norse land-owner, going to the “Thing,” or general law council, to settle his disputes.
 			Even the compilers of the <source>Volsungasaga</source> could not accept this, and in their paraphrase changed “Thing” to “battle.”
 			The text of the second half of line 2 is uncertain.
-			The manuscript leaves a blank to indicate the gap in-line 4; Grundtvig adds: “as beseems not a king.” <textprose class="original">(es konungr skyldit.)</textprose>
+			The manuscript leaves a blank to indicate the gap in line 4; Grundtvig adds: “as beseems not a king.” <textprose class="original">(“es konungr skyldit.”)</textprose>
 		</comment>
 	</block>
 	<block class="stanza" number="96">
