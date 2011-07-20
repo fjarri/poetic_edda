@@ -491,8 +491,8 @@ def listToTex(l):
 					not i == len(l) - 1:
 				res[-1] += u'\\noindent'
 
-		elif tag == 'linestanza':
-			res.append(listToTex(text))
+		elif tag == 'textprose':
+			res.append(u'\\texticelandic{' + text + u'}')
 
 		else:
 			raise Exception("Wrong markup tag: " + tag)
