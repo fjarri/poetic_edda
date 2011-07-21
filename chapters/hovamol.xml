@@ -1027,7 +1027,7 @@
 			</textstanza>
 			<textstanza class="original">
 				(gǣtinn ok geyminn<sep />skyli gumna hverr<br />
-				ok varr at vintrausti)
+				ok varr at vintrausti.)
 			</textstanza>
 		</comment>
 	</block>
@@ -1196,7 +1196,7 @@
 			Of friends the falsest it is.
 		</translation>
 		<comment>
-			In the manuscript this stanza follows <stanzaref chapter="Hovamol">79</stanzaref>, the order being: <stanzaref chapter="Hovamol">77</stanzaref>, <stanzaref chapter="Hovamol">78</stanzaref>, <stanzaref chapter="Hovamol">76</stanzaref>, <stanzaref chapter="Hovamol">80</stanzaref>, <stanzaref chapter="Hovamol">79</stanzaref>, <stanzaref chapter="Hovamol">81</stanzaref>.
+			In the manuscript this stanza follows <stanzaref chapter="Hovamol">78</stanzaref>, the order being: <stanzaref chapter="Hovamol">77</stanzaref>, <stanzaref chapter="Hovamol">78</stanzaref>, <stanzaref chapter="Hovamol">76</stanzaref>, <stanzaref chapter="Hovamol">80</stanzaref>, <stanzaref chapter="Hovamol">79</stanzaref>, <stanzaref chapter="Hovamol">81</stanzaref>.
 			<expl>Fitjung</expl> (“the Nourisher”): Earth.
 		</comment>
 	</block>
@@ -1387,7 +1387,7 @@
 			</textstanza>
 			<textstanza class="original">
 				(heiþrīkum himni,<sep />hlǣjanda herra,<br />
-				hunda gelti<sep />ok harmi skø̄kju)
+				hunda gelti<sep />ok harmi skø̄kju.)
 			</textstanza>
 		</comment>
 	</block>
@@ -1739,11 +1739,6 @@
 			Had not Gunnloth helped me,<sep />the maiden good,<br />
 			Whose arms about me had been.
 		</translation>
-		<comment>
-			<expl>Hor</expl>: Othin (“the High One”).
-			The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza <stanzaref chapter="Hovamol">110</stanzaref> to was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.
-			The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring.
-		</comment>
 	</block>
 	<block class="stanza" number="109">
 		<original>
@@ -1760,6 +1755,11 @@
 			Of Bolverk they asked,<sep />were he back midst the gods,<br />
 			Or had Suttung slain him there?
 		</translation>
+		<comment>
+			<expl>Hor</expl>: Othin (“the High One”).
+			The frost-giants, Suttung's kinsmen, appear not to have suspected Othin of being identical with Bolverk, possibly because the oath referred to in stanza <stanzaref chapter="Hovamol">110</stanzaref> was an oath made by Othin to Suttung that there was no such person as Bolverk among the gods.
+			The giants, of course, fail to get from Othin the information they seek concerning Bolverk, but Othin is keenly conscious of having violated the most sacred of oaths, that sworn on his ring.
+		</comment>
 	</block>
 	<block class="stanza" number="110">
 		<original>
@@ -2257,7 +2257,7 @@
 		</translation>
 		<comment>
 			This stanza suggests the dangers of too much hospitality.
-			The beam (bolt) which is ever being raised to admit guests be comes weak thereby.
+			The beam (bolt) which is ever being raised to admit guests becomes weak thereby.
 			It needs a ring to help it in keeping the door closed, and without the ability at times to ward off guests a man becomes the victim of his own generosity.
 		</comment>
 	</block>
@@ -2277,7 +2277,7 @@
 			I rede thee, Loddfafnir!<sep />and hear thou my rede,—<br />
 			Profit thou hast if thou hearest,<br />
 			Great thy gain if thou learnest:<br />
-			When ale thou drinkest]<sep />seek might of earth,<br />
+			When ale thou drinkest,<sep />seek might of earth,<br />
 			[For earth cures drink,<sep />and fire cures ills,<br />
 			The oak cures tightness,<sep />the ear cures magic,<br />
 			Rye cures rupture,<sep />the moon cures rage,<br />
@@ -2505,13 +2505,13 @@
 		<original>
 			Þat kannk annat<sep />es þurfu ȳta synir<br />
 			þeirs vilja lǣknar lifa<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			<lacuna />
 		</original>
 		<translation>
 			A second I know,<sep />that men shall need<br />
 			Who leechcraft long to use;<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			<lacuna />
 		</translation>
 		<comment>
@@ -2562,10 +2562,6 @@
 			It flies not so swift<sep />that I stop it not,<br />
 			If ever my eyes behold it.
 		</translation>
-		<comment>
-			The sending of a root with runes written thereon was an excellent way of causing death.
-			So died the Icelandic hero Grettir the Strong.
-		</comment>
 	</block>
 	<block class="stanza" number="152">
 		<original>
@@ -2580,6 +2576,10 @@
 			The hero himself<sep />who wreaks his hate<br />
 			Shall taste the ill ere I.
 		</translation>
+		<comment>
+			The sending of a root with runes written thereon was an excellent way of causing death.
+			So died the Icelandic hero Grettir the Strong.
+		</comment>
 	</block>
 	<block class="stanza" number="153">
 		<original>
