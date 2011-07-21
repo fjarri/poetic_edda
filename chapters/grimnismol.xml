@@ -38,7 +38,7 @@
 		The early Norse poets rarely conceived verse as a suitable means for direct story telling, and in some of the poems even the simplest action is told in prose “links” between dialogue stanzas.
 	</block>
 	<block class="text">
-		The applications of this fact, which has been too often over looked, are almost limitless, for it suggests a still unwritten chapter in the history of ballad poetry and the so-called “popular” epic.
+		The applications of this fact, which has been too often overlooked, are almost limitless, for it suggests a still unwritten chapter in the history of ballad poetry and the so-called “popular” epic.
 		It implies that narrative among early peoples may frequently have had a period of prose existence before it was made into verse, and thus puts, for example, a long series of transitional stages before such a poem as the <source>Iliad</source>.
 		In any case, the prose notes accompanying the Eddic poems prove that in addition to the poems themselves there existed in the twelfth century a considerable amount of narrative tradition, presumably in prose form, on which these notes were based by the compiler.
 	</block>
@@ -99,7 +99,7 @@
 			He wore a dark-blue mantle and called himself Grimnir, but said no more about himself, though he was questioned.<br />
 			The king had him tortured to make him speak, and set him between two fires, and he sat there eight nights.<br />
 			King Geirröth had a son ten winters old, and called Agnar after his father's brother.<br />
-			Agnar went to Grimnir, and gave him a full horn to drink from, and said that the king did ill in letting him be tormented with out cause.<br />
+			Agnar went to Grimnir, and gave him a full horn to drink from, and said that the king did ill in letting him be tormented without cause.<br />
 			Grimnir drank from the horn; the fire had come so near that the mantle burned on Grimnir's back.<br />
 			He spake:
 		</translation>
@@ -195,7 +195,7 @@
 			As a tooth-gift in ancient times.
 		</translation>
 		<comment>
-			<expl>Ydalir</expl> (“Yew-Dales”): the home of Ulf, the archer among the gods, a son of Thor's wife, Sif, by another marriage.
+			<expl>Ydalir</expl> (“Yew-Dales”): the home of Ull, the archer among the gods, a son of Thor's wife, Sif, by another marriage.
 			The wood of the yew-tree was used for bows in the North just as it was long afterwards in England.
 			<expl>Alfheim</expl>: the home of the elves.
 			<expl>Freyr</expl>: cf. <chapterref>Skirnismol</chapterref>, <proseref chapter="Skirnismol" prose="p1">introductory prose</proseref> and note.
@@ -434,7 +434,7 @@
 			On what fare the warriors feast.
 		</translation>
 		<comment>
-			Stanzas <stanzaref chapter="Grimnismol">18</stanzaref>–<stanzaref chapter="Grimnismol">20</stanzaref> appear also in Snorri's Edda.
+			Stanzas <stanzaref chapter="Grimnismol">18</stanzaref>–<stanzaref chapter="Grimnismol">20</stanzaref> appear also in Snorri's <source>Edda</source>.
 			Very possibly they are an interpolation here.
 			<expl>Eldhrimnir</expl> (“Sooty with Fire”): the great kettle in Valhall, wherein the gods' cook, <expl>Andhrimnir</expl> (“The Sooty-Faced”) daily cooks the flesh of the boar <expl>Sæhrimnir</expl> (“The Blackened”).
 			His flesh suffices for all the heroes there gathered, and each evening he becomes whole again, to be cooked the next morning.
@@ -473,7 +473,7 @@
 		</translation>
 		<comment>
 			<expl>Mithgarth</expl> (“The Middle Home”): the earth.
-			<expl>Hugin</expl> (“Thought”) and Munin (“Memory”): the two ravens who sit on Othin's shoulders, and fly forth daily to bring him news of the world.
+			<expl>Hugin</expl> (“Thought”) and <expl>Munin</expl> (“Memory”): the two ravens who sit on Othin's shoulders, and fly forth daily to bring him news of the world.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
@@ -492,7 +492,7 @@
 		<comment>
 			<expl>Thund</expl> (“The Swollen” or “The Roaring”): the river surrounding Valhall.
 			<expl>Thjothvitnir's fish</expl>: presumably the sun, which was caught by the wolf Skoll (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">40</stanzaref>), Thjothvitnir meaning “the mighty wolf.”
-			Such a phrase, characteristic of all Skaldic poetry, is rather rare in the Edda.
+			Such a phrase, characteristic of all Skaldic poetry, is rather rare in the <source>Edda</source>.
 			The last two lines refer to the attack on Valhall by the people of Hel; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">51</stanzaref>.
 		</comment>
 	</block>
@@ -969,7 +969,7 @@
 		</translation>
 		<comment>
 			With this stanza Othin gets back to his immediate situation, bound as he is between two fires.
-			He calls down a blessing on the man who will reach into the fire and pull aside the great kettle which, in Icelandic houses, hung directly under the smoke vent in the roof, and thus kept any one above from looking down into the interior.
+			He calls down a blessing on the man who will reach into the fire and pull aside the great kettle which, in Icelandic houses, hung directly under the smoke vent in the roof, and thus kept anyone above from looking down into the interior.
 			On <expl>Ull</expl>, the archer-god, cf. stanza <stanzaref chapter="Grimnismol">5</stanzaref> and note.
 			He is specified here apparently for no better reason than that his name fits the initial-rhyme.
 		</comment>
@@ -1029,7 +1029,7 @@
 			His wife is Ithun, goddess of youth.
 			Perhaps the Norwegian skald Bragi Boddason, the oldest recorded skaldic poet, had been traditionally apotheosized as early as the tenth century.
 			<expl>Hobrok</expl>: nothing further is known of him.
-			Garm: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">44</stanzaref>.
+			<expl>Garm</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">44</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="45">
@@ -1060,7 +1060,7 @@
 			Helblindi ok Hǭr,
 		</original>
 		<translation>
-			Grim is my name,<sep />Gangleri am 1,<br />
+			Grim is my name,<sep />Gangleri am I,<br />
 			Herjan and Hjalmberi,<br />
 			Thekk and Thrithi,<sep />Thuth and Uth,<br />
 			Helblindi and Hor;
@@ -1198,7 +1198,7 @@
 		<comment>
 			Again the poem returns to the direct action, Othin addressing the terrified Geirröth.
 			The manuscripts show no lacuna.
-			Some editors supply a second line from paper manuscripts: “Greatly by me art beguiled.”
+			Some editors supply a second line from paper manuscripts: “Greatly by me art beguiled.” <textprose class="original">(“miklum ertu miþi tǣldr.”)</textprose>
 		</comment>
 	</block>
 	<block class="stanza" number="52">
