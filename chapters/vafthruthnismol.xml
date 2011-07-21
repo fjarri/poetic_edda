@@ -618,7 +618,7 @@
 		<original>
 			“Vindsvalr heitir,<sep />hann es Vetrar faþir,<br />
 			en Svǭsuþr Sumars;”<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			<lacuna />
 		</original>
 		<translation_prelude>
@@ -627,7 +627,7 @@
 		<translation>
 			“Vindsval he was<sep />who was winter's father,<br />
 			And Svosuth summer begat;”<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			<lacuna />
 		</translation>
 		<comment>
@@ -639,7 +639,7 @@
 			</textstanza>
 			<textstanza class="original">
 				(ār of bǣþi þau<sep />skulu ey fara<br />
-				unz rjūfask regin;)
+				unz rjūfask regin.)
 			</textstanza>
 			Bugge ingeniously paraphrases Snorri's prose:
 			<textstanza class="translation">
@@ -648,7 +648,7 @@
 			</textstanza>
 			<textstanza class="original">
 				(Vindsvals faþir<sep />vas Vǭsuþr of heitinn<br />
-				ǫll es sū ǣtt til ǫtul;)
+				ǫll es sū ǣtt til ǫtul.)
 			</textstanza>
 			<expl>Vindsval</expl>: “the Wind-Cold,” also called Vindljoni, “the Wind-Man.”
 			<expl>Svosuth</expl>: “the Gentle.”
@@ -934,7 +934,7 @@
 		<original>
 			“Seg þat et ellifta,<sep /><conj>alls þik svinnan kveþa</conj>,<br />
 			<conj>ef þū, Vafþrūþnir! vitir</conj>:<br />
-			<conj>hverir'u ȳtar</conj><sep /><conj>es Ōþins</conj> tūnum ī<br />
+			<conj>hverir'u ȳtar</conj><sep /><conj>es</conj> ī </conj>Ōþins</conj> tūnum<br />
 			hǫggvask hverjan dag?”
 		</original>
 		<translation_prelude>
@@ -1124,7 +1124,7 @@
 		</translation>
 		<comment>
 			Snorri quotes this stanza.
-			<expl>Alfrothul</expl> (“the Elf-Beam”) the sun.
+			<expl>Alfrothul</expl> (“the Elf-Beam”): the sun.
 		</comment>
 	</block>
 	<block class="stanza" number="48">
@@ -1217,7 +1217,7 @@
 		<comment>
 			<expl>Vithar</expl>: a son of Othin, who slays the wolf Fenrir; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">54</stanzaref> and note.
 			<expl>Vali</expl>: the son whom Othin begot to avenge Baldr's death; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref> and note.
-			<expl>Mothi</expl> (“Wrath”) and Magni (“Might”): the sons of the god Thor, who after his death inherit his famous hammer, Mjollnir.
+			<expl>Mothi</expl> (“Wrath”) and <expl>Magni</expl> (“Might”): the sons of the god Thor, who after his death inherit his famous hammer, Mjollnir.
 			Concerning this hammer cf. especially <chapterref>Thrymskvitha</chapterref>, passim.
 			<expl>Vingnir</expl> (“the Hurler”): Thor.
 			Concerning his death cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">56</stanzaref>.
@@ -1294,7 +1294,7 @@
 				When to the bale-fire they bore him?
 			</textstanza>
 			<textstanza class="original">
-				(ī eyra Baldri<br />
+				(<lacuna /><sep />ī eyra Baldri<br />
 				āþr [hann] vas ā bāl of borinn?)
 			</textstanza>
 			For Baldr's death cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref> and note.
