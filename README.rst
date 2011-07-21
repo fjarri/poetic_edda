@@ -396,3 +396,6 @@ Tasks for distant future
 * Find all comments which start from <sr>*</sr>--<sr>*</sr> and replace
   them by <block class="comment"> (and corresponding references)
   And probably change the style, to make it look more distinctive.
+* Grimnismol, 33, comment: Latex considers '.' after the second 'Mss.' as
+  a final dot in the sentence. Can I prevent it from doing that?
+  Same in st. 43, 'Ms.'
