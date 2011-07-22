@@ -498,13 +498,13 @@
 		<original>
 			Hreingǫlkn hlumþu,<sep />en hǫlkn þutu,<br />
 			fōr en forna<sep />fold ǫll saman:<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			søkþisk sīþan<sep />sā fiskr ī mar.
 		</original>
 		<translation>
 			The monsters roared,<sep />and the rocks resounded,<br />
 			And all the earth<sep />so old was shaken;<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			Then sank the fish<sep />in the sea forthwith.
 		</translation>
 		<comment>
@@ -517,13 +517,13 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			ōteitr jǫtunn,<sep />es aptr røru:<br />
 			svāt at ǭr Hymir<sep />etki mǣlti,<br />
 			veifþi rø̄þi<sep />veþrs annars til.
 		</original>
 		<translation>
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			Joyless as back<sep />they rowed was the giant;<br />
 			Speechless did Hymir<sep />sit at the oars,<br />
 			With the rudder he sought<sep />a second wind.
