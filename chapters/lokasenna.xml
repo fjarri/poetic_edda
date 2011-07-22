@@ -18,7 +18,7 @@
 	</block>
 	<block class="text">
 		The poem is one of the most vigorous of the entire collection, and seems to have been preserved in exceptionally good condition.
-		The exchange or contest of insults was dear to the Norse heart, and the <chapterref>Lokasenna</chapterref> consists chiefly of Loki's taunt; to the assembled gods and goddesses, and their largely ineffectual attempts to talk back to him.
+		The exchange or contest of insults was dear to the Norse heart, and the <chapterref>Lokasenna</chapterref> consists chiefly of Loki's taunts to the assembled gods and goddesses, and their largely ineffectual attempts to talk back to him.
 		The author was evidently well versed in mythological fore, and the poem is full of references to incidents not elsewhere recorded.
 		As to its date and origin there is the usual dispute, but the latter part of the tenth century and Iceland seem the best guesses.
 	</block>
@@ -193,8 +193,8 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			“Þyrstr ek køm<sep />þessar hallar til,<br />
-			Loptr, of langan veg,<br />
+			“Þyrstr ek <conj>køm</conj><sep />þessar hallar til,<br />
+			Loptr, <conj>of</conj> langan veg,<br />
 			ǭsu at biþja,<sep />at mēr einn gefi<br />
 			mǣran drykk mjaþar.
 		</original>
@@ -327,7 +327,7 @@
 			“Mar ok mǣki<sep />gefk þer mīns fear<br />
 			ok bø̄tir svā baugi Bragi,<br />
 			sīþr þū ǭsum<sep />ǫfund of gjaldir;<br />
-			gremjat goþ at þēr!”
+			<conj>gremjat</conj> goþ at þēr!”
 		</original>
 		<translation_prelude>
 			Bragi spake:
@@ -370,9 +370,9 @@
 		</original_prelude>
 		<original>
 			“Veitk, ef fyr ūtan vǣrak,<sep />sem fyr innan emk<br />
-			Ægis hǫll of kominn,<br />
+			<conj>Hlēs</conj> hǫll of kominn,<br />
 			haufuþ þitt<sep />bǣrak ī hendi mēr:<br />
-			lētak þēr þat fyr lygi.”
+			<conj>lētak</conj> þēr þat fyr lygi.”
 		</original>
 		<translation_prelude>
 			Bragi spake:
@@ -415,9 +415,9 @@
 			Īþunn kvaþ:
 		</original_prelude>
 		<original>
-			“Biþk þik, Bragi!<sep />barna sifjar duga<br />
+			“Biþk <conj>þik,</conj> Bragi!<sep />barna sifjar duga<br />
 			ok allra ōskmaga,<br />
-			at þū Loka kveþjat<sep />lastastǫfum<br />
+			at þū Loka <conj>kveþjat</conj><sep />lastastǫfum<br />
 			Ægis hǫllu ī.”
 		</original>
 		<translation_prelude>
@@ -486,8 +486,8 @@
 		<original>
 			“Hvi it ǣsir tveir<sep />skuluþ inni hēr<br />
 			sāryrþum sakask?<br />
-			Loka þat veit,<sep />at hann leikinn es<br />
-			ok hann fjǫrg ǫll fiar.”
+			<conj>Loka</conj> þat veit,<sep />at hann leikinn es<br />
+			ok hann fjǫrg ǫll <conj>fiar.</conj>”
 		</original>
 		<translation_prelude>
 			Gefjun spake:
@@ -510,7 +510,7 @@
 		</original_prelude>
 		<original>
 			“Þegi þū, Gefjun!<sep />þess munk nū geta,<br />
-			hverr þik glapþi at geþi:<br />
+			<conj>hverr</conj> þik glapþi at geþi:<br />
 			sveinn enn hvīti<sep />þēr sigli gaf<br />
 			ok þū lagþir lǣr yfir.”
 		</original>
@@ -537,7 +537,7 @@
 		<original>
 			Œrr est, Loki!<sep />ok ørviti,<br />
 			es þū fǣr þēr Gefjun at gremi:<br />
-			þvīt aldar ørlǫg<sep />hykk at ǫll of viti<br />
+			þvīt aldar ørlǫg<sep />hykk at ǫll <conj>of</conj> viti<br />
 			jafngǫrla sem ek.”
 		</original>
 		<translation_prelude>
@@ -560,7 +560,7 @@
 		<original>
 			“Þegi þū, Ōþinn!<sep />þū kunnir aldri<br />
 			deila vīg meþ verum:<br />
-			opt þū gaft<sep />þeims gefa nē skyldir<br />
+			opt þū gaft<sep />þeims gefa <conj>nē</conj> skyldir<br />
 			enum slǣvurum sigr.”
 		</original>
 		<translation_prelude>
@@ -582,7 +582,7 @@
 			enum slǣvurum sigr:<br />
 			ātta vetr<sep />vastu fyr jǫrþ neþan<br />
 			kȳr molkandi ok kona<br />
-			ok hefr þar bǫrn of borit,<br />
+			ok hefr þar <conj>bǫrn of</conj> borit,<br />
 			ok hugþak þat args aþal.”
 		</original>
 		<translation_prelude>
@@ -611,7 +611,7 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			“En þik sīþa<sep />kvǭþu Sāmseyju ī,<br />
+			“En þik <conj>sīþa</conj><sep />kvǭþu Sāmseyju ī,<br />
 			ok drapt ā vētt sem vǫlur:<br />
 			vitka līki<sep />fōrtu verþjōþ yfir,<br />
 			ok hugþak þat args aþal.”
@@ -661,7 +661,7 @@
 			“Þegi þū, Frigg!<sep />þū'st Fjǫrgyns mǣr<br />
 			ok hefr æ vergjǫrn verit,<br />
 			es þā Vea ok Vilja<sep />lēztu þēr, Viþris kvǣn!<br />
-			bāþa ī baþm of tekit.”
+			bāþa ī baþm <conj>of</conj> tekit.”
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -675,7 +675,7 @@
 		<comment>
 			<expl>Fjorgyn</expl>: Othin; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">56</stanzaref> and note.
 			<expl>Vili</expl> and <expl>Ve</expl>: Othin's brothers, who appear merely as, with Othin, the sons of Bur and Bestla; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">4</stanzaref>.
-			The Ynglingasaga says that, during one of Othin's protracted absences, his two brothers took Frigg as their mistress.
+			The <source>Ynglingasaga</source> says that, during one of Othin's protracted absences, his two brothers took Frigg as their mistress.
 			<expl>Vithrir</expl>: another name for Othin.
 		</comment>
 	</block>
@@ -781,8 +781,8 @@
 		</original_prelude>
 		<original>
 			“Flǭ's þēr tunga,<sep />hykk at þēr fremr myni<br />
-			ōgott of gala;<br />
-			vreiþir'u þēr ǣsir<sep />ok āsynjur,<br />
+			ōgott <conj>of</conj> gala;<br />
+			vreiþir'u þēr ǣsir,<sep /><conj>vreiþar</conj> āsynjur,<br />
 			hryggr munt heim fara.”
 		</original>
 		<translation_prelude>
@@ -802,7 +802,7 @@
 		<original>
 			“Þegi þū, Freyja!<sep />þū'st fordǣþa<br />
 			ok meini blandin mjǫk:<br />
-			þik at brø̄þr þīnum<sep />stōþu blīþ regin,<br />
+			<conj>þik</conj> at brø̄þr þīnum<sep /><conj>stōþu</conj> blīþ regin,<br />
 			ok mundir þā, Freyja! frata.”
 		</original>
 		<translation_prelude>
@@ -824,9 +824,9 @@
 			Njǫrþr kvaþ:
 		</original_prelude>
 		<original>
-			“Þat's vǭ litil,<sep />þōt sēr vers faï<br />
+			“Þat's <conj>vǭ</conj> litil,<sep />þōt sēr vers faï<br />
 			varþir, hōss eþa hvārs;<br />
-			undr's at ǭss ragr<sep />es hēr inn of kominn<br />
+			undr's <conj>at</conj> ǭss ragr<sep />es hēr inn of kominn<br />
 			ok hefr sā bǫrn of borit.”
 		</original>
 		<translation_prelude>
@@ -850,7 +850,7 @@
 		</original_prelude>
 		<original>
 			“Þegi þū, Njǫrþr!<sep />þū vast austr heþan<br />
-			gīsl of sendr at goþum;<br />
+			gīsl <conj>of</conj> sendr at goþum;<br />
 			Hymis meyjar<sep />hǫfþu þik at hlandtrogi<br />
 			ok þēr ī munn migu.”
 		</original>
@@ -874,7 +874,7 @@
 		</original_prelude>
 		<original>
 			“Sū erumk līkn,<sep />es vask langt heþan<br />
-			gīsl of sendr at goþum:<br />
+			gīsl <conj>of</conj> sendr at goþum:<br />
 			þa ek mǫg gat<sep />þanns manngi fiar,<br />
 			ok þykkir sā āsa jaþarr.”
 		</original>
@@ -911,7 +911,7 @@
 			Thus hadst thou no worse a hope.”
 		</translation>
 		<comment>
-			<expl>Thy sister</expl>: the Ynglingasaga supports this story of Njorth's having had two children by his sister before he came among the gods.
+			<expl>Thy sister</expl>: the <source>Ynglingasaga</source> supports this story of Njorth's having had two children by his sister before he came among the gods.
 			Snorri, on the other hand, specifically says that Freyr and Freyja were born after Njorth came to the gods.
 		</comment>
 	</block>
@@ -968,7 +968,7 @@
 			Tȳrr kvaþ:
 		</original_prelude>
 		<original>
-			“Handar emk vanr,<sep />en þū Hrōþvitnis,<br />
+			“Handar emk vanr,<sep />en þū <conj>Hrōþ</conj>vitnis,<br />
 			bǫl es beggja þrǭ:<br />
 			ulfgi hefr ok vel<sep />es ī <conj>jǫrnum</conj> skal<br />
 			bīþa ragna røkkrs.”
@@ -1016,7 +1016,7 @@
 		</original_prelude>
 		<original>
 			“Ulf sēk liggja<sep />ārōsi fyrir,<br />
-			unz of rjūfask regin;<br />
+			unz <conj>of</conj> rjūfask regin;<br />
 			þvī munt nǣst,<sep />nema nū þegir,<br />
 			bundinn, bǫlvasmiþr!”
 		</original>
@@ -1184,8 +1184,8 @@
 		</original_prelude>
 		<original>
 			“Þegi þū, Heimdallr!<sep />þēr vas ī ārdaga<br />
-			et ljōta līf of lagit:<br />
-			ǫrþgu baki<sep />þū munt ǣ vesa<br />
+			et ljōta līf <conj>of</conj> lagit:<br />
+			<conj>ǫrþgu</conj> baki<sep />þū munt ǣ vesa<br />
 			ok vaka vǫrþr goþa.”
 		</original>
 		<translation_prelude>
@@ -1219,7 +1219,7 @@
 		</translation>
 		<comment>
 			<expl>Skathi</expl>: the wife of Njorth, and daughter of the giant Thjazi, concerning whose death cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">19</stanzaref>, note.
-			<expl>Bowels, etc.</expl>: according to the prose note at the end of the <chapterref>Lokasenna</chapterref>, the gods bound Loki with the bowels of his son Vali, and changed his other son, Narfi, into a wolf.
+			<expl>Bowels</expl>, etc.: according to the <proseref chapter="Lokasenna" prose="conclusion">prose note</proseref> at the end of the <chapterref>Lokasenna</chapterref>, the gods bound Loki with the bowels of his son Vali, and changed his other son, Narfi, into a wolf.
 			Snorri turns the story about Vali being the wolf, who tears his brother to pieces, the gods then using Narfi's intestines to bind Loki.
 			Narfi—and presumably Vali—were the sons of Loki and his wife, Sigyn.
 			They appear only in this episode, though Narfi (or Nari) is named by Snorri in his list of Loki's children.
@@ -1274,7 +1274,7 @@
 			“Lēttari ī mǭlum<sep />vastu viþ Laufeyjar sun,<br />
 			þās þū lēzt mer ā beþ þinn boþit:<br />
 			getit verþr oss slīks,<sep />ef vēr gǫrva skulum<br />
-			telja vǫmm enn vǭr.”
+			telja vǫmm <conj>enn</conj> vǭr.”
 		</original>
 		<translation_prelude>
 			Loki spake:
@@ -1288,13 +1288,13 @@
 		<comment>
 			<expl>Laufey's son</expl>: Loki; not much is known of his parents beyond their names.
 			His father was the giant Farbauti, his mother Laufey, sometimes called Nal.
-			There is an elaborate but far fetched hypothesis explaining these three on the basis of a nature-myth.
+			There is an elaborate but far-fetched hypothesis explaining these three on the basis of a nature-myth.
 			There is no other reference to such a relation between Skathi and Loki as he here suggests.
 		</comment>
 	</block>
 	<block class="prose" label="p52">
 		<original>
-			Þā gekk Sif fram ok byrlaþi Loka ī hrīmkalki mjǫþ ok mælti:
+			Þā gekk <conj>Sif</conj> fram ok byrlaþi Loka ī hrīmkalki mjǫþ ok mælti:
 		</original>
 		<translation>
 			Then Sif came forward and poured mead for Loki in a crystal cup, and said:
@@ -1305,7 +1305,7 @@
 			“Heill ves nū, Loki!<sep />ok tak viþ hrīmkalki<br />
 			fullum forns mjaþar,<br />
 			heldr hana eina<sep />lātir meþ āsa sunum<br />
-			vammalausa vesa.”
+			vamma<conj>lausa</conj> vesa.”
 		</original>
 		<translation>
 			“Hail to thee, Loki,<sep />and take thou here<br />
@@ -1402,7 +1402,7 @@
 			“Þegi þū, rǫg vǣttr!<sep />þēr skal minn þrūþhamarr<br />
 			Mjǫllnir māl fyrnema;<br />
 			herþaklett<sep />drepk þēr halsi af,<br />
-			ok verþr þā þīnu fjǫrvi of farit.”
+			ok verþr þā þīnu fjǫrvi <conj>of</conj> farit.”
 		</original>
 		<translation>
 			“Unmanly one, cease,<sep />or the mighty hammer,<br />
@@ -1412,7 +1412,7 @@
 		</translation>
 		<comment>
 			<expl>Mjollnir</expl>: concerning Thor's famous hammer see particularly <chapterref>Thrymskvitha</chapterref>, <stanzaref chapter="Thrymskvitha">1</stanzaref> and note.
-			<expl>Shoulder-cliff</expl>: head; concerning the use of such diction in the Edda, cf. <chapterref chapter="Hymiskvitha">introductory note</chapterref> to <chapterref>Hymiskvitha</chapterref>.
+			<expl>Shoulder-cliff</expl>: head; concerning the use of such diction in the Edda, cf. <ref chapter="Hymiskvitha">introductory note</ref> to <chapterref>Hymiskvitha</chapterref>.
 			The manuscript indicates line 3 as the beginning of a stanza, but this is apparently a scribal error.
 		</comment>
 	</block>
@@ -1494,7 +1494,7 @@
 			Þōrr kvaþ:
 		</original_prelude>
 		<original>
-			“Þegi þū, rǫg vǣttr! þēr skal minn þrūþhamarr<sep /><br />
+			“Þegi þū, rǫg vǣttr!<sep />þēr skal minn þrūþhamarr<br />
 			Mjǫllnir māl fyrnema;<br />
 			hendi hø̄gri<sep />drepk þik Hrungnis bana,<br />
 			svāt þer brotnar beina hvat.”
@@ -1565,7 +1565,7 @@
 			Loki kvaþ:
 		</original_prelude>
 		<original>
-			“Kvaþk fyr ǭsum,<sep />kvaþk fyr āsa sunum<br />
+			“Kvaþk fyr ǭsum,<sep />kvaþk fyr <conj>āsynjum</conj><br />
 			þats mik hvatti hugr;<br />
 			en fyr þēr einum<sep />munk ūt ganga,<br />
 			þvīt ek veit at vegr.
@@ -1583,7 +1583,7 @@
 	<block class="stanza" number="65">
 		<original>
 			Ǫl gørþir, Ægir!<sep />en þū aldri munt<br />
-			sīþan sumbl of gøra:<br />
+			sīþan sumbl <conj>of</conj> gøra:<br />
 			eiga þīn ǫll,<sep />es hēr inni es,<br />
 			leiki yfir logi<br />
 			ok brinni þēr ā baki!”
@@ -1622,7 +1622,7 @@
 			<expl>Franang</expl>: “Gleaming Water.”
 			<expl>Vali</expl> and <expl>Narfi</expl>: cf. stanza <stanzaref chapter="Lokasenna">49</stanzaref> and note.
 			<expl>Sigyn</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref>, the only other place where she is mentioned in the poems.
-			Snorri omits the naive note about earth quakes, his narrative ending with the words, “And there he lies till the destruction of the gods.”
+			Snorri omits the naive note about earthquakes, his narrative ending with the words, “And there he lies till the destruction of the gods.”
 		</comment>
 	</block>
 </chapter>
