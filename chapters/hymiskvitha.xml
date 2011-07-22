@@ -59,7 +59,7 @@
 		<comment>
 			<expl>Twigs</expl>: Vigfusson comments at some length on “the rite practised in the heathen age of inquiring into the future by dipping bunches of chips or twigs into the blood (of sacrifices) and shaking them.” But the two operations may have been separate, the twigs being simply “divining-rods” marked with runes.
 			In either case, the gods were seeking information by magic as to where they could find plenty to drink.
-			<expl>Ægir</expl>: a giant who is also the god of the sea; little is known of him outside of what is told here and in the introductory prose to the Lokasenna, though Snorri has a brief account of him, giving his home as Hlesey (Läsö, cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">37</stanzaref>).
+			<expl>Ægir</expl>: a giant who is also the god of the sea; little is known of him outside of what is told here and in the <proseref chapter="Lokasenna" prose="p1">introductory prose</proseref> to the <chapterref>Lokasenna</chapterref>, though Snorri has a brief account of him, giving his home as Hlesey (Läsö, cf. <chapterref>Harbarthsljoth</chapterref>, <stanzaref chapter="Harbarthsljoth">37</stanzaref>).
 			<chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">45</stanzaref>, has a reference to this same feast.
 		</comment>
 	</block>
@@ -338,12 +338,12 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			Vëurr kvazk vilja<sep />ā vāg roa,<br />
 			ef ballr jǫtunn<sep />beitur gǣfi.
 		</original>
 		<translation>
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			Fain to row on the sea<sep />was Veur, he said,<br />
 			If the giant bold<sep />would give him bait.
 		</translation>
@@ -405,8 +405,8 @@
 		<original>
 			“Verk þykkja þīn<sep />verri miklu<br />
 			kjōla valdi,<sep />an kyrr sitir.”<br />
-			<lacuna /><br />
-			<lacuna />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
 		</original>
 		<translation_prelude>
 			Hymir spake:
@@ -414,8 +414,8 @@
 		<translation>
 			“Thy works, methinks,<sep />are worse by far,<br />
 			Thou steerer of ships,<sep />than when still thou sittest.”<br />
-			<lacuna /><br />
-			<lacuna />
+			<lacuna /><sep /><lacuna /><br />
+			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
 			The manuscripts have no superscription.
@@ -554,12 +554,12 @@
 		</translation>
 		<comment>
 			No superscription in the manuscripts.
-			In its place Bugge supplies a line:—
+			In its place Bugge supplies a line—
 			<textstanza class="translation">
-				“These words spake Hymir,<sep />the giant wise.
+				These words spake Hymir,<sep />the giant wise.
 			</textstanza>
 			<textstanza class="original">
-				(“Þā kvaþ þat Hymir,<sep />hundvīss jǫtunn.”)
+				(Þā kvaþ þat Hymir,<sep />hundvīss jǫtunn.)
 			</textstanza>
 			The manuscripts reverse the order of lines 2 and 3, and in both of them line 4 stands after stanza <stanzaref chapter="Hymiskvitha">28</stanzaref>.
 			<expl>Goat of the flood</expl>: boat.
@@ -667,7 +667,7 @@
 			“Fair is the treasure<sep />that from me is gone,<br />
 			Since now the cup<sep />on my knees lies shattered;”<br />
 			So spake the giant:<sep />“No more can I say<br />
-			In days to be,<sep />'Thou art brewed, mine ale.'
+			In days to be,<sep />‘Thou art brewed, mine ale.’
 		</translation>
 		<comment>
 			The manuscripts have no superscription.
@@ -690,7 +690,7 @@
 			stōþ at hvǭru<sep />hverr kyrr fyrir.
 		</original>
 		<translation>
-			“Enough shall it be<sep />if out ye can bring<br />
+			Enough shall it be<sep />if out ye can bring<br />
 			Forth from our house<sep />the kettle here.”<br />
 			Tyr then twice<sep />to move it tried,<br />
 			But before him the kettle<sep />twice stood fast.
@@ -728,20 +728,20 @@
 		</translation>
 		<comment>
 			<expl>The many-headed</expl>: The giants, although rarely designated as a race in this way, sometimes had two or more heads; cf. stanza <stanzaref chapter="Hymiskvitha">8</stanzaref>, <chapterref>Skirnismol</chapterref>, <stanzaref chapter="Skirnismol">31</stanzaref> and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">33</stanzaref>.
-			Hymir's mother is, however, the only many-headed giant actually to appear in the action of the poems, and it is safe to assume that the tradition as a whole belongs to the period of Norse folk-tales of the märchen order.
+			Hymir's mother is, however, the only many-headed giant actually to appear in the action of the poems, and it is safe to assume that the tradition as a whole belongs to the period of Norse folk-tales of the <emph>märchen</emph> order.
 		</comment>
 	</block>
 	<block class="stanza" number="37">
 		<original>
 			Hōfsk af herþum<sep />hver standandi,<br />
 			veifþi Mjǫllni<sep />morþgjǫrnum fram;<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			ok hraunhvali<sep />hann alla drap.
 		</original>
 		<translation>
 			He stood and cast<sep />from his back the kettle,<br />
 			And Mjollnir, the lover<sep />of murder, he wielded;<br />
-			<lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			So all the whales<sep />of the waste he slew.
 		</translation>
 		<comment>
@@ -809,7 +809,7 @@
 			In Ægir's hall<sep />at the autumn-time.
 		</translation>
 		<comment>
-			The translation of the last two lines is mostly guess work, as the word rendered “gods” is uncertain, and the one rendered “at the autumn-time” is quite obscure.
+			The translation of the last two lines is mostly guesswork, as the word rendered “gods” is uncertain, and the one rendered “at the autumn-time” is quite obscure.
 		</comment>
 	</block>
 </chapter>
