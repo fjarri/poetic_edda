@@ -386,7 +386,7 @@
 		<original>
 			“Maþr's hēr ūti,<sep />stiginn af mars baki,<br />
 			jō lǣtr til jarþar taka.”<br />
-			<lacuna /><sep ><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			<lacuna />
 		</original>
 		<translation_prelude>
@@ -395,7 +395,7 @@
 		<translation>
 			“One stands without<sep />who has leapt from his steed,<br />
 			And lets his horse loose to graze;”<br />
-			<lacuna /><sep ><lacuna /><br />
+			<lacuna /><sep /><lacuna /><br />
 			<lacuna />
 		</translation>
 		<comment>
@@ -999,7 +999,7 @@
 				Long is one night,<sep />long is the second.
 			</textstanza>
 			<textstanza class="original">
-				(Lǫng es nǭtt,<sep>lǫng es ǫnnur.)
+				(Lǫng es nǭtt,<sep />lǫng es ǫnnur.)
 			</textstanza>
 		</comment>
 	</block>
