@@ -61,8 +61,8 @@
 			According to these stories is the following poem:
 		</translation>
 		<comment>
-			It would be interesting to know how much the annotator meant by the phrase old stories.
-			Was he familiar with the tradition in forms other than that of the poem? If so, his introductory note was scanty, for, outside of identifying Rig as Heimdall, he provides no information not found in the poem.
+			It would be interesting to know how much the annotator meant by the phrase <expl>old stories</expl>.
+			Was he familiar with the tradition in forms other than that of the poem? If so, his introductory note was scanty, for, outside of identifying <expl>Rig</expl> as <expl>Heimdall</expl>, he provides no information not found in the poem.
 			Probably he meant simply to refer to the poem itself as a relic of antiquity, and the identification of Rig as Heimdall may well have been an attempt at constructive criticism of his own.
 			The note was presumably written somewhere about 1300, or even later, and there is no reason for crediting the annotator with any considerable knowledge of mythology.
 			There is little to favor the identification of Rig with Heimdall, the watchman of the gods, beyond a few rather vague passages in the other poems.
@@ -74,7 +74,7 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			Ār kvǫþu ganga<sep />grø̄nar brautir<br />
+			<conj>Ār</conj> kvǫþu ganga<sep />grø̄nar brautir<br />
 			ǫflgan ok aldinn<sep />ǭs kunnigan,<br />
 			ramman ok rǫskvan<sep />Rīg stīganda,<br />
 			<lacuna /><sep /><lacuna />
@@ -96,7 +96,7 @@
 			kvam hann at hūsi,<sep />hurþ vas ā gǣtti;<br />
 			inn nam ganga,<sep />eldr vas ā golfi,<br />
 			hjōn sǭtu þar<sep />hǭr at arni.<br />
-			Ai ok Edda<sep />aldinfalda.
+			Ai ok <conj>Edda</conj><sep />aldinfalda.
 		</original>
 		<translation>
 			Forward he went<sep />on the midmost way,<br />
@@ -179,7 +179,7 @@
 	<block class="stanza" number="7">
 		<original>
 			Jōþ ōl Edda,<sep />jōsu vatni,<br />
-			<conj>sveip</conj> hǫrvi <conj>kona</conj><sep /><conj>hǫrund</conj>svartan;<br />
+			<conj>sveip</conj> hǫrvi <conj>fljōþ</conj><sep /><conj>hǫrund</conj>svartan;<br />
 			hētu Þrǣl<sep /><lacuna />
 		</original>
 		<translation>
@@ -201,7 +201,7 @@
 			Vas þar ā hǫndum<sep />hrokkit skinn,<br />
 			kropnir knuar,<sep /><lacuna /><br />
 			fingr digrir,<sep />fūlligt andlit,<br />
-			lūtr hryggr,<sep />langir hǣlar.
+			<conj>lūtr</conj> hryggr,<sep />langir hǣlar.
 		</original>
 		<translation>
 			The skin was wrinkled<sep />and rough on his hands,<br />
@@ -218,7 +218,7 @@
 	<block class="stanza" number="9">
 		<original>
 			Hann nam at vaxa<sep />ok vel dafna,<br />
-			nam meirr at þat<sep />megins of kosta,<br />
+			nam meirr at þat<sep /><conj>megins</conj> of kosta,<br />
 			bast at binda,<sep />byrþar gørva,<br />
 			bar heim at þat<sep />hrīs gørstan dag.
 		</original>
@@ -235,7 +235,7 @@
 	<block class="stanza" number="10">
 		<original>
 			Þar kvam at garþi<sep />gengilbeina,<br />
-			aurr vas ā iljum,<sep />armr sōlbrunnin,<br />
+			<conj>aurr</conj> vas ā iljum,<sep />armr sōlbrunnin,<br />
 			niþrbjūgt es nef,<sep />nefndisk Þīr.
 		</original>
 		<translation>
@@ -284,7 +284,7 @@
 			Goats they tended,<sep />and turf they dug.
 		</translation>
 		<comment>
-			There is some confusion as to the arrangement of th lines and division into stanzas of <stanzaref chapter="Rigsthula">12</stanzaref> and <stanzaref chapter="Rigsthula">13</stanzaref>.
+			There is some confusion as to the arrangement of the lines and division into stanzas of <stanzaref chapter="Rigsthula">12</stanzaref> and <stanzaref chapter="Rigsthula">13</stanzaref>.
 			The names mean: <expl>Fjosnir</expl>, “Cattle-Man”; <expl>Klur</expl>, “The Coarse”; <expl>Hreim</expl>, “The Shouter”; <expl>Kleggi</expl>, “The Horse-Fly”; <expl>Kefsir</expl>, “Concubine-Keeper”; <expl>Fulnir</expl>, “The Stinking”; <expl>Drumb</expl>, “The Log”; <expl>Digraldi</expl>, “The Fat”; <expl>Drott</expl>, “The Sluggard”; <expl>Leggjaldi</expl>, “The Big-Legged”; <expl>Lut</expl>, “The Bent”; <expl>Hosvir</expl>, “The Grey.”
 		</comment>
 	</block>
@@ -362,8 +362,8 @@
 	<block class="stanza" number="17">
 		<original>
 			Rīgr kunni þeim<sep />rǭþ at segja,<br />
-			meirr settisk hann<sep />miþra fletja,<br />
-			en ā hliþ hvāra<sep />hjōn salkynna.
+			<conj>meirr settisk hann</conj><sep /><conj>miþra fletja,</conj><br />
+			<conj>en ā hliþ hvāra</conj><sep /><conj>hjōn salkynna.</conj>
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -378,9 +378,9 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			Þā tōk Amma<sep /><lacuna /><br />
-			fram setti hōn<sep />fulla skutla,<br />
-			vas kalfr soþinn<sep />krāsa baztr.
+			<conj>Þā tōk Amma</conj><sep /><lacuna /><br />
+			<conj>fram setti hōn</conj><sep /><conj>fulla skutla,</conj><br />
+			<conj>vas kalfr soþinn</conj><sep /><conj>krāsa baztr.</conj>
 		</original>
 		<translation>
 			Then took Amma<sep /><lacuna /><br />
@@ -393,7 +393,7 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			Rīgr kunni þeim<sep />rǭþ at segja,<br />
+			<conj>Rīgr kunni þeim</conj><sep /><conj>rǭþ at segja,</conj><br />
 			reis frā borþi,<sep />rēzk at sofna,<br />
 			meirr lagþisk hann<sep />miþrar rekkju,<br />
 			en ā hliþ hvāra<sep />hjōn salkynna.
@@ -411,7 +411,7 @@
 	<block class="stanza" number="20">
 		<original>
 			Þar vas at þat<sep />þriar nǣtr saman,<br />
-			gekk meirr at þat<sep />miþrar brautar,<br />
+			<conj>gekk meirr at þat</conj><sep /><conj>miþrar brautar,</conj><br />
 			liþu meirr at þat<sep />mǭnuþr niu.
 		</original>
 		<translation>
@@ -442,7 +442,7 @@
 	<block class="stanza" number="22">
 		<original>
 			Hann nam at vaxa<sep />ok vel dafna,<br />
-			øxn nam temja,<sep />arþr at gørva,<br />
+			øxn nam temja,<sep /><conj>ǫrþr</conj> at gørva,<br />
 			hūs at timbra<sep />ok hlǫþur smīþa,<br />
 			karta at gørva<sep />ok keyra plōg.
 		</original>
@@ -554,7 +554,7 @@
 		<original>
 			En hūskona<sep />hugþi at ǫrmum,<br />
 			strauk of ripti,<sep />sterti ermar,<br />
-			keistr vas faldr,<sep />kinga ā bringu,<br />
+			<conj>keistr vas faldr,</conj><sep />kinga ā bringu,<br />
 			sīþar slø̄þur,<sep />serk blāfaan,<br />
 			brūn bjartari,<sep />brjōst ljōsara,<br />
 			hals hvītari<sep />hreinni mjǫllu.
@@ -578,7 +578,7 @@
 			en ā hliþ hvāra<sep />hjōn salkynna.
 		</original>
 		<translation>
-			Rig knew<sep />well wise words to speak,<br />
+			Rig knew well<sep />wise words to speak,<br />
 			Soon in the midst<sep />of the room he sat,<br />
 			And on either side<sep />the others were.
 		</translation>
@@ -615,16 +615,16 @@
 		<comment>
 			The manuscript of lines 1–3 is obviously defective, as there are too many words for two lines, and not enough for the full three.
 			The meaning, however, is clearly very much as indicated in the translation.
-			Gering's emendation, which I have followed, consists simply in shifting “set before them” from the first line to the second–where the manuscript has no verb,—and supplying the verb “brought” in line 1.
+			Gering's emendation, which I have followed, consists simply in shifting “set before them” from the first line to the second—where the manuscript has no verb,—and supplying the verb “brought” in line 1.
 			The various editions contain all sorts of suggestions.
 		</comment>
 	</block>
 	<block class="stanza" number="32">
 		<original>
 			Rīgr kunni þeim<sep />rǭþ at segja,<br />
-			reis hann at þat,<sep />rekkju gørþi;<br />
-			meirr lagþisk hann<sep />miþrar rekkju,<br />
-			en ā hliþ hvāra<sep />hjōn salkynna.
+			reis <conj>hann</conj> at þat,<sep />rekkju gørþi;<br />
+			<conj>meirr lagþisk hann</conj><sep /><conj>miþrar rekkju,</conj><br />
+			<conj>en ā hliþ hvāra</conj><sep /><conj>hjōn salkynna.</conj>
 		</original>
 		<translation>
 			Rig knew well<sep />wise words to speak,<br />
@@ -691,7 +691,7 @@
 		<original>
 			Kvam þar ōr runni<sep />Rīgr gangandi,<br />
 			Rīgr gangandi,<sep />rūnar kendi;<br />
-			sitt gaf heiti,<sep />sun kvezk eiga,<br />
+			sitt gaf heiti,<sep />sun <conj>kvazk</conj> eiga,<br />
 			þann baþ eignask<sep />ōþalvǫllu,<br />
 			ōþalvǫllu,<sep />aldnar bygþir.
 		</original>
@@ -704,7 +704,7 @@
 		</translation>
 		<comment>
 			Lines 1, 2, and 5 all begin with capitals preceded by periods, a fact which, taken in conjunction with the obviously defective state of the following stanza, has led to all sorts of conjectural emendations.
-			The exact significance of Rig's giving his own name to Jarl (cf. stanza <stanzaref chapter="Rigsthula">46</stanzaref>), and thus recognizing him, potentially at least, as a king, depends on the conditions under which the poem was composed (cf. <chapterref chapter="Rigsthula">Introductory Note</chapterref>).
+			The exact significance of Rig's giving his own name to Jarl (cf. stanza <stanzaref chapter="Rigsthula">46</stanzaref>), and thus recognizing him, potentially at least, as a king, depends on the conditions under which the poem was composed (cf. <ref chapter="Rigsthula">Introductory Note</ref>).
 			The whole stanza, particularly the reference to the teaching of magic (runes), fits Othin far better than Heimdall.
 		</comment>
 	</block>
@@ -759,8 +759,8 @@
 		<original>
 			Ōku ǣrir<sep />ūrgar brautir,<br />
 			kvǭmu at hǫllu<sep />þars Hersir bjō;<br />
-			mey ātti hann<sep />mjōfingraþa,<br />
-			hvīta ok horska:<sep />hētu Ernu.
+			<conj>mey ātti</conj> hann<sep /><conj>mjōfingraþa,</conj><br />
+			<conj>hvīta</conj> ok <conj>horska:</conj><sep />hētu <conj>Ernu.</conj>
 		</original>
 		<translation>
 			His messengers went<sep />by the ways so wet,<br />
@@ -845,7 +845,7 @@
 	<block class="stanza" number="45">
 		<original>
 			Klōk nam fogla,<sep />kyrra elda,<br />
-			sefa of svefja,<sep />sorgir lǣgja;<br />
+			<conj>sefa</conj> of svefja,<sep />sorgir lǣgja;<br />
 			<lacuna /><sep /><lacuna /><br />
 			afl ok eljun<sep />ātta manna.
 		</original>
@@ -857,7 +857,7 @@
 		</translation>
 		<comment>
 			The manuscript indicates no line as beginning a stanza.
-			<expl>Minds</expl>: possibly “seas,”' the word being doubtful.
+			<expl>Minds</expl>: possibly “seas,” the word being doubtful.
 			Most editors assume the gap as indicated.
 		</comment>
 	</block>
@@ -883,7 +883,7 @@
 		<original>
 			Reiþ Konr ungr<sep />kjǫrr ok skōga,<br />
 			kolfi fleygþi,<sep />kyrþi fogla;<br />
-			þā kvaþ þat krāka,<sep />sat ā kvisti ein:<br />
+			þā kvaþ þat krāka,<sep />sat <conj>ā</conj> kvisti ein:<br />
 			“hvat skalt, Konr ungr!<sep />kyrra fogla?
 		</original>
 		<translation>
