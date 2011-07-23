@@ -28,13 +28,13 @@
 	</block>
 	<block class="text">
 		The <chapterref>Thrymskvitha</chapterref> has been preserved in excellent condition, without any serious gaps or interpolations.
-		In striking contrast to many of the poems, it contains no prose narrative links, the story being told in narrative verse—a rare phenomenon in the poems of the Edda.
+		In striking contrast to many of the poems, it contains no prose narrative links, the story being told in narrative verse—a rare phenomenon in the poems of the <source>Edda</source>.
 	</block>
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original>
 			Vreiþr vas Vingþōrr,<sep />es vaknaþi<br />
-			ok sīns hamars<sep />of saknaþi;<br />
+			ok sīns hamars<sep /><conj>of</conj> saknaþi;<br />
 			skegg nam hrista,<sep />skǫr nam dȳja,<br />
 			rēþ Jarþar burr<sep />umb at þreifask.
 		</original>
@@ -52,9 +52,9 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Auk þat orþa<sep />alls fyrst of kvaþ:<br />
+			Auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:<br />
 			“Heyr nū, Loki!<sep />hvat nū mǣlik,<br />
-			es engi veit<sep />jarþar hvergi<br />
+			es <conj>engi</conj> veit<sep />jarþar hvergi<br />
 			nē upphimins:<sep />ǭss's stolinn hamri!”
 		</original>
 		<translation>
@@ -70,7 +70,7 @@
 	<block class="stanza" number="3">
 		<original>
 			Gengu fagra<sep />Freyju tūna,<br />
-			auk þat orþa<sep />alls fyrst of kvaþ:<br />
+			auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:<br />
 			“Munt mēr, Freyja!<sep />fjaþrhams lea,<br />
 			ef minn hamar<sep />mǣttak hitta?”
 		</original>
@@ -138,7 +138,7 @@
 			“Hvat's meþ ǭsum,<sep />hvat's meþ ǫlfum?<br />
 			hvī'st einn kominn<sep />ī jǫtunheima?”<br />
 			<stanzaprelude>Loki kvaþ:</stanzaprelude><br />
-			“Illt's meþ ǭsum,<sep />illt's meþ ǫlfum!<br />
+			“Illt's meþ ǭsum,<sep /><conj>illt's meþ ǫlfum!</conj><br />
 			hefr Hlōrriþa<sep />hamar of folginn?”
 		</original>
 		<translation_prelude>
@@ -164,7 +164,7 @@
 		<original>
 			“Hefk Hlōrriþa<sep />hamar of folginn<br />
 			ātta rǫstum<sep />fyr jǫrþ neþan;<br />
-			hann engi maþr<sep />aptr of heimtir,<br />
+			hann engi maþr<sep />aptr <conj>of</conj> heimtir,<br />
 			nema fø̄ri mēr<sep />Freyju at kvǣn.”
 		</original>
 		<translation_prelude>
@@ -178,7 +178,11 @@
 		</translation>
 		<comment>
 			No superscription in the manuscript.
-			Vigfusson made up and inserted lines like “Then spake Loki<sep />the son of Laufey” whenever he thought they would be useful.
+			Vigfusson made up and inserted lines like
+			<textstanza class="translation">
+				Then spake Loki<sep />the son of Laufey
+			</textstanza>
+			whenever he thought they would be useful.
 		</comment>
 	</block>
 	<block class="stanza" number="8">
@@ -186,8 +190,8 @@
 			Flō þā Loki,<sep />fjaþrhamr dunþi,<br />
 			unz fyr ūtan kvam<sep />jǫtna heima<br />
 			ok fyr innan kvam<sep />āsa garþa;<br />
-			mø̄tti Þōri<sep />miþra garþa,<br />
-			auk þat orþa<sep />alls fyrst of kvaþ:
+			mø̄tti <conj>Þōri</conj><sep />miþra garþa,<br />
+			auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:
 		</original>
 		<translation>
 			Then Loki flew,<sep />and the feather-dress whirred,<br />
@@ -201,8 +205,8 @@
 		<original>
 			“Hefr eyrindi<sep />sem erfiþi?<br />
 			segþu ā lopti<sep />lǫng tīþindi!<br />
-			opt sitjanda<sep />sǫgur of fallask<br />
-			ok liggjandi<sep />lygi of bellir.”
+			opt sitjanda<sep />sǫgur <conj>of</conj> fallask<br />
+			ok liggjandi<sep />lygi <conj>of</conj> bellir.”
 		</original>
 		<translation>
 			“Hast thou found tidings<sep />as well as trouble?<br />
@@ -221,7 +225,7 @@
 		<original>
 			“Hefk erfiþi<sep />ok eyrindi:<br />
 			Þrymr hefr hamar,<sep />þursa drōttinn;<br />
-			hann engi maþr<sep />aptr of heimtir,<br />
+			hann engi maþr<sep />aptr <conj>of</conj> heimtir,<br />
 			nema hǫnum fø̄ri<sep />Freyju at kvǣn.”
 		</original>
 		<translation_prelude>
@@ -239,8 +243,8 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Gengu fagra<sep />Freyju at hitta,<br />
-			auk þat orþa<sep />alls fyrst of kvaþ:<br />
+			<conj>Gengu</conj> fagra<sep />Freyju at hitta,<br />
+			auk þat orþa<sep />alls fyrst <conj>of</conj> kvaþ:<br />
 			“Bitt þik, Freyja!<sep />brūþar līni,<br />
 			vit skulum aka tvau<sep />ī jǫtunheima.”
 		</original>
@@ -276,7 +280,7 @@
 		<original>
 			Senn vǫru ǣsir<sep />allir ā þingi<br />
 			ok āsynjur<sep />allar ā māli,<br />
-			ok of þat rēþu<sep />rīkir tīvar,<br />
+			ok <conj>of</conj> þat rēþu<sep />rīkir tīvar,<br />
 			hvē Hlōrriþa<sep />hamar of sø̄tti.
 		</original>
 		<translation>
@@ -312,9 +316,9 @@
 	<block class="stanza" number="15">
 		<original>
 			Lǭtum und hǭnum<sep />hrynja lukla<br />
-			ok kvennvāþir<sep />of knē falla,<br />
+			ok kvennvāþir<sep /><conj>of</conj> knē falla,<br />
 			en ā brjōsti<sep />breiþa steina,<br />
-			ok hagliga<sep />of hǫfuþ typpum!”
+			ok hagliga<sep /><conj>of</conj> hǫfuþ typpum!”
 		</original>
 		<translation>
 			Keys around him<sep />let there rattle,<br />
@@ -343,7 +347,7 @@
 			Þā kvaþ þat Loki,<sep />Laufeyjar sunr:<br />
 			“Þegi þū, Þōrr!<sep />þeira orþa:<br />
 			þegar munu jǫtnar<sep />Āsgarþ bua,<br />
-			nema þinn hamar<sep />þēr of heimtir.”
+			nema þinn hamar<sep />þēr <conj>of</conj> heimtir.”
 		</original>
 		<translation>
 			Then Loki spake,<sep />the son of Laufey:<br />
@@ -368,9 +372,9 @@
 	<block class="stanza" number="19">
 		<original>
 			Lētu und hǭnum<sep />hrynja lukla<br />
-			ok kvennvāþir<sep />of knē falla,<br />
+			ok kvennvāþir<sep /><conj>of</conj> knē falla,<br />
 			en ā brjōsti<sep />breiþa steina,<br />
-			ok hagliga<sep />of hǫfuþ typþu.
+			ok hagliga<sep /><conj>of</conj> hǫfuþ typþu.
 		</original>
 		<translation>
 			Keys around him<sep />let they rattle,<br />
@@ -387,9 +391,9 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Þā kvaþ þat Loki,<sep />Laufeyjar sunr:<br />
+			Þā kvaþ <conj>þat</conj> Loki,<sep />Laufeyjar sunr:<br />
 			“Munk auk meþ þēr<sep />ambǭtt vesa,<br />
-			vit skulum aka tvǣr<sep />ī jǫtunheima.”
+			vit skulum aka <conj>tvǣr</conj><sep />ī jǫtunheima.”
 		</original>
 		<translation>
 			Then Loki spake,<sep />the son of Laufey:<br />
@@ -399,7 +403,7 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Senn vǫru hafrar<sep />heim of vreknir,<br />
+			Senn vǫru hafrar<sep />heim <conj>of</conj> vreknir,<br />
 			skyndir at skǫklum,<sep />skyldu vel rinna:<br />
 			bjǫrg brotnuþu,<sep />brann jǫrþ loga,<br />
 			ōk Ōþins sunr<sep />ī jǫtunheima.
@@ -419,7 +423,7 @@
 		<original>
 			Þā kvaþ þat Þrymr,<sep />þursa drōttinn:<br />
 			“Standiþ upp, jǫtnar!<sep />ok staïþ bekki:<br />
-			nū fø̄ra mēr<sep />Freyju at kvǣn,<br />
+			nū <conj>fø̄ra</conj> mēr<sep />Freyju at kvǣn,<br />
 			Njarþar dōttur<sep />ōr Noatūnum.
 		</original>
 		<translation>
@@ -438,7 +442,7 @@
 			Ganga at garþi<sep />gollhyrndar kȳr,<br />
 			øxn alsvartir,<sep />jǫtni at gamni:<br />
 			fjǫlþ āk meiþma,<sep />fjǫlþ āk menja,<br />
-			einnar Freyju<sep />āvant þykkjumk.”
+			einnar Freyju<sep />āvant <conj>þykkjumk.</conj>”
 		</original>
 		<translation>
 			Gold-horned cattle<sep />go to my stables,<br />
@@ -449,7 +453,7 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Vas þar at kveldi<sep />of komit snimma<br />
+			Vas þar at kveldi<sep /><conj>of</conj> komit snimma<br />
 			auk fyr jǫtna<sep />ǫl fram borit;<br />
 			einn āt oxa,<sep />ātta laxa,<br />
 			krāsir allar<sep />þǣrs konur skyldu,<br />
@@ -474,7 +478,7 @@
 			Þā kvaþ þat Þrymr,<sep />þursa drōttinn:<br />
 			“Hvar sātt brūþir<sep />bīta hvassara?<br />
 			sākak brūþir<sep />bīta breiþara,<br />
-			ne enn meira mjǫþ<sep />mey of drekka.”
+			ne enn meira mjǫþ<sep />mey <conj>of</conj> drekka.”
 		</original>
 		<translation>
 			Then loud spake Thrym,<sep />the giants' leader:<br />
@@ -486,7 +490,7 @@
 	<block class="stanza" number="26">
 		<original>
 			Sat en alsnotra<sep />ambǭtt fyrir,<br />
-			es orþ of fann<sep />viþ jǫtuns māli:<br />
+			es orþ <conj>of</conj> fann<sep />viþ jǫtuns māli:<br />
 			“Āt vǣtr Freyja<sep />ātta nǭttum,<br />
 			svā vas ōþfūs<sep />ī jōtunheima.”
 		</original>
@@ -502,7 +506,7 @@
 			Laut und līnu,<sep />lysti at kyssa,<br />
 			en ūtan stǫkk<sep />endlangan sal:<br />
 			“Hvī 'ru ǫndōtt<sep />augu Freyju?<br />
-			þykkjumk ōr augum<sep /><conj>eldr of</conj> brinna.”
+			<conj>þykkjumk</conj> ōr augum<sep /><conj>eldr of</conj> brinna.”
 		</original>
 		<translation>
 			Thrym looked 'neath the veil,<sep />for he longed to kiss,<br />
@@ -545,7 +549,7 @@
 			Who feared not to ask<sep />the bridal fee:<br />
 			“From thy hands the rings<sep />of red gold take,<br />
 			If thou wouldst win<sep />my willing love,<br />
-			(My willing love<sep />and welcome glad.)”
+			[My willing love<sep />and welcome glad.]”
 		</translation>
 		<comment>
 			<expl>Luckless</expl>: so the manuscript, but many editors have altered the word “arma” to “aldna,” meaning “old,” to correspond with line 1 of stanza <stanzaref chapter="Thrymskvitha">32</stanzaref>.
@@ -569,14 +573,14 @@
 			<expl>Hallow</expl>: just what this means is not clear, but there are references to other kinds of consecration, though not of a bride, with the “sign of the hammer.”
 			According to Vigfusson, “the hammer was the holy sign with the heathens, answering to the cross of the Christians.”
 			In Snorri's story of Thor's resuscitation of his cooked goat (cf. <chapterref>Hymiskvitha</chapterref>, <stanzaref chapter="Hymiskvitha">38</stanzaref>, note) the god “hallows” the goat with his hammer.
-			One of the oldest runic signs, sup posed to have magic power, was named Thor's-hammer.
+			One of the oldest runic signs, supposed to have magic power, was named Thor's-hammer.
 			<expl>Vor</expl>: the goddess of vows, particularly between men and women; Snorri lists a number of little-known goddesses similar to Vor, all of them apparently little more than names for Frigg.
 		</comment>
 	</block>
 	<block class="stanza" number="31">
 		<original>
 			Hlō Hlōrriþa<sep />hugr ī brjōsti,<br />
-			es harþhugaþr<sep />hamar of þekþi;<br />
+			es harþhugaþr<sep />hamar of <conj>þātti;</conj><br />
 			Þrym drap fyrstan,<sep />þursa drōttin,<br />
 			ok ǣtt jǫtuns<sep />alla lamþi.
 		</original>
@@ -591,7 +595,7 @@
 		<original>
 			Drap ena ǫldnu<sep />jǫtna systur<br />
 			hinas brūþfear<sep />of beþit hafþi:<br />
-			hōn skell of hlaut<sep />fyr skillinga,<br />
+			hōn skell <conj>of</conj> hlaut<sep />fyr skillinga,<br />
 			en hǫgg hamars<sep />fyr hringa fjǫlþ.
 		</original>
 		<translation>
@@ -609,7 +613,7 @@
 			And so his hammer<sep />got Othin's son.
 		</translation>
 		<comment>
-			Some editors reject this line, which, from a dramatic stand point, is certainly a pity.
+			Some editors reject this line, which, from a dramatic standpoint, is certainly a pity.
 			In the manuscript it begins with a capital letter, like the opening of a new stanza.
 		</comment>
 	</block>
