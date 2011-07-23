@@ -70,7 +70,7 @@
 		<original>
 			“Hvat's nū ant<sep />mīnum einga syni,<br />
 			hverju 'st bǫlvi borinn:<br />
-			es þū mōþur kallar<sep />þās til moldar es komin<br />
+			es þū mōþur kallar<sep /><conj>þās</conj> til moldar es komin<br />
 			ok ōr ljōþheimum liþin?”
 		</original>
 		<translation_prelude>
@@ -88,10 +88,10 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			“Ljōtu leikborþi<sep />skaut fyr mik en lǣvīsa kona<br />
+			“Ljōtu leikborþi<sep /><conj>skaut</conj> fyr mik en lǣvīsa kona<br />
 			sūs faþmaþi minn fǫþur:<br />
-			þar baþ mik koma,<sep />es kvǣmtki veit,<br />
-			mōti Menglǫþu.”
+			þar baþ mik koma,<sep />es <conj>kvǣmtki</conj> veit,<br />
+			mōti <conj>Menglǫþu.</conj>”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -115,7 +115,7 @@
 			“Lǫng es fǫr,<sep />langir'u farvegar,<br />
 			langir'u manna munir;<br />
 			ef þat verþr,<sep />at þu þinn vilja bīþr,<br />
-			ok skeikar þō Skuldar at skǫpum.”
+			ok skeikar <conj>þō Skuldar</conj> at skǫpum.”
 		</original>
 		<translation_prelude>
 			Groa spake:
@@ -167,7 +167,7 @@
 			For helper thyself shalt thou have.
 		</translation>
 		<comment>
-			For this catalogue of charms (stanzas <stanzaref chapter="Svipdagsmol">6</stanzaref>–<stanzaref chapter="Svipdagsmol">14</stanzaref>) cf. the Ljothatal (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">147</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref>).
+			For this catalogue of charms (stanzas <stanzaref chapter="Svipdagsmol">6</stanzaref>–<stanzaref chapter="Svipdagsmol">14</stanzaref>) cf. the <source>Ljothatal</source> (<chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">147</stanzaref>–<stanzaref chapter="Hovamol">165</stanzaref>).
 			<expl>Rani</expl> and <expl>Rind</expl>: the manuscripts have these words in inverse relation; I have followed Neckel's emendation.
 			Rind was the giantess who became the mother of Vali, Othin's son, the one-night-old avenger of Baldr (cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">33</stanzaref>–<stanzaref chapter="Voluspo">34</stanzaref>, and <chapterref>Baldrs Draumar</chapterref>, <stanzaref chapter="Baldrs Draumar">11</stanzaref> and note).
 			Rani is presumably Othin, who, according to a skaldic poem, won Rind by magic.
@@ -193,8 +193,8 @@
 	<block class="stanza" number="8">
 		<original>
 			Þann gelk þer enn þriþja,<sep />ef þēr þjōþaar<br />
-			falla at fjǫrlokum:<br />
-			til heljar heþan<sep />snuisk Horn ok Ruþr,<br />
+			falla at fjǫr<conj>lokum:</conj><br />
+			til heljar <conj>heþan</conj><sep />snuisk Horn ok Ruþr,<br />
 			en þverri ǣ fyr þēr.
 		</original>
 		<translation>
@@ -223,9 +223,9 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Þann gelk þer enn fimta,<sep />ef þēr fjǫturr verþr<br />
+			Þann gelk þer enn fimta,<sep />ef þēr <conj>fjǫturr verþr</conj><br />
 			borinn at boglimum:<br />
-			leysigaldr<sep />lǣtk þer fyr legg of kveþinn,<br />
+			<conj>leysigaldr</conj><sep />lǣtk þer fyr legg of kveþinn,<br />
 			ok støkkr þā lāss af limum,<br />
 			[en af fōtum fjǫturr.]
 		</original>
@@ -244,7 +244,7 @@
 		<original>
 			Þann gelk þer enn sētta,<sep />ef ā sjō kømr<br />
 			meira an menn viti:<br />
-			lopt ok lǫgr<sep />gangi þer ī lūþr saman<br />
+			<conj>lopt</conj> ok lǫgr<sep />gangi þer ī lūþr saman<br />
 			ok lē þer ǣ friþdrjūgrar farar.
 		</original>
 		<translation>
@@ -259,7 +259,7 @@
 			Þann gelk þer enn sjaunda,<sep />ef þik sø̄kja kømr<br />
 			frost ā fjalli hǭ:<br />
 			hrǣvakulþi<sep />megit þīnu holdi fara,<br />
-			ok haldi þēr līk at liþum.
+			ok <conj>haldi þēr</conj> līk at liþum.
 		</original>
 		<translation>
 			Then seventh I chant thee,<sep />if frost shall seek<br />
@@ -319,7 +319,7 @@
 		<original>
 			Mōþur orþ<sep />berþu, mǫgr! heþan<br />
 			ok lāt þer ī brjōsti bua!<br />
-			iþgnōga heill<sep />skalt of aldr hafa,<br />
+			<conj>iþ</conj>gnōga heill<sep />skalt of aldr hafa,<br />
 			meþan mīn orþ of mant.”
 		</original>
 		<translation>
@@ -347,7 +347,7 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			Ūtan garþa<sep />sā hann upp of koma<br />
+			Ūtan garþa<sep />sā hann upp <conj>of</conj> koma<br />
 			þursa þjōþar sjǫt.<br />
 			<stanzaprelude>Svipdagr kvaþ:</stanzaprelude><br />
 			“Hvat's þat flagþa,<sep />es stendr fyr forgǫrþum<br />
@@ -431,9 +431,9 @@
 			Svipdagr kvaþ:
 		</original_prelude>
 		<original>
-			“Augna gamans<sep />fȳsir aptr <conj>flestan</conj>,<br />
+			“Augna gamans<sep />fȳsir aptr <conj>flestan,</conj><br />
 			hvars getr svāst at sea:<br />
-			garþar gloa<sep />þykkjumk of gollna sali,<br />
+			garþar gloa<sep /><conj>þykkjumk</conj> of gollna sali,<br />
 			hēr mundak øþli una.”
 		</original>
 		<translation_prelude>
@@ -535,7 +535,7 @@
 		<original>
 			“Þrymgjǫll hōn heitir,<sep />en hana þrīr gørþu<br />
 			Sōlblinda synir;<br />
-			fjǫturr fastr<sep />verþr viþ faranda hverjan,<br />
+			fjǫturr fastr<sep />verþr viþ faranda <conj>hverjan,</conj><br />
 			es hana hefr frā hliþi.”
 		</original>
 		<translation_prelude>
@@ -604,7 +604,7 @@
 			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
 			hvat þat barr heitir,<sep />es breiþask <conj>sēk</conj><br />
-			of lǫnd ǫll limar?”
+			<conj>of</conj> lǫnd ǫll limar?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -621,10 +621,10 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“Mimameiþr hann heitir,<sep />en þat mangi veit,<br />
-			hvers hann af rōtum rinnr;<br />
+			“Mimameiþr hann heitir,<sep />en þat <conj>mangi veit,</conj><br />
+			<conj>hvers hann af</conj> rōtum rinnr;<br />
 			viþ þat hann fellr,<sep />es fǣstan varir:<br />
-			fellir hann eldr nē jarn.”
+			<conj>fellir</conj> hann eldr nē jarn.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -648,7 +648,7 @@
 			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
 			hvat af moþi verþr<sep />þess ens mǣra viþar,<br />
-			es hann fellir eldr nē jarn?”
+			es hann <conj>fellir</conj> eldr nē jarn?”
 		</original>
 		<translation_prelude>
 			Svipdag spake:
@@ -666,8 +666,8 @@
 		</original_prelude>
 		<original>
 			“Ūt af hans aldni<sep />skal ā eld bera<br />
-			fyr killisjūkar konur:<br />
-			ūtar hverfa þess<sep />þeirs innar skyldu,<br />
+			fyr <conj>kvelli</conj>sjūkar konur:<br />
+			ūtar hverfa þess<sep /><conj>þats es</conj> innar <conj>skal,</conj><br />
 			sās hann meþ mǫnnum mjǫtuþr.”
 		</original>
 		<translation_prelude>
@@ -712,7 +712,7 @@
 			“Viþofnir heitir,<sep />en hann stendr veþrglasi<br />
 			ā meiþs kvistum Mima:<br />
 			einum ekka<sep />þryngr hann ørōfsaman<br />
-			<conj>Surt ok Sinmǫru</conj>.”
+			<conj>Surt ok Sinmǫru.</conj>”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -759,8 +759,8 @@
 		<original>
 			“Gīfr heitir annarr,<sep />en Geri annarr,<br />
 			ef þū vill þat vita:<br />
-			<conj>verþir'u ǫflgir</conj>,<sep />en þeir varþa,<br />
-			unz rjūfask regin.”
+			<conj>verþir'u ǫflgir,</conj><sep /><conj>en</conj> þeir varþa,<br />
+			unz <conj>of</conj> rjūfask regin.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -783,7 +783,7 @@
 		<original>
 			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvārt sē manna nekkvat<sep />þats megi inn koma,<br />
+			<conj>hvārt</conj> sē manna nekkvat<sep />þats megi inn koma,<br />
 			meþan sōkndjarfir sofa?”
 		</original>
 		<translation_prelude>
@@ -823,7 +823,7 @@
 		<original>
 			“Seg mēr þat, Fjǫlsviþr!<sep />es ek þik fregna mun<br />
 			auk ek vilja vita:<br />
-			hvārt sē matar nekkvat<sep />þats þeim menn gefi,<br />
+			hvārt sē matar nekkvat<sep />þats <conj>þeim</conj> menn <conj>gefi,</conj><br />
 			ok hlaupi inn, meþan eta?”
 		</original>
 		<translation_prelude>
@@ -844,7 +844,7 @@
 			“Vǣngbrāþir tvǣr<sep />liggja ī Viþofnis liþum,<br />
 			ef þū vill þat vita:<br />
 			þat eitt's svā matar,<sep />at þeim menn of gefi,<br />
-			ok hlaupi inn, meþan eta.”
+			ok <conj>hlaupi</conj> inn, meþan eta.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -881,9 +881,9 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“Lǣvateinn heitir,<sep />es gørþi Loptr rūnum<br />
+			“<conj>Lǣva</conj>teinn heitir,<sep /><conj>es</conj> gørþi Loptr <conj>rūnum</conj><br />
 			fyr nāgrindr neþan;<br />
-			ī Lǣgjarns keri<sep />liggr hjā Sinmǫru,<br />
+			ī <conj>seig</conj>jarns keri<sep />liggr hjā Sinmǫru,<br />
 			ok halda njarþlāsar niu.”
 		</original>
 		<translation_prelude>
@@ -897,7 +897,7 @@
 		</translation>
 		<comment>
 			<expl>Lævetein</expl> (“Wounding Wand”): the manuscripts differ as to the form of this name.
-			The suggestion that the reference is to the mistletoe with which Baldr was killed seems hardly reason able.
+			The suggestion that the reference is to the mistletoe with which Baldr was killed seems hardly reasonable.
 			<expl>Lopt</expl>: Loki.
 			<expl>Lægjarn</expl> (“Lover of Ill”): Loki; cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">35</stanzaref>, where the term appears as an adjective applied to Loki.
 			This is Falk's emendation for the manuscripts' “Sægjarn,” meaning “Sea Lover.”
@@ -972,7 +972,7 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“Ljōsan lea<sep />skaltu ī lūþr bera<br />
+			“Ljōsan lea<sep />skaltu ī <conj>lūþri</conj> bera<br />
 			þanns liggr ī Viþofnis vǫlum,<br />
 			Sinmǫru at selja,<sep />āþr hōn sǫm telisk<br />
 			vāpn til vīgs at lea.”
@@ -1017,9 +1017,9 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“Lȳr hann heitir,<sep />en hann lengi mun<br />
+			“<conj>Lȳr</conj> hann heitir,<sep />en hann lengi mun<br />
 			ā brodds oddi bifask;<br />
-			auþranns þess<sep />munu of aldr hafa<br />
+			auþranns þess<sep />munu <conj>of</conj> aldr hafa<br />
 			frētt eina firar.”
 		</original>
 		<translation_prelude>
@@ -1061,10 +1061,10 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“Uni ok Iri,<sep />Bari ok Jari,<br />
+			“Uni ok Iri,<sep /><conj>Jari</conj> ok Bari,<br />
 			Varr ok Vegdrasill,<br />
 			Dōri ok Ōri,<sep />Dellingr, at vas þar<br />
-			liþskjalfr Loki.”
+			Liþskjalfr <conj>at</conj> Loki.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1077,7 +1077,7 @@
 		</translation>
 		<comment>
 			<expl>Loki</expl>, the one god named, was the builder of the hall, with the aid of the nine dwarfs.
-			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <stanzaref chapter="Svipdagsmol">13</stanzaref> and <stanzaref chapter="Svipdagsmol">15</stanzaref>); Delling appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to some one else.
+			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <stanzaref chapter="Svipdagsmol">13</stanzaref> and <stanzaref chapter="Svipdagsmol">15</stanzaref>); <expl>Delling</expl> appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to some one else.
 			The other dwarfs' names do not appear elsewhere.
 			The manuscripts differ as to the forms of many of these names.
 		</comment>
@@ -1107,8 +1107,8 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			Lyfjaberg heitir,<sep />en þat hefr lengi verit<br />
-			sjūkum ok sǭrum gaman:<br />
+			“<conj>Lyfja</conj>berg heitir,<sep />en þat hefr lengi verit<br />
+			<conj>sjūkum</conj> ok <conj>sǭrum</conj> gaman:<br />
 			heil verþr hver,<sep />þōt hafi <dagger /> ārs sōtt,<br />
 			ef þat klīfr, kona.”
 		</original>
@@ -1153,9 +1153,9 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“Hlīf heitir ein,<sep />ǫnnur Hlīfþrasa,<br />
-			þriþja Þjōþvara,<br />
-			Bjǫrt ok Bleik,<sep />Blīþ ok Frīþ,<br />
+			“Hlīf heitir <conj>ein,</conj><sep />ǫnnur Hlīf<conj>þrasa,</conj><br />
+			þriþja Þjōþ<conj>vara,</conj><br />
+			Bjǫrt ok <conj>Bleik,</conj><sep />Blīþ <conj>ok</conj> Frīþ,<br />
 			Eir ok Aurboþa.”
 		</original>
 		<translation_prelude>
@@ -1200,10 +1200,10 @@
 			Fjǫlsviþr kvaþ:
 		</original_prelude>
 		<original>
-			“<conj>Bjarga svinnar</conj>,<sep />hvars menn blōta þǣr<br />
+			“<conj>Bjarga svinnar,</conj><sep /><conj>hvars</conj> menn blōta þǣr<br />
 			ā stallhelgum staþ:<br />
 			ey svā hǭtt foraþ<sep />kømr at hǫlþa sunum,<br />
-			hverjan ōr nauþum nema.”
+			<conj>hverjan</conj> ōr nauþum nema.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1338,8 +1338,8 @@
 		</original_prelude>
 		<original>
 			“Svipdagr heitik,<sep />Sōlbjartr hēt faþir,<br />
-			þaþan vrǭkumk vindkalda vegu;<br />
-			Urþar orþi<sep />viþr engi maþr,<br />
+			þaþan vrǭkumk <conj>vind</conj>kalda vegu;<br />
+			Urþar orþi<sep /><conj>viþr</conj> engi maþr,<br />
 			þōt sē viþ lǫst lagit.”
 		</original>
 		<translation_prelude>
@@ -1364,7 +1364,7 @@
 			“Vel þū nū kominn!<sep />hefk minn vilja beþit,<br />
 			fylgja skal kveþju koss;<br />
 			forkunnar sȳn<sep />mun flestan glaþa,<br />
-			hverrs hefr viþ annan ǭst.
+			<conj>es</conj> hefr viþ annan ǭst.
 		</original>
 		<translation_prelude>
 			Mengloth spake:
@@ -1378,10 +1378,10 @@
 	</block>
 	<block class="stanza" number="65">
 		<original>
-			Lengi satk<sep />Lyfjabergi ā,<br />
+			Lengi satk<sep /><conj>Lyfja</conj>bergi ā,<br />
 			beiþk þīn dø̄gr ok daga:<br />
-			nū þat varþ<sep />es ek vǣtt hefi,<br />
-			at kvamt, mǫgr! til minna sala.
+			nū þat varþ<sep />es ek <conj>vǣtta lengi,</conj><br />
+			at <conj>kvamt,</conj> mǫgr! til minna sala.
 		</original>
 		<translation>
 			Long have I sat<sep />on Lyfjaberg here,<br />
