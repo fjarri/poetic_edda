@@ -19,15 +19,15 @@
 		That all his answers are quite satisfactory makes no difference whatever to the outcome.
 		The questions and answers differ radically from those of the <chapterref>Vafthruthnismol</chapterref>.
 		Instead of being essentially mythological, they all concern synonyms.
-		Thor asks what the earth, the sky, the moon, and so on, are called “in each of all the worlds,” but there is no apparent significance in the f act that the gods call the earth one thing and the giants call it another; the answers are simply strings of poetic circumlocutions, or “kennings.”
-		Concerning the use of these “kennings” in skaldic poetry, cf. <ref chapter="Hymiskvitha">introductory note</ref> to the <chapterref>Hymiskvitha</chapterref>.
+		Thor asks what the earth, the sky, the moon, and so on, are called “in each of all the worlds,” but there is no apparent significance in the fact that the gods call the earth one thing and the giants call it another; the answers are simply strings of poetic circumlocutions, or “kennings.”
+		Concerning the use of these “kennings” in skaldic poetry, cf. introductory note to the <chapterref>Hymiskvitha</chapterref>.
 	</block>
 	<block class="text">
 		Mogk is presumably right in dating the poem as late as the twelfth century, assigning it to the period of “the Icelandic renaissance of skaldic poetry.”
 		It appears to have been the work of a man skilled in poetic construction,—Thor's questions, for instance, are neatly balanced in pairs,—and fully familiar with the intricacies of skaldic diction, but distinctly weak in his mythology.
 		In other words, it is learned rather than spontaneous poetry.
 		Finnur Jonsson's attempt to make it a tenth century Norwegian poem baffles logic.
-		Vigfusson is pretty sure the poem shows marked traces of Celtic influence, which is by no means incompatible with Mogk's theory (cf. <ref chapter="Rigsthula">introductory note</ref> to the <chapterref>Rigsthula</chapterref>).
+		Vigfusson is pretty sure the poem shows marked traces of Celtic influence, which is by no means incompatible with Mogk's theory (cf. introductory note to the <chapterref>Rigsthula</chapterref>).
 	</block>
 	<block class="text">
 		The poem is found only in <source>Regius</source>, where it follows the <chapterref>Thrymskvitha</chapterref>.
@@ -46,7 +46,7 @@
 		<original>
 			“Bekki breiþa<sep />nū skal brūþr meþ mēr,<br />
 			heim ī sinni snuask;<br />
-			hratat of mǣgi<sep />mun hverjum þykkja,<br />
+			hratat <conj>of</conj> mǣgi<sep />mun hverjum þykkja,<br />
 			heima skalat hvīlþ nema.”
 		</original>
 		<translation_prelude>
@@ -73,7 +73,7 @@
 		<original>
 			“Hvat's þat fira?<sep />hvī 'stu svā fǫlr umb nasar?<br />
 			vastu ī nǭtt meþ naï?<br />
-			þursa līki<sep />þykkjumk ā þēr vesa,<br />
+			þursa līki<sep /><conj>þykkjumk</conj> ā þēr vesa,<br />
 			estat þū til brūþar borinn.”
 		</original>
 		<translation_prelude>
@@ -97,8 +97,8 @@
 		<original>
 			“Alvīss heitik,<sep />bȳk fyr jǫrþ neþan,<br />
 			āk und steini staþ;<br />
-			vāpna verþs<sep />emk ā vit kominn:<br />
-			bregþit fǫstu heiti firar.”
+			<conj>vāpna verþs</conj><sep />emk ā vit kominn:<br />
+			<conj>bregþit</conj> fǫstu heiti <conj>firar.</conj>”
 		</original>
 		<translation_prelude>
 			Alvis spake:
@@ -111,7 +111,10 @@
 		</translation>
 		<comment>
 			<expl>Wagon-guider</expl>: Thor, who travels habitually on his goat drawn wagon.
-			Bugge changes “Vagna vets” to “Vapna verþs,” rendering the line “I am come to seek<sep />the cost of the weapons.”
+			Bugge changes “Vagna vers” to “Vapna verþs,” rendering the line
+			<textstanza class="translation">
+				I am come to seek<sep />the cost of the weapons.
+			</textstanza>
 			In either case, Alvis does not as yet recognize Thor.
 		</comment>
 	</block>
@@ -121,9 +124,9 @@
 		</original_prelude>
 		<original>
 			“Ek mun bregþa,<sep />þvīt ek brūþar ā<br />
-			flest of rǭþ sem faþir;<br />
+			flest <conj>of</conj> rǭþ sem faþir;<br />
 			vaskak heima,<sep />þās þēr heitit vas,<br />
-			sā einn es gjǫf's meþ goþum.”
+			sā einn es <conj>gjǫf's</conj> meþ goþum.”
 		</original>
 		<translation_prelude>
 			Thor spake:
@@ -215,7 +218,7 @@
 			“Meyjar ǭstum<sep />muna þēr verþa,<br />
 			vīsi gestr! of varit,<br />
 			ef ōr heimi kannt<sep />hverjum at segja<br />
-			allt þats viljak vita.
+			allt þats <conj>viljak</conj> vita.
 		</original>
 		<translation_prelude>
 			Thor spake:
@@ -230,16 +233,16 @@
 			<expl>Every world</expl>: concerning the nine worlds, cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">2</stanzaref> and note.
 			Many editors follow this stanza with one spoken by Alvis, found in late paper manuscripts, as follows:
 			<textstanza class="translation">
-				“Ask then, Vingthor,<sep />since eager thou art<br />
+				Ask then, Vingthor,<sep />since eager thou art<br />
 				The lore of the dwarf to learn;<br />
 				Oft have I fared<sep />in the nine worlds all,<br />
-				And wide is my wisdom of each.”
+				And wide is my wisdom of each.
 			</textstanza>
 			<textstanza class="original">
-				(“Freista mātta, Vingþōrr!<sep />alls þū frekr ert,<br />
+				(Freista mātta, Vingþōrr!<sep />alls þū frekr ert,<br />
 				dvergs at reyna dug;<br />
 				heima alla niu<sep />hefik of farit<br />
-				ok vitat vǣtna hvat.”)
+				ok vitat vǣtna hvat.)
 			</textstanza>
 		</comment>
 	</block>
@@ -262,7 +265,7 @@
 			Alvīss kvaþ:
 		</original_prelude>
 		<original>
-			“Jǫrþ heitir meþ mǫnnum,<sep />en meþ ǭsum fold,<br />
+			“Jǫrþ heitir meþ mǫnnum,<sep />en meþ <conj>ǭsum</conj> fold,<br />
 			kalla vega vanir,<br />
 			īgrø̄n jǫtnar,<sep />alfar groandi,<br />
 			kalla aur uppregin.”
@@ -532,7 +535,7 @@
 		</original_prelude>
 		<original>
 			“Logn heitir meþ mǫnnum,<sep />en lø̄gi meþ goþum,<br />
-			kalla vindslot vanir,<br />
+			kalla <conj>vindslot</conj> vanir,<br />
 			ofhlȳ jǫtnar,<sep />alfar dagsefa,<br />
 			kalla dvergar dags veru.”
 		</original>
@@ -619,8 +622,8 @@
 		</original_prelude>
 		<original>
 			“Eldr heitir meþ mǫnnum,<sep />en meþ ǭsum funi,<br />
-			kalla vǣgin vanir,<br />
-			freka jǫtnar,<sep />en forbrenni dvergar,<br />
+			kalla <conj>vǣgin</conj> vanir,<br />
+			<conj>freka</conj> jǫtnar,<sep />en forbrenni dvergar,<br />
 			kalla ī helju hrǫþuþ.”
 		</original>
 		<translation_prelude>
@@ -643,7 +646,7 @@
 		<original>
 			“Seg mer þat, Alvīss!<sep />ǫll of røk fira<br />
 			vǫrumk, dvergr! at vitir:<br />
-			hvē sā viþr heitir,<sep />es vex fyr alda sunum,<br />
+			hvē <conj>sā</conj> viþr heitir,<sep />es vex fyr alda sunum,<br />
 			heimi hverjum ī?”
 		</original>
 		<translation_prelude>
@@ -661,7 +664,7 @@
 			Alvīss kvaþ:
 		</original_prelude>
 		<original>
-			“Viþr heitir meþ mǫnnum,<sep />en vallar fax meþ goþum,<br />
+			“Viþr heitir meþ mǫnnum,<sep />en vallar <conj>fax</conj> meþ goþum,<br />
 			kalla hlīþþang halir,<br />
 			eldi jǫtnar,<sep />alfar fagrlima,<br />
 			kalla vǫnd vanir.”
@@ -826,7 +829,7 @@
 			“Ī einu brjōsti<sep />ek sāk aldrigi<br />
 			fleiri forna stafi;<br />
 			tǭlum miklum<sep />ek kveþ tǣldan þik:<br />
-			uppi est, dvergr! of dagaþr,<br />
+			uppi est, dvergr! <conj>of</conj> dagaþr,<br />
 			nū skīnn sōl ī sali.”<br />
 		</original>
 		<translation_prelude>
@@ -837,7 +840,7 @@
 			More wealth of wisdom old;<br />
 			But with treacherous wiles<sep />must I now betray thee:<br />
 			The day has caught thee, dwarf!<br />
-			(Now the sun shines here in the hall.)”<br />
+			[Now the sun shines here in the hall.]”<br />
 		</translation>
 		<comment>
 			Concerning the inability of the dwarfs to endure sunlight, which turns them into stone, cf. stanza <stanzaref chapter="Alvissmol">16</stanzaref> and note.
