@@ -15,7 +15,7 @@
 	</block>
 	<block class="text">
 		<chapterref>Baldrs Draumar</chapterref> is found only in the <source>Arnamagnæan Codex</source>, where it follows the <chapterref>Harbarthsljoth</chapterref> fragment.
-		It is preserved in various late paper manuscripts, with the title Vegtamskvitha (The Lay of Vegtam), which has been used by some editors.
+		It is preserved in various late paper manuscripts, with the title <source>Vegtamskvitha</source> (The Lay of Vegtam), which has been used by some editors.
 	</block>
 	<block class="text">
 		The poem, which contains but fourteen stanzas, has apparently been preserved in excellent condition.
@@ -39,7 +39,7 @@
 		<original>
 			Senn vǫru ǣsir<sep />allir ā þingi<br />
 			ok āsynjur<sep />allar ā māli,<br />
-			ok of þat rēþu<sep />rīkir tīvar,<br />
+			ok <conj>of</conj> þat rēþu<sep />rīkir tīvar,<br />
 			hvī væri Baldri<sep />ballir draumar.
 		</original>
 		<translation>
@@ -57,7 +57,7 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Upp reis Ōþinn,<sep />aldinn gautr,<br />
+			Upp reis Ōþinn,<sep /><conj>aldinn</conj> gautr,<br />
 			auk ā Sleipni<sep />sǫþul of lagþi;<br />
 			reiþ niþr þaþan<sep />Niflheljar til,<br />
 			mø̄tti hvelpi<sep />es ōr helju kvam.
@@ -76,8 +76,8 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			Sā vas blōþugr<sep />of brjōst framan<br />
-			ok galdrs fǫþur<sep />gō of lengi;<br />
+			Sā vas blōþugr<sep /><conj>of</conj> brjōst framan<br />
+			ok galdrs fǫþur<sep /><conj>gō of</conj> lengi;<br />
 			fram reiþ Ōþinn,<sep />foldvegr dunþi,<br />
 			hann kvam at hǭvu<sep />Heljar ranni.
 		</original>
@@ -99,7 +99,7 @@
 			Þā reiþ Ōþinn<sep />fyr austan dyrr,<br />
 			þars hann vissi<sep />vǫlvu leiþi,<br />
 			nam vittugri<sep />valgaldr kveþa,<br />
-			unz nauþug reis,<sep />nās orþ of kvaþ:
+			unz nauþug reis,<sep />nās orþ <conj>of</conj> kvaþ:
 		</original>
 		<translation>
 			Then Othin rode<sep />to the eastern door,<br />
@@ -111,7 +111,7 @@
 	<block class="stanza" number="5">
 		<original>
 			“Hvat's manna þat<sep />mēr ōkunnra<br />
-			es hǫfumk aukit<sep />erfitt sinni?<br />
+			es <conj>hǫfumk</conj> aukit<sep />erfitt sinni?<br />
 			vask snivin snjōvi<sep />ok slegin regni<br />
 			ok drifin dǫggu,<sep />dauþ vask lengi.”
 		</original>
@@ -198,7 +198,7 @@
 			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			“Hǫþr berr hǭvan<sep />hrōþrbaþm þinig,<br />
+			“Hǫþr berr hǭvan<sep />hrōþr<conj>baþm</conj> þinig,<br />
 			hann mun Baldri<sep />at bana verþa<br />
 			ok Ōþins sun<sep />aldri rǣna.<br />
 			Nauþug sagþak,<sep />nū munk þegja.”
@@ -224,7 +224,7 @@
 		<original>
 			“Þegjat, vǫlva!<sep />þik vilk fregna,<br />
 			unz alkunna,<sep />vilk enn vita:<br />
-			hverr mun heiptar [Heþi]<sep />hefnt of vinna<br />
+			hverr mun <conj>heiptar</conj> [Heþi]<sep />hefnt of vinna<br />
 			eþa Baldrs bana<sep />ā bāl vega?”
 		</original>
 		<translation_prelude>
@@ -245,9 +245,9 @@
 			Vǫlva kvaþ:
 		</original_prelude>
 		<original>
-			“<conj>Vāla</conj> berr Rindr<sep />ī vestrsǫlum,<br />
+			“<conj>Vrindr</conj> berr <conj>Vāla</conj><sep />ī vestrsǫlum,<br />
 			sa mun Ōþins sunr<sep />einnǣttr vega;<br />
-			hǫnd of þvǣrat<sep />nē hǫfuþ kembir,<br />
+			hǫnd <conj>of</conj> þvǣrat<sep />nē hǫfuþ kembir,<br />
 			āþr ā bāl of berr<sep />Baldrs andskota.<br />
 			Nauþug sagþak,<sep />nū munk þegja.”
 		</original>
