@@ -24,14 +24,14 @@
 	</block>
 	<block class="text">
 		Inserted bodily in the <chapterref>Hyndluljoth</chapterref> proper is a fragment of fifty-one lines, taken from a poem of which, by a curious chance, we know the name.
-		Snorri quotes one stanza of it, calling it “the short <chapterref>Voluspo</chapterref>.”
+		Snorri quotes one stanza of it, calling it “the short <emph>Voluspo</emph>.”
 		The fragment preserved gives, of course, no indication of the length of the original poem, but it shows that it was a late and very inferior imitation of the great <chapterref>Voluspo</chapterref>.
 		Like the <chapterref>Hyndluljoth</chapterref> proper, it apparently comes from the twelfth century; but there is nothing whatever to indicate that the two poems were the work of the same man, or were ever connected in any way until some blundering copyist mixed them up.
-		Certainly the connection did not exist in the middle of the thirteenth century, when Snorri quoted “the short <chapterref>Voluspo</chapterref>.”
+		Certainly the connection did not exist in the middle of the thirteenth century, when Snorri quoted “the short <emph>Voluspo</emph>.”
 	</block>
 	<block class="text">
 		Neither poem is of any great value, either as mythology or as poetry.
-		The author of “the short <chapterref>Voluspo</chapterref>” seems, indeed, to have been more or less confused as to his facts; and both poets were too late to feel anything of the enthusiasm of the earlier school.
+		The author of “the short <emph>Voluspo</emph>” seems, indeed, to have been more or less confused as to his facts; and both poets were too late to feel anything of the enthusiasm of the earlier school.
 		The names of Hyndla's heroes, of course, suggest an unlimited number of stories, but as most of these have no direct relation to the poems of the Edda, I have limited the notes to a mere record of who the persons mentioned were, and the saga-groups in which they appeared.
 	</block>
 	<block class="sepline" />
@@ -64,8 +64,8 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Biþjum Herfǫþr<sep />ī hugum sitja;<br />
-			hann geldr ok gefr<sep />goll verþungu:<br />
+			Biþjum <conj>Herfǫþr</conj><sep />ī hugum sitja;<br />
+			hann geldr ok gefr<sep />goll <conj>verþungu:</conj><br />
 			gaf Hermōþi<sep />hjalm ok brynju,<br />
 			en Sigmundi<sep />sverþ at þiggja.
 		</original>
@@ -84,7 +84,7 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			Gefr sigr sumum,<sep />en sumum aura,<br />
+			Gefr sigr <conj>sumum,</conj><sep />en <conj>sumum</conj> aura,<br />
 			mǣlsku mǫrgum<sep />ok mannvit firum;<br />
 			byri gefr brǫgnum<sep />en brag skǫldum,<br />
 			gefr mannsemi<sep />mǫrgum rekki.
@@ -101,7 +101,7 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			Þōr munk blōta,<sep />þess munk biþja,<br />
+			Þōr mun<conj>k</conj> blōta,<sep />þess mun<conj>k</conj> biþja,<br />
 			at ǣ viþ þik<sep />einart lāti;<br />
 			<lacuna /><sep /><lacuna /><br />
 			þō's hǫnnum ōtītt<sep />viþ jǫtuns brūþir.
@@ -121,8 +121,8 @@
 		<original>
 			Nū tak ulf þinn<sep />einn af stalli,<br />
 			lāt hann rinna<sep />meþ runa mīnum:<br />
-			seinn es gǫltr minn<sep />goþveg troþa,<br />
-			vilkak mar minn<sep />mǣtan hlø̄þa.”
+			seinn es gǫltr <conj>minn</conj><sep />goþveg troþa,<br />
+			vilk<conj>ak</conj> mar minn<sep />mǣtan hlø̄þa.”
 		</original>
 		<translation>
 			From the stall now<sep />one of thy wolves lead forth,<br />
@@ -166,7 +166,7 @@
 			Freyja kvaþ:
 		</original_prelude>
 		<original>
-			“Duliþ est, Hyndla!<sep />draums ǣtlak þēr,<br />
+			“<conj>Duliþ</conj> est, Hyndla!<sep />draums ǣtlak þēr,<br />
 			es kveþr ver minn<sep />ī valsinni,<br />
 			þars gǫltr gloar<sep />gollinbursti,<br />
 			Hildisvīni,<sep />es mer hagir gørþu<br />
@@ -192,7 +192,7 @@
 	<block class="stanza" number="8">
 		<original>
 			<conj>Senn nu</conj> ōr sǫþlum<sep /><conj>sīgask lǭtum</conj><br />
-			auk of jǫfra<sep />ǣttir dø̄ma;<br />
+			auk <conj>of</conj> jǫfra<sep />ǣttir dø̄ma;<br />
 			gumna þeira<sep />es frā goþum kvǭmu<br />
 			<lacuna /><sep /><lacuna />
 		</original>
@@ -297,7 +297,7 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Mōþur āttir<sep />menjum gǫfga,<br />
+			Mōþur <conj>āttir</conj><sep />menjum gǫfga,<br />
 			hykk at hēti<sep />Hlēdīs gyþja;<br />
 			Frōþi vas faþir,<sep />en <dagger /> Friaut mōþir:<br />
 			ǫll þōtti ǣtt sū<sep />meþ yfirmǫnnum.
@@ -313,8 +313,8 @@
 		<original>
 			Āli vas āþr<sep />ǫflgastr manna,<br />
 			Halfdanr fyrri<sep />hǣstr Skjǫldunga;<br />
-			frǣg vǫru folkvīg<sep />þaus framr gørþi,<br />
-			hvǫrfluþu hans verk<sep />meþ himins skautum.
+			frǣg vǫru folkvīg<sep />þaus <conj>framr</conj> gørþi,<br />
+			<conj>hvǫrfluþu</conj> hans verk<sep />meþ himins skautum.
 		</original>
 		<translation>
 			Of old the noblest<sep />of all was Ali,<br />
@@ -323,7 +323,7 @@
 			To the corners of heaven<sep />his deeds were carried.
 		</translation>
 		<comment>
-			Stanzas <stanzaref chapter="Hyndluljoth">14</stanzaref>–<stanzaref chapter="Hyndluljoth">16</stanzaref> are clearly interpolated, as Friaut (stanza <stanzaref chapter="Hyndluljoth">13</stanzaref>, line S) is the daughter of Hildigun (stanza <stanzaref chapter="Hyndluljoth">17</stanzaref>, line 1).
+			Stanzas <stanzaref chapter="Hyndluljoth">14</stanzaref>–<stanzaref chapter="Hyndluljoth">16</stanzaref> are clearly interpolated, as Friaut (stanza <stanzaref chapter="Hyndluljoth">13</stanzaref>, line 3) is the daughter of Hildigun (stanza <stanzaref chapter="Hyndluljoth">17</stanzaref>, line 1).
 			<expl>Halfdan</expl> the Old, a mythical king of Denmark, called by Snorri “the most famous of all kings,” of whom it was foretold that “for three hundred years there should be no woman and no man in his line who was not of great repute.”
 			After the slaying of Sigtrygg he married Almveig (or Alvig), daughter of King Eymund of Holmgarth (i.e., Russia), who bore him eighteen sons, nine at one birth.
 			These nine were all slain, but the other nine were traditionally the ancestors of the most famous families in Northern hero lore.
@@ -333,7 +333,7 @@
 		<original>
 			Efldisk viþ Eymund,<sep />ø̄ztan manna,<br />
 			en Sigtrygg <conj>slō</conj><sep />meþ svǫlum eggjum;<br />
-			ātti Almveigu,<sep />ø̄zta kvenna,<br />
+			<conj>ātti</conj> Almveigu,<sep />ø̄zta <conj>kvenna,</conj><br />
 			ōlu ok ǭttu<sep />ātjān sunu.
 		</original>
 		<translation>
@@ -368,7 +368,7 @@
 			Vas Hildiguþr<sep />hennar mōþir,<br />
 			Svǭvu barn<sep />ok Sǣkonungs;<br />
 			allt's þat ǣtt þīn,<sep />Ōttarr heimski!<br />
-			varþar at viti svā,<sep />vilt enn lengra?
+			<conj>varþar</conj> at viti svā,<sep />vilt enn lengra?
 		</original>
 		<translation>
 			Hildigun then<sep />her mother hight,<br />
@@ -386,7 +386,7 @@
 			Dagr ātti Þōru<sep />drengjamōþur,<br />
 			ōlusk ī ǣtt þar<sep />ø̄ztir kappar:<br />
 			Fraþmarr ok Gyrþr<sep />ok Frekar bāþir,<br />
-			Āmr ok Jǫfurmarr,<sep />Alfr enn gamli;<br />
+			Āmr ok <conj>Jǫfur</conj>marr,<sep />Alfr enn gamli;<br />
 			varþar at viti svā,<sep />vilt enn lengra?
 		</original>
 		<translation>
@@ -397,17 +397,17 @@
 			It is much to know,–<sep />wilt thou hear yet more?
 		</translation>
 		<comment>
-			Another interpolation, as Ketil (stanza <stanzaref chapter="Hyndluljoth">19</stanzaref>, line 1) is the husband of Hildigun (stanza 17).
+			Another interpolation, as Ketil (stanza <stanzaref chapter="Hyndluljoth">19</stanzaref>, line 1) is the husband of Hildigun (stanza <stanzaref chapter="Hyndluljoth">17</stanzaref>).
 			<expl>Dag</expl>: one of Halfdan's sons, and ancestor of the Döglings.
 			Line 5 may be a late addition.
 		</comment>
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			Ketill vas vinr þeirar,<sep />Klypps arfþegi,<br />
+			Ketill <conj>vas</conj> vinr <conj>þeirar,</conj><sep />Klypps arfþegi,<br />
 			vas mōþurfaþir<sep />mōþur þinnar;<br />
 			þar vas Frōþi<sep />fyrr an Kāri,<br />
-			en Hildi vas<sep />Hǫalfr of getinn.
+			en <conj>Hildi</conj> vas<sep /><conj>Hǫalfr</conj> of getinn.
 		</original>
 		<translation>
 			Her husband was Ketil,<sep />the heir of Klypp,<br />
@@ -422,7 +422,7 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Nanna vas nǣst þar<sep />Nǫkkva dōttir,<br />
+			<conj>Nanna</conj> vas nǣst þar<sep />Nǫkkva dōttir,<br />
 			vas mǫgr hennar<sep />māgr þīns fǫþur;<br />
 			fyrnd es sū mǣgþ,<sep />fram telk lengra:<br />
 			allt's þat ǣtt þīn,<sep />Ōttarr heimski!
@@ -458,7 +458,7 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			Gunnarr balkr,<sep />Grīmr harþskafi,<br />
+			Gunnarr balkr,<sep />Grīmr <conj>harþ</conj>skafi,<br />
 			jarnskjǫldr Þōrir,<sep />Ulfr gīnandi;<br />
 			kunnak bāþa<sep />Brodd ok Hørvi,<br />
 			vǫru þeir ī hirþ<sep />Hrolfs ens gamla.
@@ -476,7 +476,7 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<conj>Hervarþr</conj>, <conj>Hjǫrvarþr</conj>,<sep /><conj>Hrani</conj>, <conj>Angantȳr</conj>,<br />
+			<conj>Hervarþr, Hjǫrvarþr,</conj><sep /><conj>Hrani, Angantȳr,</conj><br />
 			Bui ok Brāmi,<sep />Barri ok Reifnir,<br />
 			Tindr ok Tyrfingr,<sep />tveir Haddingjar:<br />
 			allt's þat ǣtt þīn,<sep />Ōttarr heimski!
@@ -501,7 +501,7 @@
 			<conj>Þeir i Bolm austr</conj><sep />bornir vǭru<br />
 			Arngrīms synir<sep />ok Eyfuru;<br />
 			brǫkun berserkja<sep />bǫls margskonar,<br />
-			of lǫnd ok of lǫg<sep />sem logi fø̄ri:<br />
+			<conj>of</conj> lǫnd ok <conj>of</conj> lǫg<sep />sem logi fø̄ri:<br />
 			allt's þat ǣtt þīn,<sep />Ōttarr heimski!
 		</original>
 		<translation>
@@ -538,7 +538,7 @@
 			<expl>Jormunrek</expl>: the historical Ermanarich, king of the Goths, who died about 376.
 			According to Norse tradition, in which Jormunrek played a large part, he slew his own sons (cf. <chapterref>Guthrunarhvot</chapterref> and <chapterref>Hamthesmol</chapterref>).
 			In the saga Jormunrek married Sigurth's daughter, Svanhild.
-			Stanzas 25–27 connect Ottar's descent with the whole Volsung-Sigurth-Jormunrek-Gjuki genealogy.
+			Stanzas <stanzaref chapter="Hyndluljoth">25</stanzaref>–<stanzaref chapter="Hyndluljoth">27</stanzaref> connect Ottar's descent with the whole Volsung-Sigurth-Jormunrek-Gjuki genealogy.
 			The story of <expl>Sigurth</expl> is the basis for most of the heroic poems of the <source>Edda</source>, of the famous <source>Volsungasaga</source>, and, in Germany, of the <source>Nibelungenlied</source>.
 			On his battle with the dragon <expl>Fafnir</expl> cf. <chapterref>Fafnismol</chapterref>.
 		</comment>
@@ -553,7 +553,7 @@
 		<translation>
 			From Volsung's seed<sep />was the hero sprung,<br />
 			And Hjordis was born<sep />of Hrauthung's race,<br />
-			And Eylimi<sep />from the Othlings came,–<br />
+			And Eylimi<sep />from the Othlings came,—<br />
 			And all are thy kinsmen,<sep />Ottar, thou fool!
 		</translation>
 		<comment>
@@ -605,8 +605,8 @@
 	<block class="stanza" number="29">
 		<original>
 			Haraldr hilditǫnn<sep />borinn Hrø̄reki<br />
-			sløngvanbauga,<sep />sunr vas hann Auþar,<br />
-			Auþr djūpūþga<sep />Īvars dōttir,<br />
+			sløngvanbauga,<sep /><conj>sunr</conj> vas hann Auþar,<br />
+			Auþr djūp<conj>ūþga</conj><sep />Īvars dōttir,<br />
 			en Rāþbarþr vas<sep />Randvēs faþir:<br />
 			allt's þat ǣtt þīn,<sep />Ottarr heimski!”
 		</original>
@@ -642,7 +642,7 @@
 			Vǭru ellifu<sep />ǣsir talþir,<br />
 			Baldr es hnē<sep />viþ banaþūfu;<br />
 			þess lēzk Vāli<sep />verþr at hefna,<br />
-			es sīns brōþur<sep />slō handbana.
+			<conj>es</conj> sīns brōþur<sep />slō handbana.
 		</original>
 		<translation>
 			Eleven in number<sep />the gods were known,<br />
@@ -651,7 +651,7 @@
 			When his brother's slayer<sep />soon he slew.
 		</translation>
 		<comment>
-			At this point begins the fragmentary and interpolated “short <chapterref>Voluspo</chapterref>” identified by Snorri.
+			At this point begins the fragmentary and interpolated “short <emph>Voluspo</emph>” identified by Snorri.
 			The manuscript gives no indication of the break in the poem's continuity.
 			<expl>Eleven</expl>: there are various references to the “twelve” gods (including Baldr) Snorri (<source>Gylfaginning</source>, 20–33) lists the following twelve in addition to Othin: Thor, Baldr, Njorth, Freyr, Tyr, Bragi, Heimdall, Hoth, Vithar, Vali, Ull and Forseti; he adds Loki as of doubtful divinity.
 			<expl>Baldr</expl> and <expl>Vali</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">32</stanzaref>–<stanzaref chapter="Voluspo">33</stanzaref>.
@@ -676,7 +676,7 @@
 		<original>
 			Freyr ātti Gerþi,<sep />vas Gymis dōttir,<br />
 			jǫtna ǣttar<sep />ok Aurboþu:<br />
-			þā vas Þjazi<sep />þeira frǣndi,<br />
+			<conj>þā</conj> vas Þjazi<sep />þeira frǣndi,<br />
 			skautgjarn jǫtunn,<sep />vas Skaþi dōttir.
 		</original>
 		<translation>
@@ -694,7 +694,7 @@
 	<block class="stanza" number="33">
 		<original>
 			Mart segjum þēr<sep />ok munum fleira;<br />
-			vǫrumk at viti svā,<sep />vilt enn lengra?
+			vǫrumk at viti svā,<sep />vilt enn <conj>lengra?</conj>
 		</original>
 		<translation>
 			Much have I told thee,<sep />and further will tell;<br />
@@ -732,7 +732,7 @@
 		</translation>
 		<comment>
 			This stanza is quoted by Snorri (<source>Gylfaginning</source>, 5).
-			Of <expl>Vitholf</expl> (“Forest Wolf'), <expl>Vilmeith</expl> (”Wish-Treē`) and <expl>Svarthofthi</expl> (”Black Head") nothing further is known.
+			Of <expl>Vitholf</expl> (“Forest Wolf”), <expl>Vilmeith</expl> (“Wish-Treē”) and <expl>Svarthofthi</expl> (“Black Head”) nothing further is known.
 			<expl>Ymir</expl>: cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">3</stanzaref>.
 		</comment>
 	</block>
@@ -750,7 +750,7 @@
 		<original>
 			Varþ einn borinn<sep />ī ārdaga<br />
 			rammaukinn mjǫk<sep />ragna kindar;<br />
-			niu bǭru þann,<sep />naddgǫfgan mann,<br />
+			niu bǭru þann,<sep />nadd<conj>gǫfgan</conj> mann,<br />
 			jǫtna meyjar<sep />viþ jarþar þrǫm.
 		</original>
 		<translation>
@@ -767,7 +767,7 @@
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			Hann Gjǫlp of bar,<sep />hann Greip of bar,<br />
+			Hann Gjǫlp <conj>of</conj> bar,<sep />hann Greip <conj>of</conj> bar,<br />
 			bar hann Eistla<sep />ok Eyrgjafa,<br />
 			hann bar Ulfrūn<sep />ok Angeyja,<br />
 			Imþr ok Atla<sep />ok I::arnsaxa.
@@ -801,7 +801,7 @@
 		<original>
 			Varþ einn borinn<sep />ǫllum meiri,<br />
 			sā vas aukinn<sep />jarþar megni;<br />
-			þann kveþa stilli<sep />stōrūþgastan,<br />
+			þann kveþa stilli<sep />stōr<conj>ūþgastan,</conj><br />
 			Sif sifjaþan,<sep />sjǫtum gǫrvǫllum.
 		</original>
 		<translation>
@@ -849,7 +849,7 @@
 	<block class="stanza" number="43">
 		<original>
 			Loki <conj>āt</conj> hjarta—<sep />lindi brendu<br />
-			fann halfsviþinn<sep />hugstein konu—;<br />
+			fann halfsviþinn<sep />hugstein <conj>konu</conj>—;<br />
 			varþ Loptr kviþugr<sep />af konu illri:<br />
 			þaþan's ā foldu<sep />flagþ hvert komit.
 		</original>
@@ -869,7 +869,7 @@
 			Haf gengr hrīþum<sep />viþ himin sjalfan,<br />
 			līþr lǫnd yfir,<sep />en lopt bilar;<br />
 			þaþan koma snjōvar<sep />ok snarir vindar,<br />
-			þā's ī rāþi,<sep />at regin of þrjōti.
+			þā's ī rāþi,<sep />at <conj>regin of</conj> þrjōti.
 		</original>
 		<translation>
 			The sea, storm-driven,<sep />seeks heaven itself,<br />
@@ -886,7 +886,7 @@
 		<original>
 			Þā kømr annarr<sep />enn mǭtkari,<br />
 			þō þorik eigi<sep />þann at nefna;<br />
-			faïr sea nū<sep />fram of lengra,<br />
+			faïr sea nū<sep />fram <conj>of</conj> lengra,<br />
 			an Ōþinn mun<sep />ulfi mø̄ta.
 		</original>
 		<translation>
@@ -897,7 +897,7 @@
 		</translation>
 		<comment>
 			Cf. <chapterref>Voluspo</chapterref>, <stanzaref chapter="Voluspo">65</stanzaref>, where the possible reference to Christianity is noted.
-			With this stanza the fragmentary “short <chapterref>Voluspo</chapterref>” ends, and the dialogue between Freyja and Hyndla continues.
+			With this stanza the fragmentary “short <emph>Voluspo</emph>” ends, and the dialogue between Freyja and Hyndla continues.
 		</comment>
 	</block>
 	<block class="asterisks" />
@@ -907,9 +907,9 @@
 		</original_prelude>
 		<original>
 			“Ber minnisǫl<sep />mīnum gelti,<br />
-			svāt ǫll muni<sep />orþ at tīna,<br />
+			svā<conj>t</conj> ǫll muni<sep />orþ at tīna,<br />
 			þessa rø̄þu,<sep />ā þriþja morni,<br />
-			þās þeir Angantȳr<sep />ǣttir rekja.”
+			þās þeir Angantȳr<sep />ǣttir <conj>rekja.</conj>”
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -941,7 +941,7 @@
 			“Hence shalt thou fare,<sep />for fain would I sleep,<br />
 			From me thou gettest<sep />few favors good;<br />
 			My noble one, out<sep />in the night thou leapest<br />
-			As. Heithrun goes<sep />the goats among.
+			As Heithrun goes<sep />the goats among.
 		</translation>
 		<comment>
 			<expl>Heithrun</expl>: the she-goat that stands by Valhall (cf. <chapterref>Grimnismol</chapterref>, <stanzaref chapter="Grimnismol">25</stanzaref>), the name being here used simply of she-goats in general, in caustic comment on Freyja's morals.
@@ -950,8 +950,8 @@
 	</block>
 	<block class="stanza" number="48">
 		<original>
-			Rannt at Ōþi<sep />ey þreyjandi:<br />
-			skutusk þēr fleiri<sep />und fyrirskyrtu;<br />
+			Rannt at <conj>Ōþi</conj><sep />ey þreyjandi:<br />
+			skutusk <conj>þēr</conj> fleiri<sep />und fyrirskyrtu;<br />
 			hleypr, eþlvina!<sep />ūti ā nǭttum,<br />
 			sem meþ hǫfrum<sep />Heiþrūn fari.”
 		</original>
@@ -972,7 +972,7 @@
 		</original_prelude>
 		<original>
 			“Ek slǣ eldi<sep />of īviþju,<br />
-			svāt eigi kømsk<sep />ōbrend heþan;”
+			svāt eigi kømsk<sep /><conj>ōbrend</conj> heþan;”
 		</original>
 		<translation_prelude>
 			Freyja spake:
@@ -985,8 +985,8 @@
 			The manuscript repeats once again lines 3–4 of stanza <stanzaref chapter="Hyndluljoth">47</stanzaref> as the last two lines of this stanza.
 			It seems probable that two lines have been lost, to the effect that Freyja will burn the giantess alive
 			<textstanza class="translation">
-				“If swiftly now<sep />thou dost not seek,<br />
-				And hither bring<sep />the memory-beer.”
+				If swiftly now<sep />thou dost not seek,<br />
+				And hither bring<sep />the memory-beer.
 			</textstanza>
 		</comment>
 	</block>
