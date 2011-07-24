@@ -218,7 +218,7 @@
 	<block class="stanza" number="12">
 		<original>
 			Esa svā gott,<sep />sem gott kveþa,<br />
-			ǫl alda sunum,<br />
+			ǫl alda <conj>sunum,</conj><br />
 			þvīt fǣra veit,<sep />es fleira drekkr,<br />
 			sīns til geþs gumi.
 		</original>
@@ -358,7 +358,7 @@
 			Hjarþir þat vitu,<sep />nǣr þǣr heim skulu,<br />
 			ok ganga þā af grasi;<br />
 			en ōsviþr maþr<sep />kann ǣvagi<br />
-			sīns of māl maga.
+			sīns of <conj>māl</conj> maga.
 		</original>
 		<translation>
 			The herds know well<sep />when home they shall fare,<br />
@@ -372,7 +372,7 @@
 			Vesall maþr<sep />ok illa skapi<br />
 			hlǣr at hvīvetna;<br />
 			hitki hann veit,<sep />es hann vita þyrfti,<br />
-			at hann esa vamma vanr.
+			at hann <conj>esa</conj> vamma vanr.
 		</original>
 		<translation>
 			A paltry man<sep />and poor of mind<br />
@@ -442,7 +442,7 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			Ōsnotr maþr,<sep />es meþ aldir kømr,<br />
+			Ōsnotr <conj>maþr,</conj><sep />es meþ aldir kømr,<br />
 			þat es bazt at þegi;<br />
 			engi þat veit,<sep />at hann etki kann,<br />
 			nema hann mǣli til mart.<br />
@@ -534,7 +534,7 @@
 	<block class="stanza" number="33">
 		<original>
 			Ārliga verþar<sep />skyli maþr opt faa,<br />
-			nē ǭn til kynnis komi:<br />
+			<conj>nē ǭn</conj> til kynnis komi:<br />
 			sitr ok snōpir,<sep />lǣtr sem solginn sē,<br />
 			ok kann fregna at fǫu.
 		</original>
@@ -561,7 +561,7 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			Ganga skal,<sep />skala gestr vesa<br />
+			Ganga <conj>skal,</conj><sep />skala gestr vesa<br />
 			ey ī einum staþ;<br />
 			ljūfr verþr leiþr<sep />ef lengi sitr<br />
 			annars fletjum ā.
@@ -641,8 +641,8 @@
 	<block class="stanza" number="40">
 		<original>
 			Fannkak mildan mann<sep />eþa svā matargōþan,<br />
-			at vǣrit þiggja þegit,<br />
-			eþa sīns fear<sep />svāgi <conj>gjǫflan</conj>,<br />
+			at <conj>vǣrit</conj> þiggja þegit,<br />
+			eþa sīns fear<sep />svāgi <conj>gjǫflan,</conj><br />
 			at leiþ sē laun ef þegi.
 		</original>
 		<translation>
@@ -787,7 +787,7 @@
 	<block class="stanza" number="50">
 		<original>
 			Hrørnar þǫll<sep />sūs stendr þorpi ā,<br />
-			hlȳrat bǫrkr nē barr;<br />
+			hlȳr<conj>at</conj> bǫrkr nē barr;<br />
 			svā es maþr<sep />sās manngi ann,<br />
 			hvat skal hann lengi lifa?
 		</original>
@@ -816,8 +816,8 @@
 		<original>
 			Mikit eitt<sep />skala manni gefa,<br />
 			opt kaupir ī litlu lof;<br />
-			meþ hǫlfum hleifi<sep />ok meþ hǫllu keri<br />
-			fengumk fēlaga.
+			meþ hǫlfum <conj>hleifi</conj><sep />ok meþ hǫllu keri<br />
+			<conj>fengumk</conj> fēlaga.
 		</original>
 		<translation>
 			No great thing needs<sep />a man to give,<br />
@@ -845,7 +845,7 @@
 			Meþalsnotr<sep />skyli manna hverr,<br />
 			ǣva til snotr seï;<br />
 			þeim es fyrþa<sep />fegrst at lifa,<br />
-			es vel mart vitut.
+			es vel mart <conj>vitut.</conj>
 		</original>
 		<translation>
 			A measure of wisdom<sep />each man shall have,<br />
@@ -889,7 +889,7 @@
 		<original>
 			Brandr af brandi<sep />brinnr unz brunninn es,<br />
 			funi kveykisk af funa;<br />
-			maþr manni<sep />verþr af māli kuþr,<br />
+			maþr manni<sep />verþr <conj>af</conj> māli kuþr,<br />
 			en til dø̄lskr af dul.
 		</original>
 		<translation>
@@ -1089,7 +1089,7 @@
 	</block>
 	<block class="stanza" number="70">
 		<original>
-			Betra's lifþum<sep />an sē ōlifþum,<br />
+			Betra's lifþum<sep /><conj>an sē ōlifþum,</conj><br />
 			ey getr kvikr kū;<br />
 			eld sāk upp brinna<sep />auþgum manni fyrir,<br />
 			en ūti vas dauþr fyr durum.
@@ -1135,7 +1135,7 @@
 	<block class="stanza" number="73">
 		<original>
 			[Tveir'u eins herjar,<sep />tunga's hǫfuþs bani;<br />
-			erumk ī heþin hverjan<sep />handar vǣni.]
+			<conj>erumk</conj> ī heþin <conj>hverjan</conj><sep />handar vǣni.]
 		</original>
 		<translation>
 			Two make a battle,<sep />the tongue slays the head;<br />
@@ -1166,10 +1166,10 @@
 	</block>
 	<block class="stanza" number="75">
 		<original>
-			Veita maþr<sep />hinns vǣtki veit:<br />
+			Veita <conj>maþr</conj><sep />hinns vǣtki veit:<br />
 			margr verþr af auþi of api;<br />
 			maþr es auþugr,<sep />annarr ōauþugr,<br />
-			skylit þann vǣtkis vaa.
+			skylit þann <conj>vǣtkis vaa.</conj>
 		</original>
 		<translation>
 			A man knows not,<sep />if nothing he knows,<br />
@@ -1233,7 +1233,7 @@
 			Þat's þā reynt,<sep />es at rūnum spyrr,<br />
 			þeims gørþu ginnregin<br />
 			ok fāþi fimbulþulr,<br />
-			<conj>þat's þā reynt</conj><sep /><conj>es at rūnum spyrr</conj>,<br />
+			<conj>þat's þā reynt</conj><sep /><conj>es at rūnum spyrr,</conj><br />
 			<conj>rūnum</conj> reginkunnum:<br />
 			þā hefr bazt ef þegir.
 		</original>
@@ -1488,7 +1488,7 @@
 		<original>
 			Eyvitar firna<sep />es maþr annan skal<br />
 			þess's of margan gengr guma;<br />
-			heimska ōr horskum<sep />gørir hǫlþa sunu<br />
+			heimska ōr <conj>horskum</conj><sep />gørir hǫlþa sunu<br />
 			sā enn mǭtki munr.
 		</original>
 		<translation>
@@ -1607,7 +1607,7 @@
 			þā þat reyndak,<sep />es et rāþspaka<br />
 			teygþak ā flǣrþir fljōþ;<br />
 			hǭþungar hverrar<sep />leitaþi mer et horska man,<br />
-			ok hafþak þess vǣtki vīfs.
+			ok hafþak þess <conj>vǣtki</conj> vīfs.
 		</original>
 		<translation>
 			Many fair maids,<sep />if a man but tries them,<br />
@@ -1691,7 +1691,7 @@
 	</block>
 	<block class="stanza" number="106">
 		<original>
-			Gunnlǫþ gǫfumk<sep />gollnum stōli ā<br />
+			Gunnlǫþ <conj>gǫfumk</conj><sep />gollnum stōli ā<br />
 			drykk ens dȳra mjaþar;<br />
 			ill iþgjǫld<sep />lētk hana eptir hafa<br />
 			sīns ens heila hugar,<br />
@@ -1713,7 +1713,7 @@
 			Vel keypts litar<sep />hefk vel notit,<br />
 			fās es frōþum vant;<br />
 			þvīt Ōþrørir<sep />es nū upp kominn<br />
-			ā vē alda jaþars.
+			ā <conj>vē</conj> alda <conj>jaþars.</conj>
 		</original>
 		<translation>
 			The well-earned beauty<sep />well I enjoyed,<br />
@@ -1728,9 +1728,9 @@
 	</block>
 	<block class="stanza" number="108">
 		<original>
-			Ifi 'rumk ā,<sep />at værak enn kominn<br />
+			Ifi <conj>'rumk</conj> ā,<sep />at værak enn kominn<br />
 			jǫtna gǫrþum ōr,<br />
-			nema Gunnlaþar nytak,<sep />ennar gōþu konu,<br />
+			<conj>nema</conj> Gunnlaþar nytak,<sep />ennar gōþu konu,<br />
 			þeirars lǫgþumk arm yfir.
 		</original>
 		<translation>
@@ -1781,11 +1781,11 @@
 			Māl's at þylja<sep />þular stōli ā:<br />
 			Urþar brunni at<br />
 			sāk ok þagþak,<sep />sāk ok hugþak,<br />
-			hlȳddak ā Hǭva mǫl.<br />
-			[of rūnar heyrþak dø̄ma,<sep />nē of rǭþum þǫgþu<br />
+			hlȳddak ā <conj>Hǭva</conj> mǫl.<br />
+			of rūnar heyrþak dø̄ma,<sep />nē of rǭþum þǫgþu<br />
 			Hǭva hǫllu at,<br />
 			Hǭva hǫllu ī;<br />
-			heyrþak segja svā:]
+			heyrþak segja svā:
 		</original>
 		<translation>
 			It is time to chant<sep />from the chanter's stool;<br />
@@ -1847,7 +1847,7 @@
 	<block class="stanza" number="114">
 		<original>
 			Hōn svā gørir,<sep />at þū gaïr eigi<br />
-			þings nē þjōþarmāls;<br />
+			þings nē <conj>þjōþar</conj>māls;<br />
 			mat þū villat<sep />nē mannskis gaman,<br />
 			ferr þū sorgafullr at sofa.
 		</original>
@@ -2296,7 +2296,7 @@
 			ōþǫrf jǫtna sunum;<br />
 			heill sās kvaþ!<sep />heill sās kann!<br />
 			njōti sās nam!<br />
-			heilir þeirs hlȳddu <conj>ā</conj>!
+			heilir þeirs hlȳddu <conj>ā!</conj>
 		</original>
 		<translation>
 			Now are Hor's words<sep />spoken in the hall,<br />
@@ -2341,7 +2341,7 @@
 	<block class="stanza" number="140">
 		<original>
 			Viþ hleifi mik sǣldu<sep />nē viþ hornigi;<br />
-			nȳstak niþr þaþan:<br />
+			nȳstak niþr <conj>þaþan:</conj><br />
 			namk upp rūnar,<sep />ø̄pandi namk;<br />
 			fell ek aptr ofan.
 		</original>
@@ -2355,7 +2355,7 @@
 	<block class="stanza" number="141">
 		<original>
 			Fimbulljōþ niu<sep />namk af enum frǣgja syni<br />
-			Bǫlþorns Bestlu fǫþur;<br />
+			<conj>Bǫlþorns,</conj> Bestlu fǫþur;<br />
 			ok drykk of gatk,<sep />ens dȳra mjaþar<br />
 			ausenn Ōþrøri.
 		</original>
@@ -2393,8 +2393,8 @@
 			Rūnar munt finna<sep />ok rāþna stafi,<br />
 			es gørþu ginnregin<br />
 			ok fāþi fimbulþulr,<br />
-			mjǫk stōra stafi,<sep />mjǫk stinnar rūnar<br />
-			es reist ragna hrōptr:
+			mjǫk stōra stafi,<sep />mjǫk <conj>stinnar rūnar</conj><br />
+			<conj>es</conj> reist ragna hrōptr:
 		</original>
 		<translation>
 			Runes shalt thou find,<sep />and fateful signs,<br />
@@ -2415,7 +2415,7 @@
 		<original>
 			Ōþinn meþ ǭsum,<sep />en fyr ǫlfum Daïnn,<br />
 			Dvalinn dvergum fyrir,<br />
-			Alsviþr meþ jǫtnum,<sep /><conj>en fyr ȳta sunum</conj><br />
+			<conj>Alsviþr meþ</conj> jǫtnum,<sep /><conj>en fyr ȳta sunum</conj><br />
 			reistk sjalfr sumar.
 		</original>
 		<translation>
@@ -2521,7 +2521,7 @@
 	</block>
 	<block class="stanza" number="149">
 		<original>
-			Þat kannk et þriþja,<sep />ef mēr verþr þǫrf mikil<br />
+			Þat kannk <conj>et</conj> þriþja,<sep />ef mēr verþr þǫrf mikil<br />
 			hapts viþ heiptmǫgu:<br />
 			eggjar deyfik<sep />minna andskota,<br />
 			bītat þeim vǭpn nē velir.
@@ -2629,7 +2629,7 @@
 			leika lopti ā:<br />
 			ek svā vinnk,<sep />at þǣr villar fara<br />
 			sinna heimhama,<br />
-			sinna heimhaga.
+			sinna heim<conj>haga.</conj>
 		</original>
 		<translation>
 			A tenth I know,<sep />what time I see<br />
@@ -2771,7 +2771,7 @@
 		<original>
 			Ljōþa þessa<sep />mundu, Loddfāfnir!<br />
 			lengi vanr vesa,<br />
-			þōt þēr gōþ seï,<sep />ef <conj>geta mǣttir</conj>,<br />
+			þōt þēr gōþ seï,<sep />ef <conj>geta mǣttir,</conj><br />
 			nȳt, ef þū nemr,<br />
 			þǫrf, ef þū þiggr.
 		</original>
