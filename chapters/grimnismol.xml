@@ -132,7 +132,7 @@
 			Ātta nǣtr<sep />satk milli elda hēr,<br />
 			svāt mēr manngi mat nē bauþ,<br />
 			nema einn Agnarr,<sep />es einn skal rāþa<br />
-			Geirrøþar sunr <conj>Gotum</conj>.
+			Geirrøþar sunr <conj>Gotum.</conj>
 		</original>
 		<translation>
 			'Twixt the fires now<sep />eight nights have I sat,<br />
@@ -184,7 +184,7 @@
 	<block class="stanza" number="5">
 		<original>
 			Ȳdalir heita<sep />þars Ullr hefr<br />
-			sēr of gǫrva sali;<br />
+			sēr <conj>of</conj> gǫrva sali;<br />
 			Alfheim Frey<sep />gǭfu ī ārdaga<br />
 			tīvar at tannfeï.
 		</original>
@@ -330,7 +330,7 @@
 	<block class="stanza" number="13">
 		<original>
 			Himinbjǫrg 'ru en ǭttu,<sep />en þar Heimdall kveþa<br />
-			vǫngum valda ok veum:<br />
+			<conj>vǫngum</conj> valda ok veum:<br />
 			þar vǫrþr goþa<sep />drekkr ī vǣru ranni<br />
 			glaþr enn gōþa mjǫþ.
 		</original>
@@ -388,7 +388,7 @@
 	<block class="stanza" number="16">
 		<original>
 			Noatūn 'ru en elliftu,<sep />en þar Njǫrþr hefr<br />
-			sēr of gǫrva sali:<br />
+			sēr <conj>of</conj> gǫrva sali:<br />
 			manna þengill<sep />enn meinsvani<br />
 			hǭtimbruþum hǫrgi rǣþr.
 		</original>
@@ -407,7 +407,7 @@
 			Hrīsi vex<sep />ok hǭvu grasi<br />
 			Vīþars land Viþi:<br />
 			en þar mǫgr<sep />of lǣzk af mars baki<br />
-			frø̄kn at hefna fǫþur.
+			frø̄kn <conj>at</conj> hefna fǫþur.
 		</original>
 		<translation>
 			Filled with growing trees<sep />and high-standing grass<br />
@@ -463,7 +463,7 @@
 			Huginn ok Muninn<sep />fljūga hverjan dag<br />
 			jǫrmungrund yfir:<br />
 			oumk of Hugin,<sep />at hann aptr nē komi,<br />
-			þō seumk meirr of Munin.
+			þō seumk meirr <conj>of</conj> Munin.
 		</original>
 		<translation>
 			O'er Mithgarth Hugin<sep />and Munin both<br />
@@ -501,7 +501,7 @@
 			Valgrind heitir<sep />es stendr velli ā,<br />
 			heilǫg fyr helgum durum;<br />
 			forn's sū grind,<sep />en þat faïr vitu,<br />
-			hvē's ī lās of lokin.
+			hvē's ī lās <conj>of</conj> lokin.
 		</original>
 		<translation>
 			There Valgrind stands,<sep />the sacred gate,<br />
@@ -534,7 +534,7 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Fimm hundruþ golfa<sep />ok of fjōrum tøgum<br />
+			Fimm hundruþ golfa<sep />ok <conj>of</conj> fjōrum tøgum<br />
 			hykk Bilskirni meþ bugum;<br />
 			ranna þeira<sep />es ek rept vita<br />
 			mīns veitk mest magar.
@@ -597,7 +597,7 @@
 			Svǫl ok Gunnþrō,<sep />Fjǫrm ok Fimbulþul,<br />
 			Rīn ok Rinnandi,<br />
 			Gipul ok Gǫpul,<sep />Gǫmul ok Geirvimul,<br />
-			þǣr hverfa of hodd goþa;<br />
+			þǣr hverfa <conj>of</conj> hodd goþa;<br />
 			Þyn ok Vin,<sep />Þǫll ok Hǫll,<br />
 			Grǭþ ok Gunnþorin.
 		</original>
@@ -623,11 +623,11 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			Vīnǭ heitir ein,<sep />ǫnnur Vegsvinn,<br />
+			Vīnǭ heitir <conj>ein,</conj><sep />ǫnnur Vegsvinn,<br />
 			þriþja Þjōþnuma;<br />
 			Nyt ok Nǫt,<sep />Nǫnn ok Hrǫnn,<br />
 			Slīþ ok Hrīþ,<sep />Sylgr ok Ylgr,<br />
-			Vīþ ok Vǭn,<sep />Vǫnd ok Strǫnd,<br />
+			<conj>Vīl</conj> ok Vǭn,<sep />Vǫnd ok Strǫnd,<br />
 			Gjǫll ok Leiptr,<sep />þǣr falla gumnum nǣr,<br />
 			en falla til Heljar heþan.
 		</original>
@@ -680,7 +680,7 @@
 			Silfrintoppr ok Sinir,<br />
 			Gīsl ok Falhōfnir,<sep />Golltoppr ok Lēttfeti,<br />
 			þeim rīþa ǣsir jǫum<br />
-			dag hverjan,<sep />es dø̄ma fara<br />
+			dag <conj>hverjan,</conj><sep />es dø̄ma fara<br />
 			at aski Yggdrasils.
 		</original>
 		<translation>
@@ -902,7 +902,7 @@
 	<block class="stanza" number="39">
 		<original>
 			Skōll heitir ulfr<sep />es fylgir enu skīrleita goþi<br />
-			til Īsarnviþar,<br />
+			til <conj>Īsarn</conj>viþar,<br />
 			en annarr Hati,<sep />Hrōþvitnis sunr,<br />
 			skal fyr heiþa brūþi himins.
 		</original>
@@ -1034,7 +1034,7 @@
 	</block>
 	<block class="stanza" number="45">
 		<original>
-			Svipum hefk nū ypt<sep />fyr sigtīva mǫgum,<br />
+			Svipum hefk nū ypt<sep />fyr sigtīva <conj>mǫgum,</conj><br />
 			viþ þat skal vilbjǫrg vaka:<br />
 			ǫllum ǭsum<sep />þat skal inn koma<br />
 			Ægis bekki ā,<br />
@@ -1136,7 +1136,7 @@
 	</block>
 	<block class="stanza" number="49">
 		<original>
-			Grimnir hētumk<sep />at Geirrøþar,<br />
+			Grimnir <conj>hētumk</conj><sep />at Geirrøþar,<br />
 			en Jalkr at Āsmundar,<br />
 			en þā Kjalarr,<sep />es ek kjalka drō,<br />
 			[Þrōr þingum at,<br />
@@ -1187,7 +1187,7 @@
 			Ǫlr est, Geirrøþr!<sep />hefr þū ofdrukkit,<br />
 			<lacuna /><br />
 			miklu'st hnugginn,<sep />es þū'st mīnu gengi<br />
-			ok allra einherja.
+			<conj>ok allra einherja.</conj>
 		</original>
 		<translation>
 			Drunk art thou, Geirröth,<sep />too much didst thou drink,<br />
