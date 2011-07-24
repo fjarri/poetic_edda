@@ -205,7 +205,7 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Gengu regin ǫll<sep />ā røkstōla,<br />
+			[Gengu regin ǫll<sep />ā røkstōla,<br />
 			ginnheilug goþ,<sep />ok of þat gǣttusk:<br />
 			hverr skyldi dverga<sep />drōtt of skepja<br />
 			ōr Brimis blōþi<sep />ok ōr Blaïns leggjum.
@@ -332,7 +332,7 @@
 			Alfr ok Yngvi,<sep />Eikinskjaldi,<br />
 			Fjalarr ok Frosti,<sep />Fiþr ok Ginnarr;<br />
 			þat mun ǣ uppi,<sep />meþan ǫld lifir,<br />
-			langniþja tal<sep /><conj>til</conj> Lofars hafat.
+			langniþja tal<sep /><conj>til</conj> Lofars hafat.]
 		</original>
 		<translation>
 			Alf and Yngvi,<sep />Eikinskjaldi,<br />
@@ -343,8 +343,8 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			Unz þrīr kvǭmu<sep />ōr þvī liþi<br />
-			ǫflgir ok ǭstkir<sep />ǣsir at hūsi;<br />
+			Unz <conj>þrīr</conj> kvǭmu<sep />ōr þvī liþi<br />
+			ǫflgir ok ǭstkir<sep />ǣsir at <conj>hūmi;</conj><br />
 			fundu ā landi<sep />lītt megandi<br />
 			Ask ok Emblu<sep />ørlǫglausa.
 		</original>
@@ -428,7 +428,7 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Þat mank folkvīg<sep />fyrst ī heimi,<br />
+			Þat <conj>mank</conj> folkvīg<sep />fyrst ī heimi,<br />
 			er Gollveigu<sep />geirum studdu<br />
 			ok ī hǫllo Hārs<sep />hāna brendu,<br />
 			þrysvar brendu<sep />þrysvar borna,<br />
@@ -482,7 +482,7 @@
 			Fleygþi Ōþinn<sep />ok ī folk um skaut:<br />
 			þat vas enn folkvīg<sep />fyrst ī heimi;<br />
 			brotinn vas borþveggr<sep />borgar āsa,<br />
-			knǭttu vanir vīgskǭ<sep />vǫllu sporna.
+			knǭttu vanir vīg<conj>skǭ</conj><sep />vǫllu sporna.
 		</original>
 		<translation>
 			On the host his spear<sep />did Othin hurl,<br />
@@ -550,9 +550,9 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			Veitk Heimdallar<sep />hljōþ of folgit<br />
+			<conj>Veitk</conj> Heimdallar<sep />hljōþ of folgit<br />
 			und heiþvǫnum<sep />helgum baþmi;<br />
-			ā sēk ausask<sep />aurgum forsi<br />
+			ā <conj>sēk</conj> ausask<sep />aurgum forsi<br />
 			af veþi Valfǫþrs:<sep />vituþ enn eþa hvat?
 		</original>
 		<translation>
@@ -574,7 +574,7 @@
 	</block>
 	<block class="stanza" number="28">
 		<original>
-			Ein satk ūti,<sep />es enn aldni kvam<br />
+			Ein <conj>satk</conj> ūti,<sep />es enn aldni kvam<br />
 			yggjungr āsa<sep />ok ī augu leit:<br />
 			“hvers fregniþ mik,<sep />hvī freistiþ mīn?<br />
 			allt veitk, Ōþinn!<sep />hvar auga falt.”
@@ -615,9 +615,9 @@
 	<block class="stanza" number="30">
 		<original>
 			Valþi Herfǫþr<sep />hringa ok men;<br />
-			fekk spjǫll spaklig<sep />ok spǭ ganda.<br />
+			<conj>fekk</conj> spjǫll spaklig<sep />ok spǭ ganda.<br />
 			<lacuna /><br />
-			sāk vitt ok vītt<sep />of verǫld hverja.
+			<conj>sāk</conj> vitt ok vītt<sep />of verǫld hverja.
 		</original>
 		<translation>
 			Necklaces had I<sep />and rings from Heerfather,<br />
@@ -723,8 +723,8 @@
 	</block>
 	<block class="stanza" number="35">
 		<original>
-			Hapt sāk liggja<sep />und hvera lundi<br />
-			lǣgjarns līki<sep />Loka āþekkjan;<br />
+			Hapt <conj>sāk</conj> liggja<sep />und hvera lundi<br />
+			lǣ<conj>gjarns</conj> līki<sep />Loka āþekkjan;<br />
 			þar sitr Sigyn,<sep />þeygi of sīnum<br />
 			ver vel glȳjuþ:<sep />vituþ enn eþa hvat?
 		</original>
@@ -798,7 +798,7 @@
 	</block>
 	<block class="stanza" number="38">
 		<original>
-			Sal sāk standa<sep />sōlu fjarri<br />
+			Sal <conj>sāk</conj> standa<sep />sōlu fjarri<br />
 			Nāstrǫndu ā,<sep />norþr horfa dyrr;<br />
 			fellu eitrdropar<sep />inn of ljōra,<br />
 			sā 's undinn salr<sep />orma hryggjum.
@@ -819,9 +819,9 @@
 	</block>
 	<block class="stanza" number="39">
 		<original>
-			Sāk þar vaþa<sep />þunga strauma<br />
+			<conj>Sāk</conj> þar vaþa<sep />þunga strauma<br />
 			menn meinsvara<sep />ok morþvarga<br />
-			[ok þanns annars glepr<sep />eyrarūnu;]<br />
+			[ok þanns annars glepr<sep />eyrarūnu];<br />
 			þar sō Nīþhǫggr<sep />naï framgengna,<br />
 			sleit vargr vera:<sep />vituþ enn eþa hvat?
 		</original>
@@ -926,7 +926,7 @@
 		<original>
 			Geyr nū Garmr mjǫk<sep />fyr Gnipahelli,<br />
 			festr mun slitna,<sep />en freki rinna!<br />
-			fjǫlþ veitk frø̄þa,<sep />fram sēk lengra<br />
+			fjǫlþ <conj>veitk</conj> frø̄þa,<sep />fram sēk lengra<br />
 			umb ragna røk<sep />rǫmm sigtīva.
 		</original>
 		<translation>
@@ -1007,9 +1007,9 @@
 	<block class="stanza" number="47">
 		<original>
 			Skelfr Yggdrasils<sep />askr standandi,<br />
-			ymr aldit trē,<sep />en jǫtunn losnar;<br />
+			ymr <conj>aldit</conj> trē,<sep />en jǫtunn losnar;<br />
 			mǣlir Ōþinn<sep />viþ Mīms hǫfuþ,<br />
-			āþr Surtar hann<sep />sefi of gleypir.
+			āþr Surtar <conj>hann</conj><sep />sefi of gleypir.
 		</original>
 		<translation>
 			Yggdrasil shakes,<sep />and shiver on high<br />
@@ -1258,7 +1258,7 @@
 	</block>
 	<block class="stanza" number="59">
 		<original>
-			Sēk upp koma<sep />ǫþru sinni<br />
+			<conj>Sēk</conj> upp koma<sep />ǫþru sinni<br />
 			jǫrþ ōr ǣgi<sep />iþjagrø̄na;<br />
 			falla forsar,<sep />flȳgr ǫrn yfir,<br />
 			sās ā fjalli<sep />fiska veiþir.
@@ -1323,7 +1323,7 @@
 			Munu ōsānir<sep />akrar vaxa,<br />
 			bǫls mun alls batna,<sep />mun Baldr koma;<br />
 			bua Hǫþr ok Baldr<sep />Hropts sigtoptir,<br />
-			vē valtīva:<sep />vituþ enn eþa hvat?
+			<conj>vē valtīva:</conj><sep />vituþ enn eþa hvat?
 		</original>
 		<translation>
 			Then fields unsowed<sep />bear ripened fruit,<br />
@@ -1363,7 +1363,7 @@
 	</block>
 	<block class="stanza" number="64">
 		<original>
-			Sal sēk standa<sep />sōlu fegra,<br />
+			Sal <conj>sēk</conj> standa<sep />sōlu fegra,<br />
 			golli þakþan,<sep />ā Gimleï:<br />
 			þar skulu dyggvar<sep />drōttir byggva<br />
 			ok of aldrdaga<sep />ynþis njōta.
