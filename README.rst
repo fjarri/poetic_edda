@@ -344,6 +344,8 @@ Atlamol en Grönlenzku (20 July 2011)
 Guthrunarhvot (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+* Reviewed all chapters where 3th Gering's revision were used instead of 4th
+  and fixed differences
 * Add Guthrunarhvot chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
