@@ -399,3 +399,7 @@ Tasks for distant future
 * Grimnismol, 33, comment: Latex considers '.' after the second 'Mss.' as
   a final dot in the sentence. Can I prevent it from doing that?
   Same in st. 43, 'Ms.'
+* Left variant from 3th Gering revision for:
+  - Hovamol, 61
+  - Vafthruthnismol, 54
+  - Svipdagsmol, 50
