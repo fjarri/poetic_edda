@@ -667,7 +667,7 @@
 		<original>
 			“Ūt af hans aldni<sep />skal ā eld bera<br />
 			fyr <conj>kvelli</conj>sjūkar konur:<br />
-			ūtar hverfa þess<sep /><conj>þats es</conj> innar <conj>skal,</conj><br />
+			ūtar hverfa<sep /><conj>þats es</conj> innar <conj>skal,</conj><br />
 			sās hann meþ mǫnnum mjǫtuþr.”
 		</original>
 		<translation_prelude>
@@ -1064,7 +1064,7 @@
 			“Uni ok Iri,<sep /><conj>Jari</conj> ok Bari,<br />
 			Varr ok Vegdrasill,<br />
 			Dōri ok Ōri,<sep />Dellingr, at vas þar<br />
-			Liþskjalfr <conj>at</conj> Loki.”
+			liþskjalfr <conj>at</conj> Loki.”
 		</original>
 		<translation_prelude>
 			Fjolsvith spake:
@@ -1077,7 +1077,7 @@
 		</translation>
 		<comment>
 			<expl>Loki</expl>, the one god named, was the builder of the hall, with the aid of the nine dwarfs.
-			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <stanzaref chapter="Svipdagsmol">13</stanzaref> and <stanzaref chapter="Svipdagsmol">15</stanzaref>); <expl>Delling</expl> appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to some one else.
+			<expl>Jari</expl>, <expl>Dori</expl>, and <expl>Ori</expl> appear in the <chapterref>Voluspo</chapterref> catalogue of the dwarfs (stanzas <stanzaref chapter="Svipdagsmol">13</stanzaref> and <stanzaref chapter="Svipdagsmol">15</stanzaref>); <expl>Delling</expl> appears in <chapterref>Hovamol</chapterref>, <stanzaref chapter="Hovamol">161</stanzaref>, and <chapterref>Vafthruthnismol</chapterref>, <stanzaref chapter="Vafthruthnismol">25</stanzaref>, in the latter case, however, the name quite possibly referring to someone else.
 			The other dwarfs' names do not appear elsewhere.
 			The manuscripts differ as to the forms of many of these names.
 		</comment>
