@@ -137,9 +137,9 @@
 	<block class="stanza" number="1">
 		<original>
 			“Sāttu Sigrlinn<sep />Svafnis dōttur,<br />
-			meyja fegrsta<sep />ī munarheimi?<br />
-			þōt hagligar<sep />Hjǫrvarþs konur<br />
-			gumnum þykki<sep />at Glasislundi.”
+			<conj>meyja fegrsta</conj><sep />ī munarheimi?<br />
+			<conj>þōt</conj> hagligar<sep />Hjǫrvarþs konur<br />
+			gumnum <conj>þykki</conj><sep />at Glasislundi.”
 		</original>
 		<translation>
 			“Sawest thou Sigrlin,<sep />Svafnir's daughter,<br />
@@ -349,7 +349,7 @@
 		</original_prelude>
 		<original>
 			“Sverþ veitk liggja<sep />ī Sigarsholmi<br />
-			fjōrum fǣri<sep />an fimm tøgu;<br />
+			fjōrum <conj>fǣri</conj><sep />an fimm tøgu;<br />
 			eitt es þeira<sep />ǫllum betra,<br />
 			vīgnesta bǫl,<sep />ok varit gulli.
 		</original>
@@ -475,7 +475,7 @@
 		<original>
 			“Hverir'u hǫlþar<sep />ī Hatafirþi?<br />
 			skjǫldum's tjaldat ā skipum;<br />
-			frø̄knla lātiþ,<sep />fātt hykk yþr seask:<br />
+			<conj>frø̄knla</conj> lātiþ,<sep />fātt hykk yþr seask:<br />
 			kenniþ mēr nafn konungs.”
 		</original>
 		<translation>
@@ -492,7 +492,7 @@
 		<original>
 			“Helgi hann heitir,<sep />en þū hvergi mātt<br />
 			vinna grand grami;<br />
-			jarnborgir'ū<sep />of ǫþlings flota,<br />
+			jarnborgir'ū<sep /><conj>of</conj> ǫþlings flota,<br />
 			knegut oss fǭlur fara.”
 		</original>
 		<translation_prelude>
@@ -513,7 +513,7 @@
 			Hrīmgerþr kvaþ:
 		</original_prelude>
 		<original>
-			“Hvē þū heitir,<sep />halr enn āmǭtki?<br />
+			“Hvē <conj>þū</conj> heitir,<sep />halr enn āmǭtki?<br />
 			hvē þik kalla konir?<br />
 			fylkir þēr truir,<sep />es þik ī fǫgrum lǣtr<br />
 			beits stafni bua.”
@@ -643,7 +643,7 @@
 			Gneggja myndir, Atli!<sep />ef geldr nē vǣrir,<br />
 			brettir sinn Hrīmgerþr hala;<br />
 			aptarla hjarta<sep />hykk at þitt, Atli! seï,<br />
-			þōt hafir reina rǫdd.”
+			þōt hafir <conj>reina</conj> rǫdd.”
 		</original>
 		<translation>
 			Thou wouldst neigh, Atli,<sep />but gelded thou art,<br />
@@ -660,7 +660,7 @@
 			Atli kvaþ:
 		</original_prelude>
 		<original>
-			“Reini munk þēr þykkja,<sep />ef þū reyna knātt<br />
+			“<conj>Reini</conj> munk þēr þykkja,<sep />ef þū reyna knātt<br />
 			ok stīgak land af legi;<br />
 			ǫll munt lemjask,<sep />ef mēr's alhugat,<br />
 			ok sveigja þinn, Hrīmgerþr! hala.”
@@ -706,7 +706,7 @@
 		<original>
 			“Munkak ganga,<sep />āþr gumnar vakna,<br />
 			ok halda of vīsa vǫrþ;<br />
-			esa mēr ørvǣnt<sep />nǣr ōru komir,<br />
+			esa mēr ørvǣnt<sep />nǣr ōru <conj>komir,</conj><br />
 			skars! upp und skipi.”
 		</original>
 		<translation_prelude>
@@ -770,7 +770,7 @@
 		<original>
 			“Hina vilt heldr, Helgi!<sep />es rēþ hafnir skoþa<br />
 			fyrri nǭtt meþ firum;<br />
-			[marggollin mǣr<sep />þōttumk <conj>magni</conj> bera;<br />
+			[marggollin mǣr<sep /><conj>þōttumk magni</conj> bera;<br />
 			hēr stē hōn land af legi<br />
 			ok festi yþvarn flota;]<br />
 			hōn ein þvī veldr,<sep />es ek eigi māk<br />
@@ -826,7 +826,7 @@
 			dǫgg ī djūpa dali,<br />
 			[hagl ī hǭva viþu,<br />
 			þaþan kømr meþ ǫldum ār,<br />
-			allt vǫrumk leitt es leitk.]”
+			allt <conj>vǫrumk</conj> leitt es leitk.]”
 		</original>
 		<translation_prelude>
 			Hrimgerth spake:
@@ -964,7 +964,7 @@
 			Heþinn kvaþ:
 		</original_prelude>
 		<original>
-			“Hǫfumk miklu glø̄pr<sep />meiri sōttan,<br />
+			“<conj>Hǫfumk</conj> miklu glø̄pr<sep />meiri sōttan,<br />
 			<conj>an, brōþir! þēr</conj><sep /><conj>bœta mǣttak:</conj><br />
 			ek hef kørna<sep />ena konungbornu,<br />
 			brūþi þīna<sep />at bragarfulli.”
@@ -989,9 +989,9 @@
 		<original>
 			“Sakask eigi þū!<sep />sǫnn munu verþa<br />
 			ǫlmǭl, Heþinn!<sep />ykkur beggja:<br />
-			mēr hefr stillir<sep />stefnt til eyrar,<br />
+			mēr hefr stillir<sep /><conj>stefnt</conj> til eyrar,<br />
 			[þriggja nātta<sep />skylak þar koma;]<br />
-			erumk if ā þvī,<sep />at aptr komak.<br />
+			<conj>erumk</conj> if ā þvī,<sep />at aptr komak.<br />
 			[þā ma at gōþu<sep />gørask slīkt, ef skal.]”
 		</original>
 		<translation_prelude>
@@ -1078,7 +1078,7 @@
 		<original>
 			Sendi Helgi<sep />Sigar at rīþa<br />
 			ept Eylima<sep />eingadōttur:<br />
-			“Biþ brāþliga<sep />būna verþa,<br />
+			“<conj>Biþ</conj> brāþliga<sep /><conj>būna</conj> verþa,<br />
 			ef vill finna<sep />fylki kvikvan.”
 		</original>
 		<translation>
@@ -1118,8 +1118,8 @@
 		<original>
 			“Hvat varþ Helga<sep />Hjǫrvarþs syni?<br />
 			mēr's harþliga<sep />harma leitat;<br />
-			ef hann sǣr of lēk<sep />eþa sverþ of beit,<br />
-			þeim skalk gumna<sep />grand of vinna.”
+			ef hann sǣr <conj>of</conj> lēk<sep />eþa sverþ <conj>of</conj> beit,<br />
+			þeim skalk gumna<sep />grand <conj>of</conj> vinna.”
 		</original>
 		<translation_prelude>
 			Svava spake:
@@ -1163,7 +1163,7 @@
 			“Heil ves, Svāva!<sep />hug skalt deila,<br />
 			sjā mun ī heimi<sep />hinztr fundr vesa;<br />
 			tea buþlungi<sep />blø̄þa unþir,<br />
-			hǫfumk hjǫrr komit<sep />hjarta et nǣsta.
+			<conj>hǫfumk</conj> hjǫrr komit<sep />hjarta et nǣsta.
 		</original>
 		<translation_prelude>
 			Helgi spake:
@@ -1219,8 +1219,8 @@
 		<original>
 			“Kyss mik, Svāva!<sep />kømk eigi āþr<br />
 			Rogheims ā vit<sep />nē Rǫþulsfjalla,<br />
-			āþr hefnt hafak<sep />Hjǫrvarþs sonar,<br />
-			es buþlungr vas<sep />baztr und sōlu.”
+			āþr hefnt <conj>hafak</conj><sep />Hjǫrvarþs sonar,<br />
+			es buþlungr <conj>vas</conj><sep />baztr und sōlu.”
 		</original>
 		<translation_prelude>
 			Hethin spake:
