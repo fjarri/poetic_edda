@@ -104,7 +104,7 @@
 	<block class="stanza" number="1">
 		<original>
 			Meyjar flugu sunnan<sep />myrkviþ ī gøgnum,<br />
-			alvītr ungar,<sep />ørlǫg drȳgja;<br />
+			alvītr <conj>ungar,</conj><sep />ørlǫg drȳgja;<br />
 			þǣr ā sǣvarstrǫnd<sep />settusk at hvīlask,<br />
 			drōsir suþrø̄nar<sep />dȳrt līn spunnu.
 		</original>
@@ -155,7 +155,7 @@
 			Ǫnnur vas svanhvīt,<sep />svanfjaþrar drō<br />
 			<lacuna /><sep /><lacuna /><br />
 			en en þriþja,<sep />þeira systir,<br />
-			varþi hvītan<sep />hals Vø̄lundar.
+			varþi hvītan<sep />hals <conj>Vǫlundar.</conj>
 		</original>
 		<translation>
 			Swan-White second,—<sep />swan-feathers she wore,<br />
@@ -177,9 +177,9 @@
 		<original>
 			Sǭtu sīþan<sep />sjau vetr at þat,<br />
 			en enn ātta<sep />allan þrǭþu,<br />
-			[en enn niunda<sep />nauþr of skilþi;]<br />
+			[en enn niunda<sep />nauþr <conj>of</conj> skilþi;]<br />
 			meyjar fȳstusk<sep />ā myrkvan viþ,<br />
-			alvītr ungar,<sep />ørlǫg drȳgja.
+			alvītr <conj>ungar,</conj><sep />ørlǫg drȳgja.
 		</original>
 		<translation>
 			There did they sit<sep />for seven winters,<br />
@@ -240,7 +240,7 @@
 			Hann slō gull rautt<sep />viþ gim fāstan,<br />
 			lukþi hann alla<sep />lind bauga vel;<br />
 			svā beiþ <conj>lengi</conj><sep />ljōssar sinnar<br />
-			kvānar, ef hǭnum<sep />of koma gørþi.
+			kvānar, ef hǭnum<sep /><conj>of</conj> koma gørþi.
 		</original>
 		<translation>
 			Red gold he fashioned<sep />with fairest gems,<br />
@@ -257,7 +257,7 @@
 		<original>
 			Þat spyrr Nīþǫþr,<sep />Nïara drōttinn,<br />
 			at einn Vø̄lundr<sep />sat ī Ulfdǫlum:<br />
-			nǭttum fōru seggir,<sep />negldar vǭru brynjur,<br />
+			nǭttum <conj>fōru</conj> seggir,<sep />negldar vǭru brynjur,<br />
 			skildir bliku þeira<sep />viþ enn skarþa māna.
 		</original>
 		<translation>
@@ -275,7 +275,7 @@
 		<original>
 			Stigu ōr sǫþlum<sep />at salar gafli,<br />
 			gengu inn þaþan<sep />endlangan sal;<br />
-			sǫu þeir ā basti<sep />bauga dregna,<br />
+			sǫu þeir ā <conj>basti</conj><sep />bauga dregna,<br />
 			sjau hundruþ allra<sep />es sā seggr ātti.
 		</original>
 		<translation>
@@ -310,9 +310,9 @@
 		<original>
 			Kvam þar af veiþi<sep />veþreygr skyti,<br />
 			Vø̄lundr līþandi<sep />of langan veg;<br />
-			gekk brūnnar<sep />beru hold steikja,<br />
-			ār brann hrīsi<sep />allþurru fūrr,<br />
-			[viþr enn vindþurri<sep />fyr Vø̄lundi.]
+			gekk <conj>brūnnar</conj><sep />beru hold steikja,<br />
+			<conj>ār</conj> brann hrīsi<sep />all<conj>þurru fūrr,</conj><br />
+			[viþr enn <conj>vind</conj>þurri<sep />fyr Vø̄lundi.]
 		</original>
 		<translation>
 			Völund home<sep />from his hunting came,<br />
@@ -353,7 +353,7 @@
 			Sat svā lengi,<sep />at sofnaþi,<br />
 			ok vaknaþi<sep />viljalauss:<br />
 			vissi ser ā hǫndum<sep />hǫfgar nauþir,<br />
-			en ā fōtum<sep />fjǫtur of spentan.
+			en ā fōtum<sep />fjǫtur <conj>of</conj> spentan.
 		</original>
 		<translation>
 			So long he sat<sep />that he fell asleep,<br />
@@ -396,7 +396,7 @@
 		</original_prelude>
 		<original>
 			“Goll vas þar eigi<sep />ā Grana leiþu,<br />
-			fjarri hykk vārt land<sep />fjǫllum Rīnar;<br />
+			fjarri <conj>hykk</conj> vārt land<sep />fjǫllum Rīnar;<br />
 			mank at meiri<sep />mǣti ǭttum,<br />
 			es heil hiu<sep />heima vǭrum.”
 		</original>
@@ -455,7 +455,7 @@
 			“Āmun eru augu<sep />ormi frāna,<br />
 			tenn hǫnum teygjask,<sep />es tēt es sverþ<br />
 			ok Bǫþvildar<sep />baug of þekkir;<br />
-			snīþiþ ēr hann<sep />sinva magni<br />
+			snīþiþ ēr hann<sep /><conj>sinva</conj> magni<br />
 			ok setiþ sīþan<sep />ī Sǣvarstǫþ.”
 		</original>
 		<translation>
@@ -489,7 +489,7 @@
 		<original>
 			“Skīnn Nīþaþi<sep /><conj>narr</conj> ā linda<br />
 			<conj>sās</conj> ek hvesta<sep />sem hagast kunnak<br />
-			[ok ek herþak<sep />sem hø̄gst þōttumk;]<br />
+			[ok ek herþak<sep />sem hø̄gst <conj>þōttumk;</conj>]<br />
 			sā's mēr frānn mǣkir<sep />ǣ fjarri borinn,<br />
 			[sēkka þann Vø̄lundi<sep />til smiþju borinn,]<br />
 			nū berr Bǫþvildr<sep />[brūþar minnar<br />
@@ -559,7 +559,7 @@
 		</original_prelude>
 		<original>
 			“Komiþ einir tveir,<sep />komiþ annars dags!<br />
-			lǣtk goll þat ykkr<sep />of gefit verþa;<br />
+			lǣtk goll þat ykkr<sep /><conj>of</conj> gefit verþa;<br />
 			segiþa meyjum<sep />nē salþjōþum,<br />
 			manni øngum,<sep />at mik fyndiþ.”
 		</original>
@@ -581,7 +581,7 @@
 	<block class="stanza" number="23">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			snimma kallaþi<sep />seggr ā annan,<br />
+			snimma kallaþi<sep />seggr <conj>ā</conj> annan,<br />
 			brōþir ā brōþur:<sep />“gǫngum baug sea!”
 		</original>
 		<translation>
@@ -599,7 +599,7 @@
 			Kvǭmu til kistu,<sep />krǫfþu lukla,<br />
 			opin vas illūþ<sep />es ī litu;<br />
 			sneiþ af haufuþ<sep />hūna þeira<br />
-			ok und fen fjǫturs<sep />fø̄tr of lagþi.
+			ok und fen fjǫturs<sep />fø̄tr <conj>of</conj> lagþi.
 		</original>
 		<translation>
 			They came to the chest,<sep />and they craved the keys,<br />
@@ -616,7 +616,7 @@
 			En skālar þǣr,<sep />es und skǫrum vǭru,<br />
 			sveip ūtan silfri,<sep />seldi Nīþaþi,<br />
 			en ōr augum<sep />jarknasteina,<br />
-			sendi kunnigri<sep />kvǭn Nīþaþar.
+			sendi kunnigri<sep /><conj>kvǭn</conj> Nīþaþar.
 		</original>
 		<translation>
 			Their skulls, once hid<sep />by their hair, he took,<br />
@@ -691,7 +691,7 @@
 			svāt ī sessi hōn<sep />of sofnaþi:<br />
 			<stanzaprelude>Vœlundr kvaþ:</stanzaprelude><br />
 			“Nū hefk of hefnt<sep />harma minna<br />
-			allra nema eins<sep />īviþgjarnri.”
+			allra nema eins<sep />īviþ<conj>gjarnri.</conj>”
 		</original>
 		<translation>
 			Beer he brought,<sep />he was better in cunning,<br />
@@ -771,7 +771,7 @@
 		<original>
 			“Vaki ek ofvalt<sep />viljalauss,<br />
 			sofna ek minst<sep />sīz sunu dauþa;<br />
-			kǫlumk ī haufuþ,<sep />kǫld erumk rǭþ þīn,<br />
+			<conj>kǫlumk</conj> ī haufuþ,<sep />kǫld <conj>erumk</conj> rǭþ þīn,<br />
 			vilnumk þess nū,<sep />at viþ Vø̄lund dø̄mak.
 		</original>
 		<translation_prelude>
@@ -854,7 +854,7 @@
 			Gakk til smiþju<sep />es þū gørþir,<br />
 			þar fiþr belgi<sep />blōþi stokkna;<br />
 			sneiþk af haufuþ<sep />hūna þinna<br />
-			ok und fen fjǫturs<sep />fø̄tr of lagþak.
+			ok und fen fjǫturs<sep />fø̄tr <conj>of</conj> lagþak.
 		</original>
 		<translation>
 			Seek the smithy<sep />that thou didst set,<br />
@@ -869,7 +869,7 @@
 	<block class="stanza" number="37">
 		<original>
 			En skālar þǣr<sep />es und skǫrum vǭru<br />
-			sveipk ūtan silfri,<sep />seldak Nīþaþi,<br />
+			sveipk ūtan silfri,<sep /><conj>seldak</conj> Nīþaþi,<br />
 			en ōr augum<sep />jarknasteina<br />
 			sendak kunnigri<sep />kvǭn Nīþaþar.
 		</original>
@@ -906,7 +906,7 @@
 		</original_prelude>
 		<original>
 			“Mǣltira māl<sep />es mik meirr tregi,<br />
-			nē þik viljak, Vø̄lundr!<sep />verr of neita:<br />
+			nē þik viljak, Vø̄lundr!<sep />verr <conj>of njōta:</conj><br />
 			esat svā maþr hǭr,<sep />at þik af hesti taki,<br />
 			nē svā ǫflugr,<sep />at þik neþan skjōti,<br />
 			þars þū skollir<sep />viþ skȳ uppi.”
@@ -950,8 +950,8 @@
 		<original>
 			<conj>Þā kvaþ þat Nīþǫþr,</conj><sep /><conj>Nïara drōttinn:</conj><br />
 			“Upp rīs, Þakkrāþr,<sep />þrǣll minn bazti!<br />
-			biþ Bǫþvildi<sep />ena brāhvītu,<br />
-			gangi fagrvariþ<sep />viþ fǫþur rø̄þa.”
+			biþ Bǫþvildi<sep /><conj>ena</conj> brāhvītu,<br />
+			<conj>gangi</conj> fagrvariþ<sep />viþ fǫþur rø̄þa.”
 		</original>
 		<translation>
 			Then spake Nithuth,<sep />lord of the Njars:<br />
@@ -994,7 +994,7 @@
 			“Satt's þat, Nīþǫþr!<sep />es sagþi þēr:<br />
 			sǭtum vit Vø̄lundr<sep />saman ī holmi<br />
 			eina ǫgurstund,<sep />ǣva skyldi!<br />
-			ek vǣtr hǭnum<sep />vinna kunnak,<br />
+			ek vǣtr hǭnum<sep /><conj>vinna</conj> kunnak,<br />
 			ek vǣtr hǭnum<sep />vinna māttak.”
 		</original>
 		<translation_prelude>
