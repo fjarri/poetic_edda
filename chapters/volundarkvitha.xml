@@ -79,7 +79,7 @@
 			These did they bring home to their hall with them.<br />
 			Egil took Olrun, and Slagfith Swan-White, and Völund All-Wise.<br />
 			There they dwelt seven winters; but then they flew away to find battles, and came back no more.<br />
-			Then Egil set forth on his snowshoes to follow Olrun, and Slagfith followed Swan White, but Völund stayed in Ulfdalir.<br />
+			Then Egil set forth on his snowshoes to follow Olrun, and Slagfith followed Swan-White, but Völund stayed in Ulfdalir.<br />
 			He was a most skillful man, as men know from old tales.<br />
 			King Nithuth had him taken by force, as the poem here tells.
 		</translation>
@@ -302,7 +302,7 @@
 			<lacuna /><sep /><lacuna />
 		</translation>
 		<comment>
-			No gap indicated in the manuscript; some editors combine these lines with lines 3–4 of stanza to, while others combine them with the first two lines of stanza <stanzaref chapter="Völundarkvitha">12</stanzaref>.
+			No gap indicated in the manuscript; some editors combine these lines with lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">10</stanzaref>, while others combine them with the first two lines of stanza <stanzaref chapter="Völundarkvitha">12</stanzaref>.
 			The one ring which Nithuth's men steal is given to Bothvild, and proves the cause of her undoing.
 		</comment>
 	</block>
@@ -411,7 +411,7 @@
 		</translation>
 		<comment>
 			The manuscript definitely assigns this stanza to Völund, but many editors give the first two lines to Nithuth.
-			In the manuscript stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> is followed by the two lines of stanza 2, and many editions make of lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> and stanza <stanzaref chapter="Völundarkvitha">2</stanzaref> a single speech by Völund.
+			In the manuscript stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> is followed by the two lines of stanza <stanzaref chapter="Völundarkvitha">2</stanzaref>, and many editions make of lines 3–4 of stanza <stanzaref chapter="Völundarkvitha">16</stanzaref> and stanza <stanzaref chapter="Völundarkvitha">2</stanzaref> a single speech by Völund.
 			<expl>Grani's way</expl>: Grani was Sigurth's horse, on which he rode to slay Fafnir and win Andvari's hoard; this and the reference to the <expl>Rhine</expl> as the home of wealth betray the southern source of the story.
 			If lines 1–2 belong to Völund, they mean that Nithuth got his wealth in the Rhine country, and that Völund's hoard has nothing to do with it; if the speaker is Nithuth, they mean that Völund presumably has not killed a dragon, and that he is far from the wealth of the Rhine, so that he must have stolen his treasure from Nithuth himself.
 		</comment>
@@ -646,7 +646,7 @@
 	</block>
 	<block class="stanza" number="27">
 		<original>
-			Þā nam Bǫþvildr<sep />baugi at hrōsa<br />
+			þā nam Bǫþvildr<sep />baugi at hrōsa<br />
 			<lacuna /><sep /><lacuna /><br />
 			<lacuna /><sep />es brotit hafþi:<br />
 			“Þorigak segja<sep />nema þēr einum.”
