@@ -94,7 +94,7 @@
 			Þōrr kvaþ:
 		</original_prelude>
 		<original>
-			“Ferþu mik of sundit!<sep />fø̄þik þik ā morgin:<br />
+			“Ferþu mik <conj>of</conj> sundit!<sep />fø̄þik þik ā morgin:<br />
 			meis hefk ā baki,<sep />verþra matr enn betri.<br />
 			Āt ek ī hvīlþ,<sep />āþr ek heiman fōr,<br />
 			sildr ok hafra:<sep />saþr emk enn þess.”
@@ -196,7 +196,7 @@
 			rekkr enn rāþsvinni,<sep />es bȳr ī Rāþseyjarsundi;<br />
 			baþat hann hlennimenn flytja<sep />eþa hrossa þjōfa,<br />
 			gōþa eina<sep />ok þās ek gǫrva kunna.<br />
-			Segþu til nafns þīns,<sep />ef þū vill of sundit fara.”
+			Segþu til nafns þīns,<sep />ef þū vill <conj>of</conj> sundit fara.”
 		</original>
 		<translation_prelude>
 			The ferryman spake:
@@ -243,7 +243,7 @@
 			Ferjukarlinn kvaþ:
 		</original_prelude>
 		<original>
-			“Hārbarþr ek heiti,<sep />hylk of nafn sjaldan.”
+			“Hārbarþr ek heiti,<sep />hylk <conj>of</conj> nafn sjaldan.”
 		</original>
 		<translation_prelude>
 			The ferryman spake:
@@ -272,7 +272,7 @@
 		</original_prelude>
 		<original>
 			“En þōt ek sakar eiga,<sep />fyr slīkum sem þū est<br />
-			munk forþa þō<sep />fjǫrvi mīnu,<br />
+			munk forþa <conj>þō</conj><sep />fjǫrvi mīnu,<br />
 			nema ek feigr sē.”
 		</original>
 		<translation_prelude>
@@ -294,8 +294,8 @@
 			Þōrr kvaþ:
 		</original_prelude>
 		<original>
-			“Harm ljōtan<sep /><conj>hykk</conj> mēr ī þvī <conj>vesa</conj>,<br />
-			at vaþa of vāginn til þīn<sep />ok vǣta ǫgur minn;<br />
+			“Harm ljōtan<sep /><conj>hykk</conj> mēr ī þvī <conj>vesa,</conj><br />
+			at vaþa <conj>of</conj> vāginn til þīn<sep />ok vǣta ǫgur minn;<br />
 			skyldak launa kǫgursveini þīnum<sep />kanginyrþi,<br />
 			ef ek komumk of sundit.”
 		</original>
@@ -509,7 +509,7 @@
 		</original_prelude>
 		<original>
 			“Þat hefr eik<sep />es af annarri skefr:<br />
-			of sik es hverr ī slīku.<br />
+			<conj>of</conj> sik es hverr ī slīku.<br />
 			Hvat vanntu meþan, Þōrr?”
 		</original>
 		<translation_prelude>
@@ -644,7 +644,7 @@
 			Hārbarþr kvaþ:
 		</original_prelude>
 		<original>
-			“Hvat skyldir þū of sund seilask,<sep />es sakar'u alls øngvar?<br />
+			“Hvat skyldir þū <conj>of</conj> sund seilask,<sep />es sakar'u alls øngvar?<br />
 			Hvat vanntu þā, Þōrr?”
 		</original>
 		<translation_prelude>
@@ -891,7 +891,7 @@
 			Hārbarþr kvaþ:
 		</original_prelude>
 		<original>
-			“Bø̄ta skal þēr þat þā<sep />baugi mundar,<br />
+			“Bø̄ta skal þēr þat þā<sep />baugi <conj>mundar,</conj><br />
 			sem jafnendr unnu<sep />þeirs okkr vilja sǣtta.”
 		</original>
 		<translation_prelude>
@@ -928,7 +928,7 @@
 		</original_prelude>
 		<original>
 			“Nam ek at mǫnnum<sep />þeim enum aldrø̄num<br />
-			es bua ī heimis haugum.”
+			es bua ī heimis <conj>haugum.</conj>”
 		</original>
 		<translation_prelude>
 			Harbarth spake:
@@ -946,8 +946,8 @@
 			Þōrr kvaþ:
 		</original_prelude>
 		<original>
-			“Þā gefr þū<sep />gott nafn dysjum,<br />
-			es þū kallar þǣr heimis hauga.”
+			“<conj>Þā</conj> gefr þū<sep />gott nafn dysjum,<br />
+			es þū kallar <conj>þǣr</conj> heimis <conj>hauga.</conj>”
 		</original>
 		<translation_prelude>
 			Thor spake:
@@ -996,7 +996,7 @@
 			Hārbarþr kvaþ:
 		</original_prelude>
 		<original>
-			“Sif ā hōr heima,<sep />hans mundu fund vilja,<br />
+			“Sif ā <conj>hōr</conj> heima,<sep />hans mundu fund vilja,<br />
 			þann mundu þrek drȳgja,<sep />þat es þēr skyldara.”
 		</original>
 		<translation_prelude>
@@ -1032,7 +1032,7 @@
 		</original_prelude>
 		<original>
 			“Satt hykk mik segja;<sep />seinn estu at fǫr þinni;<br />
-			langt mundir þū nū kominn, Þōrr!<sep />ef þū liþ of fø̄rir.”
+			langt mundir þū nū kominn, Þōrr!<sep />ef þū <conj>liþ of</conj> fø̄rir.”
 		</original>
 		<translation_prelude>
 			Harbarth spake:
@@ -1061,8 +1061,8 @@
 			Hārbarþr kvaþ:
 		</original_prelude>
 		<original>
-			“Āsaþōri<sep />hugþak aldri mundu<br />
-			glepja farhirþi farar.”
+			“Āsa<conj>þōri</conj><sep />hugþak aldri mundu<br />
+			glepja <conj>far</conj>hirþi farar.”
 		</original>
 		<translation_prelude>
 			Harbarth spake:
