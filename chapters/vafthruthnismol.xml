@@ -89,8 +89,8 @@
 		</original_prelude>
 		<original>
 			“Fjǫlþ ek fōr<sep />fjǫlþ ek freistaþak,<br />
-			fjǫlþ of reyndak regin;<br />
-			hitt viljak vita,<sep />hvē Vafþrūþnis<br />
+			fjǫlþ <conj>of</conj> reyndak regin;<br />
+			hitt <conj>viljak</conj> vita,<sep />hvē Vafþrūþnis<br />
 			salakynni seï.”
 		</original>
 		<translation_prelude>
@@ -169,7 +169,7 @@
 		<original>
 			“Hvat's þat manna<sep />es ī mīnum sal<br />
 			verpumk orþi ā?<br />
-			ūt nē kømr<sep />ōrum hǫllum frā,<br />
+			ūt nē <conj>kømr</conj><sep />ōrum hǫllum frā,<br />
 			nema þū enn snotrari seïr.”
 		</original>
 		<translation_prelude>
@@ -212,7 +212,7 @@
 		<original>
 			“Hvī þu þā, Gagnrāþr!<sep />mǣlisk af golfi fyrir?<br />
 			farþu ī sess ī sal!<br />
-			þā skal freista,<sep />hvaþarr fleira viti,<br />
+			þā skal freista,<sep /><conj>hvaþarr</conj> fleira viti,<br />
 			gestr eþa enn gamli þulr.”
 		</original>
 		<translation_prelude>
@@ -256,7 +256,7 @@
 			“Seg mēr, Gagnrāþr!<sep />alls þu ā golfi vill<br />
 			þīns of freista frama:<br />
 			hvē sā hestr heitir<sep />es hverjan dregr<br />
-			dag of drōttmǫgu?”
+			dag <conj>of</conj> drōttmǫgu?”
 		</original>
 		<translation_prelude>
 			Vafthruthnir spake:
@@ -275,7 +275,7 @@
 		<original>
 			“Skinfaxi heitir<sep />es enn skīra dregr<br />
 			dag of drōttmǫgu;<br />
-			hesta baztr<sep />þykkir meþ Hreiþgotum,<br />
+			hesta baztr<sep />þykkir meþ <conj>Hreiþ</conj>gotum,<br />
 			ey lȳsir mǫn af mari.”
 		</original>
 		<translation_prelude>
@@ -299,7 +299,7 @@
 			“Seg þat, Gagnrāþr!<sep />alls þu ā golfi vill<br />
 			þīns of freista frama:<br />
 			hvē sā jōr heitir<sep />es austan dregr<br />
-			nǭtt of nȳt regin?”
+			nǭtt <conj>of</conj> nȳt regin?”
 		</original>
 		<translation_prelude>
 			Vafthruthnir spake:
@@ -320,7 +320,7 @@
 		</original_prelude>
 		<original>
 			“Hrīmfaxi heitir<sep />es hverja dregr<br />
-			nǭtt of nȳt regin;<br />
+			nǭtt <conj>of</conj> nȳt regin;<br />
 			mēldropa fellir<sep />hann morgin hvern,<br />
 			þaþan kømr dǫgg of dali.”
 		</original>
@@ -364,7 +364,7 @@
 		<original>
 			“Ifing heitir ǭ<sep />es deilir meþ jǫtna sunum<br />
 			grund auk meþ goþum;<br />
-			opin rinna<sep />hōn skal of aldrdaga,<br />
+			opin rinna<sep />hōn skal <conj>of</conj> aldrdaga,<br />
 			verþrat īss ā ǭ.”
 		</original>
 		<translation_prelude>
@@ -436,7 +436,7 @@
 			“Frōþr est, gestr!<sep />farþu ā bekk jǫtuns,<br />
 			ok mǣlumsk ī sessi saman!<br />
 			hǫfþi veþja<sep />vit skulum hǫllu ī,<br />
-			gestr! of geþspeki.”
+			gestr! <conj>of</conj> geþspeki.”
 		</original>
 		<translation_prelude>
 			Vafthruthnir spake:
@@ -458,7 +458,7 @@
 		<original>
 			“Seg þat et eina,<sep />ef þitt ø̄þi dugir<br />
 			ok þū, Vafþrūþnir! vitir:<br />
-			hvaþan jǫrþ of kvam<sep />eþa upphiminn<br />
+			hvaþan jǫrþ <conj>of</conj> kvam<sep />eþa upphiminn<br />
 			fyrst, enn frōþi jǫtunn?”
 		</original>
 		<translation_prelude>
@@ -479,10 +479,10 @@
 			Vafþrūþnir kvaþ:
 		</original_prelude>
 		<original>
-			“Ōr Ymis holdi<sep />vas jǫrþ of skǫpuþ<br />
+			“Ōr Ymis holdi<sep />vas jǫrþ <conj>of</conj> skǫpuþ<br />
 			en ōr beinum bjǫrg,<br />
 			himinn ōr hausi<sep />ens hrīmkalda jǫtuns,<br />
-			en ōr sveita sǣr.”
+			en ōr sveita <conj>sǣr.</conj>”
 		</original>
 		<translation_prelude>
 			Vafthruthnir spake:
@@ -552,8 +552,8 @@
 		</original_prelude>
 		<original>
 			“Seg þat et þriþja,<sep />alls þik svinnan kveþa,<br />
-			ef þū, Vafþrūþnir! vitir:<br />
-			hvaþan dagr of kvam,<sep />sās ferr drōtt yfir,<br />
+			<conj>ef</conj> þū, Vafþrūþnir! vitir:<br />
+			hvaþan dagr <conj>of</conj> kvam,<sep />sās ferr drōtt yfir,<br />
 			eþa nǭtt meþ niþum?”
 		</original>
 		<translation_prelude>
@@ -598,7 +598,7 @@
 		<original>
 			“Seg þat et fjōrþa,<sep />alls þik frōþan kveþa,<br />
 			ef þū, Vafþrūþnir! vitir:<br />
-			hvaþan vetr of kvam<sep />eþa varmt sumar<br />
+			hvaþan vetr <conj>of</conj> kvam<sep />eþa varmt sumar<br />
 			fyrst meþ frōþ regin?”
 		</original>
 		<translation_prelude>
@@ -661,7 +661,7 @@
 		<original>
 			“Seg þat et fimta,<sep />alls þik frōþan kveþa,<br />
 			ef þū, Vafþrūþnir! vitir:<br />
-			hverr jǫtna elztr<sep />eþa Ymis niþja<br />
+			hverr <conj>jǫtna</conj> elztr<sep />eþa Ymis niþja<br />
 			yrþi ī ārdaga?”
 		</original>
 		<translation_prelude>
@@ -682,7 +682,7 @@
 			Vafþrūþnir kvaþ:
 		</original_prelude>
 		<original>
-			“Ørōfi vetra,<sep />āþr vǣri jǫrþ of skǫpuþ,<br />
+			“Ørōfi vetra,<sep />āþr vǣri jǫrþ <conj>of</conj> skǫpuþ,<br />
 			þā vas Bergelmir borinn;<br />
 			Þrūþgelmir<sep />vas þess faþir,<br />
 			en Aurgelmir afi.”
@@ -754,7 +754,7 @@
 		<original>
 			“Seg þat et sjaunda,<sep />alls þik svinnan kveþa,<br />
 			ef þū, Vafþrūþnir! vitir:<br />
-			hvē sā bǫrn of gat<sep />enn baldni jǫtunn,<br />
+			hvē sā bǫrn <conj>of</conj> gat<sep />enn baldni jǫtunn,<br />
 			es hann hafþit gȳgjar gaman?”
 		</original>
 		<translation_prelude>
@@ -797,7 +797,7 @@
 			Ōþinn kvaþ:
 		</original_prelude>
 		<original>
-			“Seg þat et ātta,<sep />alls þik svinnan kveþa,<br />
+			“Seg þat et ātta,<sep />alls þik <conj>svinnan</conj> kveþa,<br />
 			ef þū, Vafþrūþnir! vitir:<br />
 			hvat fyrst of mant<sep />eþa fremst of veizt?<br />
 			þū 'st alsviþr, jǫtunn!”
@@ -843,8 +843,8 @@
 		<original>
 			“Seg þat et niunda,<sep />alls þik svinnan kveþa,<br />
 			ef þū, Vafþrūþnir! vitir:<br />
-			hvaþan vindr of kømr<sep />sās ferr vāg yfir?<br />
-			ǣ menn hann sjalfan of sea.”
+			hvaþan vindr <conj>of</conj> kømr<sep />sās ferr vāg yfir?<br />
+			ǣ menn hann sjalfan <conj>of</conj> sea.”
 		</original>
 		<translation_prelude>
 			Othin spake:
@@ -932,8 +932,8 @@
 			Ōþinn kvaþ:
 		</original_prelude>
 		<original>
-			“Seg þat et ellifta,<sep /><conj>alls þik svinnan kveþa</conj>,<br />
-			<conj>ef þū, Vafþrūþnir! vitir</conj>:<br />
+			“Seg þat et ellifta,<sep /><conj>alls þik svinnan kveþa,</conj><br />
+			<conj>ef þū, Vafþrūþnir! vitir:</conj><br />
 			<conj>hverir'u ȳtar</conj><sep /><conj>es</conj> ī <conj>Ōþins</conj> tūnum<br />
 			hǫggvask hverjan dag?”
 		</original>
@@ -967,7 +967,7 @@
 			“Allir einherjar<sep />Ōþins tūnum ī<br />
 			hǫggvask hverjan dag;<br />
 			val þeir kjōsa<sep />ok rīþa vīgi frā,<br />
-			sitja meirr of sāttir saman.”
+			sitja meirr <conj>of</conj> sāttir saman.”
 		</original>
 		<translation_prelude>
 			Vafthruthnir spake:
@@ -1088,7 +1088,7 @@
 			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
 			fjǫlþ of reyndak regin:<br />
 			hvaþan kømr sōl<sep />ā enn slētta himin,<br />
-			þās þessi hefr Fenrir farit?”
+			þās <conj>þessi</conj> hefr Fenrir farit?”
 		</original>
 		<translation_prelude>
 			Othin spake:
@@ -1152,7 +1152,7 @@
 			Vafþrūþnir kvaþ:
 		</original_prelude>
 		<original>
-			“Þriar þjōþir<sep />falla þorp yfir<br />
+			“Þriar <conj>þjōþir</conj><sep />falla þorp yfir<br />
 			meyja Mǫgþrasis,<br />
 			hamingjur einar<sep />þǣrs ī heimi 'rū,<br />
 			þō þǣr meþ jǫtnum alask.”
@@ -1274,7 +1274,7 @@
 		<original>
 			“Fjǫlþ ek fōr,<sep />fjǫlþ ek freistaþak,<br />
 			fjǫlþ of reyndak regin:<br />
-			hvat mǣlti Ōþinn,<sep />āþr ā bāl stigi,<br />
+			hvat mǣlti <conj>Ōþinn,</conj><sep />āþr ā bāl stigi,<br />
 			sjalfr ī eyra syni?”
 		</original>
 		<translation_prelude>
