@@ -61,7 +61,7 @@
 	<block class="stanza" number="2">
 		<original>
 			Nǭtt varþ ī bø̄,<sep />nornir kvǭmu,<br />
-			þærs ǫþlingi<sep />aldr of skōpu;<br />
+			þærs ǫþlingi<sep />aldr <conj>of</conj> skōpu;<br />
 			bǭþu fylki<sep />frǣgstan verþa<br />
 			ok buþlunga<sep />baztan þykkja.
 		</original>
@@ -80,7 +80,7 @@
 		<original>
 			Snøru af afli<sep />ørlǫgþǭttu,<br />
 			<dagger /> þās borgir braut<sep />ī Brālundi;<br />
-			þǣr of greiddu<sep />gollin sīmu<br />
+			þǣr <conj>of</conj> greiddu<sep />gollin sīmu<br />
 			ok und mānasal<sep />miþjan festu.
 		</original>
 		<translation>
@@ -116,7 +116,7 @@
 	<block class="stanza" number="5">
 		<original>
 			Eitt vas at angri<sep />Ylfinga niþ<br />
-			ok þeiri meyju<sep />es munugþ fø̄ddi:<br />
+			<conj>ok</conj> þeiri meyju<sep />es munugþ fø̄ddi:<br />
 			<inlineseparator /><br />
 			Hrafn kvaþ at hrafni—<sep />sat ā hǭm meiþi<br />
 			andvanr ǭtu—:<sep />“ek veit nekkvat.
@@ -202,7 +202,7 @@
 			Þā nam at vaxa<sep />fyr vina brjōsti<br />
 			almr ītrborinn<sep />ynþis ljōma;<br />
 			hann galt ok gaf<sep />goll verþungu,<br />
-			sparþit hilmir<sep />hodd blōþrekna.
+			sparþit hilmir<sep />hodd blōþ<conj>rekin.</conj>
 		</original>
 		<translation>
 			Mighty he grew<sep />in the midst of his friends,<br />
@@ -236,8 +236,8 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Kvǫddu sīþan<sep />Sigmundar bur<br />
-			auþs <conj>ok</conj> hringa<sep />Hundings synir,<br />
+			<conj>Kvǫddu</conj> sīþan<sep />Sigmundar bur<br />
+			auþs <conj>ok</conj> hringa<sep />Hundings <conj>arfar,</conj><br />
 			þvīt þeir ǭttu<sep />jǫfri at gjalda<br />
 			fjārnām mikit<sep />ok fǫþur dauþa.
 		</original>
@@ -270,7 +270,7 @@
 			Fara hildingar<sep />hjǫrstefnu til<br />
 			þeirars lǫgþu<sep />at Logafjǫllum;<br />
 			sleit Frōþa friþ<sep />fianda ā milli,<br />
-			fara Viþris grey<sep />valgjǫrn of ey.
+			fara Viþris grey<sep />valgjǫrn <conj>of</conj> ey.
 		</original>
 		<translation>
 			The warriors forth<sep />to the battle went,<br />
@@ -304,7 +304,7 @@
 	<block class="stanza" number="15">
 		<original>
 			Þā brā ljōma<sep />af Logafjǫllum<br />
-			en af ljōma þeim<sep />leiptrir kvǭmu<br />
+			en af <conj>ljōma</conj> þeim<sep />leiptrir kvǭmu<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -320,9 +320,9 @@
 	<block class="stanza" number="16">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			hǭvar und hjǫlmum<sep />ā himinvanga;<br />
+			<conj>hǭvar</conj> und hjǫlmum<sep />ā himinvanga;<br />
 			brynjur vǭru<sep />blōþi stokknar,<br />
-			en af geirum<sep />geislar stōþu.
+			en af <conj>geirum</conj><sep />geislar stōþu.
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -344,7 +344,7 @@
 	<block class="stanza" number="17">
 		<original>
 			Frā ārliga<sep />ōr ulfiþi<br />
-			dǫglingr at þvī<sep />dīs suþrø̄na,<br />
+			dǫglingr at þvī<sep /><conj>dīs suþrø̄na,</conj><br />
 			ef heim vildi<sep />meþ hildingum<br />
 			þā nǭtt fara;<sep />þrymr vas alma.
 		</original>
@@ -365,7 +365,7 @@
 	<block class="stanza" number="18">
 		<original>
 			En af hesti<sep />Hǫgna dōttir<br />
-			—leiþ randa rym—<sep />rǣsi sagþi:<br />
+			—<conj>leiþ</conj> randa rym—<sep />rǣsi sagþi:<br />
 			“Hykk at eigim<sep />aþrar sȳslur,<br />
 			an baugbrota<sep />bjōr at drekka.
 		</original>
@@ -398,7 +398,7 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Þō kømr fylkir<sep />fāra nātta<br />
+			<conj>Þō</conj> kømr fylkir<sep />fāra nātta<br />
 			<lacuna /><sep /><lacuna /><br />
 			nema hǫnum vīsir<sep />valstefnu til<br />
 			eþa mey nemir<sep />frā mildingi.”
@@ -425,7 +425,7 @@
 		</original_prelude>
 		<original>
 			“Uggi eigi þū<sep />Īsungs bana!<br />
-			fyrr <conj>munum reyna</conj><sep /><conj>rǫskleik okkarn,</conj><br />
+			fyrr <conj>munum reyna</conj><sep /><conj>frø̄knleik okkarn,</conj><br />
 			<conj>an nīþingi</conj><sep /><conj>nauþug fylgir;</conj><br />
 			mun dolga dynr,<sep />nema dauþr seak.”
 		</original>
@@ -447,7 +447,7 @@
 	<block class="stanza" number="22">
 		<original>
 			Sendi ǭru<sep />allvaldr þaþan<br />
-			of land ok of lǫg<sep />leiþar at biþja<br />
+			of <conj>land</conj> ok <conj>of</conj> lǫg<sep />leiþar at biþja<br />
 			<conj>ok</conj> iþgnōgan<sep />ōgnar ljōma<br />
 			brǫgnum bjōþa<sep />ok burum þeira.
 		</original>
@@ -465,7 +465,7 @@
 		<original>
 			“Biþiþ skjōtliga<sep />til skipa ganga<br />
 			ok ōr Brandeyju<sep />būna verþa!”<br />
-			þaþan beiþ þengill,<sep />unz þinig kvǭmu<br />
+			þaþan beiþ þengill,<sep />unz <conj>þinig</conj> kvǭmu<br />
 			halir hundmargir<sep />ōr Heþinseyju.
 		</original>
 		<translation>
@@ -481,8 +481,8 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Auk þar af stundu<sep />ōr Stafnsnesi<br />
-			beit <conj>prūþ</conj> skriþu<sep />ok buïn golli;<br />
+			Auk þar af <conj>stundu</conj><sep />ōr Stafnsnesi<br />
+			beit <conj>svǫrt</conj> skriþu<sep />ok buïn golli;<br />
 			spurþi Helgi<sep />Hjǫrleif at þvī:<br />
 			“Hefr kannaþa<sep />koni ōneisa?”
 		</original>
@@ -578,7 +578,7 @@
 		<original>
 			Svā vas at heyra,<sep />es saman kvǭmu<br />
 			Kolgu systir<sep />ok kilir langir,<br />
-			sem bjǫrg viþ brim<sep />brotna mundi<br />
+			sem bjǫrg <conj>viþ</conj> brim<sep />brotna mundi<br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -614,7 +614,7 @@
 	<block class="stanza" number="31">
 		<original>
 			En sjǫlfum þeim<sep />Sigrūn ofan<br />
-			folkdjǫrf of barg<sep />ok fari þeira;<br />
+			folkdjǫrf <conj>of</conj> barg<sep />ok fari þeira;<br />
 			snørisk ramliga<sep />Rǭn ōr hendi<br />
 			gjalfrdȳr konungs<sep />at Gnipalundi.
 		</original>
@@ -633,8 +633,8 @@
 	</block>
 	<block class="stanza" number="32">
 		<original>
-			Svā þar of aptan<sep />ī Unavǭgum<br />
-			flaust fagrbuïn<sep />fljōta knǭttu;<br />
+			<conj>Svā</conj> þar of aptan<sep />ī Unavǭgum<br />
+			flaust fagrbuïn<sep /><conj>fljōta</conj> knǭttu;<br />
 			en sjalfir þeir<sep />frā Svarinshaugi<br />
 			meþ hermþarhug<sep />her kǫnnuþu.
 		</original>
@@ -708,7 +708,7 @@
 	<block class="stanza" number="36">
 		<original>
 			Þar mun Hǫþbroddr<sep />Helga finna,<br />
-			flugtrauþan gram<sep />ī flota miþjum;<br />
+			<conj>flug</conj>trauþan gram<sep />ī flota miþjum;<br />
 			sā es opt hefr<sep />ǫrnu sadda,<br />
 			meþan þū ā kvernum<sep />kystir þȳjar.”
 		</original>
@@ -791,10 +791,10 @@
 	</block>
 	<block class="stanza" number="40">
 		<original>
-			[Þū vast, et skø̄þa<sep />skars! valkyrja,<br />
+			[Þū vast, <conj>et</conj> skø̄þa<sep />skars! valkyrja,<br />
 			ǫtul, āmātlig,<sep />at Alfǫþur;<br />
 			mundu einherjar<sep />allir berjask<br />
-			svēvīs kona!<sep />of sakar þīnar.]
+			svēvīs kona!<sep /><conj>of</conj> sakar þīnar.]
 		</original>
 		<translation>
 			A Valkyrie wast thou,<sep />loathly Witch,<br />
@@ -876,7 +876,7 @@
 		<original>
 			Þū brūþr Grana<sep />ā Brāvelli<br />
 			gollbitluþ vast,<sep />gǫr til rāsar;<br />
-			hefk þēr mōþri<sep />mart skeiþ riþit<br />
+			<conj>hefk</conj> þēr mōþri<sep />mart skeiþ riþit<br />
 			svangri und sǫþli,<sep />simul! forbergis.”
 		</original>
 		<translation>
@@ -967,8 +967,8 @@
 	</block>
 	<block class="stanza" number="48">
 		<original>
-			Þykkjumat gōþir<sep />Granmars synir,<br />
-			þō dugir seggjum<sep />satt at mǣla;<br />
+			<conj>Þykkjumat</conj> gōþir<sep />Granmars synir,<br />
+			þō dugir <conj>seggjum</conj><sep />satt at mǣla;<br />
 			þeir hafa markat<sep />ā Moïnsheimum,<br />
 			at hug hafa<sep />hjǫrum at bregþa.”
 		</original>
@@ -987,9 +987,9 @@
 			Þeir af rīki<sep />rinna lētu<br />
 			Svipuþ ok Sveggjuþ<sep />Sōlheima til<br />
 			[dala dǫggōtta,<sep />døkkvar hlīþir,<br />
-			skalf mistar marr<sep />hvars megir fōru;]<br />
+			skalf mistar marr<sep /><conj>hvars</conj> megir fōru;]<br />
 			mø̄ttu tyggja<sep />ī tūnhliþi,<br />
-			sǫgþu strīþla<sep />stilli kvǭmu.
+			sǫgþu <conj>strīþla</conj><sep />stilli kvǭmu.
 		</original>
 		<translation>
 			Mightily then<sep />they made to run<br />
@@ -1151,8 +1151,8 @@
 		<original>
 			Kvǭmu ōr himni<sep />hjalmvītr ofan<br />
 			—ōx geira gnȳr—<sep />þǣrs grami hlīfþu;<br />
-			þā kvaþ þat Sigrūn<sep />—sārvītr flugu,<br />
-			āt hǭlu skǣr<sep />af hugins barri—:
+			þā kvaþ þat Sigrūn<sep />—sārvītr <conj>flugu,</conj><br />
+			āt <conj>hǭlu</conj> skǣr<sep />af hugins barri—:
 		</original>
 		<translation>
 			From heaven there came<sep />the maidens helmed,—<br />
@@ -1169,7 +1169,7 @@
 		<original>
 			“Heill skalt, vīsi!<sep />virþa njōta,<br />
 			āttstafr Yngva,<sep />ok una līfi,<br />
-			es feldan hefr<sep />enn flugartrauþa<br />
+			es <conj>feldan</conj> hefr<sep />enn flugartrauþa<br />
 			jǫfur þanns olli<sep />ø̄gis dauþa.
 		</original>
 		<translation>
