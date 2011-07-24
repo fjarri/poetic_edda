@@ -48,7 +48,7 @@
 			Ār valtīvar<sep />veiþar nǭmu<br />
 			ok sumblsamir,<sep />āþr saþir yrþi,<br />
 			hristu teina<sep />ok ā hlaut sǫu:<br />
-			fundu at Ægis<sep />ørkost hverjan.
+			fundu at Ægis<sep />ørkost <conj>hverjan.</conj>
 		</original>
 		<translation>
 			Of old the gods<sep />made feast together,<br />
@@ -167,7 +167,7 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Fōru drjūgum<sep />dag þann framan<br />
+			Fōru drjūgum<sep />dag þann <conj>framan</conj><br />
 			Āsgarþi frā,<sep />unz til Egils kvǭmu;<br />
 			hirþi hafra<sep />horngǫfgasta;<br />
 			hurfu at hǫllu<sep />es Hymir ātti.
@@ -259,7 +259,7 @@
 			Seþu hvar sitja<sep />und salar gafli!<br />
 			svā forþa sēr,<sep />stendr sūl fyrir.”<br />
 			Sundr stǫkk sūla<sep />fyr sjōn jǫtuns,<br />
-			en afr ī tvau<sep />āss brotnaþi.
+			en <conj>afr</conj> ī tvau<sep />āss brotnaþi.
 		</original>
 		<translation>
 			See where under<sep />the gable they sit!<br />
@@ -304,7 +304,7 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			Hverjan lētu<sep />hǫfþi skemra<br />
+			<conj>Hverjan</conj> lētu<sep />hǫfþi skemra<br />
 			auk ā seyþi<sep />sīþan bǭru:<br />
 			āt Sifjar verr,<sep />āþr sofa gengi,<br />
 			einn meþ ǫllu<sep />yxn tvā Hymis.
@@ -519,7 +519,7 @@
 		<original>
 			<lacuna /><sep /><lacuna /><br />
 			ōteitr jǫtunn,<sep />es aptr røru:<br />
-			svāt at ǭr Hymir<sep />etki mǣlti,<br />
+			svā<conj>t</conj> at ǭr Hymir<sep />etki mǣlti,<br />
 			veifþi rø̄þi<sep />veþrs annars til.
 		</original>
 		<translation>
@@ -585,7 +585,7 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			Ok enn jǫtunn<sep />of afrendi<br />
+			Ok enn jǫtunn<sep /><conj>of</conj> afrendi<br />
 			þrāgirni vanr<sep />viþ Þōr senti:<br />
 			kvaþat mann ramman,<sep />þōt roa kynni<br />
 			krǫpturligan,<sep />nema kalk bryti.
@@ -657,7 +657,7 @@
 		<original>
 			“Mǫrg veitk mǣti<sep />mēr gengin frā,<br />
 			es kalki sēk<sep />ōr knëum hrundit;”<br />
-			karl orþ of kvaþ:<sep />“knākak segja<br />
+			karl orþ <conj>of</conj> kvaþ:<sep />“knākak segja<br />
 			aptr ǣvagi:<sep />þū'st, ǫlþr! of heitt.
 		</original>
 		<translation_prelude>
@@ -701,7 +701,7 @@
 			Faþir Mōþa<sep />fekk ā þremi<br />
 			ok ī gøgnum stē<sep />golf niþr ī sal;<br />
 			hōfsk ā haufuþ<sep />hver Sifjar verr,<br />
-			en ā hǣlum hōtt<sep />hringar skullu.
+			en ā hǣlum <conj>hōtt</conj><sep />hringar skullu.
 		</original>
 		<translation>
 			The father of Mothi<sep />the rim seized firm,<br />
@@ -760,7 +760,7 @@
 		<original>
 			Fōrut lengi,<sep />āþr liggja nam<br />
 			hafr Hlōrriþa<sep />halfdauþr fyrir;<br />
-			vas skǣr skǫkuls<sep />slakkr ā beini:<br />
+			vas <conj>skǣr</conj> skǫkuls<sep />slakkr ā <conj>beini:</conj><br />
 			þvi enn lǣvīsi<sep />Loki of olli.
 		</original>
 		<translation>
@@ -800,7 +800,7 @@
 			Þrōttǫflugr kvam<sep />ā þing goþa<br />
 			ok hafþi hver<sep />þanns Hymir ātti;<br />
 			en vear hverjan<sep />vel skulu drekka<br />
-			ǫlþr at Ægis<sep />eitrhǫrmeiti.
+			ǫlþr at Ægis<sep /><conj>eitrhǫrmeiti.</conj>
 		</original>
 		<translation>
 			The mighty one came<sep />to the council of gods,<br />
