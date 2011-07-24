@@ -83,7 +83,7 @@
 			Skirnir kvaþ:
 		</original_prelude>
 		<original>
-			“Illra orþa<sep />erumk ōn at <conj>þīnum</conj> syni,<br />
+			“Illra orþa<sep /><conj>erumk</conj> ōn at <conj>þīnum</conj> syni,<br />
 			ef gengk at mǣla viþ mǫg,<br />
 			ok þess at fregna,<sep />hveim enn frōþi sē<br />
 			ofreiþi afi.”
@@ -106,7 +106,7 @@
 			“Segþu þat, Freyr,<sep />folkvaldi goþa!<br />
 			auk ek vilja vita:<br />
 			hvī einn sitr<sep />endlanga sali,<br />
-			minn drōttinn! of daga?
+			minn drōttinn! <conj>of</conj> daga?
 		</original>
 		<translation_prelude>
 			Skirnir spake:
@@ -123,9 +123,9 @@
 			Freyr kvaþ:
 		</original_prelude>
 		<original>
-			“Hvi of segjak þēr,<sep />seggr enn ungi!<br />
+			“Hvi <conj>of</conj> segjak þēr,<sep />seggr enn ungi!<br />
 			mikinn mōþtrega?<br />
-			þvīt alfrǫþull<sep />lȳsir of alla daga,<br />
+			þvīt alfrǫþull<sep />lȳsir <conj>of</conj> alla daga,<br />
 			ok þeygi at mīnum munum.”
 		</original>
 		<translation_prelude>
@@ -224,7 +224,7 @@
 			“Mar gef mēr þā,<sep />þanns mik of myrkvan beri<br />
 			vīsan vafrloga,<br />
 			ok þat sverþ,<sep />es sjalft vegisk<br />
-			<dagger /> viþ jǫtna ǣtt.”
+			<conj>vīgi</conj> viþ jǫtna ǣtt.”
 		</original>
 		<translation_prelude>
 			Skirnir spake:
@@ -317,7 +317,7 @@
 		</original_prelude>
 		<original>
 			“Hvārt est feigr<sep />eþa estu framgenginn.<br />
-			<conj>maþr ā mars baki</conj>?<br />
+			<conj>maþr ā mars baki?</conj><br />
 			andspillis vanr<sep />þū skalt ǣ vesa<br />
 			gōþrar meyjar Gymis.”
 		</original>
@@ -342,8 +342,8 @@
 		<original>
 			“Kostir'u betri<sep />heldr an at kløkkva sē<br />
 			hveims fūss es fara;<br />
-			einu dø̄gri<sep />vǫrumk aldr of skapaþr<br />
-			ok allt līf of lagit.”
+			einu dø̄gri<sep /><conj>vǫrumk</conj> aldr of skapaþr<br />
+			ok allt līf <conj>of</conj> lagit.”
 		</original>
 		<translation_prelude>
 			Skirnir spake:
@@ -431,7 +431,7 @@
 		<original>
 			Hvat's þat alfa<sep />nē āsa suna<br />
 			nē vīssa vana?<br />
-			hvi einn of kvamt<sep />eikinn fūr yfir<br />
+			hvi einn <conj>of</conj> kvamt<sep /><conj>of</conj> eikinn fūr yfir<br />
 			ōr salkynni at sea?”
 		</original>
 		<translation>
@@ -451,7 +451,7 @@
 		<original>
 			“Emkak alfa<sep />nē āsa suna<br />
 			nē vīssa vana:<br />
-			þō einn of kvamk<sep />eikinn fūr yfir<br />
+			þō einn <conj>of</conj> kvamk<sep /><conj>of</conj> eikinn fūr<br />
 			yþur salkynni at sea.
 		</original>
 		<translation_prelude>
@@ -469,7 +469,7 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			Epli ellilyfs<sep />hēr hefk algollin,<br />
+			Epli elli<conj>lyfs</conj><sep />hēr hefk algollin,<br />
 			þau munk þēr, Gerþr! gefa,<br />
 			friþ at kaupa,<sep />at þu þēr Frey kveþir<br />
 			ōleiþastan lifa.”
@@ -539,7 +539,7 @@
 		<original>
 			“Baug ek þikkak,<sep />þōt brendr sē<br />
 			meþ ungum Ōþins syni;<br />
-			ī gǫrþum Gymis<sep />erumka golls of vant,<br />
+			ī gǫrþum Gymis<sep /><conj>erumka</conj> golls of vant,<br />
 			at deila fē fǫþur.”
 		</original>
 		<translation_prelude>
@@ -557,7 +557,7 @@
 			Skirnir kvaþ:
 		</original_prelude>
 		<original>
-			“Sēr þū þenna mǣki, mǣr!<sep />mjōvan, mālfān,<br />
+			“Sēr þū mǣki mjōvan,<sep />mālfān, <conj>Gerþr!</conj><br />
 			es hefk ī hendi hēr?<br />
 			haufuþ hǫggva<sep />munk þēr halsi af,<br />
 			nema mēr sǣtt segir.”
@@ -577,7 +577,7 @@
 			Gerþr kvaþ:
 		</original_prelude>
 		<original>
-			“Ānauþ þola<sep />viljak aldrigi<br />
+			“Ānauþ þola<sep /><conj>viljak</conj> aldrigi<br />
 			at manns enskis munum;<br />
 			þō hins getk,<sep />ef it Gymir finnisk,<br />
 			at ykkr tīþi vega.
@@ -597,9 +597,9 @@
 			Skirnir kvaþ:
 		</original_prelude>
 		<original>
-			“Sēr þū þenna mǣki, mǣr!<sep />mjōvan, mālfān,<br />
+			“Sēr þū mǣki mjōvan,<sep />mālfān, <conj>Gerþr!</conj><br />
 			es hefk ī hendi hēr?<br />
-			fyr þessum eggjum<sep />hnīgr sa enn aldni <conj>þurs</conj>,<br />
+			fyr þessum eggjum<sep />hnīgr sa enn aldni <conj>þurs,</conj><br />
 			verþr þinn feigr faþir.
 		</original>
 		<translation_prelude>
@@ -636,7 +636,7 @@
 		<original>
 			Ara þūfu ā<sep />skaltu ār sitja,<br />
 			horfa heljar til;<br />
-			matr sē þer leiþari<sep />an manna hveim<br />
+			matr sē þer <conj>leiþari</conj><sep />an manna hveim<br />
 			enn frāni ormr meþ firum.
 		</original>
 		<translation>
@@ -694,7 +694,7 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			Tramar gneypa<sep />þik skulu gørstan dag<br />
+			<conj>Gramir</conj> gneypa<sep />þik skulu gørstan dag<br />
 			jǫtna gǫrþum ī;<br />
 			grāt at gamni<sep />skaltu ī gøgn hafa<br />
 			ok leiþa meþ tǭrum trega.
@@ -715,7 +715,7 @@
 		<original>
 			Meþ þursi þrīhǫfþuþum<sep />þū skalt ǣ nara<br />
 			eþa verlauss vesa;<br />
-			[þik geþ grīþi,<sep />þik morn morni!]<br />
+			[<conj>þik</conj> geþ grīþi,<sep />þik morn morni!]<br />
 			ves sem þistill<sep />sās þrunginn vas<br />
 			ī ǫnn ofanverþa.
 		</original>
@@ -762,7 +762,7 @@
 		<original>
 			Vreiþr's þēr Ōþinn,<sep />vreiþr's þēr āsa bragr,<br />
 			þik skal Freyr fiask,<br />
-			en firinilla mǣr!<sep />es þū fengit hefr<br />
+			en firinilla mǣr!<sep /><conj>es</conj> þū fengit hefr<br />
 			gambanvreiþi goþa.
 		</original>
 		<translation>
@@ -889,7 +889,7 @@
 		<original>
 			“Eyrindi mīn<sep />viljak ǫll vita,<br />
 			āþr rīþak heim heþan:<br />
-			nǣr þu at þingi<sep />munt enum þroska<br />
+			nǣr <conj>at</conj> þingi munt<sep />enum þroska<conj>mikla</conj><br />
 			nenna Njarþar syni.”
 		</original>
 		<translation_prelude>
