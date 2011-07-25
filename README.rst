@@ -408,3 +408,4 @@ Tasks for distant future
   - Svipdagsmol, 50
   - Volundarkvitha, 26-27
   - Grimnismol, 23-24
+  - Guthrunarhvot, 16
