@@ -340,13 +340,14 @@ Atlamol en Grönlenzku (20 July 2011)
 * Added Atlamol en Grönlenzku chapter;
 * Hymiskvitha: fixed typesetting of stanzas in comments
 
-~~~~~~~~~~~~~~~~~~~~~~~
-Guthrunarhvot (planned)
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guthrunarhvot and Hamthesmol (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Reviewed all chapters where 3th Gering's revision were used instead of 4th
   and fixed differences
 * Add Guthrunarhvot chapter
+* Add Hamthesmol chapter
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Tasks for distant future
@@ -405,3 +406,5 @@ Tasks for distant future
   - Hovamol, 61
   - Vafthruthnismol, 54
   - Svipdagsmol, 50
+  - Volundarkvitha, 26-27
+  - Grimnismol, 23-24
