@@ -1,7 +1,7 @@
 <chapter label="Hamthesmol">
 	<block class="eddachapter">
 		<original>
-
+			Hamþe`smo~`l [en fornu]
 		</original>
 		<transliteration>
 			Hamthesmol
@@ -31,10 +31,10 @@
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Spruttu a` tai::<sep />tregnar i`þir<br />
+			<conj>at</conj> gly`sto~mu<sep />gro/`ti alfa;<br />
+			a`r <conj>of</conj> morgin<sep />manna bo~lva<br />
+			su`tir hverjar<sep />sorg <conj>of</conj> kveykva.]
 		</original>
 		<translation>
 			Great the evils<sep />once that grew,<br />
@@ -49,11 +49,11 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vasa þat nu`<sep />ne` i` ga_e`r,<br />
+			þat hefr langt<sep />liþit si`þan,<br />
+			[fa`tt es fornara,<sep />fremr vas þat ho~lfu]<br />
+			es hvatti Guþru`n<sep /><dagger /> Gju`ka borin<br />
+			sunu si`na unga<sep />at hefna Svanhildar.
 		</original>
 		<translation>
 			Not now, nor yet<sep />of yesterday was it,<br />
@@ -69,10 +69,10 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Systir vas ykkur<sep />Svanhildr <conj>of</conj> heitin,<br />
+			su`s Jo~rmunrekkr<sep />joum <conj>of</conj> traddi,<br />
+			hvi`tum ok svo~rtum<sep />a` hervegi,<br />
+			gro~um, gangto~mum<sep />Gotna hrossum.
 		</original>
 		<translation>
 			``The sister ye had<sep />was Svanhild called,<br />
@@ -87,8 +87,8 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep />
+			Eptir es þrungit<sep />ykkr þjo`þkonunga,<br />
+			lifiþ einir þa`tta<sep />a_e`ttar minnar.<br />
 		</original>
 		<translation>
 			Little the kings<sep />of the folk are ye like,<br />
@@ -102,10 +102,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Einsto/`þ emk orþin<sep />sem o~sp i` holti,<br />
+			fallin at fra_e`ndum<sep />sem fura at kvisti,<br />
+			vaþin at vilja<sep />sem viþr at laufi,<br />
+			þa`s en kvistsko/`þa<sep />ko/mr <conj>of</conj> dag varman.''
 		</original>
 		<translation>
 			Lonely am I<sep />as the forest aspen,<br />
@@ -121,10 +121,10 @@
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hitt kvaþ þa` Hamþe`r<sep />enn hugumsto`ri:<br />
+			``Litt mundir, Guþru`n!<sep />leyfa do~`þ Ho~gna,<br />
+			es þeir Sigurþ <conj>þinn</conj><sep />svefni o`r vo~kþu,<br />
+			saztu a` <conj>beþjum,</conj>en banar hlo`gu.<sep />
 		</original>
 		<translation>
 			Then Hamther spake forth,<sep />the high of heart:<br />
@@ -140,10 +140,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bo/`kr vo~`ru þi`nar<sep />enar bla`hvi`tu<br />
+			valundum <conj>roþnar,</conj><sep />flutu i` vers dreyra;<br />
+			svalt þa` Sigurþr,<sep />saztu <conj>of</conj> dauþum,<br />
+			gly`ja ne` ga`þir:<sep />Gunnarr sva` vildi.
 		</original>
 		<translation>
 			Thy bed-covers white<sep />with blood were red<br />
@@ -158,10 +158,10 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Atla þo`ttisk stri`þa<sep />at Erps morþi<br />
+			ok at Eitils aldrlagi:<sep />þat vas þe`r enn verra;<br />
+			sva` skyldi hverr o~þrum<sep />verja til aldrlaga<br />
+			sverþi sa`rbeitu,<sep />at se`r ne` stri`ddit.]
 		</original>
 		<translation>
 			Thou wouldst strike at Atli<sep />by the slaying of Erp<br />
@@ -178,10 +178,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hitt kvaþ þa` So~rli,<sep />svinna hafþi hyggju:<br />
+			``Vilkat viþ mo`þur<sep />mo~`lum <conj>of</conj> skipta;<br />
+			orþs þykkir enn vant<sep />ykkru hvo~`ru<conj>gi:</conj><br />
+			hvers biþr þu`, Guþru`n!<sep />es at gra`ti ne` fa_e`rat?
 		</original>
 		<translation>
 			Then did Sorli speak out,<sep />for wise was he ever:<br />
@@ -192,10 +192,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Bro/`þr <conj>gra_e`tr</conj> þu` þi`na<sep />ok buri sva`sa,<br />
+			niþja na`borna<sep /><conj>leidda</conj> na_e`r ro`gi:<br />
+			skaltu auk, Guþru`n!<sep />gra`ta okkr ba`þa;<br />
+			sitjum he`r feigir [a` mo~rum],<sep />fjarri munum deyja.''
 		</original>
 		<translation>
 			For thy brothers dost weep,<sep />and thy boys so sweet,<br />
@@ -211,14 +211,14 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hitt kvaþ þa` hro`þrglo~þ<sep />---sto`þ of hle`þum---<br />
+			ma_e`fingr ma_e`lti<sep />viþ <conj>mo~gu si`na:</conj><br />
+			``<conj>Þvi`'s þar ha_e`tta,</conj><sep />at hly`þigi myni:<br />
+			<conj>megut</conj> tveir menn einir<sep />tiu <conj>hundruþ</conj> Gotna<br />
+			binda eþa berja<sep />i` borg enni ho`vu.''
 		</original>
 		<translation>
-			Then the fame-glad one--<sep />on the steps she was--<br />
+			Then the fame-glad one---<sep />on the steps she was---<br />
 			The slender-fingered,<sep />spake with her son:<br />
 			``Ye shall danger have<sep />if counsel ye heed not;<br />
 			By two heroes alone<sep />shall two hundred of Goths<br />
@@ -237,9 +237,9 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gengu o`r garþi<sep />go~rvir at eiskra<br />
+			liþu þa` ungir<sep /><conj>of</conj> u`rig fjo~ll<br />
+			mo~rum hu`nlenzkum<sep />morþs at hefna.
 		</original>
 		<translation>
 			From the courtyard they fared,<sep />and fury they breathed;<br />
@@ -254,9 +254,9 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
+			Fundu a` stra_e`ti<sep />sto`rbro~gþo`ttan<br />
 			<lacuna /><sep /><lacuna /><br />
-			<sep />
+			``hve` mun jarpskammr<sep />okkr fultingja?''
 		</original>
 		<translation>
 			On the way they found<sep />the man so wise;<br />
@@ -264,7 +264,7 @@
 			``What help from the weakling<sep />brown may we have?''
 		</translation>
 		<comment>
-			In the manuscript these two lines follow stanza 16; some editors insert them in place of lines 2--3 of stanza <sr>11</sr>.
+			In the manuscript these two lines follow stanza <sr>16</sr>; some editors insert them in place of lines 2--3 of stanza <sr>11</sr>.
 			The manuscript indicates no gap.
 			<expl>The man so wise</expl>: Erp, here represented as a son of Jonak but not of Guthrun, and hence a half-brother of Hamther and Sorli.
 			There is nothing further to indicate whether or not he was born out of wedlock, as intimated in stanza <sr>16</sr>.
@@ -273,9 +273,9 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Svaraþi <conj>Erpr</conj><sep />enn sundrmo/`þri:<br />
+			``Sva` <conj>munk</conj> fra_e`ndum<sep />fulting veita,<br />
+			<conj>eþa</conj> fo`tr <conj>veitir</conj><sep /><conj>fo/`ti</conj> o~þrum.''
 		</original>
 		<translation>
 			So answered them<sep />their half-brother then:<br />
@@ -288,6 +288,9 @@
 			<textstanza class="translation">
 				As a flesh grown hand<sep />another helps.
 			</textstanza>
+			<textstanza class="original">
+				(sem <conj>holdgroi::n</conj><sep /><conj>ho~nd annarri.</conj>)
+			</textstanza>
 			In the <src>Volsungasaga</src>, after Erp's death, Hamther stumbles and saves himself from falling with his hand, whereupon he says: ``Erp spake truly; I had fallen had I not braced myself with my hand.''
 			Soon thereafter Sorli has a like experience, one foot slipping but the other saving him from a fall.
 			``Then they said that they had done ill to Erp, their brother.''
@@ -295,8 +298,8 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep />
+			``hvat megi fo`tr<sep />fo/`ti veita<br />
+			ne` holdgroi::n<sep />ho~nd annarri?''
 		</original>
 		<translation>
 			``How may afoot<sep />its fellow aid,<br />
@@ -308,10 +311,10 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Erpr<sep />einu sinni,<br />
+			<conj>es</conj> ma_e`rr <conj>of</conj> le`k<sep />a` mars baki:<br />
+			``<conj>Ba`gt</conj>'s blauþum hal<sep />brautir kenna:<br />
+			<conj>kveþa</conj> harþan mjo~k<sep />hornung vesa.''
 		</original>
 		<translation>
 			Then Erp spake forth,<sep />his words were few,<br />
@@ -326,10 +329,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Dro`gu o`r <conj>sko~lpum</conj><sep />ski`þi<conj>i`sarn,</conj><br />
+			ma_e`kis eggjar,<sep />at mun flagþi;<br />
+			þverþu þro`tt sinn<sep />at þriþjungi,<br />
+			le`tu mo~g ungan<sep />til moldar hni`ga.
 		</original>
 		<translation>
 			From their sheaths they drew<sep />their shining swords,<br />
@@ -344,8 +347,8 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep />
+			Sko`ku <conj>þeir</conj> loþa,<sep />skalmir festu,<br />
+			smugu go`þbornir<sep />i` goþvefi.
 		</original>
 		<translation>
 			Their cloaks they shook,<sep />their swords they sheathed,<br />
@@ -358,10 +361,10 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Fram lo~`gu brautir,<sep />fundu va`sti`gu<br />
+			ok systur <conj>stju`p</conj>sun<sep />sa`ran a` meiþi,<br />
+			vargtre` vindko~ld<sep />vestan bo/`jar,<br />
+			try`tti a_e` <dagger /> tro~nu hvo`t<sep />---titt vasat <conj>bi`þa.</conj>
 		</original>
 		<translation>
 			On their road they fared<sep />and an ill way found,<br />
@@ -379,9 +382,9 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Glaumr vas i` ho~llu,<sep /><conj>gumar</conj> o~lreifir,<br />
+			ok til gota etki<sep />go/rþut heyra,<br />
+			a`þr halr hugfullr<sep />i` horn <conj>of</conj> þaut.
 		</original>
 		<translation>
 			In the hall was din,<sep />the men drank deep,<br />
@@ -390,15 +393,15 @@
 		</translation>
 		<comment>
 			Many editors assume the loss of a line after line 3.
-			The warrior: presumably a warder or watchman, but the reference may be to Hamther himself.
+			<expl>The warrior</expl>: presumably a warder or watchman, but the reference may be to Hamther himself.
 		</comment>
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Segja fo`ru <conj>a_e`rir</conj><sep />Jo~rmunrekki<br />
+			at se`nir vo~`ru<sep />seggir und hjo~lmum:<br />
+			``Ro/`þiþ e`r <conj>of</conj> ra`þ!<sep />ri`kir'u komnir!<br />
+			fyr mo~`tkum mo~nnum<sep />hafiþ mey <conj>of</conj> tradda.''
 		</original>
 		<translation>
 			Men came and the tale<sep />to Jormunrek told<br />
@@ -412,10 +415,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hlo` þa` Jo~rmunrekkr,<sep />hendi drap a` kanpa,<br />
+			<conj>beindi sko`g vanga,</conj><sep />bo~þvaþisk at vi`ni,<br />
+			sko`k hann sko~r jarpa,<sep />sa` a` skjo~ld hvi`tan,<br />
+			le`t se`r i` hendi<sep />hvarfa ker gollit.
 		</original>
 		<translation>
 			Then Jormunrek laughed,<sep />his hand laid on his beard,<br />
@@ -429,10 +432,10 @@
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Sa_e`ll ek þa` þo/`ttumk,<sep />ef ek sea kna_e`ttak<br />
+			Hamþe` ok So~rla<sep />i` ho~llu minni:<br />
+			buri mundak binda<sep />meþ boga strengjum,<br />
+			go`þ bo~rn <conj>Guþru`nar</conj><sep />a` galga festa.''
 		</original>
 		<translation>
 			``Happy, methinks,<sep />were I to behold<br />
@@ -447,12 +450,12 @@
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			<sep /><br />
-			<sep />
+			Styrr varþ i` ranni,<sep />stukku o~lska`lir<br />
+			<conj>blo`þ</conj> bragnar <conj>o`þu</conj><sep />komit o`r brjo`sti Gotna.
 		</original>
 		<translation>
 			In the hall was clamor,<sep />the cups were shattered,<br />
-			Men stood in blood<sep />from the breasts of the Goths,
+			Men stood in blood<sep />from the breasts of the Goths.
 		</translation>
 		<comment>
 			Editors have made various efforts to reconstruct a four line stanza out of these two lines, in some cases with the help of lines borrowed from the puzzling stanza <sr>11</sr> (cf. note on stanza <sr>23</sr>).
@@ -461,11 +464,11 @@
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Hitt kvaþ þa` Hamþe`r<sep />enn hugumsto`ri:]<br />
+			``A_Estir, Jo~rmunrekkr!<sep />okkarrar kvo~`mu,<br />
+			bro/`þra sammo/`þra,<sep />innan borgar þinnar:<br />
+			<conj>ho~ggnum</conj> se`r ho~ndum,<sep /><conj>ho~ggnum</conj> se`r fo`tum,<br />
+			Jo~rmunrekkr! orpit<sep />i` eld <conj>enn heita.</conj>''
 		</original>
 		<translation>
 			Then did Hamther speak forth,<sep />the haughty of heart:<br />
@@ -482,10 +485,10 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` hraut viþ <conj>ra_esir</conj><sep />enn reginkunngi,<br />
+			<conj>ballr</conj> i` brynju,<sep />sem bjo~rn hryti:<br />
+			``Gry`tiþ a` gumna,<sep />alls geirar ne` bi`ta,<br />
+			eggjar ne` <conj>i`sarn</conj><sep />Jo~nakrs sunu.''
 		</original>
 		<translation>
 			Then roared the king,<sep />of the race of the gods,<br />
@@ -500,13 +503,13 @@
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-
+			So~rli kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Bo~l vanntu, bro`þir!<sep />es þann belg leystir:<br />
+			opt o`r belg <conj>orþgum</conj><sep />bo~ll ro~`þ koma;<br />
+			hug <conj>hefr</conj> þu`, Hamþe`r!<sep />ef hefþir hyggjandi!<br />
+			mikils es a` mann hvern vant,<sep />es mannvits es.''
 		</original>
 		<translation_prelude>
 			Sorli spake:
@@ -522,6 +525,9 @@
 			<textstanza class="translation">
 				Then did Hamther speak forth,<sep />the haughty of heart,
 			</textstanza>
+			<textstanza class="original">
+				(Hitt kvaþ þa` Hamþe`r<sep />enn hugumsto`ri,)
+			</textstanza>
 			but the speaker in this case must be Sorli and not Hamther.
 			Some editors, however, give lines 1--2 to Hamther and lines 3--4 to Sorli.
 			<expl>Bag</expl>: i.e., Hamther's mouth; cf. note on stanza <sr>11</sr>.
@@ -530,13 +536,13 @@
 	</block>
 	<block class="stanza" number="28">
 		<original_prelude>
-
+			Hamþir kvaþ:
 		</original_prelude>
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Af va_e`ri nu` haufuþ,<sep />ef Erpr lifþi,<br />
+			bro`þir enn bo~þfro/`kni,<sep />es a` braut vo~`gum,<br />
+			<conj>verr</conj> enn vi`þ<conj>fra_e`gi</conj><sep />---<conj>o~ttumk</conj> at di`sir---,<br />
+			gumi enn gunnhelgi<sep />---go/rþumk at vi`gi.
 		</original>
 		<translation_prelude>
 			Hamther spake:
@@ -544,7 +550,7 @@
 		<translation>
 			``His head were now off<sep />if Erp were living,<br />
 			The brother so keen<sep />whom we killed on our road,<br />
-			The warrior noble,--<sep />'twas the Norns that drove me<br />
+			The warrior noble,---<sep />'twas the Norns that drove me<br />
 			The hero to slay<sep />who in fight should be holy.
 		</translation>
 		<comment>
@@ -558,9 +564,10 @@
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			<sep /><br />
-			<br />
-			<sep /><br />
+			[Ulfa do/`mi<sep /><conj>hykkak okkr</conj> vesa,<br />
+			at mynim sjalfir <conj>of</conj> sakask,<br />
+			sem grey norna<sep />þaus gro~`þug eru<br />
+			i` auþn <conj>of</conj> alin.]
 		</original>
 		<translation>
 			In fashion of wolves<sep />it befits us not<br />
@@ -575,16 +582,16 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Vel ho~fum vegit,<sep />sto~ndum a` val Gotna<br />
+			ofan eggmo`þum,<sep />sem ernir a` kvisti;<br />
+			go`þs <conj>fengum</conj> ti`rar,<sep />þo`t nu` eþa i` ga_e`r <conj>deyim:</conj><br />
+			kveld lifir maþr etki<sep />ept kviþ norna.''
 		</original>
 		<translation>
 			``We have greatly fought,<sep />o'er the Goths do we stand<br />
 			By our blades laid low,<sep />like eagles on branches;<br />
 			Great our fame though we die<sep />today or tomorrow;<br />
-			None outlives the night<sep />when the Norris have spoken.''
+			None outlives the night<sep />when the Norns have spoken.''
 		</translation>
 		<comment>
 			Some editors assume a gap after this stanza.
@@ -592,8 +599,8 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			<sep /><br />
-			<sep />
+			Þar fell So~rli<sep />at salar gafli,<br />
+			en Hamþe`r hne`<sep />at hu`sbaki.
 		</original>
 		<translation>
 			Then Sorli beside<sep />the gable sank,<br />
@@ -605,7 +612,9 @@
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
-		<original />
+		<original>
+			Þetta eru ko~lluþ Hamþisma`l en fornu.
+		</original>
 		<translation>
 			This is called the old ballad of Hamther.
 		</translation>
