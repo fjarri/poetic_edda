@@ -1,7 +1,7 @@
 <chapter label="Guthrunarhvot">
 	<block class="eddachapter">
 		<original>
-
+			Guþru`narhvot
 		</original>
 		<transliteration>
 			Guthrunarhvot
@@ -45,20 +45,19 @@
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			Guþru`n gekk þa` til sa_evar, er hon hafþi drepit Atla.<br />
+			Gekk <conj>hon</conj> u`t a` sa_einn ok vildi fara se`r; hon ma`tti eigi so/kkva.<br />
+			Rak hana yfir fjo~rþinn a` land Jo`nakrs konungs; hann fekk hennarl þeira synir va`ru þeir So~rli ok Erpr ok Hamþir.<br />
+			Þar fo_eddiz upp Svanhildr Sigurþardo`ttir; hon var gipt Jo~rmunrekk enum ri`kja.<br />
+			Meþ honum var Bikki, hann re`þ þat at Randve`r konungs son skyldi taka hana.<br />
+			Þat sagþi Bikki konungi.<br />
+			Konungr le`t hengja Randve`, en troþa Svanhildi undir hrossa fo`tum.<br />
+			En er þat spurþi Guþru`n, þa` kvaddi <conj>hon</conj> sonu si`na.
 		</original>
 		<translation>
 			Guthrun went forth to the sea after she had slain Atli.<br />
 			She went out into the sea and fain would drown herself, but she could not sink.<br />
-			The waves bore her across the<br />
-			fjord to the land of King Jonak; he took her as wife; their sons were Sorli and Erp and Hamther.<br />
+			The waves bore her across the fjord to the land of King Jonak; he took her as wife; their sons were Sorli and Erp and Hamther.<br />
 			There was brought up Svanhild, Sigurth's daughter; she was married to the mighty Jormunrek.<br />
 			With him was Bikki, who counselled that Randver, the king's son, should have her.<br />
 			This Bikki told to the king.<br />
@@ -86,10 +85,10 @@
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` fra`k sennu<sep />sli`þrfengligsta,<br />
+			trauþmo~`l taliþ<sep />af trega sto`rum,<br />
+			es harþhuguþ<sep />hvatti at vi`gi<br />
+			grimmum orþum<sep />Guþru`n sunu:
 		</original>
 		<translation>
 			A word-strife I learned,<sep />most woeful of all,<br />
@@ -103,12 +102,12 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Hvi` sitiþ <conj>kyrrir,</conj><sep />hvi` sofiþ li`fi,<br />
+			hvi` tregrat ykkr<sep />teiti at ma_e`la?<br />
+			es Jo~rmunrekkr<sep />yþra systur<br />
+			unga at aldri<sep />joum of traddi<br />
+			[hvi`tum ok svo~rtum<sep />a` hervegi,<br />
+			gro~um, gangto~mum<sep />Gotna hrossum.]
 		</original>
 		<translation>
 			``Why sit ye idle,<sep />why sleep out your lives,<br />
@@ -125,11 +124,11 @@
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Urþuat gli`kir<sep />þeim Gunnari<br />
+			ne in heldr hugþir<sep />sem vas Ho~gni:<br />
+			hennar munduþ<sep />hefna leita,<br />
+			ef mo`þ a_e`ttiþ<sep />minna bro/`þra<br />
+			[eþa harþan hug<sep />Hu`nkonunga.]''
 		</original>
 		<translation>
 			Not like are ye<sep />to Gunnar of yore,<br />
@@ -146,11 +145,11 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Þa` kvaþ þat Hamþe`r<sep />enn hugumsto`ri:<br />
+			``Litt mundir þu`<sep />leyfa do~`þ Ho~gna,<br />
+			þa`s Sigurþ vo~kþu<sep />svefni o`r:<br />
+			bo/`kr vo~ru þi`nar<sep />enar bla`hvi`tu<br />
+			roþnar i` vers dreyra,<sep />folgnar i` valblo`þi.
 		</original>
 		<translation>
 			Then Hamther spake,<sep />the high of heart:<br />
@@ -167,10 +166,10 @@
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Urþu þe`r <conj>bra`þla</conj><sep />bro/`þra hefndir<br />
+			sli`þrar ok sa`rar,<sep />es sunu myrþir;<br />
+			kna_e`ttim <conj>allir</conj><sep />Jo~rmunrekki<br />
+			samhyggjendr<sep />systur hefna.
 		</original>
 		<translation>
 			Bloody revenge<sep />didst have for thy brothers,<br />
@@ -186,8 +185,8 @@
 	<block class="stanza" number="6">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			<sep /><br />
-			<sep />
+			beriþ hnossir fram<sep />Hu`nkonunga!<br />
+			hefr okkr hvatta<sep />at hjo~rþingi.''
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
@@ -200,10 +199,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hla_e`jandi Guþru`n<sep />hvarf til skemmu,<br />
+			kumbl konunga<sep />o`r kerum valþi,<br />
+			si`þar brynjur,<sep />ok sunum fo/`rþi:<br />
+			hlo`þusk mo`þgir<sep />a` mara bo`gu.
 		</original>
 		<translation>
 			Laughing did Guthrun<sep />go to her chamber,<br />
@@ -217,11 +216,11 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Þa` kvaþ þat Hamþe`r<sep />enn hugumsto`ri:]<br />
+			``Sva` <conj>ko/msk</conj> meirr aptr<sep />mo`þur at vitja<br />
+			geirnjo~rþr hniginn<sep />a` Gotþjo`þu,<br />
+			at þu` erfi<sep />at o~ll oss <conj>drekkir,</conj><br />
+			at Svanhildi<sep />ok sunu þi`na.''
 		</original>
 		<translation>
 			Then Hamther spake,<sep />the high of heart:<br />
@@ -238,10 +237,10 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gra`tandi Guþru`n<sep />Gju`ka do`ttir<br />
+			gekk tregliga<sep />a` tai:: sitja<br />
+			auk at telja<sep />to`rughly`ra<br />
+			mo`þug spjo~ll<sep />a` margan veg:
 		</original>
 		<translation>
 			Weeping Guthrun,<sep />Gjuki's daughter,<br />
@@ -252,10 +251,10 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Þria vissak elda,<sep />þria vissak arna;<br />
+			vask þrimr verum<sep />vegin at hu`si;<br />
+			einn <conj>vo~rumk</conj> Sigurþr<sep />o~llum betri,<br />
+			es bro/`þr mi`nir<sep />at bana urþu.
 		</original>
 		<translation>
 			``Three home-fires knew I,<sep />three hearths I knew,<br />
@@ -266,9 +265,9 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Sva`rra sa`ra<sep />sa`kat, ne` kunnu<br />
+			<lacuna /> meirr þo`ttusk<sep />me`r <conj>of</conj> stri`þa,<br />
+			es mik o~þlingar<sep />Atla go~`fu.
 		</original>
 		<translation>
 			A greater sorrow<sep />I saw not nor knew,<br />
@@ -283,9 +282,9 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hu`na hvassa<sep />he`tk mer at ru`num<br />
+			ma`ttigak bo~lva<sep />bo/`tr <conj>of</conj> vinna,<br />
+			a`þr hno`fk ho~fuþ<sep />at <conj>Hniflungum.</conj>
 		</original>
 		<translation>
 			The brave boys I summoned<sep />to secret speech;<br />
@@ -300,10 +299,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gekk ek til strandar,<sep />gro~m vask nornum,<br />
+			vildak hrinda<sep /><conj>vreiþi</conj> þeira:<br />
+			ho`fumk, ne` drekþu,<sep />ho`var bo~`rur,<br />
+			þvi` land <conj>of</conj> ste`k,<sep />at lifa skyldak.
 		</original>
 		<translation>
 			To the sea I went,<sep />my heart full sore<br />
@@ -317,10 +316,10 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Gekk ek a` beþ<sep />---<conj>hugþumk</conj> fyrr betra---<br />
+			þriþja sinni<sep />þjo`þkonungi;<br />
+			o`lk me`r jo`þ,<sep />erfivo~rþu,<br />
+			<conj>erfivo~rþu</conj><sep />Jo`nakrs sunum.
 		</original>
 		<translation>
 			Then to the bed---<sep />of old was it better!---<br />
@@ -334,10 +333,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En umb Svanhildi<sep />so~`tu þy`jar,<br />
+			<conj>es</conj> barna minna<sep />bazt fullhugþak;<br />
+			sva` vas Svanhildr<sep />i` sal mi`num,<br />
+			sem va_eri so/`mleitr<sep />so`lar geisli.
 		</original>
 		<translation>
 			But round Svanhild<sep />handmaidens sat,<br />
@@ -348,11 +347,11 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Go/`ddak golli<sep />ok goþvefjum,<br />
+			a`þr <conj>hana</conj> ga_e`fak<sep />Gotþjo`þar til;<br />
+			<conj>Sa`'s</conj> me`r <conj>harþastr</conj><sep />harma minna,<br />
+			<conj>es</conj> þann enn hvi`ta<sep />hadd Svanhildar<br />
+			aur i` tro~ddu<sep />und joa fo`tum.
 		</original>
 		<translation>
 			Gold I gave her<sep />and garments bright,<br />
@@ -368,10 +367,10 @@
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			En sa` sa`rastr,<sep />es Sigurþ minn<br />
+			sigri ra_e`ndan<sep />i` sa_eing vo~`gu;<br />
+			en sa` grimmastr,<sep />es Gunnari<br />
+			fra`nir ormar<sep />til fjo~rs skriþu.
 		</original>
 		<translation>
 			The sorest it was<sep />when Sigurth mine<br />
@@ -382,15 +381,15 @@
 		<comment>
 			The manuscript does not indicate line 1 as beginning a stanza (cf. note on stanza <sr>16</sr>).
 			Stanzas <sr>17</sr> and <sr>18</sr> are very likely later interpolations, although the compilers of the <src>Volsungasaga</src> knew them as they stand here.
-			The whole passage depends on the shades of difference in the meanings of the various superlatives: <emph>harþastr</emph>, ``hardest''; <emph>sárastr</emph>, ``sorest''; <emph>grimmastr</emph>, ``grimmest,'' and <emph>hvassastr</emph>, ``keenest.''
+			The whole passage depends on the shades of difference in the meanings of the various superlatives: <emph>harþastr</emph>, ``hardest''; <emph>sārastr</emph>, ``sorest''; <emph>grimmastr</emph>, ``grimmest,'' and <emph>hvassastr</emph>, ``keenest.''
 			<expl>Snakes</expl>: cf. <chapterref>Drap Niflunga</chapterref>.
 		</comment>
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><lacuna /><br />
+			En sa` hvassastr,<sep />es hjarta til<br />
+			konung o`blauþan<sep />kvikvan sko~`ru;<br />
+			fjo~lþ mank bo~lva<sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -407,13 +406,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			``Beittu, <conj>Sigurþr!</conj><sep />en blakka mar,<br />
+			hest enn harþfo/`ra<sep />la`t hinig rinna:<br />
+			sitr eigi he`r<sep />sno/r ne` do`ttir<br />
+			su` es Guþru`n<sep />ga_e`fi hnossir.
 		</original>
 		<translation>
-			Bridle, Sigurth,<sep />thy steed so black,<br />
+			``Bridle, Sigurth,<sep />thy steed so black,<br />
 			Hither let run<sep />thy swift-faring horse;<br />
 			Here there sits not<sep />son or daughter<br />
 			Who yet to Guthrun<sep />gifts shall give.
@@ -426,10 +425,10 @@
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Minnsk þu`, Sigurþr!<sep />hvat vit ma_e`ltum,<br />
+			es a` <conj>beþjum</conj> vit<sep />ba_e`þi so~`tum,<br />
+			at myndir mi`n<sep />mo`þugr vitja<br />
+			halr o`r helju,<sep />en o`r heimi ek þi`n.
 		</original>
 		<translation>
 			Remember, Sigurth,<sep />what once we said,<br />
@@ -440,10 +439,10 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			Hlaþiþ e`r, jarlar!<sep />eiki<conj>kesti,</conj><br />
+			la`tiþ und hilmi<sep />ha_e`stan verþa!<br />
+			megi brenna brjo`st<sep />bo~lvafullt eldr,<br />
+			<conj>þrungit</conj> hjarta,<sep />þiþni sorgir.''
 		</original>
 		<translation>
 			Pile ye up, jarls,<sep />the pyre of oak,<br />
@@ -458,9 +457,9 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			<sep /><br />
-			<sep /><br />
-			<sep />
+			[Jo~rlum o~llum<sep /><conj>va`laþs</conj> batni,<br />
+			sno`tum o~llum<sep /><conj>sorgir minki,</conj><br />
+			at tregro`f <conj>þat</conj><sep /><conj>of</conj> talit va_e`ri.]
 		</original>
 		<translation>
 			May nobles all<sep />less sorrow know,<br />
