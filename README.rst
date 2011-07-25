@@ -409,3 +409,4 @@ Tasks for distant future
   - Volundarkvitha, 26-27
   - Grimnismol, 23-24
   - Guthrunarhvot, 16
+  - Hamthesmol, 4-5, 14 (13 in Gering)
