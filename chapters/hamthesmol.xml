@@ -1,7 +1,7 @@
 <chapter label="Hamthesmol">
 	<block class="eddachapter">
 		<original>
-			Hamþe`smo~`l [en fornu]
+			Hamþēsmǭl [en fornu]
 		</original>
 		<transliteration>
 			Hamthesmol
@@ -14,27 +14,27 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The <cr>Hamthesmol</cr>, the concluding poem in the <src>Codex Regius</src>, is on the whole the worst preserved of all the poems in the collection.
-		The origin of the story, the relation of the <cr>Hamthesmol</cr> to the <cr>Guthrunarhvot</cr>, and of both poems to the hypothetical ``old'' <cr>Hamthesmol</cr>, are outlined in the introductory note to the <cr>Guthrunarhvot</cr>.
-		The <cr>Hamthesmol</cr> as we have it is certainly not the ``old'' poem of that name; indeed it is so pronounced a patchwork that it can hardly be regarded as a coherent poem at all.
-		Some of the stanzas are in Fornyrthislag, some are in Malahattr, one (stanza <sr>29</sr>) appears to be in Ljothahattr, and in many cases the words can be adapted to any known metrical form only by liberal emendation.
+		The <chapterref>Hamthesmol</chapterref>, the concluding poem in the <source>Codex Regius</source>, is on the whole the worst preserved of all the poems in the collection.
+		The origin of the story, the relation of the <chapterref>Hamthesmol</chapterref> to the <chapterref>Guthrunarhvot</chapterref>, and of both poems to the hypothetical “old” <chapterref>Hamthesmol</chapterref>, are outlined in the introductory note to the <chapterref>Guthrunarhvot</chapterref>.
+		The <chapterref>Hamthesmol</chapterref> as we have it is certainly not the “old” poem of that name; indeed it is so pronounced a patchwork that it can hardly be regarded as a coherent poem at all.
+		Some of the stanzas are in Fornyrthislag, some are in Malahattr, one (stanza <stanzaref chapter="Hamthesmol">29</stanzaref>) appears to be in Ljothahattr, and in many cases the words can be adapted to any known metrical form only by liberal emendation.
 		That any one should have deliberately com posed such a poem seems quite incredible, and it is far more likely that some eleventh century narrator constructed a poem about the death of Hamther and Sorli by piecing together various fragments, and possibly adding a number of Malahattr stanzas of his own.
 	</block>
 	<block class="text">
-		It has been argued, and with apparently sound logic, that our extant <cr>Hamthesmol</cr> originated in Greenland, along with the <cr>Atlamol</cr>.
-		In any case, it can hardly have been put together before the latter part of the eleventh century, although the ``old'' <cr>Hamthesmol</cr> undoubtedly long antedates this period.
+		It has been argued, and with apparently sound logic, that our extant <chapterref>Hamthesmol</chapterref> originated in Greenland, along with the <chapterref>Atlamol</chapterref>.
+		In any case, it can hardly have been put together before the latter part of the eleventh century, although the “old” <chapterref>Hamthesmol</chapterref> undoubtedly long antedates this period.
 		Many editors have attempted to pick out the parts of the extant poem which were borrowed from this older lay, but the condition of the text is such that it is by no means clear even what stanzas are in Fornyrthislag and what in Malahattr.
-		Many editors, likewise, indicate gaps and omissions, but it seems doubtful whether the extant <cr>Hamthesmol</cr> ever had a really consecutive quality, its component fragments having apparently been strung together with little regard for continuity.
+		Many editors, likewise, indicate gaps and omissions, but it seems doubtful whether the extant <chapterref>Hamthesmol</chapterref> ever had a really consecutive quality, its component fragments having apparently been strung together with little regard for continuity.
 		The notes indicate some of the more important editorial suggestions, but make no attempt to cover all of them, and the metrical form of the translation is often based on mere guesswork as to the character of the original lines and stanzas.
 		Despite the chaotic state of the text, however, the underlying narrative is reasonably clear, and the story can be followed with no great difficulty.
 	</block>
 	<block class="sepline" />
 	<block class="stanza" number="1">
 		<original>
-			[Spruttu a` tai::<sep />tregnar i`þir<br />
-			<conj>at</conj> gly`sto~mu<sep />gro/`ti alfa;<br />
-			a`r <conj>of</conj> morgin<sep />manna bo~lva<br />
-			su`tir hverjar<sep />sorg <conj>of</conj> kveykva.]
+			[Spruttu ā taï<sep />tregnar īþir<br />
+			<conj>at</conj> glȳstǫmu<sep />grø̄ti alfa;<br />
+			ār <conj>of</conj> morgin<sep />manna bǫlva<br />
+			sūtir hverjar<sep />sorg <conj>of</conj> kveykva.]
 		</original>
 		<translation>
 			Great the evils<sep />once that grew,<br />
@@ -49,11 +49,11 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			Vasa þat nu`<sep />ne` i` ga_e`r,<br />
-			þat hefr langt<sep />liþit si`þan,<br />
-			[fa`tt es fornara,<sep />fremr vas þat ho~lfu]<br />
-			es hvatti Guþru`n<sep /><dagger /> Gju`ka borin<br />
-			sunu si`na unga<sep />at hefna Svanhildar.
+			Vasa þat nū<sep />nē ī gǣr,<br />
+			þat hefr langt<sep />liþit sīþan,<br />
+			[fātt es fornara,<sep />fremr vas þat hǫlfu]<br />
+			es hvatti Guþrūn<sep /><dagger /> Gjūka borin<br />
+			sunu sīna unga<sep />at hefna Svanhildar.
 		</original>
 		<translation>
 			Not now, nor yet<sep />of yesterday was it,<br />
@@ -63,32 +63,32 @@
 			Her sons so young<sep />to Svanhild's vengeance.
 		</translation>
 		<comment>
-			Some editors regard lines 1--2 as interpolated, while others question line 3.
+			Some editors regard lines 1–2 as interpolated, while others question line 3.
 			<expl>Guthrun</expl>, etc.: regarding the marriage of Jonak and Guthrun (daughter of Gjuki, sister of Gunnar and Hogni, and widow first of Sigurth and then of Atli), and the sons of this marriage, Hamther and Sorli (but not Erp), cf. <chapterref>Guthrunarhvot</chapterref>, <proseref chapter="Guthrunarhvot" prose="p1">introductory prose</proseref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			``Systir vas ykkur<sep />Svanhildr <conj>of</conj> heitin,<br />
-			su`s Jo~rmunrekkr<sep />joum <conj>of</conj> traddi,<br />
-			hvi`tum ok svo~rtum<sep />a` hervegi,<br />
-			gro~um, gangto~mum<sep />Gotna hrossum.
+			“Systir vas ykkur<sep />Svanhildr <conj>of</conj> heitin,<br />
+			sūs Jǫrmunrekkr<sep />joum <conj>of</conj> traddi,<br />
+			hvītum ok svǫrtum<sep />ā hervegi,<br />
+			grǫum, gangtǫmum<sep />Gotna hrossum.
 		</original>
 		<translation>
-			``The sister ye had<sep />was Svanhild called,<br />
+			“The sister ye had<sep />was Svanhild called,<br />
 			And her did Jormunrek<sep />trample with horses,<br />
 			White and black<sep />on the battle-way,<br />
 			Gray, road-wonted,<sep />the steeds of the Goths.
 		</translation>
 		<comment>
 			<expl>Svanhild</expl> and <expl>Jormunrek</expl>: regarding the manner in which Jormunrek (Ermanarich) married Svanhild, daughter of Sigurth and Guthrun, and afterwards had her trodden to death by horses, cf. <chapterref>Guthrunarhvot</chapterref>, introductory note.
-			Lines 3--4 are identical with lines 5--6 of <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">2</stanzaref>.
+			Lines 3–4 are identical with lines 5–6 of <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">2</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			Eptir es þrungit<sep />ykkr þjo`þkonunga,<br />
-			lifiþ einir þa`tta<sep />a_e`ttar minnar.<br />
+			Eptir es þrungit<sep />ykkr þjōþkonunga,<br />
+			lifiþ einir þātta<sep />ǣttar minnar.<br />
 		</original>
 		<translation>
 			Little the kings<sep />of the folk are ye like,<br />
@@ -96,54 +96,54 @@
 		</translation>
 		<comment>
 			These two lines may be all that is left of a four-line stanza.
-			The manuscript and many editions combine them with stanza <sr>5</sr>, while a few place them after stanza <sr>5</sr> as a separate stanza, reversing the order of the two lines.
+			The manuscript and many editions combine them with stanza <stanzaref chapter="Hamthesmol">5</stanzaref>, while a few place them after stanza <stanzaref chapter="Hamthesmol">5</stanzaref> as a separate stanza, reversing the order of the two lines.
 			<expl>Kings of the folk</expl>: Guthrun's brothers, Gunnar and Hogni, slain by Atli.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			Einsto/`þ emk orþin<sep />sem o~sp i` holti,<br />
-			fallin at fra_e`ndum<sep />sem fura at kvisti,<br />
+			Einstø̄þ emk orþin<sep />sem ǫsp ī holti,<br />
+			fallin at frǣndum<sep />sem fura at kvisti,<br />
 			vaþin at vilja<sep />sem viþr at laufi,<br />
-			þa`s en kvistsko/`þa<sep />ko/mr <conj>of</conj> dag varman.''
+			þās en kvistskø̄þa<sep />kømr <conj>of</conj> dag varman.”
 		</original>
 		<translation>
 			Lonely am I<sep />as the forest aspen,<br />
 			Of kindred bare<sep />as the fir of its boughs,<br />
 			My joys are all lost<sep />as the leaves of the tree<br />
-			When the scather of twigs<sep />from the warm day turns.''
+			When the scather of twigs<sep />from the warm day turns.”
 		</translation>
 		<comment>
-			Cf. note on stanza <sr>4</sr>; the manuscript does not indicate line 1 as beginning a stanza.
-			<expl>Scather of twigs</expl>: poetic circumlocution for the wind (cf. <src>Skaldskaparmal</src>, chapter 27), though some editors think the phrase here means the sun.
-			Some editors assume a more or less extensive gap between stanzas <sr>5</sr> and <sr>6</sr>.
+			Cf. note on stanza <stanzaref chapter="Hamthesmol">4</stanzaref>; the manuscript does not indicate line 1 as beginning a stanza.
+			<expl>Scather of twigs</expl>: poetic circumlocution for the wind (cf. <source>Skaldskaparmal</source>, chapter 27), though some editors think the phrase here means the sun.
+			Some editors assume a more or less extensive gap between stanzas <stanzaref chapter="Hamthesmol">5</stanzaref> and <stanzaref chapter="Hamthesmol">6</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
-			Hitt kvaþ þa` Hamþe`r<sep />enn hugumsto`ri:<br />
-			``Litt mundir, Guþru`n!<sep />leyfa do~`þ Ho~gna,<br />
-			es þeir Sigurþ <conj>þinn</conj><sep />svefni o`r vo~kþu,<br />
-			saztu a` <conj>beþjum,</conj><sep />en banar hlo`gu.
+			Hitt kvaþ þā Hamþēr<sep />enn hugumstōri:<br />
+			“Litt mundir, Guþrūn!<sep />leyfa dǭþ Hǫgna,<br />
+			es þeir Sigurþ <conj>þinn</conj><sep />svefni ōr vǫkþu,<br />
+			saztu ā <conj>beþjum,</conj><sep />en banar hlōgu.
 		</original>
 		<translation>
 			Then Hamther spake forth,<sep />the high of heart:<br />
-			``Small praise didst thou, Guthrun,<sep />to Hogni's deed give<br />
+			“Small praise didst thou, Guthrun,<sep />to Hogni's deed give<br />
 			When they wakened thy Sigurth<sep />from out of his sleep,<br />
 			Thou didst sit on the bed<sep />while his slayers laughed.
 		</translation>
 		<comment>
-			Lines 1--3 are nearly identical with lines 1--3 of <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">4</stanzaref>.
-			On the death of Sigurth cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">21</stanzaref>--<stanzaref chapter="Sigurtharkvitha en skamma">24</stanzaref>, and <chapterref>Brot</chapterref>, <proseref chapter="Brot" prose="conclusion">concluding prose</proseref>.
+			Lines 1–3 are nearly identical with lines 1–3 of <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">4</stanzaref>.
+			On the death of Sigurth cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">21</stanzaref>–<stanzaref chapter="Sigurtharkvitha en skamma">24</stanzaref>, and <chapterref>Brot</chapterref>, <proseref chapter="Brot" prose="conclusion">concluding prose</proseref>.
 			The word <expl>thy</expl> in line 3 is omitted in the original.
 		</comment>
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Bo/`kr vo~`ru þi`nar<sep />enar bla`hvi`tu<br />
-			valundum <conj>roþnar,</conj><sep />flutu i` vers dreyra;<br />
-			svalt þa` Sigurþr,<sep />saztu <conj>of</conj> dauþum,<br />
-			gly`ja ne` ga`þir:<sep />Gunnarr sva` vildi.
+			Bø̄kr vǭru þīnar<sep />enar blāhvītu<br />
+			valundum <conj>roþnar,</conj><sep />flutu ī vers dreyra;<br />
+			svalt þā Sigurþr,<sep />saztu <conj>of</conj> dauþum,<br />
+			glȳja nē gāþir:<sep />Gunnarr svā vildi.
 		</original>
 		<translation>
 			Thy bed-covers white<sep />with blood were red<br />
@@ -152,56 +152,56 @@
 			And of gladness didst think not:<sep />'twas Gunnar's doing.
 		</translation>
 		<comment>
-			Lines 1--2 are nearly identical with lines 4--5 of <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">4</stanzaref>.
+			Lines 1–2 are nearly identical with lines 4–5 of <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">4</stanzaref>.
 			The manuscript, followed by many editions, indicates line 3 and not line 1 as beginning a stanza.
 		</comment>
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			[Atla þo`ttisk stri`þa<sep />at Erps morþi<br />
-			ok at Eitils aldrlagi:<sep />þat vas þe`r enn verra;<br />
-			sva` skyldi hverr o~þrum<sep />verja til aldrlaga<br />
-			sverþi sa`rbeitu,<sep />at se`r ne` stri`ddit.]
+			[Atla þōttisk strīþa<sep />at Erps morþi<br />
+			ok at Eitils aldrlagi:<sep />þat vas þēr enn verra;<br />
+			svā skyldi hverr ǫþrum<sep />verja til aldrlaga<br />
+			sverþi sārbeitu,<sep />at sēr nē strīddit.]
 		</original>
 		<translation>
 			Thou wouldst strike at Atli<sep />by the slaying of Erp<br />
 			And the killing of Eitil;<sep />thine own grief was worse;<br />
 			So should each one wield<sep />the wound-biting sword<br />
-			That another it slays<sep />but smites not himself.''
+			That another it slays<sep />but smites not himself.”
 		</translation>
 		<comment>
 			Some editors regard this stanza as interpolated.
-			<expl>Erp</expl> and <expl>Eitil</expl>: regarding Guthrun's slaying of her sons by Atli, cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">72</stanzaref>--<stanzaref chapter="Atlamol">75</stanzaref>.
-			The Erp here referred to is not to be confused with the Erp, son of Jonak, who appears in stanza <sr>13</sr>.
-			The whole of stanza <sr>8</sr> is in doubtful shape, and many emendations have been suggested.
+			<expl>Erp</expl> and <expl>Eitil</expl>: regarding Guthrun's slaying of her sons by Atli, cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">72</stanzaref>–<stanzaref chapter="Atlamol">75</stanzaref>.
+			The Erp here referred to is not to be confused with the Erp, son of Jonak, who appears in stanza <stanzaref chapter="Hamthesmol">13</stanzaref>.
+			The whole of stanza <stanzaref chapter="Hamthesmol">8</stanzaref> is in doubtful shape, and many emendations have been suggested.
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Hitt kvaþ þa` So~rli,<sep />svinna hafþi hyggju:<br />
-			``Vilkat viþ mo`þur<sep />mo~`lum <conj>of</conj> skipta;<br />
-			orþs þykkir enn vant<sep />ykkru hvo~`ru<conj>gi:</conj><br />
-			hvers biþr þu`, Guþru`n!<sep />es at gra`ti ne` fa_e`rat?
+			Hitt kvaþ þā Sǫrli,<sep />svinna hafþi hyggju:<br />
+			“Vilkat viþ mōþur<sep />mǭlum <conj>of</conj> skipta;<br />
+			orþs þykkir enn vant<sep />ykkru hvǭru<conj>gi:</conj><br />
+			hvers biþr þū, Guþrūn!<sep />es at grāti nē fǣrat?
 		</original>
 		<translation>
 			Then did Sorli speak out,<sep />for wise was he ever:<br />
-			``With my mother I never<sep />a quarrel will make;<br />
+			“With my mother I never<sep />a quarrel will make;<br />
 			Full little in speaking<sep />methinks ye both lack;<br />
 			What askest thou, Guthrun,<sep />that will give thee no tears?
 		</translation>
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			Bro/`þr <conj>gra_e`tr</conj> þu` þi`na<sep />ok buri sva`sa,<br />
-			niþja na`borna<sep /><conj>leidda</conj> na_e`r ro`gi:<br />
-			skaltu auk, Guþru`n!<sep />gra`ta okkr ba`þa;<br />
-			sitjum he`r feigir [a` mo~rum],<sep />fjarri munum deyja.''
+			Brø̄þr <conj>grǣtr</conj> þū þīna<sep />ok buri svāsa,<br />
+			niþja nāborna<sep /><conj>leidda</conj> nǣr rōgi:<br />
+			skaltu auk, Guþrūn!<sep />grāta okkr bāþa;<br />
+			sitjum hēr feigir [ā mǫrum],<sep />fjarri munum deyja.”
 		</original>
 		<translation>
 			For thy brothers dost weep,<sep />and thy boys so sweet,<br />
 			Thy kinsmen in birth<sep />on the battlefield slain;<br />
 			Now, Guthrun, as; well<sep />for us both shalt thou weep,<br />
-			We sit doomed on our steeds,<sep />and far hence shall we die.''
+			We sit doomed on our steeds,<sep />and far hence shall we die.”
 		</translation>
 		<comment>
 			Some editors assign this speech to Hamther.
@@ -211,35 +211,35 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Hitt kvaþ þa` hro`þrglo~þ<sep />---sto`þ of hle`þum---<br />
-			ma_e`fingr ma_e`lti<sep />viþ <conj>mo~gu si`na:</conj><br />
-			``<conj>Þvi`'s þar ha_e`tta,</conj><sep />at hly`þigi myni:<br />
+			Hitt kvaþ þā hrōþrglǫþ<sep />—stōþ of hlēþum—<br />
+			mǣfingr mǣlti<sep />viþ <conj>mǫgu sīna:</conj><br />
+			“<conj>Þvī's þar hǣtta,</conj><sep />at hlȳþigi myni:<br />
 			<conj>megut</conj> tveir menn einir<sep />tiu <conj>hundruþ</conj> Gotna<br />
-			binda eþa berja<sep />i` borg enni ho`vu.''
+			binda eþa berja<sep />ī borg enni hōvu.”
 		</original>
 		<translation>
-			Then the fame-glad one---<sep />on the steps she was---<br />
+			Then the fame-glad one—<sep />on the steps she was—<br />
 			The slender-fingered,<sep />spake with her son:<br />
-			``Ye shall danger have<sep />if counsel ye heed not;<br />
+			“Ye shall danger have<sep />if counsel ye heed not;<br />
 			By two heroes alone<sep />shall two hundred of Goths<br />
-			Be bound or be slain<sep />in the lofty-walled burg.''
+			Be bound or be slain<sep />in the lofty-walled burg.”
 		</translation>
 		<comment>
-			In the manuscript this stanza follows stanza <sr>21</sr>, and some editors take the word here rendered ``fame-glad one'' (hrōþrglǫþ) to be a proper name (Jormunrek's mother or his concubine).
-			The <src>Volsungasaga</src>, however, indicates that Guthrun at this point ``had so fashioned their war-gear that iron would not bite into it, and she bade them to have nought to do with stones or other heavy things, and told them that it would be ill for them if they did not do as she said.''
+			In the manuscript this stanza follows stanza <stanzaref chapter="Hamthesmol">21</stanzaref>, and some editors take the word here rendered “fame-glad one” (hrōþrglǫþ) to be a proper name (Jormunrek's mother or his concubine).
+			The <source>Volsungasaga</source>, however, indicates that Guthrun at this point “had so fashioned their war-gear that iron would not bite into it, and she bade them to have nought to do with stones or other heavy things, and told them that it would be ill for them if they did not do as she said.”
 			The substance of this counsel may well have been conveyed in a passage lost after line 3, though the manuscript indicates no gap.
-			It is by being stoned that Hamther and Sorli are killed (stanza <sr>26</sr>).
-			On the other hand, the second part of line 3 may possibly mean ``if silent ye are not,'' in which case the advice relates to Hamther's speech to Jormunrek and Sorli's reproach to him thereupon (stanzas <sr>25</sr> and <sr>27</sr>).
+			It is by being stoned that Hamther and Sorli are killed (stanza <stanzaref chapter="Hamthesmol">26</stanzaref>).
+			On the other hand, the second part of line 3 may possibly mean “if silent ye are not,” in which case the advice relates to Hamther's speech to Jormunrek and Sorli's reproach to him thereupon (stanzas <stanzaref chapter="Hamthesmol">25</stanzaref> and <stanzaref chapter="Hamthesmol">27</stanzaref>).
 			<expl>Steps</expl>: the word in the original is doubtful.
 			Line 3 is thoroughly obscure.
-			Some editors make a separate stanza of lines 3--5, while others question line 5.
+			Some editors make a separate stanza of lines 3–5, while others question line 5.
 		</comment>
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Gengu o`r garþi<sep />go~rvir at eiskra<br />
-			liþu þa` ungir<sep /><conj>of</conj> u`rig fjo~ll<br />
-			mo~rum hu`nlenzkum<sep />morþs at hefna.
+			Gengu ōr garþi<sep />gǫrvir at eiskra<br />
+			liþu þā ungir<sep /><conj>of</conj> ūrig fjǫll<br />
+			mǫrum hūnlenzkum<sep />morþs at hefna.
 		</original>
 		<translation>
 			From the courtyard they fared,<sep />and fury they breathed;<br />
@@ -248,91 +248,91 @@
 		</translation>
 		<comment>
 			Many editors assume the loss of a line after line 1.
-			In several editions lines 2--3 are placed after line 2 of stanza <sr>18</sr>.
-			<expl>Hunnish</expl>: the word meant little more than ``German''; cf. <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">3</stanzaref> and note.
+			In several editions lines 2–3 are placed after line 2 of stanza <stanzaref chapter="Hamthesmol">18</stanzaref>.
+			<expl>Hunnish</expl>: the word meant little more than “German”; cf. <chapterref>Guthrunarhvot</chapterref>, <stanzaref chapter="Guthrunarhvot">3</stanzaref> and note.
 		</comment>
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Fundu a` stra_e`ti<sep />sto`rbro~gþo`ttan<br />
+			Fundu ā strǣti<sep />stōrbrǫgþōttan<br />
 			<lacuna /><sep /><lacuna /><br />
-			``hve` mun jarpskammr<sep />okkr fultingja?''
+			“hvē mun jarpskammr<sep />okkr fultingja?”
 		</original>
 		<translation>
 			On the way they found<sep />the man so wise;<br />
 			<lacuna /><sep /><lacuna /><br />
-			``What help from the weakling<sep />brown may we have?''
+			“What help from the weakling<sep />brown may we have?”
 		</translation>
 		<comment>
-			In the manuscript these two lines follow stanza <sr>16</sr>; some editors insert them in place of lines 2--3 of stanza <sr>11</sr>.
+			In the manuscript these two lines follow stanza <stanzaref chapter="Hamthesmol">16</stanzaref>; some editors insert them in place of lines 2–3 of stanza <stanzaref chapter="Hamthesmol">11</stanzaref>.
 			The manuscript indicates no gap.
 			<expl>The man so wise</expl>: Erp, here represented as a son of Jonak but not of Guthrun, and hence a half-brother of Hamther and Sorli.
-			There is nothing further to indicate whether or not he was born out of wedlock, as intimated in stanza <sr>16</sr>.
+			There is nothing further to indicate whether or not he was born out of wedlock, as intimated in stanza <stanzaref chapter="Hamthesmol">16</stanzaref>.
 			Some editors assign line 3 to Hamther, and some to Sorli.
 		</comment>
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			Svaraþi <conj>Erpr</conj><sep />enn sundrmo/`þri:<br />
-			``Sva` <conj>munk</conj> fra_e`ndum<sep />fulting veita,<br />
-			<conj>eþa</conj> fo`tr <conj>veitir</conj><sep /><conj>fo/`ti</conj> o~þrum.''
+			Svaraþi <conj>Erpr</conj><sep />enn sundrmø̄þri:<br />
+			“Svā <conj>munk</conj> frǣndum<sep />fulting veita,<br />
+			<conj>eþa</conj> fōtr <conj>veitir</conj><sep /><conj>fø̄ti</conj> ǫþrum.”
 		</original>
 		<translation>
 			So answered them<sep />their half-brother then:<br />
-			``So well may I<sep />my kinsmen aid<br />
-			As help one foot<sep />from the other has.''
+			“So well may I<sep />my kinsmen aid<br />
+			As help one foot<sep />from the other has.”
 		</translation>
 		<comment>
 			The stanza is obviously defective.
-			Many editors add Erp's name in line 1, and insert between lines 2 and 1 a line based on stanza <sr>15</sr> and the <src>Volsungasaga</src> paraphrase:
+			Many editors add Erp's name in line 1, and insert between lines 2 and 1 a line based on stanza <stanzaref chapter="Hamthesmol">15</stanzaref> and the <source>Volsungasaga</source> paraphrase:
 			<textstanza class="translation">
 				As a flesh grown hand<sep />another helps.
 			</textstanza>
 			<textstanza class="original">
-				(sem <conj>holdgroi::n</conj><sep /><conj>ho~nd annarri.</conj>)
+				(sem <conj>holdgroïn</conj><sep /><conj>hǫnd annarri.</conj>)
 			</textstanza>
-			In the <src>Volsungasaga</src>, after Erp's death, Hamther stumbles and saves himself from falling with his hand, whereupon he says: ``Erp spake truly; I had fallen had I not braced myself with my hand.''
+			In the <source>Volsungasaga</source>, after Erp's death, Hamther stumbles and saves himself from falling with his hand, whereupon he says: “Erp spake truly; I had fallen had I not braced myself with my hand.”
 			Soon thereafter Sorli has a like experience, one foot slipping but the other saving him from a fall.
-			``Then they said that they had done ill to Erp, their brother.''
+			“Then they said that they had done ill to Erp, their brother.”
 		</comment>
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			``hvat megi fo`tr<sep />fo/`ti veita<br />
-			ne` holdgroi::n<sep />ho~nd annarri?''
+			“hvat megi fōtr<sep />fø̄ti veita<br />
+			nē holdgroïn<sep />hǫnd annarri?”
 		</original>
 		<translation>
-			``How may afoot<sep />its fellow aid,<br />
-			Or a flesh-grown hand<sep />another help?''
+			“How may afoot<sep />its fellow aid,<br />
+			Or a flesh-grown hand<sep />another help?”
 		</translation>
 		<comment>
-			Many editions attach these two lines to stanza <sr>14</sr>, while a few assume the loss of two lines.
+			Many editions attach these two lines to stanza <stanzaref chapter="Hamthesmol">14</stanzaref>, while a few assume the loss of two lines.
 		</comment>
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			Þa` kvaþ þat Erpr<sep />einu sinni,<br />
-			<conj>es</conj> ma_e`rr <conj>of</conj> le`k<sep />a` mars baki:<br />
-			``<conj>Ba`gt</conj>'s blauþum hal<sep />brautir kenna:<br />
-			<conj>kveþa</conj> harþan mjo~k<sep />hornung vesa.''
+			Þā kvaþ þat Erpr<sep />einu sinni,<br />
+			<conj>es</conj> mǣrr <conj>of</conj> lēk<sep />ā mars baki:<br />
+			“<conj>Bāgt</conj>'s blauþum hal<sep />brautir kenna:<br />
+			<conj>kveþa</conj> harþan mjǫk<sep />hornung vesa.”
 		</original>
 		<translation>
 			Then Erp spake forth,<sep />his words were few,<br />
 			As haughty he sat<sep />on his horse's back:<br />
-			``To the timid 'tis ill<sep />the way to tell.''<br />
+			“To the timid 'tis ill<sep />the way to tell.”<br />
 			A bastard they<sep />the bold one called.
 		</translation>
 		<comment>
-			In the manuscript this stanza stands between stanzas <sr>12</sr> and <sr>13</sr>.
+			In the manuscript this stanza stands between stanzas <stanzaref chapter="Hamthesmol">12</stanzaref> and <stanzaref chapter="Hamthesmol">13</stanzaref>.
 			Some editors make line 4 a part of Erp's speech.
 		</comment>
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			Dro`gu o`r <conj>sko~lpum</conj><sep />ski`þi<conj>i`sarn,</conj><br />
-			ma_e`kis eggjar,<sep />at mun flagþi;<br />
-			þverþu þro`tt sinn<sep />at þriþjungi,<br />
-			le`tu mo~g ungan<sep />til moldar hni`ga.
+			Drōgu ōr <conj>skǫlpum</conj><sep />skīþi<conj>īsarn,</conj><br />
+			mǣkis eggjar,<sep />at mun flagþi;<br />
+			þverþu þrōtt sinn<sep />at þriþjungi,<br />
+			lētu mǫg ungan<sep />til moldar hnīga.
 		</original>
 		<translation>
 			From their sheaths they drew<sep />their shining swords,<br />
@@ -347,24 +347,24 @@
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			Sko`ku <conj>þeir</conj> loþa,<sep />skalmir festu,<br />
-			smugu go`þbornir<sep />i` goþvefi.
+			Skōku <conj>þeir</conj> loþa,<sep />skalmir festu,<br />
+			smugu gōþbornir<sep />ī goþvefi.
 		</original>
 		<translation>
 			Their cloaks they shook,<sep />their swords they sheathed,<br />
 			The high-born men<sep />wrapped their mantles close.
 		</translation>
 		<comment>
-			In the manuscript these two lines are followed by stanza <sr>19</sr> with no indication of a break.
-			Some editions insert here lines 2--3 of stanza <sr>12</sr>, while others assume the loss of two or more lines.
+			In the manuscript these two lines are followed by stanza <stanzaref chapter="Hamthesmol">19</stanzaref> with no indication of a break.
+			Some editions insert here lines 2–3 of stanza <stanzaref chapter="Hamthesmol">12</stanzaref>, while others assume the loss of two or more lines.
 		</comment>
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			Fram lo~`gu brautir,<sep />fundu va`sti`gu<br />
-			ok systur <conj>stju`p</conj>sun<sep />sa`ran a` meiþi,<br />
-			vargtre` vindko~ld<sep />vestan bo/`jar,<br />
-			try`tti a_e` <dagger /> tro~nu hvo`t<sep />---titt vasat <conj>bi`þa.</conj>
+			Fram lǭgu brautir,<sep />fundu vāstīgu<br />
+			ok systur <conj>stjūp</conj>sun<sep />sāran ā meiþi,<br />
+			vargtrē vindkǫld<sep />vestan bø̄jar,<br />
+			trȳtti ǣ <dagger /> trǫnu hvōt<sep />—titt vasat <conj>bīþa.</conj>
 		</original>
 		<translation>
 			On their road they fared<sep />and an ill way found,<br />
@@ -373,18 +373,18 @@
 			And cranes'-bait crawled;<sep />none would care to linger.
 		</translation>
 		<comment>
-			Cf. note on stanza <sr>18</sr>.
+			Cf. note on stanza <stanzaref chapter="Hamthesmol">18</stanzaref>.
 			<expl>Ill way</expl>: very likely the road leading through the gate of Jormunrek's town at which Svanhild was trampled to death.
-			<expl>Sister's son</expl>: many editors change the text to read ``stepson,'' for the reference is certainly to Randver, son of Jormunrek, hanged by his father on Bikki's advice (cf. <chapterref>Guthrunarhvot</chapterref>, introductory note).
+			<expl>Sister's son</expl>: many editors change the text to read “stepson,” for the reference is certainly to Randver, son of Jormunrek, hanged by his father on Bikki's advice (cf. <chapterref>Guthrunarhvot</chapterref>, introductory note).
 			<expl>Wolf-tree</expl>: the gallows, the wolf being symbolical of outlaws.
 			<expl>Cranes'-bait</expl>: presumably either snakes or worms, but the passage is doubtful.
 		</comment>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Glaumr vas i` ho~llu,<sep /><conj>gumar</conj> o~lreifir,<br />
-			ok til gota etki<sep />go/rþut heyra,<br />
-			a`þr halr hugfullr<sep />i` horn <conj>of</conj> þaut.
+			Glaumr vas ī hǫllu,<sep /><conj>gumar</conj> ǫlreifir,<br />
+			ok til gota etki<sep />gørþut heyra,<br />
+			āþr halr hugfullr<sep />ī horn <conj>of</conj> þaut.
 		</original>
 		<translation>
 			In the hall was din,<sep />the men drank deep,<br />
@@ -398,16 +398,16 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Segja fo`ru <conj>a_e`rir</conj><sep />Jo~rmunrekki<br />
-			at se`nir vo~`ru<sep />seggir und hjo~lmum:<br />
-			``Ro/`þiþ e`r <conj>of</conj> ra`þ!<sep />ri`kir'u komnir!<br />
-			fyr mo~`tkum mo~nnum<sep />hafiþ mey <conj>of</conj> tradda.''
+			Segja fōru <conj>ǣrir</conj><sep />Jǫrmunrekki<br />
+			at sēnir vǭru<sep />seggir und hjǫlmum:<br />
+			“Rø̄þiþ ēr <conj>of</conj> rāþ!<sep />rīkir'u komnir!<br />
+			fyr mǭtkum mǫnnum<sep />hafiþ mey <conj>of</conj> tradda.”
 		</original>
 		<translation>
 			Men came and the tale<sep />to Jormunrek told<br />
 			How warriors helmed<sep />without they beheld:<br />
-			``Take counsel wise,<sep />for brave ones are come,<br />
-			Of mighty men<sep />thou the sister didst murder.''
+			“Take counsel wise,<sep />for brave ones are come,<br />
+			Of mighty men<sep />thou the sister didst murder.”
 		</translation>
 		<comment>
 			The word here rendered <expl>men</expl> (line 1) is missing in the original, involving a metrical error, and various words have been suggested.
@@ -415,10 +415,10 @@
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			Hlo` þa` Jo~rmunrekkr,<sep />hendi drap a` kanpa,<br />
-			<conj>beindi sko`g vanga,</conj><sep />bo~þvaþisk at vi`ni,<br />
-			sko`k hann sko~r jarpa,<sep />sa` a` skjo~ld hvi`tan,<br />
-			le`t se`r i` hendi<sep />hvarfa ker gollit.
+			Hlō þā Jǫrmunrekkr,<sep />hendi drap ā kanpa,<br />
+			<conj>beindi skōg vanga,</conj><sep />bǫþvaþisk at vīni,<br />
+			skōk hann skǫr jarpa,<sep />sā ā skjǫld hvītan,<br />
+			lēt sēr ī hendi<sep />hvarfa ker gollit.
 		</original>
 		<translation>
 			Then Jormunrek laughed,<sep />his hand laid on his beard,<br />
@@ -427,55 +427,55 @@
 			And raised high the cup<sep />of gold in his hand.
 		</translation>
 		<comment>
-			Line 2 in the original is thoroughly obscure; some editors directly reverse the meaning here indicated by giving the line a negative force, while others completely alter the phrase rendered ``his arms he called for'' into one meaning ``he stroked his cheeks.''
+			Line 2 in the original is thoroughly obscure; some editors directly reverse the meaning here indicated by giving the line a negative force, while others completely alter the phrase rendered “his arms he called for” into one meaning “he stroked his cheeks.”
 		</comment>
 	</block>
 	<block class="stanza" number="23">
 		<original>
-			``Sa_e`ll ek þa` þo/`ttumk,<sep />ef ek sea kna_e`ttak<br />
-			Hamþe` ok So~rla<sep />i` ho~llu minni:<br />
+			“Sǣll ek þā þø̄ttumk,<sep />ef ek sea knǣttak<br />
+			Hamþē ok Sǫrla<sep />ī hǫllu minni:<br />
 			buri mundak binda<sep />meþ boga strengjum,<br />
-			go`þ bo~rn <conj>Guþru`nar</conj><sep />a` galga festa.''
+			gōþ bǫrn <conj>Guþrūnar</conj><sep />ā galga festa.”
 		</original>
 		<translation>
-			``Happy, methinks,<sep />were I to behold<br />
+			“Happy, methinks,<sep />were I to behold<br />
 			Hamther and Sorli<sep />here in my hall;<br />
 			The men would I bind<sep />with strings of bows,<br />
-			And Gjuki's heirs<sep />on the gallows hang.''
+			And Gjuki's heirs<sep />on the gallows hang.”
 		</translation>
 		<comment>
-			<expl>Gjuki's heirs</expl>: the original has ``the well-born of Gjuki,'' and some editors have changed the proper name to Guthrun, but the phrase apparently refers to Hamther and Sorli as Gjuki's grandsons.
-			In the manuscript this stanza is followed by stanza <sr>11</sr>, and such editors as have retained this arrangement have had to resort to varied and complex explanations to account for it.
+			<expl>Gjuki's heirs</expl>: the original has “the well-born of Gjuki,” and some editors have changed the proper name to Guthrun, but the phrase apparently refers to Hamther and Sorli as Gjuki's grandsons.
+			In the manuscript this stanza is followed by stanza <stanzaref chapter="Hamthesmol">11</stanzaref>, and such editors as have retained this arrangement have had to resort to varied and complex explanations to account for it.
 		</comment>
 	</block>
 	<block class="stanza" number="24">
 		<original>
-			Styrr varþ i` ranni,<sep />stukku o~lska`lir<br />
-			<conj>blo`þ</conj> bragnar <conj>o`þu</conj><sep />komit o`r brjo`sti Gotna.
+			Styrr varþ ī ranni,<sep />stukku ǫlskālir<br />
+			<conj>blōþ</conj> bragnar <conj>ōþu</conj><sep />komit ōr brjōsti Gotna.
 		</original>
 		<translation>
 			In the hall was clamor,<sep />the cups were shattered,<br />
 			Men stood in blood<sep />from the breasts of the Goths.
 		</translation>
 		<comment>
-			Editors have made various efforts to reconstruct a four line stanza out of these two lines, in some cases with the help of lines borrowed from the puzzling stanza <sr>11</sr> (cf. note on stanza <sr>23</sr>).
+			Editors have made various efforts to reconstruct a four line stanza out of these two lines, in some cases with the help of lines borrowed from the puzzling stanza <stanzaref chapter="Hamthesmol">11</stanzaref> (cf. note on stanza <stanzaref chapter="Hamthesmol">23</stanzaref>).
 			Line 2 in the original is doubtful.
 		</comment>
 	</block>
 	<block class="stanza" number="25">
 		<original>
-			[Hitt kvaþ þa` Hamþe`r<sep />enn hugumsto`ri:]<br />
-			``A_Estir, Jo~rmunrekkr!<sep />okkarrar kvo~`mu,<br />
-			bro/`þra sammo/`þra,<sep />innan borgar þinnar:<br />
-			<conj>ho~ggnum</conj> se`r ho~ndum,<sep /><conj>ho~ggnum</conj> se`r fo`tum,<br />
-			Jo~rmunrekkr! orpit<sep />i` eld <conj>enn heita.</conj>''
+			[Hitt kvaþ þā Hamþēr<sep />enn hugumstōri:]<br />
+			“Æstir, Jǫrmunrekkr!<sep />okkarrar kvǭmu,<br />
+			brø̄þra sammø̄þra,<sep />innan borgar þinnar:<br />
+			<conj>hǫggnum</conj> sēr hǫndum,<sep /><conj>hǫggnum</conj> sēr fōtum,<br />
+			Jǫrmunrekkr! orpit<sep />ī eld <conj>enn heita.</conj>”
 		</original>
 		<translation>
 			Then did Hamther speak forth,<sep />the haughty of heart:<br />
-			``Thou soughtest, Jormunrek,<sep />us to see,<br />
+			“Thou soughtest, Jormunrek,<sep />us to see,<br />
 			Sons of one mother<sep />seeking thy dwelling;<br />
 			Thou seest thy hands,<sep />thy feet thou beholdest,<br />
-			Jormunrek, flung<sep />in the fire so hot.''
+			Jormunrek, flung<sep />in the fire so hot.”
 		</translation>
 		<comment>
 			Some editors mark line 1 as an interpolation.
@@ -485,52 +485,52 @@
 	</block>
 	<block class="stanza" number="26">
 		<original>
-			Þa` hraut viþ <conj>ra_esir</conj><sep />enn reginkunngi,<br />
-			<conj>ballr</conj> i` brynju,<sep />sem bjo~rn hryti:<br />
-			``Gry`tiþ a` gumna,<sep />alls geirar ne` bi`ta,<br />
-			eggjar ne` <conj>i`sarn</conj><sep />Jo~nakrs sunu.''
+			Þā hraut viþ <conj>ræsir</conj><sep />enn reginkunngi,<br />
+			<conj>ballr</conj> ī brynju,<sep />sem bjǫrn hryti:<br />
+			“Grȳtiþ ā gumna,<sep />alls geirar nē bīta,<br />
+			eggjar nē <conj>īsarn</conj><sep />Jǫnakrs sunu.”
 		</original>
 		<translation>
 			Then roared the king,<sep />of the race of the gods,<br />
 			Bold in his armor,<sep />as roars a bear:<br />
-			``Stone ye the men<sep />that steel will bite not,<br />
-			Sword nor spear,<sep />the sons of Jonak.''
+			“Stone ye the men<sep />that steel will bite not,<br />
+			Sword nor spear,<sep />the sons of Jonak.”
 		</translation>
 		<comment>
 			The manuscript marks line 3, and not line 1, as beginning a stanza.
-			<expl>Of the race of the gods</expl>: the reference here is apparently to Jormunrek, but in the <src>Volsungasaga</src> the advice to kill Hamther and Sorli with stones, since iron will not wound them (cf. note on stanza <sr>11</sr>), comes from Othin, who enters the hall as an old man with one eye.
+			<expl>Of the race of the gods</expl>: the reference here is apparently to Jormunrek, but in the <source>Volsungasaga</source> the advice to kill Hamther and Sorli with stones, since iron will not wound them (cf. note on stanza <stanzaref chapter="Hamthesmol">11</stanzaref>), comes from Othin, who enters the hall as an old man with one eye.
 		</comment>
 	</block>
 	<block class="stanza" number="27">
 		<original_prelude>
-			So~rli kvaþ:
+			Sǫrli kvaþ:
 		</original_prelude>
 		<original>
-			``Bo~l vanntu, bro`þir!<sep />es þann belg leystir:<br />
-			opt o`r belg <conj>orþgum</conj><sep />bo~ll ro~`þ koma;<br />
-			hug <conj>hefr</conj> þu`, Hamþe`r!<sep />ef hefþir hyggjandi!<br />
-			mikils es a` mann hvern vant,<sep />es mannvits es.''
+			“Bǫl vanntu, brōþir!<sep />es þann belg leystir:<br />
+			opt ōr belg <conj>orþgum</conj><sep />bǫll rǭþ koma;<br />
+			hug <conj>hefr</conj> þū, Hamþēr!<sep />ef hefþir hyggjandi!<br />
+			mikils es ā mann hvern vant,<sep />es mannvits es.”
 		</original>
 		<translation_prelude>
 			Sorli spake:
 		</translation_prelude>
 		<translation>
-			``Ill didst win, brother,<sep />when the bag thou didst open,<br />
+			“Ill didst win, brother,<sep />when the bag thou didst open,<br />
 			Oft from that bag<sep />came baleful counsel;<br />
 			Heart hast thou, Hamther,<sep />if knowledge thou hadst!<br />
-			A man without wisdom<sep />is lacking in much.''
+			A man without wisdom<sep />is lacking in much.”
 		</translation>
 		<comment>
-			In the manuscript this stanza is introduced by the same line as stanza <sr>25</sr>:
+			In the manuscript this stanza is introduced by the same line as stanza <stanzaref chapter="Hamthesmol">25</stanzaref>:
 			<textstanza class="translation">
 				Then did Hamther speak forth,<sep />the haughty of heart,
 			</textstanza>
 			<textstanza class="original">
-				(Hitt kvaþ þa` Hamþe`r<sep />enn hugumsto`ri,)
+				(Hitt kvaþ þā Hamþēr<sep />enn hugumstōri,)
 			</textstanza>
 			but the speaker in this case must be Sorli and not Hamther.
-			Some editors, however, give lines 1--2 to Hamther and lines 3--4 to Sorli.
-			<expl>Bag</expl>: i.e., Hamther's mouth; cf. note on stanza <sr>11</sr>.
+			Some editors, however, give lines 1–2 to Hamther and lines 3–4 to Sorli.
+			<expl>Bag</expl>: i.e., Hamther's mouth; cf. note on stanza <stanzaref chapter="Hamthesmol">11</stanzaref>.
 			The manuscript indicates line 3 as beginning a new stanza.
 		</comment>
 	</block>
@@ -539,35 +539,35 @@
 			Hamþir kvaþ:
 		</original_prelude>
 		<original>
-			``Af va_e`ri nu` haufuþ,<sep />ef Erpr lifþi,<br />
-			bro`þir enn bo~þfro/`kni,<sep />es a` braut vo~`gum,<br />
-			<conj>verr</conj> enn vi`þ<conj>fra_e`gi</conj><sep />---<conj>o~ttumk</conj> at di`sir---,<br />
-			gumi enn gunnhelgi<sep />---go/rþumk at vi`gi.
+			“Af vǣri nū haufuþ,<sep />ef Erpr lifþi,<br />
+			brōþir enn bǫþfrø̄kni,<sep />es ā braut vǭgum,<br />
+			<conj>verr</conj> enn vīþ<conj>frǣgi</conj><sep />—<conj>ǫttumk</conj> at dīsir—,<br />
+			gumi enn gunnhelgi<sep />—gørþumk at vīgi.
 		</original>
 		<translation_prelude>
 			Hamther spake:
 		</translation_prelude>
 		<translation>
-			``His head were now off<sep />if Erp were living,<br />
+			“His head were now off<sep />if Erp were living,<br />
 			The brother so keen<sep />whom we killed on our road,<br />
-			The warrior noble,---<sep />'twas the Norns that drove me<br />
+			The warrior noble,—<sep />'twas the Norns that drove me<br />
 			The hero to slay<sep />who in fight should be holy.
 		</translation>
 		<comment>
-			Most editors regard stanzas <sr>28</sr>--<sr>30</sr> as a speech by Hamther, but the manuscript does not indicate the speaker, and some editors assign one or two of the stanzas to Sorli.
-			Lines 1--2 are quoted in the <src>Volsungasaga</src>.
+			Most editors regard stanzas <stanzaref chapter="Hamthesmol">28</stanzaref>–<stanzaref chapter="Hamthesmol">30</stanzaref> as a speech by Hamther, but the manuscript does not indicate the speaker, and some editors assign one or two of the stanzas to Sorli.
+			Lines 1–2 are quoted in the <source>Volsungasaga</source>.
 			The manuscript does not indicate line 1 as beginning a stanza.
 			<expl>Erp</expl>: Hamther means that while the two brothers had succeeded only in wounding Jormunrek, Erp, if he had been with them, would have killed him.
-			Lines 3--4 may be a later interpolation.
+			Lines 3–4 may be a later interpolation.
 			<expl>Norns</expl>: the fates; the word used in the original means the goddesses of ill fortune.
 		</comment>
 	</block>
 	<block class="stanza" number="29">
 		<original>
-			[Ulfa do/`mi<sep /><conj>hykkak okkr</conj> vesa,<br />
+			[Ulfa dø̄mi<sep /><conj>hykkak okkr</conj> vesa,<br />
 			at mynim sjalfir <conj>of</conj> sakask,<br />
-			sem grey norna<sep />þaus gro~`þug eru<br />
-			i` auþn <conj>of</conj> alin.]
+			sem grey norna<sep />þaus grǭþug eru<br />
+			ī auþn <conj>of</conj> alin.]
 		</original>
 		<translation>
 			In fashion of wolves<sep />it befits us not<br />
@@ -582,16 +582,16 @@
 	</block>
 	<block class="stanza" number="30">
 		<original>
-			Vel ho~fum vegit,<sep />sto~ndum a` val Gotna<br />
-			ofan eggmo`þum,<sep />sem ernir a` kvisti;<br />
-			go`þs <conj>fengum</conj> ti`rar,<sep />þo`t nu` eþa i` ga_e`r <conj>deyim:</conj><br />
-			kveld lifir maþr etki<sep />ept kviþ norna.''
+			Vel hǫfum vegit,<sep />stǫndum ā val Gotna<br />
+			ofan eggmōþum,<sep />sem ernir ā kvisti;<br />
+			gōþs <conj>fengum</conj> tīrar,<sep />þōt nū eþa ī gǣr <conj>deyim:</conj><br />
+			kveld lifir maþr etki<sep />ept kviþ norna.”
 		</original>
 		<translation>
-			``We have greatly fought,<sep />o'er the Goths do we stand<br />
+			“We have greatly fought,<sep />o'er the Goths do we stand<br />
 			By our blades laid low,<sep />like eagles on branches;<br />
 			Great our fame though we die<sep />today or tomorrow;<br />
-			None outlives the night<sep />when the Norns have spoken.''
+			None outlives the night<sep />when the Norns have spoken.”
 		</translation>
 		<comment>
 			Some editors assume a gap after this stanza.
@@ -599,27 +599,27 @@
 	</block>
 	<block class="stanza" number="31">
 		<original>
-			Þar fell So~rli<sep />at salar gafli,<br />
-			en Hamþe`r hne`<sep />at hu`sbaki.
+			Þar fell Sǫrli<sep />at salar gafli,<br />
+			en Hamþēr hnē<sep />at hūsbaki.
 		</original>
 		<translation>
 			Then Sorli beside<sep />the gable sank,<br />
 			And Hamther fell<sep />at the back of the house.
 		</translation>
 		<comment>
-			Apparently a fragment of a stanza from the ``old'' <chapterref>Hamthesmol</chapterref> to which the annotator's concluding prose note refers.
+			Apparently a fragment of a stanza from the “old” <chapterref>Hamthesmol</chapterref> to which the annotator's concluding prose note refers.
 			Some editors assume the loss of two lines after line 2.
 		</comment>
 	</block>
 	<block class="prose" label="conclusion">
 		<original>
-			Þetta eru ko~lluþ Hamþisma`l en fornu.
+			Þetta eru kǫlluþ Hamþismāl en fornu.
 		</original>
 		<translation>
 			This is called the old ballad of Hamther.
 		</translation>
 		<comment>
-			Regarding the ``old'' <chapterref>Hamthesmol</chapterref>, cf. <chapterref>Guthrunarhvot</chapterref>, introductory note.
+			Regarding the “old” <chapterref>Hamthesmol</chapterref>, cf. <chapterref>Guthrunarhvot</chapterref>, introductory note.
 		</comment>
 	</block>
 </chapter>
