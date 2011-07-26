@@ -1,7 +1,7 @@
 <chapter label="Guthrunarhvot">
 	<block class="eddachapter">
 		<original>
-			Guþru`narhvot
+			Guþrūnarhvot
 		</original>
 		<transliteration>
 			Guthrunarhvot
@@ -14,45 +14,45 @@
 		Introductory Note
 	</block>
 	<block class="text">
-		The two concluding poems in the <src>Codex Regius</src>, the <chapterref chapter="Guthrunarhvot">Guthrunarhvot (Guthrun's Inciting)</chapterref> and the <chapterref chapter="Hamthesmol">Hamthesmol (The Ballad of Hamther)</chapterref>, belong to a narrative cycle connected with those of Sigurth, the Burgundians, and Atli (cf. <cr>Gripisspo</cr>, introductory note) by only the slenderest of threads.
-		Of the three early historical kings who gradually assumed a dominant place in Germanic legend, Ermanarich, king of the East Goths in the middle of the fourth century, was actually the least important, even though Jordanes, the sixth century author of <src>De Rebus Getecis</src>, compared him to Alexander the Great.
+		The two concluding poems in the <source>Codex Regius</source>, the <chapterref chapter="Guthrunarhvot">Guthrunarhvot (Guthrun's Inciting)</chapterref> and the <chapterref chapter="Hamthesmol">Hamthesmol (The Ballad of Hamther)</chapterref>, belong to a narrative cycle connected with those of Sigurth, the Burgundians, and Atli (cf. <chapterref>Gripisspo</chapterref>, introductory note) by only the slenderest of threads.
+		Of the three early historical kings who gradually assumed a dominant place in Germanic legend, Ermanarich, king of the East Goths in the middle of the fourth century, was actually the least important, even though Jordanes, the sixth century author of <source>De Rebus Getecis</source>, compared him to Alexander the Great.
 		Memories of his cruelty and of his tragic death, however, persisted along with the real glories of Theoderich, a century and a half later, and of the conquests of Attila, whose lifetime approximately bridged the gap between Ermanarich's death and Theoderich's birth.
 	</block>
 	<block class="text">
 		Chief among the popular tales of Ermanarich's cruelty was one concerning the death of a certain Sunilda or Sanielh, whom, according to Jordanes, he caused to be torn asunder by wild horses because of her husband's treachery.
 		Her brothers, Sarus and Ammius, seeking to avenge her, wounded but failed to kill Ermanarich.
-		In this story is the root of the two Norse poems included in the <src>Codex Regius</src>.
+		In this story is the root of the two Norse poems included in the <source>Codex Regius</source>.
 		Sunilda easily became the wife as well as the victim of the tyrant, and, by the process of legend-blending so frequently observed, the story was connected with the more famous one of the Nibelungs by making her the daughter of Sigurth and Guthrun.
 		To account for her brothers, a third husband had to be found for Guthrun; the Sarus and Ammius of Jordanes are obviously the Sorli and Hamther, sons of Guthrun and Jonak, of the Norse poems.
 		The blending of the Sigurth and Ermanarich legends probably, though not certainly, took place before the story reached the North, in other words before the end of the eighth century.
 	</block>
 	<block class="text">
-		Regarding the exact status of the <cr>Guthrunarhvot</cr> and the <cr>Hamthesmol</cr> there has been a great deal of discussion.
+		Regarding the exact status of the <chapterref>Guthrunarhvot</chapterref> and the <chapterref>Hamthesmol</chapterref> there has been a great deal of discussion.
 		That they are closely related is obvious; indeed the first parts of the two poems are nearly identical in content and occasionally so in actual diction.
-		The annotator, in his concluding prose note, refers to the second poem as the ``old'' ballad of Hamther, wherefore it has been assumed by some critics that the composer of the <cr>Guthrunarhvot</cr> used the <cr>Hamthesmol</cr>, approximately as it now stands, as the source of part of his material.
-		The extant <cr>Hamthesmol</cr>, however, is almost certainly a patchwork; part of it is in Fornyrthislag (cf. <ref chapter="General Introduction">Introduction</ref>), including most of the stanzas paralleled in the <cr>Guthrunarhvot</cr>, and likewise the stanza followed directly by the reference to the ``old'' ballad, while the rest is in Malahattr.
-		The most reasonable theory, therefore, is that there existed an old ballad of Hamther, all in Fornyrthislag, from which the composer of the <cr>Guthrunarhvot</cr> borrowed a few stanzas as the introduction for his poem, and which the composer of the extant, or ``new,'' <cr>Hamthesmol</cr> likewise used, though far more clumsily.
+		The annotator, in his concluding prose note, refers to the second poem as the “old” ballad of Hamther, wherefore it has been assumed by some critics that the composer of the <chapterref>Guthrunarhvot</chapterref> used the <chapterref>Hamthesmol</chapterref>, approximately as it now stands, as the source of part of his material.
+		The extant <chapterref>Hamthesmol</chapterref>, however, is almost certainly a patchwork; part of it is in Fornyrthislag (cf. <ref chapter="General Introduction">Introduction</ref>), including most of the stanzas paralleled in the <chapterref>Guthrunarhvot</chapterref>, and likewise the stanza followed directly by the reference to the “old” ballad, while the rest is in Malahattr.
+		The most reasonable theory, therefore, is that there existed an old ballad of Hamther, all in Fornyrthislag, from which the composer of the <chapterref>Guthrunarhvot</chapterref> borrowed a few stanzas as the introduction for his poem, and which the composer of the extant, or “new,” <chapterref>Hamthesmol</chapterref> likewise used, though far more clumsily.
 	</block>
 	<block class="text">
-		The title ``Guthrunarhvot,'' which appears in the <src>Codex Regius</src>, really applies only to stanzas <sr>1</sr>--<sr>8</sr>, all presumably borrowed from the ``old'' ballad of Hamther.
-		The rest of the poem is simply another Guthrun lament, following the tradition exemplified by the <ref chapter="Guthrunarkvitha I">first</ref> and <ref chapter="Guthrunarkvitha II">second Guthrun lays</ref>; it is possible, indeed, that it is made up of fragments of two separate laments, one (stanzas <sr>9</sr>--<sr>18</sr>) involving the story of Svanhild's death, and the other (stanzas <sr>19</sr>--<sr>21</sr>) coming from an otherwise lost version of the story in which Guthrun closely follows Sigurth and Brynhild in death.
+		The title “Guthrunarhvot,” which appears in the <source>Codex Regius</source>, really applies only to stanzas <stanzaref chapter="Guthrunarhvot">1</stanzaref>–<stanzaref chapter="Guthrunarhvot">8</stanzaref>, all presumably borrowed from the “old” ballad of Hamther.
+		The rest of the poem is simply another Guthrun lament, following the tradition exemplified by the <ref chapter="Guthrunarkvitha I">first</ref> and <ref chapter="Guthrunarkvitha II">second Guthrun lays</ref>; it is possible, indeed, that it is made up of fragments of two separate laments, one (stanzas <stanzaref chapter="Guthrunarhvot">9</stanzaref>–<stanzaref chapter="Guthrunarhvot">18</stanzaref>) involving the story of Svanhild's death, and the other (stanzas <stanzaref chapter="Guthrunarhvot">19</stanzaref>–<stanzaref chapter="Guthrunarhvot">21</stanzaref>) coming from an otherwise lost version of the story in which Guthrun closely follows Sigurth and Brynhild in death.
 		In any event the present title is really a misnomer; the poet, who presumably was an eleventh century Icelander, used the episode of Guthrun's inciting her sons to vengeance for the slaying of Svanhild simply as an introduction to his main subject, the last lament of the unhappy queen.
 	</block>
 	<block class="text">
-		The text of the poem in <src>Regius</src> is by no means in good shape, and editorial emendations have been many and varied, particularly in interchanging lines between the <cr>Guthrunarhvot</cr> and the <cr>Hamthesmol</cr>.
-		The <src>Volsungasaga</src> paraphrases the poem with such fidelity as to prove that it lay before the compilers of the saga approximately in its present form.
+		The text of the poem in <source>Regius</source> is by no means in good shape, and editorial emendations have been many and varied, particularly in interchanging lines between the <chapterref>Guthrunarhvot</chapterref> and the <chapterref>Hamthesmol</chapterref>.
+		The <source>Volsungasaga</source> paraphrases the poem with such fidelity as to prove that it lay before the compilers of the saga approximately in its present form.
 	</block>
 	<block class="sepline" />
 	<block class="prose" label="p1">
 		<original>
-			Guþru`n gekk þa` til sa_evar, er hon hafþi drepit Atla.<br />
-			Gekk <conj>hon</conj> u`t a` sa_einn ok vildi fara se`r; hon ma`tti eigi so/kkva.<br />
-			Rak hana yfir fjo~rþinn a` land Jo`nakrs konungs; hann fekk hennar; þeira synir va`ru þeir So~rli ok Erpr ok Hamþir.<br />
-			Þar fo_eddiz upp Svanhildr Sigurþardo`ttir; hon var gipt Jo~rmunrekk enum ri`kja.<br />
-			Meþ honum var Bikki, hann re`þ þat at Randve`r konungs son skyldi taka hana.<br />
+			Guþrūn gekk þā til sævar, er hon hafþi drepit Atla.<br />
+			Gekk <conj>hon</conj> ūt ā sæinn ok vildi fara sēr; hon mātti eigi søkkva.<br />
+			Rak hana yfir fjǫrþinn ā land Jōnakrs konungs; hann fekk hennar; þeira synir vāru þeir Sǫrli ok Erpr ok Hamþir.<br />
+			Þar fœddiz upp Svanhildr Sigurþardōttir; hon var gipt Jǫrmunrekk enum rīkja.<br />
+			Meþ honum var Bikki, hann rēþ þat at Randvēr konungs son skyldi taka hana.<br />
 			Þat sagþi Bikki konungi.<br />
-			Konungr le`t hengja Randve`, en troþa Svanhildi undir hrossa fo`tum.<br />
-			En er þat spurþi Guþru`n, þa` kvaddi <conj>hon</conj> sonu si`na.
+			Konungr lēt hengja Randvē, en troþa Svanhildi undir hrossa fōtum.<br />
+			En er þat spurþi Guþrūn, þā kvaddi <conj>hon</conj> sonu sīna.
 		</original>
 		<translation>
 			Guthrun went forth to the sea after she had slain Atli.<br />
@@ -65,30 +65,30 @@
 			And when Guthrun learned this, she spake with her sons.
 		</translation>
 		<comment>
-			In the manuscript the prose is headed ``Of Guthrun,'' the title ``Guthrunarhvot'' preceding stanza <sr>1</sr>.
-			The prose introduction is used both by Snorri (<src>Skaldskaparmal</src>, chapter 42) and in the <src>Volsungasaga</src>.
+			In the manuscript the prose is headed “Of Guthrun,” the title “Guthrunarhvot” preceding stanza <stanzaref chapter="Guthrunarhvot">1</stanzaref>.
+			The prose introduction is used both by Snorri (<source>Skaldskaparmal</source>, chapter 42) and in the <source>Volsungasaga</source>.
 			It would be interesting to know on what the annotator based this note, for neither Bikki nor Randver is mentioned by name in either the <chapterref>Guthrunarhvot</chapterref> or the <chapterref>Hamthesmol</chapterref>.
 			On the prose notes in general, cf. <chapterref>Reginsmol</chapterref>, introductory note.
-			<expl>Guthrun</expl>: on the slaying of Atli by his wife, Guthrun, Sigurth's widow, cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">83</stanzaref>--<stanzaref chapter="Atlamol">86</stanzaref> and notes.
+			<expl>Guthrun</expl>: on the slaying of Atli by his wife, Guthrun, Sigurth's widow, cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">83</stanzaref>–<stanzaref chapter="Atlamol">86</stanzaref> and notes.
 			<expl>Jonak</expl>: a Northern addition to the legend, introduced to account for Svanhild's half-brothers; the name is apparently of Slavic origin.
 			<expl>Sorli</expl>, <expl>Erp</expl>, and <expl>Hamther</expl>: Sorli and Hamther are the Sarus and Ammius of the Jordanes story (cf. <ref chapter="Guthrunarhvot">introductory note</ref>).
-			The <src>Volsungasaga</src> follows this note in making Erp likewise a son of Guthrun, but in the <chapterref>Hamthesmol</chapterref> he is a son of Jonak by another wife.
+			The <source>Volsungasaga</source> follows this note in making Erp likewise a son of Guthrun, but in the <chapterref>Hamthesmol</chapterref> he is a son of Jonak by another wife.
 			<expl>Svanhild</expl>: cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">54</stanzaref> and note.
 			<expl>Jormunrek</expl> (Ermanarich): cf. <ref chapter="Guthrunarhvot">introductory note</ref>.
 			<expl>Bikki</expl>: the Sifka or Sibicho of the Gothic legends of Ermanarich, whose evil counsel always brings trouble.
-			<expl>Randver</expl>: in the <src>Volsungasaga</src> Jormunrek sends his son Randver with Bikki to seek Svanhild's hand.
-			On the voyage home Bikki says to Randver: ``It were right for you to have so fair a wife, and not such an old man.''
-			Randver was much pleased with this advice, ``and he spake to her with gladness, and she to him.''
+			<expl>Randver</expl>: in the <source>Volsungasaga</source> Jormunrek sends his son Randver with Bikki to seek Svanhild's hand.
+			On the voyage home Bikki says to Randver: “It were right for you to have so fair a wife, and not such an old man.”
+			Randver was much pleased with this advice, “and he spake to her with gladness, and she to him.”
 			Thus the story becomes near of kin to those of Tristan and Iseult and Paolo and Francesca.
-			According to the <src>Volsungasaga</src>, Bikki told Ermanarich that a guilty love existed between his son and his young wife, and presumably the annotator here meant as much by his vague ``this.''
+			According to the <source>Volsungasaga</source>, Bikki told Ermanarich that a guilty love existed between his son and his young wife, and presumably the annotator here meant as much by his vague “this.”
 		</comment>
 	</block>
 	<block class="stanza" number="1">
 		<original>
-			Þa` fra`k sennu<sep />sli`þrfengligsta,<br />
-			trauþmo~`l taliþ<sep />af trega sto`rum,<br />
-			es harþhuguþ<sep />hvatti at vi`gi<br />
-			grimmum orþum<sep />Guþru`n sunu:
+			Þā frāk sennu<sep />slīþrfengligsta,<br />
+			trauþmǭl taliþ<sep />af trega stōrum,<br />
+			es harþhuguþ<sep />hvatti at vīgi<br />
+			grimmum orþum<sep />Guþrūn sunu:
 		</original>
 		<translation>
 			A word-strife I learned,<sep />most woeful of all,<br />
@@ -102,15 +102,15 @@
 	</block>
 	<block class="stanza" number="2">
 		<original>
-			``Hvi` sitiþ <conj>kyrrir,</conj><sep />hvi` sofiþ li`fi,<br />
-			hvi` tregrat ykkr<sep />teiti at ma_e`la?<br />
-			es Jo~rmunrekkr<sep />yþra systur<br />
+			“Hvī sitiþ <conj>kyrrir,</conj><sep />hvī sofiþ līfi,<br />
+			hvī tregrat ykkr<sep />teiti at mǣla?<br />
+			es Jǫrmunrekkr<sep />yþra systur<br />
 			unga at aldri<sep />joum of traddi<br />
-			[hvi`tum ok svo~rtum<sep />a` hervegi,<br />
-			gro~um, gangto~mum<sep />Gotna hrossum.]
+			[hvītum ok svǫrtum<sep />ā hervegi,<br />
+			grǫum, gangtǫmum<sep />Gotna hrossum.]
 		</original>
 		<translation>
-			``Why sit ye idle,<sep />why sleep out your lives,<br />
+			“Why sit ye idle,<sep />why sleep out your lives,<br />
 			Why grieve ye not<sep />in gladness to speak?<br />
 			Since Jormunrek<sep />your sister young<br />
 			Beneath the hoofs<sep />of horses hath trodden,<br />
@@ -119,23 +119,23 @@
 		</translation>
 		<comment>
 			<expl>Idle</expl>: a guess; a word is obviously missing in the original.
-			The manuscript marks line 5 as beginning a new stanza, and lines 5--6 may well have been inserted from another part of the ``old'' <chapterref>Hamthesmol</chapterref> (cf. <chapterref>Hamthesmol</chapterref>, <stanzaref chapter="Hamthesmol">3</stanzaref>).
+			The manuscript marks line 5 as beginning a new stanza, and lines 5–6 may well have been inserted from another part of the “old” <chapterref>Hamthesmol</chapterref> (cf. <chapterref>Hamthesmol</chapterref>, <stanzaref chapter="Hamthesmol">3</stanzaref>).
 		</comment>
 	</block>
 	<block class="stanza" number="3">
 		<original>
-			Urþuat gli`kir<sep />þeim Gunnari<br />
-			ne in heldr hugþir<sep />sem vas Ho~gni:<br />
+			Urþuat glīkir<sep />þeim Gunnari<br />
+			ne in heldr hugþir<sep />sem vas Hǫgni:<br />
 			hennar munduþ<sep />hefna leita,<br />
-			ef mo`þ a_e`ttiþ<sep />minna bro/`þra<br />
-			[eþa harþan hug<sep />Hu`nkonunga].''
+			ef mōþ ǣttiþ<sep />minna brø̄þra<br />
+			[eþa harþan hug<sep />Hūnkonunga].”
 		</original>
 		<translation>
 			Not like are ye<sep />to Gunnar of yore,<br />
 			Nor have ye hearts<sep />such as Hogni's was;<br />
 			Vengeance for her<sep />ye soon would have<br />
 			If brave ye were<sep />as my brothers of old,<br />
-			Or hard your hearts<sep />as the Hunnish kings'.''
+			Or hard your hearts<sep />as the Hunnish kings'.”
 		</translation>
 		<comment>
 			<expl>Gunnar</expl> and <expl>Hogni</expl>: cf. <chapterref>Drap Niflunga</chapterref>.
@@ -145,30 +145,30 @@
 	</block>
 	<block class="stanza" number="4">
 		<original>
-			Þa` kvaþ þat Hamþe`r<sep />enn hugumsto`ri:<br />
-			``Litt mundir þu`<sep />leyfa do~`þ Ho~gna,<br />
-			þa`s Sigurþ vo~kþu<sep />svefni o`r:<br />
-			bo/`kr vo~ru þi`nar<sep />enar bla`hvi`tu<br />
-			roþnar i` vers dreyra,<sep />folgnar i` valblo`þi.
+			Þā kvaþ þat Hamþēr<sep />enn hugumstōri:<br />
+			“Litt mundir þū<sep />leyfa dǭþ Hǫgna,<br />
+			þās Sigurþ vǫkþu<sep />svefni ōr:<br />
+			bø̄kr vǫru þīnar<sep />enar blāhvītu<br />
+			roþnar ī vers dreyra,<sep />folgnar ī valblōþi.
 		</original>
 		<translation>
 			Then Hamther spake,<sep />the high of heart:<br />
-			``Little the deed<sep />of Hogni didst love,<br />
+			“Little the deed<sep />of Hogni didst love,<br />
 			When Sigurth they wakened<sep />from his sleep;<br />
 			Thy bed-covers white<sep />were red with blood<br />
 			Of thy husband, drenched<sep />with gore from his heart.
 		</translation>
 		<comment>
-			<expl>Hamther</expl>: some editions spell the name ``Hamthir.''
-			<expl>Sigurth</expl>, etc.: cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">21</stanzaref>--<stanzaref chapter="Sigurtharkvitha en skamma">24</stanzaref>, and <chapterref>Brot</chapterref>, <proseref chapter="Brot" prose="conclusion">concluding prose</proseref>.
+			<expl>Hamther</expl>: some editions spell the name “Hamthir.”
+			<expl>Sigurth</expl>, etc.: cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">21</stanzaref>–<stanzaref chapter="Sigurtharkvitha en skamma">24</stanzaref>, and <chapterref>Brot</chapterref>, <proseref chapter="Brot" prose="conclusion">concluding prose</proseref>.
 			This stanza has been subjected to many conjectural rearrangements, some editors adding two or three lines from the <chapterref>Hamthesmol</chapterref>.
 		</comment>
 	</block>
 	<block class="stanza" number="5">
 		<original>
-			Urþu þe`r <conj>bra`þla</conj><sep />bro/`þra hefndir<br />
-			sli`þrar ok sa`rar,<sep />es sunu myrþir;<br />
-			kna_e`ttim <conj>allir</conj><sep />Jo~rmunrekki<br />
+			Urþu þēr <conj>brāþla</conj><sep />brø̄þra hefndir<br />
+			slīþrar ok sārar,<sep />es sunu myrþir;<br />
+			knǣttim <conj>allir</conj><sep />Jǫrmunrekki<br />
 			samhyggjendr<sep />systur hefna.
 		</original>
 		<translation>
@@ -179,19 +179,19 @@
 		</translation>
 		<comment>
 			<expl>Bloody</expl>: a guess; a word in the original is clearly missing, and the same is true of <expl>all</expl> in line 3.
-			<expl>Thy sons</expl>: i.e., by killing her sons Erp and Eitil (cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">72</stanzaref>--<stanzaref chapter="Atlamol">74</stanzaref>) Guthrun deprived Hamther, Sorli, and the second Erp of valuable allies in avenging Svanhild's death.
+			<expl>Thy sons</expl>: i.e., by killing her sons Erp and Eitil (cf. <chapterref>Atlamol</chapterref>, <stanzaref chapter="Atlamol">72</stanzaref>–<stanzaref chapter="Atlamol">74</stanzaref>) Guthrun deprived Hamther, Sorli, and the second Erp of valuable allies in avenging Svanhild's death.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
 		<original>
 			<lacuna /><sep /><lacuna /><br />
-			beriþ hnossir fram<sep />Hu`nkonunga!<br />
-			hefr okkr hvatta<sep />at hjo~rþingi.''
+			beriþ hnossir fram<sep />Hūnkonunga!<br />
+			hefr okkr hvatta<sep />at hjǫrþingi.”
 		</original>
 		<translation>
 			<lacuna /><sep /><lacuna /><br />
 			The gear of the Hunnish<sep />kings now give us!<br />
-			Thou hast whetted us so<sep />to the battle of swords.''
+			Thou hast whetted us so<sep />to the battle of swords.”
 		</translation>
 		<comment>
 			The manuscript indicates no gap, but most editors assume the loss of one, two or even more lines before the two here given.
@@ -199,10 +199,10 @@
 	</block>
 	<block class="stanza" number="7">
 		<original>
-			Hla_e`jandi Guþru`n<sep />hvarf til skemmu,<br />
-			kumbl konunga<sep />o`r kerum valþi,<br />
-			si`þar brynjur,<sep />ok sunum fo/`rþi:<br />
-			hlo`þusk mo`þgir<sep />a` mara bo`gu.
+			Hlǣjandi Guþrūn<sep />hvarf til skemmu,<br />
+			kumbl konunga<sep />ōr kerum valþi,<br />
+			sīþar brynjur,<sep />ok sunum fø̄rþi:<br />
+			hlōþusk mōþgir<sep />ā mara bōgu.
 		</original>
 		<translation>
 			Laughing did Guthrun<sep />go to her chamber,<br />
@@ -216,31 +216,31 @@
 	</block>
 	<block class="stanza" number="8">
 		<original>
-			[Þa` kvaþ þat Hamþe`r<sep />enn hugumsto`ri:]<br />
-			``Sva` <conj>ko/msk</conj> meirr aptr<sep />mo`þur at vitja<br />
-			geirnjo~rþr hniginn<sep />a` Gotþjo`þu,<br />
-			at þu` erfi<sep />at o~ll oss <conj>drekkir,</conj><br />
-			at Svanhildi<sep />ok sunu þi`na.''
+			[Þā kvaþ þat Hamþēr<sep />enn hugumstōri:]<br />
+			“Svā <conj>kømsk</conj> meirr aptr<sep />mōþur at vitja<br />
+			geirnjǫrþr hniginn<sep />ā Gotþjōþu,<br />
+			at þū erfi<sep />at ǫll oss <conj>drekkir,</conj><br />
+			at Svanhildi<sep />ok sunu þīna.”
 		</original>
 		<translation>
 			Then Hamther spake,<sep />the high of heart:<br />
-			``Homeward no more<sep />his mother to see<br />
+			“Homeward no more<sep />his mother to see<br />
 			Comes the spear-god,<sep />fallen mid Gothic folk;<br />
 			One death-draught thou<sep />for us all shalt drink,<br />
-			For Svanhild then<sep />and thy sons as well.''
+			For Svanhild then<sep />and thy sons as well.”
 		</translation>
 		<comment>
 			Line 1, identical with line 1 of stanza 4, may be interpolated here.
 			<expl>Spear-god</expl>: warrior, i.e., Hamther himself.
-			With this stanza the introductory <emph>hvot</emph> (``inciting'') ends, and stanza <sr>9</sr> introduces the lament which forms the real body of the poem.
+			With this stanza the introductory <emph>hvot</emph> (“inciting”) ends, and stanza <stanzaref chapter="Guthrunarhvot">9</stanzaref> introduces the lament which forms the real body of the poem.
 		</comment>
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			Gra`tandi Guþru`n<sep />Gju`ka do`ttir<br />
-			gekk tregliga<sep />a` tai:: sitja<br />
-			auk at telja<sep />to~`rughly`ra<br />
-			mo`þug spjo~ll<sep />a` margan veg:
+			Grātandi Guþrūn<sep />Gjūka dōttir<br />
+			gekk tregliga<sep />ā taï sitja<br />
+			auk at telja<sep />tǭrughlȳra<br />
+			mōþug spjǫll<sep />ā margan veg:
 		</original>
 		<translation>
 			Weeping Guthrun,<sep />Gjuki's daughter,<br />
@@ -251,13 +251,13 @@
 	</block>
 	<block class="stanza" number="10">
 		<original>
-			``Þria vissak elda,<sep />þria vissak arna;<br />
-			vask þrimr verum<sep />vegin at hu`si;<br />
-			einn <conj>vo~rumk</conj> Sigurþr<sep />o~llum betri,<br />
-			es bro/`þr mi`nir<sep />at bana urþu.
+			“Þria vissak elda,<sep />þria vissak arna;<br />
+			vask þrimr verum<sep />vegin at hūsi;<br />
+			einn <conj>vǫrumk</conj> Sigurþr<sep />ǫllum betri,<br />
+			es brø̄þr mīnir<sep />at bana urþu.
 		</original>
 		<translation>
-			``Three home-fires knew I,<sep />three hearths I knew,<br />
+			“Three home-fires knew I,<sep />three hearths I knew,<br />
 			Home was I brought<sep />by husbands three;<br />
 			But Sigurth only<sep />of all was dear,<br />
 			He whom my brothers<sep />brought to his death.
@@ -265,9 +265,9 @@
 	</block>
 	<block class="stanza" number="11">
 		<original>
-			Sva`rra sa`ra<sep />sa`kat, ne` kunnu<br />
-			<lacuna /> meirr þo`ttusk<sep />me`r <conj>of</conj> stri`þa,<br />
-			es mik o~þlingar<sep />Atla go~`fu.
+			Svārra sāra<sep />sākat, nē kunnu<br />
+			<lacuna /> meirr þōttusk<sep />mēr <conj>of</conj> strīþa,<br />
+			es mik ǫþlingar<sep />Atla gǭfu.
 		</original>
 		<translation>
 			A greater sorrow<sep />I saw not nor knew,<br />
@@ -282,9 +282,9 @@
 	</block>
 	<block class="stanza" number="12">
 		<original>
-			Hu`na hvassa<sep />he`tk mer at ru`num<br />
-			ma`ttigak bo~lva<sep />bo/`tr <conj>of</conj> vinna,<br />
-			a`þr hno`fk ho~fuþ<sep />at <conj>Hniflungum.</conj>
+			Hūna hvassa<sep />hētk mer at rūnum<br />
+			māttigak bǫlva<sep />bø̄tr <conj>of</conj> vinna,<br />
+			āþr hnōfk hǫfuþ<sep />at <conj>Hniflungum.</conj>
 		</original>
 		<translation>
 			The brave boys I summoned<sep />to secret speech;<br />
@@ -299,10 +299,10 @@
 	</block>
 	<block class="stanza" number="13">
 		<original>
-			Gekk ek til strandar,<sep />gro~m vask nornum,<br />
+			Gekk ek til strandar,<sep />grǫm vask nornum,<br />
 			vildak hrinda<sep /><conj>vreiþi</conj> þeira:<br />
-			ho`fumk, ne` drekþu,<sep />ho`var bo~`rur,<br />
-			þvi` land <conj>of</conj> ste`k,<sep />at lifa skyldak.
+			hōfumk, nē drekþu,<sep />hōvar bǭrur,<br />
+			þvī land <conj>of</conj> stēk,<sep />at lifa skyldak.
 		</original>
 		<translation>
 			To the sea I went,<sep />my heart full sore<br />
@@ -316,13 +316,13 @@
 	</block>
 	<block class="stanza" number="14">
 		<original>
-			Gekk ek a` beþ<sep />---<conj>hugþumk</conj> fyrr betra---<br />
-			þriþja sinni<sep />þjo`þkonungi;<br />
-			o`lk me`r jo`þ,<sep />erfivo~rþu,<br />
-			<conj>erfivo~rþu</conj><sep />Jo`nakrs sunum.
+			Gekk ek ā beþ<sep />—<conj>hugþumk</conj> fyrr betra—<br />
+			þriþja sinni<sep />þjōþkonungi;<br />
+			ōlk mēr jōþ,<sep />erfivǫrþu,<br />
+			<conj>erfivǫrþu</conj><sep />Jōnakrs sunum.
 		</original>
 		<translation>
-			Then to the bed---<sep />of old was it better!---<br />
+			Then to the bed—<sep />of old was it better!—<br />
 			Of a king of the folk<sep />a third time I came;<br />
 			Boys I bore<sep />his heirs to be,<br />
 			Heirs so young,<sep />the sons of Jonak.
@@ -333,10 +333,10 @@
 	</block>
 	<block class="stanza" number="15">
 		<original>
-			En umb Svanhildi<sep />so~`tu þy`jar,<br />
+			En umb Svanhildi<sep />sǭtu þȳjar,<br />
 			<conj>es</conj> barna minna<sep />bazt fullhugþak;<br />
-			sva` vas Svanhildr<sep />i` sal mi`num,<br />
-			sem va_eri so/`mleitr<sep />so`lar geisli.
+			svā vas Svanhildr<sep />ī sal mīnum,<br />
+			sem væri sø̄mleitr<sep />sōlar geisli.
 		</original>
 		<translation>
 			But round Svanhild<sep />handmaidens sat,<br />
@@ -347,11 +347,11 @@
 	</block>
 	<block class="stanza" number="16">
 		<original>
-			Go/`ddak golli<sep />ok goþvefjum,<br />
-			a`þr <conj>hana</conj> ga_e`fak<sep />Gotþjo`þar til;<br />
-			<conj>Sa`'s</conj> me`r <conj>harþastr</conj><sep />harma minna,<br />
-			<conj>es</conj> þann enn hvi`ta<sep />hadd Svanhildar<br />
-			aur i` tro~ddu<sep />und joa fo`tum.
+			Gø̄ddak golli<sep />ok goþvefjum,<br />
+			āþr <conj>hana</conj> gǣfak<sep />Gotþjōþar til;<br />
+			<conj>Sā's</conj> mēr <conj>harþastr</conj><sep />harma minna,<br />
+			<conj>es</conj> þann enn hvīta<sep />hadd Svanhildar<br />
+			aur ī trǫddu<sep />und joa fōtum.
 		</original>
 		<translation>
 			Gold I gave her<sep />and garments bright,<br />
@@ -361,16 +361,16 @@
 			In the mire by hoofs<sep />of horses wild.
 		</translation>
 		<comment>
-			Some editors assume a gap of two lines after line 2, and make a separate stanza of lines 3--5; Gering adds a sixth line of his own coining, while Grundtvig inserts one between lines 3 and 4.
+			Some editors assume a gap of two lines after line 2, and make a separate stanza of lines 3–5; Gering adds a sixth line of his own coining, while Grundtvig inserts one between lines 3 and 4.
 			The manuscript indicates line 5 as beginning a new stanza.
 		</comment>
 	</block>
 	<block class="stanza" number="17">
 		<original>
-			En sa` sa`rastr,<sep />es Sigurþ minn<br />
-			sigri ra_e`ndan<sep />i` sa_eing vo~`gu;<br />
-			en sa` grimmastr,<sep />es Gunnari<br />
-			fra`nir ormar<sep />til fjo~rs skriþu.
+			En sā sārastr,<sep />es Sigurþ minn<br />
+			sigri rǣndan<sep />ī sæing vǭgu;<br />
+			en sā grimmastr,<sep />es Gunnari<br />
+			frānir ormar<sep />til fjǫrs skriþu.
 		</original>
 		<translation>
 			The sorest it was<sep />when Sigurth mine<br />
@@ -379,17 +379,17 @@
 			There crept the bright-hued<sep />crawling snakes.
 		</translation>
 		<comment>
-			The manuscript does not indicate line 1 as beginning a stanza (cf. note on stanza <sr>16</sr>).
-			Stanzas <sr>17</sr> and <sr>18</sr> are very likely later interpolations, although the compilers of the <src>Volsungasaga</src> knew them as they stand here.
-			The whole passage depends on the shades of difference in the meanings of the various superlatives: <emph>harþastr</emph>, ``hardest''; <emph>sārastr</emph>, ``sorest''; <emph>grimmastr</emph>, ``grimmest,'' and <emph>hvassastr</emph>, ``keenest.''
+			The manuscript does not indicate line 1 as beginning a stanza (cf. note on stanza <stanzaref chapter="Guthrunarhvot">16</stanzaref>).
+			Stanzas <stanzaref chapter="Guthrunarhvot">17</stanzaref> and <stanzaref chapter="Guthrunarhvot">18</stanzaref> are very likely later interpolations, although the compilers of the <source>Volsungasaga</source> knew them as they stand here.
+			The whole passage depends on the shades of difference in the meanings of the various superlatives: <emph>harþastr</emph>, “hardest”; <emph>sārastr</emph>, “sorest”; <emph>grimmastr</emph>, “grimmest,” and <emph>hvassastr</emph>, “keenest.”
 			<expl>Snakes</expl>: cf. <chapterref>Drap Niflunga</chapterref>.
 		</comment>
 	</block>
 	<block class="stanza" number="18">
 		<original>
-			En sa` hvassastr,<sep />es hjarta til<br />
-			konung o`blauþan<sep />kvikvan sko~`ru;<br />
-			fjo~lþ mank bo~lva<sep /><lacuna /><br />
+			En sā hvassastr,<sep />es hjarta til<br />
+			konung ōblauþan<sep />kvikvan skǭru;<br />
+			fjǫlþ mank bǫlva<sep /><lacuna /><br />
 			<lacuna /><sep /><lacuna />
 		</original>
 		<translation>
@@ -401,34 +401,34 @@
 		<comment>
 			<expl>The king</expl>: Hogni; cf. <chapterref>Atlakvitha</chapterref>, <stanzaref chapter="Atlakvitha">25</stanzaref>.
 			The manuscript marks line 3 as beginning a new stanza.
-			Most editors agree that there is a more or less extensive gap after stanza <sr>19</sr>, and some of them contend that the original ending of the poem is lost, stanzas <sr>19</sr>--<sr>21</sr> coming from a different poem, probably a lament closely following Sigurth's death.
+			Most editors agree that there is a more or less extensive gap after stanza <stanzaref chapter="Guthrunarhvot">19</stanzaref>, and some of them contend that the original ending of the poem is lost, stanzas <stanzaref chapter="Guthrunarhvot">19</stanzaref>–<stanzaref chapter="Guthrunarhvot">21</stanzaref> coming from a different poem, probably a lament closely following Sigurth's death.
 		</comment>
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			``Beittu, <conj>Sigurþr!</conj><sep />en blakka mar,<br />
-			hest enn harþfo/`ra<sep />la`t hinig rinna:<br />
-			sitr eigi he`r<sep />sno/r ne` do`ttir<br />
-			su` es Guþru`n<sep />ga_e`fi hnossir.
+			“Beittu, <conj>Sigurþr!</conj><sep />en blakka mar,<br />
+			hest enn harþfø̄ra<sep />lāt hinig rinna:<br />
+			sitr eigi hēr<sep />snør nē dōttir<br />
+			sū es Guþrūn<sep />gǣfi hnossir.
 		</original>
 		<translation>
-			``Bridle, Sigurth,<sep />thy steed so black,<br />
+			“Bridle, Sigurth,<sep />thy steed so black,<br />
 			Hither let run<sep />thy swift-faring horse;<br />
 			Here there sits not<sep />son or daughter<br />
 			Who yet to Guthrun<sep />gifts shall give.
 		</translation>
 		<comment>
-			The manuscript does not indicate line 1 as beginning a stanza, and it immediately follows the fragmentary line 3 of stanza <sr>18</sr>.
-			The resemblance between stanzas <sr>19</sr>--<sr>21</sr> and stanzas <stanzaref chapter="Sigurtharkvitha en skamma">64</stanzaref>--<stanzaref chapter="Sigurtharkvitha en skamma">69</stanzaref> of <chapterref>Sigurtharkvitha en skamma</chapterref> suggests that, in some other wise lost version of the story, Guthrun, like Brynhild, sought to die soon after Sigurth's death.
-			<expl>Thy steed</expl>: Guthrun's appeal to the dead Sigurth to ride back to earth to meet her is reminiscent of the episode related in <chapterref>Helgakvitha Hundingsbana II</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana II">39</stanzaref>--<stanzaref chapter="Helgakvitha Hundingsbana II">48</stanzaref> The promise mentioned in stanza <sr>20</sr> is spoken of elsewhere only in the <src>Volsungasaga</src> paraphrase of this passage.
+			The manuscript does not indicate line 1 as beginning a stanza, and it immediately follows the fragmentary line 3 of stanza <stanzaref chapter="Guthrunarhvot">18</stanzaref>.
+			The resemblance between stanzas <stanzaref chapter="Guthrunarhvot">19</stanzaref>–<stanzaref chapter="Guthrunarhvot">21</stanzaref> and stanzas <stanzaref chapter="Sigurtharkvitha en skamma">64</stanzaref>–<stanzaref chapter="Sigurtharkvitha en skamma">69</stanzaref> of <chapterref>Sigurtharkvitha en skamma</chapterref> suggests that, in some other wise lost version of the story, Guthrun, like Brynhild, sought to die soon after Sigurth's death.
+			<expl>Thy steed</expl>: Guthrun's appeal to the dead Sigurth to ride back to earth to meet her is reminiscent of the episode related in <chapterref>Helgakvitha Hundingsbana II</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana II">39</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">48</stanzaref> The promise mentioned in stanza <stanzaref chapter="Guthrunarhvot">20</stanzaref> is spoken of elsewhere only in the <source>Volsungasaga</source> paraphrase of this passage.
 		</comment>
 	</block>
 	<block class="stanza" number="20">
 		<original>
-			Minnsk þu`, Sigurþr!<sep />hvat vit ma_e`ltum,<br />
-			es a` <conj>beþjum</conj> vit<sep />ba_e`þi so~`tum,<br />
-			at myndir mi`n<sep />mo`þugr vitja<br />
-			halr o`r helju,<sep />en o`r heimi ek þi`n.
+			Minnsk þū, Sigurþr!<sep />hvat vit mǣltum,<br />
+			es ā <conj>beþjum</conj> vit<sep />bǣþi sǭtum,<br />
+			at myndir mīn<sep />mōþugr vitja<br />
+			halr ōr helju,<sep />en ōr heimi ek þīn.
 		</original>
 		<translation>
 			Remember, Sigurth,<sep />what once we said,<br />
@@ -439,27 +439,27 @@
 	</block>
 	<block class="stanza" number="21">
 		<original>
-			Hlaþiþ e`r, jarlar!<sep />eiki<conj>kesti,</conj><br />
-			la`tiþ und hilmi<sep />ha_e`stan verþa!<br />
-			megi brenna brjo`st<sep />bo~lvafullt eldr,<br />
-			<conj>þrungit</conj> hjarta,<sep />þiþni sorgir.''
+			Hlaþiþ ēr, jarlar!<sep />eiki<conj>kesti,</conj><br />
+			lātiþ und hilmi<sep />hǣstan verþa!<br />
+			megi brenna brjōst<sep />bǫlvafullt eldr,<br />
+			<conj>þrungit</conj> hjarta,<sep />þiþni sorgir.”
 		</original>
 		<translation>
 			Pile ye up, jarls,<sep />the pyre of oak,<br />
 			Make it the highest<sep />a hero e'er had;<br />
 			Let the fire burn<sep />my grief-filled breast,<br />
-			My sore-pressed heart,<sep />till my sorrows melt.''
+			My sore-pressed heart,<sep />till my sorrows melt.”
 		</translation>
 		<comment>
-			Perhaps something has been lost between stanzas <sr>20</sr> and <sr>21</sr>, or possibly stanza <sr>21</sr>, while belonging originally to the same poem as stanzas <sr>19</sr> and <sr>20</sr>, did not directly follow them.
+			Perhaps something has been lost between stanzas <stanzaref chapter="Guthrunarhvot">20</stanzaref> and <stanzaref chapter="Guthrunarhvot">21</stanzaref>, or possibly stanza <stanzaref chapter="Guthrunarhvot">21</stanzaref>, while belonging originally to the same poem as stanzas <stanzaref chapter="Guthrunarhvot">19</stanzaref> and <stanzaref chapter="Guthrunarhvot">20</stanzaref>, did not directly follow them.
 			<expl>Sore-pressed</expl>: a guess; a word seems to have been omitted in the original.
 		</comment>
 	</block>
 	<block class="stanza" number="22">
 		<original>
-			[Jo~rlum o~llum<sep /><conj>va`laþs</conj> batni,<br />
-			sno`tum o~llum<sep /><conj>sorgir minki,</conj><br />
-			at tregro`f <conj>þat</conj><sep /><conj>of</conj> talit va_e`ri.]
+			[Jǫrlum ǫllum<sep /><conj>vālaþs</conj> batni,<br />
+			snōtum ǫllum<sep /><conj>sorgir minki,</conj><br />
+			at tregrōf <conj>þat</conj><sep /><conj>of</conj> talit vǣri.]
 		</original>
 		<translation>
 			May nobles all<sep />less sorrow know,<br />
@@ -467,7 +467,7 @@
 			Since the tale of this<sep />lament is told.
 		</translation>
 		<comment>
-			Words of the poet's, like stanza <sr>1</sr>, and perhaps constituting a later addition.
+			Words of the poet's, like stanza <stanzaref chapter="Guthrunarhvot">1</stanzaref>, and perhaps constituting a later addition.
 			Many editors assume the loss of a line after line 3.
 			The meaning, of course, is that the poet hopes the story of Guthrun's woes will make all other troubles seem light by comparison.
 		</comment>
