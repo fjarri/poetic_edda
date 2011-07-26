@@ -34,7 +34,7 @@
 		Both stories travelled from the South, and presumably about the same time, so it is not unnatural that some confusion should have arisen.
 		At no time, however, was the connection particularly close so far as the actual episodes of the two stories were concerned.
 		In the two lays of Helgi Hundingsbane the relationship is established only by the statement that Helgi was the son of Sigmund and Borghild; Sigurth is not mentioned, and in the lay of Helgi the son of Hjorvarth there is no connection at all.
-		On the other hand, Helgi does not appear in any of the Eddic poems dealing directly with the Volsung stories, although in one passage of doubtful authenticity (cf. <chapterref>Reginsmol</chapterref>, <ref chapter="Reginsmol">introductory note</ref>) his traditional enemy, Hunding, does, represented by his sons.
+		On the other hand, Helgi does not appear in any of the Eddic poems dealing directly with the Volsung stories, although in one passage of doubtful authenticity (cf. <chapterref>Reginsmol</chapterref>, introductory note) his traditional enemy, Hunding, does, represented by his sons.
 		In the <source>Volsungasaga</source> the story of Helgi, including the fights with Hunding and Hothbrodd and the love affair with Sigrun, is told in chapters 8 and 9 without otherwise affecting the course of the narrative.
 		Here, as in the Helgi lays, Helgi is the son of Sigmund Volsungsson and Borghild; Sigurth, on the other hand, is the son of Sigmund and Hjordis, the latter being the daughter of King Eylimi.
 		Still another son, who complicates both stories somewhat, is Sinfjotli, son of Sigmund and his own sister, Signy.
@@ -55,7 +55,7 @@
 		Although the question is debatable, the longer of these poems (stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">1</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">11</stanzaref> and <stanzaref chapter="Helgakvitha Hjorvarthssonar">31</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">43</stanzaref>) seems in turn to have been compounded out of fragments of two or more Helgi poems.
 		The first five stanzas are a dialogue between a bird and Atli, one of Hjorvarth's followers, concerning the winning of Sigrlin, who is destined to be Hjorvarth's wife and Helgi's mother.
 		Stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">6</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">11</stanzaref> are a dialogue between Helgi and a Valkyrie (the accompanying prose so calls her, and identifies her as Svava, but there is nothing in the verse to prove this).
-		Stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">12</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">30</stanzaref> form a fairly consecutive unit, in which Atli, on guard over Helgi's ship, has a vigorous argument with a giantess, Hrimgerth, whence this section has sometimes been called the <source>Hrimgertharmol</source> (<source>Lay of Hrimgerth</source>).
+		Stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">12</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">30</stanzaref> form a fairly consecutive unit, in which Atli, on guard over Helgi's ship, has a vigorous argument with a giantess, Hrimgerth, whence this section has sometimes been called the <source>Hrimgertharmol (Lay of Hrimgerth)</source>.
 		The last section, stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">31</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">43</stanzaref>, is, again fairly consecutive, and tells of the death of Helgi following the rash oath of his brother, Hethin, to win Svava for himself.
 	</block>
 	<block class="text">
@@ -68,8 +68,8 @@
 	</block>
 	<block class="text">
 		It seems probable, rather, that as the Helgi tradition spread from its native Denmark through the Norse regions of the North and West, and became gradually interwoven, although not in essentials, with the other great hero cycle from the South, that of the Volsungs, a considerable number of poems dealing with Helgi were composed, at different times and in different places, reflecting varied forms of the story.
-		Many generations after wards, when Iceland's literary period had arrived, some zealous scribe committed to writing such poems or fragments of poems as he knew, piecing them together and annotating them on the basis of information which had reached him through other channels.
-		The prose notes to <chapterref>Helgakvitha Hundingsbana II</chapterref> frankly admit this patchwork process: a section of four stanzas (<stanzaref chapter="Helgakvitha Hjorvarthssonar">13</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">16</stanzaref>) is introduced with the phrase, “as is said in the Old Volsung Lay”; the final prose note cites an incident “told in the <source>Karuljoth</source> (<source>Lay of Kara</source>),” and a two-line speech is quoted “as it was written before in the <source>Helgakvitha</source>.”
+		Many generations afterwards, when Iceland's literary period had arrived, some zealous scribe committed to writing such poems or fragments of poems as he knew, piecing them together and annotating them on the basis of information which had reached him through other channels.
+		The prose notes to <chapterref>Helgakvitha Hundingsbana II</chapterref> frankly admit this patchwork process: a section of four stanzas (<stanzaref chapter="Helgakvitha Hjorvarthssonar">13</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">16</stanzaref>) is introduced with the phrase, “as is said in the Old Volsung Lay”; the final prose note cites an incident “told in the <source>Karuljoth (Lay of Kara)</source>,” and a two-line speech is quoted “as it was written before in the <source>Helgakvitha</source>.”
 	</block>
 	<block class="text">
 		The whole problem of the origin, character and home of the Helgi poems has been discussed in great detail by Bugge in his <source>Helge-Digtene i den Ældre Edda, Deres Hjem og Forbindelser</source>, which, as translated by W. H. Schofield under the title <source>The Home of the Eddic Poems</source>, is available for readers of English.
@@ -413,7 +413,7 @@
 			Who evil deed<sep />had never done thee.
 		</translation>
 		<comment>
-			With this stanza begins a new episode, that of Helgi's victory over King Hrothmar, who had killed his mother's father (cf. <proseref chapter="Helgakvitha Hjorvarthssonar" prose="p6_1">prose</proseref> after stanza <stanzaref chapter="Helgakvitha Hjorvarthssonar">5</stanzaref>).
+			With this stanza begins a new episode, that of Helgi's victory over King Hrothmar, who had killed his mother's father (cf. <proseref chapter="Helgakvitha Hjorvarthssonar" prose="p6_1">prose after stanza 5</proseref>).
 			It has been suggested, in consequence, that stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">10</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">11</stanzaref> may be a separate fragment.
 			The verse tells nothing of the battle, merely giving Helgi's reproaches to his father for having left Svafnir's death and the burning of Svavaland unavenged.
 		</comment>
@@ -468,7 +468,7 @@
 		<comment>
 			The manuscript does not indicate any break, but the episode which forms the basis of the <source>Hrimgertharmol</source> (stanzas <stanzaref chapter="Helgakvitha Hjorvarthssonar">12</stanzaref>–<stanzaref chapter="Helgakvitha Hjorvarthssonar">30</stanzaref>) clearly begins with the slaying of the giant Hati (“The Hateful”).
 			<expl>Hatafjord</expl>: “Hati's Fjord.”
-			<expl>Hrimgerth</expl>: “Frost Shrouded” (?).
+			<expl>Hrimgerth</expl>: “Frost-Shrouded” (?).
 		</comment>
 	</block>
 	<block class="stanza" number="12">
@@ -782,7 +782,7 @@
 		<translation>
 			“More thou lovest her<sep />who scanned the harbor,<br />
 			Last night among the men;<br />
-			[The gold-decked maid<sep />bore magic, rnethinks,<br />
+			[The gold-decked maid<sep />bore magic, methinks,<br />
 			When the land from the sea she sought,<br />
 			And fast she kept your fleet;]<br />
 			She alone is to blame<sep />that I may not bring<br />
@@ -931,7 +931,7 @@
 		</translation>
 		<comment>
 			The manuscript does not indicate a new section of the poem.
-			<expl>Eylimi</expl>: cf. note on <proseref chapter="Helgakvitha Hjorvarthssonar" prose="p10">prose</proseref> after stanza <stanzaref chapter="Helgakvitha Hjorvarthssonar">9</stanzaref>.
+			<expl>Eylimi</expl>: cf. note on <proseref chapter="Helgakvitha Hjorvarthssonar" prose="p10">prose after stanza 9</proseref>.
 			<expl>Valkyrie</expl>: here, as before, the annotator has apparently nothing but his own imagination on which to base his statement.
 			Svava in the ensuing stanzas certainly does not behave like a Valkyrie.
 			<expl>Norway</expl>: the annotator doubtless based this statement on the reference to Norway in line 2 of stanza <stanzaref chapter="Helgakvitha Hjorvarthssonar">31</stanzaref>.
@@ -979,7 +979,7 @@
 			Thy bride, for mine<sep />at the monarch's toast.”
 		</translation>
 		<comment>
-			The second line is conjectural; a line has; clearly been lost from this stanza, and various emendations have been suggested.
+			The second line is conjectural; a line has clearly been lost from this stanza, and various emendations have been suggested.
 		</comment>
 	</block>
 	<block class="stanza" number="33">
