@@ -345,21 +345,20 @@ Guthrunarhvot and Hamthesmol (planned)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Reviewed all chapters where 3th Gering's revision were used instead of 4th
-  and fixed differences
-* Add Guthrunarhvot chapter
-* Add Hamthesmol chapter
+  and fixed differences;
+* Added Guthrunarhvot chapter;
+* Added Hamthesmol chapter;
+* Did some proofreading (not very thorough)
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-Tasks for distant future
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Release, 1st revision (planned)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Add all remaining chapters;
 * Add support for different paper sizes (in particular, try to typeset a proper book);
 * Try to use footnotes instead of normal text for comments;
 * Probably make build script run xelatex too?
 * Check all overfull hboxes (I'm leaving this check for the future, becasue I do not
   know how long the stanza names in other chapters will be).
-* Proofread everything
 * Find a way to disable page breaks between comments and stanzas (seems to be the issue of longtable)
 * Find a way to not typeset \eddasepline if it is at the end of the page (can TeX even do that?)
 * Find a way to keep line separation in stanzas even when the line is too long
