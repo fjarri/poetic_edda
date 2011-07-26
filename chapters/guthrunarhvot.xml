@@ -230,7 +230,7 @@
 			For Svanhild then<sep />and thy sons as well.”
 		</translation>
 		<comment>
-			Line 1, identical with line 1 of stanza 4, may be interpolated here.
+			Line 1, identical with line 1 of stanza <stanzaref chapter="Guthrunarhvot">4</stanzaref>, may be interpolated here.
 			<expl>Spear-god</expl>: warrior, i.e., Hamther himself.
 			With this stanza the introductory <emph>hvot</emph> (“inciting”) ends, and stanza <stanzaref chapter="Guthrunarhvot">9</stanzaref> introduces the lament which forms the real body of the poem.
 		</comment>
@@ -406,13 +406,13 @@
 	</block>
 	<block class="stanza" number="19">
 		<original>
-			“Beittu, <conj>Sigurþr!</conj><sep />en blakka mar,<br />
+			Beittu, <conj>Sigurþr!</conj><sep />en blakka mar,<br />
 			hest enn harþfø̄ra<sep />lāt hinig rinna:<br />
 			sitr eigi hēr<sep />snør nē dōttir<br />
 			sū es Guþrūn<sep />gǣfi hnossir.
 		</original>
 		<translation>
-			“Bridle, Sigurth,<sep />thy steed so black,<br />
+			Bridle, Sigurth,<sep />thy steed so black,<br />
 			Hither let run<sep />thy swift-faring horse;<br />
 			Here there sits not<sep />son or daughter<br />
 			Who yet to Guthrun<sep />gifts shall give.
