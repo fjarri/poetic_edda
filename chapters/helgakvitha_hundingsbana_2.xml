@@ -15,7 +15,7 @@
 	</block>
 	<block class="text">
 		As the general nature of the Helgi tradition has been considered in the introductory note to <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, it is necessary here to discuss only the characteristics of this particular poem.
-		<ref chapter="Helgakvitha Hundingsbana II">The second Helgi Hundingsbane lay</ref> is in most respects the exact opposite of the first one: it is in no sense consecutive; it is not a narrative poem, and all or most of it gives evidence of relatively early composition, its origin probably going well back into the tenth century.
+		<ref chapter="Helgakvitha Hundingsbana II">The second Helgi Hundingsbane lay</ref> is in most respects the exact opposite of <ref chapter="Helgakvitha Hundingsbana I">the first one</ref>: it is in no sense consecutive; it is not a narrative poem, and all or most of it gives evidence of relatively early composition, its origin probably going well back into the tenth century.
 	</block>
 	<block class="text">
 		It is frankly nothing but a piece of, in the main, very clumsy patchwork, made up of eight distinct fragments, pieced together awkwardly by the annotator with copious prose notes.
@@ -35,11 +35,11 @@
 		Section VIII (stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">39</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">50</stanzaref>) deals with the return of the dead Helgi and Sigrun's visit to him in the burial hill.
 	</block>
 	<block class="text">
-		Sijmons maintains that sections I and II are fragments of the Kara lay mentioned by the annotator in his <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">concluding prose</proseref> note, and that sections IV, VI, and VIII are from a lost Helgi-Sigrun poem, while Section III comes, of course, from the “old Volsung lay.”
+		Sijmons maintains that sections I and II are fragments of the Kara lay mentioned by the annotator in his <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">concluding prose note</proseref>, and that sections IV, VI, and VIII are from a lost Helgi-Sigrun poem, while Section III comes, of course, from the “old Volsung lay.”
 		This seems as good a guess as any other, conclusive proof being quite out of the question.
 	</block>
 	<block class="text">
-		Were it not for sections, VI and VIII the poem would be little more than a battle-ground for scholars, but those two sections are in many ways as fine as anything in Old Norse poetry.
+		Were it not for sections VI and VIII the poem would be little more than a battle-ground for scholars, but those two sections are in many ways as fine as anything in Old Norse poetry.
 		Sigrun's curse of her brother for the slaying of Helgi and her lament for her dead husband, and the extraordinary vividness of the final scene in the burial hill, have a quality which fully offsets the baffling confusion of the rest of the poem.
 	</block>
 	<block class="sepline" />
@@ -97,7 +97,7 @@
 		<comment>
 			Helgi appears to have stayed with Hunding under the name of Hamal, but now, thinking himself safe, he sends word of who he really is.
 			<expl>Hunding</expl>: it has been suggested that the compiler may have inserted this name to fit what he thought the story ought to be, in place of Hæming, or even Hadding.
-			If stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">1</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">4</stanzaref> are a fragment of the <source>Karuljoth</source> (<source>Lay of Kara</source>), this latter suggestion is quite reasonable, for in that poem, which we do not possess, but which supplied material for the compilers of the <source>Hromundar saga Greipssonar</source>, Helgi appears as Helgi Haddingjaskati (cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">final prose</proseref> note).
+			If stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">1</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">4</stanzaref> are a fragment of the <source>Karuljoth (Lay of Kara)</source>, this latter suggestion is quite reasonable, for in that poem, which we do not possess, but which supplied material for the compilers of the <source>Hromundar saga Greipssonar</source>, Helgi appears as Helgi Haddingjaskati (cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">final prose note</proseref>).
 			Nothing beyond this one name connects stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">1</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">4</stanzaref> with Hunding.
 		</comment>
 	</block>
@@ -221,7 +221,7 @@
 			No division indicated in the manuscript.
 			<expl>Brunavagar</expl> (“Bruni's Sea”): mentioned only in this section.
 			<expl>Strand-slaughtering</expl>: a killing on the shore of cattle stolen in a raid.
-			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjorvarthssonar" prose="conclusion">concluding prose</proseref> note) represents a naive form of scholarship.
+			<expl>Hogni</expl> and <expl>Sigrun</expl>: cf. <chapterref>Helgakvitha Hundingsbana I</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana I">17</stanzaref> and note; the annotator's notion of Sigrun as the reincarnated Svava (cf. <chapterref>Helgakvitha Hjorvarthssonar</chapterref>, <proseref chapter="Helgakvitha Hjorvarthssonar" prose="conclusion">concluding prose note</proseref>) represents a naive form of scholarship.
 			There is nothing in stanzas <stanzaref chapter="Helgakvitha Hundingsbana II">5</stanzaref>–<stanzaref chapter="Helgakvitha Hundingsbana II">12</stanzaref> which clearly identifies Sigrun as a Valkyrie, or which, except for the last line of stanza <stanzaref chapter="Helgakvitha Hundingsbana II">12</stanzaref>, identifies the speaker as Sigrun.
 			Some editors, therefore, call her simply “the Valkyrie,” while Vigfusson, who thinks this section is also a remnant of the <source>Karuljoth</source>, calls her Kara.
 		</comment>
@@ -616,7 +616,7 @@
 		</original>
 		<translation>
 			“Maid, not fair<sep />is all thy fortune,<br />
-			The Norris I blame<sep />that this should be;<br />
+			The Norns I blame<sep />that this should be;<br />
 			This morn there fell<sep />at Frekastein<br />
 			Bragi and Hogni<sep />beneath my hand.
 		</translation>
@@ -1074,7 +1074,7 @@
 		</original>
 		<translation>
 			A hill was made in Helgi's memory.<br />
-			And when he	came to Valhall, then Othin bade him rule over every thing with himself.
+			And when he	came to Valhall, then Othin bade him rule over everything with himself.
 		</translation>
 		<comment>
 			<expl>Valhall</expl>, etc.: there is no indication as to where the annotator got this notion of Helgi's sharing Othin's rule.
@@ -1434,7 +1434,7 @@
 		<comment>
 			The attitude of the annotator is clearly revealed by his contempt for those who put any faith in such “old wives' folly” as the idea that men and women could be reborn.
 			As in the case of Helgi Hjorvarthsson, the theory of the hero's rebirth seems to have developed in order to unite around a single Helgi the various stories in which the hero is slain.
-			The <source>Lay of Kara</source> (<source>Karuljoth</source>) is lost, although, as has been pointed out, parts of the <chapterref>Helgakvitha Hundingsbana II</chapterref> may be remnants of it, but we find the main outlines of the story in the <source>Hromundar saga Greipssonar</source>, whose compilers appear to have known the <source>Karuljoth</source>.
+			The <source>Lay of Kara (Karuljoth)</source> is lost, although, as has been pointed out, parts of the <chapterref>Helgakvitha Hundingsbana II</chapterref> may be remnants of it, but we find the main outlines of the story in the <source>Hromundar saga Greipssonar</source>, whose compilers appear to have known the <source>Karuljoth</source>.
 			In the saga Helgi Haddingjaskati (Helgi the Haddings' Hero) is protected by the Valkyrie Kara, who flies over him in the form of a swan (note once more the Valkyrie swan-maiden confusion); but in his fight with Hromund he swings his sword so high that he accidentally gives Kara a mortal wound, where upon Hromund cuts off his head.
 			As this makes the third recorded death of Helgi (once at the hands of Alf, once at those of Dag, and finally in the fight with Hromund), the phenomenon of his rebirth is not surprising.
 			The points of resemblance in all the Helgi stories, including the one told in the lost <source>Karuljoth</source>, are sufficiently striking so that it is impossible not to see in them a common origin, and not to believe that Helgi the son of Hjorvarth, Helgi the son of Sigmund and Helgi the Haddings'-Hero (not to mention various other Helgis who probably figured in songs and stories now lost) were all originally the same Helgi who appears in the early traditions of Denmark.
