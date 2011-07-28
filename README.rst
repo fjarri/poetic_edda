@@ -410,3 +410,5 @@ Release, 1st revision (planned)
   - Grimnismol, 23-24
   - Guthrunarhvot, 16
   - Hamthesmol, 4-5, 14 (13 in Gering)
+  - Gripisspo 41-43 order in Gering and Bellows is different;
+    currently I am using Gering's order for original and Bellows' for translation
