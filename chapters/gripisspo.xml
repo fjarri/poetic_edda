@@ -67,7 +67,7 @@
 		The Volsungs become direct descendants of Othin; the gods are closely concerned with Fafnir's treasure, and so on.
 		Above all, the Norse story-tellers and poets changed the figure of Brynhild.
 		In making her a Valkyrie, sleeping on the flame-girt rock, they were never completely successful, as she persisted in remaining, to a considerable extent, the entirely human daughter of Buthli whom Sigurth woos for Gunnar.
-		This confusion, intensified by a mixing of names (cf. <chapterref>Sigrdrifumol</chapterref>, <ref chapter="Sigrdrifumol">introductory note</ref>), and much resembling that which existed in the parallel cases of Svava and Sigrun in the Helgi tradition, created difficulties which the Norse poets and story-tellers were never able to smooth out, and which have perplexed commentators ever since.
+		This confusion, intensified by a mixing of names (cf. <chapterref>Sigrdrifumol</chapterref>, introductory note), and much resembling that which existed in the parallel cases of Svava and Sigrun in the Helgi tradition, created difficulties which the Norse poets and story-tellers were never able to smooth out, and which have perplexed commentators ever since.
 	</block>
 	<block class="text">
 		Those who read the Sigurth poems in the <source>Edda</source>, or the story told in the <source>Volsungasaga</source>, expecting to find a critically accurate biography of the hero, will, of course, be disappointed.
@@ -194,8 +194,8 @@
 		</translation>
 		<comment>
 			<expl>Grani</expl>: Sigurth's horse.
-			According to the <source>Volsungasaga</source> his father was Sleipnir, Othin's eight-legged horse, and Othin him self gave him to Sigurth.
-			<ref chapter="Reginsmol">The introductory note</ref> to the <chapterref>Reginsmol</chapterref> tells a different story.
+			According to the <source>Volsungasaga</source> his father was Sleipnir, Othin's eight-legged horse, and Othin himself gave him to Sigurth.
+			The introductory note to the <chapterref>Reginsmol</chapterref> tells a different story.
 		</comment>
 	</block>
 	<block class="stanza" number="6">
@@ -383,7 +383,7 @@
 			Sigurth spake:
 		</translation_prelude>
 		<translation>
-			“To the warrior now<sep />in words. so wise,<br />
+			“To the warrior now<sep />in words so wise,<br />
 			Monarch noble,<sep />more shalt tell;<br />
 			I am Gjuki's guest,<sep />and thence I go:<br />
 			What the life<sep />that I shall lead?”
