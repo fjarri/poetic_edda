@@ -26,7 +26,7 @@
 		The two first Guthrun lays (I and II) are both laments, one for Sigurth's death and the other including both that and the lament over the slaying of her brothers; the lament theme is apparent in the third Guthrun lay and in the <chapterref>Guthrunarhvot</chapterref>.
 	</block>
 	<block class="text">
-		In their present forms the second Guthrun lay is undoubtedly older than he first; in the prose following the Brot the annotator refers to the “old” Guthrun lay in terms which can apply only to the second one in the collection.
+		In their present forms the second Guthrun lay is undoubtedly older than he first; in the prose following the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref> the annotator refers to the “old” Guthrun lay in terms which can apply only to the second one in the collection.
 		The shorter and “first” lay, therefore, can scarcely have been composed much before the year 1000, and may be somewhat later.
 		The poet appears to have known and made use of the older lament; stanza <stanzaref chapter="Guthrunarkvitha I">17</stanzaref>, for example, is a close parallel to stanza <stanzaref chapter="Guthrunarkvitha I">2</stanzaref> of the earlier poem; but whatever material he used he fitted into a definite poetic scheme of his own.
 		And while this particular poem is, as critics have generally agreed, one of the latest of the collection, it probably represents one of the earliest parts of the entire Sigurth cycle to take on verse form.
@@ -51,7 +51,7 @@
 			This is a poem about Guthrun.
 		</translation>
 		<comment>
-			The prose follows the concluding prose of the Brot without indication of a break, the heading standing immediately before stanza <stanzaref chapter="Guthrunarkvitha I">1</stanzaref>.
+			The prose follows the concluding prose of the <chapterref chapter="Brot af Sigurtharkvithu">Brot</chapterref> without indication of a break, the heading standing immediately before stanza <stanzaref chapter="Guthrunarkvitha I">1</stanzaref>.
 			<expl>Fafnir's heart</expl>: this bit of information is here quite without point, and it is nowhere else stated that Guthrun understood the speech of birds.
 			In the <source>Volsungasaga</source> it is stated that Sigurth gave Guthrun some of Fafnir's heart to eat, “and thereafter she was much grimmer than before, and wiser.”
 		</comment>
@@ -489,12 +489,12 @@
 			The stanza is obviously in bad shape; perhaps it represents two separate stanzas, or perhaps three of the lines are later additions.
 			<expl>Atli</expl>: Brynhild here blames her brother, following the frequent custom of transferring the responsibility for a murder (cf. <chapterref>Helgakvitha Hundingsbana II</chapterref>, <stanzaref chapter="Helgakvitha Hundingsbana II">33</stanzaref>), because he compelled her to marry Gunnar against her will, an idea which the poet seems to have gained from <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">32</stanzaref>–<stanzaref chapter="Sigurtharkvitha en skamma">39</stanzaref>.
 			These stanzas represent an entirely different version of the story, wherein Atli, attacked by Gunnar and Sigurth, buys them off by giving Gunnar his sister, Brynhild, as wife.
-			He seems to have induced the latter to marry Gunnar by falsely telling her that Gunnar was Sigurth (a rationalistic explanation of the interchange of forms described in the <source>Volsungasaga and</source> <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">37</stanzaref>–<stanzaref chapter="Gripisspo">39</stanzaref>).
+			He seems to have induced the latter to marry Gunnar by falsely telling her that Gunnar was Sigurth (a rationalistic explanation of the interchange of forms described in the <source>Volsungasaga</source> and <chapterref>Gripisspo</chapterref>, <stanzaref chapter="Gripisspo">37</stanzaref>–<stanzaref chapter="Gripisspo">39</stanzaref>).
 			In the present stanza Atli is made to do this out of desire for Sigurth's treasure.
 			<expl>Hunnish race</expl>: this may be merely an error (neither Gunnar nor Sigurth could properly have been connected in any way with Atli and his Huns), based on <chapterref>Sigurtharkvitha en skamma</chapterref>, wherein Sigurth appears more than once as the “Hunnish king.”
 			The North was very much in the dark as to the differences between Germans, Burgundians, Franks, Goths, and Huns, and used the words without much discrimination.
 			On the other hand, it may refer to Sigurth's appearance when, adorned with gold, he came with Gunnar to besiege Atli, in the alternative version of the story just cited (cf. <chapterref>Sigurtharkvitha en skamma</chapterref>, <stanzaref chapter="Sigurtharkvitha en skamma">36</stanzaref>).
-			<expl>Flame of the snake's bed</expl>: gold, so called because serpents and dragons were the' traditional guardians of treasure, on which they lay.
+			<expl>Flame of the snake's bed</expl>: gold, so called because serpents and dragons were the traditional guardians of treasure, on which they lay.
 		</comment>
 	</block>
 	<block class="stanza" number="25">

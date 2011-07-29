@@ -900,7 +900,7 @@
 			<textstanza class="original">
 				(aumlig vǣttr<sep />illu heilli.)
 			</textstanza>
-			On the other hand, line 1, identical with line 31 of stanza <stanzaref chapter="Sigurtharkvitha en skamma">17</stanzaref>, may well be a mere expansion of “Hogni spake,” and line 6 may have been introduced, with a slight variation, from line 5 of stanza <stanzaref chapter="Sigurtharkvitha en skamma">38</stanzaref>.
+			On the other hand, line 1, identical with line 1 of stanza <stanzaref chapter="Sigurtharkvitha en skamma">17</stanzaref>, may well be a mere expansion of “Hogni spake,” and line 6 may have been introduced, with a slight variation, from line 5 of stanza <stanzaref chapter="Sigurtharkvitha en skamma">38</stanzaref>.
 			<expl>Born again</expl>: this looks like a trace of Christian influence (the poem was composed well after the coming of Christianity to Iceland) in the assumption that if Brynhild killed herself she could not be “born again” (cf. <proseref chapter="Helgakvitha Hundingsbana II" prose="conclusion">concluding prose</proseref> to <chapterref>Helgakvitha Hundingsbana II</chapterref>).
 		</comment>
 	</block>
@@ -1046,7 +1046,7 @@
 			<textstanza class="original">
 				(mun hana Grimhildr<sep />gø̄la ganga.)
 			</textstanza>
-			Gering suggests a loss of three lines, and joins lines 3–4 with stanza 54.
+			Gering suggests a loss of three lines, and joins lines 3–4 with stanza <stanzaref chapter="Sigurtharkvitha en Skamma">54</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="54">

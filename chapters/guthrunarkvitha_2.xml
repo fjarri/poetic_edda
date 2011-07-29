@@ -178,13 +178,13 @@
 	</block>
 	<block class="stanza" number="9">
 		<original>
-			“Hvī mēr, Hǫgni!<sep />harma slīka<br />
+			Hvī mēr, Hǫgni!<sep />harma slīka<br />
 			viljalaussi<sep />vill <conj>of</conj> segja?<br />
 			þitt skyli hjarta<sep />hrafnar slīta<br />
 			vīþ lǫnd yfir,<sep />an vitir manna.”
 		</original>
 		<translation>
-			“Why dost thou, Hogni,<sep />such a horror<br />
+			Why dost thou, Hogni,<sep />such a horror<br />
 			Let me hear,<sep />all joyless left?<br />
 			Ravens yet<sep />thy heart shall rend<br />
 			In a land that never<sep />thou hast known.”
@@ -439,7 +439,8 @@
 			To bring they tried,<sep />but I trusted them not.
 		</translation>
 		<comment>
-			<expl>Each</expl>: the reference is presumably to Gunnar and Hogni, and perhaps also Grimhild, I suspect that this stanza belongs before stanza <stanzaref chapter="Guthrunarkvitha II">20</stanzaref>.
+			<expl>Each</expl>: the reference is presumably to Gunnar and Hogni, and perhaps also Grimhild.
+			I suspect that this stanza belongs before stanza <stanzaref chapter="Guthrunarkvitha II">20</stanzaref>.
 		</comment>
 	</block>
 	<block class="stanza" number="22">
@@ -755,7 +756,7 @@
 		<comment>
 			The stanza describes the journey to Atli's home, and sundry unsuccessful efforts have been made to follow the travellers through Germany and down the Danube.
 			<expl>Foreign women</expl>: slaves.
-			Line 5, which the manuscript marks as be ginning a stanza, is probably spurious.
+			Line 5, which the manuscript marks as beginning a stanza, is probably spurious.
 		</comment>
 	</block>
 	<block class="stanza" number="37">
