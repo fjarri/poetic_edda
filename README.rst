@@ -340,9 +340,9 @@ Atlamol en Grönlenzku (20 July 2011)
 * Added Atlamol en Grönlenzku chapter;
 * Hymiskvitha: fixed typesetting of stanzas in comments
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Guthrunarhvot and Hamthesmol (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Release candidate (30 July 2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Reviewed all chapters where 3th Gering's revision were used instead of 4th
   and fixed differences;
@@ -350,9 +350,9 @@ Guthrunarhvot and Hamthesmol (planned)
 * Added Hamthesmol chapter;
 * Did some proofreading (not very thorough)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Release, 1st revision (planned)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+Release (planned)
+~~~~~~~~~~~~~~~~~
 
 * Add support for different paper sizes (in particular, try to typeset a proper book);
 * Try to use footnotes instead of normal text for comments;
