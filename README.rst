@@ -402,7 +402,7 @@ Release, 1st revision (planned)
   - Fafnismol, 29
 * Grimnismol, 33, comment: Latex considers '.' after the second 'Mss.' as
   a final dot in the sentence. Can I prevent it from doing that?
-  Same in st. 43, 'Ms.'
+  Same in st. 43, 'Ms.'. Same in Guthr. III, introduction ('St. Olaf').
 * Left variant from 3th Gering revision for:
   - Hovamol, 61
   - Vafthruthnismol, 54
@@ -413,3 +413,8 @@ Release, 1st revision (planned)
   - Hamthesmol, 4-5, 14 (13 in Gering)
   - Gripisspo 41-43 order in Gering and Bellows is different;
     currently I am using Gering's order for original and Bellows' for translation
+  - Sigurtharkvitha en Skamma 42-44 (different order of lines)
+  - Oddrunargratr, 10-20, 24 (order of lines may be changed in the original to match Bellows)
+* Change "ragna rök" to "ragna ro/k" in Bellows' text? (in Voluspo, Atlamol and others)
+* Check <textprose> entries --- do I need all of them?
+  (for example, I do not add Volsungasaga original anywhere other than Atlamol)
