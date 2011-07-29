@@ -399,6 +399,7 @@ Release, 1st revision (planned)
   them by <block class="comment"> (and corresponding references)
   And probably change the style, to make it look more distinctive.
   - Helgakvitha Hundingsbana II, 27
+  - Fafnismol, 29
 * Grimnismol, 33, comment: Latex considers '.' after the second 'Mss.' as
   a final dot in the sentence. Can I prevent it from doing that?
   Same in st. 43, 'Ms.'
