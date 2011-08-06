@@ -354,6 +354,9 @@ Release candidate (30 July 2011)
 Release (planned)
 ~~~~~~~~~~~~~~~~~
 
+* Add all missing text from paperback (i.e., Acknowledgement and
+  list of proper names)
+
 * Add support for different paper sizes (in particular, try to typeset a proper book);
 * Try to use footnotes instead of normal text for comments;
 * Probably make build script run xelatex too?
@@ -365,8 +368,6 @@ Release (planned)
   (or just tune the column widths to avoid oversized hboxes in stanzas)
 * Do not break the line after ndash separating two numbers
 * Refactor scripts
-* Add all missing text from paperback (i.e., Acknowledgement and
-  list of proper names)
 * Make the vertical space inside the stanza before <stanzaprelude>
   a bit bigger than between two normal lines.
   See any <stanzaprelude> usage in Bellows book.
