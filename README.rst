@@ -3,7 +3,7 @@ Poetic Edda diglot
 ==================
 
 This project aims at producing the book with parallel Old Norse and English texts of Poetic Edda.
-I am using the `translation by Henry Adams Bellows <http://www.archive.org/details/poeticedda00belluoft>`_,
+I am using the `translation by Henry Adams Bellows <https://archive.org/details/PoeticEddaBellows>`_,
 because it is considered to be quite accurate and has detailed comments.
 As for the original text, at the moment of writing this I am using
 `"Die Lieder der älteren Edda" <http://www.archive.org/details/dieliederderlt00hilduoft>`_
